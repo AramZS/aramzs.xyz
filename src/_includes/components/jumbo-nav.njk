@@ -1,7 +1,6 @@
 {% set buttonBoard = collections.lists | whereKeyEquals('slug', 'button-board') | first %}
 {% set grouped = collections.post | excludeStubs | groupByKey('contentType') %}
 {% set stubs = collections.post | onlyGrowthStages('stub') %}
-{% set weekInReview = collections.contentTags | whereKeyEquals('slug', 'week-in-review') | first | values('items') %}
 {% set antilibrary = bookwyrm | whereKeyEquals('shelf', 'to-read') %}
 {% set read = bookwyrm | whereKeyEquals('shelf', 'read') %}
 {% set resources = collections.resources | groupByKey('resourceType') %}
@@ -20,7 +19,6 @@
         </dl>
         <dl>
             <dt>Lists/Collections</dt>
-            <dd><a href="/topic/week-in-review/"><span>{{ weekInReview.length }}</span><span>Week In Review</span></a></dd>
             <dd><a href="/lists/film-and-tv/"><span>{{ movies.length }}</span><span>Films & TV Series</span></a></dd>
             <dd><a href="/lists/listened-to/"><span>*</span><span>Listened To</span></a></dd>
             <dd><a href="/books"><span>{{ read.length }}</span><span>My Bookshelf</span></a></dd>
