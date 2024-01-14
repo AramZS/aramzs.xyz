@@ -53,6 +53,11 @@ module.exports = {
 		title: "Forums & Communities",
 		description: "List of Forums, communities and online hubs",
 	},
+  
+  'list/search-engines': {
+    title: 'Search Engines',
+    description: 'List of off-brand search engines of varying degrees of usefulness.'
+  },
 
 	"list/in-the-news": {
 		title: "In the News",
