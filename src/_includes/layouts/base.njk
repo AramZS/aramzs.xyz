@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"/>
 
     <!-- Feeds -->
-    <link rel="alternate" href="{{ metadata.feedUrl }}" type="application/atom+xml" title="Simon Dann's Digital Garden">
+    <link rel="alternate" href="{{ metadata.feedUrl }}" type="application/atom+xml" title="Aram Zucker-Scharff's Microblog">
     
-    <!-- Mastodon Verification -->
-    <link rel="me" href="https://notacult.social/@carbontwelve" title="Mastodon: Not A Cult"/>
-    <link rel="me" href="https://phpc.social/@carbontwelve" title="Mastodon: PHPC"/>
-
+    <!-- Identity Verification -->
+	{%- for rel in me.rels -%}
+		    <link rel="me" href="{{rel.href}}" title="{{rel.title}}"/>
+ 	{% endfor %}
     <!-- SEO -->
     <title>{{ title or metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}"/>
@@ -21,7 +21,7 @@
     {% block head %}{% endblock %}
 
     <!-- Open Graph -->
-    <meta property="og:locale" content="en_GB"/>
+    <meta property="og:locale" content="en_US"/>
     <meta property="og:site_name" content="{{ metadata.title }}"/>
     <meta property="og:title" content="{{ title or metadata.title }}"/>
     <meta property="og:type" content="{{ ogtype or 'website' }}"/>
@@ -73,7 +73,7 @@
     <link rel="preload" href="/fonts/iosevka-etoile-bolditalic.subset.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/fonts/iosevka-etoile-italic.subset.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="stylesheet" href="/styles/main.css"/>
-    <script data-goatcounter="https://photogabble.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+    <script data-domain="aramzs.xyz" src="https://plausible.io/js/plausible.js"></script>
     <script src="/main.js"></script>
 </head>
 <body>
