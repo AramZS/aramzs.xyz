@@ -12,6 +12,8 @@
 	{%- for rel in me.rels -%}
 		    <link rel="me" href="{{rel.href}}" title="{{rel.title}}"/>
  	{% endfor %}
+      <!-- Webmentions -->
+    <link rel="webmention" href="https://webmention.io/aramzs.xyz/webmention" />
     <!-- SEO -->
     <title>{{ title or metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}"/>
