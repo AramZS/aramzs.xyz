@@ -66,6 +66,7 @@
     "cheerio": "^1.0.0-rc.12",
     "csv-parse": "^5.5.5",
     "dotenv": "^16.4.4",
+    "colorthief": "^2.4.0",
     "enquirer": "^2.3.6",
     "esbuild": "^0.20.2",
     "get-contrast": "^3.0.0",
