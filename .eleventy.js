@@ -4,6 +4,7 @@ const { slugify } = require("./lib/filters");
 const shortcodes = require("./lib/shortcodes");
 const transforms = require("./lib/transforms");
 const ObjectCache = require("./lib/helpers/cache");
+const fs = require("fs");
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
@@ -130,6 +131,36 @@ module.exports = function (eleventyConfig) {
 		eleventyConfig.addShortcode(shortCodeName, shortcodes[shortCodeName]);
 	});
 
+	// Webmanifest stuff
+	var sharp = require("sharp");
+	var promiseSet = [];
+	[
+		["favicon-16x16.png", [16, 16]],
+		["favicon-32x32.png", [32, 32]],
+		["android-chrome-192x192.png", [192, 192]],
+		["android-chrome-512x512.png", [512, 512]],
+		["apple-touch-icon.png", [180, 180]],
+		["mstile-150x150.png", [150, 150]],
+	].forEach((imageTarget) => {
+		if (!fs.existsSync(`./public/favicon/${imageTarget[0]}`)) {
+			promiseSet.push(
+				new Promise((resolve, reject) => {
+					sharp("./public/favicon/favicon-square-close.png")
+						.resize(...imageTarget[1])
+						.png()
+						.toFile(`./public/favicon/${imageTarget[0]}`)
+						.then((data) => {
+							resolve(data);
+						})
+						.catch((err) => {
+							console.log("favicon maker", err);
+							reject(err);
+						});
+				})
+			);
+		}
+	});
+
 	//
 	// Pass through
 	//
@@ -141,6 +172,7 @@ module.exports = function (eleventyConfig) {
 		_redirects: "_redirects",
 		"public/og-image": "img/og-image",
 		"public/main.js": "main.js",
+		"public/htmx.min.js": "htmx.min.js",
 		CNAME: "CNAME",
 		".nojekyll": ".nojekyll",
 	});
