@@ -3,6 +3,7 @@ const collections = require("./lib/collections");
 const { slugify } = require("./lib/filters");
 const shortcodes = require("./lib/shortcodes");
 const transforms = require("./lib/transforms");
+const asyncFilters = require('./lib/async-filters');
 const ObjectCache = require("./lib/helpers/cache");
 const fs = require("fs");
 const pluginDrafts = require("./eleventy.config.drafts.js");
@@ -152,6 +153,11 @@ module.exports = function (eleventyConfig) {
 		eleventyConfig.addFilter(filterName, filters[filterName]);
 	});
 
+
+  Object.keys(asyncFilters).forEach((filterName) => {
+    eleventyConfig.addAsyncFilter(filterName, asyncFilters[filterName]);
+  });
+  
 	for (const [name, collection] of Object.entries(
 		collections(eleventyConfig)
 	)) {
@@ -219,15 +225,16 @@ module.exports = function (eleventyConfig) {
 
 	eleventyConfig.setLibrary("md", require("./lib/helpers/markdown"));
 
+
   eleventyConfig.on('eleventy.after', async ({ dir, results, runMode, outputMode }) => {
     // Run me after the build ends
   });
 
-	return {
-		dir: {
-			input: "src",
-			output: "_site",
-		},
-		//templateFormats: ["html", "liquid", "njk", "11ty.js"],
-	};
+  return {
+    dir: {
+      input: "src",
+      output: "_site"
+    }
+  };
+
 };
