@@ -8,7 +8,7 @@ subTitle: What I have been listening to recently
 
 {% set musicPreview = collections.musicPreview.items %}
 {% block pageContent %}
-    <section>
+    <section class="full-width">
         <header><h2>Podcasts</h2></header>
 
         <script>
@@ -338,7 +338,7 @@ subTitle: What I have been listening to recently
         {% endeach %}
     </section>
 
-    <section>
+    <section class="full-width">
         <header><h2>Music</h2></header>
         <ul>
         {%- for item in musicPreview -%}

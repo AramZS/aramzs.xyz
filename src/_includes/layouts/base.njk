@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"/>
 
     <!-- Feeds -->
-    <link rel="alternate" href="{{ metadata.feedUrl }}" type="application/atom+xml" title="Aram Zucker-Scharff's Microblog">
+    <link rel="alternate" href="{{ metadata.feedUrl }}" type="application/atom+xml" title="Aram Zucker-Scharff's Digital Garden">
     
     <!-- Identity Verification -->
 	{%- for rel in me.rels -%}
@@ -79,6 +79,7 @@
     <link rel="preload" href="/fonts/iosevka-etoile-italic.subset.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="stylesheet" href="/styles/main.css"/>
     <script data-domain="aramzs.xyz" src="https://plausible.io/js/plausible.js"></script>
+    {% block stylesheet %}{% endblock %}
     <script src="/main.js"></script>
 </head>
 <body>
@@ -105,8 +106,8 @@
     </nav>
 </aside>
 
-<header id="jumbo-nav">
-    <div class="container">
+<header id="jumbo-nav" class="content-grid">
+    <div class="breakout">
         {% block header %}
             {{ header | safe }}
         {% endblock %}
@@ -114,14 +115,11 @@
     {% include "../components/jumbo-nav.njk" %}
 </header>
 
-<main class="container">
+<main {{ ('class="'+ mainClass +'"') | safe if mainClass }}>
     {% block content %}
         {{ content | safe }}
     {% endblock %}
 </main>
-
-{% include "components/git-history.njk" %}
-
 <footer class="content-grid">
     <nav class="full-width">
         <div class="breakout">
@@ -144,7 +142,7 @@
         </div>
     </nav>
 
-    <nav class="container">
+    <nav class="breakout">
         <dl>
             <dt>Me</dt>
             <dd><a href="/about/" title="About me">About Me</a></dd>
@@ -201,7 +199,7 @@
         </dl>
     </nav>
 
-    <nav class="container">
+    <nav class="breakout">
         <p>
             CC {{ build.timestamp | dateToFormat('yyyy') }} Aram Zucker-Scharff. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Licensed CC BY-NC 4.0">CC BY-NC-SA 4.0</a>. | <a href="https://github.com/AramZS/aramzs.xyz">src</a> | <a href="/legal/privacy">cookies &amp; privacy</a>.<br/>
             <small>

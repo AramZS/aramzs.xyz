@@ -19,7 +19,7 @@
 {% endblock %}
 
 {% block content %}
-    <article {{ ('class="'+ headingClass +'"') | safe if headingClass }} {% if templateName %}id="{{templateName}}"{% endif %} data-source="src/_includes/layouts/page.njk">
+    <article  class="content-grid {{ headingClass | safe }}" {% if templateName %}id="{{templateName}}"{% endif %} data-source="src/_includes/layouts/page.njk">
         <header>
             <div>
                 {% block pageHeaderBefore %}
