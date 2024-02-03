@@ -114,9 +114,12 @@
         {{ content | safe }}
     {% endblock %}
 </main>
-<footer>
-    <nav>
-        <div class="container">
+
+{% include "components/git-history.njk" %}
+
+<footer class="content-grid">
+    <nav class="full-width">
+        <div class="breakout">
             <dl>
                 <dt><a href="/nyc" title="New York City Work" class="no-underline">🌃</a> Aram Zucker-Scharff</dt>
                 <dd><a href="/topic" title="All topics in use">Topics</a></dd>
