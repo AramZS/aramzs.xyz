@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340963,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20615912
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 32
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.aPZMRJHUnz4Xo-4uQgxF5g",
+                "title": "Breathing Machine: A Memoir of Computers",
+                "title_without_series": "Breathing Machine: A Memoir of Computers",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20615912-breathing-machine",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.99,
+                "ratings_count": 271,
+                "description": "<p>What if there were a world bigger than the one you can touch?</p><p>Leigh Alexander recounts a stormy adolescence alongside the mysterious early internet. From the surrealism of early video games to raw connections made over primitive newsgroups, from sex bots to Sailor Moon, Alexander intimately captures a dark frontier age.</p><p>Leigh Alexander writes about video games, interactive entertainment, and various other things. As longtime editor-at-large for game industry site Gamasutra, she contributes editorial, criticism, trend analysis and interviews with developers. Her monthly column in Edge magazine deals with cultural issues surrounding the business of games and the people who play them. Her column at Kotaku is weirder. In a good way, probably.</p><p>Her features appear at Polygon and Boing Boing, and she likes to write about feelings and social media at Thought Catalog. She used to be NYLON Guys’ games editor, did a biweekly column at Vice’s Creators Project focused on neat trends in independent game development, and has contributed to Slate, The New Inquiry, Wired, The New Statesman, The Guardian, the Columbia Journalism Review, Paste, Rock Paper Shotgun, and numerous others.</p><p>She frequently speaks at conferences with particular attention to games for social good, feminism and increased diversity in tech spaces, where she usually talks with an excess of speed. She swears it’s driven by enthusiasm. Back in the day she once led an entire conference summit on avatar-based interaction in virtual spaces.</p>",
+                "authors": {
+                    "author": {
+                        "id": 4550110,
+                        "name": "Leigh Alexander",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4550110.Leigh_Alexander",
+                        "average_rating": 3.89,
+                        "ratings_count": 1246,
+                        "text_reviews_count": 211
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 39898313,
+                    "uri": "kca://work/amzn1.gr.work.v1.-HIPAqsYkp_83Pfusr4kJQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452281021
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:05:36 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710709648,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:05:36 -0700 2014",
+            "date_updated": "Sat Jun 07 06:05:36 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340963",
+            "link": "https://www.goodreads.com/review/show/960340963",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "name": "Blackstone Audiobooks",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Prestige",
+            "id": "1691307",
+            "author": "Christopher Priest, Simon Vance",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1439955810000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1691307",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Blackstone Audiobooks",
+            "tags": [
+                "Audio CD",
+                "Blackstone Audiobooks",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0786168412",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780786168415",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "1691307",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Cat Who Walks through Walls: A Comedy of Manners",
+            "id": "2264798",
+            "author": "Robert A. Heinlein",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213669358000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Cat Who Walks through Walls: A Comedy of Manners: Rating - 3/5",
+                    "date": 1213669358000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2264798",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Blackstone Audiobooks",
+            "tags": [
+                "Audiobook",
+                "Blackstone Audiobooks",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1433212900",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781433212901",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "2264798",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Cat Who Walks through Walls: A Comedy of Manners",
+            "id": 2264798,
+            "author": "Robert A. Heinlein",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2264798",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Blackstone Audiobooks",
+            "tags": [
+                "Audiobook",
+                "Blackstone Audiobooks",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 2264798,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

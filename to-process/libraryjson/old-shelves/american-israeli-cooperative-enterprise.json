@@ -1,0 +1,104 @@
+{
+    "name": "American-Israeli Cooperative Enterprise",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Myths and Facts: A Guide to the Arab-Israeli Conflict",
+            "id": "45016",
+            "author": "Mitchell G. Bard",
+            "date_finished": 1319068800000,
+            "notes": [],
+            "date_started": 1351350677000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Myths and Facts: A Guide to the Arab-Israeli Conflict: Rating - 5/5",
+                    "date": 1319068800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/45016",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "American-Israeli Cooperative Enterprise",
+            "tags": [
+                "Paperback",
+                "American-Israeli Cooperative Enterprise",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0971294542",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780971294547",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "45016",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Myths and Facts: A Guide to the Arab-Israeli Conflict",
+            "id": 45016,
+            "author": "Mitchell G. Bard",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/45016",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "American-Israeli Cooperative Enterprise",
+            "tags": [
+                "Paperback",
+                "American-Israeli Cooperative Enterprise",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 45016,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

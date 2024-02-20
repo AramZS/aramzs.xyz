@@ -1,0 +1,102 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520216914,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16179601
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9780991739301,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UsM2B3nqCjhZr6-TRCYxyA",
+                "title": "The Dreamer Genome",
+                "title_without_series": "The Dreamer Genome",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354198138l/16179601._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354198138l/16179601._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16179601-the-dreamer-genome",
+                "num_pages": 300,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Black Stone Publishing",
+                "publication_day": 27,
+                "publication_year": 2012,
+                "publication_month": 11,
+                "average_rating": 4.22,
+                "ratings_count": 18,
+                "description": "In 2020, a passionate scientist conducts secret genetic manipulations to give human fetuses the ability to survive long periods of hibernation. He is supported by a pharmaceutical tycoon who believes in his genius and realizes the implications of his work: Cryogenics; to prolong life; a one-way time machine to the future; unlimited financial potential to the company who develops and markets such a long coveted dream.<br /><br />When the clandestine lab is voluntarily destroyed to avoid discovery, test subjects are scattered and raised in extremely different conditions. Years later, only a handful possess the right genetic material to become the highly prized, freezable astronauts of the 21st century. When an eccentric billionaire finds out he is one of them, his personal agenda threatens to upset carefully elaborated plans spanning decades.<br /><br />Written with rigorous attention to the limitations of the harsh space environment in the tradition of Arthur C. Clarke, with a blend of Michael Crichton’s use of untested scientific theories, the novel takes readers on a wild ride to the near future over a period of 30 years.",
+                "authors": {
+                    "author": {
+                        "id": 6590978,
+                        "name": "Steve S. Grant",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1354235891p5/6590978.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1354235891p2/6590978.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6590978.Steve_S_Grant",
+                        "average_rating": 3.99,
+                        "ratings_count": 79,
+                        "text_reviews_count": 23
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 22033025,
+                    "uri": "kca://work/amzn1.gr.work.v1.ICDo0pAu5fRyn5WhGgRuIw"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 351871280,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:56:41 -0800 2013",
+            "date_updated": "Mon Jan 28 19:56:41 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520216914",
+            "link": "https://www.goodreads.com/review/show/520216914",
+            "owned": 0
+        }
+    }
+}

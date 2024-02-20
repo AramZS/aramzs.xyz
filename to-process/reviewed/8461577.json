@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960346784,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8461577
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 13
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.v2PIPAOxFKrRaUh8stZrkg",
+                "title": "A Memory of Wind",
+                "title_without_series": "A Memory of Wind",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329056270l/8461577._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329056270l/8461577._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8461577-a-memory-of-wind",
+                "num_pages": 41,
+                "format": {},
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 8,
+                "publication_year": 2010,
+                "publication_month": 6,
+                "average_rating": 3.81,
+                "ratings_count": 637,
+                "description": "The heroes are eager to sail to Troy for war, but the wind is still. To fill their sails and set out, they must sacrifice Agamemnon's daughter Iphigenia--and how does a human girl become the wind?  The starkness and psychological insight of Rachel Swirsky’s Tor.com story earned it a place among the finalists for the 2010 Nebula Award.   Rachel Swirsky's short fiction has appeared in Weird Tales, Fantasy Magazine, and Subterranean Magazine, among others, and has been collected in Year's Best anthologies edited by Rich Horton, Jonathan Strahan, and the VanderMeers. She is also the submissions editor of Podcastle, an audio fantasy magazine.",
+                "authors": {
+                    "author": {
+                        "id": 2919603,
+                        "name": "Rachel Swirsky",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294348378p5/2919603.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294348378p2/2919603.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2919603.Rachel_Swirsky",
+                        "average_rating": 3.78,
+                        "ratings_count": 13970,
+                        "text_reviews_count": 2617
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 13115207,
+                    "uri": "kca://work/amzn1.gr.work.v1.FF-if0q455-VLhbdNB8G0A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452288254
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:15:16 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:15:16 -0700 2014",
+            "date_updated": "Thu May 30 19:12:55 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960346784",
+            "link": "https://www.goodreads.com/review/show/960346784",
+            "owned": 0
+        }
+    }
+}

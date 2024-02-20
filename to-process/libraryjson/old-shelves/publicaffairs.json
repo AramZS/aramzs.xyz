@@ -1,0 +1,141 @@
+{
+    "name": "PublicAffairs",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate",
+            "id": "28251812",
+            "author": "Zoe  Quinn",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1580161175000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/28251812",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "PublicAffairs",
+            "tags": [
+                "Hardcover",
+                "PublicAffairs",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1501135376",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781501135378",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "28251812",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "935 Lies: The Future of Truth and the Decline of America's Moral Integrity",
+            "id": "22574429",
+            "author": "Charles Lewis",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086671000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22574429",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "PublicAffairs",
+            "tags": [
+                "Kindle Edition",
+                "PublicAffairs",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "22574429",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Signals Are Talking: Why Today’s Fringe Is Tomorrow’s Mainstream",
+            "id": "29502380",
+            "author": "Amy   Webb",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086478000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/29502380",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "PublicAffairs",
+            "tags": [
+                "Hardcover",
+                "PublicAffairs",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1610396669",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781610396660",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "29502380",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

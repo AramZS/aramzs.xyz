@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520209325,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 302470
+                },
+                "isbn": 743439961,
+                "isbn13": 9780743439961,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 25
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qphSqmAHHOa1CcrS1sD2NQ",
+                "title": "Have Tech, Will Travel (Starfleet Corps of Engineers, #1)",
+                "title_without_series": "Have Tech, Will Travel",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/302470.Have_Tech_Will_Travel",
+                "num_pages": 392,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": 4,
+                "publication_year": 2002,
+                "publication_month": 2,
+                "average_rating": 3.8,
+                "ratings_count": 368,
+                "description": "Follows a rapid-response team of the Starfleet Corps of Engineers: this group solves engineering problems in space that are too complicated, or take too much time, for a larger starship crew to handle. The action centers on the lower-decks crew of the USS da Vinci, a Saber-class ship that serves as the transportation of an SCE team. The SCE reports to Captain Montgomery Scott, who serves as their liaison with Starfleet Command and also pitches in when his vast store of knowledge can be of help.<br />1] HAVE TECH, WILL TRAVEL (S.C.E./STARFLEET CORPS OF ENGINEERS) Anthology series, Book 1. Join Starfleet's miracle workers for a wrenching journey through the new frontier! Need a gigantic, marauding starship explored? Is your global computer system starting to break down? Call in the crack team from the Starfleet Corps of Engineers. Overseen by Captain Montgomery Scott from his office at Starfleet Headquarters, the S.C.E. can build, rebuild, program, reprogram, assemble, reassemble, or just figure out everything from alien replicators to doomsday machines. Just don't expect them to perform miracles, unless they absolutely have to. Captain David Gold, his first officer Commander Sonya Gomez, and the crew of the U.S.S. da Vinci put their lives on the line to save a colony world threatened by a deadly alien and rescue a ship trappedin the ravages of interphase.<br />Contents:<br /> The Belly of the Beast [Star Trek: Starfleet Corps of Engineers • 1] (2000) / novella by Dean Wesley Smith<br /> Fatal Error [Star Trek: Starfleet Corps of Engineers • 2] / novella by Keith R. A. DeCandido<br /> Hard Crash [Star Trek: Starfleet Corps of Engineers • 3] / novella by Christie Golden<br /> Interphase: Book One [Star Trek: Starfleet Corps of Engineers • 4] / novella by Kevin Dilmore and Dayton Ward<br /> About the Authors (Have Tech, Will Travel) • essay by editor<br /><br />.",
+                "authors": {
+                    "author": {
+                        "id": 43697,
+                        "name": "Keith R.A. DeCandido",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1449800282p5/43697.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1449800282p2/43697.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/43697.Keith_R_A_DeCandido",
+                        "average_rating": 3.94,
+                        "ratings_count": 49461,
+                        "text_reviews_count": 3646
+                    }
+                },
+                "published": 2002,
+                "work": {
+                    "id": 293529,
+                    "uri": "kca://work/amzn1.gr.work.v1.jApeIamzvSWLnS5gl8HzJQ"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:48:21 -0800 2013",
+            "date_updated": "Mon Jan 28 19:48:21 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520209325",
+            "link": "https://www.goodreads.com/review/show/520209325",
+            "owned": 0
+        }
+    }
+}

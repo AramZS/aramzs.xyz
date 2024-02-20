@@ -1,0 +1,824 @@
+{
+    "name": "O'Reilly Media",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
+            "id": "34616805",
+            "author": "Camille Fournier",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1554264436000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34616805",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34616805",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "You Don't Know JS: Scope & Closures",
+            "id": "21461078",
+            "author": "Kyle Simpson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1503924594000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/21461078",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "21461078",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "You Don't Know JS: Async & Performance",
+            "id": "25014797",
+            "author": "Kyle Simpson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1503924563000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25014797",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25014797",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams",
+            "id": "30136164",
+            "author": "James Kalbach",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1492265693000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30136164",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "30136164",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "REST in Practice",
+            "id": "11056588",
+            "author": "Jim Webber, Savas Parastatidis, Ian Robinson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1492265691000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11056588",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "11056588",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Building Hypermedia APIs with HTML5 and Node",
+            "id": "18897697",
+            "author": "Mike Amundsen",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1492265690000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18897697",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18897697",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "RESTful Web APIs",
+            "id": "18944943",
+            "author": "Leonard Richardson, Mike Amundsen, Sam Ruby",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1492265688000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18944943",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18944943",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization",
+            "id": "33294309",
+            "author": "Susan J. Fowler, Susan Fowler",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1492265669000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/33294309",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "33294309",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "JavaScript: The Definitive Guide",
+            "id": "12289735",
+            "author": "David Flanagan",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086617000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12289735",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "12289735",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Learning SPARQL: Querying and Updating with SPARQL 1.1",
+            "id": "19592349",
+            "author": "Bob DuCharme",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086592000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/19592349",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "19592349",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Designing for Behavior Change: Applying Psychology and Behavioral Economics",
+            "id": "18883485",
+            "author": "Stephen Wendel",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086480000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18883485",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18883485",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary",
+            "id": "6641952",
+            "author": "Eric S. Raymond",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1423084891000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6641952",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6641952",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Art of SEO: Mastering Search Engine Optimization",
+            "id": "6801452",
+            "author": "Eric Enge, Rand Fishkin, Jessie C. Stricchiola, Stephan   Spencer",
+            "date_finished": 1413158400000,
+            "notes": [],
+            "date_started": 1413218763000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Art of SEO: Mastering Search Engine Optimization: Rating - 4/5",
+                    "date": 1413158400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6801452",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Paperback",
+                "O'Reilly Media",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0596518862",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780596518868",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6801452",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps",
+            "id": "15833794",
+            "author": "Gabe Zichermann",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146561000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/15833794",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "15833794",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Social Media Marketing Book",
+            "id": "19367544",
+            "author": "Dan Zarrella",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146516000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/19367544",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "19367544",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Vagrant: Up and Running",
+            "id": "18881048",
+            "author": "Mitchell Hashimoto",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146342000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18881048",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Kindle Edition",
+                "O'Reilly Media",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18881048",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Learning the vi and Vim Editors",
+            "id": "2403747",
+            "author": "Arnold Robbins, Linda Lamb, Elbert Hannah",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386953155000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2403747",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Paperback",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "059652983X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780596529833",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "2403747",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Art of SEO: Mastering Search Engine Optimization",
+            "id": 6801452,
+            "author": "Eric Enge",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6801452",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "O'Reilly Media",
+            "tags": [
+                "Paperback",
+                "O'Reilly Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 6801452,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

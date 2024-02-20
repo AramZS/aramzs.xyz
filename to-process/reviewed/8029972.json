@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789415784,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8029972
+                },
+                "isbn": 977153487,
+                "isbn13": 9780977153480,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 17
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.eHWUiwLVDbRmYhBeZcnRHw",
+                "title": "Our World (The Dresden Files Roleplaying Game, #2)",
+                "title_without_series": "Our World",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1278292310l/8029972._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1278292310l/8029972._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8029972-our-world",
+                "num_pages": 272,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Evil Hat Productions",
+                "publication_day": 27,
+                "publication_year": 2010,
+                "publication_month": 7,
+                "average_rating": 4.35,
+                "ratings_count": 1184,
+                "description": "This volume of the The Dresden Files RPG gives you extensive detail on the factions, creatures, foes, and allies of the Dresdenverse. You'll find over 200 creatures and characters complete with all the information you'll need to bring them into your own game, as well as a detailed chapter on modern-day Occult Chicago and an original short story by Jim Butcher.<br /><br />Together with Volume One: Your Story, The Dresden Files RPG: Our World gives you everything you need to make your own adventures in the thrilling and dangerous world of New York Times best-selling author Jim Butcher's Dresden Files series!<br /><br />- from the back cover",
+                "authors": {
+                    "author": {
+                        "id": 710578,
+                        "name": "Leonard Balsera",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/710578.Leonard_Balsera",
+                        "average_rating": 4.23,
+                        "ratings_count": 4824,
+                        "text_reviews_count": 198
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 12629435,
+                    "uri": "kca://work/amzn1.gr.work.v1.QzbMCh8vpqmhTuBwscooQQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240465976
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:48:23 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571654194,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:48:23 -0800 2013",
+            "date_updated": "Fri Dec 13 08:48:23 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789415784",
+            "link": "https://www.goodreads.com/review/show/789415784",
+            "owned": 0
+        }
+    }
+}

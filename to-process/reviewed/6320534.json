@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 129269909,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6320534
+                },
+                "isbn": 1439148503,
+                "isbn13": 9781439148501,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 12239
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.nNHWpQxyuWaVTr21G15vag",
+                "title": "Under the Dome",
+                "title_without_series": "Under the Dome",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511289992l/6320534._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511289992l/6320534._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6320534-under-the-dome",
+                "num_pages": 1074,
+                "format": "Hardcover",
+                "edition_information": "First Scribner hardcover edition",
+                "publisher": "Scribner",
+                "publication_day": 10,
+                "publication_year": 2009,
+                "publication_month": 11,
+                "average_rating": 3.9,
+                "ratings_count": 249088,
+                "description": "On an entirely normal, beautiful fall day in Chester’s Mill, Maine, the town is inexplicably and suddenly sealed off from the rest of the world by an invisible force field. Planes crash into it and fall from the sky in flaming wreckage, a gardener’s hand is severed as “the dome” comes down on it, people running errands in the neighboring town are divided from their families, and cars explode on impact. No one can fathom what this barrier is, where it came from, and when—or if—it will go away.<br /><br />Dale Barbara, Iraq vet and now a short-order cook, finds himself teamed with a few intrepid citizens—town newspaper owner Julia Shumway, a physician’s assistant at the hospital, a selectwoman, and three brave kids. Against them stands Big Jim Rennie, a politician who will stop at nothing—even murder—to hold the reins of power, and his son, who is keeping a horrible secret in a dark pantry. But their main adversary is the Dome itself. Because time isn’t just short. It’s running out.<br />source: stephenking.com",
+                "authors": {
+                    "author": {
+                        "id": 3389,
+                        "name": "Stephen King",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1362814142p5/3389.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1362814142p2/3389.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3389.Stephen_King",
+                        "average_rating": 4.04,
+                        "ratings_count": 13914551,
+                        "text_reviews_count": 547006
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 6760952,
+                    "uri": "kca://work/amzn1.gr.work.v1.3l01CCexf5hN-yvYcOZkrQ"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 04 10:27:24 -0700 2010",
+            "date_updated": "Thu Nov 04 10:27:32 -0700 2010",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/129269909",
+            "link": "https://www.goodreads.com/review/show/129269909",
+            "owned": 0
+        }
+    }
+}

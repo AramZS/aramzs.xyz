@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065306768,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 42527866
+                },
+                "isbn": 1603094504,
+                "isbn13": 9781603094504,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2120
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.QjJsSlMsL4gIHR3Pa27iZA",
+                "title": "They Called Us Enemy",
+                "title_without_series": "They Called Us Enemy",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541125895l/42527866._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541125895l/42527866._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/42527866-they-called-us-enemy",
+                "num_pages": 208,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Top Shelf Productions",
+                "publication_day": 16,
+                "publication_year": 2019,
+                "publication_month": 7,
+                "average_rating": 4.47,
+                "ratings_count": 12319,
+                "description": "<b>A graphic memoir recounting actor/author/activist George Takei's childhood imprisoned within American concentration camps during World War II. Experience the forces that shaped an American icon -- and America itself.</b><br /><br />Long before George Takei braved new frontiers in <i>Star Trek</i>, he woke up as a four-year-old boy to find his own birth country at war with his father's -- and their entire family forced from their home into an uncertain future.<br /><br />In 1942, at the order of President Franklin D. Roosevelt, every person of Japanese descent on the west coast was rounded up and shipped to one of ten \"relocation centers,\" hundreds or thousands of miles from home, where they would be held for years under armed guard.<br /><br /><i>They Called Us Enemy</i> is Takei's firsthand account of those years behind barbed wire, the joys and terrors of growing up under legalized racism, his mother's hard choices, his father's faith in democracy, and the way those experiences planted the seeds for his astonishing future.",
+                "authors": {
+                    "author": {
+                        "id": 260482,
+                        "name": "George Takei",
+                        "role": "co-writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563375976p5/260482.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563375976p2/260482.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/260482.George_Takei",
+                        "average_rating": 4.23,
+                        "ratings_count": 18769,
+                        "text_reviews_count": 3022
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 66245778,
+                    "uri": "kca://work/amzn1.gr.work.v1.yq_iKI325ABD7yo1hJx89g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244220512
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:21:23 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712840755,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:21:22 -0800 2019",
+            "date_updated": "Thu Nov 28 09:21:23 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065306768",
+            "link": "https://www.goodreads.com/review/show/3065306768",
+            "owned": 0
+        }
+    }
+}

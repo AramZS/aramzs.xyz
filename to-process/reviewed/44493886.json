@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3053349396,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 44493886
+                },
+                "isbn": 1401294111,
+                "isbn13": 9781401294113,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 30
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.3bEpBDKz5YzWtbDnyxPgYA",
+                "title": "Goddess Mode, Vol. 1",
+                "title_without_series": "Goddess Mode, Vol. 1",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567543878l/44493886._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567543878l/44493886._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/44493886-goddess-mode-vol-1",
+                "num_pages": 160,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Vertigo",
+                "publication_day": 22,
+                "publication_year": 2019,
+                "publication_month": 10,
+                "average_rating": 3.2,
+                "ratings_count": 127,
+                "description": "<b>Don't miss the start of a new series by Hugo Award nominee Zoë Quinn and Spider-Gwen co-creator Robbi Rodriguez! Cassandra Price's life changes forever when she discovers a hidden digital world beneath our own, one where a group of super-powered women are locked in a secret war for the cheat codes to reality.</b><br /><br />In the near future all of humanity's needs are administered by a godlike artificial intelligence called Azoth, and it's Cassandra Price's humiliating job to do tech support on it. The advent of Azoth has deepened inequality and robbed humanity of its soul, but Cassandra's life changes when she finds herself dragged violently into Azoth itself, manifested as a secret digital world beneath our own, one built on a combination of magic and metadata. There she encounters a group of apparently magical girls locked in a war with mysterious monsters for the power to fix the world -- if only they could agree on what the world should be.<br /><br />Why was she chosen? What is the omnipotent Hermeticorp up to? Who created the Azoth world? And who are these girls anyway?<br /><br />Collects issues #1-6.",
+                "authors": {
+                    "author": {
+                        "id": 435030,
+                        "name": "Zoe Quinn",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/435030.Zoe_Quinn",
+                        "average_rating": 3.73,
+                        "ratings_count": 615,
+                        "text_reviews_count": 100
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 69079892,
+                    "uri": "kca://work/amzn1.gr.work.v1.554djKXPa90tq00W0FqEDg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3228279311
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 18 05:52:53 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 18 05:52:53 -0800 2019",
+            "date_updated": "Mon Nov 18 05:53:25 -0800 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3053349396",
+            "link": "https://www.goodreads.com/review/show/3053349396",
+            "owned": 0
+        }
+    }
+}

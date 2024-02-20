@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3080055870,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 40696529
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.X3Db67kqD3icopWlonLrPQ",
+                "title": "Late Bloomers: The Power of Patience in a World Obsessed with Early Achievement",
+                "title_without_series": "Late Bloomers: The Power of Patience in a World Obsessed with Early Achievement",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/40696529-late-bloomers",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.08,
+                "ratings_count": 866,
+                "description": "<b>A groundbreaking exploration of what it means to be a late bloomer in a culture obsessed with SAT scores and early success, and how finding one's way later in life can be an advantage to long-term achievement and happiness.</b><br /><br />We live in a society where kids and parents are obsessed with early achievement, from getting perfect scores on SATs to getting into Ivy League colleges to landing an amazing job at Google or Facebook--or even better, creating a startup with the potential to be the next Google or Facebook or Uber. We see software coders becoming millionaires or even billionaires before age 30 and feel we are failing if we are not one of them.<br /> But there is good news. A lot of us--most of us--do not explode out of the gates in life. That was true for author Rich Karlgaard, who had a mediocre academic career at Stanford (which he got into by a fluke), and after graduating, worked as a dishwasher, nightwatchman, and typing temp before finally finding the inner motivation and drive that ultimately led him to start up a high-tech magazine in Silicon Valley, and eventually to become the publisher of <i>Forbes</i> magazine.<br /> There is a scientific explanation for why so many of us bloom later in life. The executive function of our brains doesn't mature until age 25--and later for some. In fact our brain's capabilities peak at different ages. We actually enjoy multiple periods of blooming in our lives. <br /> Based on several years of research, personal experience, and interviews with neuroscientists and psychologists, and countless people at different stages of their careers, Bloom reveals how and when we achieve full potential--and why an algorithmic acuity in math is such an anomaly in terms of career success.",
+                "authors": {
+                    "author": {
+                        "id": 404303,
+                        "name": "Rich Karlgaard",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/404303.Rich_Karlgaard",
+                        "average_rating": 3.92,
+                        "ratings_count": 1200,
+                        "text_reviews_count": 187
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 63047247,
+                    "uri": "kca://work/amzn1.gr.work.v1.Bgrrpn390aM1pFfkc7d_Uw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3263636288
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Dec 10 13:45:58 -0800 2019"
+                    },
+                    "ratings_count": 3,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2727558456,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Dec 10 13:45:58 -0800 2019",
+            "date_updated": "Tue Dec 10 13:45:58 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3080055870",
+            "link": "https://www.goodreads.com/review/show/3080055870",
+            "owned": 0
+        }
+    }
+}

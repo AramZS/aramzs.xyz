@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789420485,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2660314
+                },
+                "isbn": 1401218598,
+                "isbn13": 9781401218591,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 83
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.aPNL7rdHWBJV0fqqp83oew",
+                "title": "Ex Machina, Vol. 7: Ex Cathedra (Ex Machina, #7)",
+                "title_without_series": "Ex Machina, Vol. 7: Ex Cathedra",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2660314-ex-machina-vol-7",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "WildStorm",
+                "publication_day": 21,
+                "publication_year": 2008,
+                "publication_month": 10,
+                "average_rating": 3.91,
+                "ratings_count": 2518,
+                "description": "Former superhero Mayor Hundred has been summoned to Rome to meet the one person he never imagined he would - the Pope. But with Hundred in the scope of an assassin, and questions raised about his political influence and rise to power, will New York's most controversial mayor soon be saying his prayers? Collects Ex Machina issues #30-34",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2685539,
+                    "uri": "kca://work/amzn1.gr.work.v1.PKcjTVDZm-D-szx_UNjgkg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240471820
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:56:01 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813199813,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:56:01 -0800 2013",
+            "date_updated": "Mon Oct 23 16:37:51 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789420485",
+            "link": "https://www.goodreads.com/review/show/789420485",
+            "owned": 0
+        }
+    }
+}

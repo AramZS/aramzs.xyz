@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333629495,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 27274354
+                },
+                "isbn": 1501122789,
+                "isbn13": 9781501122781,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 39
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.rkV7fXa7bTIRoZR8t9A6gQ",
+                "title": "Purgatory's Key (Star Trek: Legacies #3)",
+                "title_without_series": "Purgatory's Key",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471854991l/27274354._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471854991l/27274354._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/27274354-purgatory-s-key",
+                "num_pages": 384,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Pocket Books/Star Trek",
+                "publication_day": 30,
+                "publication_year": 2016,
+                "publication_month": 8,
+                "average_rating": 3.84,
+                "ratings_count": 588,
+                "description": "The conclusion to the epic trilogy that stretches from the earliest voyages of the Starship <i>Enterprise</i> to Captain Kirk’s historic five-year-mission—and from one universe to another—just in time for the milestone 50th anniversary of <i>Star Trek: The Original Series</i>!<br /><br />Eighteen years ago, the Starship<i> Enterprise</i> thwarted an alien invasion from another universe, and Captain Robert April took possession of the interdimensional transfer device that made it possible. Since then, each captain of the <i>Enterprise,</i> from Christopher Pike to James T. Kirk, has guarded this secret with his life.<br /><br />Now, Romulan agents have succeeded in stealing the device and using it to banish Ambassador Sarek and Councillor Gorkon to an unknown realm in the midst of their groundbreaking Federation-Klingon peace negotiations. With time running out as interstellar war looms in one universe—and alien forces marshal in another—will Captain Kirk and his crew preserve the tenuous peace and reclaim the key between the dimensions?<br /><br />™, ®, &amp; © 2016 CBS Studios, Inc. STAR TREK and related marks and logos are trademarks of CBS Studios, Inc. All Rights Reserved.",
+                "authors": {
+                    "author": {
+                        "id": 56607,
+                        "name": "Dayton Ward",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206045915p5/56607.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206045915p2/56607.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/56607.Dayton_Ward",
+                        "average_rating": 3.85,
+                        "ratings_count": 15373,
+                        "text_reviews_count": 1593
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 47328186,
+                    "uri": "kca://work/amzn1.gr.work.v1.voGF0CmNTi4iR1KjCfFOoA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2274320285
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Mar 20 05:15:06 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Mar 20 05:15:05 -0700 2018",
+            "date_updated": "Tue Mar 20 05:15:05 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333629495",
+            "link": "https://www.goodreads.com/review/show/2333629495",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "name": "Dell",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Masks of the Illuminati",
+            "id": "4229",
+            "author": "Robert Anton Wilson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402147019000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Masks of the Illuminati: Rating - 5/5",
+                    "date": 1402147019000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4229",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dell",
+            "tags": [
+                "Paperback",
+                "Dell",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "044050306X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780440503064",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "4229",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Illuminatus! Trilogy",
+            "id": "57913",
+            "author": "Robert Shea, Robert Anton Wilson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213669033000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Illuminatus! Trilogy: Rating - 5/5",
+                    "date": 1213669033000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/57913",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dell",
+            "tags": [
+                "Paperback",
+                "Dell",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0440539811",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780440539810",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "57913",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Masks of the Illuminati",
+            "id": 4229,
+            "author": "Robert Anton Wilson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4229",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dell",
+            "tags": [
+                "Paperback",
+                "Dell",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "044050306X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 4229,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Illuminatus! Trilogy",
+            "id": 57913,
+            "author": "Robert Shea",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/57913",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dell",
+            "tags": [
+                "Paperback",
+                "Dell",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 57913,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

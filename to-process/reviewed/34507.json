@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 661201035,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34507
+                },
+                "isbn": 60855908,
+                "isbn13": 9780060855901,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2349
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.BQmI_8sL_tNe4GOrB7OqFQ",
+                "title": "Equal Rites (Discworld, #3; Witches, #1)",
+                "title_without_series": "Equal Rites",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407706800l/34507._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407706800l/34507._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34507.Equal_Rites",
+                "num_pages": 228,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Harper Perennial",
+                "publication_day": 13,
+                "publication_year": 2005,
+                "publication_month": 9,
+                "average_rating": 4.03,
+                "ratings_count": 134344,
+                "description": "On Discworld, a dying wizard tries to pass on his powers to an eighth son of an eighth son, who is just at that moment being born. The fact that the son is actually a daughter is discovered just a little too late. The town witch insists on turning the baby into a perfectly normal witch, thus mending the magical damage of the wizard's mistake. But now the young girl will be forced to penetrate the inner sanctum of the Unseen University--and attempt to save the world with one well-placed kick in some enchanted shins! Reissue.",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 583611,
+                    "uri": "kca://work/amzn1.gr.work.v1.4VV5EdBgBCdAJ9YRykXIHQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 79908788
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 07 12:12:15 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Aug 01 00:00:00 -0700 2013",
+            "date_added": "Sun Jul 07 12:12:15 -0700 2013",
+            "date_updated": "Wed Jan 22 13:23:42 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/661201035",
+            "link": "https://www.goodreads.com/review/show/661201035",
+            "owned": 0
+        }
+    }
+}

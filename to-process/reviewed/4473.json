@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528974087,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4473
+                },
+                "isbn": 552135399,
+                "isbn13": 9780552135399,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10836
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.LVPUKd81dEoPmk3cPdgKGQ",
+                "title": "A Prayer for Owen Meany",
+                "title_without_series": "A Prayer for Owen Meany",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1260470010l/4473._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1260470010l/4473._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany",
+                "num_pages": 637,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Black Swan",
+                "publication_day": {},
+                "publication_year": 1990,
+                "publication_month": {},
+                "average_rating": 4.23,
+                "ratings_count": 281046,
+                "description": "Eleven-year-old Owen Meany, playing in a Little League baseball game in Gravesend, New Hampshire, hits a foul ball and kills his best friend's mother. Owen doesn't believe in accidents; he believes he is God's instrument. What happens to Owen after that 1953 foul is both extraordinary and terrifying. At moments a comic, self-deluded victim, but in the end the principal, tragic actor in a divine plan, Owen Meany is the most heartbreaking hero John Irving has yet created.",
+                "authors": {
+                    "author": {
+                        "id": 3075,
+                        "name": "John Irving",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1257375547p5/3075.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1257375547p2/3075.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3075.John_Irving",
+                        "average_rating": 4,
+                        "ratings_count": 929494,
+                        "text_reviews_count": 39877
+                    }
+                },
+                "published": 1990,
+                "work": {
+                    "id": 1734019,
+                    "uri": "kca://work/amzn1.gr.work.v1.Br-kWGeESY4PLghr9FsfqA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:37:22 -0800 2013",
+            "date_updated": "Thu Feb 07 08:37:22 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528974087",
+            "link": "https://www.goodreads.com/review/show/528974087",
+            "owned": 0
+        }
+    }
+}

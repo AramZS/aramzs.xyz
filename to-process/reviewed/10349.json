@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671899,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 10349
+                },
+                "isbn": 199281777,
+                "isbn13": 9780199281770,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 34
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.3lbzYJtpzDhM6TT_1py1Sw",
+                "title": "How Novels Work",
+                "title_without_series": "How Novels Work",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/10349.How_Novels_Work",
+                "num_pages": 346,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "OUP Oxford",
+                "publication_day": 1,
+                "publication_year": 2006,
+                "publication_month": 12,
+                "average_rating": 3.67,
+                "ratings_count": 365,
+                "description": "Drawing on his weekly <em>Guardian</em> column, \"Elements of Fiction,\" John Mullan offers an engaging look at the novel, focusing mostly on works of the last ten years as he illuminates the rich resources of novelistic technique.<br /><br />Mullan sheds light on some of the true masterworks of contemporary fiction, including Monica Ali's <em>Brick Lane</em>, J.M. Coetzee's <em>Disgrace</em>, Don DeLillo's <em>Underworld</em>, Jonathan Franzen's <em>The Corrections</em>, Mark Haddon's <em>The Curious Incident of the Dog in the Night-Time</em>, Patricia Highsmith's <em>Ripley under</em> <em>Ground</em>, Ian McEwan's <em>Atonement</em>, John le Carr�'s <em>The Constant Gardener</em>, Philip Roth's <em>The Human Stain</em>, Jonathan Safran Foer's <em>Everything Is Illuminated</em>, and Zadie Smith's <em>White Teeth</em>. He highlights how these acclaimed authors use some of the basic elements of fiction. Some topics (like plot, dialogue, or location) will appear familiar to most novel readers, while others (meta-narrative, prolepsis, amplification) will open readers' eyes to new ways of understanding and appreciating the writer's craft. Mullan also excels at comparing modern and classic authors--Nick Hornby's adoption of a female narrator is compared to Daniel Defoe's; Ian McEwan's use of weather is set against Austen's and Hardy's.<br /><em></em> How Novels Work explains how the pleasures of novel reading often come from the formal ingenuity of the novelist, making visible techniques and effects we are often only half-aware of as we read. It is an entertaining and stimulating volume that will captivate anyone who is interested in the contemporary or the classical novel.<br />",
+                "authors": {
+                    "author": {
+                        "id": 6793,
+                        "name": "John Mullan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6793.John_Mullan",
+                        "average_rating": 3.63,
+                        "ratings_count": 6450,
+                        "text_reviews_count": 582
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 13065,
+                    "uri": "kca://work/amzn1.gr.work.v1.zGWtZS73bv10-6Y90VXC_w"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 10337373,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:25:51 -0700 2008",
+            "date_updated": "Mon Jun 16 19:25:59 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671899",
+            "link": "https://www.goodreads.com/review/show/24671899",
+            "owned": 0
+        }
+    }
+}

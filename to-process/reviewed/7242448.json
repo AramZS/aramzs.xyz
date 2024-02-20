@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1757211152,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7242448
+                },
+                "isbn": 1439167826,
+                "isbn13": 9781439167823,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 56
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.TUzWtn9a0uKFxIf6pA_Bsw",
+                "title": "Seize the Fire (Star Trek: Typhon Pact, #2)",
+                "title_without_series": "Seize the Fire",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7242448-seize-the-fire",
+                "num_pages": 493,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": {},
+                "publication_year": 2010,
+                "publication_month": 12,
+                "average_rating": 3.61,
+                "ratings_count": 1021,
+                "description": "<p>Shortly after revealing its union with the Federation’s newest adversary—a coalition of galactic powers known as the Typhon Pact—the Gorn Hegemony suffers an ecological disaster that destroys the hatchery world of their critically important warrior caste. Fortunately, the Gorn had already been investigating traces of an ancient but powerful “quick terraforming” technology left behind by a long-vanished civilization. This technology, should it prove controllable, promises to restore their delicate biological and social status quo. But when a Gorn soldier prepares to use the technology to reshape the planet Hranrar into a new warrior-caste spawning ground, threatening to extinguish the native Hranrarii, he draws the unwanted attention of a mad Gorn trooper determined to bring the military caste into dominance. </p><p>Meanwhile, as the <i>U.S.S. Titan </i>embarks upon a search for this potent technology in the hope of using it to heal the wounds the Federation sustained during the recent Borg crisis, Captain Riker must balance his responsibility for his crew’s safety against the welfare of the Hranrarii and his duty to the Prime Directive. With a menacing Typhon Pact fleet nipping at his heels, Riker must not only stop the Gorn warriors but also plumb the secrets of an ancient terraforming artifact. But of everyone serving aboard <i>Titan</i>, Commander Tuvok may be the only one who understands how dangerous such planet-altering technology can be, even when used with the best of intentions. . . .</p>",
+                "authors": {
+                    "author": {
+                        "id": 36046,
+                        "name": "Michael A. Martin",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/36046.Michael_A_Martin",
+                        "average_rating": 3.77,
+                        "ratings_count": 11858,
+                        "text_reviews_count": 908
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 8198191,
+                    "uri": "kca://work/amzn1.gr.work.v1.6x1Ki-rPXSz4mk_uvOT0tQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1508827714
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Sep 13 15:44:56 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Jul 30 00:00:00 -0700 2016",
+            "date_added": "Tue Sep 13 15:44:56 -0700 2016",
+            "date_updated": "Sun Oct 16 07:12:00 -0700 2016",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1757211152",
+            "link": "https://www.goodreads.com/review/show/1757211152",
+            "owned": 0
+        }
+    }
+}

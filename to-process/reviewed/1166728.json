@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789420445,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1166728
+                },
+                "isbn": 1401214983,
+                "isbn13": 9781401214982,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 82
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.2E6X_IQuN0A0BExy89zSxQ",
+                "title": "Ex Machina, Vol. 6: Power Down (Ex Machina, #6)",
+                "title_without_series": "Ex Machina, Vol. 6: Power Down",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1166728.Ex_Machina_Vol_6",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "WildStorm",
+                "publication_day": 14,
+                "publication_year": 2007,
+                "publication_month": 11,
+                "average_rating": 3.97,
+                "ratings_count": 3192,
+                "description": "Spin City and The West Wing meet Batman in this gripping superhero graphic novel series by the award-winning writer of Y: The Last Man, Brian K. Vaughan.A mysterious new visitor arrives in New York City, with powers that may be connected to superhero mayor Mitchell Hundred's - just as Hundred's own abilities shut down during an extended citywide blackout! Can the mayor manage the ensuing chaos, keep his family safe from an apparent madman, and deal with new revelations about the nature of his barely-comprehended powers?Written by Brian K. Vaughan (Pride of Baghdad), with art by Tony Harris (Starman), \"Ex Machina\" is brimming with political intrigue and superheroic shenanigans! Collects Ex Machina issue #26-29 and Inside the Machine Special",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 2090414,
+                    "uri": "kca://work/amzn1.gr.work.v1.kjrXEXnHEPlx4G181ZtEpA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240471766
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:55:57 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813199892,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:55:57 -0800 2013",
+            "date_updated": "Mon Oct 23 16:37:58 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789420445",
+            "link": "https://www.goodreads.com/review/show/789420445",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Anthem Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Into the Unknown",
+            "id": "49620387",
+            "author": "Jasper T. Scott",
+            "date_finished": 1581897600000,
+            "notes": [],
+            "date_started": 1587157579000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Into the Unknown: Rating - 3/5",
+                    "date": 1581897600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/49620387",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Anthem Press",
+            "tags": [
+                "Kindle Edition",
+                "Anthem Press",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "49620387",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 442774725,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7613
+                },
+                "isbn": 452284244,
+                "isbn13": 9780452284241,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 30238
+                },
+                "uri": "kca://book/amzn1.gr.book.v1._W5xqHHsgJCKA7skF45m8A",
+                "title": "Animal Farm",
+                "title_without_series": "Animal Farm",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424037542l/7613._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424037542l/7613._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7613.Animal_Farm",
+                "num_pages": 122,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "NAL",
+                "publication_day": 6,
+                "publication_year": 2003,
+                "publication_month": 5,
+                "average_rating": 3.94,
+                "ratings_count": 2605196,
+                "description": "George Orwell's timeless and timely allegorical novel—a scathing satire on a downtrodden society’s blind march towards totalitarianism.<br /><br />“All animals are equal, but some animals are more equal than others.”<br /><br />A farm is taken over by its overworked, mistreated animals. With flaming idealism and stirring slogans, they set out to create a paradise of progress, justice, and equality. Thus the stage is set for one of the most telling satiric fables ever penned—a razor-edged fairy tale for grown-ups that records the evolution from revolution against tyranny to a totalitarianism just as terrible. <br /> <br />When Animal Farm was first published, Stalinist Russia was seen as its target. Today it is devastatingly clear that wherever and whenever freedom is attacked, under whatever banner, the cutting clarity and savage comedy of George Orwell’s masterpiece have a meaning and message still ferociously fresh.",
+                "authors": {
+                    "author": {
+                        "id": 3706,
+                        "name": "George Orwell",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1588856560p5/3706.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1588856560p2/3706.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3706.George_Orwell",
+                        "average_rating": 4.07,
+                        "ratings_count": 5957571,
+                        "text_reviews_count": 135656
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 2207778,
+                    "uri": "kca://work/amzn1.gr.work.v1.V_MbIpN8vLdVjldwRz26LA"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 1998",
+            "date_added": "Sat Oct 27 08:12:19 -0700 2012",
+            "date_updated": "Sat Oct 27 08:14:46 -0700 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/442774725",
+            "link": "https://www.goodreads.com/review/show/442774725",
+            "owned": 0
+        }
+    }
+}

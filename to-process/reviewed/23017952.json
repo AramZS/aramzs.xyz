@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749129880,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23017952
+                },
+                "isbn": 785190538,
+                "isbn13": 9780785190530,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 54
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.5PjEdFMBxNnfME6izTx24A",
+                "title": "Secret Avengers, Volume 2: The Labyrinth",
+                "title_without_series": "Secret Avengers, Volume 2: The Labyrinth",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427558839l/23017952._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427558839l/23017952._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23017952-secret-avengers-volume-2",
+                "num_pages": 112,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Marvel",
+                "publication_day": 7,
+                "publication_year": 2015,
+                "publication_month": 4,
+                "average_rating": 3.97,
+                "ratings_count": 590,
+                "description": "It's Deadpool! Deadpool Deadpool Deadpool Deadpool! We heard that Deadpool raises sales so we're doing this early on. Just kidding, it's all about the art. Really. Anyway, as Coulson's investigation takes him to Peru, Black Widow, Spider-Woman and Hawkeye go after Lady Bullseye and Artaud Derrida. The noose tightens as Maria Hill starts to put the pieces together, and the Secret Avengers find themselves becoming the hunted! What does S.H.I.E.L.D. want with the Fury? M.O.D.O.K. explains it all - and that includes his own amazing origin! You thought you knew all there was about how George Tarleton became the huge-headed menace you love to hate? Think again! And as Hawkeye and Deadpool take on a deranged mullet-wearing ex-wrestler (yup), secrets are revealed - and they might cost Black Widow her life!<br /><br /><b>Collecting</b>: <i>Secret Avengers</i> 6-10",
+                "authors": {
+                    "author": {
+                        "id": 6451215,
+                        "name": "Aleš Kot",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1437719500p5/6451215.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1437719500p2/6451215.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6451215.Ale_Kot",
+                        "average_rating": 3.69,
+                        "ratings_count": 14278,
+                        "text_reviews_count": 1515
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 42587501,
+                    "uri": "kca://work/amzn1.gr.work.v1.SzzCcyOa2EOWmVZuCP4LYw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498303290
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:43:03 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813194377,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 1813195725,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:43:02 -0700 2016",
+            "date_updated": "Mon Oct 23 16:32:15 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749129880",
+            "link": "https://www.goodreads.com/review/show/1749129880",
+            "owned": 0
+        }
+    }
+}

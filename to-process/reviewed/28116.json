@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 29505912,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 28116
+                },
+                "isbn": 743250621,
+                "isbn13": 9780743250627,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2349
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZdkUbvD7y8BEGEmMwaXEmA",
+                "title": "The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World",
+                "title_without_series": "The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/28116.The_Know_It_All",
+                "num_pages": 389,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Simon  Schuster",
+                "publication_day": 10,
+                "publication_year": 2005,
+                "publication_month": 10,
+                "average_rating": 3.76,
+                "ratings_count": 25663,
+                "description": "Part memoir and part education (or lack thereof), <i>The Know-It-All</i> chronicles NPR contributor A.J. Jacobs's hilarious, enlightening, and seemingly impossible quest to read the Encyclopaedia Britannica from A to Z. <br /><br />33,000 Pages<br />44 Million Words<br />10 Billion Years Of History<br />1 Obsessed Man<br /><br />To fill the ever-widening gaps in his Ivy League education, A.J. Jacobs sets for himself the daunting task of reading all thirty-two volumes of the Encyclopaedia Britannica. His wife, Julie, tells him it's a waste of time, his friends believe he is losing his mind, and his father, a brilliant attorney who had once attempted the same feat and quit somewhere around Borneo, is encouraging but unconvinced.<br /> <br />With self-deprecating wit and a disarming frankness, <i>The Know-It-All</i> recounts the unexpected and comically disruptive effects Operation Encyclopedia has on every part of Jacobs's life -- from his newly minted marriage to his complicated relationship with his father and the rest of his charmingly eccentric New York family to his day job as an editor at <i>Esquire</i>. Jacobs's project tests the outer limits of his stamina and forces him to explore the real meaning of intelligence as he endeavors to join Mensa, win a spot on Jeopardy!, and absorb 33,000 pages of learning. On his journey he stumbles upon some of the strangest, funniest, and most profound facts about every topic under the sun, all while battling fatigue, ridicule, and the paralyzing fear that attends his first real-life responsibility -- the impending birth of his first child. <br /><br /><i>The Know-It-All</i> is an ingenious, mightily entertaining memoir of one man's intellect, neuroses, and obsessions, and a struggle between the all-consuming quest for factual knowledge and the undeniable gift of hard-won wisdom.",
+                "authors": {
+                    "author": {
+                        "id": 963811,
+                        "name": "A.J. Jacobs",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1201096547p5/963811.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1201096547p2/963811.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/963811.A_J_Jacobs",
+                        "average_rating": 3.75,
+                        "ratings_count": 114811,
+                        "text_reviews_count": 11768
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 197064,
+                    "uri": "kca://work/amzn1.gr.work.v1.neD7GWv5BzjLdjr5mHLHTA"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 15965880,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Aug 07 07:19:53 -0700 2008",
+            "date_updated": "Tue Oct 14 12:45:51 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/29505912",
+            "link": "https://www.goodreads.com/review/show/29505912",
+            "owned": 0
+        }
+    }
+}

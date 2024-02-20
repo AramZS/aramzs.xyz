@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2118076567,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13026545
+                },
+                "isbn": "145164955X",
+                "isbn13": 9781451649550,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 69
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4kxdVwrYuMZiZswY5M2R1Q",
+                "title": "Plagues of Night (Star Trek: Typhon Pact, #6)",
+                "title_without_series": "Plagues of Night",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324943760l/13026545._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324943760l/13026545._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13026545-plagues-of-night",
+                "num_pages": 385,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": {},
+                "publication_year": 2012,
+                "publication_month": 6,
+                "average_rating": 3.98,
+                "ratings_count": 771,
+                "description": "In the wake of the final Borg invasion, which destroyed entire worlds, cost the lives of sixty-three billion people, and struck a crippling blow to Starfleet, six nations adversarial to the United Federation of Planetsâ��the Romulan Star Empire, the Breen Confederacy, the Tholian Assembly, the Gorn Hegemony, the Tzenkethi Coalition, and the Holy Order of the Kinshayaâ�� joined ranks to form the Typhon Pact. For almost three years, the Federation and the Klingon Empire, allied under the Khitomer Accords, have contended with the nascent coalition on a predominantly cold-war footing. But as Starfleet rebuilds itself, factions within the Typhon Pact grow restive, concerned about their own inability to develop a quantum slipstream drive to match that of the Federation. Will leaders such as UFP President Bacco and RSE Praetor Kamemor bring about a lasting peace across the Alpha and Beta Quadrants, or will the cold war between the two alliances deepen, and perhaps even lead to an all-out shooting war?",
+                "authors": {
+                    "author": {
+                        "id": 10487,
+                        "name": "David R. George III",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10487.David_R_George_III",
+                        "average_rating": 3.86,
+                        "ratings_count": 8304,
+                        "text_reviews_count": 732
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 18189560,
+                    "uri": "kca://work/amzn1.gr.work.v1.selW21r3kv1fIje2SsIJQA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1994392474
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Sep 08 11:17:03 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Sep 08 11:17:03 -0700 2017",
+            "date_updated": "Fri Sep 08 11:17:03 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2118076567",
+            "link": "https://www.goodreads.com/review/show/2118076567",
+            "owned": 0
+        }
+    }
+}

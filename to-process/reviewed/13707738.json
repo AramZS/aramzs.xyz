@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2229978741,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13707738
+                },
+                "isbn": 393343448,
+                "isbn13": 9780393343441,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 720
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.hHbaC1XWeMVghebnezNIAA",
+                "title": "Boomerang: Travels in the New Third World",
+                "title_without_series": "Boomerang: Travels in the New Third World",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345046879l/13707738._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345046879l/13707738._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13707738-boomerang",
+                "num_pages": 218,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "W. W. Norton  Company",
+                "publication_day": 4,
+                "publication_year": 2012,
+                "publication_month": 9,
+                "average_rating": 3.9,
+                "ratings_count": 40064,
+                "description": "The tsunami of cheap credit that rolled across the planet between 2002 and 2008 was more than a simple financial phenomenon: it was temptation, offering entire societies the chance to reveal aspects of their characters they could not normally afford to indulge.<br /><br /><br />Icelanders wanted to stop fishing and become investment bankers. The Greeks wanted to turn their country into a pinata stuffed with cash and allow as many citizens as possible to take a whack at it. The Germans wanted to be even more German; the Irish wanted to stop being Irish.<br /><br /><br />Michael Lewis's investigation of bubbles beyond our shores is so brilliantly, sadly hilarious that it leads the American reader to a comfortable complacency: oh, those foolish foreigners. But when he turns a merciless eye on California and Washington, DC, we see that the narrative is a trap baited with humor, and we understand the reckoning that awaits the greatest and greediest of debtor nations.",
+                "authors": {
+                    "author": {
+                        "id": 776,
+                        "name": "Michael   Lewis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1317447168p5/776.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1317447168p2/776.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
+                        "average_rating": 4.15,
+                        "ratings_count": 582396,
+                        "text_reviews_count": 32772
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 14420600,
+                    "uri": "kca://work/amzn1.gr.work.v1.JeyQhL5PzxsiqV_oIRYwZw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2139535390
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 28 11:58:45 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1879156678,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 28 11:58:44 -0800 2017",
+            "date_updated": "Thu Dec 28 11:58:45 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2229978741",
+            "link": "https://www.goodreads.com/review/show/2229978741",
+            "owned": 0
+        }
+    }
+}

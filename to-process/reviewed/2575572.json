@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2054299588,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2575572
+                },
+                "isbn": 1596061820,
+                "isbn13": 9781596061828,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 445
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.E8skjhHfX4yn8Y-TeqbkYA",
+                "title": "Backup (The Dresden Files, #10.4)",
+                "title_without_series": "Backup",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2575572-backup",
+                "num_pages": 70,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Subterranean Press",
+                "publication_day": 1,
+                "publication_year": 2008,
+                "publication_month": 10,
+                "average_rating": 4.13,
+                "ratings_count": 9145,
+                "description": "Let's get something clear right up front. I'm not Harry Dresden. Harry's a wizard. A genuine, honest-to-goodness wizard. He's Gandalf on crack and an IV of Red Bull, with a big leather coat and a .44 revolver in his pocket. He'll spit in the eye of gods and demons alike if he thinks it needs to be done, and to hell with the consequences--and yet somehow my little brother manages to remain a decent human being. I'll be damned if I know how. But then, I'll be damned regardless. My name is Thomas Raith, and I'm a monster. So begins \"Backup\" a twelve thousand word novelette set in Jim Butcher's ultra-popular Dresden Files series. This time Harry's in trouble he knows nothing about, and it's up to his big brother Thomas to track him down and solve those little life-threatening difficulties without his little brother even noticing.<br /><br /><i>Also in <a href=\"https://www.goodreads.com/book/show/7779059._Side_Jobs\" title=\" Side Jobs\" rel=\"nofollow\"> Side Jobs</a>.</i>",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2588518,
+                    "uri": "kca://work/amzn1.gr.work.v1.Saj5OvKlPlONhqrMq7TBbQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1910667987
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 09 07:17:36 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1708036480,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Jul 09 07:17:35 -0700 2017",
+            "date_updated": "Sun Jul 09 07:17:35 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2054299588",
+            "link": "https://www.goodreads.com/review/show/2054299588",
+            "owned": 0
+        }
+    }
+}

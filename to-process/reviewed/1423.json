@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 475101656,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1423
+                },
+                "isbn": 1557831572,
+                "isbn13": 9781557831576,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 119
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8rt4b6K91Qgr3XnBStq1Qw",
+                "title": "The Compleat Works of Wllm Shkspr",
+                "title_without_series": "The Compleat Works of Wllm Shkspr",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1423.The_Compleat_Works_of_Wllm_Shkspr",
+                "num_pages": 137,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Applause Books",
+                "publication_day": 1,
+                "publication_year": 1994,
+                "publication_month": 2,
+                "average_rating": 4.44,
+                "ratings_count": 8377,
+                "description": "Revised from the rather long original complete works of Shakespeare, this abridged version is written by three Americans, with no qualifications worth speaking of. The playtext is reproduced here with footnotes which will be of no help to anyone and a letter from the authors to the Queen.",
+                "authors": {
+                    "author": {
+                        "id": 4390174,
+                        "name": "Reduced Shakespeare Company",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1321647086p5/4390174.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1321647086p2/4390174.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4390174.Reduced_Shakespeare_Company",
+                        "average_rating": 4.44,
+                        "ratings_count": 8286,
+                        "text_reviews_count": 125
+                    }
+                },
+                "published": 1994,
+                "work": {
+                    "id": 22430015,
+                    "uri": "kca://work/amzn1.gr.work.v1.E3M4L37Vb69GByaRZxOSlw"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 317786370,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Dec 11 01:27:43 -0800 2012",
+            "date_updated": "Tue Dec 11 01:27:43 -0800 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/475101656",
+            "link": "https://www.goodreads.com/review/show/475101656",
+            "owned": 0
+        }
+    }
+}

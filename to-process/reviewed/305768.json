@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071690601,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 305768
+                },
+                "isbn": 785122060,
+                "isbn13": 9780785122067,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 53
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.6D3-0ONR93OOBSfSBZTuYQ",
+                "title": "Wolverine: Enemy of the State",
+                "title_without_series": "Wolverine: Enemy of the State",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503849109l/305768._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503849109l/305768._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/305768.Wolverine",
+                "num_pages": 352,
+                "format": "Hardcover",
+                "edition_information": "Deluxe Edition",
+                "publisher": "Marvel",
+                "publication_day": 25,
+                "publication_year": 2006,
+                "publication_month": 10,
+                "average_rating": 4.01,
+                "ratings_count": 1113,
+                "description": "Collecting the entire best-selling, blockbuster storyline in one deluxe hardcover! The world's deadliest living weapon just fell into the wrong hands. It's Wolverine vs. the Marvel Universe as Logan shreds his way through the X-Men, Fantastic Four, S.H.I.E.L.D., and more! How did Wolverine end up fighting to destroy everything he holds dear? Plus: Wolverine may be back in S.H.I.E.L.D. custody, but at what cost? As the X-Men mourn their fallen teammate in a funeral befitting a hero, Hydra celebrates the coronation of a new leader. And the reign of terror continues, as the Hand picks off the meta-humans, one by one. Will Wolverine be deprogrammed in time to stop the carnage?<br /><br /><b>Collecting</b>: <i>Wolverine</i> 20-32",
+                "authors": {
+                    "author": {
+                        "id": 12736,
+                        "name": "Mark Millar",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1266561940p5/12736.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1266561940p2/12736.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12736.Mark_Millar",
+                        "average_rating": 3.99,
+                        "ratings_count": 311485,
+                        "text_reviews_count": 15279
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 40783127,
+                    "uri": "kca://work/amzn1.gr.work.v1.kxDOIX4FI9lszLUapjI-2A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593081419
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:10:04 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813198039,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:10:03 -0700 2014",
+            "date_updated": "Mon Oct 23 16:35:20 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071690601",
+            "link": "https://www.goodreads.com/review/show/1071690601",
+            "owned": 0
+        }
+    }
+}

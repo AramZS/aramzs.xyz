@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 649958700,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 884288
+                },
+                "isbn": 61056901,
+                "isbn13": 9780061056901,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 693
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.2Q6wozJzLdTR75e-oBbTHw",
+                "title": "Interesting Times (Discworld, #17; Rincewind #5)",
+                "title_without_series": "Interesting Times",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430881376l/884288._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430881376l/884288._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/884288.Interesting_Times",
+                "num_pages": 368,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "HarperTorch",
+                "publication_day": 4,
+                "publication_year": 1998,
+                "publication_month": 3,
+                "average_rating": 4.17,
+                "ratings_count": 41804,
+                "description": "<i>'A foot on the neck is nine points of the law'</i><br /><br />There are many who say that the art of diplomacy is an intricate and complex dance. There are others who maintain that it's merely a matter of who carries the biggest stick. The oldest and most inscrutable (not to mention heavily fortified) empire on the Discworld is in turmoil, brought about by the revolutionary treatise <b>What I did on My Holidays</b>. Workers are uniting, with nothing to lose but their water buffaloes; warlords are struggling for power - and what the nation wants, to avoid terrible doom for everyone, is a wizard. Rincewind is not the Disc’s premier wizard – in fact, he can’t even spell ‘wizard’ – but no-one specified whether competence was an issue. And they do have a very big stick…<br /><br />Mighty Battles! Revolution! Death! War! (And his sons Terror and Panic and daughter Clancy).<br /><br /><i>Alternate cover edition for <a href=\"https://www.goodreads.com/book/show/17426052-interesting-times\" rel=\"nofollow\">ISBN 9781407034966</a></i>",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 22431183,
+                    "uri": "kca://work/amzn1.gr.work.v1.mC4YvBqGVrwzv2tMC0P22w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 64360338
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Jun 24 11:32:13 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Jun 01 00:00:00 -0700 2013",
+            "date_added": "Mon Jun 24 11:32:13 -0700 2013",
+            "date_updated": "Wed Jan 22 13:24:36 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/649958700",
+            "link": "https://www.goodreads.com/review/show/649958700",
+            "owned": 0
+        }
+    }
+}

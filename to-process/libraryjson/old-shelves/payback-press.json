@@ -1,0 +1,51 @@
+{
+    "name": "Payback Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Harlem Cycle: A Rage in Harlem; The Real Cool Killers; The Crazy Kill (Harlem Cycle, #1-3)",
+            "id": "272538",
+            "author": "Chester Himes, Melvin Van Peebles",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1475424826000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/272538",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Payback Press",
+            "tags": [
+                "Paperback",
+                "Payback Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0862415969",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780862415969",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "272538",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

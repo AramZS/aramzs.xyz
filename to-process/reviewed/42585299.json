@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2777132065,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 42585299
+                },
+                "isbn": 735217920,
+                "isbn13": 9780735217928,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 249
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Jk5TIk1TeikEK4i_MMCQoQ",
+                "title": "Raised in Captivity: Fictional Nonfiction",
+                "title_without_series": "Raised in Captivity: Fictional Nonfiction",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546712771l/42585299._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546712771l/42585299._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/42585299-raised-in-captivity",
+                "num_pages": 320,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Penguin Press",
+                "publication_day": 16,
+                "publication_year": 2019,
+                "publication_month": 7,
+                "average_rating": 3.56,
+                "ratings_count": 1813,
+                "description": "<b>Microdoses of the straight dope, stories so true they had to be wrapped in fiction for our own protection, from the best-selling author of <i>But What if We're Wrong?</i></b><br /><br />A man flying first class discovers a puma in the lavatory. A new coach of a small-town Oklahoma high school football team installs an offense comprised of only one, very special, play. A man explains to the police why he told the employee of his local bodega that his colleague looked like the lead singer of Depeche Mode, a statement that may or may not have led in some way to a violent crime. A college professor discusses with his friend his difficulties with the new generation of students. An obscure power pop band wrestles with its new-found fame when its song \"Blizzard of Summer\" becomes an anthem for white supremacists. A couple considers getting a medical procedure that will transfer the pain of childbirth from the woman to her husband. A woman interviews a hit man about killing her husband but is shocked by the method he proposes. A man is recruited to join a secret government research team investigating why coin flips are no longer exactly 50/50. A man sees a whale struck by lightning, and knows that everything about his life has to change. A lawyer grapples with the unintended side effects of a veterinarian's rabies vaccination.<br /><br />Fair warning: <i>Raised in Captivity</i> does not slot into a smooth preexisting groove. If Saul Steinberg and Italo Calvino had adopted a child from a Romanian orphanage and raised him on Gary Larsen and Thomas Bernhard, he would still be nothing like Chuck Klosterman. They might be good company, though. Funny, wise and weird in equal measure, <i>Raised in Captivity</i> bids fair to be one of the most original and exciting story collections in recent memory, a fever graph of our deepest unvoiced hopes, fears and preoccupations. Ceaselessly inventive, hostile to corniness in all its forms, and mean only to the things that really deserve it, it marks a cosmic leap forward for one of our most consistently interesting writers.",
+                "authors": {
+                    "author": {
+                        "id": 375,
+                        "name": "Chuck Klosterman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1336060202p5/375.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1336060202p2/375.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/375.Chuck_Klosterman",
+                        "average_rating": 3.75,
+                        "ratings_count": 197418,
+                        "text_reviews_count": 13084
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 66275166,
+                    "uri": "kca://work/amzn1.gr.work.v1.iIKNgpw4PhswlYY_ru7MSw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2860612236
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Apr 06 11:09:07 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2422653671,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Apr 06 11:09:07 -0700 2019",
+            "date_updated": "Sat Apr 06 11:09:07 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2777132065",
+            "link": "https://www.goodreads.com/review/show/2777132065",
+            "owned": 0
+        }
+    }
+}

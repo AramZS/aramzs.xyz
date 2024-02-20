@@ -1,0 +1,59 @@
+{
+    "name": "Type A Group",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "BadMen: How Advertising Went From A Minor Annoyance To A Major Menace",
+            "id": "36314890",
+            "author": "Bob Hoffman",
+            "date_finished": 1523836800000,
+            "notes": [],
+            "date_started": 1523896014000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of BadMen: How Advertising Went From A Minor Annoyance To A Major Menace: Rating - 5/5",
+                    "date": 1523836800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/36314890",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Type A Group",
+            "tags": [
+                "Kindle Edition",
+                "Type A Group",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "36314890",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

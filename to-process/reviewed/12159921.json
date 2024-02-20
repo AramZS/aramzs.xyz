@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 702952610,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12159921
+                },
+                "isbn": "076532492X",
+                "isbn13": 9780765324924,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 37
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.TMu80s8bybphmsmMfJdwqA",
+                "title": "Ashes of Candesce (Virga, #5)",
+                "title_without_series": "Ashes of Candesce",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324678277l/12159921._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324678277l/12159921._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12159921-ashes-of-candesce",
+                "num_pages": 381,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.1,
+                "ratings_count": 439,
+                "description": "<div>\n  <p>A world of endless sky, with no land, no gravity:  this is Virga. Beginning in the seminal science fiction novel <i>Sun of Suns</i>, the saga of this striking world has introduced us to the people of stubborn pride and resilience who have made Virga their home; but also, always lurking beyond the walls of the world, to the mysterious threat known only as Artificial Nature. In <i>The Sunless Countries</i>, history tutor Leal Hieronyma Maspeth became the first human in centuries to learn the true nature of this threat. Her reward was exile, but now, in <i>Ashes of Candesce</i>, Artificial Nature makes its final bid to destroy Virga, and it is up to Leal to unite the quarrelling clans of her world to fight the threat.</p>\n  <p><i>Ashes of Candesce</i> brings together all the heroes of the Virga series, and draws the diverse threads of the previous storylines together into one climactic conflict. Blending steampunk styling with a far-future setting and meditations on the posthuman condition, <i>Ashes of Candesce</i> mixes high adventure and cutting-edge ideas in a fitting climax to one of science fiction’s most innovative series.</p>\n</div>",
+                "authors": {
+                    "author": {
+                        "id": 19169,
+                        "name": "Karl Schroeder",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1378361478p5/19169.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1378361478p2/19169.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/19169.Karl_Schroeder",
+                        "average_rating": 3.78,
+                        "ratings_count": 20218,
+                        "text_reviews_count": 2438
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 17130933,
+                    "uri": "kca://work/amzn1.gr.work.v1.6TAcjfPLkcRsokKRhfleyA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 132191508
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Aug 24 15:29:11 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 498067894,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Aug 24 15:29:11 -0700 2013",
+            "date_updated": "Sat Aug 24 15:29:12 -0700 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/702952610",
+            "link": "https://www.goodreads.com/review/show/702952610",
+            "owned": 0
+        }
+    }
+}

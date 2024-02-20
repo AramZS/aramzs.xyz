@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 483514660,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 14744381
+                },
+                "isbn": 1607065967,
+                "isbn13": 9781607065968,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 853
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.EBZBdBhFhin0ZVHrahfEgA",
+                "title": "The Walking Dead, Compendium 2",
+                "title_without_series": "The Walking Dead, Compendium 2",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344152205l/14744381._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344152205l/14744381._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/14744381-the-walking-dead-compendium-2",
+                "num_pages": 1068,
+                "format": "Paperback",
+                "edition_information": "first",
+                "publisher": "Image comics",
+                "publication_day": 16,
+                "publication_year": 2012,
+                "publication_month": 10,
+                "average_rating": 4.52,
+                "ratings_count": 16643,
+                "description": "Returning with the second eight volumes of the fan-favorite, New York Times bestseller series, The Walking Dead, collected into one massive paperback collection!<br /><br />This is the perfect collection for any fan of the Emmy Award-winning television series on AMC: over one-thousand pages chronicling the next chapter of Robert Kirkman's Eisner Award-winning continuing story of survival horror - beginning with Rick Grimes' struggle to survive after the prison raid, to the group's finding short solace in The Community, and the devastation that follows. In a world ruled by the dead, we are finally forced to finally start living. Collects The Walking Dead #49-96.",
+                "authors": {
+                    "author": {
+                        "id": 12425,
+                        "name": "Robert Kirkman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1548964782p5/12425.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1548964782p2/12425.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12425.Robert_Kirkman",
+                        "average_rating": 4.24,
+                        "ratings_count": 1086283,
+                        "text_reviews_count": 47776
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 20393152,
+                    "uri": "kca://work/amzn1.gr.work.v1.3kR72rulFClmHRrSTcaO7g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051895743
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:47:22 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813206788,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Dec 21 00:00:00 -0800 2012",
+            "date_added": "Sun Dec 23 00:20:21 -0800 2012",
+            "date_updated": "Mon Oct 23 16:47:22 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/483514660",
+            "link": "https://www.goodreads.com/review/show/483514660",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Jonathan Cape",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Machines Like Me",
+            "id": "42086795",
+            "author": "Ian McEwan",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1556373533000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/42086795",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Jonathan Cape",
+            "tags": [
+                "Paperback",
+                "Jonathan Cape",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1787331679",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781787331679",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "42086795",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

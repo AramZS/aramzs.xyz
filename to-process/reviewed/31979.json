@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071690829,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 31979
+                },
+                "isbn": 785115315,
+                "isbn13": 9780785115311,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 566
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.DSSpG-nb73gzjQIT_ycrzg",
+                "title": "Astonishing X-Men, Volume 1: Gifted",
+                "title_without_series": "Astonishing X-Men, Volume 1: Gifted",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500464817l/31979._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500464817l/31979._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/31979.Astonishing_X_Men_Volume_1",
+                "num_pages": 152,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 10,
+                "publication_year": 2006,
+                "publication_month": 5,
+                "average_rating": 4.17,
+                "ratings_count": 25590,
+                "description": "Dream-team creators Joss Whedon (TV's <i>Buffy the Vampire Slayer</i>) and John Cassaday (<i>Planetary</i>, <i>Captain America</i>) present the explosive flagship X-Men series - marking a return to classic greatness and the beginning of a brand-new era for the X-Men! Cyclops and Emma Frost re-form the X-Men with the express purpose of \"astonishing\" the world. But when breaking news regarding the mutant gene unexpectedly hits the airwaves, will it derail their new plans before they even get started?<br /><br /><b>Collecting</b>: <i>Astonishing X-Men</i> 1-6",
+                "authors": {
+                    "author": {
+                        "id": 18015,
+                        "name": "Joss Whedon",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1302721520p5/18015.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1302721520p2/18015.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/18015.Joss_Whedon",
+                        "average_rating": 4.07,
+                        "ratings_count": 458466,
+                        "text_reviews_count": 24468
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 154982,
+                    "uri": "kca://work/amzn1.gr.work.v1._ayX_IKNgiRm15tRz3xgkA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593081706
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:10:29 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813198003,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:10:29 -0700 2014",
+            "date_updated": "Mon Oct 23 16:35:17 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071690829",
+            "link": "https://www.goodreads.com/review/show/1071690829",
+            "owned": 0
+        }
+    }
+}

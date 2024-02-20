@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2020402878,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25489625
+                },
+                "isbn": 812993543,
+                "isbn13": 9780812993547,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 14677
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.pJoOfvwjyVRklvxPcmHPjA",
+                "title": "Between the World and Me",
+                "title_without_series": "Between the World and Me",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451435027l/25489625._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451435027l/25489625._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25489625-between-the-world-and-me",
+                "num_pages": 152,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Spiegel & Grau",
+                "publication_day": 14,
+                "publication_year": 2015,
+                "publication_month": 7,
+                "average_rating": 4.39,
+                "ratings_count": 187802,
+                "description": "<i>“This is your country, this is your world, this is your body, and you must find some way to live within the all of it.”</i><br /><b> </b><br />In a profound work that pivots from the biggest questions about American history and ideals to the most intimate concerns of a father for his son, Ta-Nehisi Coates offers a powerful new framework for understanding our nation’s history and current crisis. Americans have built an empire on the idea of “race,” a falsehood that damages us all but falls most heavily on the bodies of black women and men—bodies exploited through slavery and segregation, and, today, threatened, locked up, and murdered out of all proportion. What is it like to inhabit a black body and find a way to live within it? And how can we all honestly reckon with this fraught history and free ourselves from its burden?<br />  <br /><i>Between the World and Me </i>is Ta-Nehisi Coates’s attempt to answer these questions in a letter to his adolescent son. Coates shares with his son—and readers—the story of his awakening to the truth about his place in the world through a series of revelatory experiences, from Howard University to Civil War battlefields, from the South Side of Chicago to Paris, from his childhood home to the living rooms of mothers whose children’s lives were taken as American plunder. Beautifully woven from personal narrative, reimagined history, and fresh, emotionally charged reportage, <i>Between the World and Me </i>clearly illuminates the past, bracingly confronts our present, and offers a transcendent vision for a way forward.",
+                "authors": {
+                    "author": {
+                        "id": 1214964,
+                        "name": "Ta-Nehisi Coates",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1214964.Ta_Nehisi_Coates",
+                        "average_rating": 4.27,
+                        "ratings_count": 298165,
+                        "text_reviews_count": 32776
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 44848425,
+                    "uri": "kca://work/amzn1.gr.work.v1.F-n-hb4HqoKqonNt8NpNkg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1866208544
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Jun 05 06:19:50 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1674902286,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 05 06:19:49 -0700 2017",
+            "date_updated": "Mon Jun 05 06:19:50 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2020402878",
+            "link": "https://www.goodreads.com/review/show/2020402878",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2773201890,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34616805
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 62
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.DgAh4F8pOdsrEIzEsNE45A",
+                "title": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
+                "title_without_series": "The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34616805-the-manager-s-path",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.34,
+                "ratings_count": 3266,
+                "description": "Managing people is difficult wherever you work, but the tech industry as a whole is pretty bad at it. Tech companies in general lack the experience, tools, texts, and frameworks to do it well. And the handful of books that share tips and tricks of engineering management don t explain how to supervise employees in the face of growth and change.<br /><br />In this book, author Camille Fournier takes you through the stages of technical management, from mentoring interns to working with the senior staff. You ll get actionable advice for approaching various obstacles in your path, whether you re a new manager, a mentor, or a more experienced leader looking for fresh advice. Pick up this book and learn how to become a better manager and leader in your organization.<br /><br /> * Discover how to manage small teams and large/multi-level teams<br /> * Understand how to build and bootstrap a unifying culture in teams<br /> * Deal with people problems and learn how to mentor other managers and new leaders<br /> * Learn how to manage yourself: avoid common pitfalls that challenge many leaders<br /> * Obtain several practices that you can incorporate and practice along the way",
+                "authors": {
+                    "author": {
+                        "id": 14801119,
+                        "name": "Camille Fournier",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1585006749p5/14801119.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1585006749p2/14801119.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14801119.Camille_Fournier",
+                        "average_rating": 4.33,
+                        "ratings_count": 3295,
+                        "text_reviews_count": 306
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 54111007,
+                    "uri": "kca://work/amzn1.gr.work.v1.6aDlsVGUnxWOxYp4-ud6gA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2855368353
+                    },
+                    "old_status": {},
+                    "status": "currently-reading",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Apr 02 21:07:17 -0700 2019"
+                    },
+                    "ratings_count": 1,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 2418615124,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Tue Apr 02 21:07:16 -0700 2019",
+            "read_at": {},
+            "date_added": "Tue Apr 02 21:07:16 -0700 2019",
+            "date_updated": "Tue Apr 02 21:07:16 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2773201890",
+            "link": "https://www.goodreads.com/review/show/2773201890",
+            "owned": 0
+        }
+    }
+}

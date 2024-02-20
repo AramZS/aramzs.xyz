@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299968133,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23430832
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UQ9hlkhZTm8m2qJgN4Atqg",
+                "title": "Galaga (Boss Fight Books Book 4)",
+                "title_without_series": "Galaga",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23430832-galaga",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.21,
+                "ratings_count": 156,
+                "description": "For fifteen seconds of the one of the highest-grossing films of all time, The Avengers’ plan to save the world comes to a grinding halt when Tony Stark calls out a low-level member of S.H.I.E.L.D. for playing Galaga on the job. Acclaimed novelist and lifelong Galaga player Michael Kimball knows the compulsion: He’s set and re-set high scores on Galaga machines all across America. What many call the greatest fixed shooter arcade game in history, Galaga broke the Space Invaders mold with superior graphics, faster firing, bonus rounds, tractor beams, and advanced enemy A.I.<br /><br />Since its 1981 release, Galaga has inspired numerous sequels, bootlegs, hacks, and clones—and some version of Galaga has been released for nearly every gaming platform. Kimball shares his obsession with Galaga through a discussion of the innovative gameplay it introduced (including lots of tips), its extensive cultural legacy (including collectibles, movies, rap songs, drinking games, and sex acts), and how Galaga got Kimball through a difficult childhood--and maybe saved his life.",
+                "authors": {
+                    "author": {
+                        "id": 65290,
+                        "name": "Michael Kimball",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/65290.Michael_Kimball",
+                        "average_rating": 3.83,
+                        "ratings_count": 1896,
+                        "text_reviews_count": 355
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 41783344,
+                    "uri": "kca://work/amzn1.gr.work.v1.TmCi4fraWSvaJf45O-PLWQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886479825
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:30:07 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1002424057,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:30:07 -0700 2015",
+            "date_updated": "Fri Jun 05 15:30:07 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299968133",
+            "link": "https://www.goodreads.com/review/show/1299968133",
+            "owned": 0
+        }
+    }
+}

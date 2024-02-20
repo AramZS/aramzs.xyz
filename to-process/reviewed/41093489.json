@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065301810,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 41093489
+                },
+                "isbn": 1534431004,
+                "isbn13": 9781534431003,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 737
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.c4-MKAOAMWZ2j2cp9Q2fTQ",
+                "title": "This Is How You Lose the Time War",
+                "title_without_series": "This Is How You Lose the Time War",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543954115l/41093489._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543954115l/41093489._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/41093489-this-is-how-you-lose-the-time-war",
+                "num_pages": 201,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Gallery / Saga Press",
+                "publication_day": 16,
+                "publication_year": 2019,
+                "publication_month": 7,
+                "average_rating": 3.98,
+                "ratings_count": 21301,
+                "description": "<b>Two time-traveling agents from warring futures, working their way through the past, begin to exchange letters—and fall in love in this thrilling and romantic book from award-winning authors Amal-El Mohtar and Max Gladstone.</b><br /><br />Among the ashes of a dying world, an agent of the Commandant finds a letter. It reads: <i>Burn before reading. </i><br /><br />Thus begins an unlikely correspondence between two rival agents hellbent on securing the best possible future for their warring factions. Now, what began as a taunt, a battlefield boast, grows into something more. Something epic. Something romantic. Something that could change the past and the future.<br /><br />Except the discovery of their bond would mean death for each of them. There’s still a war going on, after all. And someone has to win that war. That’s how war works. Right?<br /><br />Cowritten by two beloved and award-winning sci-fi writers, <i>This Is How You Lose the Time War </i>is an epic love story spanning time and space.",
+                "authors": {
+                    "author": {
+                        "id": 4175512,
+                        "name": "Amal El-Mohtar",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1299879154p5/4175512.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1299879154p2/4175512.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4175512.Amal_El_Mohtar",
+                        "average_rating": 3.95,
+                        "ratings_count": 35433,
+                        "text_reviews_count": 7654
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 58237743,
+                    "uri": "kca://work/amzn1.gr.work.v1.YDUGw2WETy1nDsLADJPSsg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244214149
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:15:21 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712835788,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:15:21 -0800 2019",
+            "date_updated": "Mon Jan 27 05:01:02 -0800 2020",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065301810",
+            "link": "https://www.goodreads.com/review/show/3065301810",
+            "owned": 0
+        }
+    }
+}

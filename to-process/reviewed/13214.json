@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1123164456,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13214
+                },
+                "isbn": 553279378,
+                "isbn13": 9780553279375,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7527
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.h26sSiMVH3aa6LCbU_MwhQ",
+                "title": "I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",
+                "title_without_series": "I Know Why the Caged Bird Sings",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327957927l/13214._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327957927l/13214._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13214.I_Know_Why_the_Caged_Bird_Sings",
+                "num_pages": 289,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Bantam Books",
+                "publication_day": {},
+                "publication_year": 1993,
+                "publication_month": 11,
+                "average_rating": 4.23,
+                "ratings_count": 383093,
+                "description": "Sent by their mother to live with their devout, self-sufficient grandmother in a small Southern town, Maya and her brother, Bailey, endure the ache of abandonment and the prejudice of the local \"powhitetrash.\" At eight years old and back at her mother’s side in St. Louis, Maya is attacked by a man many times her age—and has to live with the consequences for a lifetime. Years later, in San Francisco, Maya learns that love for herself, the kindness of others, her own strong spirit, and the ideas of great authors (\"I met and fell in love with William Shakespeare\") will allow her to be free instead of imprisoned.<br /> <br />Poetic and powerful, <i>I Know Why the Caged Bird Sings</i> will touch hearts and change minds for as long as people read.",
+                "authors": {
+                    "author": {
+                        "id": 3503,
+                        "name": "Maya Angelou",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1379017377p5/3503.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1379017377p2/3503.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3503.Maya_Angelou",
+                        "average_rating": 4.23,
+                        "ratings_count": 515904,
+                        "text_reviews_count": 19149
+                    }
+                },
+                "published": 1993,
+                "work": {
+                    "id": 1413589,
+                    "uri": "kca://work/amzn1.gr.work.v1.MFlD4dOWNcy-anTvsbVVhg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 658868927
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 04 09:10:05 -0800 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847070793,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 04 09:10:05 -0800 2014",
+            "date_updated": "Thu Dec 04 09:10:05 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1123164456",
+            "link": "https://www.goodreads.com/review/show/1123164456",
+            "owned": 0
+        }
+    }
+}

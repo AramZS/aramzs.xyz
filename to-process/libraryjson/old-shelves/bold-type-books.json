@@ -1,0 +1,149 @@
+{
+    "name": "Bold Type Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "How to Kill a City: Gentrification, Inequality, and the Fight for the Neighborhood",
+            "id": "30652247",
+            "author": "Peter Moskowitz, P.E. Moskowitz",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1514491212000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30652247",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bold Type Books",
+            "tags": [
+                "Hardcover",
+                "Bold Type Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1568585233",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781568585239",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "30652247",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Full Rudy: The Man, the Myth, the Mania",
+            "id": "41021",
+            "author": "Jack Newfield",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1433543519000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Full Rudy: The Man, the Myth, the Mania: Rating - 4/5",
+                    "date": 1433543519000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/41021",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bold Type Books",
+            "tags": [
+                "Paperback",
+                "Bold Type Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1560254823",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781560254829",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "41021",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Full Rudy: The Man, the Myth, the Mania",
+            "id": 41021,
+            "author": "Jack Newfield",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/41021",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bold Type Books",
+            "tags": [
+                "Paperback",
+                "Bold Type Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 41021,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

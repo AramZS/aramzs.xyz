@@ -1,0 +1,149 @@
+{
+    "name": "Audio CD",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Bloodline (Star Wars)",
+            "id": "27209239",
+            "author": "Claudia Gray",
+            "date_finished": 1546128000000,
+            "notes": [],
+            "date_started": 1546198889000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Bloodline (Star Wars): Rating - 3/5",
+                    "date": 1546128000000,
+                    "type": "long",
+                    "content": "This was... Ok. The novel is well written, but the plot is so much treading water. In the larger story this single book is a part of, this is basically one long justification, a convoluted twisty path to undue the larger galactic impact of Return of the Jedi. It manages to make everything accomplished going into the book pretty much undone by the end. Leia is one of the main characters and everything she ends up doing is basically a reversal. I was hoping there would be a larger point then 'and this is why Leia was in the Resistance in episode 7', but there really isn't, and to be honest it does a poor job even justifying that. For all its promise of even explaining what the Resistance was, it doesn't do much of that either. Instead it gets bogged down in constantly trying to explain some rather awkwardly named political parties and trying to give them significance. If you really want the answers this book promises, you'd be better off reading a summery.",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/27209239",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House Audio",
+            "tags": [
+                "Audio CD",
+                "Random House Audio",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0451486080",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780451486080",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "27209239",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Prestige",
+            "id": "1691307",
+            "author": "Christopher Priest, Simon Vance",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1439955810000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1691307",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Blackstone Audiobooks",
+            "tags": [
+                "Audio CD",
+                "Blackstone Audiobooks",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0786168412",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780786168415",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "1691307",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Bloodline",
+            "id": 27209239,
+            "author": "Claudia Gray",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/27209239",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House Audio",
+            "tags": [
+                "Audio CD",
+                "Random House Audio",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 27209239,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

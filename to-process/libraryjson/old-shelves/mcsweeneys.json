@@ -1,0 +1,247 @@
+{
+    "name": "McSweeney's",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Polysyllabic Spree",
+            "id": "4260",
+            "author": "Nick Hornby",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360254664000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Polysyllabic Spree: Rating - 5/5",
+                    "date": 1360254664000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4260",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "McSweeney's",
+            "tags": [
+                "Paperback",
+                "McSweeney's",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1932416242",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781932416244",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "4260",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Love, an Index",
+            "id": "12924640",
+            "author": "Rebecca Lindenberg",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1353727864000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12924640",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "McSweeney's",
+            "tags": [
+                "Hardcover",
+                "McSweeney's",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1936365790",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781936365791",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "12924640",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Housekeeping vs. the Dirt",
+            "id": "4259",
+            "author": "Nick Hornby, Sarah Vowell, Jess Walter, Jennie Erdal, Joshua Ferris",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213668279000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Housekeeping vs. the Dirt: Rating - 5/5",
+                    "date": 1213668279000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4259",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "McSweeney's",
+            "tags": [
+                "Paperback",
+                "McSweeney's",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1932416595",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781932416596",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "4259",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Housekeeping vs. the Dirt",
+            "id": 4259,
+            "author": "Nick Hornby",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4259",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "McSweeney's",
+            "tags": [
+                "Paperback",
+                "McSweeney's",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 4259,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Polysyllabic Spree",
+            "id": 4260,
+            "author": "Nick Hornby",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4260",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "McSweeney's",
+            "tags": [
+                "Paperback",
+                "McSweeney's",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 4260,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

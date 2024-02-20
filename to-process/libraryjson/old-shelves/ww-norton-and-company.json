@@ -1,0 +1,247 @@
+{
+    "name": "W.W. Norton & Company",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Underland",
+            "id": "41817481",
+            "author": "Robert Macfarlane",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961592000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/41817481",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "W.W. Norton & Company",
+            "tags": [
+                "Hardcover",
+                "W.W. Norton & Company",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0393242145",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780393242140",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "41817481",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Short Fiction",
+            "id": "50284",
+            "author": "Leo Tolstoy, Michael R. Katz",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1433543610000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Short Fiction: Rating - 4/5",
+                    "date": 1433543610000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/50284",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "W.W. Norton & Company",
+            "tags": [
+                "paper",
+                "W.W. Norton & Company",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0393960161",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780393960167",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "50284",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "What Do You Care What Other People Think?",
+            "id": "5548",
+            "author": "Richard P. Feynman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1241641622000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of What Do You Care What Other People Think?: Rating - 5/5",
+                    "date": 1241641622000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/5548",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "W.W. Norton & Company",
+            "tags": [
+                "Paperback",
+                "W.W. Norton & Company",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0393320928",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780393320923",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "5548",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Short Fiction",
+            "id": 50284,
+            "author": "Leo Tolstoy",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/50284",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "W.W. Norton & Company",
+            "tags": [
+                "paper",
+                "W.W. Norton & Company",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 50284,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "What Do You Care What Other People Think?",
+            "id": 5548,
+            "author": "Richard P. Feynman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/5548",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "W.W. Norton & Company",
+            "tags": [
+                "Paperback",
+                "W.W. Norton & Company",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 5548,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

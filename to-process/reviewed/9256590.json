@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2502240436,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9256590
+                },
+                "isbn": 1607063352,
+                "isbn13": 9781607063353,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 477
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.uvYbphlOE0rEqwo8GRhNow",
+                "title": "Chew, Vol. 3: Just Desserts",
+                "title_without_series": "Chew, Vol. 3: Just Desserts",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9256590-chew-vol-3",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 7,
+                "publication_year": 2010,
+                "publication_month": 12,
+                "average_rating": 4.18,
+                "ratings_count": 11897,
+                "description": "Things are looking up for Tony Chu, the cibopathic federal agent with the ability to get psychic impressions from the things he eats. He's got a girlfriend. He's got a partner he trusts. He even seems to be getting along with his jerk boss. But his ruthless ex-partner is still out there, operating outside of the law, intending to make good on his threats against Tony and everybody Tony cares about. It's just a matter of time before their investigations collide, blood spills and, inevitably, body parts are eaten.<br /><br />Collects CHEW issues #11-15",
+                "authors": {
+                    "author": {
+                        "id": 93094,
+                        "name": "John Layman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1316046488p5/93094.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1316046488p2/93094.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/93094.John_Layman",
+                        "average_rating": 4.05,
+                        "ratings_count": 138007,
+                        "text_reviews_count": 8878
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 14137249,
+                    "uri": "kca://work/amzn1.gr.work.v1.cpVaYZZfUvEwZdL6OGthkw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2497987694
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 21 11:07:13 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Aug 13 00:00:00 -0700 2018",
+            "date_added": "Tue Aug 21 11:07:13 -0700 2018",
+            "date_updated": "Tue Aug 21 11:11:05 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2502240436",
+            "link": "https://www.goodreads.com/review/show/2502240436",
+            "owned": 0
+        }
+    }
+}

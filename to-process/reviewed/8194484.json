@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999621983,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8194484
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.gmr_N3Ss1RBpzb8jhfAQoA",
+                "title": "The Fortune Cookie Chronicles: Adventures in the World of Chinese Food",
+                "title_without_series": "The Fortune Cookie Chronicles: Adventures in the World of Chinese Food",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8194484-the-fortune-cookie-chronicles",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.66,
+                "ratings_count": 4409,
+                "description": "\"If you think McDonald's is the most ubiquitous restaurant experience in America, consider that there are more Chinese restaurants in America than McDonalds, Burger Kings, and Wendys <i>combined</i>.\" <br />— Jennifer 8 Lee, New York Times reporter and Chinese-American (or American-born Chinese).<br /><br />In her search, Jennifer 8 Lee traces the history of Chinese-American experience through the lens of the food. In a compelling blend of sociology and history, Jenny Lee exposes the indentured servitude Chinese restaurants expect from illegal immigrant chefs, investigates the relationship between Jews and Chinese food, and weaves a personal narrative about her own relationship with Chinese food. <br /><br /><i>The Fortune Cookie Chronicles</i> speaks to the immigrant experience as a whole, and the way it has shaped our country.",
+                "authors": {
+                    "author": {
+                        "id": 503667,
+                        "name": "Jennifer 8. Lee",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1204924748p5/503667.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1204924748p2/503667.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/503667.Jennifer_8_Lee",
+                        "average_rating": 3.66,
+                        "ratings_count": 4409,
+                        "text_reviews_count": 847
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 4291556,
+                    "uri": "kca://work/amzn1.gr.work.v1.l9Y9YGWf2EtusvyeEZLOKQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3156495457
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Oct 03 06:29:28 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2646063905,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Oct 03 06:29:28 -0700 2019",
+            "date_updated": "Thu Oct 03 06:29:28 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999621983",
+            "link": "https://www.goodreads.com/review/show/2999621983",
+            "owned": 0
+        }
+    }
+}

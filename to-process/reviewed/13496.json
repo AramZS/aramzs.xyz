@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789363751,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13496
+                },
+                "isbn": 553588486,
+                "isbn13": 9780553588484,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 38743
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.2TDKEBAExkzaok9ELm7icw",
+                "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+                "title_without_series": "A Game of Thrones",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones",
+                "num_pages": 835,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Bantam",
+                "publication_day": {},
+                "publication_year": 2005,
+                "publication_month": 8,
+                "average_rating": 4.45,
+                "ratings_count": 1930080,
+                "description": "Here is the first volume in George R. R. Martin’s magnificent cycle of novels that includes A Clash of Kings and A Storm of Swords. As a whole, this series comprises a genuine masterpiece of modern fantasy, bringing together the best the genre has to offer. Magic, mystery, intrigue, romance, and adventure fill these pages and transport us to a world unlike any we have ever experienced. Already hailed as a classic, George R. R. Martin’s stunning series is destined to stand as one of the great achievements of imaginative fiction.<br /><br />A GAME OF THRONES<br /><br />Long ago, in a time forgotten, a preternatural event threw the seasons out of balance. In a land where summers can last decades and winters a lifetime, trouble is brewing. The cold is returning, and in the frozen wastes to the north of Winterfell, sinister and supernatural forces are massing beyond the kingdom’s protective Wall. At the center of the conflict lie the Starks of Winterfell, a family as harsh and unyielding as the land they were born to. Sweeping from a land of brutal cold to a distant summertime kingdom of epicurean plenty, here is a tale of lords and ladies, soldiers and sorcerers, assassins and bastards, who come together in a time of grim omens.<br /><br />Here an enigmatic band of warriors bear swords of no human metal; a tribe of fierce wildlings carry men off into madness; a cruel young dragon prince barters his sister to win back his throne; and a determined woman undertakes the most treacherous of journeys. Amid plots and counterplots, tragedy and betrayal, victory and terror, the fate of the Starks, their allies, and their enemies hangs perilously in the balance, as each endeavors to win that deadliest of conflicts: the game of thrones.<br /><br />source: georgerrmartin.com",
+                "authors": {
+                    "author": {
+                        "id": 346732,
+                        "name": "George R.R. Martin",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563055799p5/346732.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563055799p2/346732.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
+                        "average_rating": 4.37,
+                        "ratings_count": 5431080,
+                        "text_reviews_count": 194376
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 1466917,
+                    "uri": "kca://work/amzn1.gr.work.v1.Vrl4aDtp2T19u85-Xfomzw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240402191
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 07:19:18 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 07:19:18 -0800 2013",
+            "date_updated": "Fri Dec 13 07:19:18 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789363751",
+            "link": "https://www.goodreads.com/review/show/789363751",
+            "owned": 0
+        }
+    }
+}

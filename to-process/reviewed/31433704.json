@@ -1,0 +1,132 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333636263,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 31433704
+                },
+                "isbn": 765395894,
+                "isbn13": 9780765395894,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 143
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.jbmVA1eNjDXwnMX3RR7hVw",
+                "title": "The Ruin of Angels (Craft Sequence, #6)",
+                "title_without_series": "The Ruin of Angels",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506451470l/31433704._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506451470l/31433704._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/31433704-the-ruin-of-angels",
+                "num_pages": 576,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Tor.com",
+                "publication_day": 5,
+                "publication_year": 2017,
+                "publication_month": 9,
+                "average_rating": 4.32,
+                "ratings_count": 1680,
+                "description": "<b>Max Gladstone returns with The Ruin of Angels, the sixth novel in the Craft Sequence, which The Washington Post calls \"the best kind of urban fantasy\" and NPR calls \"sharp, original, and passionate\"</b><br /><br />The God Wars destroyed the city of Alikand. Now, a century and a half and a great many construction contracts later, Agdel Lex rises in its place. Dead deities litter the surrounding desert, streets shift when people aren’t looking, a squidlike tower dominates the skyline, and the foreign Iskari Rectification Authority keeps strict order in this once-independent city―while treasure seekers, criminals, combat librarians, nightmare artists, angels, demons, dispossessed knights, grad students, and other fools gather in its ever-changing alleys, hungry for the next big score.<br /><br />Priestess/investment banker Kai Pohala (last seen in Full Fathom Five) hits town to corner Agdel Lex’s burgeoning nightmare startup scene, and to visit her estranged sister Ley. But Kai finds Ley desperate at the center of a shadowy, and rapidly unravelling, business deal. When Ley ends up on the run, wanted for a crime she most definitely committed, Kai races to track her sister down before the Authority finds her first. But Ley has her own plans, involving her ex-girlfriend, a daring heist into the god-haunted desert, and, perhaps, freedom for an occupied city. Because Alikand might not be completely dead―and some people want to finish the job.",
+                "authors": {
+                    "author": {
+                        "id": 3405346,
+                        "name": "Max Gladstone",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440009008p5/3405346.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440009008p2/3405346.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3405346.Max_Gladstone",
+                        "average_rating": 3.99,
+                        "ratings_count": 63809,
+                        "text_reviews_count": 11046
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 52129469,
+                    "uri": "kca://work/amzn1.gr.work.v1._765dCH5I0ELmooa6PEMJQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3534748210
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Apr 17 14:04:09 -0700 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2274329021
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Mar 20 05:24:45 -0700 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 2927920398,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri Apr 17 14:04:09 -0700 2020",
+            "read_at": {},
+            "date_added": "Tue Mar 20 05:24:45 -0700 2018",
+            "date_updated": "Fri Apr 17 14:04:09 -0700 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333636263",
+            "link": "https://www.goodreads.com/review/show/2333636263",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Macmillan Audio",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Ender’s Game (Ender’s Saga, #1)",
+            "id": "375802",
+            "author": "Orson Scott Card, Stefan Rudnicki, Harlan Ellison",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386947988000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Ender’s Game (Ender’s Saga, #1): Rating - 2/5",
+                    "date": 1386947988000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/375802",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Macmillan Audio",
+            "tags": [
+                "Audiobook",
+                "Macmillan Audio",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0812550706",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780812550702",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "375802",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Ender’s Game (Ender’s Saga, #1)",
+            "id": 375802,
+            "author": "Orson Scott Card",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/375802",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Macmillan Audio",
+            "tags": [
+                "Audiobook",
+                "Macmillan Audio",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 375802,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

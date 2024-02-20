@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789363714,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15783514
+                },
+                "isbn": 62255657,
+                "isbn13": 9780062255655,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 38661
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.xVcSPwHbfyrfVP9BtO7Kgg",
+                "title": "The Ocean at the End of the Lane",
+                "title_without_series": "The Ocean at the End of the Lane",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497098563l/15783514._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497098563l/15783514._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane",
+                "num_pages": 181,
+                "format": "Hardcover",
+                "edition_information": "First Edition",
+                "publisher": "William Morrow Books",
+                "publication_day": 18,
+                "publication_year": 2013,
+                "publication_month": 6,
+                "average_rating": 4,
+                "ratings_count": 460804,
+                "description": "Sussex, England. A middle-aged man returns to his childhood home to attend a funeral. Although the house he lived in is long gone, he is drawn to the farm at the end of the road, where, when he was seven, he encountered a most remarkable girl, Lettie Hempstock, and her mother and grandmother. He hasn't thought of Lettie in decades, and yet as he sits by the pond (a pond that she'd claimed was an ocean) behind the ramshackle old farmhouse, the unremembered past comes flooding back. And it is a past too strange, too frightening, too dangerous to have happened to anyone, let alone a small boy.<br /><br />Forty years earlier, a man committed suicide in a stolen car at this farm at the end of the road. Like a fuse on a firework, his death lit a touchpaper and resonated in unimaginable ways. The darkness was unleashed, something scary and thoroughly incomprehensible to a little boy. And Lettie—magical, comforting, wise beyond her years—promised to protect him, no matter what.<br /><br />A groundbreaking work from a master, <i>The Ocean at the End of the Lane</i> is told with a rare understanding of all that makes us human, and shows the power of stories to reveal and shelter us from the darkness inside and out. It is a stirring, terrifying, and elegiac fable as delicate as a butterfly's wing and as menacing as a knife in the dark.",
+                "authors": {
+                    "author": {
+                        "id": 1221698,
+                        "name": "Neil Gaiman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p5/1221698.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p2/1221698.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1221698.Neil_Gaiman",
+                        "average_rating": 4.13,
+                        "ratings_count": 5858809,
+                        "text_reviews_count": 352877
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21500681,
+                    "uri": "kca://work/amzn1.gr.work.v1._CoJEzWs32eIUxrid2be6Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240402146
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 07:19:12 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 07:19:12 -0800 2013",
+            "date_updated": "Fri Dec 13 07:19:12 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789363714",
+            "link": "https://www.goodreads.com/review/show/789363714",
+            "owned": 0
+        }
+    }
+}

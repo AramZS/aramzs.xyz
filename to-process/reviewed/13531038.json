@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629409270,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13531038
+                },
+                "isbn": 763662623,
+                "isbn13": 9780763662622,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 207
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4aFOb4rJg4-zRWKJR5_TkA",
+                "title": "Feed",
+                "title_without_series": "Feed",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579245l/13531038._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579245l/13531038._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13531038-feed",
+                "num_pages": 300,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Candlewick Press",
+                "publication_day": 17,
+                "publication_year": 2012,
+                "publication_month": 7,
+                "average_rating": 3.54,
+                "ratings_count": 53447,
+                "description": "We went to the moon to have fun, but the moon turned out to completely suck. <br />So says Titus, whose ability to read, write, and even think for himself has been almost completely obliterated by his feed, a transmitter implanted directly into his brain. Feeds are a crucial part of life for Titus and his friends. After all, how else would they know where to party on the moon, how to get bargains at Weatherbee &amp; Crotch, or how to accessorize the mysterious lesions everyone s been getting? But then Titus meets Violet, a girl who cares about what s happening to the world and challenges everything Titus and his friends hold dear. A girl who decides to fight the feed.<br />Following in the footsteps of Aldous Huxley, George Orwell, and Kurt Vonnegut, M. T. Anderson has created a not-so-brave new world and a smart, savage satire about the nature of consumerism and what it means to be a teenager in America.\"",
+                "authors": {
+                    "author": {
+                        "id": 31688,
+                        "name": "M.T. Anderson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1247706514p5/31688.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1247706514p2/31688.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/31688.M_T_Anderson",
+                        "average_rating": 3.67,
+                        "ratings_count": 137445,
+                        "text_reviews_count": 16890
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 163928,
+                    "uri": "kca://work/amzn1.gr.work.v1._bCriIOLgcr8nl7ZdFS5zA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666055693
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:50:16 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274613505,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:50:15 -0800 2018",
+            "date_updated": "Mon Dec 17 07:50:16 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629409270",
+            "link": "https://www.goodreads.com/review/show/2629409270",
+            "owned": 0
+        }
+    }
+}

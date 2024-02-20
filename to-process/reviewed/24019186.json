@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1991501169,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 24019186
+                },
+                "isbn": 765378574,
+                "isbn13": 9780765378576,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 279
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.sbX_6JUMIfyyzH5N60ZPtA",
+                "title": "The Bands of Mourning (Mistborn, #6)",
+                "title_without_series": "The Bands of Mourning",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450135215l/24019186._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450135215l/24019186._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/24019186-the-bands-of-mourning",
+                "num_pages": 447,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 26,
+                "publication_year": 2016,
+                "publication_month": 1,
+                "average_rating": 4.43,
+                "ratings_count": 66310,
+                "description": "<b>From #1 New York Times bestselling author Brandon Sanderson, the Mistborn series is a heist story of political intrigue and magical, martial-arts action. </b><br /><br />Three hundred years after the events of the Mistborn trilogy, Scadrial is now on the verge of modernity, with railroads to supplement the canals, electric lighting in the streets and the homes of the wealthy, and the first steel-framed skyscrapers racing for the clouds.<br /><br />The Bands of Mourning are the mythical metal minds owned by the Lord Ruler, said to grant anyone who wears them the powers that the Lord Ruler had at his command. Hardly anyone thinks they really exist. A kandra researcher has returned to Elendel with images that seem to depict the Bands, as well as writings in a language that no one can read. Waxillium Ladrian is recruited to travel south to the city of New Seran to investigate. Along the way he discovers hints that point to the true goals of his uncle Edwarn and the shadowy organization known as The Set.",
+                "authors": {
+                    "author": {
+                        "id": 38550,
+                        "name": "Brandon Sanderson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1394044556p5/38550.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1394044556p2/38550.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+                        "average_rating": 4.39,
+                        "ratings_count": 3270920,
+                        "text_reviews_count": 217241
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 26616838,
+                    "uri": "kca://work/amzn1.gr.work.v1.hjb8-KcxcIDr6mGOnKWGYg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1828115195
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri May 05 04:28:32 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1646322067,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri May 05 04:28:31 -0700 2017",
+            "date_updated": "Fri May 05 04:28:32 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1991501169",
+            "link": "https://www.goodreads.com/review/show/1991501169",
+            "owned": 0
+        }
+    }
+}

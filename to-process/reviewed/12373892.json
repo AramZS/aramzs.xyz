@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749128481,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12373892
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 26
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.38M5GxVeXhwJPiVQ5yf2gg",
+                "title": "Season of the Witch: Enchantment, Terror and Deliverance in the City of Love",
+                "title_without_series": "Season of the Witch: Enchantment, Terror and Deliverance in the City of Love",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12373892-season-of-the-witch",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.26,
+                "ratings_count": 4381,
+                "description": "In a kaleidoscopic narrative, bestselling David Talbot recounts the gripping story of San Francisco in the turbulent years between 1967 &amp; 1982—&amp; of the extraordinary persons who led to the city’s ultimate rebirth &amp; triumph. <br /><br /><i>Season of the Witch</i> is the first book to fully capture the dark magic of San Francisco in this breathtaking period, when the city radically changed itself &amp; then revolutionized the world. The cool gray city of love was the epicenter of the 60s cultural revolution. But by the early 70s, San Francisco’s ecstatic experiment came crashing down from its starry heights. The city was rocked by savage murder sprees, mysterious terror campaigns, political assassinations, street riots &amp; finally a terrifying sexual epidemic. No other city endured so many calamities in such a short time span. <br /><br />Talbot goes deep into the riveting story of his city’s ascent, decline &amp; heroic recovery. He draws intimate portraits of San Francisco’s legendary demons &amp; saviors: Charles Manson, Patty Hearst &amp; the Symbionese Liberation Army, Jerry Garcia, Janis Joplin, Bill Graham, Herb Caen, the Cockettes, Harvey Milk, Jim Jones &amp; the Peoples Temple, Joe Montana &amp; the Super Bowl 49ers. <br /><br />He reveals how the city emerged from the trials of this period with a new brand of “San Francisco values,” including gay marriage, medical marijuana, immigration sanctuary, universal health care, recycling, renewable energy, consumer safety &amp; a living wage mandate. Considered radical when they were first introduced, these ideas have become the bedrock of decent society in many parts of the country &amp; exemplify the ways that the city now inspires a live-and-let-live tolerance, a shared sense of humanity &amp; an openness to change. <br /><br />As a new generation of activists &amp; dreamers seeks its own path to a more enlightened future, <i>Season of the Witch</i>—with its epic tale of the wild &amp; bloody birth of San Francisco values—offers both inspiration &amp; cautionary wisdom.",
+                "authors": {
+                    "author": {
+                        "id": 286613,
+                        "name": "David Talbot",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1517424736p5/286613.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1517424736p2/286613.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/286613.David_Talbot",
+                        "average_rating": 4.2,
+                        "ratings_count": 9963,
+                        "text_reviews_count": 1232
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 17332028,
+                    "uri": "kca://work/amzn1.gr.work.v1.8d5BMJI4KFBzmYov-Lvw3A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498301421
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:41:26 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414465004,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:41:25 -0700 2016",
+            "date_updated": "Mon Sep 05 07:41:26 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749128481",
+            "link": "https://www.goodreads.com/review/show/1749128481",
+            "owned": 0
+        }
+    }
+}

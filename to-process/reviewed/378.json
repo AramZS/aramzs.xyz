@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528971198,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 378
+                },
+                "isbn": 394820371,
+                "isbn13": 9780394820378,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8905
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.gCH00i62rcHJG1kltdJRNw",
+                "title": "The Phantom Tollbooth",
+                "title_without_series": "The Phantom Tollbooth",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558858485l/378._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558858485l/378._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/378.The_Phantom_Tollbooth",
+                "num_pages": 256,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Random House Bullseye Books",
+                "publication_day": {},
+                "publication_year": 1996,
+                "publication_month": {},
+                "average_rating": 4.21,
+                "ratings_count": 228671,
+                "description": "<i>Librarian's Note: For an alternate cover edition of the same ISBN, click <a href=\"https://www.goodreads.com/book/show/33555595-the-phantom-tollbooth\" rel=\"nofollow\">here</a>.</i><br /><br />Hailed as “a classic. . . . humorous, full of warmth and real invention” (The New Yorker), this beloved story -first published more than fifty years ago- introduces readers to Milo and his adventures in the Lands Beyond. <br /><br />For Milo, everything’s a bore. When a tollbooth mysteriously appears in his room, he drives through only because he’s got nothing better to do. But on the other side, things seem different. Milo visits the Island of Conclusions (you get there by jumping), learns about time from a ticking watchdog named Tock, and even embarks on a quest to rescue Rhyme and Reason! Somewhere along the way, Milo realizes something astonishing. Life is far from dull. In fact, it’s exciting beyond his wildest dreams. . . .",
+                "authors": {
+                    "author": {
+                        "id": 214,
+                        "name": "Norton Juster",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1201117378p5/214.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1201117378p2/214.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/214.Norton_Juster",
+                        "average_rating": 4.19,
+                        "ratings_count": 241424,
+                        "text_reviews_count": 11869
+                    }
+                },
+                "published": 1996,
+                "work": {
+                    "id": 1782584,
+                    "uri": "kca://work/amzn1.gr.work.v1.tD0TRbixzzy5TByvqPQIiw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:34:01 -0800 2013",
+            "date_updated": "Thu Feb 07 08:34:01 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528971198",
+            "link": "https://www.goodreads.com/review/show/528971198",
+            "owned": 0
+        }
+    }
+}

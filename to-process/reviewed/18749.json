@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24672171,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18749
+                },
+                "isbn": 1400044162,
+                "isbn13": 9781400044160,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5713
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.mZzNb3VfcEjbSIgPwlPJdg",
+                "title": "Half of a Yellow Sun",
+                "title_without_series": "Half of a Yellow Sun",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327934717l/18749._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327934717l/18749._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18749.Half_of_a_Yellow_Sun",
+                "num_pages": 433,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Knopf",
+                "publication_day": 12,
+                "publication_year": 2006,
+                "publication_month": 9,
+                "average_rating": 4.32,
+                "ratings_count": 94581,
+                "description": "A masterly, haunting new novel from a writer heralded by The Washington Post Book World as “the 21st-century daughter of Chinua Achebe,” Half of a Yellow Sun re-creates a seminal moment in modern African history: Biafra’s impassioned struggle to establish an independent republic in Nigeria in the 1960s, and the chilling violence that followed. <br /><br />With astonishing empathy and the effortless grace of a natural storyteller, Chimamanda Ngozi Adichie weaves together the lives of three characters swept up in the turbulence of the decade. Thirteen-year-old Ugwu is employed as a houseboy for a university professor full of revolutionary zeal. Olanna is the professor’s beautiful mistress, who has abandoned her life of privilege in Lagos for a dusty university town and the charisma of her new lover. And Richard is a shy young Englishman in thrall to Olanna’s twin sister, an enigmatic figure who refuses to belong to anyone. As Nigerian troops advance and the three must run for their lives, their ideals are severely tested, as are their loyalties to one another. <br /><br />Epic, ambitious, and triumphantly realized, Half of a Yellow Sun is a remarkable novel about moral responsibility, about the end of colonialism, about ethnic allegiances, about class and race—and the ways in which love can complicate them all. Adichie brilliantly evokes the promise and the devastating disappointments that marked this time and place, bringing us one of the most powerful, dramatic, and intensely emotional pictures of modern Africa that we have ever had.",
+                "authors": {
+                    "author": {
+                        "id": 11291,
+                        "name": "Chimamanda Ngozi Adichie",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1474446019p5/11291.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1474446019p2/11291.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/11291.Chimamanda_Ngozi_Adichie",
+                        "average_rating": 4.34,
+                        "ratings_count": 635259,
+                        "text_reviews_count": 61263
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 1651408,
+                    "uri": "kca://work/amzn1.gr.work.v1.M-ZgwCx4X95x_ZHp5A1xhg"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 10337496,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:29:21 -0700 2008",
+            "date_updated": "Mon Jun 16 19:29:21 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24672171",
+            "link": "https://www.goodreads.com/review/show/24672171",
+            "owned": 0
+        }
+    }
+}

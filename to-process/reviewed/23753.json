@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1478218409,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23753
+                },
+                "isbn": 1401210821,
+                "isbn13": 9781401210823,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 520
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.B2eiBQdz7tLVzbBXUrqZ9A",
+                "title": "The Absolute Sandman, Volume One",
+                "title_without_series": "The Absolute Sandman, Volume One",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312226853l/23753._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312226853l/23753._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23753.The_Absolute_Sandman_Volume_One",
+                "num_pages": 612,
+                "format": "Slipcased Hardcover",
+                "edition_information": {},
+                "publisher": "Vertigo",
+                "publication_day": 1,
+                "publication_year": 2006,
+                "publication_month": 11,
+                "average_rating": 4.66,
+                "ratings_count": 16646,
+                "description": "One of the most popular and critically acclaimed comic book titles of all time, <b>\n  <i>New York Times</i>\n</b> best-selling author <a href=\"https://www.goodreads.com/author/show/1221698.Neil_Gaiman\" rel=\"nofollow\">Neil Gaiman</a>'s masterpiece <b>\n  <i>The Sandman</i>\n</b> set new standards for mature, lyrical fantasy and graphic narrative. Now, Vertigo and DC Comics are proud to present the first of four definitive Absolute Editions collecting this groundbreaking series in its entirety. <br /><br /><b>\n  <i>The Absolute Sandman, Volume One</i>\n</b> reprints issues 1-20 of <a href=\"https://www.goodreads.com/series/40372-the-sandman\" rel=\"nofollow\">\n  <i>The Sandman</i>\n</a>, and features all-new coloring on issues 1-18, commissioned especially for this edition. This volume also includes a full reproduction of Gaiman's original proposal for the series and the complete script and pencils by Gaiman and <a href=\"https://www.goodreads.com/author/show/10763.Charles_Vess\" rel=\"nofollow\">Charles Vess</a> for the World Fantasy Award-winning story \"A Midsummer Night's Dream\" from <b><i>The Sandman</i> 19</b>. Finally, a gallery of character design sketches show the evolution of Dream of the Endless.",
+                "authors": {
+                    "author": {
+                        "id": 1221698,
+                        "name": "Neil Gaiman",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p5/1221698.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p2/1221698.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1221698.Neil_Gaiman",
+                        "average_rating": 4.13,
+                        "ratings_count": 5858776,
+                        "text_reviews_count": 352868
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 1789924,
+                    "uri": "kca://work/amzn1.gr.work.v1.vTifJa40r9fMPhTMOWxNPw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1124093762
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 24 16:07:05 -0800 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813195263,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 24 16:07:05 -0800 2015",
+            "date_updated": "Mon Oct 23 16:31:39 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1478218409",
+            "link": "https://www.goodreads.com/review/show/1478218409",
+            "owned": 0
+        }
+    }
+}

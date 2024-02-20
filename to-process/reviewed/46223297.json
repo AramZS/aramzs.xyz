@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999620374,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 46223297
+                },
+                "isbn": 1250237238,
+                "isbn13": 9781250237231,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1939
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.yvimwq0Pp6vAnCVyLidhFQ",
+                "title": "Permanent Record",
+                "title_without_series": "Permanent Record",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/46223297-permanent-record",
+                "num_pages": 339,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Metropolitan Books",
+                "publication_day": 17,
+                "publication_year": 2019,
+                "publication_month": 9,
+                "average_rating": 4.38,
+                "ratings_count": 20777,
+                "description": "<b>Edward Snowden, the man who risked everything to expose the US government’s system of mass surveillance, reveals for the first time the story of his life, including how he helped to build that system and what motivated him to try to bring it down.</b><br /><br />In 2013, twenty-nine-year-old Edward Snowden shocked the world when he broke with the American intelligence establishment and revealed that the United States government was secretly pursuing the means to collect every single phone call, text message, and email. The result would be an unprecedented system of mass surveillance with the ability to pry into the private lives of every person on earth. Six years later, Snowden reveals for the very first time how he helped to build this system and why he was moved to expose it.<br /><br />Spanning the bucolic Beltway suburbs of his childhood and the clandestine CIA and NSA postings of his adulthood, <i>Permanent Record</i> is the extraordinary account of a bright young man who grew up online—a man who became a spy, a whistleblower, and, in exile, the Internet’s conscience. Written with wit, grace, passion, and an unflinching candor, <i>Permanent Record</i> is a crucial memoir of our digital age and destined to be a classic.",
+                "authors": {
+                    "author": {
+                        "id": 7140597,
+                        "name": "Edward Snowden",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1425078029p5/7140597.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1425078029p2/7140597.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7140597.Edward_Snowden",
+                        "average_rating": 4.37,
+                        "ratings_count": 21022,
+                        "text_reviews_count": 2404
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 71198843,
+                    "uri": "kca://work/amzn1.gr.work.v1.hxl4eQLhp9S5ekRN1i2J4w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3156493388
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Oct 03 06:27:44 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2646062285,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Oct 03 06:27:44 -0700 2019",
+            "date_updated": "Thu Oct 03 06:27:44 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999620374",
+            "link": "https://www.goodreads.com/review/show/2999620374",
+            "owned": 0
+        }
+    }
+}

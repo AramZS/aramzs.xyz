@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2591746321,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25353286
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1228
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qYLe9uGwhnGhshStKAfGNQ",
+                "title": "Provenance",
+                "title_without_series": "Provenance",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492328037l/25353286._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492328037l/25353286._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25353286-provenance",
+                "num_pages": 448,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 26,
+                "publication_year": 2017,
+                "publication_month": 9,
+                "average_rating": 3.82,
+                "ratings_count": 12171,
+                "description": "Following her record-breaking debut trilogy, Ann Leckie, winner of the Hugo, Nebula, Arthur C. Clarke and Locus Awards, returns with an enthralling new novel of power, theft, privilege and birthright.<br /><br />A power-driven young woman has just one chance to secure the status she craves and regain priceless lost artifacts prized by her people. She must free their thief from a prison planet from which no one has ever returned.<br /><br />Ingray and her charge will return to her home world to find their planet in political turmoil, at the heart of an escalating interstellar conflict. Together, they must make a new plan to salvage Ingray's future, her family, and her world, before they are lost to her for good.",
+                "authors": {
+                    "author": {
+                        "id": 3365457,
+                        "name": "Ann Leckie",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1402526383p5/3365457.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1402526383p2/3365457.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3365457.Ann_Leckie",
+                        "average_rating": 4.02,
+                        "ratings_count": 173495,
+                        "text_reviews_count": 18640
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 45094649,
+                    "uri": "kca://work/amzn1.gr.work.v1.IikxinlN3attLacXEZ9azQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2616210808
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 12 04:50:13 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 12 04:50:13 -0800 2018",
+            "date_updated": "Mon Nov 12 04:50:39 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2591746321",
+            "link": "https://www.goodreads.com/review/show/2591746321",
+            "owned": 0
+        }
+    }
+}

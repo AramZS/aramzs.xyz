@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24669820,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 927979
+                },
+                "isbn": 451461894,
+                "isbn13": 9780451461896,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1941
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.PdFZzl3MsEdG-T3wQv1Jng",
+                "title": "Small Favor (The Dresden Files, #10)",
+                "title_without_series": "Small Favor",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298085176l/927979._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298085176l/927979._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/927979.Small_Favor",
+                "num_pages": 420,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Roc",
+                "publication_day": 1,
+                "publication_year": 2008,
+                "publication_month": 4,
+                "average_rating": 4.44,
+                "ratings_count": 90872,
+                "description": "<b>THE <i>New York Times</i> Bestseller</b><br /><br />Harry Dresden's life finally seems to be calming down -- until a shadow from the past returns. Mab, monarch of the Sidhe Winter Court, calls in an old favor from Harry -- one small favor that will trap him between a nightmarish foe and an equally deadly ally, and that will strain his skills -- and loyalties -- to their very limits.",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2054834,
+                    "uri": "kca://work/amzn1.gr.work.v1.ra0cnT6pKJFau2JfnLWg4g"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:02:29 -0700 2008",
+            "date_updated": "Mon Jun 16 19:02:39 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24669820",
+            "link": "https://www.goodreads.com/review/show/24669820",
+            "owned": 0
+        }
+    }
+}

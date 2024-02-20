@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 493461557,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 270540
+                },
+                "isbn": 785122672,
+                "isbn13": 9780785122678,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 148
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.29iKnynGm8Ma2nTCHemBLw",
+                "title": "Runaways, Vol. 7: Live Fast",
+                "title_without_series": "Runaways, Vol. 7: Live Fast",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486083385l/270540._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486083385l/270540._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/270540.Runaways_Vol_7",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": "Digest",
+                "publisher": "Marvel",
+                "publication_day": 9,
+                "publication_year": 2007,
+                "publication_month": 5,
+                "average_rating": 4.24,
+                "ratings_count": 5591,
+                "description": "The Runaways say good-bye to the past, and make hard decisions about their future. Plus: Still reeling from the events of <i>Civil War: Young Avengers/Runaways</i>, the teenage heroes must now confront a horrific enemy who threatens to tear the team apart!<br /><br />Collects Runaways #19-24.",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 262270,
+                    "uri": "kca://work/amzn1.gr.work.v1.AW00PaICFBMU7XVfzp5lCw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051895255
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:46:53 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813206418,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Jan 02 22:00:53 -0800 2013",
+            "date_updated": "Mon Oct 23 16:46:53 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/493461557",
+            "link": "https://www.goodreads.com/review/show/493461557",
+            "owned": 0
+        }
+    }
+}

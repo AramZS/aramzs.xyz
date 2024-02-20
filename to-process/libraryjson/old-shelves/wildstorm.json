@@ -1,0 +1,59 @@
+{
+    "name": "WildStorm ",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Sleeper Season Two",
+            "id": "6555278",
+            "author": "Ed Brubaker, Sean Phillips",
+            "date_finished": 1359676800000,
+            "notes": [],
+            "date_started": 1508802134000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Sleeper Season Two: Rating - 5/5",
+                    "date": 1359676800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6555278",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "WildStorm ",
+            "tags": [
+                "Paperback",
+                "WildStorm ",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1401224938",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781401224936",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6555278",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

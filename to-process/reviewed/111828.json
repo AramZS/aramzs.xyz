@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 816024827,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 111828
+                },
+                "isbn": 1593072805,
+                "isbn13": 9781593072803,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 124
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.rupiP6AcXv4NkeTpiVO0rg",
+                "title": "B.P.R.D., Vol. 1: Hollow Earth and Other Stories",
+                "title_without_series": "B.P.R.D., Vol. 1: Hollow Earth and Other Stories",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403208800l/111828._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403208800l/111828._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/111828.B_P_R_D_Vol_1",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Dark Horse",
+                "publication_day": 4,
+                "publication_year": 2004,
+                "publication_month": 8,
+                "average_rating": 4.02,
+                "ratings_count": 4319,
+                "description": "The Hollow Earth, by Mike Mignola, Chris Golden, Tom Sniegoski, and Ryan Sook, reveals the Bureau for Paranormal Research and Defense's struggle to save agent Liz Sherman, and their struggle to deal with life without Hellboy. That story is collected here with rare Hellboy related stories, long sought after by fans of the Mignola's hit comic, which is soon to be a major motion picture! Reprinted here for the first time are the first solo Abe Sapien comic, Drums of the Dead, by Brian McDonald and Derek Thompson, as well as the short stories \"Abe Sapien versus Science\" and \"Lobster Johnson: Killer Inside My Skull.\" If these names mean nothing to you, you've been missing out on the greatest adventure saga comics has to offer. If you do know these names, then this is the collection you've been asking for.",
+                "authors": {
+                    "author": {
+                        "id": 10182,
+                        "name": "Mike Mignola",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1548964535p5/10182.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1548964535p2/10182.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10182.Mike_Mignola",
+                        "average_rating": 4.11,
+                        "ratings_count": 323006,
+                        "text_reviews_count": 15145
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 346515,
+                    "uri": "kca://work/amzn1.gr.work.v1.lQ2j_qtwcNmaHQBQj5s70w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 272647974
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Jan 07 15:10:35 -0800 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Jan 01 00:00:00 -0800 2014",
+            "date_added": "Tue Jan 07 15:10:35 -0800 2014",
+            "date_updated": "Wed Jan 22 13:15:14 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/816024827",
+            "link": "https://www.goodreads.com/review/show/816024827",
+            "owned": 0
+        }
+    }
+}

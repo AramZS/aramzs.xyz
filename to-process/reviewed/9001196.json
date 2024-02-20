@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1190814982,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9001196
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.eV8z0kWj7ZDSiWNf_CcgNg",
+                "title": "The Victorian Internet",
+                "title_without_series": "The Victorian Internet",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9001196-the-victorian-internet",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.93,
+                "ratings_count": 2702,
+                "description": "For centuries people communicated across distances only as quickly as the fastest ship or horse could travel. Generations of innovators tried and failed to develop speedier messaging devices. But in the mid-1800s, a few extraordinary pioneers at last succeeded. Their invention--the electric telegraph--shrank the world more quickly than ever before.<br /><br />A colorful tale of scientific discovery and technological cunning, <i>The Victorian Internet</i> tells the story of the telegraph's creation and remarkable impact, and of the visionaries, oddballs, and eccentrics who pioneered it. By 1865 telegraph cables spanned continents and oceans, revolutionizing the ways countries dealt with one another. The telegraph gave rise to creative business practices and new forms of crime. Romances blossomed over the wires. Secret codes were devised by some users, and cracked by others. The benefits of the network were relentlessly hyped by its advocates and dismissed by its skeptics. And attitudes toward everything from news gathering to war had to be completely rethought. <br /><br />The telegraph unleashed the greatest revolution in communications since the development of the printing press. Its saga offers many parallels to that of the Internet in our own time--and is a fascinating episode in the history of technology.",
+                "authors": {
+                    "author": {
+                        "id": 2636,
+                        "name": "Tom Standage",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1269484836p5/2636.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1269484836p2/2636.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2636.Tom_Standage",
+                        "average_rating": 3.78,
+                        "ratings_count": 27656,
+                        "text_reviews_count": 3167
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 51545,
+                    "uri": "kca://work/amzn1.gr.work.v1.iJUVI_2FIdHphS9uMjnL7w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 744189456
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Feb 04 13:22:42 -0800 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 904007760,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Feb 04 13:22:41 -0800 2015",
+            "date_updated": "Wed Feb 04 13:22:42 -0800 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1190814982",
+            "link": "https://www.goodreads.com/review/show/1190814982",
+            "owned": 0
+        }
+    }
+}

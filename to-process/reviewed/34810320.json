@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629414678,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34810320
+                },
+                "isbn": 1250105714,
+                "isbn13": 9781250105714,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10805
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qfzGwGDGsY55tRPoA0BbGg",
+                "title": "Sadie",
+                "title_without_series": "Sadie",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556559178l/34810320._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556559178l/34810320._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34810320-sadie",
+                "num_pages": 308,
+                "format": "Hardcover",
+                "edition_information": "1st Edition",
+                "publisher": "Wednesday Books",
+                "publication_day": 4,
+                "publication_year": 2018,
+                "publication_month": 9,
+                "average_rating": 4.15,
+                "ratings_count": 52377,
+                "description": "A missing girl on a journey of revenge. A <i>Serial</i>―like podcast following the clues she's left behind. And an ending you won't be able to stop talking about.<br /><br />Sadie hasn't had an easy life. Growing up on her own, she's been raising her sister Mattie in an isolated small town, trying her best to provide a normal life and keep their heads above water.<br /><br />But when Mattie is found dead, Sadie's entire world crumbles. After a somewhat botched police investigation, Sadie is determined to bring her sister's killer to justice and hits the road following a few meager clues to find him.<br /><br />When West McCray―a radio personality working on a segment about small, forgotten towns in America―overhears Sadie's story at a local gas station, he becomes obsessed with finding the missing girl. He starts his own podcast as he tracks Sadie's journey, trying to figure out what happened, hoping to find her before it's too late.<br /><br />Courtney Summers has written the breakout book of her career. Sadie is propulsive and harrowing and will keep you riveted until the last page.",
+                "authors": {
+                    "author": {
+                        "id": 1487748,
+                        "name": "Courtney Summers",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1589039294p5/1487748.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1589039294p2/1487748.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1487748.Courtney_Summers",
+                        "average_rating": 3.97,
+                        "ratings_count": 122367,
+                        "text_reviews_count": 23002
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 56026767,
+                    "uri": "kca://work/amzn1.gr.work.v1.2WTL87D7QEcobzRMufbPvg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666062918
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:56:41 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274619100,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:56:40 -0800 2018",
+            "date_updated": "Mon Dec 17 07:56:41 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629414678",
+            "link": "https://www.goodreads.com/review/show/2629414678",
+            "owned": 0
+        }
+    }
+}

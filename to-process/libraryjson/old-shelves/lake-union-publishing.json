@@ -1,0 +1,149 @@
+{
+    "name": "Lake Union Publishing",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Woman on the Orient Express",
+            "id": "29806077",
+            "author": "Lindsay Jayne Ashford",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1521548321000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Woman on the Orient Express: Rating - 3/5",
+                    "date": 1521548321000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/29806077",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Lake Union Publishing",
+            "tags": [
+                "Paperback",
+                "Lake Union Publishing",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1503938123",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781503938120",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "29806077",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Things We Wish Were True",
+            "id": "29632984",
+            "author": "Marybeth Mayhew Whalen",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086477000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/29632984",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Lake Union Publishing",
+            "tags": [
+                "Kindle Edition",
+                "Lake Union Publishing",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "29632984",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Woman on the Orient Express",
+            "id": 29806077,
+            "author": "Lindsay Jayne Ashford",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/29806077",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Lake Union Publishing",
+            "tags": [
+                "Paperback",
+                "Lake Union Publishing",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 29806077,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

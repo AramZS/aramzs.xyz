@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 25078903,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2490860
+                },
+                "isbn": 978867645,
+                "isbn13": 9780978867645,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 20
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.NPzUfjP_5cZFFVa3ZDwFfQ",
+                "title": "HebrewPunk",
+                "title_without_series": "HebrewPunk",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2490860.HebrewPunk",
+                "num_pages": 148,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Apex Publications",
+                "publication_day": 30,
+                "publication_year": 2007,
+                "publication_month": 8,
+                "average_rating": 3.74,
+                "ratings_count": 90,
+                "description": "Lavie Tidhar gathers some of his best work in one collection. Stories that are infused with centuries of tradition and painted with Hebrew mythology. We meet the Tzaddik as he faces off against a vengeful angel intent on sending the Fallen to hell. The shape shifting Rat fights lycanthropic Nazis. The Rabbi takes us on a thoughtful and amusing journey into the possibilities of a Jewish state in the heart of Africa. Finally, all three protagonists appear in an old-fashioned caper story that will leave you breathless.<br /> Table of Contents The Heist Transylvania Mission Uganda The Dope Fiend Special introduction by Laura Anne Gilman \"How well I recall, as a lad aged some ten years, circa 1937, reading Lavie Tidhar s stirring adventures in such pulps as Thrilling Hebrew Tales and Yiddish Excitement Quarterly. Even then, these tales possessed a fascinating air of archaic menace and occult power. Now, some seventy years after their original publication, they positively radiate the uncanny sensibilities of a bygone era. What a cast of characters the Rabbi, the Rat and the Tzaddik, as memorable as Doc Savage and his crew! And what a set of venues the London underworld, the African jungles, and more! Plus robust menaces galore! Lavie Tidhar surpassed those who went before him, such as H. Rider Haggard, and inspired those who came after, viz, Avram Davidson and Alan Moore. Having these rousing romps gathered at last into the volume HebrewPunk marks a milestone in the literature of the fantastic.\" Paul Di Filippo, author of The Emperor of Gondwanaland and Other Stories <br /> \"Lavie Tidhar has staked out (no pun intended) his own territory by imagining a Judaic mystical alternative history into which he injects vampires, zombies, werewolves, Tzaddiks, golems, and Rabbis. These four stories are wondrous, adventurous, and thought-provoking.\" Ellen Datlow, editor of The Year s Best Horror <br /> \"Here we have stories of Tzaddik, The Rat, the Rabbi... Lavie is mining ancient traditions and recent history to write stories of modern despair and a weird sort of redemptive compassion, messing with our expectations and always, always, leading with our humanity, even when those heroes are, by some standards, monsters.\" Laura Anne Gilman, author of Burning Bridges <br /> \"Lavie Tidhar has a unique and fascinating voice, as well as a good sense of history both History Surreal and History Literary, as well as the more mundane kind. Imagine Hard-Boiled Kabbalah, a Godfather Rabbi whose gang includes vampires, werewolves and (naturally) golems. If you like your otherworld fun noir, have I got a book for you!\" Kage Baker, author of In the Garden of Iden <br /> \"I did read the book, and the good thing is that I loved it kick-ass kosher adventures. Tidhar writes a sort of intensified supernatural action-surrealism that fair rattles along and is full of surprises not only plot-twists and thrills, but a level of conceptual surprise, a reinvigoration of some of the more tired conventions of the fantasy-horror genre. Zombies, golems, werewolves, Rabbis, Kabbala, it s all here, and all saturated with a sense of exotic roundedness, an eerie solidity and reality. Not to be missed.\" Adam Roberts, author of Gradisyl \"",
+                "authors": {
+                    "author": {
+                        "id": 572738,
+                        "name": "Lavie Tidhar",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1369652429p5/572738.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1369652429p2/572738.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/572738.Lavie_Tidhar",
+                        "average_rating": 3.72,
+                        "ratings_count": 30692,
+                        "text_reviews_count": 4888
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 2498165,
+                    "uri": "kca://work/amzn1.gr.work.v1.2rzYSO9U_RfbMK4NI9f6FQ"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 21 15:43:24 -0700 2008",
+            "date_updated": "Mon Mar 02 10:09:24 -0800 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/25078903",
+            "link": "https://www.goodreads.com/review/show/25078903",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 455914199,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16146784
+                },
+                "isbn": 1480005754,
+                "isbn13": 9781480005754,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 13
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.n33cLlBJGXadxQSNLlvFFA",
+                "title": "A Mind Forever Voyaging: A History of Storytelling in Video Games",
+                "title_without_series": "A Mind Forever Voyaging: A History of Storytelling in Video Games",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352757861l/16146784._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352757861l/16146784._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16146784-a-mind-forever-voyaging",
+                "num_pages": 248,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "CreateSpace Independent Publishing Platform",
+                "publication_day": 7,
+                "publication_year": 2012,
+                "publication_month": 11,
+                "average_rating": 3.79,
+                "ratings_count": 89,
+                "description": "From amazon.com- <br />\"An engaging and entertaining read for veteran gamers and curious newcomers alike, A Mind Forever Voyaging traces the evolution of interactive video games by examining 13 landmark titles that challenged convention and captured players’ imaginations worldwide. Alternative gaming blogger Dylan Holmes focuses on games that tell stories in innovative and fascinating ways and examines the opportunities—and challenges—presented when players are given the ability to direct how a story plays out. From the text-based adventure of Planetfall and the interactive cinema of Heavy Rain to the one-act play of Façade and the simulated world of Shenmue, Holmes showcases the diversity of video game stories that have emerged in the last 30 years. Along the way, he addresses such questions as:<br /><br />•How did the introduction of moral choices in video games change the playing field?<br />•What film techniques have enhanced (or detracted from!) the gaming experience?<br />•Can video games aspire to be art? [Hint: Yes!]<br />•What are the benefits, pitfalls, and unintended consequences of players' \"right to choose\"?<br />•Will the robot Floyd make you cry?<br /><br />Critical analysis, historical perspective, and a gently opinionated personal touch make A Mind Forever Voyaging an enlightening read that captures the best that video games have to offer.\"",
+                "authors": {
+                    "author": {
+                        "id": 6578389,
+                        "name": "Dylan Holmes",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6578389.Dylan_Holmes",
+                        "average_rating": 3.79,
+                        "ratings_count": 89,
+                        "text_reviews_count": 13
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 21980413,
+                    "uri": "kca://work/amzn1.gr.work.v1.QxkPVCtbE2JQyQy2V6TXbw"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 303014845,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Wed Nov 14 11:54:18 -0800 2012",
+            "read_at": {},
+            "date_added": "Wed Nov 14 11:54:18 -0800 2012",
+            "date_updated": "Wed Nov 14 11:54:18 -0800 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/455914199",
+            "link": "https://www.goodreads.com/review/show/455914199",
+            "owned": 0
+        }
+    }
+}

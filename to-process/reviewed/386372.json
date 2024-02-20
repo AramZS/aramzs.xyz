@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 661200327,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 386372
+                },
+                "isbn": 61020680,
+                "isbn13": 9780061020681,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3158
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ff_notg971s-I_WbGSz_dg",
+                "title": "Mort (Death, #1; Discworld, #4)",
+                "title_without_series": "Mort",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/386372.Mort",
+                "num_pages": 243,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Harpertorch",
+                "publication_day": 6,
+                "publication_year": 2001,
+                "publication_month": 2,
+                "average_rating": 4.24,
+                "ratings_count": 184931,
+                "description": "Terry Pratchett's profoundly irreverent novels are consistent number one bestseller in England, where they have catapulted him into the highest echelons of parody next to Mark Twain, Kurt Vonnegut, Douglas Adams, and Carl Hiaasen.<br /><br />In this Discworld installment, Death comes to Mort with an offer he can't refuse -- especially since being, well, dead isn't compulsory. As Death's apprentice, he'll have free board and lodging, use of the company horse, and he won't need time off for family funerals. The position is everything Mort thought he'd ever wanted, until he discovers that this perfect job can be a killer on his love life.",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 1857065,
+                    "uri": "kca://work/amzn1.gr.work.v1.ELZOeltTOV4fmZp8g-qPPg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 79907784
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 07 12:11:21 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Jul 01 00:00:00 -0700 2013",
+            "date_added": "Sun Jul 07 12:11:21 -0700 2013",
+            "date_updated": "Wed Jan 22 13:24:00 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/661200327",
+            "link": "https://www.goodreads.com/review/show/661200327",
+            "owned": 0
+        }
+    }
+}

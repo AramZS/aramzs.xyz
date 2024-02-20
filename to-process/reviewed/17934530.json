@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 974508151,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17934530
+                },
+                "isbn": 374104093,
+                "isbn13": 9780374104092,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 13800
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.58aUr9C6-3WZn40-x_Saog",
+                "title": "Annihilation (Southern Reach #1)",
+                "title_without_series": "Annihilation",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403941587l/17934530._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403941587l/17934530._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17934530-annihilation",
+                "num_pages": 195,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Farrar, Straus and Giroux",
+                "publication_day": 4,
+                "publication_year": 2014,
+                "publication_month": 2,
+                "average_rating": 3.69,
+                "ratings_count": 145262,
+                "description": "Area X has been cut off from the rest of the world for decades. Nature has reclaimed the last vestiges of human civilization. The first expedition returned with reports of a pristine, Edenic landscape; the second expedition ended in mass suicide, the third in a hail of gunfire as its members turned on one another. The members of the eleventh expedition returned as shadows of their former selves, and within weeks, all had died of cancer. In <i>Annihilation</i>, the first volume of Jeff VanderMeer's <i>Southern Reach Trilogy</i>, we join the twelfth expedition.<br /><br />The group is made up of four women: an anthropologist; a surveyor; a psychologist, the de facto leader; and our narrator, a biologist. Their mission is to map the terrain, record all observations of their surroundings and of one another, and, above all, avoid being contaminated by Area X itself.<br /><br />They arrive expecting the unexpected, and Area X delivers—but it’s the surprises that came across the border with them and the secrets the expedition members are keeping from one another that change everything.",
+                "authors": {
+                    "author": {
+                        "id": 33919,
+                        "name": "Jeff VanderMeer",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1522640540p5/33919.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1522640540p2/33919.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/33919.Jeff_VanderMeer",
+                        "average_rating": 3.69,
+                        "ratings_count": 325633,
+                        "text_reviews_count": 37420
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 24946895,
+                    "uri": "kca://work/amzn1.gr.work.v1._9LTz1beaB2UHtOMpDILOA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 470008472
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jun 22 10:13:45 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847072000,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 1006732701,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Jun 10 00:00:00 -0700 2014",
+            "date_added": "Sun Jun 22 10:13:45 -0700 2014",
+            "date_updated": "Wed Jun 10 20:46:43 -0700 2015",
+            "read_count": 1,
+            "body": "Great novel. Immensely creepy.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/974508151",
+            "link": "https://www.goodreads.com/review/show/974508151",
+            "owned": 0
+        }
+    }
+}

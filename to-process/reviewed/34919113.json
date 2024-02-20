@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2646426004,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34919113
+                },
+                "isbn": 1501714481,
+                "isbn13": 9781501714481,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.RHkBVsTUeIkxeKQS-eTKeg",
+                "title": "Language as Hermeneutic: A Primer on the Word and Digitization",
+                "title_without_series": "Language as Hermeneutic: A Primer on the Word and Digitization",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545843073l/34919113._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545843073l/34919113._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34919113-language-as-hermeneutic",
+                "num_pages": 238,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Cornell University Press",
+                "publication_day": 15,
+                "publication_year": 2018,
+                "publication_month": 1,
+                "average_rating": 5,
+                "ratings_count": 1,
+                "description": "Language in all its modes--oral, written, print, electronic--claims the central role in Walter J. Ong's acclaimed speculations on human culture. After his death, his archives were found to contain unpublished drafts of a final book manuscript that Ong envisioned as a distillation of his life's work. This first publication of <i>Language as Hermeneutic</i>, reconstructed from Ong's various drafts by Thomas D. Zlatic and Sara van den Berg, is more than a summation of his thinking. It develops new arguments around issues of cognition, interpretation, and language. Digitization, he writes, is inherent in all forms of \"writing,\" from its early beginnings in clay tablets. As digitization increases in print and now electronic culture, there is a corresponding need to counter the fractioning of digitization with the unitive attempts of hermeneutics, particularly hermeneutics that are modeled on oral rather than written paradigms.<br /><br />In addition to the edited text of <i>Language as Hermeneutic</i>, this volume includes essays on the reconstruction of Ong's work and its significance within Ong's intellectual project, as well as a previously unpublished article by Ong, \"Time, Digitization, and Dal-'s Memory,\" which further explores language's role in preserving and enhancing our humanity in the digital age.",
+                "authors": {
+                    "author": {
+                        "id": 14412628,
+                        "name": "Walter J Ong",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14412628.Walter_J_Ong",
+                        "average_rating": 4.8,
+                        "ratings_count": 5,
+                        "text_reviews_count": 0
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 56182929,
+                    "uri": "kca://work/amzn1.gr.work.v1.RsVXN5TUZ8fRECbNQhhcgg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2688243550
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Dec 30 11:43:14 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2291365667,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Dec 30 11:43:13 -0800 2018",
+            "date_updated": "Sun Dec 30 11:43:13 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2646426004",
+            "link": "https://www.goodreads.com/review/show/2646426004",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "name": "Flatiron Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Ninth House (Alex Stern, #1)",
+            "id": "43263680",
+            "author": "Leigh Bardugo",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961268000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/43263680",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Flatiron Books",
+            "tags": [
+                "Hardcover",
+                "Flatiron Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1250313074",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781250313072",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "43263680",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Mirage (Mirage, #1)",
+            "id": "32768520",
+            "author": "Somaiya Daud",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1558180944000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Mirage (Mirage, #1): Rating - 4/5",
+                    "date": 1558180944000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/32768520",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Flatiron Books",
+            "tags": [
+                "Hardcover",
+                "Flatiron Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1250126428",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781250126429",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "32768520",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Black Klansman: Race, Hate, and the Undercover Investigation of a Lifetime",
+            "id": "39280486",
+            "author": "Ron Stallworth",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1550007771000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/39280486",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Flatiron Books",
+            "tags": [
+                "Paperback",
+                "Flatiron Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1250313724",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781250313720",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "39280486",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think",
+            "id": "40933227",
+            "author": "Hans Rosling, Ola Rosling, Anna Rosling Rönnlund",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1543267532000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/40933227",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Flatiron Books",
+            "tags": [
+                "Hardcover",
+                "Flatiron Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1250107814",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781250107817",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "40933227",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Mirage (Mirage, #1)",
+            "id": 32768520,
+            "author": "Somaiya Daud",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/32768520",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Flatiron Books",
+            "tags": [
+                "Hardcover",
+                "Flatiron Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 32768520,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

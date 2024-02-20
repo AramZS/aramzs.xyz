@@ -1,0 +1,96 @@
+{
+    "name": "Knopf Publishing Group",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Winners Take All: The Elite Charade of Changing the World",
+            "id": "37506348",
+            "author": "Anand Giridharadas",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1565634763000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/37506348",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Knopf Publishing Group",
+            "tags": [
+                "Hardcover",
+                "Knopf Publishing Group",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0451493249",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780451493248",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "37506348",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Monk of Mokha",
+            "id": "35342927",
+            "author": "Dave Eggers",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1543267566000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/35342927",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Knopf Publishing Group",
+            "tags": [
+                "Hardcover",
+                "Knopf Publishing Group",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1101947314",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781101947319",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "35342927",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999621846,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 41447722
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 23
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.wBohL-BbUqjQJpwnjeVFXw",
+                "title": "Stealing Worlds",
+                "title_without_series": "Stealing Worlds",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539701027l/41447722._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539701027l/41447722._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/41447722-stealing-worlds",
+                "num_pages": 352,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 18,
+                "publication_year": 2019,
+                "publication_month": 6,
+                "average_rating": 3.75,
+                "ratings_count": 170,
+                "description": "<b>From Karl Schroeder, author of <i>Lockstep</i>, comes the near-future, science fiction, hacker's heist, <i>Stealing Worlds</i>.</b><br /><br />Sura Neelin is on the run from her creditors, from her past, and her father's murderers. She can't get a job, she can't get a place to live, she can't even walk down the street: the total surveillance society that is mid-21st century America means that every camera and every pair of smart glasses is her enemy.<br /><br />But Sura might have a chance in the alternate reality of the games. People can disappear in the LARP game worlds, into the alternate economy of Notchcoin and blockchains. The people who build the games also program the surveillance networks--she just needs an introduction, and the skills to play.<br /><br />Turns out, she has very valuable skills, and some very surprising friends.",
+                "authors": {
+                    "author": {
+                        "id": 19169,
+                        "name": "Karl Schroeder",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1378361478p5/19169.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1378361478p2/19169.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/19169.Karl_Schroeder",
+                        "average_rating": 3.78,
+                        "ratings_count": 20218,
+                        "text_reviews_count": 2438
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 64697176,
+                    "uri": "kca://work/amzn1.gr.work.v1.B2XDM4xCiLHuwJq09G-yEg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3156495280
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Oct 03 06:29:19 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2646063777,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Oct 03 06:29:19 -0700 2019",
+            "date_updated": "Thu Oct 03 06:29:19 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999621846",
+            "link": "https://www.goodreads.com/review/show/2999621846",
+            "owned": 0
+        }
+    }
+}

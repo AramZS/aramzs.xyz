@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785922573,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1137215
+                },
+                "isbn": 765318415,
+                "isbn13": 9780765318411,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3748
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.nsm7WqRSBmnbHjxxgW1UhQ",
+                "title": "Boneshaker (The Clockwork Century, #1)",
+                "title_without_series": "Boneshaker",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1137215.Boneshaker",
+                "num_pages": 416,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 29,
+                "publication_year": 2009,
+                "publication_month": 9,
+                "average_rating": 3.5,
+                "ratings_count": 30490,
+                "description": "In the early days of the Civil War, rumors of gold in the frozen Klondike brought hordes of newcomers to the Pacific Northwest. Anxious to compete, Russian prospectors commissioned inventor Leviticus Blue to create a great machine that could mine through Alaska’s ice. Thus was Dr. Blue’s Incredible Bone-Shaking Drill Engine born.<br /><br />But on its first test run the Boneshaker went terribly awry, destroying several blocks of downtown Seattle and unearthing a subterranean vein of blight gas that turned anyone who breathed it into the living dead.<br /><br />Now it is sixteen years later, and a wall has been built to enclose the devastated and toxic city. Just beyond it lives Blue’s widow, Briar Wilkes. Life is hard with a ruined reputation and a teenaged boy to support, but she and Ezekiel are managing. Until Ezekiel undertakes a secret crusade to rewrite history.<br /><br />His quest will take him under the wall and into a city teeming with ravenous undead, air pirates, criminal overlords, and heavily armed refugees. And only Briar can bring him out alive.",
+                "authors": {
+                    "author": {
+                        "id": 221253,
+                        "name": "Cherie Priest",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1571179005p5/221253.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1571179005p2/221253.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/221253.Cherie_Priest",
+                        "average_rating": 3.73,
+                        "ratings_count": 113871,
+                        "text_reviews_count": 15651
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 1124460,
+                    "uri": "kca://work/amzn1.gr.work.v1.MJWH47KJrup87VV9mA1WDQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546328450
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:16:32 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1449417674,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Oct 16 07:16:32 -0700 2016",
+            "date_updated": "Sun Oct 16 07:16:32 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785922573",
+            "link": "https://www.goodreads.com/review/show/1785922573",
+            "owned": 0
+        }
+    }
+}

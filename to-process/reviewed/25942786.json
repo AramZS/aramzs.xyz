@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629413565,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25942786
+                },
+                "isbn": 990847705,
+                "isbn13": 9780990847700,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 148
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.pEMLaswISTrQwQ5zqI0cXg",
+                "title": "The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science",
+                "title_without_series": "The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439857546l/25942786._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439857546l/25942786._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25942786-the-mind-illuminated",
+                "num_pages": 504,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Dharma Treasure Press",
+                "publication_day": 6,
+                "publication_year": 2015,
+                "publication_month": 10,
+                "average_rating": 4.46,
+                "ratings_count": 1883,
+                "description": "Providing step-by-step guidance for every stage of the meditation path, this uniquely comprehensive guide for a Western audience combines the wisdom from the teachings of the Buddha with the latest research in cognitive psychology and neuroscience. Clear and friendly, this in-depth practice manual builds on the nine-stage model of meditation originally articulated by the ancient Indian sage Asanga, crystallizing the entire meditative journey into 10 clearly-defined stages. The book also introduces a new and fascinating model of how the mind works, and uses illustrations and charts to help the reader work through each stage. This manual is an essential read for the beginner to the seasoned veteran of meditation and can be read from front to back, or used as a reference guide, choosing chapters as needed based on the current state of the reader’s practice.",
+                "authors": {
+                    "author": {
+                        "id": 7568727,
+                        "name": "Culadasa (John Yates)",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1441217713p5/7568727.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1441217713p2/7568727.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7568727.Culadasa_John_Yates_",
+                        "average_rating": 4.46,
+                        "ratings_count": 1899,
+                        "text_reviews_count": 177
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 45842013,
+                    "uri": "kca://work/amzn1.gr.work.v1.LKNAdmI-aaCFzHkFBpHWQg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666061414
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:55:22 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274617862,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:55:22 -0800 2018",
+            "date_updated": "Mon Dec 17 07:55:22 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629413565",
+            "link": "https://www.goodreads.com/review/show/2629413565",
+            "owned": 0
+        }
+    }
+}

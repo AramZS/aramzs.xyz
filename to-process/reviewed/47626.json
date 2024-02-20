@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528940494,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 47626
+                },
+                "isbn": 64471969,
+                "isbn13": 9780064471961,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 473
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.EVn8whBExOByYaWX9iOXQg",
+                "title": "Shade's Children",
+                "title_without_series": "Shade's Children",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347024315l/47626._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347024315l/47626._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/47626.Shade_s_Children",
+                "num_pages": 345,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "HarperTeen",
+                "publication_day": 18,
+                "publication_year": 1998,
+                "publication_month": 9,
+                "average_rating": 3.9,
+                "ratings_count": 11729,
+                "description": "<b>The Key to Survival Rests in the Hands of Shade's Children</b><br /><br /><i>If you’re lucky, you live to fight another day.</i><br /><br />In a futuristic urban wasteland, evil Overlords have decreed that no child shall live a day past his fourteenth birthday. On that Sad Birthday, the child is the object of an obscene harvest resulting in the construction of a machine like creature whose sole purpose is to kill.<br /><br />The mysterious Shade — once a man, but now more like the machines he fights — recruits the few children fortunate enough to escape. With luck, cunning, and skill, four of Shade's children come closer than any to discovering the source of the Overlords' power — and the key to their downfall. But the closer the children get, the more ruthless Shade seems to become ...",
+                "authors": {
+                    "author": {
+                        "id": 8347,
+                        "name": "Garth Nix",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p5/8347.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p2/8347.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8347.Garth_Nix",
+                        "average_rating": 4.05,
+                        "ratings_count": 769164,
+                        "text_reviews_count": 38472
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 411263,
+                    "uri": "kca://work/amzn1.gr.work.v1.PuQhV5RcU0yXb6gB9Ja9DQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 07:57:11 -0800 2013",
+            "date_updated": "Thu Feb 07 07:57:11 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528940494",
+            "link": "https://www.goodreads.com/review/show/528940494",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071693230,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2350837
+                },
+                "isbn": 785128999,
+                "isbn13": 9780785128991,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 184
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.yUydiIZFChwU-3KpH-swhQ",
+                "title": "X-Men: Messiah CompleX",
+                "title_without_series": "X-Men: Messiah CompleX",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472487787l/2350837._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472487787l/2350837._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2350837.X_Men",
+                "num_pages": 352,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Marvel Comics",
+                "publication_day": 14,
+                "publication_year": 2008,
+                "publication_month": 5,
+                "average_rating": 4.06,
+                "ratings_count": 8169,
+                "description": "The biggest event to hit the X-Men in ten years is here. <br /><br />Just when it looked like there was no possibility of a future for mutants, hope arrives. But the X-Men aren't there to meet it - The Marauders and Purifiers beat them to it. Now the race is on to get the first new mutant since House of M... <br /><br /><b>Collecting</b>: <i>X-Men: Messiah Complex</i> One-Shot, <i>Uncanny X-Men</i> 492-494, <i>X-Men</i> 205-207, <i>New X-Men</i> 44-46, <i>X-Factor</i> 25-27, &amp; <i>X-Men: Messiah CompleX - Mutant Files</i>",
+                "authors": {
+                    "author": {
+                        "id": 37450,
+                        "name": "Ed Brubaker",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1230612199p5/37450.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1230612199p2/37450.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37450.Ed_Brubaker",
+                        "average_rating": 4.06,
+                        "ratings_count": 306083,
+                        "text_reviews_count": 17286
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2357548,
+                    "uri": "kca://work/amzn1.gr.work.v1.64zwsps_fQO3AsR0cgo4Og"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593084767
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:14:19 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813197784,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:14:19 -0700 2014",
+            "date_updated": "Mon Oct 23 16:35:00 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071693230",
+            "link": "https://www.goodreads.com/review/show/1071693230",
+            "owned": 0
+        }
+    }
+}

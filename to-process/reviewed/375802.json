@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789364016,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 375802
+                },
+                "isbn": 812550706,
+                "isbn13": 9780812550702,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 36790
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.9norahS09TVbhrKu-VRkig",
+                "title": "Ender’s Game (Ender’s Saga, #1)",
+                "title_without_series": "Ender’s Game",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/375802.Ender_s_Game",
+                "num_pages": 324,
+                "format": "Audiobook",
+                "edition_information": "Unabridged",
+                "publisher": "Macmillan Audio",
+                "publication_day": 30,
+                "publication_year": 2004,
+                "publication_month": 9,
+                "average_rating": 4.3,
+                "ratings_count": 1089801,
+                "description": "Andrew \"Ender\" Wiggin thinks he is playing computer simulated war games; he is, in fact, engaged in something far more desperate. The result of genetic experimentation, Ender may be the military genius Earth desperately needs in a war against an alien enemy seeking to destroy all human life. The only way to find out is to throw Ender into ever harsher training, to chip away and find the diamond inside, or destroy him utterly. Ender Wiggin is six years old when it begins. He will grow up fast.<br /><br />But Ender is not the only result of the experiment. The war with the Buggers has been raging for a hundred years, and the quest for the perfect general has been underway almost as long. Ender's two older siblings, Peter and Valentine, are every bit as unusual as he is, but in very different ways. While Peter was too uncontrollably violent, Valentine very nearly lacks the capability for violence altogether. Neither was found suitable for the military's purpose. But they are driven by their jealousy of Ender, and by their inbred drive for power. Peter seeks to control the political process, to become a ruler. Valentine's abilities turn more toward the subtle control of the beliefs of commoner and elite alike, through powerfully convincing essays. Hiding their youth and identities behind the anonymity of the computer networks, these two begin working together to shape the destiny of Earth-an Earth that has no future at all if their brother Ender fails.<br /><br />Source: hatrack.com",
+                "authors": {
+                    "author": {
+                        "id": 589,
+                        "name": "Orson Scott Card",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294099952p5/589.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294099952p2/589.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/589.Orson_Scott_Card",
+                        "average_rating": 4.09,
+                        "ratings_count": 2587909,
+                        "text_reviews_count": 105497
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 2422333,
+                    "uri": "kca://work/amzn1.gr.work.v1.VGZlxSHM4ngy3MUPG3VaQg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240402545
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 07:19:48 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 2,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 07:19:48 -0800 2013",
+            "date_updated": "Fri Dec 13 07:19:48 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789364016",
+            "link": "https://www.goodreads.com/review/show/789364016",
+            "owned": 0
+        }
+    }
+}

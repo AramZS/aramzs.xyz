@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671999,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3160872
+                },
+                "isbn": 1423600622,
+                "isbn13": 9781423600626,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.GlTm4U5Gr5ZubZEQsiNutg",
+                "title": "Single Scene Short Stories",
+                "title_without_series": "Single Scene Short Stories",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3160872-single-scene-short-stories",
+                "num_pages": 253,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Gibbs Smith",
+                "publication_day": 1,
+                "publication_year": 2007,
+                "publication_month": 3,
+                "average_rating": 3.8,
+                "ratings_count": 46,
+                "description": "Single Scene Short Stories<br /><br />Edited by Margaret Bishop<br /><br />The thirty-three works collected in Single Scene Short Stories each have one remarkable quality-the whole of the story takes place in one scene, one geographical coordinate, one window of time. To think of it dramatically, it is a story presented on a stage with no change of setting or costume, no voice-over summarizing or carrying the viewer from here to there. This collection contains some of the best single scene short stories ever written, the modern classics of this form.<br /><br />Stories include:<br /><br />House Hunting, Michael Chabon<br /><br />The Daughter of Albion, Anton Chekhov<br /><br />The Ninth in E Minor, Fred Busch<br /><br />Crickets, Robert Olen Butler<br /><br />Intimacy, Raymond Carver<br /><br />The Nice Restaurant, Mary Gaitskill<br /><br />Hills Like White Elephants, Ernest Hemingway<br /><br />San Francisco, Amy Hempel<br /><br />Eveline, James Joyce<br /><br />Wine, Doris Lessing<br /><br />A Ruse, Guy de Maupassant<br /><br />In the Warehouse, Joyce Carol Oates<br /><br />Revelation, Flannery O'Connor<br /><br />Mrs. Carrington and Mrs. Crane, Dorothy Parker<br /><br />Wants, Grace Paley<br /><br />Sudden Fiction has sold 50,000 copies.",
+                "authors": {
+                    "author": {
+                        "id": 1179591,
+                        "name": "Margaret Bishop",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1179591.Margaret_Bishop",
+                        "average_rating": 3.89,
+                        "ratings_count": 63,
+                        "text_reviews_count": 12
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 3192595,
+                    "uri": "kca://work/amzn1.gr.work.v1.YCya23s_tfrBEtylC99cxA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Jun 25 00:00:00 -0700 2008",
+            "date_added": "Mon Jun 16 19:26:55 -0700 2008",
+            "date_updated": "Wed Jun 25 14:45:15 -0700 2008",
+            "read_count": 1,
+            "body": "A great collection, well worth a buy for any reader or writer. A broad and excellent selection of stories.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671999",
+            "link": "https://www.goodreads.com/review/show/24671999",
+            "owned": 0
+        }
+    }
+}

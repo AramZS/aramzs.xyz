@@ -1,0 +1,300 @@
+{
+    "name": "Bantam Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",
+            "id": "13214",
+            "author": "Maya Angelou",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1417713005000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1): Rating - 0/5",
+                    "date": 1417713005000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13214",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bantam Books",
+            "tags": [
+                "Paperback",
+                "Bantam Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0553279378",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780553279375",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "13214",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "A Feast for Crows (A Song of Ice and Fire, #4)",
+            "id": "13497",
+            "author": "George R.R. Martin",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386947976000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of A Feast for Crows (A Song of Ice and Fire, #4): Rating - 4/5",
+                    "date": 1386947976000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13497",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bantam Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Bantam Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "055358202X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780553582024",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "13497",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Snow Crash",
+            "id": "830",
+            "author": "Neal Stephenson, Guy Abadia",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213668390000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Snow Crash: Rating - 5/5",
+                    "date": 1213668390000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/830",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bantam Books",
+            "tags": [
+                "Paperback",
+                "Bantam Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0553380958",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780553380958",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "830",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",
+            "id": 13214,
+            "author": "Maya Angelou",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13214",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bantam Books",
+            "tags": [
+                "Paperback",
+                "Bantam Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 13214,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Snow Crash",
+            "id": 830,
+            "author": "Neal Stephenson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/830",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bantam Books",
+            "tags": [
+                "Paperback",
+                "Bantam Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 830,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "A Feast for Crows (A Song of Ice and Fire, #4)",
+            "id": 13497,
+            "author": "George R.R. Martin",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13497",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bantam Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Bantam Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "055358202X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 13497,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 294829820,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6436659
+                },
+                "isbn": 316071986,
+                "isbn13": 9780316071987,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 470
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qicNBXzyltan0OVqSjlMfQ",
+                "title": "Transition",
+                "title_without_series": "Transition",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6436659-transition",
+                "num_pages": 404,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 1,
+                "publication_year": 2009,
+                "publication_month": 9,
+                "average_rating": 3.86,
+                "ratings_count": 9095,
+                "description": "There is a world that hangs suspended between triumph and catastrophe, between the dismantling of the Wall and the fall of the Twin Towers, frozen in the shadow of suicide terrorism and global financial collapse. Such a world requires a firm hand and a guiding light. But does it need the Concern: an all-powerful organization with a malevolent presiding genius, pervasive influence and numberless invisible operatives in possession of extraordinary powers?<br /><br />Among those operatives are Temudjin Oh, of mysterious Mongolian origins, an un-killable assassin who journeys between the peaks of Nepal, a version of Victorian London and the dark palaces of Venice under snow; Adrian Cubbish, a restlessly greedy City trader; and a nameless, faceless state-sponsored torturer known only as the Philosopher, who moves between time zones with sinister ease. Then there are those who question the Concern: the bandit queen Mrs. Mulverhill, roaming the worlds recruiting rebels to her side; and Patient 8262, under sedation and feigning madness in a forgotten hospital ward, in hiding from a dirty past.<br /><br />There is a world that needs help; but whether it needs the Concern is a different matter.",
+                "authors": {
+                    "author": {
+                        "id": 5807106,
+                        "name": "Iain M. Banks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p5/5807106.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p2/5807106.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks",
+                        "average_rating": 4.08,
+                        "ratings_count": 349700,
+                        "text_reviews_count": 15763
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 6626240,
+                    "uri": "kca://work/amzn1.gr.work.v1.-rEs7CqwBdg6Wz9EwIkQAA"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Thu Mar 15 00:00:00 -0700 2012",
+            "read_at": "Sun Aug 05 00:00:00 -0700 2012",
+            "date_added": "Thu Mar 15 11:11:44 -0700 2012",
+            "date_updated": "Sat Oct 27 08:06:59 -0700 2012",
+            "read_count": 1,
+            "body": "Normally I'm a big fan of Iain M. Banks but his attempt at more topical fiction with Transition did not go over too well. The first half of the book meandered all over the place and the result was a confusing read.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/294829820",
+            "link": "https://www.goodreads.com/review/show/294829820",
+            "owned": 0
+        }
+    }
+}

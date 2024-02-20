@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960347290,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 410766
+                },
+                "isbn": 446361305,
+                "isbn13": 9780446361309,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 92
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.vhusp3MXxjqfNQ_IpiCdAg",
+                "title": "Queen of Angels (Queen of Angels, #1)",
+                "title_without_series": "Queen of Angels",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/410766.Queen_of_Angels",
+                "num_pages": 420,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Warner Books",
+                "publication_day": 1,
+                "publication_year": 1991,
+                "publication_month": 3,
+                "average_rating": 3.59,
+                "ratings_count": 2691,
+                "description": "In this brilliant, evocative novel, Greg Bear takes the reader into a strangely familiar, near-future world -- and shatters our conceptions of perfection, punishment, and the elusive nature of the human soul. <br />\"One is ultimately awed... it may be the most ambitious novel I've ever read.\" -- Washington Post Book World",
+                "authors": {
+                    "author": {
+                        "id": 16024,
+                        "name": "Greg Bear",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1223822211p5/16024.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1223822211p2/16024.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16024.Greg_Bear",
+                        "average_rating": 3.86,
+                        "ratings_count": 550272,
+                        "text_reviews_count": 16089
+                    }
+                },
+                "published": 1991,
+                "work": {
+                    "id": 4272,
+                    "uri": "kca://work/amzn1.gr.work.v1.QxkXjMXpKZPcDNYqZse8zA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452288849
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:16:04 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:16:04 -0700 2014",
+            "date_updated": "Sat Jun 07 06:16:04 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960347290",
+            "link": "https://www.goodreads.com/review/show/960347290",
+            "owned": 0
+        }
+    }
+}

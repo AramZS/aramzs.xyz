@@ -1,0 +1,149 @@
+{
+    "name": "Berkley Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Pattern Recognition (Blue Ant, #1)",
+            "id": "22320",
+            "author": "William Gibson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1452386433000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Pattern Recognition (Blue Ant, #1): Rating - 4/5",
+                    "date": 1452386433000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22320",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Berkley Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Berkley Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0425198685",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780425198681",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "22320",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Blood Noir (Anita Blake, Vampire Hunter #16)",
+            "id": "2149535",
+            "author": "Laurell K. Hamilton",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1214489624000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2149535",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Berkley Books",
+            "tags": [
+                "Hardcover",
+                "Berkley Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0425222195",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780425222195",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "2149535",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Pattern Recognition (Blue Ant, #1)",
+            "id": 22320,
+            "author": "William Gibson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22320",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Berkley Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Berkley Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 22320,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

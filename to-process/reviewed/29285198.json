@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749129185,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 29285198
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.0-hXB9y5twdUO58ukOoCjA",
+                "title": "Sex, Drugs and Cartoon Violence: My Decade as a Video Game Journalist",
+                "title_without_series": "Sex, Drugs and Cartoon Violence: My Decade as a Video Game Journalist",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/29285198-sex-drugs-and-cartoon-violence",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.46,
+                "ratings_count": 35,
+                "description": "Covering a decade on the inside of the games industry, SEX, DRUGS, AND CARTOON VIOLENCE lifts the curtain on the whirlwind of hype and promotion surrounding the launch of a multimillion dollar game. From all-expenses paid junkets, to multi-million dollar parties, to exclusive “previews”, these are the stories you’ve never heard about the way video games are sold and reported. <br /> <br />Written by a veteran games reporter and former television producer, this is the story of an accidental journey into — and back out of — one of the weirdest niches of journalism in the world. <br /> <br />With a foreward by Adam Sessler. <br /> <br />** <br /> <br />Called “The Indiana Jones of games writing” by goodgameswriting.com, Russ Pitts has spent more than ten years traveling the world writing about video games. Pitts is the former editor-in-chief of the six-time Webby Award-winning website, The Escapist; the former features editor at Vox Media’s premiere video game website, Polygon and the former head writer and producer of TechTV’s “The Screen Savers.” <br /> <br />Pitts’ video game industry reporting has been lauded as groundbreaking, innovative and some of the most thoughtful and intelligent writing about video games today. He has been nominated for multiple awards for his work covering the video game industry, and is the writer of hundreds of articles and long-form features, and the books “How Games are Made” and “Eagle Semen: The Story of TechTV Employee Number One”. Pitts has been published in Polygon, Kotaku, IGN, GameSpot, US Gamer, PC Gamer, Joystiq, Digital Trends, and The Escapist. <br /> <br />SEX, DRUGS, AND CARTOON VIOLENCE is his first time sharing behind-the-scenes stories from his career in reporting on video games. <br />",
+                "authors": {
+                    "author": {
+                        "id": 4093451,
+                        "name": "Russ Pitts",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4093451.Russ_Pitts",
+                        "average_rating": 3.81,
+                        "ratings_count": 104,
+                        "text_reviews_count": 11
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 49529095,
+                    "uri": "kca://work/amzn1.gr.work.v1.ivMrxEH28Vo_VS3aDuDwFA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498302333
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:42:14 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414465680,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:42:13 -0700 2016",
+            "date_updated": "Mon Sep 05 07:42:14 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749129185",
+            "link": "https://www.goodreads.com/review/show/1749129185",
+            "owned": 0
+        }
+    }
+}

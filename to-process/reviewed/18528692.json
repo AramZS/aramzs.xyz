@@ -1,0 +1,118 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789412482,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18528692
+                },
+                "isbn": 9781492348,
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 98
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.DnkXrNGGS4CUqb9Ssf3VWQ",
+                "title": "Age of Context: Mobile, Sensors, Data and the Future of Privacy",
+                "title_without_series": "Age of Context: Mobile, Sensors, Data and the Future of Privacy",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379902025l/18528692._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379902025l/18528692._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18528692-age-of-context",
+                "num_pages": 230,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": 5,
+                "publication_year": 2013,
+                "publication_month": 9,
+                "average_rating": 3.64,
+                "ratings_count": 1039,
+                "description": "In 2006, co-authors Robert Scoble and Shel Israel wrote Naked Conversations, a book that persuaded businesses to embrace what we now call social media. Six years later they have teamed up again to report that social media is but one of five converging forces that promise to change virtually every aspect of our lives. You know these other forces already: mobile, data, sensors and location-based technology. Combined with social media they form a new generation of personalized technology that knows us better than our closest friends. Armed with that knowledge our personal devices can anticipate what we’ll need next and serve us better than a butler or an executive assistant. The resulting convergent superforce is so powerful that it is ushering in a era the authors call the Age of Context. In this new era, our devices know when to wake us up early because it snowed last night; they contact the people we are supposed to meet with to warn them we’re running late. They even find content worth watching on television. They also promise to cure cancer and make it harder for terrorists to do their damage. Astoundingly, in the coming age you may only receive ads you want to see. Scoble and Israel have spent more than a year researching this book. They report what they have learned from interviewing more than a hundred pioneers of the new technology and by examining hundreds of contextual products. What does it all mean? How will it change society in the future? The authors are unabashed tech enthusiasts, but as they write, an elephant sits in the living room of our book and it is called privacy. We are entering a time when our technology serves us best because it watches us; collecting data on what we do, who we speak with, what we look at. There is no doubt about it: Big Data is watching you. The time to lament the loss of privacy is over. The authors argue that the time is right to demand options that enable people to reclaim some portions of that privacy.",
+                "authors": {
+                    "author": {
+                        "id": 9377,
+                        "name": "Robert Scoble",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1482243340p5/9377.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1482243340p2/9377.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9377.Robert_Scoble",
+                        "average_rating": 3.7,
+                        "ratings_count": 2082,
+                        "text_reviews_count": 216
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 26234608,
+                    "uri": "kca://work/amzn1.gr.work.v1.2Ao1H8q-cJzfBYs48i2C2A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240461991
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:42:57 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571651234,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:42:57 -0800 2013",
+            "date_updated": "Fri Dec 13 08:42:57 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789412482",
+            "link": "https://www.goodreads.com/review/show/789412482",
+            "owned": 0
+        }
+    }
+}

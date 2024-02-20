@@ -1,0 +1,442 @@
+{
+    "name": "Gallery Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Struggle Within (Star Trek: Typhon Pact #5)",
+            "id": "11601751",
+            "author": "Christopher L. Bennett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1504894625000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Struggle Within (Star Trek: Typhon Pact #5): Rating - 3/5",
+                    "date": 1504894625000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11601751",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gallery Books",
+            "tags": [
+                "ebook",
+                "Gallery Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1451651422",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781451651423",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "11601751",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Blood Lite III: Aftertaste (Blood Lite, #3)",
+            "id": "10857421",
+            "author": "Kevin J. Anderson, Jim Butcher, J.G. Faherty, Stephen Dorato, Jeff Ryan, Mike Resnick, Lezli Robyn, Will Ludwigsen, Heather Graham, Daniel Pyle, Nina Kiriki Hoffman, L.A. Banks, John Alfred Taylor, David Sakmyster, Norman Prentiss, Don D'Ammassa, Adrian Ludens, Chris Abbey, D.L. Snell, Ken Lillie-Paetz, Sherrilyn Kenyon, Lisa Morton, Kelley Armstrong, Brad C. Hodson, Lucien Soulban, Christopher Golden, E.S. Magill, Eric James Stone, Jeff Strand, Mark Onspaugh, Joel A. Sutherland, Mike Baron",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1501173147000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/10857421",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gallery Books",
+            "tags": [
+                "Paperback",
+                "Gallery Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1451636237",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781451636239",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "10857421",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Blind Man's Bluff (Star Trek: New Frontier, #18)",
+            "id": "11292746",
+            "author": "Peter David",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146573000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Blind Man's Bluff (Star Trek: New Frontier, #18): Rating - 3/5",
+                    "date": 1402146573000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11292746",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gallery Books",
+            "tags": [
+                "Kindle Edition",
+                "Gallery Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "11292746",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Yes Man",
+            "id": "87804",
+            "author": "Danny Wallace",
+            "date_finished": 1228262400000,
+            "notes": [],
+            "date_started": 1228371988000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Yes Man: Rating - 5/5",
+                    "date": 1228262400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/87804",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gallery Books",
+            "tags": [
+                "Paperback",
+                "Gallery Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1416918345",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781416918349",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "87804",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage",
+            "id": "18154",
+            "author": "Clifford Stoll",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213668416000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage: Rating - 5/5",
+                    "date": 1213668416000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18154",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gallery Books",
+            "tags": [
+                "Paperback",
+                "Gallery Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1416507787",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781416507789",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18154",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Struggle Within (Star Trek: Typhon Pact #5)",
+            "id": 11601751,
+            "author": "Christopher L. Bennett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11601751",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gallery Books",
+            "tags": [
+                "ebook",
+                "Gallery Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 11601751,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Blind Man's Bluff (Star Trek: New Frontier, #18)",
+            "id": 11292746,
+            "author": "Peter David",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11292746",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gallery Books",
+            "tags": [
+                "Gallery Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 11292746,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Yes Man",
+            "id": 87804,
+            "author": "Danny Wallace",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/87804",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gallery Books",
+            "tags": [
+                "Paperback",
+                "Gallery Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 87804,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage",
+            "id": 18154,
+            "author": "Clifford Stoll",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18154",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gallery Books",
+            "tags": [
+                "Paperback",
+                "Gallery Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 18154,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

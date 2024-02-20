@@ -1,0 +1,239 @@
+{
+    "name": "Viking",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Bunny",
+            "id": "42815544",
+            "author": "Mona Awad",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961367000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/42815544",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Viking",
+            "tags": [
+                "Hardcover",
+                "Viking",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0525559736",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780525559733",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "42815544",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Association of Small Bombs",
+            "id": "25810398",
+            "author": "Karan Mahajan",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1498566671000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25810398",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Viking",
+            "tags": [
+                "Hardcover",
+                "Viking",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0525429638",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780525429630",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25810398",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "How Music Got Free: The End of an Industry, the Turn of the Century, and the Patient Zero of Piracy",
+            "id": "25493536",
+            "author": "Stephen Witt",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086563000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25493536",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Viking",
+            "tags": [
+                "Kindle Edition",
+                "Viking",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25493536",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Magicians (The Magicians, #1)",
+            "id": "6101718",
+            "author": "Lev Grossman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1414688145000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Magicians (The Magicians, #1): Rating - 3/5",
+                    "date": 1414688145000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6101718",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Viking",
+            "tags": [
+                "Hardcover",
+                "Viking",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0670020559",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780670020553",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6101718",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Magicians (The Magicians, #1)",
+            "id": 6101718,
+            "author": "Lev Grossman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6101718",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Viking",
+            "tags": [
+                "Hardcover",
+                "Viking",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 6101718,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

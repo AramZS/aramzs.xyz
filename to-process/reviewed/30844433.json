@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2777132403,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 30844433
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 42
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.seOqherZjV0PPIc5_N5ZyA",
+                "title": "The Cooking Gene: A Journey Through African American Culinary History in the Old South",
+                "title_without_series": "The Cooking Gene: A Journey Through African American Culinary History in the Old South",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/30844433-the-cooking-gene",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.03,
+                "ratings_count": 2721,
+                "description": "<p>\n  <strong>2018 James Beard Foundation Book of the Year | 2018 James Beard Foundation Book Award Winner inWriting | Nominee for the 2018 Hurston/Wright Legacy Award in Nonfiction | #75 on The Root100 2018</strong>\n</p><p>A renowned culinary historian offers a fresh perspective on our most divisive cultural issue, race, in this illuminating memoir of Southern cuisine and food culture that traces his ancestry—both black and white—through food, from Africa to America and slavery to freedom.</p><p>Southern food is integral to the American culinary tradition, yet the question of who \"owns\" it is one of the most provocative touch points in our ongoing struggles over race. In this unique memoir, culinary historian Michael W. Twitty takes readers to the white-hot center of this fight, tracing the roots of his own family and the charged politics surrounding the origins of soul food, barbecue, and all Southern cuisine. </p><p>From the tobacco and rice farms of colonial times to plantation kitchens and backbreaking cotton fields, Twitty tells his family story through the foods that enabled his ancestors’ survival across three centuries. He sifts through stories, recipes, genetic tests, and historical documents, and travels from Civil War battlefields in Virginia to synagogues in Alabama to Black-owned organic farms in Georgia. </p><p>As he takes us through his ancestral culinary history, Twitty suggests that healing may come from embracing the discomfort of the Southern past. Along the way, he reveals a truth that is more than skin deep—the power that food has to bring the kin of the enslaved and their former slaveholders to the table, where they can discover the real America together.</p><p>Illustrations by Stephen Crotts</p>",
+                "authors": {
+                    "author": {
+                        "id": 14239726,
+                        "name": "Michael W. Twitty",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1533757695p5/14239726.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1533757695p2/14239726.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14239726.Michael_W_Twitty",
+                        "average_rating": 4.03,
+                        "ratings_count": 2739,
+                        "text_reviews_count": 472
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 49337095,
+                    "uri": "kca://work/amzn1.gr.work.v1.nNp0NatQ-IwyzRyFNCwx9g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2860612687
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Apr 06 11:09:29 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2422654029,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Apr 06 11:09:29 -0700 2019",
+            "date_updated": "Sat Apr 06 11:09:29 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2777132403",
+            "link": "https://www.goodreads.com/review/show/2777132403",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "The Domino Project",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "B",
+            "id": "13123245",
+            "author": "Sarah Kay, Sophia Janowitz",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1353727856000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13123245",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "The Domino Project",
+            "tags": [
+                "Hardcover",
+                "The Domino Project",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1612182798",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781612182797",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "13123245",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

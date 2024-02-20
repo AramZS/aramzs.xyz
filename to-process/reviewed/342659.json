@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528939609,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 342659
+                },
+                "isbn": 451459806,
+                "isbn13": 9780451459800,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 85
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.zJKESU8Fki0fLdFiGCvUyw",
+                "title": "Covenants (Borderlands, #1)",
+                "title_without_series": "Covenants",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/342659.Covenants",
+                "num_pages": 548,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Roc",
+                "publication_day": 4,
+                "publication_year": 2004,
+                "publication_month": 5,
+                "average_rating": 4.09,
+                "ratings_count": 1955,
+                "description": "Rabbit is a trooper on the Border Guards, just another body in the King's army. But when his patrol encounters a Faena-one of the magical guardians of an uneasy ally-Rabbit is thrust into a political and magical intrigue that could start a war. Because Rabbit isn't just another trooper. He is the son of nobility-and a mage who doesn't know his own power...",
+                "authors": {
+                    "author": {
+                        "id": 129262,
+                        "name": "Lorna Freeman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/129262.Lorna_Freeman",
+                        "average_rating": 4.11,
+                        "ratings_count": 3870,
+                        "text_reviews_count": 168
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 333013,
+                    "uri": "kca://work/amzn1.gr.work.v1.AsW6t5PpRdwW56LsrAOXMA"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 358507170,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 07:56:08 -0800 2013",
+            "date_updated": "Thu Feb 07 07:56:08 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528939609",
+            "link": "https://www.goodreads.com/review/show/528939609",
+            "owned": 0
+        }
+    }
+}

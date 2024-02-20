@@ -1,0 +1,104 @@
+{
+    "name": "Harpertorch",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Mort (Death, #1; Discworld, #4)",
+            "id": "386372",
+            "author": "Terry Pratchett",
+            "date_finished": 1372636800000,
+            "notes": [],
+            "date_started": 1390425840000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Mort (Death, #1; Discworld, #4): Rating - 4/5",
+                    "date": 1372636800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/386372",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harpertorch",
+            "tags": [
+                "Mass Market Paperback",
+                "Harpertorch",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0061020680",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780061020681",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "386372",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Mort (Death, #1; Discworld, #4)",
+            "id": 386372,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/386372",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harpertorch",
+            "tags": [
+                "Mass Market Paperback",
+                "Harpertorch",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 386372,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

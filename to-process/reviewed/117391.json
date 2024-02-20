@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671699,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 117391
+                },
+                "isbn": 465005241,
+                "isbn13": 9780465005246,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.sI4eBTPS-HVM41gNoCTcZQ",
+                "title": "Rudy!: An Investigative Biography Of Rudy Giuliani",
+                "title_without_series": "Rudy!: An Investigative Biography Of Rudy Giuliani",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/117391.Rudy_",
+                "num_pages": 512,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Basic Books",
+                "publication_day": 19,
+                "publication_year": 2001,
+                "publication_month": 4,
+                "average_rating": 3.74,
+                "ratings_count": 23,
+                "description": "Rudy Guiliani. New York City's Mayor. America's Number One Cop. A municipal superhero who needs no phone booth. A politician of astonishing complexity whose full story has never been told. Until now. Guiliani has assumed mythic proportions, the can-do emblem of the new urban politics. He has been heralded as the ultimate turn-around artist - projecting himself as the reformer who single-handedly salvaged a crime-ridden and blighted New York. From his days in the Eighties as the Michael Milken-busting U.S. Attorney of Manhattan to his current purge of hundreds of thousands from his city's welfare rolls, Giuliani has targeted rich and poor with the same relentless certitude. This investigative biography starts with the college kid who confided his presidential dream to his girlfriend and practiced future campaign speeches in front of her at home. It analyzes his substantial impact as U.S. Attorney, badly wounding the Mafia, ransacking the white collared halls of Wall Street and forever changing the face of New York politics. It looks at his celebrated crime reduction and other achievements through a new lens, highlighting the single-mindedness that has made Giuliani one of America's most important and controversial figures. With two marriages as troubled and secretive as his family history, Giuliani is on every New Yorker's therapeutic couch, stirring feelings as intense as the ones that visibly boil inside of him. Though he has become a national legend, his re-election total in 1997 was the lowest in seventy-four years. Wayne Barrett, co-author of the bestselling <i>City for Sale</i> , draws on twenty years of reporting on Giuliani to bring us the most comprehensive and newsbreaking biography of a man of giant contradictions and unpredictable expectations.",
+                "authors": {
+                    "author": {
+                        "id": 836,
+                        "name": "Wayne Barrett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/836.Wayne_Barrett",
+                        "average_rating": 3.76,
+                        "ratings_count": 278,
+                        "text_reviews_count": 40
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 244987,
+                    "uri": "kca://work/amzn1.gr.work.v1.o4Zcryj5QSiXu4N6ssnotg"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:23:55 -0700 2008",
+            "date_updated": "Mon Jun 16 19:23:55 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671699",
+            "link": "https://www.goodreads.com/review/show/24671699",
+            "owned": 0
+        }
+    }
+}

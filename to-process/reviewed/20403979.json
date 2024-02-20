@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340984,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20403979
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 34
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.pJXzSOrs_X79MONvJGdS-g",
+                "title": "On Such a Full Sea",
+                "title_without_series": "On Such a Full Sea",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20403979-on-such-a-full-sea",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.48,
+                "ratings_count": 10010,
+                "description": "<b>From the beloved award-winning author of <i>Native Speaker </i>and <i>The Surrendered</i>, a highly provocative, deeply affecting story of one woman’s legendary quest in a shocking, future America.</b><br /> <br /> <i>On Such a Full Sea </i>takes Chang-rae Lee’s elegance of prose, his masterly storytelling, and his long-standing interests in identity, culture, work, and love, and lifts them to a new plane. Stepping from the realistic and historical territories of his previous work, Lee brings us into a world created from scratch. Against a vividly imagined future America, Lee tells a stunning, surprising, and riveting story that will change the way readers think about the world they live in.<br /> <br /> In a future, long-declining America, society is strictly stratified by class. Long-abandoned urban neighborhoods have been repurposed as highwalled, self-contained labor colonies. And the members of the labor class—descendants of those brought over en masse many years earlier from environmentally ruined provincial China—find purpose and identity in their work to provide pristine produce and fish to the small, elite, satellite charter villages that ring the labor settlement.<br /> <br /> In this world lives Fan, a female fish-tank diver, who leaves her home in the B-Mor settlement (once known as Baltimore), when the man she loves mysteriously disappears. Fan’s journey to find him takes her out of the safety of B-Mor, through the anarchic Open Counties, where crime is rampant with scant governmental oversight, and to a faraway charter village, in a quest that will soon become legend to those she left behind.<br /> <br />",
+                "authors": {
+                    "author": {
+                        "id": 21050,
+                        "name": "Chang-rae Lee",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1266544736p5/21050.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1266544736p2/21050.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/21050.Chang_rae_Lee",
+                        "average_rating": 3.62,
+                        "ratings_count": 27317,
+                        "text_reviews_count": 3572
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 24757054,
+                    "uri": "kca://work/amzn1.gr.work.v1.r585-FKO67V74J5lRaZQlA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452281047
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:05:38 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710709663,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:05:38 -0700 2014",
+            "date_updated": "Sat Jun 07 06:05:38 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340984",
+            "link": "https://www.goodreads.com/review/show/960340984",
+            "owned": 0
+        }
+    }
+}

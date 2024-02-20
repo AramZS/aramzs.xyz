@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 532176249,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 106038
+                },
+                "isbn": 1401201164,
+                "isbn13": 9781401201166,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 37
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Jgd5mW_zYvgYKdNpnJTc9Q",
+                "title": "Sleeper, Vol. 0: Point Blank",
+                "title_without_series": "Sleeper, Vol. 0: Point Blank",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320494482l/106038._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320494482l/106038._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/106038.Sleeper_Vol_0",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "WildStorm",
+                "publication_day": 12,
+                "publication_year": 2009,
+                "publication_month": 5,
+                "average_rating": 3.66,
+                "ratings_count": 448,
+                "description": "POINT BLANK is the gritty prequel to the critically acclaimed SLEEPER graphic novel series written by Eisner Award-winner Ed Brubaker (Criminal, Captain America) and stylishly rendered by legendary artist Colin Wilson.<br /><br />Ex-Black Ops soldier Cole Cash is caught in a whirlpool of secrets, lies, manipulation, and murder. But before he goes down for the last time, he's going to get some answers. No matter whom he has to kill along the way.<br /><br />As Cole investigates a brutal attempt that has left his one-time commander and legendary spy-master, John Lynch, at the brink of death, he maneuvers through the labyrinthian byways of intrigue that are the favored routes of men like Lynch. But to find the answers he seeks, Cash will have to discover the key to one of his old Team 7 comrade's greatest achievements - and his greatest shame. But can he bring this dirty little secret in to the light of day? And what other secrets of his own will he discover along the way?",
+                "authors": {
+                    "author": {
+                        "id": 37450,
+                        "name": "Ed Brubaker",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1230612199p5/37450.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1230612199p2/37450.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37450.Ed_Brubaker",
+                        "average_rating": 4.06,
+                        "ratings_count": 306082,
+                        "text_reviews_count": 17286
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 102214,
+                    "uri": "kca://work/amzn1.gr.work.v1.kELRQD_2uOQNoTEZ_hf8pw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051890814
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:42:38 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813203095,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Feb 01 00:00:00 -0800 2013",
+            "date_added": "Sun Feb 10 12:06:22 -0800 2013",
+            "date_updated": "Mon Oct 23 16:42:38 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/532176249",
+            "link": "https://www.goodreads.com/review/show/532176249",
+            "owned": 0
+        }
+    }
+}

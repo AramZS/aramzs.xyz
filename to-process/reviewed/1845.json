@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 442774757,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1845
+                },
+                "isbn": 385486804,
+                "isbn13": 9780385486804,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 18521
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Rr561__Bif7-ZDO_Dq_buQ",
+                "title": "Into the Wild",
+                "title_without_series": "Into the Wild",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403173986l/1845._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403173986l/1845._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1845.Into_the_Wild",
+                "num_pages": 207,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Anchor Books",
+                "publication_day": 20,
+                "publication_year": 1997,
+                "publication_month": 1,
+                "average_rating": 3.98,
+                "ratings_count": 847652,
+                "description": "<i>Librarian's Note: An alternate cover edition can be found <a href=\"https://www.goodreads.com/book/show/26238021.here\" title=\"here\" rel=\"nofollow\">here</a></i><br /><br />In April, 1992, a young man from a well-to-do family hitchhiked to Alaska and walked alone into the wilderness north of Mt. McKinley. His name was Christopher Johnson McCandless. He had given $25,000 in savings to charity, abandoned his car and most of his possessions, burned all the cash in his wallet, and invented a new life for himself. Four months later, a party of moose hunters found his decomposed body. How McCandless came to die is the unforgettable story of <i>Into the Wild</i>.<br /><br />Immediately after graduating from college in 1991, McCandless had roamed through the West and Southwest on a vision quest like those made by his heroes Jack London and John Muir. In the Mojave Desert he abandoned his car, stripped it of its license plates, and burned all of his cash. He would give himself a new name, Alexander Supertramp, and, unencumbered by money and belongings, he would be free to wallow in the raw, unfiltered experiences that nature presented. Craving a blank spot on the map, McCandless simply threw away the maps. Leaving behind his desperate parents and sister, he vanished into the wild.",
+                "authors": {
+                    "author": {
+                        "id": 1235,
+                        "name": "Jon Krakauer",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430856379p5/1235.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430856379p2/1235.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1235.Jon_Krakauer",
+                        "average_rating": 4.04,
+                        "ratings_count": 1492591,
+                        "text_reviews_count": 56139
+                    }
+                },
+                "published": 1997,
+                "work": {
+                    "id": 3284484,
+                    "uri": "kca://work/amzn1.gr.work.v1.LvVlGjADAD1mKFUH5F3gLw"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 1998",
+            "date_added": "Sat Oct 27 08:12:23 -0700 2012",
+            "date_updated": "Sat Oct 27 08:14:30 -0700 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/442774757",
+            "link": "https://www.goodreads.com/review/show/442774757",
+            "owned": 0
+        }
+    }
+}

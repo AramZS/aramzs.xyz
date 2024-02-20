@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 60955763,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 101535
+                },
+                "isbn": 451460847,
+                "isbn13": 9780451460844,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 102
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-v82AwSnevg7DPOhLAkCUA",
+                "title": "Ruled Britannia",
+                "title_without_series": "Ruled Britannia",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309282967l/101535._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309282967l/101535._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/101535.Ruled_Britannia",
+                "num_pages": 464,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Roc Trade",
+                "publication_day": 2,
+                "publication_year": 2006,
+                "publication_month": 5,
+                "average_rating": 3.69,
+                "ratings_count": 2019,
+                "description": "The year is 1597. For nearly a decade, the island of Britain has been under the rule of King Philip in the name of Spain. The citizenry live under an enforced curfew—and in fear of the Inquisition’s agents, who put heretics to the torch in public displays. And with Queen Elizabeth imprisoned in the Tower of London, the British have no symbol to unite them against the enemy who occupies their land.<p>William Shakespeare has no interest in politics. His passion is writing for the theatre, where his words bring laughter and tears to a populace afraid to speak out against the tyranny of the Spanish crown. But now Shakespeare is given an opportunity to pen his greatest work—a drama that will incite the people of Britain to rise against their persecutors—and change the course of history.</p>",
+                "authors": {
+                    "author": {
+                        "id": 29479,
+                        "name": "Harry Turtledove",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1333453762p5/29479.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1333453762p2/29479.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/29479.Harry_Turtledove",
+                        "average_rating": 3.78,
+                        "ratings_count": 146580,
+                        "text_reviews_count": 7826
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 97891,
+                    "uri": "kca://work/amzn1.gr.work.v1.G4V2HBgSfNNMoKZ7Bq2Gmw"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Jun 24 12:58:55 -0700 2009",
+            "date_updated": "Wed Jun 24 12:58:55 -0700 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/60955763",
+            "link": "https://www.goodreads.com/review/show/60955763",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2229997430,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 33151805
+                },
+                "isbn": 735211205,
+                "isbn13": 9780735211209,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 17889
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.SDywMS3ytK86eh_iYjVTqw",
+                "title": "Into the Water",
+                "title_without_series": "Into the Water",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494055413l/33151805._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494055413l/33151805._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/33151805-into-the-water",
+                "num_pages": 386,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Riverhead Books",
+                "publication_day": 2,
+                "publication_year": 2017,
+                "publication_month": 5,
+                "average_rating": 3.57,
+                "ratings_count": 255751,
+                "description": "<b>The author of the #1 New York Times bestseller and global phenomenon The Girl on the Train returns with Into the Water, her addictive new novel of psychological suspense.</b><br /><br />A single mother turns up dead at the bottom of the river that runs through town. Earlier in the summer, a vulnerable teenage girl met the same fate. They are not the first women lost to these dark waters, but their deaths disturb the river and its history, dredging up secrets long submerged.<br /> <br />Left behind is a lonely fifteen-year-old girl. Parentless and friendless, she now finds herself in the care of her mother's sister, a fearful stranger who has been dragged back to the place she deliberately ran from—a place to which she vowed she'd never return.<br /> <br />With the same propulsive writing and acute understanding of human instincts that captivated millions of readers around the world in her explosive debut thriller, <a href=\"https://www.goodreads.com/book/show/22557272.The_Girl_on_the_Train\" title=\"The Girl on the Train\" rel=\"nofollow\">The Girl on the Train</a>, Paula Hawkins delivers an urgent, twisting, deeply satisfying read that hinges on the deceptiveness of emotion and memory, as well as the devastating ways that the past can reach a long arm into the present.<br /> <br />Beware a calm surface—you never know what lies beneath.",
+                "authors": {
+                    "author": {
+                        "id": 1063732,
+                        "name": "Paula Hawkins",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1492111911p5/1063732.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1492111911p2/1063732.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1063732.Paula_Hawkins",
+                        "average_rating": 3.88,
+                        "ratings_count": 2250682,
+                        "text_reviews_count": 131286
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 53837721,
+                    "uri": "kca://work/amzn1.gr.work.v1.O4iiGXMuqVVsIgGHHT5-mw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2139558709
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 28 12:12:04 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 2
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1879173532,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 28 12:12:03 -0800 2017",
+            "date_updated": "Thu Dec 28 12:12:03 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2229997430",
+            "link": "https://www.goodreads.com/review/show/2229997430",
+            "owned": 0
+        }
+    }
+}

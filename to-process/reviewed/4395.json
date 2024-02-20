@@ -1,0 +1,103 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 29505491,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4395
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8096
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.hRcrYPAtu3Un2cRnNaAKRw",
+                "title": "The Grapes of Wrath",
+                "title_without_series": "The Grapes of Wrath",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511302892l/4395._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511302892l/4395._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4395.The_Grapes_of_Wrath",
+                "num_pages": 455,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Penguin Books",
+                "publication_day": 8,
+                "publication_year": 2002,
+                "publication_month": 1,
+                "average_rating": 3.97,
+                "ratings_count": 724189,
+                "description": "Steinbeck’s Pulitzer Prize-winning epic of the Great Depression chronicles the Dust Bowl migration of the 1930s and tells the story of one Oklahoma farm family, the Joads—driven from their homestead and forced to travel west to the promised land of California. <br /><br />Out of their trials and their repeated collisions against the hard realities of an America divided into Haves and Have-Nots evolves a drama that is intensely human yet majestic in its scale and moral vision, elemental yet plainspoken, tragic but ultimately stirring in its human dignity. <br /><br />A portrait of the conflict between the powerful and the powerless, of one man’s fierce reaction to injustice, and of one woman’s stoical strength, the novel captures the horrors of the Great Depression and probes into the very nature of equality and justice in America. At once a naturalistic epic, captivity narrative, road novel, and transcendental gospel, Steinbeck’s powerful landmark novel is perhaps the most American of American Classics.",
+                "authors": {
+                    "author": {
+                        "id": 585,
+                        "name": "John Steinbeck",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1182118389p5/585.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1182118389p2/585.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/585.John_Steinbeck",
+                        "average_rating": 3.94,
+                        "ratings_count": 3627696,
+                        "text_reviews_count": 101565
+                    }
+                },
+                "published": 2002,
+                "work": {
+                    "id": 2931549,
+                    "uri": "kca://work/amzn1.gr.work.v1.KLxsHwrns90ziRPAgXak1g"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Aug 07 07:16:22 -0700 2008",
+            "date_updated": "Thu Aug 07 07:16:22 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/29505491",
+            "link": "https://www.goodreads.com/review/show/29505491",
+            "owned": 0
+        }
+    }
+}

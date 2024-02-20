@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 90222100,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7710270
+                },
+                "isbn": 470568135,
+                "isbn13": 9780470568132,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-2jeGlMuY5fikIWx-fsZdA",
+                "title": "WordPress Bible",
+                "title_without_series": "WordPress Bible",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7710270-wordpress-bible",
+                "num_pages": 644,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "John Wiley & Sons",
+                "publication_day": 8,
+                "publication_year": 2010,
+                "publication_month": 2,
+                "average_rating": 3.83,
+                "ratings_count": 69,
+                "description": "<b>A complete and thorough guide to the largest self-hosted blogging tool: WordPress</b> Has learning WordPress become a pressing issue for you? If so, then turn to WordPress Bible, a complete resource on everything you need to know to learn WordPress from beginning to end. You'll start with the basics of WordPress, such as the principles of blogging and social media interaction. Then the pace ramps up to more intermediate-to-advanced topics including plugins, WordPress Loop, themes and templates, custom fields, caching, security, and more.<br /><br />Written by a popular WordPress consultant, this comprehensive guide is timed to publish with the release of the latest version of WordPress, ensuring that you have the most up-to-date information available on the largest and most-used blogging tool in the world.<br /><br /><br />Serves as the definitive guide to every aspect of WordPress, the most popular self-hosted blogging tool in the world Covers everything, from the basics of installation to more advanced topics such as plugins and security Includes coverage of the most recent release of WordPress, keeping you up to date on all its latest features Addresses themes and templates, WordPress Loop, custom fields, caching, and more Author is a popular WordPress consultant You'll be hard-pressed to find another resource as thorough and comprehensive as <i>WordPress Bible</i>.<br /><br /><b>Note: </b> CD-ROM/DVD and other supplementary materials are not included as part of eBook file.",
+                "authors": {
+                    "author": {
+                        "id": 3367666,
+                        "name": "Aaron Brazell",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3367666.Aaron_Brazell",
+                        "average_rating": 3.83,
+                        "ratings_count": 69,
+                        "text_reviews_count": 4
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 10428617,
+                    "uri": "kca://work/amzn1.gr.work.v1.2VUxBsULzw4QG65ktGfQPw"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 48871861,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Feb 17 23:03:21 -0800 2010",
+            "date_updated": "Wed Feb 17 23:03:21 -0800 2010",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/90222100",
+            "link": "https://www.goodreads.com/review/show/90222100",
+            "owned": 0
+        }
+    }
+}

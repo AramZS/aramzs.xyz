@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2041814677,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25810398
+                },
+                "isbn": 525429638,
+                "isbn13": 9780525429630,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1305
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.vbm6DSnxSdSMQVDam3TOpg",
+                "title": "The Association of Small Bombs",
+                "title_without_series": "The Association of Small Bombs",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441308136l/25810398._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441308136l/25810398._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25810398-the-association-of-small-bombs",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.57,
+                "ratings_count": 12555,
+                "description": "FINALIST FOR THE NATIONAL BOOK AWARD 2016<br /><br />When brothers Tushar and Nakul Khurana, two Delhi schoolboys, go to pick up their family’s television set at a repair shop with their friend Mansoor Ahmed one day in 1996, disaster strikes without warning. A bomb—one of the many “small” bombs that go off seemingly unheralded across the world—detonates in the Delhi marketplace, instantly claiming the lives of the Khurana boys to the devastation of their parents. <br /><br />Mansoor survives, bearing the physical and psychological effects of the bomb. After a brief stint at university in America, Mansoor returns to Delhi, where his life becomes entangled with the mysterious and charismatic Ayub, a fearless young activist whose own allegiances and beliefs are more malleable than Mansoor could imagine. Woven among the story of the Khuranas and the Ahmeds is the tale of Shockie, a Kashmiri bomb maker who has forsaken his own life for the independence of his homeland.",
+                "authors": {
+                    "author": {
+                        "id": 1856113,
+                        "name": "Karan Mahajan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1438552833p5/1856113.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1438552833p2/1856113.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1856113.Karan_Mahajan",
+                        "average_rating": 3.55,
+                        "ratings_count": 13033,
+                        "text_reviews_count": 1565
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 45666384,
+                    "uri": "kca://work/amzn1.gr.work.v1.m9JcmAPP-wO-Nt34S0OaCg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1894287821
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Jun 27 05:31:12 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1695865033,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Jun 27 05:31:11 -0700 2017",
+            "date_updated": "Tue Jun 27 05:31:11 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2041814677",
+            "link": "https://www.goodreads.com/review/show/2041814677",
+            "owned": 0
+        }
+    }
+}

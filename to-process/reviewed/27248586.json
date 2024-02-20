@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785918202,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 27248586
+                },
+                "isbn": 1608868605,
+                "isbn13": 9781608868605,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 826
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.HQx8_pvCaLm0TMdBSwEIMg",
+                "title": "Out of Time (Lumberjanes, Vol. 4)",
+                "title_without_series": "Out of Time",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445433924l/27248586._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445433924l/27248586._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/27248586-out-of-time",
+                "num_pages": 112,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "BOOM! Box",
+                "publication_day": 12,
+                "publication_year": 2016,
+                "publication_month": 7,
+                "average_rating": 4.26,
+                "ratings_count": 9711,
+                "description": "<b>The mystery of history!</b><br /><br />Jen just wants a normal lesson with her cabin, teaching Jo, April, Mal, Molly, and Ripley the basic survival skills needed without any supernatural intervention. But when a blizzard hits camp, Jen finds herself separated from the girls and in more trouble than ever... until a mysterious taxidermist swoops in to save the day. Who is she and what is her relationship to Rosie? Join Jen as she finds a way back to her girls, and a way to save the day!<br /><br />This <em>New York Times Bestseller</em> and Eisner Award-Nominated series is written by Noelle Stevenson (Nimona, ADVENTURE TIME™), and Lumberjanes co-creator Shannon Watters, and illustrated by Brooke Allen (A Home For Mr. Easter).",
+                "authors": {
+                    "author": {
+                        "id": 6887314,
+                        "name": "Noelle Stevenson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1407089695p5/6887314.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1407089695p2/6887314.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6887314.Noelle_Stevenson",
+                        "average_rating": 4.09,
+                        "ratings_count": 260592,
+                        "text_reviews_count": 26093
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 47297488,
+                    "uri": "kca://work/amzn1.gr.work.v1.MTYK7Kzc6aSj_zsYN7m_HA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546323004
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:10:25 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813193812,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Oct 14 00:00:00 -0700 2016",
+            "date_added": "Sun Oct 16 07:10:24 -0700 2016",
+            "date_updated": "Mon Oct 23 16:29:45 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785918202",
+            "link": "https://www.goodreads.com/review/show/1785918202",
+            "owned": 0
+        }
+    }
+}

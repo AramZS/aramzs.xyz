@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1367822136,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13157246
+                },
+                "isbn": 62094572,
+                "isbn13": 9780062094575,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 389
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.cD6ED7U237U2jvgi2AHp2Q",
+                "title": "Devil Said Bang (Sandman Slim, #4)",
+                "title_without_series": "Devil Said Bang",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336593670l/13157246._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336593670l/13157246._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13157246-devil-said-bang",
+                "num_pages": 399,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Harper Voyager",
+                "publication_day": 28,
+                "publication_year": 2012,
+                "publication_month": 8,
+                "average_rating": 4.04,
+                "ratings_count": 11537,
+                "description": "Richard Kadrey’s Sandman Slim—aka James Stark—is, quite simply, one of the most outrageous uber-anti-heroes ever to kick serious butt on this or any other world or dimension.<br /><br />In his previous three adventures—<em>Sandman Slim</em>, <em>Kill the Dead</em>, and <em>Aloha from Hell</em>—Stark has fled Hell for California, taken on angels, demons, outlaw bikers, zombies, covert government operatives, and all manner of monsters, while saving humankind from total annihilation on numerous occasions. But in <em>Devil Said Bang</em>, he finally assumes the role he was destined for: as the new Lucifer, ruler of the Underworld.<br /><br />Combining outrageously edgy humor with a dark and truly twisted vision, Richard Kadrey has once again delivered a masterful amalgam of action novel, urban fantasy, and in-your-face horror that will delight a wide range of readers—from Christopher Moore and Warren Ellis fans to the devoted adherents of Jim Butcher, Charlaine Harris, Kim Harrison, and Simon Green.",
+                "authors": {
+                    "author": {
+                        "id": 37557,
+                        "name": "Richard Kadrey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1252945001p5/37557.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1252945001p2/37557.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37557.Richard_Kadrey",
+                        "average_rating": 3.99,
+                        "ratings_count": 130478,
+                        "text_reviews_count": 8935
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 18335617,
+                    "uri": "kca://work/amzn1.gr.work.v1.IwAoUxjwzUKr_mYauICF8w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 974786778
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 18 20:46:16 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Tue Aug 18 20:46:15 -0700 2015",
+            "date_updated": "Thu Dec 31 07:40:56 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1367822136",
+            "link": "https://www.goodreads.com/review/show/1367822136",
+            "owned": 0
+        }
+    }
+}

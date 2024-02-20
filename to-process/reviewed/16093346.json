@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2121168283,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16093346
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.lvBiCetpudMi32jC8hIZ4g",
+                "title": "Brinkmanship (Star Trek: Typhon Pact, #8)",
+                "title_without_series": "Brinkmanship",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350537611l/16093346._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350537611l/16093346._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16093346-brinkmanship",
+                "num_pages": 354,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": 25,
+                "publication_year": 2012,
+                "publication_month": 9,
+                "average_rating": 3.85,
+                "ratings_count": 684,
+                "description": "The Venette Convention has always remained independent, but it is about to become the flashpoint for a tense military standoff between the two power blocks now dominating interstellar space—the United Federation of Planets and the recently formed Typhon Pact. The Venetan government turns to the Typhon Pact’s Tzenkethi Coalition for protection in the new order and has agreed to allow three of their supply bases for Tzenkethi use. But these bases — if militarized — would put Tzenkethi weapons unacceptably close to Federation, Cardassian, and Ferengi space. While Captain Ezri Dax and the crew of the USS Aventine are sent to investigate exactly what is happening at one of the Venette bases, Captain Jean-Luc Picard and the USS Enterprise are assigned to a diplomatic mission in order to broker a mutually acceptable resolution. But the Cardassian delegates don’t seem particularly keen on using diplomacy to resolve the situation, which soon spirals out of control toward all-out war….",
+                "authors": {
+                    "author": {
+                        "id": 59617,
+                        "name": "Una McCormack",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/59617.Una_McCormack",
+                        "average_rating": 3.9,
+                        "ratings_count": 11382,
+                        "text_reviews_count": 1505
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 19112577,
+                    "uri": "kca://work/amzn1.gr.work.v1.Evqea6zPYvIIprjSUOI2VQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2002301131
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Sep 14 16:21:41 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1998441399
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Sep 11 16:56:52 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Sep 11 16:56:52 -0700 2017",
+            "read_at": "Thu Sep 14 16:21:45 -0700 2017",
+            "date_added": "Mon Sep 11 16:56:52 -0700 2017",
+            "date_updated": "Thu Sep 14 16:21:45 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2121168283",
+            "link": "https://www.goodreads.com/review/show/2121168283",
+            "owned": 0
+        }
+    }
+}

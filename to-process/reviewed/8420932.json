@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960346850,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8420932
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 132
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.gF6d2v1jVHt7DQjWJ26J6w",
+                "title": "Overtime (Laundry Files, #3.5)",
+                "title_without_series": "Overtime",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888718l/8420932._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327888718l/8420932._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8420932-overtime",
+                "num_pages": 30,
+                "format": {},
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 8,
+                "publication_year": 2010,
+                "publication_month": 6,
+                "average_rating": 3.91,
+                "ratings_count": 3663,
+                "description": "Introduced to readers in the novels The Atrocity Archive and The Jennifer Morgue, the Laundry is a secret British government agency charged with preventing dark interdimensional entities from destroying the human race. Now, in \"Overtime,\" the Laundry is on a skeleton staff for Christmas—leaving one bureaucrat to be all that stands between the world and annihilation by the Thing That Comes Down Chimneys. Written especially for Tor.com's holiday season, Charles Stross's novelette is a finalist for the 2010 Hugo Award.",
+                "authors": {
+                    "author": {
+                        "id": 8794,
+                        "name": "Charles Stross",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p5/8794.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p2/8794.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8794.Charles_Stross",
+                        "average_rating": 3.9,
+                        "ratings_count": 225995,
+                        "text_reviews_count": 14959
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 13283799,
+                    "uri": "kca://work/amzn1.gr.work.v1.F33CfAM5hoQ75U6NXRJ7Jw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452288330
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:15:21 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:15:21 -0700 2014",
+            "date_updated": "Sat Jun 07 06:15:21 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960346850",
+            "link": "https://www.goodreads.com/review/show/960346850",
+            "owned": 0
+        }
+    }
+}

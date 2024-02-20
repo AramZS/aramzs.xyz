@@ -1,0 +1,136 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2152522356,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35995468
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 101
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.m5ri7AhCxEWhQWtJsxohvw",
+                "title": "The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely Heroine Who Outwitted America's Enemies",
+                "title_without_series": "The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely Heroine Who Outwitted America's Enemies",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35995468-the-woman-who-smashed-codes",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.14,
+                "ratings_count": 11208,
+                "description": "<p>Joining the ranks of <em>Hidden Figures</em> and In the Garden of Beasts, the incredible true story of the greatest codebreaking duo that ever lived, an American woman and her husband who invented the modern science of cryptology together and used it to confront the evils of their time, solving puzzles that unmasked Nazi spies and helped win World War II.</p><p>In 1916, at the height of World War I, brilliant Shakespeare expert Elizebeth Smith went to work for an eccentric tycoon on his estate outside Chicago. The tycoon had close ties to the U.S. government, and he soon asked Elizebeth to apply her language skills to an exciting new venture: code-breaking. There she met the man who would become her husband, groundbreaking cryptologist William Friedman. Though she and Friedman are in many ways the \"Adam and Eve\" of the NSA, Elizebeth’s story, incredibly, has never been told.</p><p>In <em>The Woman Who Smashed Codes</em>, Jason Fagone chronicles the life of this extraordinary woman, who played an integral role in our nation’s history for forty years. After World War I, Smith used her talents to catch gangsters and smugglers during Prohibition, then accepted a covert mission to discover and expose Nazi spy rings that were spreading like wildfire across South America, advancing ever closer to the United States. As World War II raged, Elizebeth fought a highly classified battle of wits against Hitler’s Reich, cracking multiple versions of the Enigma machine used by German spies. Meanwhile, inside an Army vault in Washington, William worked furiously to break Purple, the Japanese version of Enigma—and eventually succeeded, at a terrible cost to his personal life.</p><p>Fagone unveils America’s code-breaking history through the prism of Smith’s life, bringing into focus the unforgettable events and colorful personalities that would help shape modern intelligence. Blending the lively pace and compelling detail that are the hallmarks of Erik Larson’s bestsellers with the atmosphere and intensity of <em>The Imitation Game, The Woman Who Smashed Codes</em> is page-turning popular history at its finest.</p>",
+                "authors": {
+                    "author": {
+                        "id": 63695,
+                        "name": "Jason Fagone",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1371502778p5/63695.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1371502778p2/63695.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/63695.Jason_Fagone",
+                        "average_rating": 4.12,
+                        "ratings_count": 11628,
+                        "text_reviews_count": 2020
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 52666460,
+                    "uri": "kca://work/amzn1.gr.work.v1.qHRLGDnW6PMiUjTBpfUp4g"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2892297279
+                        },
+                        "old_status": "currently-reading",
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 27 06:56:44 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2039318999
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Oct 13 19:29:43 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2446722949,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri Oct 13 19:29:43 -0700 2017",
+            "read_at": {},
+            "date_added": "Fri Oct 13 19:29:43 -0700 2017",
+            "date_updated": "Sat Apr 27 06:56:43 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2152522356",
+            "link": "https://www.goodreads.com/review/show/2152522356",
+            "owned": 0
+        }
+    }
+}

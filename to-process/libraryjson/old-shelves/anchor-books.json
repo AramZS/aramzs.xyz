@@ -1,0 +1,345 @@
+{
+    "name": "Anchor Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Handmaid's Tale (The Handmaid's Tale, #1)",
+            "id": "38447",
+            "author": "Margaret Atwood",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1417713037000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/38447",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Anchor Books",
+            "tags": [
+                "Paperback",
+                "Anchor Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "38447",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Atonement",
+            "id": "6867",
+            "author": "Ian McEwan",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1417711796000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Atonement: Rating - 5/5",
+                    "date": 1417711796000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6867",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Anchor Books",
+            "tags": [
+                "Paperback",
+                "Anchor Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "038572179X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780385721790",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6867",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Into the Wild",
+            "id": "1845",
+            "author": "Jon Krakauer",
+            "date_finished": 883612800000,
+            "notes": [],
+            "date_started": 1351350870000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Into the Wild: Rating - 4/5",
+                    "date": 883612800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1845",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Anchor Books",
+            "tags": [
+                "Paperback",
+                "Anchor Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0385486804",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780385486804",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "1845",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus",
+            "id": "16213",
+            "author": "Richard Preston",
+            "date_finished": 1222300800000,
+            "notes": [],
+            "date_started": 1222378035000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus: Rating - 5/5",
+                    "date": 1222300800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16213",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Anchor Books",
+            "tags": [
+                "Paperback",
+                "Anchor Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0385495226",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780385495226",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16213",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus",
+            "id": 16213,
+            "author": "Richard Preston",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16213",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Anchor Books",
+            "tags": [
+                "Paperback",
+                "Anchor Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 16213,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Into the Wild",
+            "id": 1845,
+            "author": "Jon Krakauer",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1845",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Anchor Books",
+            "tags": [
+                "Paperback",
+                "Anchor Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 1845,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Atonement",
+            "id": 6867,
+            "author": "Ian McEwan",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6867",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Anchor Books",
+            "tags": [
+                "Paperback",
+                "Anchor Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "038572179X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 6867,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

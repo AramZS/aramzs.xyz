@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749130454,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23004119
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.BV4VLO5iQuFYrPYATa0igg",
+                "title": "These are the Voyages - TOS: Season Two",
+                "title_without_series": "These are the Voyages - TOS: Season Two",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23004119-these-are-the-voyages---tos",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.54,
+                "ratings_count": 248,
+                "description": "SATURN AWARD WINNING BOOK! The second installment of the These Are the Voyages, TOS trilogy. Season One is also available on Amazon.com. <br /> <br />Now, travel back to 1967, with Star Trek entering its second season on NBC as the incredible, in depth, behind-the-scenes story gets even more remarkable. For Gene Roddenberry and his talented team, launching Star Trek was nearly an impossible task. Keeping it on the air was even harder. <br /> <br />Learn why Leonard Nimoy almost didn't return for Season Two. <br /> <br />Explore why Lucille Ball, whose Desilu Productions, had gambled big on financing Star Trek, would lose her studio. <br /> <br />Discover the real reason producer Gene Coon suddenly quit in the middle of the second year. <br /> <br />Find out about the unproduced episodes written by renowned science fiction masters. <br /> <br />Read the memos from Roddenberry and his staff, and NBC, concerning all 26 Season Two episodes. <br /> <br />Witness the continuing deception by the network over the show's ratings, and how the fans took on a corporate giant to save their favorite series. <br /> <br />Early Reviews: <br /> <br />\"Compelling, page-turning ... the most important book of Star Trek journalism ever done and is just as gripping as [Marc Cushman's] look at the shows and launch of the first season.\" - Jeff Bond, Editor, Geek Magazine <br /> <br />\"With These Are the Voyages - TOS: Season Two, author Marc Cushman has topped his amazing predecessor!\" - Scott Mantz, Access Hollywood <br /> <br />\"You can trust these books! You won't be reading a P.R. man's spins. This is honest and this is how it was being there making Star Trek.\" - Walter Koenig (Chekov). <br /> <br />Season One is on Amazon in hardback, softback and Kindle",
+                "authors": {
+                    "author": {
+                        "id": 284120,
+                        "name": "Marc Cushman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1442463204p5/284120.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1442463204p2/284120.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/284120.Marc_Cushman",
+                        "average_rating": 4.45,
+                        "ratings_count": 959,
+                        "text_reviews_count": 145
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 41115021,
+                    "uri": "kca://work/amzn1.gr.work.v1.USlXh8Tv-XN9UX25HYoJEw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498304047
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:43:41 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414466968,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:43:40 -0700 2016",
+            "date_updated": "Mon Sep 05 07:43:41 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749130454",
+            "link": "https://www.goodreads.com/review/show/1749130454",
+            "owned": 0
+        }
+    }
+}

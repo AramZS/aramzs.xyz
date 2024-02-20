@@ -1,0 +1,96 @@
+{
+    "name": "Free Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Bull by the Horns: Fighting to Save Main Street from Wall Street and Wall Street from Itself",
+            "id": "18872892",
+            "author": "Sheila Bair",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402147115000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18872892",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Free Press",
+            "tags": [
+                "Kindle Edition",
+                "Free Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18872892",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The White Tiger",
+            "id": "1768603",
+            "author": "Aravind Adiga",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1245955898000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1768603",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Free Press",
+            "tags": [
+                "Hardcover",
+                "Free Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1416562591",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781416562597",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "1768603",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

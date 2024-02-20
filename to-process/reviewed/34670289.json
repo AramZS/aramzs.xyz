@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2638058143,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34670289
+                },
+                "isbn": 1302905961,
+                "isbn13": 9781302905965,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 74
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.7f05aecbzjo6T25mx4Y5Iw",
+                "title": "Spider-Gwen, Vol. 4: Predators",
+                "title_without_series": "Spider-Gwen, Vol. 4: Predators",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508101511l/34670289._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508101511l/34670289._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34670289-spider-gwen-vol-4",
+                "num_pages": 121,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel Comics",
+                "publication_day": 31,
+                "publication_year": 2017,
+                "publication_month": 10,
+                "average_rating": 3.69,
+                "ratings_count": 641,
+                "description": "After her adventure with Miles Morales, Gwen finds herself thrown into her toughest, most intense encounter yet. One word: Gwenom! It's the mash-up to end all mash-ups, but the stakes are high and the consequences are all too real! Can she get through this new challenge in one piece? And with Wolverine and Matt Murdock gunning for Harry Osborn, Gwen will need to step in and save him - but will the cost of this rescue be her own soul? As predators aplenty converge on Madripoor, things get deadlier than ever for the Spider-Woman of Earth-65! Plus: Musical mayhem with the magnificent Mary Janes! <br /><br />COLLECTING: SPIDER-GWEN 19-23",
+                "authors": {
+                    "author": {
+                        "id": 4456310,
+                        "name": "Jason Latour",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1488513529p5/4456310.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1488513529p2/4456310.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4456310.Jason_Latour",
+                        "average_rating": 3.89,
+                        "ratings_count": 55187,
+                        "text_reviews_count": 5288
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 55839701,
+                    "uri": "kca://work/amzn1.gr.work.v1.2xMOe-0TsD9Nxc1paud2MA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2677473459
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Dec 25 08:54:37 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Dec 20 00:00:00 -0800 2018",
+            "date_added": "Tue Dec 25 08:54:36 -0800 2018",
+            "date_updated": "Wed Dec 26 09:26:04 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2638058143",
+            "link": "https://www.goodreads.com/review/show/2638058143",
+            "owned": 0
+        }
+    }
+}

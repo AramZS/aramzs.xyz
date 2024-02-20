@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789550985,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19386071
+                },
+                "isbn": "194053500X",
+                "isbn13": 9781940535005,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 57
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.kXPAVmZeOAhU72ixeqlX6A",
+                "title": "EarthBound (Boss Fight Books, #1)",
+                "title_without_series": "EarthBound",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386814390l/19386071._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386814390l/19386071._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19386071-earthbound",
+                "num_pages": 191,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Boss Fight Books",
+                "publication_day": 15,
+                "publication_year": 2014,
+                "publication_month": 1,
+                "average_rating": 3.72,
+                "ratings_count": 410,
+                "description": "An RPG for the Super NES that flopped when it first arrived to the U.S., EarthBound grew in fan support and critical acclaim over the years, eventually becoming the All-Time Favorite Game of thousands, among them author Ken Baumann.<br /><br />Featuring a heartfelt foreword from the game's North American localization director, Marcus Lindblom, Baumann's EarthBound is a joyful tornado of history, criticism, and memoir.<br /><br />Baumann explores the game’s unlikely origins, its brilliant creator, its madcap plot, its marketing failure, its cult rise from the ashes, and its intersections with Japanese and American culture, all the while reflecting back on the author's own journey into the terrifying and hilarious world of adults.",
+                "authors": {
+                    "author": {
+                        "id": 225289,
+                        "name": "Ken Baumann",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1524242804p5/225289.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1524242804p2/225289.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/225289.Ken_Baumann",
+                        "average_rating": 3.84,
+                        "ratings_count": 699,
+                        "text_reviews_count": 107
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 27457432,
+                    "uri": "kca://work/amzn1.gr.work.v1.E2OpmUdJEZYGX5dS09RyYg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240631900
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 12:36:52 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571772908,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 12:36:52 -0800 2013",
+            "date_updated": "Fri Dec 13 12:36:52 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789550985",
+            "link": "https://www.goodreads.com/review/show/789550985",
+            "owned": 0
+        }
+    }
+}

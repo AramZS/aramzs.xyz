@@ -1,0 +1,104 @@
+{
+    "name": "Icon",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Powers: Definitive Collection, Vol. 1",
+            "id": "105862",
+            "author": "Brian Michael Bendis, Michael Avon Oeming, Pat Garrahy",
+            "date_finished": 1359676800000,
+            "notes": [],
+            "date_started": 1508803863000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Powers: Definitive Collection, Vol. 1: Rating - 3/5",
+                    "date": 1359676800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/105862",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Icon",
+            "tags": [
+                "Hardcover",
+                "Icon",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0785118055",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780785118053",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "105862",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Powers: Definitive Collection, Vol. 1",
+            "id": 105862,
+            "author": "Brian Michael Bendis",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/105862",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Icon",
+            "tags": [
+                "Hardcover",
+                "Icon",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 105862,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1972232808,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 33216520
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 205
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.prz84BEncFdH0zCr2kCzYA",
+                "title": "River of Teeth (River of Teeth, #1)",
+                "title_without_series": "River of Teeth",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484234446l/33216520._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484234446l/33216520._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/33216520-river-of-teeth",
+                "num_pages": 178,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.52,
+                "ratings_count": 6338,
+                "description": "In the early 20th Century, the United States government concocted a plan to import hippopotamuses into the marshlands of Louisiana to be bred and slaughtered as an alternative meat source. This is true.<br /><br />Other true things about hippos: they are savage, they are fast, and their jaws can snap a man in two.<br /><br />This was a terrible plan.<br /><br />Contained within this volume is an 1890s America that might have been: a bayou overrun by feral hippos and mercenary hippo wranglers from around the globe. It is the story of Winslow Houndstooth and his crew. It is the story of their fortunes. It is the story of <i>his </i>revenge.",
+                "authors": {
+                    "author": {
+                        "id": 15045277,
+                        "name": "Sarah Gailey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1523988658p5/15045277.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1523988658p2/15045277.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/15045277.Sarah_Gailey",
+                        "average_rating": 3.68,
+                        "ratings_count": 30077,
+                        "text_reviews_count": 6469
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 52146842,
+                    "uri": "kca://work/amzn1.gr.work.v1.M1ZUvVQy5JH45qbs5cK2fQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2010941449
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Sep 21 11:02:17 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2007338899
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Sep 18 15:58:22 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151463
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:32 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151459
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:32 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Sep 18 15:58:22 -0700 2017",
+            "read_at": "Thu Sep 21 11:02:17 -0700 2017",
+            "date_added": "Sat Apr 15 07:14:31 -0700 2017",
+            "date_updated": "Thu Sep 21 11:02:17 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1972232808",
+            "link": "https://www.goodreads.com/review/show/1972232808",
+            "owned": 0
+        }
+    }
+}

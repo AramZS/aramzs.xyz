@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749126946,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 24997064
+                },
+                "isbn": 356505340,
+                "isbn13": 9780356505343,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 303
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ADoE_vFQZHyMfDGaLV01pw",
+                "title": "The Nightmare Stacks (Laundry Files, #7)",
+                "title_without_series": "The Nightmare Stacks",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448811411l/24997064._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448811411l/24997064._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/24997064-the-nightmare-stacks",
+                "num_pages": 352,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 23,
+                "publication_year": 2016,
+                "publication_month": 6,
+                "average_rating": 4.23,
+                "ratings_count": 5185,
+                "description": "Alex Schwartz had a promising future - until he contracted an unfortunate bout of vampirism, and agreed (on pain of death) to join the Laundry, Britain's only counter-occult secret agency.<br /><br />His first assignment is in Leeds - his old hometown. The thought of telling his parents that he's lost his old job, let alone them finding out about his 'condition', is causing Alex more anxiety than learning how to live as a vampire secret agent preparing to confront multiple apocalypses.<br /><br />His only saving grace is Cassie Brewer, a student appearing in the local Goth Festival, who flirts with him despite his awkward personality and massive amounts of sunblock.<br />But Cassie has secrets of her own - secrets that make Alex's night life seem positively normal . . .",
+                "authors": {
+                    "author": {
+                        "id": 8794,
+                        "name": "Charles Stross",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p5/8794.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p2/8794.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8794.Charles_Stross",
+                        "average_rating": 3.9,
+                        "ratings_count": 225995,
+                        "text_reviews_count": 14959
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 44666642,
+                    "uri": "kca://work/amzn1.gr.work.v1.Nrl8_cF54WTLHm7ubxqW-Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498299435
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:39:43 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Jul 15 00:00:00 -0700 2016",
+            "date_added": "Mon Sep 05 07:39:43 -0700 2016",
+            "date_updated": "Mon Sep 05 07:40:25 -0700 2016",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749126946",
+            "link": "https://www.goodreads.com/review/show/1749126946",
+            "owned": 0
+        }
+    }
+}

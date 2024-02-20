@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 61082268,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1768603
+                },
+                "isbn": 1416562591,
+                "isbn13": 9781416562597,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8120
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.u2MprLaBiN3doEYXe3cUgg",
+                "title": "The White Tiger",
+                "title_without_series": "The White Tiger",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1768603.The_White_Tiger",
+                "num_pages": 276,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Free Press",
+                "publication_day": {},
+                "publication_year": 2008,
+                "publication_month": {},
+                "average_rating": 3.74,
+                "ratings_count": 152110,
+                "description": "Introducing a major literary talent, The White Tiger offers a story of coruscating wit, blistering suspense, and questionable morality, told by the most volatile, captivating, and utterly inimitable narrator that this millennium has yet seen. <br /><br />Balram Halwai is a complicated man. Servant. Philosopher. Entrepreneur. Murderer. Over the course of seven nights, by the scattered light of a preposterous chandelier, Balram tells us the terrible and transfixing story of how he came to be a success in life—having nothing but his own wits to help him along. <br /><br />Born in the dark heart of India, Balram gets a break when he is hired as a driver for his village's wealthiest man, two house Pomeranians (Puddles and Cuddles), and the rich man's (very unlucky) son. From behind the wheel of their Honda City car, Balram's new world is a revelation. While his peers flip through the pages of Murder Weekly (\"Love -- Rape -- Revenge!\"), barter for girls, drink liquor (Thunderbolt), and perpetuate the Great Rooster Coop of Indian society, Balram watches his employers bribe foreign ministers for tax breaks, barter for girls, drink liquor (single-malt whiskey), and play their own role in the Rooster Coop. Balram learns how to siphon gas, deal with corrupt mechanics, and refill and resell Johnnie Walker Black Label bottles (all but one). He also finds a way out of the Coop that no one else inside it can perceive. <br /><br />Balram's eyes penetrate India as few outsiders can: the cockroaches and the call centers; the prostitutes and the worshippers; the ancient and Internet cultures; the water buffalo and, trapped in so many kinds of cages that escape is (almost) impossible, the white tiger. And with a charisma as undeniable as it is unexpected, Balram teaches us that religion doesn't create virtue, and money doesn't solve every problem -- but decency can still be found in a corrupt world, and you can get what you want out of life if you eavesdrop on the right conversations. <br /><br />The White Tiger recalls The Death of Vishnu and Bangkok 8 in ambition, scope, and narrative genius, with a mischief and personality all its own. Amoral, irreverent, deeply endearing, and utterly contemporary, this novel is an international publishing sensation —and a startling, provocative debut.",
+                "authors": {
+                    "author": {
+                        "id": 810254,
+                        "name": "Aravind Adiga",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1315250024p5/810254.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1315250024p2/810254.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/810254.Aravind_Adiga",
+                        "average_rating": 3.71,
+                        "ratings_count": 167380,
+                        "text_reviews_count": 11726
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 1766737,
+                    "uri": "kca://work/amzn1.gr.work.v1.LFmuVq5vjbTYOnye07NQqw"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 31053435,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jun 25 11:51:38 -0700 2009",
+            "date_updated": "Thu Jun 25 11:51:38 -0700 2009",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/61082268",
+            "link": "https://www.goodreads.com/review/show/61082268",
+            "owned": 0
+        }
+    }
+}

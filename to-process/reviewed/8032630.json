@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789423827,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8032630
+                },
+                "isbn": 980455294,
+                "isbn13": 9780980455298,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.cTTD7s6KyErwiE1Bkas2hQ",
+                "title": "Build Your Own Wicked WordPress Themes",
+                "title_without_series": "Build Your Own Wicked WordPress Themes",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328764002l/8032630._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328764002l/8032630._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8032630-build-your-own-wicked-wordpress-themes",
+                "num_pages": 250,
+                "format": "Paperback",
+                "edition_information": "1st edition",
+                "publisher": "SitePoint",
+                "publication_day": 4,
+                "publication_year": 2010,
+                "publication_month": 9,
+                "average_rating": 3.68,
+                "ratings_count": 77,
+                "description": "Wicked WordPress Themes is a step-by-step guide to creating beautiful themes for the world's most popular CMS, WordPress.<br /><br /> By following the book's advice, readers can produce designs that are aesthetically stunning, consistent, and for-purpose -whether it's for their own use, or to drive a high price on the theme marketplace.<br /><br /> All facets of theme design are covered: from design, coding, and deployment, to ensuring readers' designs are ready-to-go as soon as they're installed.<br /><br /> Wicked WordPress Themes teaches readers how to leverage theme design frameworks to dramatically shorten development time, enabling them to enter the theme market faster.",
+                "authors": {
+                    "author": {
+                        "id": 124132,
+                        "name": "Allan Cole",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1324508336p5/124132.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1324508336p2/124132.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/124132.Allan_Cole",
+                        "average_rating": 3.99,
+                        "ratings_count": 11093,
+                        "text_reviews_count": 312
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 12640794,
+                    "uri": "kca://work/amzn1.gr.work.v1.gsBFkyuQagV4-AevLF7aow"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240475850
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 09:00:56 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 571662845,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Jan 01 00:00:00 -0800 2010",
+            "date_added": "Fri Dec 13 09:00:56 -0800 2013",
+            "date_updated": "Wed Jan 22 13:13:45 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789423827",
+            "link": "https://www.goodreads.com/review/show/789423827",
+            "owned": 0
+        }
+    }
+}

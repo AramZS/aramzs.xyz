@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 209471156,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 357922
+                },
+                "isbn": 441167306,
+                "isbn13": 9780441167302,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 119
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.C5gFcm6PzYx6N4rmOCxLMA",
+                "title": "Dream Park (Dream Park, #1)",
+                "title_without_series": "Dream Park",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309200983l/357922._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309200983l/357922._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/357922.Dream_Park",
+                "num_pages": 448,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Ace",
+                "publication_day": 15,
+                "publication_year": 2003,
+                "publication_month": 7,
+                "average_rating": 3.82,
+                "ratings_count": 3407,
+                "description": "For fifteen virtual reality gamers undertaking a four-and-half day quest, the fantasy slaying of monsters is suddenly interrupted-by murder.",
+                "authors": {
+                    "author": {
+                        "id": 12534,
+                        "name": "Larry Niven",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1182720933p5/12534.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1182720933p2/12534.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12534.Larry_Niven",
+                        "average_rating": 3.91,
+                        "ratings_count": 454456,
+                        "text_reviews_count": 15769
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 1775372,
+                    "uri": "kca://work/amzn1.gr.work.v1.AvjWqFv-3g2o2YQwh-PV7w"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Sep 16 13:52:49 -0700 2011",
+            "date_updated": "Fri Sep 16 13:52:49 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/209471156",
+            "link": "https://www.goodreads.com/review/show/209471156",
+            "owned": 0
+        }
+    }
+}

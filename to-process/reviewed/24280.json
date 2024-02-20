@@ -1,0 +1,112 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528972112,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 24280
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10583
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.6Rqo6F6liqt2xqlbfxOE_A",
+                "title": "Les Misérables",
+                "title_without_series": "Les Misérables",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411852091l/24280._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411852091l/24280._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/24280.Les_Mis_rables",
+                "num_pages": 1463,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Signet Classics",
+                "publication_day": 3,
+                "publication_year": 1987,
+                "publication_month": 3,
+                "average_rating": 4.17,
+                "ratings_count": 645787,
+                "description": "Introducing one of the most famous characters in literature, Jean Valjean—the noble peasant imprisoned for stealing a loaf of bread—Les Misérables ranks among the greatest novels of all time. In it, Victor Hugo takes readers deep into the Parisian underworld, immerses them in a battle between good and evil, and carries them to the barricades during the uprising of 1832 with a breathtaking realism that is unsurpassed in modern prose. Within his dramatic story are themes that capture the intellect and the emotions: crime and punishment, the relentless persecution of Valjean by Inspector Javert, the desperation of the prostitute Fantine, the amorality of the rogue Thénardier, and the universal desire to escape the prisons of our own minds. Les Misérables gave Victor Hugo a canvas upon which he portrayed his criticism of the French political and judicial systems, but the portrait that resulted is larger than life, epic in scope—an extravagant spectacle that dazzles the senses even as it touches the heart.",
+                "authors": {
+                    "author": {
+                        "id": 13661,
+                        "name": "Victor Hugo",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1415946858p5/13661.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1415946858p2/13661.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13661.Victor_Hugo",
+                        "average_rating": 4.14,
+                        "ratings_count": 908878,
+                        "text_reviews_count": 26777
+                    }
+                },
+                "published": 1987,
+                "work": {
+                    "id": 3208463,
+                    "uri": "kca://work/amzn1.gr.work.v1.EK63uPAFrpWdWht9Sig4Tw"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847074411,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:35:04 -0800 2013",
+            "date_updated": "Thu Dec 04 09:16:12 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528972112",
+            "link": "https://www.goodreads.com/review/show/528972112",
+            "owned": 0
+        }
+    }
+}

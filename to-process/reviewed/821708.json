@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671249,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 821708
+                },
+                "isbn": 618902813,
+                "isbn13": 9780618902811,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 253
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.81b7H6erOPLX9-d_rWSzhw",
+                "title": "The Best American Nonrequired Reading 2007",
+                "title_without_series": "The Best American Nonrequired Reading 2007",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382939274l/821708._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382939274l/821708._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/821708.The_Best_American_Nonrequired_Reading_2007",
+                "num_pages": 347,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Mariner Books",
+                "publication_day": 10,
+                "publication_year": 2007,
+                "publication_month": 10,
+                "average_rating": 3.9,
+                "ratings_count": 2695,
+                "description": "From \"Q &amp; A\" by Dave Eggers: A group of senators and assemblypersons were pressing The Best American Non-Required Reading on a number of questions relating to the collection, so we decided to kill that stone in the shape of an introduction in the shape of a Q &amp; A.<br /><br />Who are they, the Non-Required committee's members who decide on things in this collection?<br />They are high school students from all over the San Francisco Bay Area.<br /><br />Are they touched by some kind of divine light?<br />The question is a good one. There is rampant speculation on the subject.<br /><br />Are they all great-looking and charming and well dressed?<br />Yes. All of them, and especially Felicia Wong, who can even make her own clothes.<br /><br />I have a question about the process by which the entries in this collection are chosen. Is it scientific?<br />The process by which The Best American Non-Required Reading is put together is not scientific. It is whatever one would consider the opposite of scientific.<br /><br />Creationist?<br />Well, no, it's not creationist either. The point is that we are probably a bit less top-to-bottom thorough than, say, the Army Corps of Engineers. Well, actually, scratch that. We are probably about exactly as thorough as the Army Corps of Engineers, in that we are intermittently thorough.<br /><br />What is your opinion and the committee's opinion of the state of short stories and small magazines and other periodicals?<br />This is a good time. It really is.<br /><br />More specifically?<br />Not all of us Americans appreciate the fact that we have about 150 very good quarterlies in this country. Every state seems to have a very good quarterly, and about a hundred colleges have very good quarterlies — from the Kenyon Review to the University of Illinois's Ninth Letter. So by our estimate there are about 150 very good quarterlies in this country. Maybe more. Now, the thing we don’t always appreciate here in America is that elsewhere in the world there are few to no quarterlies.<br /><br />How does it feel to select something for the collection that you found in an unlikely place?<br />It feels so good. This year, for example, at the last moment we found “Humpies” by Mattox Roesch. It was published by Agni Online, and we all loved it, and here it is, ideally able to reach a new audience. We all took pleasure in finding that one; the mandate of the committee is to find the offbeat and the lesser-known and bring these pieces to our readers, most of whom have great skin and bad eyes.",
+                "authors": {
+                    "author": {
+                        "id": 3371,
+                        "name": "Dave Eggers",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1432065054p5/3371.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1432065054p2/3371.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3371.Dave_Eggers",
+                        "average_rating": 3.71,
+                        "ratings_count": 664724,
+                        "text_reviews_count": 66430
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 2845176,
+                    "uri": "kca://work/amzn1.gr.work.v1.HQuB6pGsdjZoGVKR_JtYZA"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:19:51 -0700 2008",
+            "date_updated": "Mon Jun 16 19:19:51 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671249",
+            "link": "https://www.goodreads.com/review/show/24671249",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065303246,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 44600621
+                },
+                "isbn": "052550883X",
+                "isbn13": 9780525508830,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3416
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8SjuN-eAwtAvqdsH7mLieQ",
+                "title": "Dear Girls: Intimate Tales, Untold Secrets, & Advice for Living Your Best Life",
+                "title_without_series": "Dear Girls: Intimate Tales, Untold Secrets, & Advice for Living Your Best Life",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553635552l/44600621._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553635552l/44600621._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/44600621-dear-girls",
+                "num_pages": 240,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Random House",
+                "publication_day": 15,
+                "publication_year": 2019,
+                "publication_month": 10,
+                "average_rating": 3.92,
+                "ratings_count": 35689,
+                "description": "<b>Ali Wong's heartfelt and hilarious letters to her daughters (the two she put to work while they were still in utero), covering everything they need to know in life, like the unpleasant details of dating, how to be a working mom in a male-dominated profession, and how she trapped their dad.</b><br /><br />In her hit Netflix comedy special <i>Baby Cobra</i>, an eight-month pregnant Ali Wong resonated so heavily that she became a popular Halloween costume. Wong told the world her remarkably unfiltered thoughts on marriage, sex, Asian culture, working women, and why you never see new mom comics on stage but you sure see plenty of new dads.<br /><br />The sharp insights and humor are even more personal in this completely original collection. She shares the wisdom she's learned from a life in comedy and reveals stories from her life off stage, including the brutal singles life in New York (i.e. the inevitable confrontation with erectile dysfunction), reconnecting with her roots (and drinking snake blood) in Vietnam, tales of being a wild child growing up in San Francisco, and parenting war stories. Though addressed to her daughters, Ali Wong's letters are absurdly funny, surprisingly moving, and enlightening (and disgusting) for all.",
+                "authors": {
+                    "author": {
+                        "id": 19001530,
+                        "name": "Ali Wong",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/19001530.Ali_Wong",
+                        "average_rating": 3.92,
+                        "ratings_count": 35709,
+                        "text_reviews_count": 3848
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 69234815,
+                    "uri": "kca://work/amzn1.gr.work.v1.F2cUTBHwSV4z2LHrYzpUXQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244215995
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:16:59 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712837170,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:16:58 -0800 2019",
+            "date_updated": "Thu Nov 28 09:16:59 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065303246",
+            "link": "https://www.goodreads.com/review/show/3065303246",
+            "owned": 0
+        }
+    }
+}

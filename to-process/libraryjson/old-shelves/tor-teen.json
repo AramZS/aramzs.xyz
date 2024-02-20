@@ -1,0 +1,104 @@
+{
+    "name": "Tor Teen",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Homeland (Little Brother, #2)",
+            "id": "17378500",
+            "author": "Cory Doctorow",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1445521527000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Homeland (Little Brother, #2): Rating - 3/5",
+                    "date": 1445521527000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/17378500",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Tor Teen",
+            "tags": [
+                "Kindle Edition",
+                "Tor Teen",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "17378500",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Homeland (Little Brother, #2)",
+            "id": 17378500,
+            "author": "Cory Doctorow",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/17378500",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Tor Teen",
+            "tags": [
+                "Kindle Edition",
+                "Tor Teen",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 17378500,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

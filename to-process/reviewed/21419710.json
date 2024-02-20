@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749129457,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 21419710
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 362
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.R869LblYtvisGzh_zxRROA",
+                "title": "10% Happier",
+                "title_without_series": "10% Happier",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/21419710-10-happier",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.93,
+                "ratings_count": 74928,
+                "description": "<em>Nightline</em> anchor Dan Harris embarks on an unexpected, hilarious, and deeply skeptical odyssey through the strange worlds of spirituality and self-help, and discovers a way to get happier that is truly achievable.<br /><br />After having a nationally televised panic attack on <em>Good Morning America</em>, Dan Harris knew he had to make some changes. A lifelong nonbeliever, he found himself on a bizarre adventure, involving a disgraced pastor, a mysterious self-help guru, and a gaggle of brain scientists. Eventually, Harris realized that the source of his problems was the very thing he always thought was his greatest asset: the incessant, insatiable voice in his head, which had both propelled him through the ranks of a hyper-competitive business and also led him to make the profoundly stupid decisions that provoked his on-air freak-out.<br /><br />We all have a voice in our head. It’s what has us losing our temper unnecessarily, checking our email compulsively, eating when we’re not hungry, and fixating on the past and the future at the expense of the present. Most of us would assume we’re stuck with this voice – that there’s nothing we can do to rein it in – but Harris stumbled upon an effective way to do just that. It’s a far cry from the miracle cures peddled by the self-help swamis he met; instead, it’s something he always assumed to be either impossible or useless: meditation. After learning about research that suggests meditation can do everything from lower your blood pressure to essentially rewire your brain, Harris took a deep dive into the underreported world of CEOs, scientists, and even marines who are now using it for increased calm, focus, and happiness.<br /><br /><em>10% Happier</em> takes readers on a ride from the outer reaches of neuroscience to the inner sanctum of network news to the bizarre fringes of America’s spiritual scene, and leaves them with a takeaway that could actually change their lives.",
+                "authors": {
+                    "author": {
+                        "id": 7890536,
+                        "name": "Dan   Harris",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1393858699p5/7890536.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1393858699p2/7890536.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7890536.Dan_Harris",
+                        "average_rating": 3.92,
+                        "ratings_count": 80076,
+                        "text_reviews_count": 6466
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 26365939,
+                    "uri": "kca://work/amzn1.gr.work.v1.KgITrXPRw5QL4edgTJcW4w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498302674
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:42:34 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414465929,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:42:33 -0700 2016",
+            "date_updated": "Mon Sep 05 07:42:33 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749129457",
+            "link": "https://www.goodreads.com/review/show/1749129457",
+            "owned": 0
+        }
+    }
+}

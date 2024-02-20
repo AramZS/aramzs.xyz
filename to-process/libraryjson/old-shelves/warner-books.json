@@ -1,0 +1,300 @@
+{
+    "name": "Warner Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Queen of Angels (Queen of Angels, #1)",
+            "id": "410766",
+            "author": "Greg Bear",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146964000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Queen of Angels (Queen of Angels, #1): Rating - 3/5",
+                    "date": 1402146964000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/410766",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Warner Books",
+            "tags": [
+                "Paperback",
+                "Warner Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0446361305",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780446361309",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "410766",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Different Seasons",
+            "id": "39662",
+            "author": "Stephen King",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360254877000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Different Seasons: Rating - 4/5",
+                    "date": 1360254877000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/39662",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Warner Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Warner Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0751514624",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780751514629",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "39662",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Chasing the Dime",
+            "id": "32507",
+            "author": "Michael Connelly",
+            "date_finished": 1279670400000,
+            "notes": [],
+            "date_started": 1279727566000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Chasing the Dime: Rating - 3/5",
+                    "date": 1279670400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/32507",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Warner Books",
+            "tags": [
+                "Paperback",
+                "Warner Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "044661162X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780446611626",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "32507",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Queen of Angels (Queen of Angels, #1)",
+            "id": 410766,
+            "author": "Greg Bear",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/410766",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Warner Books",
+            "tags": [
+                "Paperback",
+                "Warner Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 410766,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Chasing the Dime",
+            "id": 32507,
+            "author": "Michael Connelly",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/32507",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Warner Books",
+            "tags": [
+                "Paperback",
+                "Warner Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "044661162X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 32507,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Different Seasons",
+            "id": 39662,
+            "author": "Stephen King",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/39662",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Warner Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Warner Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 39662,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

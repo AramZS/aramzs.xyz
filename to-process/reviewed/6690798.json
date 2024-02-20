@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2291525398,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6690798
+                },
+                "isbn": 345504968,
+                "isbn13": 9780345504968,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 15980
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.aQdi-dsjLqqludbA7b_0Cw",
+                "title": "The Passage (The Passage, #1)",
+                "title_without_series": "The Passage",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327874267l/6690798._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327874267l/6690798._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6690798-the-passage",
+                "num_pages": 766,
+                "format": "Hardcover",
+                "edition_information": "First Edition",
+                "publisher": "Ballantine Books",
+                "publication_day": 8,
+                "publication_year": 2010,
+                "publication_month": 6,
+                "average_rating": 4.04,
+                "ratings_count": 180687,
+                "description": "IT HAPPENED FAST.<br />THIRTY-TWO MINUTES FOR ONE WORLD TO DIE, ANOTHER TO BE BORN.<br /><br />First, the unthinkable: a security breach at a secret U.S. government facility unleashes the monstrous product of a chilling military experiment. Then, the unspeakable: a night of chaos and carnage gives way to sunrise on a nation, and ultimately a world, forever altered. All that remains for the stunned survivors is the long fight ahead and a future ruled by fear--of darkness, of death, of a fate far worse.<br /><br />As civilization swiftly crumbles into a primal landscape of predators and prey, two people flee in search of sanctuary. FBI agent Brad Wolgast is a good man haunted by what he's done in the line of duty. Six-year-old orphan Amy Harper Bellafonte is a refugee from the doomed scientific project that has triggered apocalypse. Wolgast is determined to protect her from the horror set loose by her captors, but for Amy, escaping the bloody fallout is only the beginning of a much longer odyssey--spanning miles and decades--toward the time an place where she must finish what should never have begun.<br /><br />With The Passage, award-winning author Justin Cronin has written both a relentlessly suspenseful adventure and an epic chronicle of human endurance in the face of unprecedented catastrophe and unimaginable danger. Its inventive storytelling, masterly prose, and depth of human insight mark it as a crucial and transcendent work of modern fiction.<br /><br />(front flap)",
+                "authors": {
+                    "author": {
+                        "id": 45315,
+                        "name": "Justin Cronin",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1456843158p5/45315.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1456843158p2/45315.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/45315.Justin_Cronin",
+                        "average_rating": 4.05,
+                        "ratings_count": 318862,
+                        "text_reviews_count": 32786
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 2802546,
+                    "uri": "kca://work/amzn1.gr.work.v1.yGFaBW6IFGOAiDFqL_1ePg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2218673359
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Feb 10 14:29:07 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1938145760,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Feb 10 14:29:06 -0800 2018",
+            "date_updated": "Sat Feb 10 14:29:07 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2291525398",
+            "link": "https://www.goodreads.com/review/show/2291525398",
+            "owned": 0
+        }
+    }
+}

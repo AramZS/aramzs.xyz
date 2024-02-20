@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24670694,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22328
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5427
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.GLwwQu2l5NTH60Qfei9zWw",
+                "title": "Neuromancer (Sprawl, #1)",
+                "title_without_series": "Neuromancer",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1167348726l/22328._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1167348726l/22328._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22328.Neuromancer",
+                "num_pages": 271,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Ace Books",
+                "publication_day": 1,
+                "publication_year": 1984,
+                "publication_month": 7,
+                "average_rating": 3.9,
+                "ratings_count": 253204,
+                "description": "Winner of the Hugo, Nebula, and Philip K. Dick Awards<br /><br />Case was the sharpest data thief in the Matrix, until an ex-employer crippled his nervous system. Now a new employer has recruited him for a last-chance run against an unthinkably powerful artificial intelligence. With a mirror-eyed girl street-samurai riding shotgun, he's ready for the silicon-quick, bleakly prophetic adventure that upped the ante on an entire genre of fiction.<br /><br /><i>Alternate cover for ISBN: 9780441569595</i>",
+                "authors": {
+                    "author": {
+                        "id": 9226,
+                        "name": "William Gibson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1373826214p5/9226.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1373826214p2/9226.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9226.William_Gibson",
+                        "average_rating": 3.89,
+                        "ratings_count": 578196,
+                        "text_reviews_count": 24346
+                    }
+                },
+                "published": 1984,
+                "work": {
+                    "id": 909457,
+                    "uri": "kca://work/amzn1.gr.work.v1.YY2B0fUHK6hN75TvfJoOcw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847054664,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 10336987,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:14:11 -0700 2008",
+            "date_updated": "Thu Dec 04 08:42:25 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24670694",
+            "link": "https://www.goodreads.com/review/show/24670694",
+            "owned": 0
+        }
+    }
+}

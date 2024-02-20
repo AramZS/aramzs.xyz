@@ -1,0 +1,117 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2934511667,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 32758901
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9780765397522,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5283
+                },
+                "uri": "kca://book/amzn1.gr.book.v1._wBOegAytcJ1t9Dl75w6FA",
+                "title": "All Systems Red (The Murderbot Diaries, #1)",
+                "title_without_series": "All Systems Red",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484171189l/32758901._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484171189l/32758901._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/32758901-all-systems-red",
+                "num_pages": 144,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Tor.com",
+                "publication_day": 2,
+                "publication_year": 2017,
+                "publication_month": 5,
+                "average_rating": 4.16,
+                "ratings_count": 55181,
+                "description": "In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety.<br /><br />But in a society where contracts are awarded to the lowest bidder, safety isn’t a primary concern.<br /><br />On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied ‘droid — a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as “Murderbot.” Scornful of humans, all it really wants is to be left alone long enough to figure out who it is.<br /><br />But when a neighboring mission goes dark, it's up to the scientists and their Murderbot to get to the truth.<br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 87305,
+                        "name": "Martha Wells",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1397566224p5/87305.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1397566224p2/87305.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/87305.Martha_Wells",
+                        "average_rating": 4.21,
+                        "ratings_count": 175090,
+                        "text_reviews_count": 20434
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 53349516,
+                    "uri": "kca://work/amzn1.gr.work.v1.ZZJUD79Df6vgUhyYQsblwA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3069684385
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Aug 12 11:36:31 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 1,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Aug 12 11:36:30 -0700 2019",
+            "date_updated": "Mon Nov 18 05:56:31 -0800 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2934511667",
+            "link": "https://www.goodreads.com/review/show/2934511667",
+            "owned": 0
+        }
+    }
+}

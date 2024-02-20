@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1991497817,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20797535
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 695
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.6eO3XmA9xWSZMJKB75lnCA",
+                "title": "A Better World (Brilliance Saga, #2)",
+                "title_without_series": "A Better World",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394856007l/20797535._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394856007l/20797535._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20797535-a-better-world",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": 17,
+                "publication_year": 2014,
+                "publication_month": 6,
+                "average_rating": 4.16,
+                "ratings_count": 16744,
+                "description": "The brilliants changed everything.<br /><br />Since 1980, 1% of the world has been born with gifts we’d only dreamed of. The ability to sense a person’s most intimate secrets, or predict the stock market, or move virtually unseen. For thirty years the world has struggled with a growing divide between the exceptional...and the rest of us.<br /><br />Now a terrorist network led by brilliants has crippled three cities. Supermarket shelves stand empty. 911 calls go unanswered. Fanatics are burning people alive.<br /><br />Nick Cooper has always fought to make the world better for his children. As both a brilliant and an advisor to the president of the United States, he’s against everything the terrorists represent. But as America slides toward a devastating civil war, Cooper is forced to play a game he dares not lose—because his opponents have their own vision of a better world.<br /><br />And to reach it, they’re willing to burn this one down.<br /><br />From Marcus Sakey, “the master of the mindful page turner” (Gillian Flynn) and “one of our best storytellers” (Michael Connelly), Book Two of the Brilliance Saga is a relentless thrill ride that will change the way you look at your world—and the people around you.",
+                "authors": {
+                    "author": {
+                        "id": 38652,
+                        "name": "Marcus Sakey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1493926532p5/38652.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1493926532p2/38652.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/38652.Marcus_Sakey",
+                        "average_rating": 3.97,
+                        "ratings_count": 80822,
+                        "text_reviews_count": 6335
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 40138964,
+                    "uri": "kca://work/amzn1.gr.work.v1.d9mRvfcYVWVtlsEspK0vyQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1837301514
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri May 12 15:27:06 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1828110806
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri May 05 04:21:49 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri May 05 00:00:00 -0700 2017",
+            "date_added": "Fri May 05 04:21:49 -0700 2017",
+            "date_updated": "Thu May 18 07:26:31 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1991497817",
+            "link": "https://www.goodreads.com/review/show/1991497817",
+            "owned": 0
+        }
+    }
+}

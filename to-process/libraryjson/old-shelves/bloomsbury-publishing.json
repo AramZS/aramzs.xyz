@@ -1,0 +1,51 @@
+{
+    "name": "Bloomsbury Publishing",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Priory of the Orange Tree",
+            "id": "40381319",
+            "author": "Samantha Shannon",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961265000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/40381319",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bloomsbury Publishing",
+            "tags": [
+                "Hardcover",
+                "Bloomsbury Publishing",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "40381319",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 493461451,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 205001
+                },
+                "isbn": 785117059,
+                "isbn13": 9780785117056,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 209
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-sBUy78GLprgSInulPv1eQ",
+                "title": "Runaways, Vol. 4: True Believers",
+                "title_without_series": "Runaways, Vol. 4: True Believers",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372511116l/205001._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372511116l/205001._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/205001.Runaways_Vol_4",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 29,
+                "publication_year": 2006,
+                "publication_month": 11,
+                "average_rating": 4.05,
+                "ratings_count": 5274,
+                "description": "When a group of teenagers discovers that their parents are actually super-villains, they run away from home... but that's only step one Now that the evil Pride is gone, nearly every bad guy in the Marvel Universe is trying to fill the power vacuum in Los Angeles, and the Runaways are the only heroes who can stop them Plus: What does a mysterious new team of young heroes want with the Runaways, and which fan-favorite Marvel characters are part of this group? Collects Runaways vol.2 #1-6.<br /><br /><i>Runaways vol. 2 #1-6<i></i></i>",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 2054625,
+                    "uri": "kca://work/amzn1.gr.work.v1.3ljPOFJuqvg7ieekoL1fUw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051895362
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:47:00 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813206496,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Jan 02 22:00:45 -0800 2013",
+            "date_updated": "Mon Oct 23 16:47:00 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/493461451",
+            "link": "https://www.goodreads.com/review/show/493461451",
+            "owned": 0
+        }
+    }
+}

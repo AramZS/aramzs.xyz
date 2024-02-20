@@ -1,0 +1,59 @@
+{
+    "name": "Harper Paperbacks",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made",
+            "id": "34376766",
+            "author": "Jason Schreier",
+            "date_finished": 1520121600000,
+            "notes": [],
+            "date_started": 1520189334000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made: Rating - 4/5",
+                    "date": 1520121600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34376766",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper Paperbacks",
+            "tags": [
+                "Kindle Edition",
+                "Harper Paperbacks",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34376766",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

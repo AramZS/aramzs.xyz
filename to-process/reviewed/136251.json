@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671380,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 136251
+                },
+                "isbn": 545010225,
+                "isbn13": 9780545010221,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 52350
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.J45EZhldLHRv1GBWdMc7Uw",
+                "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+                "title_without_series": "Harry Potter and the Deathly Hallows",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474171184l/136251._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474171184l/136251._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows",
+                "num_pages": 759,
+                "format": "Hardcover",
+                "edition_information": "First American Edition",
+                "publisher": "Arthur A. Levine Books / Scholastic Inc.",
+                "publication_day": 21,
+                "publication_year": 2007,
+                "publication_month": 7,
+                "average_rating": 4.62,
+                "ratings_count": 2688448,
+                "description": "Harry Potter is leaving Privet Drive for the last time. But as he climbs into the sidecar of Hagrid’s motorbike and they take to the skies, he knows Lord Voldemort and the Death Eaters will not be far behind.<br /><br />The protective charm that has kept him safe until now is broken. But the Dark Lord is breathing fear into everything he loves. And he knows he can’t keep hiding.<br /><br />To stop Voldemort, Harry knows he must find the remaining Horcruxes and destroy them.<br /><br />He will have to face his enemy in one final battle.<br />--jkrowling.com",
+                "authors": {
+                    "author": {
+                        "id": 1077326,
+                        "name": "J.K. Rowling",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1077326.J_K_Rowling",
+                        "average_rating": 4.46,
+                        "ratings_count": 24473058,
+                        "text_reviews_count": 561883
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 2963218,
+                    "uri": "kca://work/amzn1.gr.work.v1.Adr1zpcHTPWrbOovOdZhlA"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:21:05 -0700 2008",
+            "date_updated": "Mon Jun 16 19:21:05 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671380",
+            "link": "https://www.goodreads.com/review/show/24671380",
+            "owned": 0
+        }
+    }
+}

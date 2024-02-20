@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2800693611,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 42086795
+                },
+                "isbn": 1787331679,
+                "isbn13": 9781787331679,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1420
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.OT5geODoaWFtImhtIiPYXw",
+                "title": "Machines Like Me",
+                "title_without_series": "Machines Like Me",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552757135l/42086795._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552757135l/42086795._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/42086795-machines-like-me",
+                "num_pages": 306,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Jonathan Cape",
+                "publication_day": 18,
+                "publication_year": 2019,
+                "publication_month": 4,
+                "average_rating": 3.61,
+                "ratings_count": 15038,
+                "description": "<b>Britain has lost the Falklands war, Margaret Thatcher battles Tony Benn for power and Alan Turing achieves a breakthrough in artificial intelligence. In a world not quite like this one, two lovers will be tested beyond their understanding.</b><br /><br /><i>Machines Like Me</i> occurs in an alternative 1980s London. Charlie, drifting through life and dodging full-time employment, is in love with Miranda, a bright student who lives with a terrible secret. When Charlie comes into money, he buys Adam, one of the first batch of synthetic humans. With Miranda’s assistance, he co-designs Adam’s personality. This near-perfect human is beautiful, strong and clever – a love triangle soon forms. These three beings will confront a profound moral dilemma. Ian McEwan’s subversive and entertaining new novel poses fundamental questions: what makes us human? Our outward deeds or our inner lives? Could a machine understand the human heart? This provocative and thrilling tale warns of the power to invent things beyond our control.",
+                "authors": {
+                    "author": {
+                        "id": 2408,
+                        "name": "Ian McEwan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1404240951p5/2408.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1404240951p2/2408.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2408.Ian_McEwan",
+                        "average_rating": 3.73,
+                        "ratings_count": 934298,
+                        "text_reviews_count": 63355
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 65638827,
+                    "uri": "kca://work/amzn1.gr.work.v1.kSZBM9HMBE2rmzBEmSrd0g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2892299524
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Apr 27 06:58:53 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2446724628,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Apr 27 06:58:53 -0700 2019",
+            "date_updated": "Sat Apr 27 06:58:53 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2800693611",
+            "link": "https://www.goodreads.com/review/show/2800693611",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671114,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6192
+                },
+                "isbn": 143036378,
+                "isbn13": 9780143036371,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4008
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.48upljq84uRZa8eG17E9xQ",
+                "title": "Disgrace",
+                "title_without_series": "Disgrace",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385161943l/6192._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385161943l/6192._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6192.Disgrace",
+                "num_pages": 220,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Penguin Books",
+                "publication_day": 30,
+                "publication_year": 2005,
+                "publication_month": 8,
+                "average_rating": 3.84,
+                "ratings_count": 81223,
+                "description": "Set in post-apartheid South Africa, J. M. Coetzee’s searing novel tells the story of David Lurie, a twice divorced, 52-year-old professor of communications and Romantic Poetry at Cape Technical University. Lurie believes he has created a comfortable, if somewhat passionless, life for himself. He lives within his financial and emotional means. Though his position at the university has been reduced, he teaches his classes dutifully; and while age has diminished his attractiveness, weekly visits to a prostitute satisfy his sexual needs. He considers himself happy. However, when Lurie seduces one of his students, he sets in motion a chain of events that will shatter his complacency and leave him utterly disgraced.",
+                "authors": {
+                    "author": {
+                        "id": 4128,
+                        "name": "J.M. Coetzee",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1550676691p5/4128.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1550676691p2/4128.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4128.J_M_Coetzee",
+                        "average_rating": 3.77,
+                        "ratings_count": 217730,
+                        "text_reviews_count": 16357
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 1882981,
+                    "uri": "kca://work/amzn1.gr.work.v1.dRLtYzIVjKqbxcSaOq119g"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:18:42 -0700 2008",
+            "date_updated": "Mon Jun 16 19:18:42 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671114",
+            "link": "https://www.goodreads.com/review/show/24671114",
+            "owned": 0
+        }
+    }
+}

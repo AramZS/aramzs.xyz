@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1190815123,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17211146
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.5xdPUtus98L0uQ8Pr6yvRg",
+                "title": "Gun Machine",
+                "title_without_series": "Gun Machine",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374356333l/17211146._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374356333l/17211146._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17211146-gun-machine",
+                "num_pages": 320,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Mulholland Books",
+                "publication_day": 1,
+                "publication_year": 2013,
+                "publication_month": 1,
+                "average_rating": 3.83,
+                "ratings_count": 7664,
+                "description": "<i>Warren Ellis reimagines New York City as a puzzle with the most dangerous pieces of all: GUNS.</i><br /><br />After a shootout claims the life of his partner in a condemned tenement building on Pearl Street, Detective John Tallow unwittingly stumbles across an apartment stacked high with guns. When examined, each weapon leads to a different, previously unsolved murder. Someone has been killing people for twenty years or more and storing the weapons together for some inexplicable purpose.<br /><br />Confronted with the sudden emergence of hundreds of unsolved homicides, Tallow soon discovers that he's walked into a veritable deal with the devil. An unholy bargain that has made possible the rise of some of Manhattan's most prominent captains of industry. A hunter who performs his deadly acts as a sacrifice to the old gods of Manhattan, who may, quite simply, be the most prolific murderer in New York City's history.<br /><br />Warren Ellis's body of work has been championed by <i>Wired</i> for its \"merciless action\" and \"incorruptible bravery,\" and steadily amassed legions of diehard fans. His newest novel builds on his accomplishments like never before, announcing Ellis as one of today's most daring thriller writers. This is twenty-first century suspense writ large. This is GUN MACHINE.",
+                "authors": {
+                    "author": {
+                        "id": 12772,
+                        "name": "Warren Ellis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p5/12772.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p2/12772.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12772.Warren_Ellis",
+                        "average_rating": 4.13,
+                        "ratings_count": 411461,
+                        "text_reviews_count": 19050
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 20384877,
+                    "uri": "kca://work/amzn1.gr.work.v1.WKUAtCsPJgexMhHFts-gTA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 744189658
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Feb 04 13:22:54 -0800 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Wed Feb 04 13:22:53 -0800 2015",
+            "date_updated": "Thu Dec 31 07:42:48 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1190815123",
+            "link": "https://www.goodreads.com/review/show/1190815123",
+            "owned": 0
+        }
+    }
+}

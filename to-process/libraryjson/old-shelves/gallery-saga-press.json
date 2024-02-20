@@ -1,0 +1,51 @@
+{
+    "name": "Gallery / Saga Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "This Is How You Lose the Time War",
+            "id": "41093489",
+            "author": "Amal El-Mohtar, Max Gladstone",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1580130062000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/41093489",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gallery / Saga Press",
+            "tags": [
+                "Hardcover",
+                "Gallery / Saga Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1534431004",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781534431003",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "41093489",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

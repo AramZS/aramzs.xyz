@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 724622859,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34534
+                },
+                "isbn": "006001234X",
+                "isbn13": 9780060012342,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 997
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.uYzX71n1PJ7Bpeij-Dx3EQ",
+                "title": "The Amazing Maurice and His Educated Rodents (Discworld, #28)",
+                "title_without_series": "The Amazing Maurice and His Educated Rodents",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34534.The_Amazing_Maurice_and_His_Educated_Rodents",
+                "num_pages": 256,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "HarperCollins",
+                "publication_day": 6,
+                "publication_year": 2001,
+                "publication_month": 11,
+                "average_rating": 4.05,
+                "ratings_count": 36820,
+                "description": "<b>The Barnes &amp; Noble Review</b><br />With the debut of his first young-adult novel, science fiction writer Terry Pratchett invites readers ages 12 and up to visit Discworld -- an imaginary land well known to Pratchett's adult following. At the heart of this tale is a slightly twisted take on the old Pied Piper theme, a talking, thinking cat named Maurice, and a supporting cast of equally talented rats who bear such comical names as Big Savings, Nourishing, and Dangerous Beans. <br /><p><br />Maurice and the rats have teamed up with a young lad named Keith to implement a clever moneymaking scheme. Upon entering a town, the rats make a general nuisance of themselves -- stealing food and widdling on things -- until the townsfolk become desperate to get rid of them. Then Maurice and Keith appear on the scene and offer to save the day by ridding the town of its infestation for a small fee. It seems like a surefire plan until the group arrives in the town of Bad Blintz and gets hooked up with Malicia, a young girl with a vivid imagination and a knack for finding trouble. When it's discovered that Bad Blintz already has a rat problem -- one that a couple of shifty-eyed rat catchers claim to have under control -- things turn deadly. For lurking beneath the town's streets is an obstacle course of mangling rattraps and noxious poisons. And beyond that is a monster so powerful and ugly, even Malicia couldn't imagine it. <br /></p><p><br />As Maurice and the rats battle for their very survival, a number of provocative themes surface: life after death, good versus evil, and the sacrifice of the few for the many. But be forewarned -- those in search of lighter fare in these troubled times may not find what they are looking for in Pratchett's vision Despite plenty of razor-sharp wit and lighthearted moments, this tale has an underbelly as dark as the tunnels beneath Bad Blintz. Though <i>The Amazing Maurice and His Educated Rodents</i> is deeply witty and engaging, some readers may find parts of the story -- descriptions of how some of the rats die and how others eat their dead -- rather intense. <i>(Beth Amos)</i></p>",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 1179689,
+                    "uri": "kca://work/amzn1.gr.work.v1.26ZUSiyoRwFLsDe9LMwwUQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 159409394
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Sep 20 23:23:06 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Sep 01 00:00:00 -0700 2013",
+            "date_added": "Fri Sep 20 23:23:06 -0700 2013",
+            "date_updated": "Wed Jan 22 13:22:04 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/724622859",
+            "link": "https://www.goodreads.com/review/show/724622859",
+            "owned": 0
+        }
+    }
+}

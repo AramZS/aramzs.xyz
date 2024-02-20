@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528939932,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 518848
+                },
+                "isbn": 64471837,
+                "isbn13": 9780064471831,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5748
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UeGUF52dft-6RUhY5BkwYw",
+                "title": "Sabriel (Abhorsen,  #1)",
+                "title_without_series": "Sabriel",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293655399l/518848._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293655399l/518848._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/518848.Sabriel",
+                "num_pages": 491,
+                "format": "Mass Market Paperback",
+                "edition_information": "First American Edition",
+                "publisher": "Harper Collins",
+                "publication_day": 30,
+                "publication_year": 1996,
+                "publication_month": 9,
+                "average_rating": 4.17,
+                "ratings_count": 175422,
+                "description": "Sent to a boarding school in Ancelstierre as a young child, Sabriel has had little experience with the random power of Free Magic or the Dead who refuse to stay dead in the Old Kingdom. But during her final semester, her father, the Abhorsen, goes missing, and Sabriel knows she must enter the Old Kingdom to find him. <br /><br />With Sabriel, the first installment in the Abhorsen series, Garth Nix exploded onto the fantasy scene as a rising star, in a novel that takes readers to a world where the line between the living and the dead isn't always clear—and sometimes disappears altogether.",
+                "authors": {
+                    "author": {
+                        "id": 8347,
+                        "name": "Garth Nix",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p5/8347.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p2/8347.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8347.Garth_Nix",
+                        "average_rating": 4.05,
+                        "ratings_count": 769164,
+                        "text_reviews_count": 38472
+                    }
+                },
+                "published": 1996,
+                "work": {
+                    "id": 3312237,
+                    "uri": "kca://work/amzn1.gr.work.v1.ks5EWpGiZM6lKHqfoo_WtA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 114342000
+                    },
+                    "old_status": "read",
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Aug 07 11:17:49 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 486064524,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 07:56:29 -0800 2013",
+            "date_updated": "Wed Aug 07 11:17:49 -0700 2013",
+            "read_count": 1,
+            "body": "Years ago I stumbled across Sabriel on a library bookshelf. Little did I know that it would set the standard for readable, engrossing, and superb fantasy.<br /><br />Nix does world-building in a way that reads effortlessly and opens up a million windows into a unique and fascinating universe. When I discovered it was part of a trilogy I was thrilled.<br /><br />This is the first book in the series, focused on a world split in half, on one side of the wall is a relatively normal early-modern nation, on the other side a kingdom of magic. In this novel we follow the titular character as she walks from one world to another. The plot runs at just the right speed, building into a fantastic story written flawlessly.<br /><br />Most novels exploring a unique world fall into the trap of spending too much time trying to explain how it all works. Nix doesn't make that mistake, instead he imbues the work with a wonderful narrative flow, the likes of which I've rarely seen in any genre. The same is true in his characters, who build and grow naturally in the work, resulting in some of the more memorable literary personalities I've encountered. The result is an almost addictive read.<br /><br />There are few books I can recommend more highly than Sabriel. You should read it. Right now.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528939932",
+            "link": "https://www.goodreads.com/review/show/528939932",
+            "owned": 1
+        }
+    }
+}

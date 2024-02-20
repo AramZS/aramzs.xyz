@@ -1,0 +1,118 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3162750098,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 39977753
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9780990859659,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 107
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.rRSTgEhEqjBlmgIN0KXJrg",
+                "title": "Son of a Liche (The Dark Profit Saga, #2)",
+                "title_without_series": "Son of a Liche",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526778117l/39977753._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526778117l/39977753._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/39977753-son-of-a-liche",
+                "num_pages": 618,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "J. Zachary Pike",
+                "publication_day": 22,
+                "publication_year": 2018,
+                "publication_month": 5,
+                "average_rating": 4.49,
+                "ratings_count": 1427,
+                "description": "A doubly disgraced Dwarven hero. A band of accident-prone adventurers. Giving redemption a second shot may have been a grave mistake…<br /><br />Still bruised and heartbroken from their last calamitous quest, Gorm Ingerson and his band of washed-up heroes try to make amends for the Orcs they accidentally betrayed. But justice is put on hold when an old foe marches to the city gates. Gorm is horrified to discover a liche pitching the frightened city-dwellers on the merits of the undead lifestyle… at the head of a corpse army.<br /><br />To save the city from high-pressure sales tactics and an inevitable siege, the Dwarf warrior and his misfit band hatch a harebrained scheme that lands them at the top of the king’s kill list. With death and dark magic on his heels, Gorm must craft his own pitch to round up the troops and put the undead snake-oil salesman and his army of pushers permanently out of business.",
+                "authors": {
+                    "author": {
+                        "id": 4459639,
+                        "name": "J. Zachary Pike",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1411299541p5/4459639.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1411299541p2/4459639.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4459639.J_Zachary_Pike",
+                        "average_rating": 4.36,
+                        "ratings_count": 5017,
+                        "text_reviews_count": 688
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 54144079,
+                    "uri": "kca://work/amzn1.gr.work.v1.tzw5bXn--J8pMEk82oi66A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3370337112
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Jan 27 03:18:23 -0800 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2805432222,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 27 03:18:23 -0800 2020",
+            "date_updated": "Mon Jan 27 03:18:23 -0800 2020",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3162750098",
+            "link": "https://www.goodreads.com/review/show/3162750098",
+            "owned": 0
+        }
+    }
+}

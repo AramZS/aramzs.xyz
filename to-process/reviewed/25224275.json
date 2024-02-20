@@ -1,0 +1,118 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1304686054,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25224275
+                },
+                "isbn": 465055710,
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 28
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.lTXaGS3SVRR-kcjkP0o2Ag",
+                "title": "The Design of Everyday Things",
+                "title_without_series": "The Design of Everyday Things",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25224275-the-design-of-everyday-things",
+                "num_pages": 368,
+                "format": "Paperback",
+                "edition_information": "Revised and Expanded Edition",
+                "publisher": "Basic Books",
+                "publication_day": 5,
+                "publication_year": 2013,
+                "publication_month": 11,
+                "average_rating": 4.17,
+                "ratings_count": 26162,
+                "description": "About the Book: The Design of Everyday Things A Fully Updated And Expanded Edition Of Don Normans Classic Work Pioneering The Application Of Cognitive Science To Design Even the smartest among us can feel inept as we fail to figure out which light switch or oven burner to turn on, or whether to push, pull, or slide a door. The fault, argues this ingenious seven liberating book, lies not in ourselves, but in product design that ignores the needs of users and the principles of cognitive psychology. The problems range from ambiguous and hidden controls to arbitrary relationships between controls and functions, coupled with a lack of feedback or other assistance and unreasonable demands on memorization. The Design of Everyday Things shows that good, usable design is possible. The rules are simple: make things visible, exploit natural relationships that couple function and control, and make intelligent use of constraints. The goal: guide the user effortlessly to the right action on the right control at the right time. In this entertaining and insightful analysis, cognitive scientist Don Norman hails excellence of design as the most important key to regaining the competitive edge in influencing consumer behavior. Now fully expanded and updated, with a new introduction by the author, The Design of Everyday Things is a powerful primer on howand why-some products satisfy customers while others only frustrate them. Reviews: \"This book changed the field of design. As the pace of technological change accelerates, the principles in this book are increasingly important. The new examples and ideas about design and product development make it essential reading.\" - Patrick Whitney, Dean, Institute Of Design, And Steelcase/Robert C. Pew Professor Of Design, Illinois Institute Of Technology",
+                "authors": {
+                    "author": {
+                        "id": 552,
+                        "name": "Donald A. Norman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1227363427p5/552.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1227363427p2/552.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/552.Donald_A_Norman",
+                        "average_rating": 4.11,
+                        "ratings_count": 32350,
+                        "text_reviews_count": 2311
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 18518,
+                    "uri": "kca://work/amzn1.gr.work.v1.JFnTUVpsI-eaXBBqUrY_Pw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 892592356
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 10 18:15:11 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1006629718,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Jun 10 18:15:10 -0700 2015",
+            "date_updated": "Thu Sep 10 07:16:45 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1304686054",
+            "link": "https://www.goodreads.com/review/show/1304686054",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789546271,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3396933
+                },
+                "isbn": 123694965,
+                "isbn13": 9780123694966,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 142
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.EtfR8f9nTBkjdIUVLyC8Zw",
+                "title": "The Art of Game Design: A Book of Lenses",
+                "title_without_series": "The Art of Game Design: A Book of Lenses",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436736875l/3396933._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436736875l/3396933._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3396933-the-art-of-game-design",
+                "num_pages": 489,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "CRC Press",
+                "publication_day": 4,
+                "publication_year": 2008,
+                "publication_month": 8,
+                "average_rating": 4.39,
+                "ratings_count": 2365,
+                "description": "Anyone can master the fundamentals of game design—no technological expertise is necessary. <i>The Art of Game Design: A Book of Lenses</i> shows that the same basic principles of psychology that work for board games, card games and athletic games also are the keys to making top-quality video games. Good game design happens when you view your game from many different perspectives, or lenses. While touring through the unusual territory that is game design, this book gives the reader one hundred of these lenses—one hundred sets of insightful questions to ask yourself that will help make your game better. These lenses are gathered from fields as diverse as psychology, architecture, music, visual design, film, software engineering, theme park design, mathematics, writing, puzzle design, and anthropology. Anyone who reads this book will be inspired to become a better game designer—and will understand how to do it.",
+                "authors": {
+                    "author": {
+                        "id": 1431219,
+                        "name": "Jesse Schell",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1431219.Jesse_Schell",
+                        "average_rating": 4.39,
+                        "ratings_count": 2402,
+                        "text_reviews_count": 159
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 3436929,
+                    "uri": "kca://work/amzn1.gr.work.v1.Uzwm4R2_DOzdDlH6M-6SEQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 240626166
+                        },
+                        "old_status": "read",
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Dec 13 12:28:48 -0800 2013"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 240626143
+                        },
+                        "old_status": {},
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Dec 13 12:28:46 -0800 2013"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 571768780,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": true,
+                        "id": 2635324,
+                        "name": "to-read",
+                        "review_shelf_id": 571768795,
+                        "sortable": true
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 12:28:46 -0800 2013",
+            "date_updated": "Fri Dec 13 12:28:48 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789546271",
+            "link": "https://www.goodreads.com/review/show/789546271",
+            "owned": 0
+        }
+    }
+}

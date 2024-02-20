@@ -1,0 +1,51 @@
+{
+    "name": "Henry Holt & Company",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Me",
+            "id": "44303730",
+            "author": "Elton John",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961490000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/44303730",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Henry Holt & Company",
+            "tags": [
+                "Hardcover",
+                "Henry Holt & Company",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1250147603",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781250147608",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "44303730",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

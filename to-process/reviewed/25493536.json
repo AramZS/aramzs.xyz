@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749129586,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25493536
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 31
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.7SzMP-17qgxZEUAfCz8tOg",
+                "title": "How Music Got Free: The End of an Industry, the Turn of the Century, and the Patient Zero of Piracy",
+                "title_without_series": "How Music Got Free: The End of an Industry, the Turn of the Century, and the Patient Zero of Piracy",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25493536-how-music-got-free",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.22,
+                "ratings_count": 4808,
+                "description": "<b>Meet Dell Glover – the accidental pirate</b><br /><b>Meet ‘Kali’ – the mastermind</b><br /><b>And meet Karlheinz – the man who made it all possible</b><br /><br /><i>How Music Got Free</i> is a blistering story of obsession, music and obscene money. A story of visionaries, criminals and tycoons. It’s about the greatest pirate in history, the most powerful exec in the music business, and an illegal website six times the size of iTunes.<br /><br />It begins with a small-time thief at a CD-pressing plant, and a groundbreaking invention on the other side of the globe. Then pans from the multi-million-dollar deals of the music industry to the darkest corners of the web; from German audio laboratories to a tiny Polynesian radio station.<br /><br />This is also the story of the music industry – the rise of rap, the death of the album, and how much can rest on the flip of a coin. How the fate of artists like Kanye West, Jay-Z and 50 Cent were being controlled by a guy no one had ever heard of. How suddenly all the tracks ever recorded could be accessed by anyone, for free. And the industry imploded.",
+                "authors": {
+                    "author": {
+                        "id": 1352780,
+                        "name": "Stephen Witt",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1352780.Stephen_Witt",
+                        "average_rating": 4.33,
+                        "ratings_count": 751,
+                        "text_reviews_count": 70
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 42955279,
+                    "uri": "kca://work/amzn1.gr.work.v1.MIpqMiKm4LIJVYSwvOSkOg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498302884
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:42:43 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414466107,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:42:42 -0700 2016",
+            "date_updated": "Mon Sep 05 07:42:43 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749129586",
+            "link": "https://www.goodreads.com/review/show/1749129586",
+            "owned": 0
+        }
+    }
+}

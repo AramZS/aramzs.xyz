@@ -1,0 +1,51 @@
+{
+    "name": "Ecco",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Sisters Brothers",
+            "id": "9850443",
+            "author": "Patrick deWitt",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1545061869000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/9850443",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ecco",
+            "tags": [
+                "Hardcover",
+                "Ecco",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0062041266",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780062041265",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "9850443",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

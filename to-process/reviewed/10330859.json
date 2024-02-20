@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960346566,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 10330859
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 12
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.kZGC0zWImzIHNetREuzR9w",
+                "title": "The Score (Parker, #5)",
+                "title_without_series": "The Score",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/10330859-the-score",
+                "num_pages": 226,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.07,
+                "ratings_count": 2610,
+                "description": "<p>It was an impossible crime: knock off an entire North Dakota town called Copper Canyon—clean out the plant payroll, both banks, and all the stores in one night. Parker called it \"science fiction,\" but with the right men (a score of them), he could figure it out to the last detail. It could work. If the men behaved like pros, cool and smart; if they didn't get impatient, start chasing skirts, or decide to take the opportunity to settle secret old scores, they just might pull it off.</p><p></p>",
+                "authors": {
+                    "author": {
+                        "id": 13634,
+                        "name": "Richard Stark",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1287877064p5/13634.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1287877064p2/13634.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13634.Richard_Stark",
+                        "average_rating": 4.07,
+                        "ratings_count": 61357,
+                        "text_reviews_count": 5165
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 3845,
+                    "uri": "kca://work/amzn1.gr.work.v1.RbONLo14E8iS_gvXxiwSvg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452287988
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:14:55 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710713932,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:14:55 -0700 2014",
+            "date_updated": "Sat Jun 07 06:14:55 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960346566",
+            "link": "https://www.goodreads.com/review/show/960346566",
+            "owned": 0
+        }
+    }
+}

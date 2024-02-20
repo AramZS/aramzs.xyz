@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24792184,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1991184
+                },
+                "isbn": 307394409,
+                "isbn13": 9780307394408,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 100
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.GRQSaXIJTf0xPSD7aFn3Rw",
+                "title": "Superpowers",
+                "title_without_series": "Superpowers",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1991184.Superpowers",
+                "num_pages": 384,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Broadway Books",
+                "publication_day": 10,
+                "publication_year": 2008,
+                "publication_month": 6,
+                "average_rating": 3.25,
+                "ratings_count": 781,
+                "description": "Madison, Wisconsin: In the summer of 2001, five college juniors wake up with . . . not just a hangover, but superpowers. . . .<br /><br />Jack Robinson: Grew up on a farm, works in a chem lab, and brews his own beer. Age: 19. Superpower: SPEED.<br /><br />Caroline Bloom: Has a flair for fashion design and a mother who’s completely out of touch. Works as a waitress for a lunatic boss. <br />Age: 20. Superpower: FLIGHT.<br /><br />Harriet Bishop: Studied violin, guitar, and piano . . . and was terrible at them all. Now writes about music for the campus paper. <br />Age: 20. Superpower: ­INVISIBILITY.<br /><br />Mary Beth Layton: Is managing a 3.8, but feels like she’s working three times as hard as the people around her. <br />Age: 20. Superpower: STRENGTH.<br /><br />Charlie Frost: Has an anxious way about him, and always looks like he’s on day 101 of his most recent haircut. <br />Age: 20. Superpower: TELEPATHY.<br /><br /><br />But how do you adjust to an extraordinary ability when you’re an ordinary person? What if you’re not ready for the responsibility that comes with great power? And how do you keep your head in a world that’s going mad?<br /><br /><br /><i>From the Trade Paperback edition.</i>",
+                "authors": {
+                    "author": {
+                        "id": 1346588,
+                        "name": "David J.  Schwartz",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1209225244p5/1346588.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1209225244p2/1346588.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1346588.David_J_Schwartz",
+                        "average_rating": 3.49,
+                        "ratings_count": 2985,
+                        "text_reviews_count": 449
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 1994861,
+                    "uri": "kca://work/amzn1.gr.work.v1.tgbc03wAsPpVVQX67s-g5Q"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Jun 18 00:00:00 -0700 2008",
+            "date_added": "Wed Jun 18 07:17:21 -0700 2008",
+            "date_updated": "Fri Jun 20 07:58:35 -0700 2008",
+            "read_count": 1,
+            "body": "This book starts well and from the moment the World Trade Center is mentioned the general flow is pretty well established. There are few surprises here, and the question of what the book's heroes would do on 9/11 pulls through some mediocre prose and overdone foreshadowing.<br /><br />However, at about 3/4ths through the book, something happens. The characters gain depth. As soon as you hit that, the book becomes almost impossible to put down. You now care about the once relatively shallow superheroes. The fact that you know what is to come doesn't change the fact that you now really want to know what is going to happen to them. Unfortunately, though the ending ties everything up, it feels somewhat lackluster. <br /><br />The book is decent overall, however, it feels as if the characters' depth is almost an accident. However, if you like stories about Superheroes you should pick this book up.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24792184",
+            "link": "https://www.goodreads.com/review/show/24792184",
+            "owned": 0
+        }
+    }
+}

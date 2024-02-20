@@ -1,0 +1,149 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1972232780,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34501338
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 158
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.QRym84-D3WsCpYdUlnVilg",
+                "title": "Brilliance (Brilliance Saga, #1)",
+                "title_without_series": "Brilliance",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488881272l/34501338._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488881272l/34501338._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34501338-brilliance",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.96,
+                "ratings_count": 29261,
+                "description": "In Wyoming, a little girl reads people’s darkest secrets by the way they fold their arms. In New York, a man sensing patterns in the stock market racks up $300 billion. In Chicago, a woman can go invisible by being where no one is looking. They’re called \"brilliants,\" and since 1980, one percent of people have been born this way. Nick Cooper is among them; a federal agent, Cooper has gifts rendering him exceptional at hunting terrorists. His latest target may be the most dangerous man alive, a brilliant drenched in blood and intent on provoking civil war. But to catch him, Cooper will have to violate everything he believes in - and betray his own kind.<br /><br />From Marcus Sakey, \"a modern master of suspense\" (Chicago Sun-Times) and \"one of our best storytellers\" (Michael Connelly), comes an adventure that’s at once breakneck thriller and shrewd social commentary; a gripping tale of a world fundamentally different and yet horrifyingly similar to our own, where being born gifted can be a terrible curse.",
+                "authors": {
+                    "author": {
+                        "id": 38652,
+                        "name": "Marcus Sakey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1493926532p5/38652.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1493926532p2/38652.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/38652.Marcus_Sakey",
+                        "average_rating": 3.97,
+                        "ratings_count": 80822,
+                        "text_reviews_count": 6335
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 23599367,
+                    "uri": "kca://work/amzn1.gr.work.v1.VyRM13pBFCim1T5KSlDYkQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1828108264
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri May 05 04:17:56 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151416
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:29 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151412
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:29 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon May 01 00:00:00 -0700 2017",
+            "date_added": "Sat Apr 15 07:14:28 -0700 2017",
+            "date_updated": "Thu May 18 07:27:33 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1972232780",
+            "link": "https://www.goodreads.com/review/show/1972232780",
+            "owned": 0
+        }
+    }
+}

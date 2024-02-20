@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1478224910,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18170139
+                },
+                "isbn": 316221147,
+                "isbn13": 9780316221146,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 178
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.BjLpQjEfFEW05J00NcdiLg",
+                "title": "The Ghost Train to New Orleans (The Shambling Guides, #2)",
+                "title_without_series": "The Ghost Train to New Orleans",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480106887l/18170139._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480106887l/18170139._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18170139-the-ghost-train-to-new-orleans",
+                "num_pages": 352,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 4,
+                "publication_year": 2014,
+                "publication_month": 3,
+                "average_rating": 3.84,
+                "ratings_count": 1669,
+                "description": "<b>Could you find a museum for a monster?<br />Or a jazz bar for a jabberwock?</b><br /><br />Zoe Norris writes travel guides for the undead. And she's good at it too—her new-found ability to talk to cities seems to help. After the success of <i>The Sbambling Guide to New York City</i>, Zoe and her team are sent to New Orleans to write the sequel.<br /><br />Work isn't all that brings Zoe to the Big Easy. The only person who can save her boyfriend from zombism is rumored to live in the city's swamps, but Zoe's out of her element in the wilderness. With her supernatural colleagues waiting to see her fail, and rumors of a new threat hunting city talkers, can Zoe stay alive long enough to finish her next book?",
+                "authors": {
+                    "author": {
+                        "id": 97284,
+                        "name": "Mur Lafferty",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1546175858p5/97284.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1546175858p2/97284.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/97284.Mur_Lafferty",
+                        "average_rating": 3.86,
+                        "ratings_count": 37628,
+                        "text_reviews_count": 5516
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 24566430,
+                    "uri": "kca://work/amzn1.gr.work.v1._XSOBhWKpyezZYPkq46zGQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1124104351
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 24 16:18:23 -0800 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Thu Dec 24 16:18:22 -0800 2015",
+            "date_updated": "Thu Dec 31 07:38:56 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1478224910",
+            "link": "https://www.goodreads.com/review/show/1478224910",
+            "owned": 0
+        }
+    }
+}

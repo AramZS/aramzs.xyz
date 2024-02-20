@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528974873,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 168642
+                },
+                "isbn": 679745580,
+                "isbn13": 9780679745587,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 12583
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.5HfFepBSUtAnAcrQMWYL5A",
+                "title": "In Cold Blood",
+                "title_without_series": "In Cold Blood",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424931136l/168642._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424931136l/168642._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/168642.In_Cold_Blood",
+                "num_pages": 343,
+                "format": "Paperback",
+                "edition_information": "First Vintage International edition",
+                "publisher": "Vintage",
+                "publication_day": {},
+                "publication_year": 1994,
+                "publication_month": {},
+                "average_rating": 4.07,
+                "ratings_count": 503107,
+                "description": "On November 15, 1959, in the small town of Holcomb, Kansas, four members of the Clutter family were savagely murdered by blasts from a shotgun held a few inches from their faces. There was no apparent motive for the crime, and there were almost no clues. <br /><br />As Truman Capote reconstructs the murder and the investigation that led to the capture, trial, and execution of the killers, he generates both mesmerizing suspense and astonishing empathy. At the center of his study are the amoral young killers Perry Smith and Dick Hickcock, who, vividly drawn by Capote, are shown to be reprehensible yet entirely and frighteningly human. <i>In Cold Blood</i> is a seminal work of modern prose, a remarkable synthesis of journalistic skill and powerfully evocative narrative.",
+                "authors": {
+                    "author": {
+                        "id": 431149,
+                        "name": "Truman Capote",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1419249359p5/431149.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1419249359p2/431149.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/431149.Truman_Capote",
+                        "average_rating": 4.01,
+                        "ratings_count": 786741,
+                        "text_reviews_count": 32474
+                    }
+                },
+                "published": 1994,
+                "work": {
+                    "id": 1940709,
+                    "uri": "kca://work/amzn1.gr.work.v1.wzlPQmb1GZrX4Y7zTNX0Ig"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 358535363,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:38:18 -0800 2013",
+            "date_updated": "Thu Feb 07 08:38:18 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528974873",
+            "link": "https://www.goodreads.com/review/show/528974873",
+            "owned": 0
+        }
+    }
+}

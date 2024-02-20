@@ -1,0 +1,128 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967663,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23263562
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZGmPSJRmdMCT8aE8p2go1Q",
+                "title": "The Unwritten Vol. 10: War Stories",
+                "title_without_series": "The Unwritten Vol. 10: War Stories",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23263562-the-unwritten-vol-10",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.7,
+                "ratings_count": 1157,
+                "description": "The tenth volume of the critically-acclaimed new series from the <u>Eisner</u>-nominated creative team, Mike Carey and Peter Gross is the perfect jumping on point, as Tom Taylor is stranded at the beginning of all creation! <br /><br />Lost in the unwritten scenes of all the world's stories, Tom Taylor is headed back to reality -- and all the gods and beasts and monsters ever imagined can't stop him. But there's a toll on the road that may be too high for him or anyone to pay...<br /><br /><b>Collecting</b>: <i>The Unwritten: Apocalypse</i> 1-5",
+                "authors": {
+                    "author": {
+                        "id": 9018,
+                        "name": "Mike Carey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334894864p5/9018.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334894864p2/9018.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9018.Mike_Carey",
+                        "average_rating": 4.03,
+                        "ratings_count": 293647,
+                        "text_reviews_count": 12863
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 40889306,
+                    "uri": "kca://work/amzn1.gr.work.v1.xV4YwPNMMPEa-ljtVQVrHg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886479236
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:29:25 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813196981,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Fri Jun 05 15:29:25 -0700 2015",
+            "date_updated": "Mon Oct 23 16:33:57 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967663",
+            "link": "https://www.goodreads.com/review/show/1299967663",
+            "owned": 0
+        }
+    }
+}

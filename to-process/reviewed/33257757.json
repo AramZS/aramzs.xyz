@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606737878,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 33257757
+                },
+                "isbn": "042528591X",
+                "isbn13": 9780425285916,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2318
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.wBROlWhB4gpCLoCyXJuSzA",
+                "title": "Iron Gold (Red Rising Saga, #4)",
+                "title_without_series": "Iron Gold",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482475064l/33257757._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482475064l/33257757._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/33257757-iron-gold",
+                "num_pages": 601,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Del Rey Books",
+                "publication_day": 16,
+                "publication_year": 2018,
+                "publication_month": 1,
+                "average_rating": 4.23,
+                "ratings_count": 40812,
+                "description": "<i>They call him father, liberator, warlord, Reaper. But he feels a boy as he falls toward the pale blue planet, his armor red, his army vast, his heart heavy. It is the tenth year of war and the thirty-second of his life.</i><br /> <br />A decade ago, Darrow was the hero of the revolution he believed would break the chains of the Society. But the Rising has shattered everything: Instead of peace and freedom, it has brought endless war. Now he must risk everything he has fought for on one last desperate mission. Darrow still believes he can save everyone, but can he save himself?<br /> <br />And throughout the worlds, other destinies entwine with Darrow’s to change his fate forever: <br /> <br />A young Red girl flees tragedy in her refugee camp and achieves for herself a new life she could never have imagined.<br /> <br />An ex-soldier broken by grief is forced to steal the most valuable thing in the galaxy—or pay with his life.<br /> <br />And Lysander au Lune, the heir in exile to the sovereign, wanders the stars with his mentor, Cassius, haunted by the loss of the world that Darrow transformed, and dreaming of what will rise from its ashes.<br /> <br /><i>Red Rising</i> was the story of the end of one universe, and <i>Iron Gold</i> is the story of the creation of a new one. Witness the beginning of a stunning new saga of tragedy and triumph from masterly <i>New York Times</i> bestselling author Pierce Brown.",
+                "authors": {
+                    "author": {
+                        "id": 6474348,
+                        "name": "Pierce Brown",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1417558860p5/6474348.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1417558860p2/6474348.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6474348.Pierce_Brown",
+                        "average_rating": 4.36,
+                        "ratings_count": 550279,
+                        "text_reviews_count": 53230
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 49451841,
+                    "uri": "kca://work/amzn1.gr.work.v1.QL0sI1zg25TYairLQvlv1g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636061828
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:23:20 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251643731,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:23:19 -0800 2018",
+            "date_updated": "Mon Nov 26 13:23:20 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606737878",
+            "link": "https://www.goodreads.com/review/show/2606737878",
+            "owned": 0
+        }
+    }
+}

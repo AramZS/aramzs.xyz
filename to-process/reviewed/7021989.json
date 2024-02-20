@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789422587,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7021989
+                },
+                "isbn": 1592910785,
+                "isbn13": 9781592910786,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 50
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.OsYoGqsoc7AQzE_KfbQNxw",
+                "title": "FreakAngels, Volume 3",
+                "title_without_series": "FreakAngels, Volume 3",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344390835l/7021989._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344390835l/7021989._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7021989-freakangels-volume-3",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Avatar Press",
+                "publication_day": 11,
+                "publication_year": 2009,
+                "publication_month": 11,
+                "average_rating": 4.18,
+                "ratings_count": 1550,
+                "description": "Twenty-three years ago, twelve strange children were born in England at exactly the same moment. Six years ago, the world ended. Today, eleven strange 23-year-olds live in and defend Whitechapel, maybe the last real settlement in flooded London. Fearing the return of an old enemy from beyond their borders, the Freakangels discover that their latest threat comes from inside their ranks, as one of their own breaks the most sacred rule -- never to violate the mind of a person under their protection. Gunplay and a telekinetic confrontation ensue, distracting the group... and leading to a face-to-face confrontation with Mark, the exiled Freakangel who seeks bloody retribution. The third chapter in award-winning author Warren Ellis' post-apocalyptic web comic series!<br /><br />Episodes #0049-0072.",
+                "authors": {
+                    "author": {
+                        "id": 12772,
+                        "name": "Warren Ellis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p5/12772.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p2/12772.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12772.Warren_Ellis",
+                        "average_rating": 4.13,
+                        "ratings_count": 411461,
+                        "text_reviews_count": 19050
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 7268626,
+                    "uri": "kca://work/amzn1.gr.work.v1.GtmOpw_UzuJwaEvNHLOwGA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240474315
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:59:12 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813199099,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Jan 01 00:00:00 -0800 2012",
+            "date_added": "Fri Dec 13 08:59:12 -0800 2013",
+            "date_updated": "Mon Oct 23 16:36:49 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789422587",
+            "link": "https://www.goodreads.com/review/show/789422587",
+            "owned": 0
+        }
+    }
+}

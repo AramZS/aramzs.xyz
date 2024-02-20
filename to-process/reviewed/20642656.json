@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749131208,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20642656
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.awo4mdqdtN9jMMUmIG_tTw",
+                "title": "Friendship",
+                "title_without_series": "Friendship",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390846329l/20642656._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390846329l/20642656._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20642656-friendship",
+                "num_pages": 272,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Farrar, Straus and Giroux (BYR)",
+                "publication_day": 1,
+                "publication_year": 2014,
+                "publication_month": 7,
+                "average_rating": 3.07,
+                "ratings_count": 5216,
+                "description": "<b>A novel about two friends learning the difference between getting older and growing up</b><br /><br />Bev Tunney and Amy Schein have been best friends for years; now, at thirty, they’re at a crossroads. Bev is a Midwestern striver still mourning a years-old romantic catastrophe. Amy is an East Coast princess whose luck and charm have too long allowed her to cruise through life. Bev is stuck in circumstances that would have barely passed for bohemian in her mid-twenties: temping, living with roommates, drowning in student-loan debt. Amy is still riding the tailwinds of her early success, but her habit of burning bridges is finally catching up to her. And now Bev is pregnant.<br /><br />As Bev and Amy are dragged, kicking and screaming, into real adulthood, they have to face the possibility that growing up might mean growing apart.",
+                "authors": {
+                    "author": {
+                        "id": 543411,
+                        "name": "Emily Gould",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1398263677p5/543411.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1398263677p2/543411.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/543411.Emily_Gould",
+                        "average_rating": 3.3,
+                        "ratings_count": 10100,
+                        "text_reviews_count": 1361
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 26174338,
+                    "uri": "kca://work/amzn1.gr.work.v1.aFLk39cejlrr4UGVk-ewOg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498304995
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:44:30 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414467656,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:44:29 -0700 2016",
+            "date_updated": "Mon Sep 05 07:44:30 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749131208",
+            "link": "https://www.goodreads.com/review/show/1749131208",
+            "owned": 0
+        }
+    }
+}

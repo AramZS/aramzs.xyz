@@ -1,0 +1,104 @@
+{
+    "name": "Doubleday UK",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Snuff (Discworld, #39; City Watch #8)",
+            "id": "8785374",
+            "author": "Terry Pratchett",
+            "date_finished": 1377993600000,
+            "notes": [],
+            "date_started": 1390425682000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Snuff (Discworld, #39; City Watch #8): Rating - 5/5",
+                    "date": 1377993600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8785374",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Doubleday UK",
+            "tags": [
+                "Hardcover",
+                "Doubleday UK",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "038561926X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780385619264",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "8785374",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Snuff (Discworld, #39; City Watch #8)",
+            "id": 8785374,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8785374",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Doubleday UK",
+            "tags": [
+                "Hardcover",
+                "Doubleday UK",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "038561926X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 8785374,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

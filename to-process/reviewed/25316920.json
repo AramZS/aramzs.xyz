@@ -1,0 +1,149 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967078,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25316920
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 28
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.wxXd0upc_l0PnGLP95Pkeg",
+                "title": "Vermilion",
+                "title_without_series": "Vermilion",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428444384l/25316920._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428444384l/25316920._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25316920-vermilion",
+                "num_pages": 386,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Word Horde",
+                "publication_day": 15,
+                "publication_year": 2015,
+                "publication_month": 4,
+                "average_rating": 3.61,
+                "ratings_count": 1814,
+                "description": "Gunslinging, chain smoking, Stetson-wearing Taoist psychopomp, Elouise \"Lou\" Merriwether might not be a normal 19-year-old, but she's too busy keeping San Francisco safe from ghosts, shades, and geung si to care much about that. It's an important job, though most folks consider it downright spooky. Some have even accused Lou of being more comfortable with the dead than the living, and, well... they're not wrong. <br /><br />When Lou hears that a bunch of Chinatown boys have gone missing somewhere deep in the Colorado Rockies she decides to saddle up and head into the wilderness to investigate. Lou fears her particular talents make her better suited to help placate their spirits than ensure they get home alive, but it's the right thing to do, and she's the only one willing to do it. <br /><br />On the road to a mysterious sanatorium known as Fountain of Youth, Lou will encounter bears, desperate men, a very undead villain, and even stranger challenges. Lou will need every one of her talents and a whole lot of luck to make it home alive... <br /><br />From British Fantasy Award nominee Molly Tanzer comes debut novel Vermilion, a spirited weird Western adventure that puts the punk back into steampunk.",
+                "authors": {
+                    "author": {
+                        "id": 3400076,
+                        "name": "Molly Tanzer",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1589683935p5/3400076.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1589683935p2/3400076.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3400076.Molly_Tanzer",
+                        "average_rating": 3.81,
+                        "ratings_count": 9229,
+                        "text_reviews_count": 1513
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 44079578,
+                    "uri": "kca://work/amzn1.gr.work.v1.Qub0Y6FEq-Bqxel5CFjLFQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1147814195
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sun Jan 03 00:34:27 -0800 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1124106300
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Dec 24 16:20:25 -0800 2015"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 886478466
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Jun 05 15:28:30 -0700 2015"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Thu Dec 24 16:20:25 -0800 2015",
+            "read_at": "Sun Jan 03 00:34:27 -0800 2016",
+            "date_added": "Fri Jun 05 15:28:30 -0700 2015",
+            "date_updated": "Thu Mar 01 00:10:48 -0800 2018",
+            "read_count": 1,
+            "body": "<strong>A fun read!</strong><br /><br />Highly recommended! A casually deep and well thought out universe host to a cast of very interesting characters. I greatly enjoyed this book.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967078",
+            "link": "https://www.goodreads.com/review/show/1299967078",
+            "owned": 0
+        }
+    }
+}

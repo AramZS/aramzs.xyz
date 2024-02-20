@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528946104,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 5805
+                },
+                "isbn": 1401207928,
+                "isbn13": 9781401207922,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4149
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Zlb5IrpWAEsSJGjZ4tmcWw",
+                "title": "V for Vendetta",
+                "title_without_series": "V for Vendetta",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343668985l/5805._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343668985l/5805._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/5805.V_for_Vendetta",
+                "num_pages": 296,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Vertigo",
+                "publication_day": 1,
+                "publication_year": 2005,
+                "publication_month": 11,
+                "average_rating": 4.25,
+                "ratings_count": 253346,
+                "description": "<b>\"Remember, remember the fifth of November...\"</b><br /><br />A frightening and powerful tale of the loss of freedom and identity in a chillingly believable totalitarian world, <i>V for Vendetta</i> stands as one of the highest achievements of the comics medium and a defining work for creators Alan Moore and David Lloyd.<br /><br />Set in an imagined future England that has given itself over to fascism, this groundbreaking story captures both the suffocating nature of life in an authoritarian police state and the redemptive power of the human spirit which rebels against it. Crafted with sterling clarity and intelligence, <i>V for Vendetta</i> brings an unequaled depth of characterization and verisimilitude to its unflinching account of oppression and resistance.",
+                "authors": {
+                    "author": {
+                        "id": 3961,
+                        "name": "Alan Moore",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1304944713p5/3961.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1304944713p2/3961.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3961.Alan_Moore",
+                        "average_rating": 4.23,
+                        "ratings_count": 1375951,
+                        "text_reviews_count": 42689
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 392838,
+                    "uri": "kca://work/amzn1.gr.work.v1.sr3kgDhe2lsyo9ukqbmHNA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051893053
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:44:46 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813204734,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:03:49 -0800 2013",
+            "date_updated": "Mon Oct 23 16:44:46 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528946104",
+            "link": "https://www.goodreads.com/review/show/528946104",
+            "owned": 0
+        }
+    }
+}

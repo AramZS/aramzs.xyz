@@ -1,0 +1,104 @@
+{
+    "name": "Little, Brown & Company",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Echo Park (Harry Bosch, #12; Harry Bosch Universe, #16)",
+            "id": "32501",
+            "author": "Michael Connelly",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213669178000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Echo Park (Harry Bosch, #12; Harry Bosch Universe, #16): Rating - 4/5",
+                    "date": 1213669178000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/32501",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Little, Brown & Company",
+            "tags": [
+                "Hardcover",
+                "Little, Brown & Company",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0316734950",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780316734950",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "32501",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Echo Park (Harry Bosch, #12; Harry Bosch Universe, #16)",
+            "id": 32501,
+            "author": "Michael Connelly",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/32501",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Little, Brown & Company",
+            "tags": [
+                "Hardcover",
+                "Little, Brown & Company",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 32501,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

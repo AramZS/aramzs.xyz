@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520857914,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1227722
+                },
+                "isbn": 446581208,
+                "isbn13": 9780446581202,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 60
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Z1eVEZmfUH5Ut4NFbv05tg",
+                "title": "Shooting War",
+                "title_without_series": "Shooting War",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1227722.Shooting_War",
+                "num_pages": 192,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Grand Central Publishing",
+                "publication_day": 15,
+                "publication_year": 2008,
+                "publication_month": 1,
+                "average_rating": 3.25,
+                "ratings_count": 341,
+                "description": "The global war on terror is raging out of control. The president is popping Prozac. And the #1 selling videogame in 2011 is the terrorist-simulator <i>Infidel Massacre: Los Angeles</i>. On the streets of gentrified Brooklyn, videoblogger Jimmy Burns' latest anti-corporate rant is cut short by a terrorist bombing of a Starbucks...but his live feed isn't. When his dramatic footage is uploaded by Global News (\"Your home for 24-hour terror coverage\") and rebroadcast across the planet, the obscure blogger is transformed into an overnight media sensation. The next thing he knows he's on a Black Hawk helicopter inbound for Baghdad, working for the same mainstream media monster he once loathed. Burns soon finds that everyone from his ratings-ravenous network overlords to Special Ops troops with messianic complexes to a charismatic band of tech-savvy <i>jihadists</i> all want to make him their pawn.",
+                "authors": {
+                    "author": {
+                        "id": 60575,
+                        "name": "Anthony Lappe",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1204921818p5/60575.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1204921818p2/60575.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/60575.Anthony_Lappe",
+                        "average_rating": 3.26,
+                        "ratings_count": 373,
+                        "text_reviews_count": 64
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 1216257,
+                    "uri": "kca://work/amzn1.gr.work.v1.UcJu2gTlLkw0AHBtCxKZ4Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051893785
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:45:26 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813205290,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Jan 29 13:19:45 -0800 2013",
+            "date_updated": "Mon Oct 23 16:45:26 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520857914",
+            "link": "https://www.goodreads.com/review/show/520857914",
+            "owned": 0
+        }
+    }
+}

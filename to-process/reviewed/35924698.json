@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606742173,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35924698
+                },
+                "isbn": 1449489427,
+                "isbn13": 9781449489427,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3138
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.LdtrQjCWfw5Y0j_SBrQ51w",
+                "title": "The Witch Doesn't Burn in This One (Women Are Some Kind of Magic, #2)",
+                "title_without_series": "The Witch Doesn't Burn in This One",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502335293l/35924698._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502335293l/35924698._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35924698-the-witch-doesn-t-burn-in-this-one",
+                "num_pages": 192,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Andrews McMeel Publishing",
+                "publication_day": 6,
+                "publication_year": 2018,
+                "publication_month": 3,
+                "average_rating": 3.79,
+                "ratings_count": 22942,
+                "description": "The witch: supernaturally powerful, inscrutably independent, and now—indestructible. These moving, relatable poems encourage resilience and embolden women to take control of their own stories. Enemies try to judge, oppress, and marginalize her, but the witch doesn’t burn in this one.",
+                "authors": {
+                    "author": {
+                        "id": 15225448,
+                        "name": "Amanda Lovelace",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1533076817p5/15225448.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1533076817p2/15225448.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/15225448.Amanda_Lovelace",
+                        "average_rating": 3.85,
+                        "ratings_count": 113235,
+                        "text_reviews_count": 16239
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 55649562,
+                    "uri": "kca://work/amzn1.gr.work.v1.QrchTOcG57Q9ehjV4oMNJQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636067579
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:27:53 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251648252,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:27:52 -0800 2018",
+            "date_updated": "Mon Nov 26 13:27:53 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606742173",
+            "link": "https://www.goodreads.com/review/show/2606742173",
+            "owned": 0
+        }
+    }
+}

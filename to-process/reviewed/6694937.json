@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 90222111,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6694937
+                },
+                "isbn": 61733636,
+                "isbn13": 9780061733635,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2416
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.wDAh_hJFnzhWyaf8A_4zcw",
+                "title": "Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime",
+                "title_without_series": "Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6694937-game-change",
+                "num_pages": 448,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Harper",
+                "publication_day": 11,
+                "publication_year": 2010,
+                "publication_month": 1,
+                "average_rating": 4.12,
+                "ratings_count": 20690,
+                "description": "“It’s one of the best books on politics of any kind I’ve read. For entertainment value, I put it up there with <em>Catch 22</em>.” —<em>The Financial Times</em><br /><br /> <br /><br />“It transports you to a parallel universe in which everything in the <em>National Enquirer</em> is true….More interesting is what we learn about the candidates themselves: their frailties, egos and almost super-human stamina.” —<em>The Financial Times</em><br /><br /><em> </em><br /><br />“I can’t put down this book!” —Stephen Colbert<br /><br /> <br /><br /><em>Game Change </em>is the <em>New York Times </em>bestselling story of the 2008 presidential election, by John Heilemann and Mark Halperin, two of the best political reporters in the country. In the spirit of Richard Ben Cramer’s <i>What It Takes</i> and Theodore H. White’s <i>The Making of the President 1960</i>, this classic campaign trail book tells the defining story of a new era in American politics, going deeper behind the scenes of the Obama/Biden and McCain/Palin campaigns than any other account of the historic 2008 election.",
+                "authors": {
+                    "author": {
+                        "id": 23497,
+                        "name": "John Heilemann",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1349182935p5/23497.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1349182935p2/23497.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/23497.John_Heilemann",
+                        "average_rating": 4.05,
+                        "ratings_count": 27791,
+                        "text_reviews_count": 3462
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 6890544,
+                    "uri": "kca://work/amzn1.gr.work.v1.CQzecPz_Lve737-BY7wTUQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Wed Mar 17 23:44:20 -0700 2010",
+            "read_at": "Mon Apr 26 11:08:13 -0700 2010",
+            "date_added": "Wed Feb 17 23:03:31 -0800 2010",
+            "date_updated": "Mon Apr 26 11:08:13 -0700 2010",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/90222111",
+            "link": "https://www.goodreads.com/review/show/90222111",
+            "owned": 0
+        }
+    }
+}

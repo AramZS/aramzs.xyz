@@ -1,0 +1,51 @@
+{
+    "name": "Thomas Dunne Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Futuristic Violence and Fancy Suits (Zoey Ashe, #1)",
+            "id": "23847989",
+            "author": "David  Wong",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086603000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/23847989",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Thomas Dunne Books",
+            "tags": [
+                "Kindle Edition",
+                "Thomas Dunne Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "23847989",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Macmillan Digital Audio",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Children of Ruin (Children of Time #2)",
+            "id": "40376072",
+            "author": "Adrian Tchaikovsky",
+            "date_finished": 1579219200000,
+            "notes": [],
+            "date_started": 1587157349000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Children of Ruin (Children of Time #2): Rating - 4/5",
+                    "date": 1579219200000,
+                    "type": "short",
+                    "content": "One of the few cases where the sequel is better than the first book in the series! ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/40376072",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Macmillan Digital Audio",
+            "tags": [
+                "Audible Audio",
+                "Macmillan Digital Audio",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "40376072",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Children of Ruin (Children of Time #2)",
+            "id": 40376072,
+            "author": "Adrian Tchaikovsky",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/40376072",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Macmillan Digital Audio",
+            "tags": [
+                "Audible Audio",
+                "Macmillan Digital Audio",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 40376072,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

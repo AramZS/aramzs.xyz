@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1304798451,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18401393
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3834
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.fNPvRs-chcBFyOX__byWdg",
+                "title": "The Martian",
+                "title_without_series": "The Martian",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377968571l/18401393._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377968571l/18401393._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18401393-the-martian",
+                "num_pages": 370,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Broadway Books",
+                "publication_day": 11,
+                "publication_year": 2014,
+                "publication_month": 2,
+                "average_rating": 4.4,
+                "ratings_count": 774811,
+                "description": "<i>Note: Alternate-Cover Edition for this ASIN can be found <a href=\"https://www.goodreads.com/book/show/31686251-the-martian\" rel=\"nofollow\">here</a></i><br /><br />Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. <br /><br />Now, he's sure he'll be the first person to die there.<br /><br />After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. <br /><br />Chances are, though, he won't have time to starve to death. The damaged machinery, unforgiving environment, or plain-old \"human error\" are much more likely to kill him first. <br /><br />But Mark isn't ready to give up yet. Drawing on his ingenuity, his engineering skills—and a relentless, dogged refusal to quit—he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?",
+                "authors": {
+                    "author": {
+                        "id": 6540057,
+                        "name": "Andy Weir",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1382592903p5/6540057.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1382592903p2/6540057.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6540057.Andy_Weir",
+                        "average_rating": 4.26,
+                        "ratings_count": 971968,
+                        "text_reviews_count": 96334
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 21825181,
+                    "uri": "kca://work/amzn1.gr.work.v1.0JRIm1nF_5TP-vPc6Z2f0w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 892737056
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 10 20:33:45 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1006724668,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Jun 10 20:33:45 -0700 2015",
+            "date_updated": "Wed Jun 10 20:33:46 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1304798451",
+            "link": "https://www.goodreads.com/review/show/1304798451",
+            "owned": 0
+        }
+    }
+}

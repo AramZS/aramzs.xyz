@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960341005,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17907374
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.o5hpV2guPRAtlNmPM_qDAg",
+                "title": "The Complete Atopia Chronicles",
+                "title_without_series": "The Complete Atopia Chronicles",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17907374-the-complete-atopia-chronicles",
+                "num_pages": 425,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "PhutureNews Publishing",
+                "publication_day": 28,
+                "publication_year": 2013,
+                "publication_month": 2,
+                "average_rating": 3.53,
+                "ratings_count": 5471,
+                "description": "What could be worse than letting billions die? In the future, be careful what you wish for. As the Weather Wars threaten to consume the planet, Dr. Patricia Killiam is in a desperate race against the clock to avert disaster by giving everyone everything they've ever wanted. The question is whether she's unwittingly saving the world, only to cast it towards an even worse fate as humanity hurtles across the brink of forever in a world teetering on the brink of post-humanism and eco-Armageddon.",
+                "authors": {
+                    "author": {
+                        "id": 6151827,
+                        "name": "Matthew Mather",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1342838843p5/6151827.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1342838843p2/6151827.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6151827.Matthew_Mather",
+                        "average_rating": 3.83,
+                        "ratings_count": 52951,
+                        "text_reviews_count": 4713
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21516661,
+                    "uri": "kca://work/amzn1.gr.work.v1.ac9cd9-gwS9UZ_LmqbnIRQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452281072
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:05:40 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710709679,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:05:39 -0700 2014",
+            "date_updated": "Sat Jun 07 06:05:39 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960341005",
+            "link": "https://www.goodreads.com/review/show/960341005",
+            "owned": 0
+        }
+    }
+}

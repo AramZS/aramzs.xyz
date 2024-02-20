@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3286333726,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 49620387
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 43
+                },
+                "uri": "kca://book/amzn1.gr.book.v3.4NKiNkD5IGxeVC7j",
+                "title": "Into the Unknown",
+                "title_without_series": "Into the Unknown",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/49620387-into-the-unknown",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.13,
+                "ratings_count": 382,
+                "description": "<b>THEIR CRUISE SHIP JUMPED TO THE WRONG STAR SYSTEM</b> <br />Criminal attorney, Liam Price, can't believe his luck. He scored a deal for a suite aboard the Starlit Dream to the exotic world of Aquaria in the Kepler star system. He surprises his wife, Aria, with the trip for her 40th birthday, and the Price family gets ready for the trip of a lifetime. <br /> <br />Soon after the voyage starts, they learn that they’ve somehow jumped to the wrong star system. Liam consults the ship’s computer to determine their location, but he can't access the navigational data. The captain claims that there’s nothing to worry about, but Liam wonders: if there’s nothing to worry about, why restrict access to the ship’s nav data? He fears that pirates may have detoured them to rob and ransom the wealthy passengers. <br /> <br />Before they can learn more, the ship plunges into darkness, and suddenly the cruise of a lifetime turns into a trip to hell. As the crisis unfolds, Liam and his family are thrust into the middle of a deadly conspiracy and a desperate struggle for survival. <br /> <br />",
+                "authors": {
+                    "author": {
+                        "id": 6922521,
+                        "name": "Jasper T. Scott",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1360083008p5/6922521.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1360083008p2/6922521.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6922521.Jasper_T_Scott",
+                        "average_rating": 3.77,
+                        "ratings_count": 24056,
+                        "text_reviews_count": 1451
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 71897147,
+                    "uri": "kca://work/amzn1.gr.work.v2.9b4f4e90-4beb-45e8-9a4b-b4731bd069ca"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3534741231
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Apr 17 14:00:39 -0700 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Feb 17 00:00:00 -0800 2020",
+            "date_added": "Fri Apr 17 14:00:38 -0700 2020",
+            "date_updated": "Fri Apr 17 14:06:19 -0700 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3286333726",
+            "link": "https://www.goodreads.com/review/show/3286333726",
+            "owned": 0
+        }
+    }
+}

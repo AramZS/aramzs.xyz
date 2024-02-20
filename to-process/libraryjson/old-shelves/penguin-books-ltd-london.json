@@ -1,0 +1,51 @@
+{
+    "name": "Penguin Books Ltd. (London)",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Collapse: How Societies Choose to Fail or Succeed",
+            "id": "475",
+            "author": "Jared Diamond",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1445346982000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/475",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Penguin Books Ltd. (London)",
+            "tags": [
+                "Paperback",
+                "Penguin Books Ltd. (London)",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0143036556",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780143036555",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "475",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

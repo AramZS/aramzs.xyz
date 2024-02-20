@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3156438790,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3993839
+                },
+                "isbn": 312382855,
+                "isbn13": 9780312382858,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1831
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UwYJWpMOEWM6M7_-giJ96w",
+                "title": "Patient Zero (Joe Ledger, #1)",
+                "title_without_series": "Patient Zero",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3993839-patient-zero",
+                "num_pages": 421,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "St. Martin's Griffin",
+                "publication_day": 3,
+                "publication_year": 2009,
+                "publication_month": 3,
+                "average_rating": 3.98,
+                "ratings_count": 25989,
+                "description": "When you have to kill the same terrorist twice in one week there's either something wrong with your world or something wrong with your skills... and there's nothing wrong with Joe Ledger's skills. And that's both a good, and a bad thing. It's good because he's a Baltimore detective that has just been secretly recruited by the government to lead a new taskforce created to deal with the problems that Homeland Security can't handle. This rapid response group is called the Department of Military Sciences or the DMS for short. It's bad because his first mission is to help stop a group of terrorists from releasing a dreadful bio-weapon that can turn ordinary people into zombies. The fate of the world hangs in the balance...",
+                "authors": {
+                    "author": {
+                        "id": 72451,
+                        "name": "Jonathan Maberry",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1512594942p5/72451.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1512594942p2/72451.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/72451.Jonathan_Maberry",
+                        "average_rating": 4.04,
+                        "ratings_count": 239238,
+                        "text_reviews_count": 24604
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 4039913,
+                    "uri": "kca://work/amzn1.gr.work.v1.cgeiWMJZ8wlz8IlOqU6B7Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3362012794
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Jan 23 03:37:32 -0800 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jan 23 03:37:32 -0800 2020",
+            "date_updated": "Thu Jan 23 03:41:50 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3156438790",
+            "link": "https://www.goodreads.com/review/show/3156438790",
+            "owned": 0
+        }
+    }
+}

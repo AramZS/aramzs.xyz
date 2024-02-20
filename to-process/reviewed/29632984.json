@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749128349,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 29632984
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1303
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.xe-wPryBNm9myAJWsvT80g",
+                "title": "The Things We Wish Were True",
+                "title_without_series": "The Things We Wish Were True",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/29632984-the-things-we-wish-were-true",
+                "num_pages": 290,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.82,
+                "ratings_count": 38222,
+                "description": "<p>\n  <b>In an idyllic small-town neighborhood, a near tragedy triggers a series of dark revelations.</b>\n</p><p>From the outside, Sycamore Glen, North Carolina, might look like the perfect all-American neighborhood. But behind the white picket fences lies a web of secrets that reach from house to house.</p><p>Up and down the streets, neighbors quietly bear the weight of their own pasts—until an accident at the community pool upsets the delicate equilibrium. And when tragic circumstances compel a woman to return to Sycamore Glen after years of self-imposed banishment, the tangle of the neighbors’ intertwined lives begins to unravel.</p><p>During the course of a sweltering summer, long-buried secrets are revealed, and the neighbors learn that it’s impossible to really know those closest to us. But is it impossible to love and forgive them?</p>",
+                "authors": {
+                    "author": {
+                        "id": 563202,
+                        "name": "Marybeth Mayhew Whalen",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1452546829p5/563202.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1452546829p2/563202.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/563202.Marybeth_Mayhew_Whalen",
+                        "average_rating": 3.79,
+                        "ratings_count": 55273,
+                        "text_reviews_count": 4376
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 49243235,
+                    "uri": "kca://work/amzn1.gr.work.v1.Qkjltu5ZoAtda87r7GXR7A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498301247
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:41:17 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414464893,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:41:16 -0700 2016",
+            "date_updated": "Mon Sep 05 07:41:17 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749128349",
+            "link": "https://www.goodreads.com/review/show/1749128349",
+            "owned": 0
+        }
+    }
+}

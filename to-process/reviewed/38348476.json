@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629411085,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 38348476
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6540
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.pPA9C_CXU7P4qwcImUtyTA",
+                "title": "Calypso",
+                "title_without_series": "Calypso",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529503848l/38348476._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529503848l/38348476._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/38348476-calypso",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.15,
+                "ratings_count": 77296,
+                "description": "David Sedaris returns with his most deeply personal and darkly hilarious book.<br /><br />If you've ever laughed your way through David Sedaris's cheerfully misanthropic stories, you might think you know what you're getting with Calypso. You'd be wrong. <br /><br />When he buys a beach house on the Carolina coast, Sedaris envisions long, relaxing vacations spent playing board games and lounging in the sun with those he loves most. And life at the Sea Section, as he names the vacation home, is exactly as idyllic as he imagined, except for one tiny, vexing realization: it's impossible to take a vacation from yourself.<br /><br />With Calypso, Sedaris sets his formidable powers of observation toward middle age and mortality. Make no mistake: these stories are very, very funny--it's a book that can make you laugh 'til you snort, the way only family can. Sedaris's powers of observation have never been sharper, and his ability to shock readers into laughter unparalleled. But much of the comedy here is born out of that vertiginous moment when your own body betrays you and you realize that the story of your life is made up of more past than future.<br /><br />This is beach reading for people who detest beaches, required reading for those who loathe small talk and love a good tumor joke. Calypso is simultaneously Sedaris's darkest and warmest book yet--and it just might be his very best.",
+                "authors": {
+                    "author": {
+                        "id": 2849,
+                        "name": "David Sedaris",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1213737698p5/2849.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1213737698p2/2849.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2849.David_Sedaris",
+                        "average_rating": 4,
+                        "ratings_count": 1752256,
+                        "text_reviews_count": 74802
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 57338398,
+                    "uri": "kca://work/amzn1.gr.work.v1.DWILqhNlWZ1NewiOLR6CnQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666058050
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:52:20 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274615333,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:52:20 -0800 2018",
+            "date_updated": "Mon Aug 26 11:35:14 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629411085",
+            "link": "https://www.goodreads.com/review/show/2629411085",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 792925428,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15737379
+                },
+                "isbn": 1451684932,
+                "isbn13": 9781451684933,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 185
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4uEkAdKPJnB77MSTdf78Kg",
+                "title": "Bailout: An Inside Account of How Washington Abandoned Main Street While Rescuing Wall Street",
+                "title_without_series": "Bailout: An Inside Account of How Washington Abandoned Main Street While Rescuing Wall Street",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341508538l/15737379._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341508538l/15737379._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15737379-bailout",
+                "num_pages": 288,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Free Press/Simon & Schuster, Inc. (NYC)",
+                "publication_day": 24,
+                "publication_year": 2012,
+                "publication_month": 7,
+                "average_rating": 3.9,
+                "ratings_count": 1675,
+                "description": "In telling of his stranger-than-fiction baptism into the corrupted ways of Washington, Barofsky offers an irrefutable indictment, from an insider of the Bush &amp; Obama administrations, of the mishandling of the $700 billion TARP bailout fund. In behind-the-scenes detail, he shows the extreme degree to which government officials bent over backward to serve the interests of Wall Street firms at the expense of the public—&amp; at the expense of effective financial reform. During the height of the financial crisis in 2008, Barofsky gave up his job as a prosecutor in the US Attorney’s Office in NYC, where he'd convicted drug kingpins, Wall Street executives &amp; mortgage fraud perpetrators, to become the special inspector general in charge of oversight of bailout money spending. From the first his efforts to protect against fraud &amp; to hold big banks accountable for how they spent taxpayer money were met with outright hostility from Treasury officials in charge of the bailouts.<br /><br />Barofsky discloses how, in serving banking interests, Treasury Secretary Timothy Geithner &amp; his team worked with Wall Street executives to design programs to would funnel vast amounts of taxpayer money to their firms &amp; would have allowed them to game the markets &amp; make huge profits with almost no risk or accountability, while repeatedly fighting efforts to put the necessary fraud protections in place. His investigations also uncovered abject mismanagement of the bailout of insurance giant AIG &amp; Geithner’s decision to allow the payment of millions of dollars in bonuses &amp; that the Obama administration’s TARP Czar lobbied for the executives to retain their high pay.<br /><br />Providing details about how, meanwhile, the interests of homeowners &amp; the broader public were betrayed, Barofsky recounts how Geithner &amp; his team steadfastly failed to fix glaring flaws in the Obama administration’s homeowner relief program pointed out by bailout watchdogs, rejecting anti-fraud measures, which unleashed a wave of abuses by mortgage providers against homeowners, even causing some who wouldn't have lost their homes otherwise to go into foreclosure. Ultimately only a small fraction ($1.4 billion when he stepped down) of the $50 billion allocated to help homeowners was spent, while the funds expended to prop up the financial system totaled $4.7 trillion. As he raised the alarm about the bailout failures, he met with obstruction. He recounts in blow-by-blow detail how an increasingly aggressive war was waged against his efforts, with even the White House launching a broadside against him. <i>Bailout</i> is a riveting account of his plunge into the political meat grinder of Washington, as well as a vital revelation of just how captured by Wall Street the political system is &amp; why the too-big-to-fail banks have only become bigger &amp; more dangerous in the wake of the crisis.",
+                "authors": {
+                    "author": {
+                        "id": 4827144,
+                        "name": "Neil Barofsky",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4827144.Neil_Barofsky",
+                        "average_rating": 3.9,
+                        "ratings_count": 1677,
+                        "text_reviews_count": 204
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 21421387,
+                    "uri": "kca://work/amzn1.gr.work.v1.qr4nHHQoeK5gUJMabecJnQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 244822360
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Dec 17 19:12:16 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Jan 01 00:00:00 -0800 2013",
+            "date_added": "Tue Dec 17 19:12:16 -0800 2013",
+            "date_updated": "Fri Dec 20 12:54:44 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/792925428",
+            "link": "https://www.goodreads.com/review/show/792925428",
+            "owned": 0
+        }
+    }
+}

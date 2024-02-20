@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671496,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 793053
+                },
+                "isbn": 755328841,
+                "isbn13": 9780755328840,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 24
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.elpDyCtJFdI2RRh3t15yQA",
+                "title": "The Waxman Murders (Hugh Corbett, #15)",
+                "title_without_series": "The Waxman Murders",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415582067l/793053._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415582067l/793053._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/793053.The_Waxman_Murders",
+                "num_pages": 408,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Headline",
+                "publication_day": 5,
+                "publication_year": 2007,
+                "publication_month": 4,
+                "average_rating": 4.02,
+                "ratings_count": 583,
+                "description": "<p>In 1300, an English privateer named <i>The Waxman</i> was trapped and overrun by two powerful war cogs flying the streamers of the powerful Hanseatic League of North Germany. The ship was carrying a casket containing the <i>Carta Mysteriosa</i>, a collection of valuable and detailed maps and sea charts. The rulers of Europe, not to mention their merchant princes, would wade through a sea of blood to obtain them.</p><br /><p>Three years later Wilhelm Von Paulents, a representative of the Hanseatic League, comes to England. Rumours have it that he owns the sea charts and Sir Hugh Corbett is sent to negotiate with Von Paulents. But the German visitors fall ill of some mysterious ailment and then, on the morning of the fourth Sunday in Advent, Corbett is summoned to a scene of bloody mayhem and murder: Von Paulents, his wife, son and clerk have been barbarously assassinated. The <i>Carta Mysteriosa</i> have not been stolen.</p><br /><p>So why were the murders committed and by whom? Corbett investigates and, once again, he enters the world of shadows to confront the Seed of Cain.</p>",
+                "authors": {
+                    "author": {
+                        "id": 36619,
+                        "name": "Paul Doherty",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1204647483p5/36619.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1204647483p2/36619.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/36619.Paul_Doherty",
+                        "average_rating": 4.06,
+                        "ratings_count": 40238,
+                        "text_reviews_count": 2279
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 779036,
+                    "uri": "kca://work/amzn1.gr.work.v1.ylG8E9cUXTWcWtuXnNqMNg"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:22:20 -0700 2008",
+            "date_updated": "Mon Jun 16 19:22:20 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671496",
+            "link": "https://www.goodreads.com/review/show/24671496",
+            "owned": 0
+        }
+    }
+}

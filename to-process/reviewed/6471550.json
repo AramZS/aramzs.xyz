@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 473060552,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6471550
+                },
+                "isbn": 1401225659,
+                "isbn13": 9781401225650,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1014
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.c0IisBz6w6MF9hPk3g0r0Q",
+                "title": "The Unwritten, Vol. 1: Tommy Taylor and the Bogus Identity",
+                "title_without_series": "The Unwritten, Vol. 1: Tommy Taylor and the Bogus Identity",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327887253l/6471550._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327887253l/6471550._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6471550-the-unwritten-vol-1",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 12,
+                "publication_year": 2010,
+                "publication_month": 1,
+                "average_rating": 3.74,
+                "ratings_count": 19689,
+                "description": "Tom Taylor's life was screwed from go. His father created the Tommy Taylor fantasy series, boy-wizard novels with popularity on par with Harry Potter. The problem is Dad modeled the fictional epic so closely to Tom's real life that fans are constantly comparing him to his counterpart, turning him into the lamest variety of Z-level celebrity. In the final novel, it's even implied that the fictional Tommy will crossover into the real world, giving delusional fans more excuses to harass Tom.<br />When an enormous scandal reveals that Tom might really be a boy-wizard made flesh, Tom comes into contact with a very mysterious, very deadly group that's secretly kept tabs on him all his life. Now, to protect his own life and discover the truth behind his origins, Tom will travel the world, eventually finding himself at locations all featured on a very special map -- one kept by the deadly group that charts places throughout world history where fictions have impacted and tangibly shaped reality, those stories ranging from famous literary works to folktales to pop culture. And in the process of figuring out what it all means, Tom will find himself having to figure out a huge conspiracy mystery that spans the entirety of the history of fiction.<br /><br /><b>Collecting</b>: <i>The Unwritten</i> 1-5",
+                "authors": {
+                    "author": {
+                        "id": 9018,
+                        "name": "Mike Carey",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334894864p5/9018.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334894864p2/9018.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9018.Mike_Carey",
+                        "average_rating": 4.03,
+                        "ratings_count": 293647,
+                        "text_reviews_count": 12863
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 6662356,
+                    "uri": "kca://work/amzn1.gr.work.v1.aeUqYFRMm5VlkniGrkD9BQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051896151
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:47:46 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 316225988,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813207107,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Dec 08 00:00:00 -0800 2012",
+            "read_at": "Sat Dec 08 11:51:06 -0800 2012",
+            "date_added": "Sat Dec 08 11:43:11 -0800 2012",
+            "date_updated": "Mon Oct 23 16:47:46 -0700 2017",
+            "read_count": 1,
+            "body": "The Unwritten, like its spiritual comic-book little sister Fable, is, in many ways, a writer's story about writing. As a result it is in love with the stories of storytelling and it wants its readers to be in love with storytelling as well. <br /><br />Taking the power of stories from where others usually leave off, it empowers the modern myths of our time with a life of their own and lets them take off. <br /><br />The result seems to be an almost-John Gardner-like graphic novel on how to best explore stories. Clever, well-written, and worth reading.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/473060552",
+            "link": "https://www.goodreads.com/review/show/473060552",
+            "owned": 1
+        }
+    }
+}

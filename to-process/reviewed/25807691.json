@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2054300280,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25807691
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 466
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.6esChEqPFXcB8cmp7vVh2Q",
+                "title": "Working for Bigfoot (The Dresden Files, #15.5)",
+                "title_without_series": "Working for Bigfoot",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25807691-working-for-bigfoot",
+                "num_pages": 136,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.26,
+                "ratings_count": 7727,
+                "description": "\"B is for Bigfoot\" takes place between <i>Fool Moon</i> and <i>Grave Peril</i>. <br />\"I Was a Teenage Bigfoot\" takes place circa <i>Deadbeat</i>. <br />\"Bigfoot on Campus\" takes place between <i>Turn Coat</i> and <i>Changes</i>.<br /><br />Chicago wizard-for-hire Harry Dresden is used to mysterious clients with long hair and legs up to here. But when it turns out the long hair covers every square inch of his latest client’s body, and the legs contribute to a nine-foot height, even the redoubtable detective realizes he’s treading new ground. Strength of a River in His Shoulders is one of the legendary forest people, a Bigfoot, and he has a problem that only Harry can solve. His son Irwin is a scion, the child of a supernatural creature and a human. He’s a good kid, but the extraordinary strength of his magical aura has a way of attracting trouble.<br /><br />In the three novellas that make up Working For Bigfoot, collected together for the first time here, readers encounter Dresden at different points in his storied career, and in Irwin’s life. As a middle-schooler, in “B Is for Bigfoot,” Irwin attracts the unwelcome attention of a pair of bullying brothers who are more than they seem, and when Harry steps in, it turns out they have a mystical guardian of their own. At a fancy private high school in “I Was a Teenage Bigfoot,” Harry is called in when Irwin grows ill for the first time, and it’s not just a case of mono. Finally, Irwin is all grown up and has a grown-up’s typical problems as a freshman in college in “Bigfoot on Campus,” or would have if typical included vampires.",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 45866226,
+                    "uri": "kca://work/amzn1.gr.work.v1.QbDfzt1GG_Mjne9xbJhr2A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1910668886
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 09 07:18:25 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1708037133,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Jul 09 07:18:24 -0700 2017",
+            "date_updated": "Sun Jul 09 07:18:24 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2054300280",
+            "link": "https://www.goodreads.com/review/show/2054300280",
+            "owned": 0
+        }
+    }
+}

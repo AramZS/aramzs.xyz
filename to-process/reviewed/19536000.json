@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2502240788,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19536000
+                },
+                "isbn": 1607069385,
+                "isbn13": 9781607069386,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 256
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.nROsC46j1Blerk6zIxP-6A",
+                "title": "Chew, Vol. 8: Family Recipes",
+                "title_without_series": "Chew, Vol. 8: Family Recipes",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398421588l/19536000._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398421588l/19536000._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19536000-chew-vol-8",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 8,
+                "publication_year": 2014,
+                "publication_month": 4,
+                "average_rating": 4.23,
+                "ratings_count": 4166,
+                "description": "Collects CHEW #36-40<br /><br />Anthony and Antonelle Chu are fraternal twins. Tony and Toni. Each with their own extraordinary, albeit diametrically opposed, ability. Tony is Cibopathic, able to get psychic sensations of the past of anything he bites into or ingests. Toni is Cibovoyant, able to flash onto a vision of the future of any living thing she bit into or ingested.<br /><br />Tony is alive. Toni is dead. Toni has been murdered. Tony has vowed to catch her killer. Toni is going to help.<br /><br />Presenting a new storyline of the New York Times Bestselling, Harvey and multiple Eisner Award-winning series about cops, crooks, cooks, cannibals, and clairvoyants.<br /><br />Series Description<br /><br />Tony Chu is a cop with a secret. A weird secret. Tony Chu is cibopathic, which means he gets psychic impressions from whatever he eats. It also means he's a hell of a detective, as long as he doesn't mind nibbling on the corpse of a murder victim to figure out whodunit, and why. It's a dirty job, and Tony has to eat terrible things in the name of justice. And if that wasn't bad enough, the government has figured out Tony Chu's secret. They have plans for him, whether he likes it or not. Presenting a twisted new series about cops, crooks, cooks, cannibals and clairvoyants, written by John Layman (Marvel Zombies vs. Army of Darkness, House of M: Fantastic Four and Puffed) with mind-blowing art by astonishing comics newcomer Rob Guillory.",
+                "authors": {
+                    "author": {
+                        "id": 93094,
+                        "name": "John Layman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1316046488p5/93094.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1316046488p2/93094.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/93094.John_Layman",
+                        "average_rating": 4.05,
+                        "ratings_count": 138007,
+                        "text_reviews_count": 8878
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 25986027,
+                    "uri": "kca://work/amzn1.gr.work.v1.y0tH_zh67v3-7Ue7HqNlyQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2497988142
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 21 11:07:33 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Aug 17 00:00:00 -0700 2018",
+            "date_added": "Tue Aug 21 11:07:32 -0700 2018",
+            "date_updated": "Tue Aug 21 11:10:35 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2502240788",
+            "link": "https://www.goodreads.com/review/show/2502240788",
+            "owned": 0
+        }
+    }
+}

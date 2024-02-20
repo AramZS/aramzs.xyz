@@ -1,0 +1,121 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 133936656,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34084
+                },
+                "isbn": 670032565,
+                "isbn13": 9780670032563,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3473
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.G76hR-dMx8O5WBteshLf9g",
+                "title": "The Waste Lands (The Dark Tower, #3)",
+                "title_without_series": "The Waste Lands",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554220386l/34084._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554220386l/34084._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34084.The_Waste_Lands",
+                "num_pages": 422,
+                "format": "Hardcover",
+                "edition_information": "Reprint Edition",
+                "publisher": "Viking Adult",
+                "publication_day": 23,
+                "publication_year": 2003,
+                "publication_month": 6,
+                "average_rating": 4.24,
+                "ratings_count": 176501,
+                "description": "Several months have passed, and Roland’s two new tet-mates have become proficient gunslingers. Eddie Dean has given up heroin, and Odetta’s two selves have joined, becoming the stronger and more balanced personality of Susannah Dean. But while battling The Pusher in 1977 New York, Roland altered ka by saving the life of Jake Chambers, a boy who—in Roland’s where and when—has already died. Now Roland and Jake exist in different worlds, but they are joined by the same madness: the paradox of double memories. Roland, Susannah, and Eddie must draw Jake into Mid-World then follow the Path of the Beam all the way to the Dark Tower. But nothing is easy in Mid-World. Along the way our tet stumbles into the ruined city of Lud, and are caught between the warring gangs of the Pubes and the Grays. The only way out of Lud is to wake Blaine the Mono, an insane train that has a passion for riddling, and for suicidal journeys.",
+                "authors": {
+                    "author": {
+                        "id": 3389,
+                        "name": "Stephen King",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1362814142p5/3389.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1362814142p2/3389.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3389.Stephen_King",
+                        "average_rating": 4.04,
+                        "ratings_count": 13914629,
+                        "text_reviews_count": 547014
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 1810634,
+                    "uri": "kca://work/amzn1.gr.work.v1.gTDCTvDIUvgn4bRnRUsjDA"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Dec 07 00:00:00 -0800 2010",
+            "date_added": "Mon Dec 06 22:53:18 -0800 2010",
+            "date_updated": "Mon Dec 06 23:01:57 -0800 2010",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 1,
+            "comments": {
+                "start": 1,
+                "end": 1,
+                "total": 1,
+                "comment": {
+                    "id": 23671597,
+                    "body": "Really enjoying the series. Can't wait to pick up the next one.",
+                    "user": {
+                        "id": 1244876,
+                        "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                        "name": "Aram",
+                        "display_name": "Aram",
+                        "location": "Long Island City, NY",
+                        "link": "https://www.goodreads.com/user/show/1244876-aram",
+                        "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                        "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                        "has_image": true
+                    },
+                    "created_at": "Mon Dec 06 23:03:22 -0800 2010",
+                    "updated_at": "Mon Dec 06 23:03:22 -0800 2010"
+                }
+            },
+            "url": "https://www.goodreads.com/review/show/133936656",
+            "link": "https://www.goodreads.com/review/show/133936656",
+            "owned": 0
+        }
+    }
+}

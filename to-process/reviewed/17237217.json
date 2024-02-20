@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629414220,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17237217
+                },
+                "isbn": 307889092,
+                "isbn13": 9780307889096,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 183
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.lZeN4RUzvBbmScQQxaoZsw",
+                "title": "Social: Why Our Brains Are Wired to Connect",
+                "title_without_series": "Social: Why Our Brains Are Wired to Connect",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377628266l/17237217._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377628266l/17237217._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17237217-social",
+                "num_pages": 384,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Crown",
+                "publication_day": 8,
+                "publication_year": 2013,
+                "publication_month": 10,
+                "average_rating": 4.09,
+                "ratings_count": 2081,
+                "description": "<b><b>We are profoundly social creatures – more than we know.</b> </b> <br /><br />In <i>Social</i>, renowned psychologist Matthew Lieberman explores groundbreaking research in social neuroscience revealing that our need to connect with other people is even more fundamental, more basic, than our need for food or shelter.  Because of this, our brain uses its spare time to learn about the social world – other people and our relation to them. It is believed that we must commit 10,000 hours to master a skill.  According to Lieberman, each of us has spent 10,000 hours learning to make sense of people and groups <i>by the time we are ten</i>.<br />  <br /><i>Social</i> argues that our need to reach out to and connect with others is a primary driver behind our behavior.  We believe that pain and pleasure alone guide our actions.  Yet, new research using fMRI – including a great deal of original research conducted by Lieberman and his UCLA lab -- shows that our brains react to social pain and pleasure in much the same way as they do to physical pain and pleasure.  Fortunately, the brain has evolved sophisticated mechanisms for securing our place in the social world.  We have a unique ability to read other people’s minds, to figure out their hopes, fears, and motivations, allowing us to effectively coordinate our lives with one another.  And our most private sense of who we are is intimately linked to the important people and groups in our lives.  This wiring often leads us to restrain our selfish impulses for the greater good.  These mechanisms lead to behavior that might seem irrational, but is really just the result of our deep social wiring and necessary for our success as a species.<br />  <br /> Based on the latest cutting edge research, the findings in <i>Social</i> have important real-world implications.  Our schools and businesses, for example, attempt to minimalize social distractions.  But this is exactly the wrong thing to do to encourage engagement and learning, and literally shuts down the social brain, leaving powerful neuro-cognitive resources untapped.  The insights revealed in this pioneering book suggest ways to improve learning in schools, make the workplace more productive, and improve our overall well-being.",
+                "authors": {
+                    "author": {
+                        "id": 6888564,
+                        "name": "Matthew D. Lieberman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1373054801p5/6888564.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1373054801p2/6888564.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6888564.Matthew_D_Lieberman",
+                        "average_rating": 4.09,
+                        "ratings_count": 2084,
+                        "text_reviews_count": 218
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 24895347,
+                    "uri": "kca://work/amzn1.gr.work.v1.KWYPYeYVxkOtlpo65iSX8g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666062314
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:56:09 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274618598,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:56:08 -0800 2018",
+            "date_updated": "Mon Dec 17 07:56:09 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629414220",
+            "link": "https://www.goodreads.com/review/show/2629414220",
+            "owned": 0
+        }
+    }
+}

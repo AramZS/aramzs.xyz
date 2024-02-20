@@ -1,0 +1,113 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 240675198,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12414903
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 40
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qRaC0aw81EsesKV2wcEoEA",
+                "title": "Zarrella's Hierarchy of Contagiousness: The Science, Design, and Engineering of Contagious Ideas",
+                "title_without_series": "Zarrella's Hierarchy of Contagiousness: The Science, Design, and Engineering of Contagious Ideas",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327980482l/12414903._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327980482l/12414903._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12414903-zarrella-s-hierarchy-of-contagiousness",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.65,
+                "ratings_count": 528,
+                "description": "Want to learn how to maximize social media? When to do it, what words to use, who to tweet at? Look no further than Zarrella's Hierarchy of Contagiousness: The Science, Design and Engineering of Contagious Ideas. Social media master Dan Zarrella has amassed years of experience helping people negotiate the often mystical place of social media marketing. Now, he has condensed those well-tried ideas into this concise and conversational book. Zarrella's Hierarchy of Contagiousness demystifies and deconstructs how social media works, who it benefits and why we all depend upon it to help our good ideas spread.",
+                "authors": {
+                    "author": {
+                        "id": 3188029,
+                        "name": "Dan Zarrella",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1356497260p5/3188029.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1356497260p2/3188029.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3188029.Dan_Zarrella",
+                        "average_rating": 3.6,
+                        "ratings_count": 949,
+                        "text_reviews_count": 114
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 17396676,
+                    "uri": "kca://work/amzn1.gr.work.v1.EzKL8WTcecCG2Yp6V6MLKg"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 293110699,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": true,
+                        "id": 2635324,
+                        "name": "to-read",
+                        "review_shelf_id": 156917845,
+                        "sortable": true
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 28 11:02:39 -0800 2011",
+            "date_updated": "Mon Nov 28 11:02:39 -0800 2011",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/240675198",
+            "link": "https://www.goodreads.com/review/show/240675198",
+            "owned": 0
+        }
+    }
+}

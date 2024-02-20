@@ -1,0 +1,104 @@
+{
+    "name": "MWS Media",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Charters Duology -- Two Novels of the Sovereign Era",
+            "id": "21260924",
+            "author": "Matthew Wayne Selznick",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146287000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Charters Duology -- Two Novels of the Sovereign Era: Rating - 4/5",
+                    "date": 1402146287000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/21260924",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "MWS Media",
+            "tags": [
+                "Kindle Edition",
+                "MWS Media",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "21260924",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Reggie vs. Kaiju Storm Chimera Wolf",
+            "id": "5882441",
+            "author": "Matthew Wayne Selznick",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1228701061000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/5882441",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "MWS Media",
+            "tags": [
+                "Kindle Edition",
+                "MWS Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "5882441",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

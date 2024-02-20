@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3018956984,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 31179559
+                },
+                "isbn": 1302901915,
+                "isbn13": 9781302901912,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 208
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.7jaSnTkw5GTVBuALMnj6HQ",
+                "title": "Black Panther: A Nation Under Our Feet, Book 3",
+                "title_without_series": "Black Panther: A Nation Under Our Feet, Book 3",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524191564l/31179559._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524191564l/31179559._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/31179559-black-panther",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 25,
+                "publication_year": 2017,
+                "publication_month": 4,
+                "average_rating": 3.84,
+                "ratings_count": 2043,
+                "description": "The full truth of the People's revolution - and the power players supporting it - has been revealed! Now, T'Challa must fight like never before for the fate of his nation - and one of his most trusted allies is back to stand by his side. As the final battle begins, the entirety of Wakanda's glorious history may be their most potent weapon. But even if the People fall, can the monarchy still stand? The pieces are all in position, now it's time for Ta-Nehisi Coates and Brian Stelfreeze to knock over the board as their revitalization of Black Panther continues!<br /><br /><b>Collecting</b>: <i>Black Panther</i> #9-12 and material from New Avengers (2013) #18, 21, 24",
+                "authors": {
+                    "author": {
+                        "id": 1214964,
+                        "name": "Ta-Nehisi Coates",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1214964.Ta_Nehisi_Coates",
+                        "average_rating": 4.27,
+                        "ratings_count": 298165,
+                        "text_reviews_count": 32776
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 51819276,
+                    "uri": "kca://work/amzn1.gr.work.v1.BxhfMS9ICzlTKJeoFgieYg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3182461636
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 20 07:41:32 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2665828006,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Oct 20 07:41:32 -0700 2019",
+            "date_updated": "Sun Oct 20 07:41:32 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3018956984",
+            "link": "https://www.goodreads.com/review/show/3018956984",
+            "owned": 0
+        }
+    }
+}

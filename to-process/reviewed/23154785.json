@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1420947631,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23154785
+                },
+                "isbn": 356505316,
+                "isbn13": 9780356505312,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 348
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.PxgWSIJEBTBZR9312klWCw",
+                "title": "The Annihilation Score (Laundry Files, #6)",
+                "title_without_series": "The Annihilation Score",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426160476l/23154785._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426160476l/23154785._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23154785-the-annihilation-score",
+                "num_pages": 352,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 2,
+                "publication_year": 2015,
+                "publication_month": 7,
+                "average_rating": 3.91,
+                "ratings_count": 6004,
+                "description": "In this this science fiction spy thriller by Hugo Award winning writer Charles Stross, the Laundry - the British secret agency that fights supernatural threats - must team up with the police force, with one unfortunate secret agent caught in the middle.<br />PLAYING WITH DANGER<br /><br />Dr. Mo O'Brien is an intelligence agent at the top secret government agency known as 'the Laundry'. When occult powers threaten the realm, they'll be there to clean up the mess - and deal with the witnesses.<br /><br />But the Laundry is recovering from a devastating attack and when average citizens all over the country start to develop supernatural powers, the police are called in to help. Mo is appointed as official police liaison, but in between dealing with police bureaucracy, superpowered members of the public and disgruntled politicians, Mo discovers to her horror that she can no longer rely on her marriage, nor on the weapon that has been at her side for eight years of undercover work, the possessed violin known as 'Lecter'.<br /><br />Also, a mysterious figure known as Dr Freudstein has started sending threatening messages to the police, but who is he and what is he planning?",
+                "authors": {
+                    "author": {
+                        "id": 8794,
+                        "name": "Charles Stross",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p5/8794.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p2/8794.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8794.Charles_Stross",
+                        "average_rating": 3.9,
+                        "ratings_count": 225996,
+                        "text_reviews_count": 14959
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 42702127,
+                    "uri": "kca://work/amzn1.gr.work.v1.sv5tGpLyXFPn8SmonYC1xw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1044249190
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Oct 20 06:16:55 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Tue Oct 20 06:16:54 -0700 2015",
+            "date_updated": "Thu Dec 31 07:39:16 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1420947631",
+            "link": "https://www.goodreads.com/review/show/1420947631",
+            "owned": 0
+        }
+    }
+}

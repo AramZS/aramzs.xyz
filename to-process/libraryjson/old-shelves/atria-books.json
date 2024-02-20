@@ -1,0 +1,141 @@
+{
+    "name": "Atria Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Significant Zero: Heroes, Villains, and the Fight for Art and Soul in Video Games",
+            "id": "34330137",
+            "author": "Walt Williams",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1570109272000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34330137",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Atria Books",
+            "tags": [
+                "Kindle Edition",
+                "Atria Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34330137",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "How to Be Alone: If You Want To, and Even If You Don't",
+            "id": "38532183",
+            "author": "Lane Moore",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1548778555000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/38532183",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Atria Books",
+            "tags": [
+                "Paperback",
+                "Atria Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1501178830",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781501178832",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "38532183",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Seven Husbands of Evelyn Hugo",
+            "id": "32620332",
+            "author": "Taylor Jenkins Reid",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1545061764000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/32620332",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Atria Books",
+            "tags": [
+                "Hardcover",
+                "Atria Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1501139231",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781501139239",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "32620332",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

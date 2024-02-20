@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960344335,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19187987
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.7oDPQYA6yU9TsIDbas6fbA",
+                "title": "Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Drop-outs, Queers, Housewives, and People Like You Are Taking Back an Art Form",
+                "title_without_series": "Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Drop-outs, Queers, Housewives, and People Like You Are Taking Back an Art Form",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19187987-rise-of-the-videogame-zinesters",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.88,
+                "ratings_count": 626,
+                "description": {},
+                "authors": {
+                    "author": {
+                        "id": 5181019,
+                        "name": "Anna Anthropy",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1328825784p5/5181019.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1328825784p2/5181019.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5181019.Anna_Anthropy",
+                        "average_rating": 3.83,
+                        "ratings_count": 1457,
+                        "text_reviews_count": 232
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 17525856,
+                    "uri": "kca://work/amzn1.gr.work.v1.R3QxSjdBaag1yqWGxXZ2SA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452285222
+                    },
+                    "old_status": {},
+                    "status": "currently-reading",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:11:19 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 710712250,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Jun 07 06:11:19 -0700 2014",
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:11:19 -0700 2014",
+            "date_updated": "Sat Jun 07 06:11:19 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960344335",
+            "link": "https://www.goodreads.com/review/show/960344335",
+            "owned": 0
+        }
+    }
+}

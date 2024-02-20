@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 646244897,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15826603
+                },
+                "isbn": 1455545368,
+                "isbn13": 9781455545360,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 179
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.068FvnnA3vOs9B9N8dW0ng",
+                "title": "Top of the Morning: Inside the Cutthroat World of Morning TV",
+                "title_without_series": "Top of the Morning: Inside the Cutthroat World of Morning TV",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391419776l/15826603._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391419776l/15826603._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15826603-top-of-the-morning",
+                "num_pages": 464,
+                "format": "Hardcover",
+                "edition_information": "Large Print",
+                "publisher": "Grand Central Publishing",
+                "publication_day": 7,
+                "publication_year": 2013,
+                "publication_month": 5,
+                "average_rating": 3.39,
+                "ratings_count": 1510,
+                "description": "<b>CNN correspondent Brian Stelter reveals the dark side of morning television with exclusive material about current and past morning stars, from Matt Lauer to Katie Couric.</b><br /><br /> When America wakes up with personable and charming hosts like Robin Roberts and George Stephanopoulos, it's hard to imagine their show bookers having to guard a guest's hotel room all night to prevent rival shows from poaching. But that is just a glimpse of the intense reality revealed in this gripping look into the most competitive time slot in television.<br /><br /> Featuring exclusive content about all the major players of the 2000s, <i>Top of the Morning</i> illuminates what it takes to win the AM -- when every single viewer counts, tons of jobs are on the line, and hundreds of millions of dollars are at stake. Stelter is behind the scenes as Ann Curry replaces Meredith Vieira on the <i>Today </i>show, only to be fired a year later in a fiasco that made national headlines. He's backstage as <i>Good Morning America</i> launches an attack to dethrone <i>Today </i>and end the longest consecutive winning streak in morning television history. And he's there as Roberts is diagnosed with a crippling disease -- on what should be the happiest day of her career.<br /><br /> So grab a cup of coffee, sit back, and discover the dark side of the sun.<br /><br /> Praise for <i>Top of the Morning</i><br /> \"Mr. Stelter pulls back the curtains and exposes a savage corporate world that might have been inhabited by the Sopranos.\" -- <i>Washington Times</i><br /><br /> \"A troubling look inside an enterprise as vicious and internecine as a soap opera.\" -- <i>Kirkus Reviews</i>",
+                "authors": {
+                    "author": {
+                        "id": 6457378,
+                        "name": "Brian Stelter",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6457378.Brian_Stelter",
+                        "average_rating": 3.39,
+                        "ratings_count": 1510,
+                        "text_reviews_count": 209
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21558723,
+                    "uri": "kca://work/amzn1.gr.work.v1.iSxdID9D2S9U_ANxEmcvJA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 59265773
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 19 22:00:53 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Aug 01 00:00:00 -0700 2013",
+            "date_added": "Wed Jun 19 22:00:53 -0700 2013",
+            "date_updated": "Wed Jan 22 13:24:59 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/646244897",
+            "link": "https://www.goodreads.com/review/show/646244897",
+            "owned": 0
+        }
+    }
+}

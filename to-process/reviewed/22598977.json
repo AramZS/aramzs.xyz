@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749131093,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22598977
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 21
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Zc7FgZ-zjXvTDe4Ej17W5w",
+                "title": "The Golem of Hollywood (A Detective Jacob Lev Novel)",
+                "title_without_series": "The Golem of Hollywood",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22598977-the-golem-of-hollywood",
+                "num_pages": 552,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.28,
+                "ratings_count": 3868,
+                "description": "<b>From Jonathan Kellerman, the #1 <i>New York Times</i> bestselling author and master of psychological suspense, and Jesse Kellerman, the international #1 bestselling author of <i>The Genius</i>, comes one of the most remarkable novels of the year.</b><br />  <br /> A burned-out L.A. detective . . . a woman of mystery who is far more than she seems . . . a grotesque, ancient monster bent on a mission of retribution. When these three collide, a new standard of suspense is born.<br /><br /> The legend of the Golem of Prague has endured through the ages, a creature fashioned by a sixteenth-century rabbi to protect his congregation, now lying dormant in the garret of a synagogue. But the Golem is dormant no longer.<br /><br /> Detective Jacob Lev wakes one morning, dazed and confused: He seems to have picked up a beautiful woman in a bar the night before, but he can’t remember anything about the encounter, and before he knows it, she has gone. But this mystery pales in comparison to the one he’s about to be called on to solve. Newly reassigned to a Special Projects squad he didn’t even know existed, he’s sent to a murder scene far up in the hills of Hollywood Division. There is no body, only an unidentified head lying on the floor of a house. Seared into a kitchen counter nearby is a single word: the Hebrew for <i>justice</i>.<br /><br /> Detective Lev is about to embark on an odyssey—through Los Angeles, through many parts of the United States, through London and Prague, but most of all, through himself. All that he has believed to be true will be upended—and not only his world, but the world itself, will be changed.",
+                "authors": {
+                    "author": {
+                        "id": 43626,
+                        "name": "Jonathan Kellerman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1320951950p5/43626.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1320951950p2/43626.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/43626.Jonathan_Kellerman",
+                        "average_rating": 3.88,
+                        "ratings_count": 482695,
+                        "text_reviews_count": 22808
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 25327308,
+                    "uri": "kca://work/amzn1.gr.work.v1.uj97xJ6KC2MR_jY_S0XDSw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498304848
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:44:23 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414467561,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:44:22 -0700 2016",
+            "date_updated": "Mon Sep 05 07:44:23 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749131093",
+            "link": "https://www.goodreads.com/review/show/1749131093",
+            "owned": 0
+        }
+    }
+}

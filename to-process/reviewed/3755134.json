@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 29505683,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3755134
+                },
+                "isbn": "193486109X",
+                "isbn13": 9781934861097,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.AKlU31ow9YQpa9gtBccUZw",
+                "title": "Brave Men Run: A Novel of the Sovereign Era",
+                "title_without_series": "Brave Men Run: A Novel of the Sovereign Era",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3755134-brave-men-run",
+                "num_pages": 240,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Swarm Press",
+                "publication_day": 1,
+                "publication_year": 2008,
+                "publication_month": 6,
+                "average_rating": 3.83,
+                "ratings_count": 796,
+                "description": "April 18, 1985-Into a world already wound tight with the desperate tensions of the Cold War comes Dr. William Donner with a startling declaration: superhumans exist, they demand autonomy, and he has the reality-bending power to enforce their status. The traditional balance of power is thrown askew by the addition of not one super-powered human, but six thousand. Before the Donner Declaration, high school sophomore Nate Charters was just an outsider and self-proclaimed freak. His unusual appearance, hair-trigger reflexes, and overactive metabolism should have made him something special, but his differences and low self-esteem have long since marked him as a target for the jocks and popular kids. Now, just as his unique nature brings him the attention of a self-assured older girl, Nate must find his place in the world. Why is he the way he is? What really happened to his long dead father? Why is his biggest rival suddenly interested in a private meeting? Is he part of a remarkable, powerful new minority... or just a misfit among misfits? Nate must discover the answers to these questions quickly, because those in power know more about him than he could ever imagine. And they're closing in...",
+                "authors": {
+                    "author": {
+                        "id": 703538,
+                        "name": "Matthew Wayne Selznick",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1506096385p5/703538.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1506096385p2/703538.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/703538.Matthew_Wayne_Selznick",
+                        "average_rating": 3.84,
+                        "ratings_count": 1043,
+                        "text_reviews_count": 82
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 1497424,
+                    "uri": "kca://work/amzn1.gr.work.v1.FhzQOWWzvwDb2bSQyY3CSA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 12829133,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Aug 07 07:18:04 -0700 2008",
+            "date_updated": "Thu Aug 07 07:19:01 -0700 2008",
+            "read_count": 1,
+            "body": "An excellent novel. I really loved Brave Men Run.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/29505683",
+            "link": "https://www.goodreads.com/review/show/29505683",
+            "owned": 0
+        }
+    }
+}

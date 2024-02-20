@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 162066875,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12016
+                },
+                "isbn": 743421922,
+                "isbn13": 9780743421928,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 453
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.JfqkRss7qxmtFCK3RBtZ8g",
+                "title": "Look to Windward (Culture, #7)",
+                "title_without_series": "Look to Windward",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930978l/12016._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930978l/12016._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12016.Look_to_Windward",
+                "num_pages": 496,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books/Simon & Schuster (NY)",
+                "publication_day": 1,
+                "publication_year": 2002,
+                "publication_month": 11,
+                "average_rating": 4.2,
+                "ratings_count": 21222,
+                "description": "The Twin Novae battle had been one of the last of the Idiran war, one of the most horrific. Desperate to avert defeat, the Idirans had induced not one but two suns to explode, snuffing out worlds &amp; biospheres teeming with sentient life. They were attacks of incredible proportion - gigadeathcrimes. But the war ended and life went on. Now, 800 years later, light from the 1st explosion is about to reach the Masaq' Orbital, home to the Culture's most adventurous &amp; decadent souls. There it will fall upon Masaq's 50 billion inhabitants, gathered to commemorate the deaths of the innocent &amp; to reflect, if only for a moment, on what some call the Culture's own complicity in the terrible event.<br /><br />Also journeying to Masaq' is Major Quilan, an emissary from the war-ravaged world of Chel. In the aftermath of the conflict that split his world apart, most believe he has come to Masaq' to bring home Chel's most brilliant star &amp; self-exiled dissident, the honored Composer Ziller. Ziller claims he will do anything to avoid a meeting with Quilan, who he suspects has come to murder him. But the Major's true assignment will have far greater consequences than the death of a mere political dissident, as part of a conspiracy more ambitious than even he can know--a mission his superiors have buried so deeply in his mind that even he can't remember it.<br /> <br /> Hailed by SFX magazine as \"an excellent hopping-on point if you've never read a Banks SF novel before,\" <i>Look to Windward</i> is an awe-inspiring immersion into the wildly original, vividly realized civilization Banks calls the Culture.",
+                "authors": {
+                    "author": {
+                        "id": 5807106,
+                        "name": "Iain M. Banks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p5/5807106.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p2/5807106.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks",
+                        "average_rating": 4.08,
+                        "ratings_count": 349700,
+                        "text_reviews_count": 15763
+                    }
+                },
+                "published": 2002,
+                "work": {
+                    "id": 124371,
+                    "uri": "kca://work/amzn1.gr.work.v1.0172ngbblzricrrAJDgOgQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Apr 19 06:35:00 -0700 2011",
+            "date_updated": "Tue Apr 19 06:35:05 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/162066875",
+            "link": "https://www.goodreads.com/review/show/162066875",
+            "owned": 0
+        }
+    }
+}

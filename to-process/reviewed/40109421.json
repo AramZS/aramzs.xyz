@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3032237673,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 40109421
+                },
+                "isbn": 1324002646,
+                "isbn13": 9781324002642,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2284
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.7VH-NgUgDN_r8UCS3wRuSg",
+                "title": "The Fifth Risk",
+                "title_without_series": "The Fifth Risk",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532557451l/40109421._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532557451l/40109421._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/40109421-the-fifth-risk",
+                "num_pages": 219,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "W. W. Norton  Company",
+                "publication_day": 2,
+                "publication_year": 2018,
+                "publication_month": 10,
+                "average_rating": 4.07,
+                "ratings_count": 29446,
+                "description": "What are the consequences if the people given control over our government have no idea how it works?<br /><br />\"The election happened,\" remembers Elizabeth Sherwood-Randall, then deputy secretary of the Department of Energy. \"And then there was radio silence.\" Across all departments, similar stories were playing out: Trump appointees were few and far between; those that did show up were shockingly uninformed about the functions of their new workplace. Some even threw away the briefing books that had been prepared for them.<br /><br />Michael Lewis’s brilliant narrative takes us into the engine rooms of a government under attack by its own leaders. In Agriculture the funding of vital programs like food stamps and school lunches is being slashed. The Commerce Department may not have enough staff to conduct the 2020 Census properly. Over at Energy, where international nuclear risk is managed, it’s not clear there will be enough inspectors to track and locate black market uranium before terrorists do.<br /><br />Willful ignorance plays a role in these looming disasters. If your ambition is to maximize short-term gains without regard to the long-term cost, you are better off not knowing those costs. If you want to preserve your personal immunity to the hard problems, it’s better never to really understand those problems. There is upside to ignorance, and downside to knowledge. Knowledge makes life messier. It makes it a bit more difficult for a person who wishes to shrink the world to a worldview.<br /><br />If there are dangerous fools in this book, there are also heroes, unsung, of course. They are the linchpins of the system—those public servants whose knowledge, dedication, and proactivity keep the machinery running. Michael Lewis finds them, and he asks them what keeps them up at night.",
+                "authors": {
+                    "author": {
+                        "id": 776,
+                        "name": "Michael   Lewis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1317447168p5/776.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1317447168p2/776.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/776.Michael_Lewis",
+                        "average_rating": 4.15,
+                        "ratings_count": 582390,
+                        "text_reviews_count": 32772
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 62158447,
+                    "uri": "kca://work/amzn1.gr.work.v1.ojMG4OYyKrzqh8UH4FetnQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3200243213
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Oct 31 19:11:09 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Oct 31 19:11:09 -0700 2019",
+            "date_updated": "Thu Oct 31 19:11:17 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3032237673",
+            "link": "https://www.goodreads.com/review/show/3032237673",
+            "owned": 0
+        }
+    }
+}

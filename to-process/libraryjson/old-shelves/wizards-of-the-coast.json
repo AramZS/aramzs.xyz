@@ -1,0 +1,96 @@
+{
+    "name": "Wizards of the Coast",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Player's Handbook 3: A 4th Edition D&D Core Rulebook",
+            "id": "6748577",
+            "author": "Mike Mearls, Rob Heinsoo, Robert J. Schwalb",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146381000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6748577",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Wizards of the Coast",
+            "tags": [
+                "Hardcover",
+                "Wizards of the Coast",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "078695390X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780786953905",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6748577",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Dungeons & Dragons Player's Handbook 2: A 4th Edition D&D Core Rulebook",
+            "id": "3776087",
+            "author": "Jeremy Crawford, Mike Mearls, James Wyatt, Matt Sernett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146378000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3776087",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Wizards of the Coast",
+            "tags": [
+                "Hardcover",
+                "Wizards of the Coast",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0786950161",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780786950164",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "3776087",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

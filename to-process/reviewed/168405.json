@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789420464,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 168405
+                },
+                "isbn": 785125396,
+                "isbn13": 9780785125396,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 67
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.piFuP6_-z2LecAIMuOZsRQ",
+                "title": "Runaways Deluxe, Vol. 3",
+                "title_without_series": "Runaways Deluxe, Vol. 3",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/168405.Runaways_Deluxe_Vol_3",
+                "num_pages": 296,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 30,
+                "publication_year": 2007,
+                "publication_month": 5,
+                "average_rating": 4.26,
+                "ratings_count": 2319,
+                "description": "This deluxe hardcover collects Runaways Volume 6: Parental Guidance and Runaways Volume 7: Live Fast, plus extras. In Parental Guidance, the secret super-villain society is back, but this all-new group isn't made up of the Runaways' evil parents. Who are these shadowy players, and what do they want with the Marvel Universe's next generation of heroes? Plus: When the youngest member of the Runaways is separated from her teammates, Molly Hayes must survive a night alone on the mean streets of Los Angeles The 11-year-old mutant girl soon hooks up with a new group of runaways, but is their mysterious leader a hero or a villain? And in Live Fast, the Runaways say good-bye to the past, and make hard decisions about their future. Plus: Still reeling from the events of Young Avengers/Runaways, the teenage heroes must now confront a horrific enemy who threatens to tear the team apart. Collects Runaways (Vol.2) #13-24.",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 10219524,
+                    "uri": "kca://work/amzn1.gr.work.v1.P129ObgSTtg4OV1OrPjnTA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240471794
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:55:59 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813199848,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:55:59 -0800 2013",
+            "date_updated": "Mon Oct 23 16:37:55 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789420464",
+            "link": "https://www.goodreads.com/review/show/789420464",
+            "owned": 0
+        }
+    }
+}

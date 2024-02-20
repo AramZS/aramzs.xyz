@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749135495,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 29414640
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 832
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZApSWpXH4pyjUBmDVLHGGw",
+                "title": "Goldenhand (Abhorsen, #5)",
+                "title_without_series": "Goldenhand",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464522152l/29414640._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464522152l/29414640._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/29414640-goldenhand",
+                "num_pages": 368,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "HarperCollins",
+                "publication_day": 11,
+                "publication_year": 2016,
+                "publication_month": 10,
+                "average_rating": 4.08,
+                "ratings_count": 11263,
+                "description": "Lirael knows the blood that runs in her veins and her true powers. She also knows that Chlorr of the Mask has been conspiring with the clans of the steppe, from a message she’s received from her long-dead mother, Arielle. <br /><br />But no one else believes that nomads can be a real threat. Accompanied by Nicholas Sayre and a young mountain nomad, Lirael goes on a dangerous journey across the steppe and into the mountains to see for herself. There Lirael discovers the future Arielle saw long ago that is now coming to pass: Chlorr has gathered the clans to attack the unsuspecting Old Kingdom. <br /><br />The only way Lirael and her companions can stop the attack is to find Chlorr’s original, better human self—Clariel. Only, Clariel has been asleep for centuries beyond the Great Rift. Lirael must reach her—and help her go beyond the Ninth Gate to die the final Death—before it is too late.",
+                "authors": {
+                    "author": {
+                        "id": 8347,
+                        "name": "Garth Nix",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p5/8347.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p2/8347.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8347.Garth_Nix",
+                        "average_rating": 4.05,
+                        "ratings_count": 769163,
+                        "text_reviews_count": 38472
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 42858213,
+                    "uri": "kca://work/amzn1.gr.work.v1.iQFbm_P0w0k1r_JnPbG9JA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498310435
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:49:31 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414471588,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:49:30 -0700 2016",
+            "date_updated": "Thu Dec 28 07:23:50 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749135495",
+            "link": "https://www.goodreads.com/review/show/1749135495",
+            "owned": 0
+        }
+    }
+}

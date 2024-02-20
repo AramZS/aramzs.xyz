@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960341078,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18800541
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 12
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.BCLg0mXGMKzhg0xO2kxBYA",
+                "title": "Interrupt",
+                "title_without_series": "Interrupt",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18800541-interrupt",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.32,
+                "ratings_count": 916,
+                "description": "In the distant past, the leader of a Neanderthal tribe confronts the end of his kind. <p>Today, a computational biologist, a Navy pilot, and an autistic boy are drawn together by the ancient mystery that gave rise to <i>Homo sapiens</i>.</p><p>Planes are falling from the sky. Global communications have ceased. America stands on the brink of war with China—but war is the least of humankind’s concerns. As solar storms destroy Earth’s electronics and plunge the world into another Ice Age, our civilization finds itself overrun by a powerful new species of man... </p><p>This brilliant thriller takes readers to an all-too-plausible tomorrow that’s as scientifically rigorous as it is wildly imaginative. </p><p>Jeff Carlson is the internationally bestselling author of <i>Plague Year</i> and <i>The Frozen Sky</i>. With <i>Interrupt</i>, he brings his forward-thinking fiction to a contemporary setting with this edge-of-your-seat thriller.</p>",
+                "authors": {
+                    "author": {
+                        "id": 1840202,
+                        "name": "Jeff  Carlson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1224390661p5/1840202.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1224390661p2/1840202.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1840202.Jeff_Carlson",
+                        "average_rating": 3.52,
+                        "ratings_count": 8754,
+                        "text_reviews_count": 712
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 25028257,
+                    "uri": "kca://work/amzn1.gr.work.v1.l6iDshpRVjLkdkUJ1fvgcA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452281165
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:05:49 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710709775,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:05:49 -0700 2014",
+            "date_updated": "Tue Nov 11 11:56:11 -0800 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960341078",
+            "link": "https://www.goodreads.com/review/show/960341078",
+            "owned": 0
+        }
+    }
+}

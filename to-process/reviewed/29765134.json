@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749128413,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 29765134
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 311
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ikga90OoPjWKs9pu4GG5pg",
+                "title": "The Temporary Agent (The Agent #1)",
+                "title_without_series": "The Temporary Agent",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459658225l/29765134._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459658225l/29765134._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/29765134-the-temporary-agent",
+                "num_pages": 402,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Thomas & Mercer",
+                "publication_day": 1,
+                "publication_year": 2016,
+                "publication_month": 7,
+                "average_rating": 3.92,
+                "ratings_count": 8846,
+                "description": "Scarred by war, former Navy Seabee Tom Sexton vows to leave his violent past behind, only to be drawn back into that life when a deadly conspiracy forces him to face an agonizing choice no man should ever have to make.<br /><br />Five years after his life was saved in Afghanistan by Marine Force Recon Leader Charlie Cahill, Tom lives a bleak, nomadic existence, haunted by the debt he can never repay. Salvation appears in Stella—a woman as damaged, and resourceful, as he. But when a coded distress call from his former CO leads him to a shadowy NSA operative, Tom is recruited for a “black op” to bring back the now-rogue man who saved his life.<br /><br />As he searches for Cahill, Tom quickly uncovers a much larger web of treason and betrayal that calls his entire world into question—and forces him into the ultimate no-win scenario.",
+                "authors": {
+                    "author": {
+                        "id": 62085,
+                        "name": "Daniel Judson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1392918302p5/62085.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1392918302p2/62085.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/62085.Daniel_Judson",
+                        "average_rating": 3.97,
+                        "ratings_count": 18477,
+                        "text_reviews_count": 991
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 48093767,
+                    "uri": "kca://work/amzn1.gr.work.v1.YovC0NqmqVBgVDAj2TvXUA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498301334
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:41:22 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414464948,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:41:21 -0700 2016",
+            "date_updated": "Mon Sep 05 07:41:21 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749128413",
+            "link": "https://www.goodreads.com/review/show/1749128413",
+            "owned": 0
+        }
+    }
+}

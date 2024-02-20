@@ -1,0 +1,207 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960341835,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 5788267
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 46
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.MIECj1SXP-noJvTLYgKQFQ",
+                "title": "Quicksilver (The Baroque Cycle, #1)",
+                "title_without_series": "Quicksilver",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384349543l/5788267._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384349543l/5788267._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/5788267-quicksilver",
+                "num_pages": 960,
+                "format": {},
+                "edition_information": {},
+                "publisher": "HarperCollins",
+                "publication_day": 13,
+                "publication_year": 2009,
+                "publication_month": 10,
+                "average_rating": 3.93,
+                "ratings_count": 35051,
+                "description": "<i>Quicksilver</i> is the story of Daniel Waterhouse, fearless thinker and conflicted Puritan, pursuing knowledge in the company of the greatest minds of Baroque-era Europe, in a chaotic world where reason wars with the bloody ambitions of the mighty, and where catastrophe, natural or otherwise, can alter the political landscape overnight.<br /><br />It is a chronicle of the breathtaking exploits of \"Half-Cocked Jack\" Shaftoe -- London street urchin turned swashbuckling adventurer and legendary King of the Vagabonds -- risking life and limb for fortune and love while slowly maddening from the pox.<br /><br />And it is the tale of Eliza, rescued by Jack from a Turkish harem to become spy, confidante, and pawn of royals in order to reinvent Europe through the newborn power of finance.<br /><br />A gloriously rich, entertaining, and endlessly inventive novel that brings a remarkable age and its momentous events to vivid life, <i>Quicksilver</i> is an extraordinary achievement from one of the most original and important literary talents of our time.<br /><br />And it's just the beginning...",
+                "authors": {
+                    "author": {
+                        "id": 545,
+                        "name": "Neal Stephenson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430920344p5/545.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430920344p2/545.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/545.Neal_Stephenson",
+                        "average_rating": 4.05,
+                        "ratings_count": 785177,
+                        "text_reviews_count": 49927
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 1610031,
+                    "uri": "kca://work/amzn1.gr.work.v1.mZrXVRwN26CMyqubo8ID9A"
+                }
+            },
+            "user_statuses": {
+                "user_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 221000060
+                    },
+                    "page": {
+                        "type": "integer"
+                    },
+                    "chapter": {
+                        "type": "integer"
+                    },
+                    "comments_count": 0,
+                    "created_at": {
+                        "type": "datetime",
+                        "$t": "Sat Apr 27 07:01:11 -0700 2019"
+                    },
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Apr 27 07:01:11 -0700 2019"
+                    },
+                    "last_comment_at": {
+                        "type": "datetime"
+                    },
+                    "ratings_count": {
+                        "type": "integer",
+                        "$t": 0
+                    },
+                    "percent": {
+                        "type": "integer",
+                        "$t": 15
+                    },
+                    "work_id": {
+                        "type": "integer",
+                        "$t": 1610031
+                    },
+                    "note_uri": {},
+                    "note_updated_at": {
+                        "type": "datetime"
+                    },
+                    "body": {}
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2892301684
+                        },
+                        "old_status": "currently-reading",
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 27 07:00:53 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2892297626
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 27 06:57:03 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2892297611
+                        },
+                        "old_status": "currently-reading",
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 27 06:57:03 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 452282091
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Jun 07 06:07:08 -0700 2014"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2446726305,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Jun 07 06:07:08 -0700 2014",
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:07:08 -0700 2014",
+            "date_updated": "Sat Apr 27 07:00:53 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960341835",
+            "link": "https://www.goodreads.com/review/show/960341835",
+            "owned": 0
+        }
+    }
+}

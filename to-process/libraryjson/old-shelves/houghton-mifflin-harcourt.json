@@ -1,0 +1,194 @@
+{
+    "name": "Houghton Mifflin Harcourt",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Myth of the Nice Girl: Achieving a Career You Love Without Becoming a Person You Hate",
+            "id": "35721133",
+            "author": "Fran Hauser",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961829000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/35721133",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Houghton Mifflin Harcourt",
+            "tags": [
+                "Hardcover",
+                "Houghton Mifflin Harcourt",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1328832953",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781328832955",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "35721133",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Rosemary: The Hidden Kennedy Daughter",
+            "id": "23719479",
+            "author": "Kate Clifford Larson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1444164399000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/23719479",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Houghton Mifflin Harcourt",
+            "tags": [
+                "Hardcover",
+                "Houghton Mifflin Harcourt",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0547250258",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780547250250",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "23719479",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Exit Ghost",
+            "id": "703163",
+            "author": "Philip Roth",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213669164000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Exit Ghost: Rating - 4/5",
+                    "date": 1213669164000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/703163",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Houghton Mifflin Harcourt",
+            "tags": [
+                "Hardcover",
+                "Houghton Mifflin Harcourt",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0618915478",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780618915477",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "703163",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Exit Ghost",
+            "id": 703163,
+            "author": "Philip Roth",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/703163",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Houghton Mifflin Harcourt",
+            "tags": [
+                "Hardcover",
+                "Houghton Mifflin Harcourt",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 703163,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

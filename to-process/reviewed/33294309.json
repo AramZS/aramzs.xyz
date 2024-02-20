@@ -1,0 +1,136 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1972232788,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 33294309
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qshTA_lA4Nt-kgcX575bAg",
+                "title": "Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization",
+                "title_without_series": "Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/33294309-production-ready-microservices",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.75,
+                "ratings_count": 314,
+                "description": "One of the biggest challenges for organizations that have adopted microservice architecture is the lack of architectural, operational, and organizational standardization. After splitting a monolithic application or building a microservice ecosystem from scratch, many engineers are left wondering what's next. In this practical book, author Susan Fowler presents a set of microservice standards in depth, drawing from her experience standardizing over a thousand microservices at Uber. You'll learn how to design microservices that are stable, reliable, scalable, fault tolerant, performant, monitored, documented, and prepared for any catastrophe.<br /><br />Explore production-readiness standards, including:<br /><br /><br /><br /><b>Stability and Reliability: </b> develop, deploy, introduce, and deprecate microservices; protect against dependency failures<br /><br /><b>Scalability and Performance: </b> learn essential components for achieving greater microservice efficiency<br /><br /><b>Fault Tolerance and Catastrophe Preparedness: </b> ensure availability by actively pushing microservices to fail in real time<br /><br /><b>Monitoring: </b> learn how to monitor, log, and display key metrics; establish alerting and on-call procedures<br /><br /><b>Documentation and Understanding: </b> mitigate tradeoffs that come with microservice adoption, including organizational sprawl and technical debt",
+                "authors": {
+                    "author": {
+                        "id": 4157033,
+                        "name": "Susan J. Fowler",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4157033.Susan_J_Fowler",
+                        "average_rating": 3.71,
+                        "ratings_count": 353,
+                        "text_reviews_count": 51
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 53971730,
+                    "uri": "kca://work/amzn1.gr.work.v1.yjdD3hx-zK6RNg61vsfEdQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151426
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:30 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151418
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:29 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1627403319,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Apr 15 07:14:29 -0700 2017",
+            "date_updated": "Sat Apr 15 07:14:29 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1972232788",
+            "link": "https://www.goodreads.com/review/show/1972232788",
+            "owned": 0
+        }
+    }
+}

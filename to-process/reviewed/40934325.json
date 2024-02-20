@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3156445240,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 40934325
+                },
+                "isbn": 1473222095,
+                "isbn13": 9781473222090,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 127
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qSiGsY_zjxlUnGTry41cHQ",
+                "title": "Crowfall (Raven's Mark, #3)",
+                "title_without_series": "Crowfall",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542900725l/40934325._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542900725l/40934325._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/40934325-crowfall",
+                "num_pages": 454,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.33,
+                "ratings_count": 1273,
+                "description": "Crowfall is a gritty epic fantasy for fans of Mark Lawrence, Scott Lynch and Daniel Polansky.<br /><br /><b>'Dark, twisty and excellent . . . Grimdark with heart' </b> Mark Lawrence<br /><br />A sorceress cataclysm has hit the Range, the final defensive line between the Republic and the immortal Deep Kings.<br /><br />Tormenting red rains sweep the land, new monstrosities feed on fear in the darkness, and the power of the Nameless, the gods who protect the Republic, lies broken. The Blackwing captains who serve them are being picked off one by one, and even immortals have learned what it means to die. Meanwhile the Deep Kings have only grown stronger, and are poised to deliver a blow that will finally end the war.<br /><br />Ryhalt Galharrow stands apart from it all.<br /><br />He has been deeper into the wasteland known as the Misery than ever before. It has grown within him - changed him - but all power comes with a price, and now the ghosts of his past, formerly confined to the Misery, walk with him everywhere.<br /><br />They will even follow him, and the few surviving Blackwing captains, on one final mission into the darkness.",
+                "authors": {
+                    "author": {
+                        "id": 5796286,
+                        "name": "Ed McDonald",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1485372362p5/5796286.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1485372362p2/5796286.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5796286.Ed_McDonald",
+                        "average_rating": 4.2,
+                        "ratings_count": 7524,
+                        "text_reviews_count": 1255
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 63820995,
+                    "uri": "kca://work/amzn1.gr.work.v1.pnKzKkz-MX3Jile538p4qQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3362021305
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Jan 23 03:46:40 -0800 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2799319136,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jan 23 03:46:40 -0800 2020",
+            "date_updated": "Thu Jan 23 03:46:40 -0800 2020",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3156445240",
+            "link": "https://www.goodreads.com/review/show/3156445240",
+            "owned": 0
+        }
+    }
+}

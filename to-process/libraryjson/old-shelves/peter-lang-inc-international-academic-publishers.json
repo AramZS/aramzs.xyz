@@ -1,0 +1,104 @@
+{
+    "name": "Peter Lang Inc., International Academic Publishers",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Montaigne's Essais",
+            "id": "1042981",
+            "author": "Wendell John Coats Jr.",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360253282000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Montaigne's Essais: Rating - 5/5",
+                    "date": 1360253282000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1042981",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Peter Lang Inc., International Academic Publishers",
+            "tags": [
+                "Paperback",
+                "Peter Lang Inc., International Academic Publishers",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0820463167",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780820463162",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "1042981",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Montaigne's Essais",
+            "id": 1042981,
+            "author": "Wendell John Coats Jr.",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1042981",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Peter Lang Inc., International Academic Publishers",
+            "tags": [
+                "Paperback",
+                "Peter Lang Inc., International Academic Publishers",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 1042981,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

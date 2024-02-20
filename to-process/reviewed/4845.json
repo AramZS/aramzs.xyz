@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299928222,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4845
+                },
+                "isbn": 735619670,
+                "isbn13": 9780735619678,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 331
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.LhCsn52IKQiMXKXJTrp_WA",
+                "title": "Code Complete",
+                "title_without_series": "Code Complete",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396837641l/4845._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396837641l/4845._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4845.Code_Complete",
+                "num_pages": 914,
+                "format": "Paperback",
+                "edition_information": "2nd Edition",
+                "publisher": "Microsoft Press",
+                "publication_day": 19,
+                "publication_year": 2004,
+                "publication_month": 6,
+                "average_rating": 4.29,
+                "ratings_count": 8198,
+                "description": "Widely considered one of the best practical guides to programming, Steve McConnell's original CODE COMPLETE has been helping developers write better software for more than a decade. Now this classic book has been fully updated and revised with leading-edge practices--and hundreds of new code samples--illustrating the art and science of software construction. Capturing the body of knowledge available from research, academia, and everyday commercial practice, McConnell synthesizes the most effective techniques and must-know principles into clear, pragmatic guidance. No matter what your experience level, development environment, or project size, this book will inform and stimulate your thinking--and help you build the highest quality code. <br /> Discover the timeless techniques and strategies that help you: <br /><br /><br />Design for minimum complexity and maximum creativity<br />Reap the benefits of collaborative development<br />Apply defensive programming techniques to reduce and flush out errors<br />Exploit opportunities to refactor--or evolve--code, and do it safely<br />Use construction practices that are right-weight for your project<br />Debug problems quickly and effectively<br />Resolve critical construction issues early and correctly<br />Build quality into the beginning, middle, and end of your project",
+                "authors": {
+                    "author": {
+                        "id": 3307,
+                        "name": "Steve McConnell",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3307.Steve_McConnell",
+                        "average_rating": 4.21,
+                        "ratings_count": 11138,
+                        "text_reviews_count": 504
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 8419,
+                    "uri": "kca://work/amzn1.gr.work.v1.90BU9sqVi7QGKUhwbRwrQw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886427735
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 14:31:46 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1002385374,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 14:31:46 -0700 2015",
+            "date_updated": "Fri Jun 05 14:31:46 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299928222",
+            "link": "https://www.goodreads.com/review/show/1299928222",
+            "owned": 0
+        }
+    }
+}

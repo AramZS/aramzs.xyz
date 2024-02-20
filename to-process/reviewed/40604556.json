@@ -1,0 +1,149 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3067347973,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 40604556
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 699
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.onfp4bnH4ASoPYOc6THpMQ",
+                "title": "Red Seas Under Red Skies (Gentleman Bastard, #2)",
+                "title_without_series": "Red Seas Under Red Skies",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529603335l/40604556._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529603335l/40604556._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/40604556-red-seas-under-red-skies",
+                "num_pages": 578,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Del Rey",
+                "publication_day": {},
+                "publication_year": 2018,
+                "publication_month": 6,
+                "average_rating": 4.24,
+                "ratings_count": 106118,
+                "description": "<i><u>Librarian note:</u> An older cover for this edition can be found here: <a href=\"https://www.goodreads.com/book/edit/8176890-red-seas-under-red-skies\" rel=\"nofollow\">31-Jul-2007</a>.</i><br /><br />After a brutal battle with the underworld that nearly destroyed him, Locke Lamora and his trusted sidekick, Jean, fled the island city of their birth and landed on the exotic shores of Tal Verrar to nurse their wounds. But even at this westernmost edge of civilization, they can't rest for long---and they are soon back doing what they do best: stealing from the undeserving rich and pocketing the proceeds for themselves.<br /><br />This time, however, they have targeted the grandest prize of all: the Sinspire, the most exclusive and heavily guarded gambling house in the world. Its nine floors attract the wealthiest clientele - and to rise to the top, one must impress with good credit, amusing behavior...and excruciatingly impeccable play. For there is one cardinal rule, enforced by Requin, the house's cold-blooded master: it is death to cheat at any game at the Sinspire.Brazenly undeterred, Locke and Jean have orchestrated an elaborate plan to lie, trick, and swindle their way up the nine floors...straight to Requin's teeming vault. Under the cloak of false identities, they meticulously make their climb - until they are closer to the spoils than ever.<br /><br />But someone in Tal Verrar has uncovered the duo's secret. Someone from their past who has every intention of making the impudent criminals pay for their sins. Now it will take every ounce of cunning to save their mercenary souls. And even that may not be enough.",
+                "authors": {
+                    "author": {
+                        "id": 73149,
+                        "name": "Scott Lynch",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1332432746p5/73149.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1332432746p2/73149.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/73149.Scott_Lynch",
+                        "average_rating": 4.25,
+                        "ratings_count": 418639,
+                        "text_reviews_count": 27302
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 856785,
+                    "uri": "kca://work/amzn1.gr.work.v1.dtfSYnvH3KiI0U7RTo6iGw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3362014347
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Jan 23 03:39:11 -0800 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3246917182
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Nov 30 09:09:44 -0800 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3246910648
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Nov 30 09:04:50 -0800 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Nov 30 09:09:44 -0800 2019",
+            "read_at": "Thu Jan 23 03:39:10 -0800 2020",
+            "date_added": "Sat Nov 30 09:04:50 -0800 2019",
+            "date_updated": "Thu Jan 23 03:39:10 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3067347973",
+            "link": "https://www.goodreads.com/review/show/3067347973",
+            "owned": 0
+        }
+    }
+}

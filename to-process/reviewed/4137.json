@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 27210317,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4137
+                },
+                "isbn": 349113912,
+                "isbn13": 9780349113913,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 14634
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Utl4AgC2BwRvy6xSkTETvg",
+                "title": "Me Talk Pretty One Day",
+                "title_without_series": "Me Talk Pretty One Day",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431013639l/4137._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431013639l/4137._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4137.Me_Talk_Pretty_One_Day",
+                "num_pages": 272,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Little, Brown and Company",
+                "publication_day": {},
+                "publication_year": 2001,
+                "publication_month": {},
+                "average_rating": 3.99,
+                "ratings_count": 602763,
+                "description": "David Sedaris' move to Paris from New York inspired these hilarious pieces, including the title essay, about his attempts to learn French from a sadistic teacher who declares that every day spent with you is like having a caesarean section. His family is another inspiration. You Can't Kill the Rooster is a portrait of his brother, who talks incessant hip-hop slang to his bewildered father. And no one hones a finer fury in response to such modern annoyances as restaurant meals presented in ludicrous towers of food and cashiers with six-inch fingernails.",
+                "authors": {
+                    "author": {
+                        "id": 2849,
+                        "name": "David Sedaris",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1213737698p5/2849.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1213737698p2/2849.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2849.David_Sedaris",
+                        "average_rating": 4,
+                        "ratings_count": 1752266,
+                        "text_reviews_count": 74804
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 1030767,
+                    "uri": "kca://work/amzn1.gr.work.v1.KGOpwRGfUQmeERtCpYgvXg"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jul 14 10:02:07 -0700 2008",
+            "date_updated": "Mon Mar 02 10:09:13 -0800 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/27210317",
+            "link": "https://www.goodreads.com/review/show/27210317",
+            "owned": 0
+        }
+    }
+}

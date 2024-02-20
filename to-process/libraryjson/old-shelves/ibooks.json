@@ -1,0 +1,51 @@
+{
+    "name": "iBooks",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "I, Robot: The Illustrated Screenplay",
+            "id": "138545",
+            "author": "Harlan Ellison, Isaac Asimov",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1352648884000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/138545",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "iBooks",
+            "tags": [
+                "Paperback",
+                "iBooks",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0743486595",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780743486590",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "138545",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

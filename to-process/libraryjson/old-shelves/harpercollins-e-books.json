@@ -1,0 +1,200 @@
+{
+    "name": "HarperCollins e-books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Going Postal (Discworld, #33)",
+            "id": "8257073",
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146369000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Going Postal (Discworld, #33): Rating - 5/5",
+                    "date": 1402146369000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8257073",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "HarperCollins e-books",
+            "tags": [
+                "Kindle Edition",
+                "HarperCollins e-books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "8257073",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Hogfather (Discworld, #20)",
+            "id": "6567835",
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146366000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Hogfather (Discworld, #20): Rating - 5/5",
+                    "date": 1402146366000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6567835",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "HarperCollins e-books",
+            "tags": [
+                "Kindle Edition",
+                "HarperCollins e-books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6567835",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Going Postal (Discworld, #33)",
+            "id": 8257073,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8257073",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "HarperCollins e-books",
+            "tags": [
+                "HarperCollins e-books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 8257073,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Hogfather (Discworld, #20)",
+            "id": 6567835,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6567835",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "HarperCollins e-books",
+            "tags": [
+                "HarperCollins e-books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 6567835,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

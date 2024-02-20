@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 462158317,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13490570
+                },
+                "isbn": 1613772270,
+                "isbn13": 9781613772270,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1308
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.r3JFjcybWcBf-xagv8VJJg",
+                "title": "Locke & Key, Vol. 5: Clockworks",
+                "title_without_series": "Locke & Key, Vol. 5: Clockworks",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343848792l/13490570._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343848792l/13490570._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13490570-locke-key-vol-5",
+                "num_pages": 160,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "IDW Publishing",
+                "publication_day": {},
+                "publication_year": 2013,
+                "publication_month": 7,
+                "average_rating": 4.48,
+                "ratings_count": 25872,
+                "description": "Locke &amp; Key tells of Keyhouse, an unlikely New England mansion, with fantastic doors that transform all who dare to walk through them.... and home to a hate-filled and relentless creature that will not rest until it forces open the most terrible door of them all...! After the gruesome murder of their father, the Locke kids, Tyler, Kinsey and Bode move with their mother Nina to the ancestral family home, Keyhouse. They soon discover that the house is full of secrets when they start finding magical keys which hold impossible powers such as turning people into ghosts, or being able to erase someone's memories. They are not the only ones who know of the keys; a demonic creature known as Dodge is also after the keys, with the goal of opening the Black Door, which will allow the demons of hell to enter our world. The sprawling tale of the Locke family and their mastery of the 'whispering steel' thunders to new heights as the true history of the family is revealed to Tyler and Kinsey. Zack Wells assumes a new form, Tyler and Kinsey travel through time.<br /><br />Tyler and Kinsey Locke have no idea that their now-deceased nemesis, Lucas \"Dodge\" Caravaggio, has taken over the body of their younger brother, Bode. With unrestricted access to Keyhouse, Dodge's ruthless quest to find the Omega Key and open the Black Door is almost complete. But Tyler and Kinsey have a dangerous key of their own — one that can unlock all the secrets of Keyhouse by opening a gateway to the past. The time has come for the Lockes to face theri own legacy and the darkness behind the Black Door. Because if they don't learn from their family history, they may be doomed to repeat it, and time is running out!<br /><br />Colonel Adam Crais's minutemen are literally trapped between a rock and a hard place; in the first days of the Revolutionary War, they find themselves hiding beneath 120 feet of New England stone, with a full regiment of redcoats waiting for them in the daylight... and a door into hell in the cavern below. The black door is open, and it's up to a 16-year-old smith named Ben Locke to find a way to close it. The biggest mysteries of the Locke &amp; Key series are resolved as Clockworks opens, not with a bang, but with the thunderous crash of English cannons.<br /><br />Contents:<br />Clockworks [Locke &amp; Key • 5] / graphic format novella by Joe Hill; interior artwork by Gabriel Rodriguez and Jay Fotos<br /> 1 The Locksmith's Son<br /> 2 SMASH!<br /> 3 The Tamers of the Tempest<br /> 4 The Whispering Iron<br /> 5 Grown-Ups<br /> 6 Curtain<br />The Known Keys (Clockworks) [Locke &amp; Key • 5.5] [Excerpts from the Diary of Benjamin Pierce Locke, 1757-1799] / shortfiction by Joe Hill; interior artwork by Gabriel Rodriguez<br />...to be concluded in Locke &amp; Key: OMEGA<br /><br />Storytellers: Joe Hill, author, Gabriel Rodriguez, Illustrator. Series edited by Chris Ryall. Collection edited by Justin Eisinger.<br />.",
+                "authors": {
+                    "author": {
+                        "id": 88506,
+                        "name": "Joe Hill",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1569331514p5/88506.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1569331514p2/88506.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/88506.Joe_Hill",
+                        "average_rating": 4.04,
+                        "ratings_count": 724326,
+                        "text_reviews_count": 65573
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 19029792,
+                    "uri": "kca://work/amzn1.gr.work.v1.mb6ekouKceNV4MmHWTIVOQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051896360
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:47:57 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813207281,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Nov 23 19:30:54 -0800 2012",
+            "date_updated": "Mon Oct 23 16:47:57 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/462158317",
+            "link": "https://www.goodreads.com/review/show/462158317",
+            "owned": 0
+        }
+    }
+}

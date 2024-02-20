@@ -1,0 +1,149 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749135891,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23432528
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.1qC0-2LOxHUW93VcOBlFVQ",
+                "title": "To Hold the Bridge",
+                "title_without_series": "To Hold the Bridge",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414162156l/23432528._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414162156l/23432528._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23432528-to-hold-the-bridge",
+                "num_pages": 416,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "HarperCollins",
+                "publication_day": 9,
+                "publication_year": 2015,
+                "publication_month": 6,
+                "average_rating": 3.82,
+                "ratings_count": 2718,
+                "description": "<b>A short story collection, including an Old Kingdom novella, from New York Times bestselling author Garth Nix!</b><br /><br />Far to the north of the magical Old Kingdom, the Greenwash Bridge Company has been building a bridge for almost a hundred years. It is not an easy task, for many dangers threaten the bridge builders, from nomad raiders to Free Magic sorcerers. Despite the danger, Morghan wants nothing more than to join the Bridge Company as a cadet. But the company takes only the best, the most skillful Charter mages, and trains them hard, for the night might come when only a single young cadet must hold the bridge against many foes. Will Morghan be that cadet?<br /><br />Also included in this remarkable collection are eighteen short stories that showcase Nix’s versatility as he adds a fantastical twist on an array of genres including science fiction, paranormal, realistic fiction, mystery, and adventure.",
+                "authors": {
+                    "author": {
+                        "id": 8347,
+                        "name": "Garth Nix",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p5/8347.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p2/8347.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8347.Garth_Nix",
+                        "average_rating": 4.05,
+                        "ratings_count": 769163,
+                        "text_reviews_count": 38472
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 42756234,
+                    "uri": "kca://work/amzn1.gr.work.v1.eUNr7OIsfls4p5ehQa4jmA"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1794272486
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Apr 10 10:58:01 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1794272465
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Apr 10 10:58:00 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1498310953
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Sep 05 07:49:56 -0700 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Apr 10 10:58:01 -0700 2017",
+            "date_added": "Mon Sep 05 07:49:55 -0700 2016",
+            "date_updated": "Mon Apr 10 10:57:59 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749135891",
+            "link": "https://www.goodreads.com/review/show/1749135891",
+            "owned": 0
+        }
+    }
+}

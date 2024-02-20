@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065301867,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 42036538
+                },
+                "isbn": 1250313198,
+                "isbn13": 9781250313195,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3471
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Z5TDooB5CEcvi3VeJN7rUA",
+                "title": "Gideon the Ninth (The Locked Tomb, #1)",
+                "title_without_series": "Gideon the Ninth",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546870952l/42036538._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546870952l/42036538._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/42036538-gideon-the-ninth",
+                "num_pages": 448,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor",
+                "publication_day": 10,
+                "publication_year": 2019,
+                "publication_month": 9,
+                "average_rating": 4.24,
+                "ratings_count": 17183,
+                "description": "<i>Gideon the Ninth </i>is the most fun you'll ever have with a skeleton.<br /><br />The Emperor needs necromancers.<br /><br />The Ninth Necromancer needs a swordswoman.<br /><br />Gideon has a sword, some dirty magazines, and no more time for undead bullshit.<br /><br />Tamsyn Muir's <i>Gideon the Ninth</i> unveils a solar system of swordplay, cut-throat politics, and lesbian necromancers. Her characters leap off the page, as skillfully animated as necromantic skeletons. The result is a heart-pounding epic science fantasy.<br /><br />Brought up by unfriendly, ossifying nuns, ancient retainers, and countless skeletons, Gideon is ready to abandon a life of servitude and an afterlife as a reanimated corpse. She packs up her sword, her shoes, and her dirty magazines, and prepares to launch her daring escape. But her childhood nemesis won't set her free without a service.<br /><br />Harrowhark Nonagesimus, Reverend Daughter of the Ninth House and bone witch extraordinaire, has been summoned into action. The Emperor has invited the heirs to each of his loyal Houses to a deadly trial of wits and skill. If Harrowhark succeeds she will become an immortal, all-powerful servant of the Resurrection, but no necromancer can ascend without their cavalier. Without Gideon's sword, Harrow will fail, and the Ninth House will die.<br /><br />Of course, some things are better left dead.",
+                "authors": {
+                    "author": {
+                        "id": 6876324,
+                        "name": "Tamsyn Muir",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1543423040p5/6876324.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1543423040p2/6876324.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6876324.Tamsyn_Muir",
+                        "average_rating": 4.21,
+                        "ratings_count": 18941,
+                        "text_reviews_count": 4389
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 60943229,
+                    "uri": "kca://work/amzn1.gr.work.v1.Xaxb5Ar8gZI7g782IOlWeQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244214213
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:15:25 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712835846,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:15:25 -0800 2019",
+            "date_updated": "Thu Nov 28 09:15:25 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065301867",
+            "link": "https://www.goodreads.com/review/show/3065301867",
+            "owned": 0
+        }
+    }
+}

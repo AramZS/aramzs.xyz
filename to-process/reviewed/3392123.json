@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528960034,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3392123
+                },
+                "isbn": 1401219136,
+                "isbn13": 9781401219130,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 522
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ICYnMfhPjDUmTyeaBSdhIw",
+                "title": "Fables, Vol. 11: War and Pieces",
+                "title_without_series": "Fables, Vol. 11: War and Pieces",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375393981l/3392123._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375393981l/3392123._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3392123-fables-vol-11",
+                "num_pages": 192,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 25,
+                "publication_year": 2008,
+                "publication_month": 11,
+                "average_rating": 4.25,
+                "ratings_count": 13483,
+                "description": "The final battle between the free Fables of the mundane world and the Empire occupying their former Homelands is about to begin, and the scrappy storybook heroes have already managed to even the odds considerably. With his previously unstoppable wooden soldiers neutralized, the Adversary is about to get his first taste of high technology in the form of steel-jacketed bullets and laser-guided bombs. But the ruler who conquered a hundred different worlds didn’t do it by fighting clean—and he’s still got a surprise or two left to spring on the residents of Fabletown.<br /><br /><b>Collecting</b>: <i>Fables</i> 70-75",
+                "authors": {
+                    "author": {
+                        "id": 12444,
+                        "name": "Bill Willingham",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p5/12444.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p2/12444.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12444.Bill_Willingham",
+                        "average_rating": 4.04,
+                        "ratings_count": 583176,
+                        "text_reviews_count": 25138
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 3431993,
+                    "uri": "kca://work/amzn1.gr.work.v1.MUyWg4_kAzqv-Y7GuZ70MA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051891942
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:43:42 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813203926,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:20:51 -0800 2013",
+            "date_updated": "Mon Oct 23 16:43:42 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528960034",
+            "link": "https://www.goodreads.com/review/show/528960034",
+            "owned": 0
+        }
+    }
+}

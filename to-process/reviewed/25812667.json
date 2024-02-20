@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1991497887,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25812667
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 626
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.A2ZGKbht5Pnc1svzKcDk6A",
+                "title": "Written in Fire (Brilliance Saga, #3)",
+                "title_without_series": "Written in Fire",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445676247l/25812667._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445676247l/25812667._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25812667-written-in-fire",
+                "num_pages": 348,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": 12,
+                "publication_year": 2016,
+                "publication_month": 1,
+                "average_rating": 4.18,
+                "ratings_count": 12738,
+                "description": "<b>The explosive conclusion to the bestselling Brilliance Trilogy</b><br /><br />For thirty years humanity struggled to cope with the brilliants, the one percent of people born with remarkable gifts. For thirty years we tried to avoid a devastating civil war.<br /><br />We failed.<br /><br />The White House is a smoking ruin. Madison Square Garden is an internment camp. In Wyoming, an armed militia of thousands marches toward a final, apocalyptic battle.<br /><br />Nick Cooper has spent his life fighting for his children and his country. Now, as the world staggers on the edge of ruin, he must risk everything he loves to face his oldest enemy—a brilliant terrorist so driven by his ideals that he will sacrifice humanity’s future to achieve them.",
+                "authors": {
+                    "author": {
+                        "id": 38652,
+                        "name": "Marcus Sakey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1493926532p5/38652.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1493926532p2/38652.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/38652.Marcus_Sakey",
+                        "average_rating": 3.97,
+                        "ratings_count": 80822,
+                        "text_reviews_count": 6335
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 45669016,
+                    "uri": "kca://work/amzn1.gr.work.v1.HJbyaoLOBdm3D0ra9gKV6A"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1837301915
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri May 12 15:27:38 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1828110902
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri May 05 04:21:57 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu May 11 00:00:00 -0700 2017",
+            "date_added": "Fri May 05 04:21:56 -0700 2017",
+            "date_updated": "Fri May 12 15:29:14 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1991497887",
+            "link": "https://www.goodreads.com/review/show/1991497887",
+            "owned": 0
+        }
+    }
+}

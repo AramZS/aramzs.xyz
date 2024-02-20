@@ -1,0 +1,145 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2117884966,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 28209634
+                },
+                "isbn": 765392070,
+                "isbn13": 9780765392077,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1370
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.i0frQ0hTW_jXlMcGNdLVIQ",
+                "title": "Autonomous",
+                "title_without_series": "Autonomous",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484305104l/28209634._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484305104l/28209634._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/28209634-autonomous",
+                "num_pages": 303,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 19,
+                "publication_year": 2017,
+                "publication_month": 9,
+                "average_rating": 3.58,
+                "ratings_count": 11110,
+                "description": "<i>Autonomous</i> features a rakish female pharmaceutical pirate named Jack who traverses the world in her own submarine. A notorious anti-patent scientist who has styled herself as a Robin Hood heroine fighting to bring cheap drugs to the poor, Jack’s latest drug is leaving a trail of lethal overdoses across what used to be North America—a drug that compels people to become addicted to their work.<br /><br />On Jack’s trail are an unlikely pair: an emotionally shut-down military agent and his partner, Paladin, a young military robot, who fall in love against all expectations. <i>Autonomous</i> alternates between the activities of Jack and her co-conspirators, and Elias and Paladin, as they all race to stop a bizarre drug epidemic that is tearing apart lives, causing trains to crash, and flooding New York City.",
+                "authors": {
+                    "author": {
+                        "id": 191888,
+                        "name": "Annalee Newitz",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1518708368p5/191888.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1518708368p2/191888.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/191888.Annalee_Newitz",
+                        "average_rating": 3.63,
+                        "ratings_count": 18623,
+                        "text_reviews_count": 3448
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 48237590,
+                    "uri": "kca://work/amzn1.gr.work.v1.Muxn79xyo8jEjh2JbvTiNQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2231817059
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Feb 19 11:24:54 -0800 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2231816934
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Feb 19 11:24:49 -0800 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1994150615
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Sep 08 07:28:06 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Feb 19 11:24:48 -0800 2018",
+            "read_at": "Mon Feb 19 11:25:07 -0800 2018",
+            "date_added": "Fri Sep 08 07:28:05 -0700 2017",
+            "date_updated": "Mon Feb 19 11:25:07 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2117884966",
+            "link": "https://www.goodreads.com/review/show/2117884966",
+            "owned": 0
+        }
+    }
+}

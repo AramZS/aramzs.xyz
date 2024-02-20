@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671188,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 703163
+                },
+                "isbn": 618915478,
+                "isbn13": 9780618915477,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 423
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.oRj2MzgBFC3W6WQ80IUXAg",
+                "title": "Exit Ghost",
+                "title_without_series": "Exit Ghost",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327631702l/703163._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327631702l/703163._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/703163.Exit_Ghost",
+                "num_pages": 292,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Houghton Mifflin Harcourt",
+                "publication_day": 1,
+                "publication_year": 2007,
+                "publication_month": 10,
+                "average_rating": 3.49,
+                "ratings_count": 4780,
+                "description": "Como Rip Van Winkle, que regressa àsua cidade natal e encontra tudo mudado, Nathan Zuckerman volta a Nova Iorque, a cidade que abandonou há onze anos. Sozinho na sua montanha da Nova Inglaterra, Nathan Zuckerman foi exclusivamente escritor: sem vozes, sem jornais nem televisão sem ameaças terroristas, sem mulheres, sem notícias, sem outras ocupações que não fossem trabalhar e enfrentar a velhice.<br /><br />Percorrendo as ruas como uma alma penada, depressa estabelece três relações que fazem explodir a sua solidão tão cuidadosamente protegida. Uma é com um jovem casal com o qual, num momento irreflectido, se propõe fazer uma permuta de casas. Eles trocarão a Manhattan do pós 11 de Setembro pelo seu refúgio no interior e ele regressará à vida urbana. Mas a partir do momento em que os conhece, Zuckerman quer também trocar a sua solidão pelo desafio erótico da jovem mulher, Jamie, que o atrai a ponto de o fazer voltar a tudo quanto pensava ter deixado para trás: a intimidade, o jogo vibrante do coração e do corpo.<br />A segunda relação é com uma figura da juventude de Zuckerman, Amy Bellette, companheira e musa do primeiro herói literário de Zuckerman, E.I. Lonoff. Outrora irresistível, Amy é agora uma velha minada pela doença, guardiã da memória desse escritor americano de nobre austeridade que apontou a Nathan o caminho solitário para uma vocação de escritor.<br /><br />A terceira relação é com o aspirante a biógrafo de Lonoff, um jovem mastim literário, pronto a fazer e dizer praticamente tudo o que for preciso para chegar ao «grande segredo» de Lonoff.<br /><br />Subitamente envolvido, como nunca desejou ou tencionou voltar a estar, com o amor, a dor, o desejo e o ressentimento, Zuckerman representa um drama interior de possibilidades estimulantes e irresistíveis.",
+                "authors": {
+                    "author": {
+                        "id": 463,
+                        "name": "Philip Roth",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1399886959p5/463.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1399886959p2/463.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/463.Philip_Roth",
+                        "average_rating": 3.81,
+                        "ratings_count": 384391,
+                        "text_reviews_count": 27913
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 2800076,
+                    "uri": "kca://work/amzn1.gr.work.v1.7PHsns7GsX1m0SmU_70h1A"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:19:24 -0700 2008",
+            "date_updated": "Mon Jun 16 19:19:24 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671188",
+            "link": "https://www.goodreads.com/review/show/24671188",
+            "owned": 0
+        }
+    }
+}

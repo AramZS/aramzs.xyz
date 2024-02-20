@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 532177131,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6700070
+                },
+                "isbn": 1848562942,
+                "isbn13": 9781848562943,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 91
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.V_oAa9_-2UTRWFba9AvtFw",
+                "title": "Sleeper: Season One",
+                "title_without_series": "Sleeper: Season One",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6700070-sleeper",
+                "num_pages": 288,
+                "format": "Paperback",
+                "edition_information": "Season 1",
+                "publisher": "Wildstorm Comics",
+                "publication_day": 23,
+                "publication_year": 2009,
+                "publication_month": 6,
+                "average_rating": 4.3,
+                "ratings_count": 1266,
+                "description": "Collects Sleeper Vol. 1 #1-12.",
+                "authors": {
+                    "author": {
+                        "id": 37450,
+                        "name": "Ed Brubaker",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1230612199p5/37450.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1230612199p2/37450.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37450.Ed_Brubaker",
+                        "average_rating": 4.06,
+                        "ratings_count": 306082,
+                        "text_reviews_count": 17286
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 16355928,
+                    "uri": "kca://work/amzn1.gr.work.v1.1pmu6ulLu46CQxAnnyJgrw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051890462
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:42:17 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813202854,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 1813202864,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Feb 01 00:00:00 -0800 2013",
+            "date_added": "Sun Feb 10 12:07:40 -0800 2013",
+            "date_updated": "Mon Oct 23 16:42:18 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/532177131",
+            "link": "https://www.goodreads.com/review/show/532177131",
+            "owned": 0
+        }
+    }
+}

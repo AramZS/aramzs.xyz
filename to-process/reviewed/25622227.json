@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785924521,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25622227
+                },
+                "isbn": 393241920,
+                "isbn13": 9780393241921,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 251
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.QjDMHtGI-NMScQVtd6HyEg",
+                "title": "The Song Machine: Inside the Hit Factory",
+                "title_without_series": "The Song Machine: Inside the Hit Factory",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434043108l/25622227._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434043108l/25622227._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25622227-the-song-machine",
+                "num_pages": 352,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "W. W. Norton  Company",
+                "publication_day": 5,
+                "publication_year": 2015,
+                "publication_month": 10,
+                "average_rating": 3.94,
+                "ratings_count": 3651,
+                "description": "<strong><em>New Yorker</em> staff writer John Seabrook tells a fascinating story of creativity and commerce that explains how songs have become so addictive.</strong><br /><br />Over the last two decades a new type of song has emerged. Today’s hits bristle with “hooks,” musical burrs designed to snag your ear every seven seconds. Painstakingly crafted to tweak the brain’s delight in melody, rhythm, and repetition, these songs are industrial-strength products made for malls, casinos, the gym, and the Super Bowl halftime show. The tracks are so catchy, and so potent, that you can’t not listen to them.<br /><br />Traveling from New York to Los Angeles, Stockholm to Korea, John Seabrook visits specialized teams composing songs in digital labs with novel techniques, and he traces the growth of these contagious hits from their origins in early ’90s Sweden to their ubiquity on today’s charts. Featuring the stories of artists like Katy Perry, Britney Spears, and Rihanna, as well as expert songsmiths like Max Martin, Ester Dean, and Dr. Luke, <em>The Song Machine</em> will change the way you listen to music.",
+                "authors": {
+                    "author": {
+                        "id": 59400,
+                        "name": "John Seabrook",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1429281351p5/59400.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1429281351p2/59400.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/59400.John_Seabrook",
+                        "average_rating": 3.85,
+                        "ratings_count": 4307,
+                        "text_reviews_count": 534
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 43969681,
+                    "uri": "kca://work/amzn1.gr.work.v1.YVinWqHzKz6dzVeR5HhQyg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546330889
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:19:14 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1449419344,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Oct 16 07:19:13 -0700 2016",
+            "date_updated": "Sun Oct 16 07:19:13 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785924521",
+            "link": "https://www.goodreads.com/review/show/1785924521",
+            "owned": 0
+        }
+    }
+}

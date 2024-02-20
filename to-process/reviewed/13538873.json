@@ -1,0 +1,149 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 462154345,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13538873
+                },
+                "isbn": 374214913,
+                "isbn13": 9780374214913,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 21374
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.7-NREZtDwbhF8EhiJjd4RQ",
+                "title": "Mr. Penumbra's 24-Hour Bookstore (Mr. Penumbra's 24-Hour Bookstore, #1)",
+                "title_without_series": "Mr. Penumbra's 24-Hour Bookstore",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345089845l/13538873._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345089845l/13538873._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13538873-mr-penumbra-s-24-hour-bookstore",
+                "num_pages": 288,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Farrar, Straus and Giroux",
+                "publication_day": 2,
+                "publication_year": 2012,
+                "publication_month": 10,
+                "average_rating": 3.75,
+                "ratings_count": 169403,
+                "description": "The Great Recession has shuffled Clay Jannon away from life as a San Francisco web-design drone and into the aisles of Mr. Penumbra's 24-Hour Bookstore, but after a few days on the job, Clay discovers that the store is more curious than either its name or its gnomic owner might suggest. The customers are few, and they never seem to buy anything; instead, they \"check out\" large, obscure volumes from strange corners of the store. Suspicious, Clay engineers an analysis of the clientele's behavior, seeking help from his variously talented friends, but when they bring their findings to Mr. Penumbra, they discover the bookstore's secrets extend far beyond its walls.",
+                "authors": {
+                    "author": {
+                        "id": 2960227,
+                        "name": "Robin Sloan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1524283679p5/2960227.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1524283679p2/2960227.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2960227.Robin_Sloan",
+                        "average_rating": 3.75,
+                        "ratings_count": 219954,
+                        "text_reviews_count": 32593
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 6736543,
+                    "uri": "kca://work/amzn1.gr.work.v1.W0QKAlr-QxaBeDobLtMnuA"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 393825500,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": "Uber-geeks",
+            "recommended_by": {},
+            "started_at": "Sun Jan 27 00:00:00 -0800 2013",
+            "read_at": "Thu Mar 28 00:00:00 -0700 2013",
+            "date_added": "Fri Nov 23 19:23:43 -0800 2012",
+            "date_updated": "Fri Mar 29 08:22:38 -0700 2013",
+            "read_count": 1,
+            "body": "Reading this book was a weird experience. Highly enjoyable, but strange. <br /><br />The weird part is just how specifically the book feels aimed at my interests. I honestly didn't think that there were many other geeks with the specific combination of love for design, marketing, books (printed and electronic), fonts, code, Google and general hackery, but there must be, because this book is steeped in all of those topics and more, bringing them together in one wonderful mystery and then unwrapping it all before our eyes. <br /><br />The book is solid, well written and fun. The only major flaw is that the pacing occasionally gets bogged down as Sloan goes deeper with her characters. The characters are all interesting, though (with the exception of the protagonist) they tend to be there as representatives of single specific geeky interests. As a result, the tangents are neither bad nor uninteresting, it just means that the flow can be inconsistent.<br /><br />All that being said, it's absolute love with every subject it touches upon more than makes up for its flaws. A great read. If you're interests are anywhere close to the ones in the list above, pick it up.",
+            "comments_count": 2,
+            "comments": {
+                "start": 1,
+                "end": 2,
+                "total": 2,
+                "comment": [
+                    {
+                        "id": 71100911,
+                        "body": "Aram, I felt the same way. I loved the book because it was so germane to everything I find fascinating today. :D",
+                        "user": {
+                            "id": 1246941,
+                            "uri": "kca://profile:goodreads/A2KF493M30QR67",
+                            "name": "Keith",
+                            "display_name": "Keith Wick",
+                            "location": "Richmond, VA",
+                            "link": "https://www.goodreads.com/user/show/1246941-keith-wick",
+                            "image_url": "https://images.gr-assets.com/users/1456934004p3/1246941.jpg",
+                            "small_image_url": "https://images.gr-assets.com/users/1456934004p2/1246941.jpg",
+                            "has_image": true
+                        },
+                        "created_at": "Mon Apr 01 10:50:38 -0700 2013",
+                        "updated_at": "Mon Apr 01 10:50:38 -0700 2013"
+                    },
+                    {
+                        "id": 71166206,
+                        "body": "<i>Keith wrote: \"Aram, I felt the same way. I loved the book because it was so germane to everything I find fascinating today. :D\"</i><br /><br />:)",
+                        "user": {
+                            "id": 1244876,
+                            "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                            "name": "Aram",
+                            "display_name": "Aram",
+                            "location": "Long Island City, NY",
+                            "link": "https://www.goodreads.com/user/show/1244876-aram",
+                            "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                            "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                            "has_image": true
+                        },
+                        "created_at": "Tue Apr 02 07:28:20 -0700 2013",
+                        "updated_at": "Tue Apr 02 07:28:20 -0700 2013"
+                    }
+                ]
+            },
+            "url": "https://www.goodreads.com/review/show/462154345",
+            "link": "https://www.goodreads.com/review/show/462154345",
+            "owned": 1
+        }
+    }
+}

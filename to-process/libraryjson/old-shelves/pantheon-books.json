@@ -1,0 +1,51 @@
+{
+    "name": "Pantheon Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "A Cosmology of Monsters",
+            "id": "43506916",
+            "author": "Shaun Hamill",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961364000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/43506916",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pantheon Books",
+            "tags": [
+                "Hardcover",
+                "Pantheon Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "152474767X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781524747671",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "43506916",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

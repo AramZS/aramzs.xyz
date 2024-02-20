@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333627289,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 27274347
+                },
+                "isbn": 1501125303,
+                "isbn13": 9781501125300,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 67
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qkJ-TUiPhdZWfd6VpqsOhw",
+                "title": "Captain to Captain (Star Trek: Legacies #1)",
+                "title_without_series": "Captain to Captain",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464538738l/27274347._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464538738l/27274347._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/27274347-captain-to-captain",
+                "num_pages": 368,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": 28,
+                "publication_year": 2016,
+                "publication_month": 6,
+                "average_rating": 3.87,
+                "ratings_count": 982,
+                "description": "An epic new trilogy begins—a tie-in for the milestone fiftieth anniversary of <i>Star Trek: The Original Series</i>—that stretches from the earliest voyages of the Starship<i> Enterprise</i> to Captain Kirk’s historic five-year-mission…and from one universe to another!<br /><br />Hidden aboard the U.S.S. <i>Enterprise</i> is a secret that has been passed from captain to captain, from Robert April to Christopher Pike to James T. Kirk. Now the return of the enigmatic woman once known as Number One has brought that secret to light, and Kirk and his crew must risk everything to finish a mission that began with April so many years ago…<br /><br />Nearly two decades earlier, April and his crew first visited the planet Usilde, where they found both tragedy and a thorny moral dilemma. Today, the legacy of that fateful occasion will compel Kirk to embark on a risky voyage back to that forbidden world—which is now deep in territory claimed by the Klingon Empire!<br /><br />™, ®, &amp; © 2016 CBS Studios, Inc. STAR TREK and related marks and logos are trademarks of CBS Studios, Inc. All Rights Reserved.",
+                "authors": {
+                    "author": {
+                        "id": 6620,
+                        "name": "Greg Cox",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1311101625p5/6620.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1311101625p2/6620.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6620.Greg_Cox",
+                        "average_rating": 3.91,
+                        "ratings_count": 27780,
+                        "text_reviews_count": 2446
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 47328179,
+                    "uri": "kca://work/amzn1.gr.work.v1.T9YjZt8FZoQaJb8j0abKRw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2274317473
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Mar 20 05:11:36 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Mar 20 05:11:36 -0700 2018",
+            "date_updated": "Tue Mar 20 05:11:59 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333627289",
+            "link": "https://www.goodreads.com/review/show/2333627289",
+            "owned": 0
+        }
+    }
+}

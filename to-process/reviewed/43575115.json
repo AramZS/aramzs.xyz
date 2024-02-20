@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065301141,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 43575115
+                },
+                "isbn": "038554121X",
+                "isbn13": 9780385541213,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10326
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.riNIIJ8aqzZsPQT9xfQ7Kw",
+                "title": "The Starless Sea",
+                "title_without_series": "The Starless Sea",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554996038l/43575115._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554996038l/43575115._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/43575115-the-starless-sea",
+                "num_pages": 498,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Doubleday Books",
+                "publication_day": 5,
+                "publication_year": 2019,
+                "publication_month": 11,
+                "average_rating": 3.9,
+                "ratings_count": 60451,
+                "description": "Far beneath the surface of the earth, upon the shores of the Starless Sea, there is a labyrinthine collection of tunnels and rooms filled with stories. The entryways that lead to this sanctuary are often hidden, sometimes on forest floors, sometimes in private homes, sometimes in plain sight. But those who seek will find. Their doors have been waiting for them.<br /><br />Zachary Ezra Rawlins is searching for his door, though he does not know it. He follows a silent siren song, an inexplicable knowledge that he is meant for another place. When he discovers a mysterious book in the stacks of his campus library he begins to read, entranced by tales of lovelorn prisoners, lost cities, and nameless acolytes. Suddenly a turn of the page brings Zachary to a story from his own childhood impossibly written in this book that is older than he is.<br /><br />A bee, a key, and a sword emblazoned on the book lead Zachary to two people who will change the course of his life: Mirabel, a fierce, pink-haired painter, and Dorian, a handsome, barefoot man with shifting alliances. These strangers guide Zachary through masquerade party dances and whispered back room stories to the headquarters of a secret society where doorknobs hang from ribbons, and finally through a door conjured from paint to the place he has always yearned for. Amid twisting tunnels filled with books, gilded ballrooms, and wine-dark shores Zachary falls into an intoxicating world soaked in romance and mystery. But a battle is raging over the fate of this place and though there are those who would willingly sacrifice everything to protect it, there are just as many intent on its destruction. As Zachary, Mirabel, and Dorian venture deeper into the space and its histories and myths, searching for answers and each other, a timeless love story unspools, casting a spell of pirates, painters, lovers, liars, and ships that sail upon a Starless Sea.",
+                "authors": {
+                    "author": {
+                        "id": 4370565,
+                        "name": "Erin Morgenstern",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1552589582p5/4370565.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1552589582p2/4370565.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4370565.Erin_Morgenstern",
+                        "average_rating": 4.03,
+                        "ratings_count": 705951,
+                        "text_reviews_count": 83849
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 66444785,
+                    "uri": "kca://work/amzn1.gr.work.v1.Bhgv6BSqy7SgrLSV25ct8Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244213293
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:14:34 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712835126,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:14:34 -0800 2019",
+            "date_updated": "Thu Nov 28 09:14:34 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065301141",
+            "link": "https://www.goodreads.com/review/show/3065301141",
+            "owned": 0
+        }
+    }
+}

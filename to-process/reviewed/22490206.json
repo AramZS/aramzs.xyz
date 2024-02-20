@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967367,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22490206
+                },
+                "isbn": 1940262658,
+                "isbn13": 9781940262659,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 269
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.TI37z-VqaH_uBosPztnGjQ",
+                "title": "The Ables",
+                "title_without_series": "The Ables",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414351587l/22490206._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414351587l/22490206._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22490206-the-ables",
+                "num_pages": 364,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Clovercroft Publishing",
+                "publication_day": 1,
+                "publication_year": 2015,
+                "publication_month": 5,
+                "average_rating": 3.82,
+                "ratings_count": 2067,
+                "description": "<i>I did have fantastic hearing, mostly by virtue of being blind. But that couldn't actually mean that he's trying to tell me I have super powers, right? Because that would be ridiculous.</i><br /><br /> It wasn’t the “sex talk” he expected. Phillip Sallinger’s dad has told him he’s a custodian—a guardian—and his genetically inherited power is telekinesis. He’ll learn to move objects with his mind. Excited to begin superhero high school until he discovers he’s assigned to a “special ed” class for disabled empowered kids, he suddenly feels like an outsider. Bullied, threatened, and betrayed, Phillip struggles, even as he and his friends—calling themselves the Ables—find ways to maximize their powers to overcome their disabilities, and are the first to identify the growing evil threatening humanity. As vital custodians disappear and the custodian leadership is mired in indecision, a mysterious and powerful figure taunts Phillip, and the enemy is poised to strike. But what if the next “one who does all,” the multi-gifted custodian predicted to come, is one of the Ables?<br /><br /> The Ables is a fast-paced, captivating debut novel from Jeremy Scott, a bold new voice in fantasy and sci-fi, and already a widely popular storyteller as co-creator and narrator of CinemaSins, a YouTube channel that has amassed more than 3.8 million subscribers in under two years.",
+                "authors": {
+                    "author": {
+                        "id": 13508694,
+                        "name": "Jeremy  Scott",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1424125854p5/13508694.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1424125854p2/13508694.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13508694.Jeremy_Scott",
+                        "average_rating": 3.82,
+                        "ratings_count": 2135,
+                        "text_reviews_count": 320
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 41929531,
+                    "uri": "kca://work/amzn1.gr.work.v1.yJBuk8L30TXZvcS0eSiW1w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886478846
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:28:56 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1002423362,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:28:56 -0700 2015",
+            "date_updated": "Fri Jun 05 15:28:56 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967367",
+            "link": "https://www.goodreads.com/review/show/1299967367",
+            "owned": 0
+        }
+    }
+}

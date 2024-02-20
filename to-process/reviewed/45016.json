@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 51574467,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 45016
+                },
+                "isbn": 971294542,
+                "isbn13": 9780971294547,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.08FMk4LaqKAgGMhxINQtUg",
+                "title": "Myths and Facts: A Guide to the Arab-Israeli Conflict",
+                "title_without_series": "Myths and Facts: A Guide to the Arab-Israeli Conflict",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/45016.Myths_and_Facts",
+                "num_pages": 374,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "American-Israeli Cooperative Enterprise",
+                "publication_day": 1,
+                "publication_year": 2006,
+                "publication_month": 4,
+                "average_rating": 4.15,
+                "ratings_count": 120,
+                "description": "\"A revised and updated version of the classic guide to the Arab-Israeli conflict including the road map for peace and disengagement from Gaza. Israel's roots. The Arab-Israeli wars. The United Nations. The refugees. The treatment of Jews in Arab/Islamic countries. Human rights in Israel and the territories. The Palestinian War. Jerusalem. U.S. Middle East policy. The peace process. Settlements. The arms balance. The media. Arab/Muslim attitudes toward Israel. New maps and charts.\"--P. [4] of cover.",
+                "authors": {
+                    "author": {
+                        "id": 25266,
+                        "name": "Mitchell G. Bard",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/25266.Mitchell_G_Bard",
+                        "average_rating": 3.93,
+                        "ratings_count": 597,
+                        "text_reviews_count": 78
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 44335,
+                    "uri": "kca://work/amzn1.gr.work.v1.AgvviXsaY_NoB50MwYsY9A"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 293109729,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Oct 20 00:00:00 -0700 2011",
+            "date_added": "Sun Apr 05 08:43:57 -0700 2009",
+            "date_updated": "Sat Oct 27 08:11:17 -0700 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/51574467",
+            "link": "https://www.goodreads.com/review/show/51574467",
+            "owned": 0
+        }
+    }
+}

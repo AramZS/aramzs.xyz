@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2638057904,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 40948533
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 96
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.54c6JykJ_ZY0zmxgEubYiQ",
+                "title": "Spider-Gwen: Ghost-Spider, Vol. 1: Spider-Geddon",
+                "title_without_series": "Spider-Gwen: Ghost-Spider, Vol. 1: Spider-Geddon",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562310626l/40948533._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562310626l/40948533._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/40948533-spider-gwen",
+                "num_pages": 112,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": 2019,
+                "publication_month": 5,
+                "average_rating": 3.65,
+                "ratings_count": 672,
+                "description": "Gwen Stacy, the Spider-Woman of Earth-65, makes her sensational return! And she's picking up right where she left off, fighting crime through her home reality - unaware that it sits on the precipice of interdimensional calamity! Spider-Geddon is about to rock Gwen's world! Finding herself trapped in a parallel dimension as her friends and fellow Spiders are dying...with her teleporter watch destroyed and no way to get home...what can Gwen do to stop the Inheritors from wreaking havoc across the entire Web of Life and Destiny? And from out of the interdimensional chaos, she must face one of her deadliest enemies yet - the Gwen Goblin! With her life in jeopardy from all sides, is there a reason we're calling her Ghost-Spider?!<br /><br /><b>COLLECTING:</b> SPIDER-GWEN: GHOST-SPIDER 1-4",
+                "authors": {
+                    "author": {
+                        "id": 2860219,
+                        "name": "Seanan McGuire",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1245623198p5/2860219.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1245623198p2/2860219.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2860219.Seanan_McGuire",
+                        "average_rating": 4.03,
+                        "ratings_count": 460789,
+                        "text_reviews_count": 61403
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 63857725,
+                    "uri": "kca://work/amzn1.gr.work.v1.wVRMkqn0nRPVVPm44TlaDQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2677473171
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Dec 25 08:54:24 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Dec 20 00:00:00 -0800 2018",
+            "date_added": "Tue Dec 25 08:54:23 -0800 2018",
+            "date_updated": "Wed Dec 26 09:26:11 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2638057904",
+            "link": "https://www.goodreads.com/review/show/2638057904",
+            "owned": 0
+        }
+    }
+}

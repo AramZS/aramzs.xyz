@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340653,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9188338
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 833
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.CuQbuPLkRu7GLudZwq-Trw",
+                "title": "The Way of Kings (The Stormlight Archive, #1)",
+                "title_without_series": "The Way of Kings",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1296253603l/9188338._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1296253603l/9188338._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9188338-the-way-of-kings",
+                "num_pages": 1137,
+                "format": {},
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 31,
+                "publication_year": 2010,
+                "publication_month": 8,
+                "average_rating": 4.65,
+                "ratings_count": 274641,
+                "description": "<i>I long for the days before the Last Desolation.<br /><br />The age before the Heralds abandoned us and the Knights Radiant turned against us. A time when there was still magic in the world and honor in the hearts of men.<br /><br />The world became ours, and yet we lost it. Victory proved to be the greatest test of all. Or was that victory illusory? Did our enemies come to recognize that the harder they fought, the fiercer our resistance? Fire and hammer will forge steel into a weapon, but if you abandon your sword, it eventually rusts away.<br /><br />There are four whom we watch. The first is the surgeon, forced to forsake healing to fight in the most brutal war of our time. The second is the assassin, a murderer who weeps as he kills. The third is the liar, a young woman who wears a scholar's mantle over the heart of a thief. The last is the prince, a warlord whose eyes have opened to the ancient past as his thirst for battle wanes.<br /><br />The world can change. Surgebinding and Shardwielding can return; the magics of ancient days become ours again. These four people are key.<br /><br />One of them may redeem us. And one of them will destroy us.</i><br /><br />From Brandon Sanderson-who completed Robert Jordan's The Wheel of Time-comes The Stormlight Archive, an ambitious new fantasy epic in a unique, richly imagined setting. Roshar is a world relentlessly blasted by awesome tempests, where emotions take on physical form, and terrible secrets hide deep beneath the rocky landscape.<br /><br /><i>Speak again the ancient oaths</i><br /><b>Life before death. Strength before weakness. Journey before destination.</b><br /><i>and return to men the Shards they once bore. The Knights Radiant must stand again!</i>",
+                "authors": {
+                    "author": {
+                        "id": 38550,
+                        "name": "Brandon Sanderson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1394044556p5/38550.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1394044556p2/38550.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+                        "average_rating": 4.39,
+                        "ratings_count": 3270920,
+                        "text_reviews_count": 217241
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 8134945,
+                    "uri": "kca://work/amzn1.gr.work.v1.RFggOR2DSfOMBgpwAAwCqQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452280640
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:05:04 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Jun 01 00:00:00 -0700 2014",
+            "date_added": "Sat Jun 07 06:05:04 -0700 2014",
+            "date_updated": "Sat Jun 07 07:01:29 -0700 2014",
+            "read_count": 1,
+            "body": "Excellent novel. Sanderson starts slow but builds and when things get rolling remarkably rounded out characters, subtle unique world-building, and strong writing make this book a page-turner. I went right into the next one.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340653",
+            "link": "https://www.goodreads.com/review/show/960340653",
+            "owned": 0
+        }
+    }
+}

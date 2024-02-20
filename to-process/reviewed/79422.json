@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789363684,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 79422
+                },
+                "isbn": 1401210104,
+                "isbn13": 9781401210106,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 402
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.5bsyKdbYG3pCef6s-U9Xhg",
+                "title": "Y: The Last Man, Vol. 8: Kimono Dragons (Y: The Last Man, #8)",
+                "title_without_series": "Y: The Last Man, Vol. 8: Kimono Dragons",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/79422.Y",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Vertigo",
+                "publication_day": 22,
+                "publication_year": 2006,
+                "publication_month": 11,
+                "average_rating": 4.21,
+                "ratings_count": 27287,
+                "description": "<b>WINNER OF THREE EISNER AWARDS</b>KIMONO DRAGONS brings the hunt for Ampersand—the monkey who could unlock the mystery of the male-killing plague— to its explosive climax, as the last man on Earth and his companions finally reach Japan and discover the truth behind Ampersand's abduction. Collects issues #43-48 of Brian K. Vaughan and Pia Guerra's award-winning Vertigo series.",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 585352,
+                    "uri": "kca://work/amzn1.gr.work.v1.0ITq8_DgGf4TnwlFPau6Ag"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240402101
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 07:19:09 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813202288,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 07:19:09 -0800 2013",
+            "date_updated": "Mon Oct 23 16:41:29 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789363684",
+            "link": "https://www.goodreads.com/review/show/789363684",
+            "owned": 0
+        }
+    }
+}

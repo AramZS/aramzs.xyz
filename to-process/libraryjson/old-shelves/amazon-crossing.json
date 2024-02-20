@@ -1,0 +1,104 @@
+{
+    "name": "Amazon Crossing",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Tears in Rain (Bruna Husky, #1)",
+            "id": "15096204",
+            "author": "Rosa Montero, Lilit Zekulin Thwaites",
+            "date_finished": 1357603200000,
+            "notes": [],
+            "date_started": 1579853445000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Tears in Rain (Bruna Husky, #1): Rating - 5/5",
+                    "date": 1357603200000,
+                    "type": "short",
+                    "content": "Though \"Tears in Rain\" starts slowly, it builds exponentially. An excellent read, significant because though it has in enormously complex plot, the characterization is simply superb. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/15096204",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Amazon Crossing",
+            "tags": [
+                "Paperback",
+                "Amazon Crossing",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1612184383",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781612184388",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "15096204",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Tears in Rain (Bruna Husky, #1)",
+            "id": 15096204,
+            "author": "Rosa Montero",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/15096204",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Amazon Crossing",
+            "tags": [
+                "Paperback",
+                "Amazon Crossing",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 15096204,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

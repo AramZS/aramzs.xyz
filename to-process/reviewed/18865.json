@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671409,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18865
+                },
+                "isbn": 345396359,
+                "isbn13": 9780345396358,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 151
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZfJEQ6NGrTmCsUOmqQoUYQ",
+                "title": "Better Than Sex: Confessions of a Political Junkie",
+                "title_without_series": "Better Than Sex: Confessions of a Political Junkie",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430536063l/18865._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430536063l/18865._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18865.Better_Than_Sex",
+                "num_pages": 272,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Ballantine Books",
+                "publication_day": {},
+                "publication_year": 1995,
+                "publication_month": 9,
+                "average_rating": 3.76,
+                "ratings_count": 4673,
+                "description": "\"Hunter S. Thompson is to drug-addled, stream-of-consciousness, psycho-political black humor what Forrest Gump is to idiot savants.\"—<i>The Philadelphia Inquirer</i><br /><br />Since his 1972 trailblazing opus, <i>Fear and Loathing on the Campaign Trail</i>, Hunter S. Thompson has reported the election story in his truly inimitable, just-short-of-libel style. In <i>Better than Sex</i>, Thompson hits the dusty trail again—without leaving home—yet manages to deliver a mind-bending view of the 1992 presidential campaign—in all of its horror, sacrifice, lust, and dubious glory. Complete with faxes sent to and received by candidate Clinton's top aides, and 100 percent pure gonzo screeds on Richard Nixon, George Bush, and Oliver North, here is the most true-blue campaign tell-all ever penned by man or beast.<br /><br />\"[Thompson] delivers yet another of his trademark cocktail mixes of unbelievable tales and dark observations about the sausage grind that is the U.S. presidential sweepstakes. Packed with egocentric anecdotes, musings and reprints of memos, faxes and scrawled handwritten notes...Memorable.\"--<i>Los Angeles Daily News</i><br /><br />\"What endears Hunter Thompson to anyone who reads him is that he will say what others are afraid to....[He] is a master at the unlikely but invariably telling line that sums up a political figure....In a year when all politics is—to much of the public—a tendentious and pompous bore, it is time to read Hunter Thompson.\"—<i>Richmond Times-Dispatch</i><br /><br />\"While Tom Wolfe mastered the technique of being a fly on the wall, Thompson mastered the art of being a fly in the ointment. He made himself a part of every story, made no apologies for it and thus produced far more honest reporting than any crusading member of the Fourth Estate....Thompson isn't afraid to take the hard medicine, nor is he bashful about dishing it out....He is still king of beasts, and his apocalyptic prophecies seldom miss their target.\"—<i>Tulsa World</i><br /><br />\"This is a very, very funny book. No one can ever match Thompson in the vitriol department, and virtually nobody escapes his wrath.\"—<i>The Flint Journal</i>",
+                "authors": {
+                    "author": {
+                        "id": 5237,
+                        "name": "Hunter S. Thompson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206560814p5/5237.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206560814p2/5237.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5237.Hunter_S_Thompson",
+                        "average_rating": 4.03,
+                        "ratings_count": 476956,
+                        "text_reviews_count": 13256
+                    }
+                },
+                "published": 1995,
+                "work": {
+                    "id": 1076197,
+                    "uri": "kca://work/amzn1.gr.work.v1.VAmH1nzMu7cJD6rvqfDAJQ"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:21:27 -0700 2008",
+            "date_updated": "Mon Jun 16 19:21:27 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671409",
+            "link": "https://www.goodreads.com/review/show/24671409",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3156437732,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 11266823
+                },
+                "isbn": 1848631588,
+                "isbn13": 9781848631588,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 19
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UlZvT7FfwnxK3t6VJ6Jjkw",
+                "title": "Gorel and the Pot-Bellied God",
+                "title_without_series": "Gorel and the Pot-Bellied God",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349175495l/11266823._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349175495l/11266823._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/11266823-gorel-and-the-pot-bellied-god",
+                "num_pages": 88,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "PS Publishing",
+                "publication_day": 29,
+                "publication_year": 2011,
+                "publication_month": 11,
+                "average_rating": 3.69,
+                "ratings_count": 81,
+                "description": "There is only one truth Gorel of Goliris—gunslinger, addict, touched by the Black Kiss—is interested in: finding a way back home, to the great empire from which he had been stolen as a child and from which he had been flung, by sorcery, far across the World. It started out simple: get to Falang-Et, find the mirror, find what truth it may hold. But nothing is simple for Gorel of Goliris... <br /><br />When Gorel forms an uneasy alliance—and ménage à trois—with an Avian spy and a half-Merlangai thief, things only start to get complicated. Add a murdered merchant, the deadly Mothers of the House of Jade, the rivalry of gods and the machinations of a rising Dark Lord bent on conquest, and things start to get out of hand. Only one thing’s for sure: by the time this is over, there will be blood.",
+                "authors": {
+                    "author": {
+                        "id": 572738,
+                        "name": "Lavie Tidhar",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1369652429p5/572738.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1369652429p2/572738.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/572738.Lavie_Tidhar",
+                        "average_rating": 3.72,
+                        "ratings_count": 30692,
+                        "text_reviews_count": 4888
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 16193722,
+                    "uri": "kca://work/amzn1.gr.work.v1.MxYb_C6CcPxHB3emW7l_Sw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3362011424
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Jan 23 03:36:06 -0800 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jan 23 03:36:05 -0800 2020",
+            "date_updated": "Thu Jan 23 03:43:28 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3156437732",
+            "link": "https://www.goodreads.com/review/show/3156437732",
+            "owned": 0
+        }
+    }
+}

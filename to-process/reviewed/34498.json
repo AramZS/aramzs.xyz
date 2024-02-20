@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 702951577,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34498
+                },
+                "isbn": 413771164,
+                "isbn13": 9780413771162,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 900
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.47LUvIG5NBBltxuttwIgow",
+                "title": "The Truth (Discworld, #25; Industrial Revolution, #2)",
+                "title_without_series": "The Truth",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34498.The_Truth",
+                "num_pages": 336,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Bloomsbury Methuen Drama",
+                "publication_day": 21,
+                "publication_year": 2002,
+                "publication_month": 2,
+                "average_rating": 4.27,
+                "ratings_count": 52772,
+                "description": "There's been a murder. Allegedly. William de Worde is the Discworld's first investigative journalist. He didn't mean to be - it was just an accident. But, as William fills his pages with reports of local club meetings and pictures of humorously shaped vegetables, dark forces high up in Ankh-Morpork's society are plotting to overthrow the city's ruler, Lord Vetinari.",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2002,
+                "work": {
+                    "id": 280092,
+                    "uri": "kca://work/amzn1.gr.work.v1.6YyO_-WfUDF6j2S9c0ZgUw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 159414403
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Sep 20 23:36:47 -0700 2013"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 132190211
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Aug 24 15:27:29 -0700 2013"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Aug 24 00:00:00 -0700 2013",
+            "read_at": "Fri Sep 20 00:00:00 -0700 2013",
+            "date_added": "Sat Aug 24 15:27:29 -0700 2013",
+            "date_updated": "Fri Sep 20 23:36:52 -0700 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/702951577",
+            "link": "https://www.goodreads.com/review/show/702951577",
+            "owned": 0
+        }
+    }
+}

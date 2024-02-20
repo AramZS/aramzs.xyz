@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1367822462,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15837317
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 658
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.x0tMl6AoxqMTwegibKbU6A",
+                "title": "Gods of Risk (The Expanse, #2.5)",
+                "title_without_series": "Gods of Risk",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586602953l/15837317._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586602953l/15837317._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15837317-gods-of-risk",
+                "num_pages": 68,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 15,
+                "publication_year": 2012,
+                "publication_month": 9,
+                "average_rating": 3.7,
+                "ratings_count": 12609,
+                "description": "As tension between Mars and Earth mounts, and terrorism plagues the Martian city of Londres Nova, sixteen-year-old David Draper is fighting his own lonely war. A gifted chemist vying for a place at the university, David leads a secret life as a manufacturer for a ruthless drug dealer. When his friend Leelee goes missing, leaving signs of the dealer's involvement, David takes it upon himself to save her. But first he must shake his aunt Bobbie Draper, an ex-marine who has been set adrift in her own life after a mysterious series of events nobody is talking about. Set in the hard-scrabble solar system of <i>Leviathan Wakes</i> and <i>Caliban's War</i>, \"Gods of Risk\" deepens James S. A. Corey's acclaimed Expanse series.",
+                "authors": {
+                    "author": {
+                        "id": 4192148,
+                        "name": "James S.A. Corey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573162332p5/4192148.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573162332p2/4192148.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey",
+                        "average_rating": 4.25,
+                        "ratings_count": 603159,
+                        "text_reviews_count": 37691
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 21510740,
+                    "uri": "kca://work/amzn1.gr.work.v1.4N5_tGjSLh7bZYOfZiHZCA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 974787204
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 18 20:46:44 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Tue Aug 18 20:46:43 -0700 2015",
+            "date_updated": "Thu Dec 31 07:40:53 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1367822462",
+            "link": "https://www.goodreads.com/review/show/1367822462",
+            "owned": 0
+        }
+    }
+}

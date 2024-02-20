@@ -1,0 +1,104 @@
+{
+    "name": "BOOM! Studios",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Definitive Irredeemable Vol. 1",
+            "id": "10657129",
+            "author": "Mark Waid, Peter Krause, Diego Barreto",
+            "date_finished": 1359504000000,
+            "notes": [],
+            "date_started": 1508802321000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Definitive Irredeemable Vol. 1: Rating - 5/5",
+                    "date": 1359504000000,
+                    "type": "long",
+                    "content": "Mark Waid's Irredeemable is, perhaps, the comic-reader's comic book. Someone with no experience of the comic book world could pick up the series and enjoy it greatly. However, they wouldn't get the full experience of Waid's effort without some knowledge of the superhero genre. <br/><br/>If you know anything of Waid's previous work (say, Kingdom Come), you know that he delights in taking heroes to the end of their rope. Irredeemable is no different. It is a book about heroes and their humanity, or lack of. <br/><br/>It's impossible to properly tell you about the dark masterpiece that is this narrative without ruining it. Just understand that Waid will take the superhero story and dissect it in a way that few others have succeed in doing. <br/><br/>Read it all the way to the end. The conclusion to the story (not in this volume, but available in smaller collections) is one of the most satisfying I've ever read.",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/10657129",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "BOOM! Studios",
+            "tags": [
+                "Hardcover",
+                "BOOM! Studios",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "160886071X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781608860715",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "10657129",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Definitive Irredeemable Vol. 1",
+            "id": 10657129,
+            "author": "Mark Waid",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/10657129",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "BOOM! Studios",
+            "tags": [
+                "Hardcover",
+                "BOOM! Studios",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "160886071X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 10657129,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

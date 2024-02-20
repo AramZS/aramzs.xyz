@@ -1,0 +1,104 @@
+{
+    "name": "SitePoint",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Build Your Own Wicked WordPress Themes",
+            "id": "8032630",
+            "author": "Allan Cole, Raena Jackson Armitage, Jeffrey Way, Brandon R. Jones",
+            "date_finished": 1262304000000,
+            "notes": [],
+            "date_started": 1390425225000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Build Your Own Wicked WordPress Themes: Rating - 4/5",
+                    "date": 1262304000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8032630",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "SitePoint",
+            "tags": [
+                "Paperback",
+                "SitePoint",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0980455294",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780980455298",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "8032630",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Build Your Own Wicked WordPress Themes",
+            "id": 8032630,
+            "author": "Allan Cole",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8032630",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "SitePoint",
+            "tags": [
+                "Paperback",
+                "SitePoint",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 8032630,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

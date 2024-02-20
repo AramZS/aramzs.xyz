@@ -1,0 +1,51 @@
+{
+    "name": "Twelve",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Start-up Nation: The Story of Israel's Economic Miracle",
+            "id": "6885191",
+            "author": "Dan Senor, Saul Singer",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1351570269000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6885191",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Twelve",
+            "tags": [
+                "Hardcover",
+                "Twelve",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "044654146X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780446541466",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6885191",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

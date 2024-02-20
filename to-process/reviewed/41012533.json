@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606739545,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 41012533
+                },
+                "isbn": 1501175513,
+                "isbn13": 9781501175510,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5007
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.F9QAaOXgkt6AIS4QndkMag",
+                "title": "Fear: Trump in the White House",
+                "title_without_series": "Fear: Trump in the White House",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534660010l/41012533._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534660010l/41012533._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/41012533-fear",
+                "num_pages": 448,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Simon & Schuster",
+                "publication_day": 11,
+                "publication_year": 2018,
+                "publication_month": 9,
+                "average_rating": 3.9,
+                "ratings_count": 46857,
+                "description": "With authoritative reporting honed through eight presidencies from Nixon to Obama, author Bob Woodward reveals in unprecedented detail the harrowing life inside President Donald Trump’s White House and precisely how he makes decisions on major foreign and domestic policies. Woodward draws from hundreds of hours of interviews with firsthand sources, meeting notes, personal diaries, files and documents. The focus is on the explosive debates and the decision-making in the Oval Office, the Situation Room, Air Force One and the White House residence.<br /><br /><i>Fear</i> is the most intimate portrait of a sitting president ever published during the president’s first years in office.",
+                "authors": {
+                    "author": {
+                        "id": 15441,
+                        "name": "Bob Woodward",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1214425041p5/15441.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1214425041p2/15441.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/15441.Bob_Woodward",
+                        "average_rating": 3.96,
+                        "ratings_count": 135859,
+                        "text_reviews_count": 10696
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 63991585,
+                    "uri": "kca://work/amzn1.gr.work.v1.v-Lo8v1IyW9O0cfDYPJeAQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636064042
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:25:03 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Nov 10 00:00:00 -0800 2018",
+            "date_added": "Mon Nov 26 13:25:02 -0800 2018",
+            "date_updated": "Wed Dec 26 09:26:33 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606739545",
+            "link": "https://www.goodreads.com/review/show/2606739545",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,390 @@
+{
+    "name": "Penguin Classics",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Faerie Queene",
+            "id": "765427",
+            "author": "Edmund Spenser, Thomas P. Roche Jr., C. Patrick O'Donnell",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1556373435000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/765427",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Penguin Classics",
+            "tags": [
+                "Paperback",
+                "Penguin Classics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0140422072",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780140422078",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "765427",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Odyssey",
+            "id": "1381",
+            "author": "Homer, Robert Fagles, Bernard Knox",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1417712519000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Odyssey: Rating - 5/5",
+                    "date": 1417712519000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1381",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Penguin Classics",
+            "tags": [
+                "Paperback",
+                "Penguin Classics",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0143039954",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780143039952",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "1381",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Canterbury Tales",
+            "id": "2696",
+            "author": "Geoffrey Chaucer, Nevill Coghill",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360254824000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Canterbury Tales: Rating - 4/5",
+                    "date": 1360254824000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2696",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Penguin Classics",
+            "tags": [
+                "Paperback",
+                "Penguin Classics",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0140424385",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780140424386",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "2696",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Poetics",
+            "id": "13270",
+            "author": "Aristotle, Malcolm Heath",
+            "date_finished": 1351296000000,
+            "notes": [],
+            "date_started": 1351350614000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Poetics: Rating - 5/5",
+                    "date": 1351296000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13270",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Penguin Classics",
+            "tags": [
+                "Paperback",
+                "Penguin Classics",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0140446362",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780140446364",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "13270",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Swann's Way (In Search of Lost Time, #1)",
+            "id": "12749",
+            "author": "Marcel Proust, Lydia Davis",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213670026000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12749",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Penguin Classics",
+            "tags": [
+                "Paperback",
+                "Penguin Classics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0142437964",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780142437964",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "12749",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Poetics",
+            "id": 13270,
+            "author": "Aristotle",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13270",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Penguin Classics",
+            "tags": [
+                "Paperback",
+                "Penguin Classics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 13270,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Odyssey",
+            "id": 1381,
+            "author": "Homer",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1381",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Penguin Classics",
+            "tags": [
+                "Paperback",
+                "Penguin Classics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 1381,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Canterbury Tales",
+            "id": 2696,
+            "author": "Geoffrey Chaucer",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2696",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Penguin Classics",
+            "tags": [
+                "Paperback",
+                "Penguin Classics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 2696,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

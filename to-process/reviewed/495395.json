@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 27012986,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 495395
+                },
+                "isbn": 743291476,
+                "isbn13": 9780743291477,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4744
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.3MqWm1HwMR1EmZfJOcPF_Q",
+                "title": "The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible",
+                "title_without_series": "The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327977486l/495395._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327977486l/495395._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/495395.The_Year_of_Living_Biblically",
+                "num_pages": 388,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Simon & Schuster",
+                "publication_day": 1,
+                "publication_year": 2007,
+                "publication_month": 10,
+                "average_rating": 3.76,
+                "ratings_count": 60308,
+                "description": "From the bestselling author of \"The Know-It-All\" comes a fascinating and timely exploration of religion and the Bible.Raised in a secular family but increasingly interested in the relevance of faith in our modern world, A.J. Jacobs decides to dive in headfirst and attempt to obey the Bible as literally as possible for one full year. He vows to follow the Ten Commandments. To be fruitful and multiply. To love his neighbor. But also to obey the hundreds of less publicized rules: to avoid wearing clothes made of mixed fibers; to play a ten-string harp; to stone adulterers.<br /><br />The resulting spiritual journey is at once funny and profound, reverent and irreverent, personal and universal and will make you see history's most influential book with new eyes.<br /><br />Jacobs's quest transforms his life even more radically than the year spent reading the entire \"Encyclopedia Britannica\" for \"The Know-It-All.\" His beard grows so unruly that he is regularly mistaken for a member of ZZ Top. He immerses himself in prayer, tends sheep in the Israeli desert, battles idolatry, and tells the absolute truth in all situations - much to his wife's chagrin.<br /><br />Throughout the book, Jacobs also embeds himself in a cross-section of communities that take the Bible literally. He tours a Kentucky-based creationist museum and sings hymns with Pennsylvania Amish. He dances with Hasidic Jews in Brooklyn and does Scripture study with Jehovah's Witnesses. He discovers ancient biblical wisdom of startling relevance. And he wrestles with seemingly archaic rules that baffle the twenty-first-century brain.Jacobs's extraordinary undertaking yields unexpected epiphanies and challenges. A book that will charm readers both secular and religious, \"The Year of Living Biblically\" is part Cliff Notes to the Bible, part memoir, and part look into worlds unimaginable. Thou shalt not be able to put it down.",
+                "authors": {
+                    "author": {
+                        "id": 963811,
+                        "name": "A.J. Jacobs",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1201096547p5/963811.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1201096547p2/963811.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/963811.A_J_Jacobs",
+                        "average_rating": 3.75,
+                        "ratings_count": 114811,
+                        "text_reviews_count": 11768
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 2325789,
+                    "uri": "kca://work/amzn1.gr.work.v1.tFpN992hFoUaA0PPOB25Bg"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Jul 18 08:15:08 -0700 2008",
+            "date_added": "Fri Jul 11 21:32:35 -0700 2008",
+            "date_updated": "Fri Jul 18 08:15:08 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/27012986",
+            "link": "https://www.goodreads.com/review/show/27012986",
+            "owned": 0
+        }
+    }
+}

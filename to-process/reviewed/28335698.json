@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2940948698,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 28335698
+                },
+                "isbn": 316332879,
+                "isbn13": 9780316332873,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1385
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.kTVK5j44ZNoBZuhfokbqWQ",
+                "title": "Tiamat's Wrath (The Expanse, #8)",
+                "title_without_series": "Tiamat's Wrath",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522779721l/28335698._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522779721l/28335698._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/28335698-tiamat-s-wrath",
+                "num_pages": 534,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Orbit Books",
+                "publication_day": 26,
+                "publication_year": 2019,
+                "publication_month": 3,
+                "average_rating": 4.59,
+                "ratings_count": 25117,
+                "description": "Thirteen hundred gates have opened to solar systems around the galaxy. But as humanity builds its interstellar empire in the alien ruins, the mysteries and threats grow deeper.<br /><br />In the dead systems where gates lead to stranger things than alien planets, Elvi Okoye begins a desperate search to discover the nature of a genocide that happened before the first human beings existed, and to find weapons to fight a war against forces at the edge of the imaginable. But the price of that knowledge may be higher than she can pay.<br /><br />At the heart of the empire, Teresa Duarte prepares to take on the burden of her father's godlike ambition. The sociopathic scientist Paolo Cortázar and the Mephistophelian prisoner James Holden are only two of the dangers in a palace thick with intrigue, but Teresa has a mind of her own and secrets even her father the emperor doesn't guess.<br /><br />And throughout the wide human empire, the scattered crew of the Rocinante fights a brave rear-guard action against Duarte's authoritarian regime. Memory of the old order falls away, and a future under Laconia's eternal rule -- and with it, a battle that humanity can only lose - seems more and more certain. Because against the terrors that lie between worlds, courage and ambition will not be enough...",
+                "authors": {
+                    "author": {
+                        "id": 4192148,
+                        "name": "James S.A. Corey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573162332p5/4192148.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573162332p2/4192148.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey",
+                        "average_rating": 4.25,
+                        "ratings_count": 603133,
+                        "text_reviews_count": 37691
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 48382890,
+                    "uri": "kca://work/amzn1.gr.work.v1.ebxLBN-CdsjhoZANCxOjlg"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3100539448
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Aug 30 04:13:38 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3078204025
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Aug 17 08:51:13 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Aug 17 08:51:13 -0700 2019",
+            "read_at": "Fri Aug 30 04:13:53 -0700 2019",
+            "date_added": "Sat Aug 17 08:51:12 -0700 2019",
+            "date_updated": "Fri Aug 30 04:13:53 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2940948698",
+            "link": "https://www.goodreads.com/review/show/2940948698",
+            "owned": 0
+        }
+    }
+}

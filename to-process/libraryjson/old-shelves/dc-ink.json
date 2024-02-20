@@ -1,0 +1,51 @@
+{
+    "name": "DC Ink",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Teen Titans: Raven",
+            "id": "38452813",
+            "author": "Kami Garcia, Gabriel Picolo",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961674000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/38452813",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "DC Ink",
+            "tags": [
+                "ebook",
+                "DC Ink",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781401297732",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "38452813",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

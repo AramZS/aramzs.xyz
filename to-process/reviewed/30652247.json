@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2229980736,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 30652247
+                },
+                "isbn": 1568585233,
+                "isbn13": 9781568585239,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 187
+                },
+                "uri": "kca://book/amzn1.gr.book.v1._T9dUHYYWhZwj6lpEQ7pTA",
+                "title": "How to Kill a City: Gentrification, Inequality, and the Fight for the Neighborhood",
+                "title_without_series": "How to Kill a City: Gentrification, Inequality, and the Fight for the Neighborhood",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475991420l/30652247._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475991420l/30652247._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/30652247-how-to-kill-a-city",
+                "num_pages": 272,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Bold Type Books",
+                "publication_day": 7,
+                "publication_year": 2017,
+                "publication_month": 3,
+                "average_rating": 4.07,
+                "ratings_count": 1505,
+                "description": "The term <i>gentrification</i> has become a buzzword to describe the changes in urban neighborhoods across the country, but we don't realize just how threatening it is. It means more than the arrival of trendy shops, much-maligned hipsters, and expensive lattes. The very future of American cities as vibrant, equitable spaces hangs in the balance.<br /><br />Peter Moskowitz's <i>How to Kill a City</i> takes readers from the kitchen tables of hurting families who can no longer afford their homes to the corporate boardrooms and political backrooms where destructive housing policies are devised. Along the way, Moskowitz uncovers the massive, systemic forces behind gentrification in New Orleans, Detroit, San Francisco, and New York. The deceptively simple question of who can and cannot afford to pay the rent goes to the heart of America's crises of race and inequality. In the fight for economic opportunity and racial justice, nothing could be more important than housing.<br /><br />A vigorous, hard-hitting expose, <i>How to Kill a City</i> reveals who holds power in our cities-and how we can get it back<br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 19915432,
+                        "name": "Peter Moskowitz",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/19915432.Peter_Moskowitz",
+                        "average_rating": 4.05,
+                        "ratings_count": 1407,
+                        "text_reviews_count": 193
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 51196410,
+                    "uri": "kca://work/amzn1.gr.work.v1.YaZ-3hSXs_bmVErXJvuwDw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2139537942
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 28 12:00:13 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1879158502,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 28 12:00:12 -0800 2017",
+            "date_updated": "Thu Dec 28 12:00:12 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2229980736",
+            "link": "https://www.goodreads.com/review/show/2229980736",
+            "owned": 0
+        }
+    }
+}

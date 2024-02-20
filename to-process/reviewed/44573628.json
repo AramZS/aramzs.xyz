@@ -1,0 +1,190 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999621995,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 44573628
+                },
+                "isbn": 393652246,
+                "isbn13": 9780393652246,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 423
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.lvHqlQr15qc2RMQPTfYLjg",
+                "title": "Super Pumped: The Battle for Uber",
+                "title_without_series": "Super Pumped: The Battle for Uber",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553648438l/44573628._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553648438l/44573628._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/44573628-super-pumped",
+                "num_pages": 387,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "W. W. Norton  Company",
+                "publication_day": 3,
+                "publication_year": 2019,
+                "publication_month": 9,
+                "average_rating": 4.17,
+                "ratings_count": 5619,
+                "description": "In June 2017, Travis Kalanick, the hard-charging CEO of Uber, was ousted in a boardroom coup that capped a brutal year for the transportation giant. Uber had catapulted to the top of the tech world, yet for many came to symbolize everything wrong with Silicon Valley.<br /><br /><br />Award-winning <em>New York Times</em> technology correspondent Mike Isaac’s <em>Super Pumped</em> presents the dramatic rise and fall of Uber, set against an era of rapid upheaval in Silicon Valley. Backed by billions in venture capital dollars and led by a brash and ambitious founder, Uber promised to revolutionize the way we move people and goods through the world. A near instant “unicorn,” Uber seemed poised to take its place next to Amazon, Apple, and Google as a technology giant.<br /><br /><br />What followed would become a corporate cautionary tale about the perils of startup culture and a vivid example of how blind worship of startup founders can go wildly wrong. Isaac recounts Uber’s pitched battles with taxi unions and drivers, the company’s toxic internal culture, and the bare-knuckle tactics it devised to overcome obstacles in its quest for dominance. With billions of dollars at stake, Isaac shows how venture capitalists asserted their power and seized control of the startup as it fought its way toward its fateful IPO.<br /><br /><br />Based on hundreds of interviews with current and former Uber employees, along with previously unpublished documents, <em>Super Pumped</em> is a page-turning story of ambition and deception, obscene wealth, and bad behavior that explores how blistering technological and financial innovation culminated in one of the most catastrophic twelve-month periods in American corporate history.",
+                "authors": {
+                    "author": {
+                        "id": 18993769,
+                        "name": "Mike Isaac",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/18993769.Mike_Isaac",
+                        "average_rating": 4.17,
+                        "ratings_count": 5619,
+                        "text_reviews_count": 521
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 69182405,
+                    "uri": "kca://work/amzn1.gr.work.v1.bJ8ODPdPJDzWGJHCHdbk0Q"
+                }
+            },
+            "user_statuses": {
+                "user_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 251828902
+                    },
+                    "page": {
+                        "type": "integer"
+                    },
+                    "chapter": {
+                        "type": "integer"
+                    },
+                    "comments_count": 0,
+                    "created_at": {
+                        "type": "datetime",
+                        "$t": "Sat Nov 23 19:40:37 -0800 2019"
+                    },
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Nov 23 19:40:37 -0800 2019"
+                    },
+                    "last_comment_at": {
+                        "type": "datetime"
+                    },
+                    "ratings_count": {
+                        "type": "integer",
+                        "$t": 0
+                    },
+                    "percent": {
+                        "type": "integer",
+                        "$t": 10
+                    },
+                    "work_id": {
+                        "type": "integer",
+                        "$t": 69182405
+                    },
+                    "note_uri": {},
+                    "note_updated_at": {
+                        "type": "datetime"
+                    },
+                    "body": {}
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3353591670
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sun Jan 19 09:23:28 -0800 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3216400315
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sun Nov 10 17:31:08 -0800 2019"
+                        },
+                        "ratings_count": 1,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3156495471
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Oct 03 06:29:29 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 1,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sun Nov 10 17:31:07 -0800 2019",
+            "read_at": "Sun Jan 19 09:23:27 -0800 2020",
+            "date_added": "Thu Oct 03 06:29:28 -0700 2019",
+            "date_updated": "Sun Jan 19 09:23:27 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "reading_notes_link_text": "50 highlights",
+            "reading_notes_url": "https://www.goodreads.com/notes/44599442-super-pumped/1244876-aram",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999621995",
+            "link": "https://www.goodreads.com/review/show/2999621995",
+            "owned": 0
+        }
+    }
+}

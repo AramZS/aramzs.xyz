@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 127883535,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6034660
+                },
+                "isbn": 61562351,
+                "isbn13": 9780061562358,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 69
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.aG4_-BWsPD7GfpA4wlWNuQ",
+                "title": "The New Space Opera 2",
+                "title_without_series": "The New Space Opera 2",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6034660-the-new-space-opera-2",
+                "num_pages": 560,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Harper Voyager",
+                "publication_day": 30,
+                "publication_year": 2009,
+                "publication_month": 6,
+                "average_rating": 3.8,
+                "ratings_count": 787,
+                "description": "All-new stories of science fiction adventure from some of the most beloved names in science fiction spin all-new tales of interstellar adventure and wonder.<br /><br />Contents <br />3 • Utriusque Cosmi • (2009) • novelette by Robert Charles Wilson<br />27 • The Island • (2009) • novelette by Peter Watts<br />63 • Events Preceding the Helvetican Renaissance • (2009) • novelette by John Kessel<br />93 • To Go Boldly • shortstory by Cory Doctorow<br />113 • The Lost Princess Man • (2009) • novelette by John Barnes<br />139 • Defect • (2009) • novelette by Kristine Kathryn Rusch<br />175 • To Raise a Mutiny Betwixt Yourselves • (2009) • novelette by Jay Lake<br />209 • Shell Game • (2009) • novelette by Neal Asher<br />237 • Punctuality • (2009) • shortstory by Garth Nix<br />245 • Inevitable • (2009) • novelette by Sean Williams<br />273 • Join The Navy and See the Worlds • (2009) • shortstory by Bruce Sterling<br />293 • Fearless Space Pirates of the Outer Rings • (2009) • novelette by Bill Willingham<br />321 • From the Heart • (2009) • novelette by John Meaney<br />353 • Chameleons • (2009) • novella by Elizabeth Moon<br />407 • The Tenth Muse • (2009) • novelette by Tad Williams<br />431 • Cracklegrackle • (2009) • novelette by Justina Robson<br />465 • The Tale of the Wicked • (2009) • novelette by John Scalzi<br />487 • Catastrophe Baker and a Canticle for Leibowitz • (2009) • shortstory by Mike Resnick<br />501 • The Far End of History • (2009) • novelette by John C. Wright",
+                "authors": {
+                    "author": {
+                        "id": 12052,
+                        "name": "Gardner Dozois",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1247758142p5/12052.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1247758142p2/12052.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12052.Gardner_Dozois",
+                        "average_rating": 3.8,
+                        "ratings_count": 82786,
+                        "text_reviews_count": 9449
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 6210161,
+                    "uri": "kca://work/amzn1.gr.work.v1.Wq0T6jAaGe1i-YdsURkrQw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 79714407,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Oct 25 00:00:00 -0700 2010",
+            "read_at": "Thu Dec 02 00:00:00 -0800 2010",
+            "date_added": "Mon Oct 25 15:21:29 -0700 2010",
+            "date_updated": "Thu Dec 02 11:39:53 -0800 2010",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/127883535",
+            "link": "https://www.goodreads.com/review/show/127883535",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999621875,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 44554068
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.i8SPegGUcpqxFyrhx3Dppw",
+                "title": "More Than Just a Flag",
+                "title_without_series": "More Than Just a Flag",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/44554068-more-than-just-a-flag",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.27,
+                "ratings_count": 11,
+                "description": "More That Just A Flag is the autobiography of Trans Flag creator, trans activist and Navy veteran, Monica F. Helms. Monica’s book details the major events of her life, from childhood through to the book’s publication in 2019. Included are her service in the U.S. Navy as a submariner, and her personal journey to discovering her true self as a trans woman, including the subsequent battles she fought with her civilian employer, Sprint. Helms recalls her creation of the Transgender Pride Flag in 1999, and her donation of the original to the Smithsonian in 2014. Monica details her founding of the Transgender American Veterans Association (TAVA) in 2003, where she went on to serve as president for ten years. Along with numerous other examples of her trans activism, including holding Atlanta’s first TDOR event in 2000, Helms recounts lobbying state legislators in Arizona and Georgia, as well as in D.C., and being elected a delegate to the 2004 Democratic National Convention. At times, funny, at others, necessarily sad, More Than Just A Flag is the story of a leader in the fight for transgender acceptance, at a time when the trans community was just coalescing and finding its voice.",
+                "authors": {
+                    "author": {
+                        "id": 6899605,
+                        "name": "Monica F. Helms",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6899605.Monica_F_Helms",
+                        "average_rating": 3.85,
+                        "ratings_count": 60,
+                        "text_reviews_count": 4
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 69146122,
+                    "uri": "kca://work/amzn1.gr.work.v1.P73EoalDwMhqWfWoKhEbBw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3375359326
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Wed Jan 29 11:30:53 -0800 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3371335177
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Jan 27 13:40:01 -0800 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3156495323
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Oct 03 06:29:22 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Jan 27 13:40:00 -0800 2020",
+            "read_at": "Wed Jan 29 11:30:52 -0800 2020",
+            "date_added": "Thu Oct 03 06:29:21 -0700 2019",
+            "date_updated": "Wed Jan 29 11:30:52 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999621875",
+            "link": "https://www.goodreads.com/review/show/2999621875",
+            "owned": 0
+        }
+    }
+}

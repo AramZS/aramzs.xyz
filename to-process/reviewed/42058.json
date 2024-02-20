@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528971375,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 42058
+                },
+                "isbn": 192839934,
+                "isbn13": 9780192839930,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 954
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.XxncbdI_ZW2Phuu2U4CFVw",
+                "title": "Richard III",
+                "title_without_series": "Richard III",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/42058.Richard_III",
+                "num_pages": 414,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Oxford University Press, USA",
+                "publication_day": 17,
+                "publication_year": 2001,
+                "publication_month": 5,
+                "average_rating": 3.93,
+                "ratings_count": 42258,
+                "description": "Richard III is one of Shakespeare's most popular plays on the stage and has been adapted successfully for film. This new and innovative edition recognizes the play's pre-eminence as a performance work: a perspective that informs every aspect of the editing. Challenging traditional practice, the text is based on the 1597 Quarto which, brings us closest to the play as it would have been staged in Shakespeare's theater. The introduction, which is illustrated, explores the long performance history from Shakespeare's time to the present. The commentary gives detailed explanation of matters of language, staging, text, and historical and cultural contexts, providing coverage that is both carefully balanced and alert to nuance of meaning.<br /> Documentation of the extensive textual variants is organized for maximum clarity: the readings of the Folio and the Quarto are presented in separate sections, and more specific information is given at the back of the book. Appendices also include selected passages from the main source and a special index of actors and other theatrical personnel.",
+                "authors": {
+                    "author": {
+                        "id": 947,
+                        "name": "William Shakespeare",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1586700347p5/947.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1586700347p2/947.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/947.William_Shakespeare",
+                        "average_rating": 3.87,
+                        "ratings_count": 6098987,
+                        "text_reviews_count": 111246
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 2913597,
+                    "uri": "kca://work/amzn1.gr.work.v1.SiRW2W-__X9U7P651qGadg"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847059854,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:34:12 -0800 2013",
+            "date_updated": "Thu Dec 04 08:51:07 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528971375",
+            "link": "https://www.goodreads.com/review/show/528971375",
+            "owned": 0
+        }
+    }
+}

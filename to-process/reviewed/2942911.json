@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 28544434,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2942911
+                },
+                "isbn": 1593079443,
+                "isbn13": 9781593079444,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 20
+                },
+                "uri": "kca://book/amzn1.gr.book.v1._lfgw2Wi9pLWaJMDIom7Mg",
+                "title": "Hellboy: Oddest Jobs",
+                "title_without_series": "Hellboy: Oddest Jobs",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403200353l/2942911._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403200353l/2942911._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2942911-hellboy",
+                "num_pages": 241,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Dark Horse Books",
+                "publication_day": 8,
+                "publication_year": 2008,
+                "publication_month": 7,
+                "average_rating": 4.1,
+                "ratings_count": 421,
+                "description": "And you thought Hell was weird . . .<br /><br />Longtime contributor to the <i>Hellboy</i> mythos Christopher Golden brings together a crew of luminaries including Joe R. Lansdale (<i>Bubba HoTep</i>) and China Miéville (<i>King Rat</i>), crossgenre sensation Barbara Hambly (<i>The Windrose Chronicles</i>), celebrated mystery writer Ken Bruen (<i>The Dramatist</i>), bestselling science fiction and fantasy novelist Tad Williams (<i>Otherland</i>), and a bevy of other skilled storytellers eager to spin a tale or two about the world's greatest paranormal detective, as some of the biggest names in horror, mystery, and fantasy come together to pay homage to Mike Mignola's <i>Hellboy</i>!",
+                "authors": {
+                    "author": {
+                        "id": 4522,
+                        "name": "Christopher Golden",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4522.Christopher_Golden",
+                        "average_rating": 3.89,
+                        "ratings_count": 196539,
+                        "text_reviews_count": 14709
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 26068204,
+                    "uri": "kca://work/amzn1.gr.work.v1.DGBtTnNlBqcK4Fd6YDxDTw"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Sep 03 05:13:09 -0700 2008",
+            "date_added": "Mon Jul 28 15:13:31 -0700 2008",
+            "date_updated": "Mon Sep 02 10:20:57 -0700 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/28544434",
+            "link": "https://www.goodreads.com/review/show/28544434",
+            "owned": 0
+        }
+    }
+}

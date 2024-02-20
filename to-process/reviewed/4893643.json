@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789422362,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4893643
+                },
+                "isbn": 1592910564,
+                "isbn13": 9781592910564,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 191
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.uXA3Fg-Ah7PyzXKXX4v9ZQ",
+                "title": "FreakAngels, Volume 1 (FreakAngels, #1)",
+                "title_without_series": "FreakAngels, Volume 1",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4893643-freakangels-volume-1",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Avatar Press",
+                "publication_day": 26,
+                "publication_year": 2008,
+                "publication_month": 11,
+                "average_rating": 4.01,
+                "ratings_count": 3281,
+                "description": "Six years ago, twelve psychic children accidentally used their powers to flood the world. Now they attempt to rebuild society and defend London's Whitechapel survivors from one of their own.<br /><br />Twenty-three years ago, twelve strange children were born in England at exactly the same moment. Six years ago, the world ended. Today, eleven strange 23-year-olds live in and defend Whitechapel, maybe the last real settlement in flooded London. When a dazed, gun-toting girl appears on the outskirts with a deadly grudge against the self-proclaimed Freakangels, the kids realize that an old enemy is still alive beyond the safety of their borders... a twelfth psychic child, evil and exiled, who can program human minds to hate, and send his private, pirate armies into Whitechapel for revenge. The first chapter in award-winning author Warren Ellis' post-apocalyptic web comic series!",
+                "authors": {
+                    "author": {
+                        "id": 12772,
+                        "name": "Warren Ellis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p5/12772.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p2/12772.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12772.Warren_Ellis",
+                        "average_rating": 4.13,
+                        "ratings_count": 411461,
+                        "text_reviews_count": 19050
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2860711,
+                    "uri": "kca://work/amzn1.gr.work.v1.ivHszry56wMVr4etWgrpeA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240474045
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:58:52 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813199153,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Jan 01 00:00:00 -0800 2012",
+            "date_added": "Fri Dec 13 08:58:52 -0800 2013",
+            "date_updated": "Mon Oct 23 16:36:54 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789422362",
+            "link": "https://www.goodreads.com/review/show/789422362",
+            "owned": 0
+        }
+    }
+}

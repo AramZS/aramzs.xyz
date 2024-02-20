@@ -1,0 +1,109 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 61112756,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2896061
+                },
+                "isbn": 1422125009,
+                "isbn13": 9781422125007,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 233
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.t-GTIKE3QNWHpGhy9wFZ3A",
+                "title": "Groundswell: Winning in a World Transformed by Social Technologies",
+                "title_without_series": "Groundswell: Winning in a World Transformed by Social Technologies",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2896061-groundswell",
+                "num_pages": 286,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Harvard Business Review Press",
+                "publication_day": 25,
+                "publication_year": 2008,
+                "publication_month": 3,
+                "average_rating": 3.74,
+                "ratings_count": 5530,
+                "description": "Li and Bernoff define 'the groundswell' as a social structure in which technology puts power into the hands of individuals and communities, not institutions. This research based book will not only identify the emerging components of this shift, but will also help companies build their businesses around it.",
+                "authors": {
+                    "author": {
+                        "id": 1254239,
+                        "name": "Charlene Li",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563838497p5/1254239.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563838497p2/1254239.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1254239.Charlene_Li",
+                        "average_rating": 3.77,
+                        "ratings_count": 6602,
+                        "text_reviews_count": 325
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2922453,
+                    "uri": "kca://work/amzn1.gr.work.v1.fRVzhulXEzhYAxI0qSvHCQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "exclusive": true,
+                        "id": 2635324,
+                        "name": "to-read",
+                        "review_shelf_id": 31070039,
+                        "sortable": true
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 293111768,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jun 25 16:08:00 -0700 2009",
+            "date_updated": "Thu Jun 25 16:08:00 -0700 2009",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/61112756",
+            "link": "https://www.goodreads.com/review/show/61112756",
+            "owned": 0
+        }
+    }
+}

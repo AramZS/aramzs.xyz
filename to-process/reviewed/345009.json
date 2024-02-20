@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 90239200,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 345009
+                },
+                "isbn": 262731754,
+                "isbn13": 9780262731751,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.APi5W2sDBedBbTTJ6Gs_Ig",
+                "title": "First Person: New Media as Story, Performance, and Game",
+                "title_without_series": "First Person: New Media as Story, Performance, and Game",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/345009.First_Person",
+                "num_pages": 331,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "MIT Press",
+                "publication_day": 3,
+                "publication_year": 2006,
+                "publication_month": 3,
+                "average_rating": 3.68,
+                "ratings_count": 149,
+                "description": "<b>The relationship between story and game, and related questions of electronic writing and play, examined through a series of discussions among new media creators and theorists.</b><br /><br />Electronic games have established a huge international market, significantly outselling non-digital games; people spend more money on The Sims than on Monopoly or even on Magic: the Gathering. Yet it is widely believed that the market for electronic literature--predicted by some to be the future of the written word--languishes. Even bestselling author Stephen King achieved disappointing results with his online publication of Riding the Bullet and The Plant.<br /><br />Isn't it possible, though, that many hugely successful computer games--those that depend on or at least utilize storytelling conventions of narrative, character, and theme--can be seen as examples of electronic literature? And isn't it likely that the truly significant new forms of electronic literature will prove to be (like games) so deeply interactive and procedural that it would be impossible to present them as paper-like e-books? The editors of <i>First Person</i> have gathered a remarkably diverse group of new media theorists and practitioners to consider the relationship between story and game, as well as the new kinds of artistic creation (literary, performative, playful) that have become possible in the digital environment.<br /><br />This landmark collection is organized as a series of discussions among creators and theorists; each section includes three presentations, with each presentation followed by two responses. Topics considered range from Cyberdrama to Ludology (the study of games), to The Pixel/The Line to Beyond Chat. The conversational structure inspired contributors to revise, update, and expand their presentations as they prepared them for the book, and the panel discussions have overflowed into a <i>First Person</i> web site (created in conjunction with the online journal <i>Electronic Book Review</i>).",
+                "authors": {
+                    "author": {
+                        "id": 588016,
+                        "name": "Noah Wardrip-Fruin",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/588016.Noah_Wardrip_Fruin",
+                        "average_rating": 3.86,
+                        "ratings_count": 480,
+                        "text_reviews_count": 28
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 335335,
+                    "uri": "kca://work/amzn1.gr.work.v1.6on3ibK348EcOc5ye6W3pA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240478358
+                    },
+                    "old_status": "currently-reading",
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 09:04:00 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Thu Feb 18 05:45:19 -0800 2010",
+            "read_at": "Fri Dec 13 09:04:01 -0800 2013",
+            "date_added": "Thu Feb 18 05:45:19 -0800 2010",
+            "date_updated": "Fri Dec 13 09:04:01 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/90239200",
+            "link": "https://www.goodreads.com/review/show/90239200",
+            "owned": 0
+        }
+    }
+}

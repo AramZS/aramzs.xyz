@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606741891,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34506937
+                },
+                "isbn": 1626728690,
+                "isbn13": 9781626728691,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 895
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.kLeFj-dwE9VUYWJHcpOBCg",
+                "title": "Brazen: Rebel Ladies Who Rocked the World (Les Culottées, #1-2)",
+                "title_without_series": "Brazen: Rebel Ladies Who Rocked the World",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500773758l/34506937._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500773758l/34506937._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34506937-brazen",
+                "num_pages": 296,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "First Second",
+                "publication_day": 6,
+                "publication_year": 2018,
+                "publication_month": 3,
+                "average_rating": 4.54,
+                "ratings_count": 4834,
+                "description": "Throughout history and across the globe, one characteristic connects the daring women of <em>Brazen</em>: their indomitable spirit. Against overwhelming adversity, these remarkable women raised their voices and changed history.<br /><br />With her one-of-a-kind wit and dazzling drawings, celebrated graphic novelist Pénélope Bagieu profiles the lives of these feisty female role models, some world-famous, some little known. From Nellie Bly to Mae Jemison or Josephine Baker to Naziq al-Abid, the stories in this comic biography are sure to inspire the next generation of rebel ladies.",
+                "authors": {
+                    "author": {
+                        "id": 1194324,
+                        "name": "Pénélope Bagieu",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447270320p5/1194324.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447270320p2/1194324.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1194324.P_n_lope_Bagieu",
+                        "average_rating": 4.22,
+                        "ratings_count": 21523,
+                        "text_reviews_count": 2949
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 59234012,
+                    "uri": "kca://work/amzn1.gr.work.v1.jhelfTQoW9XZxAP57x5X6A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636067197
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:27:34 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251647957,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:27:33 -0800 2018",
+            "date_updated": "Mon Nov 26 13:27:34 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606741891",
+            "link": "https://www.goodreads.com/review/show/2606741891",
+            "owned": 0
+        }
+    }
+}

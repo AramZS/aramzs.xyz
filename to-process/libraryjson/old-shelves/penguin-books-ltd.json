@@ -1,0 +1,51 @@
+{
+    "name": "Penguin Books Ltd",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Alien vs. Predator",
+            "id": "11737010",
+            "author": "Michael  Robbins",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1353727870000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11737010",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Penguin Books Ltd",
+            "tags": [
+                "Paperback",
+                "Penguin Books Ltd",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0143120352",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780143120353",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "11737010",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

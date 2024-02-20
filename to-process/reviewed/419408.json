@@ -1,0 +1,132 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1972233164,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 419408
+                },
+                "isbn": 674641698,
+                "isbn13": 9780674641693,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 11
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.abvtuEmn5NPo_VMXbuQyMA",
+                "title": "Order Without Law: How Neighbors Settle Disputes",
+                "title_without_series": "Order Without Law: How Neighbors Settle Disputes",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/419408.Order_Without_Law",
+                "num_pages": 316,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Harvard University Press",
+                "publication_day": 15,
+                "publication_year": 1994,
+                "publication_month": 3,
+                "average_rating": 4.1,
+                "ratings_count": 78,
+                "description": "In <i>Order without Law</i>, Robert Ellickson shows that law is far less important than is generally thought. He demonstrates that people largely govern themselves by means of informal rules--social norms--that develop without the aid of a state or other central coordinator. Integrating the latest scholarship in law, economics, sociology, game theory, and anthropology, Ellickson investigates the uncharted world within which order is successfully achieved without law.<br /><br />The springboard for Ellickson's theory of norms is his close investigation of a variety of disputes arising from the damage created by escaped cattle in Shasta County, California. In \"The Problem of Social Cost\"--the most frequently cited article on law--economist Ronald H. Coase depicts farmers and ranchers as bargaining in the shadow of the law while resolving cattle-trespass disputes. Ellickson's field study of this problem refutes many of the behavioral assumptions that underlie Coase's vision, and will add realism to future efforts to apply economic analysis to law.<br /><br />Drawing examples from a wide variety of social contexts, including whaling grounds, photocopying centers, and landlord-tenant relations, Ellickson explores the interaction between informal and legal rules and the usual domains in which these competing systems are employed. <i>Order without Law</i> firmly grounds its analysis in real-world events, while building a broad theory of how people cooperate to mutual advantage.",
+                "authors": {
+                    "author": {
+                        "id": 1294889,
+                        "name": "Robert C. Ellickson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1294889.Robert_C_Ellickson",
+                        "average_rating": 4.14,
+                        "ratings_count": 148,
+                        "text_reviews_count": 15
+                    }
+                },
+                "published": 1994,
+                "work": {
+                    "id": 408551,
+                    "uri": "kca://work/amzn1.gr.work.v1.cL5-G-t08zKQ_GmzY7elng"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801152008
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:15:03 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801152002
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:15:03 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1627403699,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Apr 15 07:15:02 -0700 2017",
+            "date_updated": "Sat Apr 15 07:15:02 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1972233164",
+            "link": "https://www.goodreads.com/review/show/1972233164",
+            "owned": 0
+        }
+    }
+}

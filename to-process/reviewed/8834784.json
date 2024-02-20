@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2229978842,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8834784
+                },
+                "isbn": 1591843634,
+                "isbn13": 9781591843634,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 405
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.9eUPnsr0NPAzGUaykn8eRg",
+                "title": "All the Devils are Here: The Hidden History of the Financial Crisis",
+                "title_without_series": "All the Devils are Here: The Hidden History of the Financial Crisis",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8834784-all-the-devils-are-here",
+                "num_pages": 380,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Portfolio/Penguin",
+                "publication_day": 16,
+                "publication_year": 2010,
+                "publication_month": 11,
+                "average_rating": 4.01,
+                "ratings_count": 6426,
+                "description": "\"Hell is empty, and <br /> all the devils are here.\" <br /> -Shakespeare, <i>The Tempest</i><br /><br />As soon as the financial crisis erupted, the finger-pointing began. Should the blame fall on Wall Street, Main Street, or Pennsylvania Avenue? On greedy traders, misguided regulators, sleazy subprime companies, cowardly legislators, or clueless home buyers?<br /><br />According to Bethany McLean and Joe Nocera, two of America's most acclaimed business journalists, the real answer is all of the above-and more. Many devils helped bring hell to the economy. And the full story, in all of its complexity and detail, is like the legend of the blind men and the elephant. Almost everyone has missed the big picture. Almost no one has put all the pieces together.<br /><br /><i>All the Devils Are Here</i> goes back several decades to weave the hidden history of the financial crisis in a way no previous book has done. It explores the motivations of everyone from famous CEOs, cabinet secretaries, and politicians to anonymous lenders, borrowers, analysts, and Wall Street traders. It delves into the powerful American mythology of homeownership. And it proves that the crisis ultimately wasn't about finance at all; it was about human nature.<br /><br />Among the devils you'll meet in vivid detail:<br /><br />• Angelo Mozilo, the CEO of Countrywide, who dreamed of spreading homeownership to the masses, only to succumb to the peer pressure-and the outsized profits-of the sleaziest subprime lending.<br /><br />• Roland Arnall, a respected philanthropist and diplomat, who made his fortune building Ameriquest, a subprime lending empire that relied on blatantly deceptive lending practices.<br /><br />• Hank Greenberg, who built AIG into a Rube Goldberg contraption with an undeserved triple-A rating, and who ran it so tightly that he was the only one who knew where all the bodies were buried.<br /><br />• Stan O'Neal of Merrill Lynch, aloof and suspicious, who suffered from \"Goldman envy\" and drove a proud old firm into the ground by promoting cronies and pushing out his smartest lieutenants.<br /><br />• Lloyd Blankfein, who helped turn Goldman Sachs from a culture that famously put clients first to one that made clients secondary to its own bottom line.<br /><br />• Franklin Raines of Fannie Mae, who (like his predecessors) bullied regulators into submission and let his firm drift away from its original, noble mission.<br /><br />• Brian Clarkson of Moody's, who aggressively pushed to increase his rating agency's market share and stock price, at the cost of its integrity.<br /><br />• Alan Greenspan, the legendary maestro of the Federal Reserve, who ignored the evidence of a growing housing bubble and turned a blind eye to the lending practices that ultimately brought down Wall Street-and inflicted enormous pain on the country.<br /><br />Just as McLean's <i>The Smartest Guys in the Room</i> was hailed as the best Enron book on a crowded shelf, so will <i>All the Devils Are Here</i> be remembered for finally making sense of the meltdown and its consequences.",
+                "authors": {
+                    "author": {
+                        "id": 65798,
+                        "name": "Bethany McLean",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1450195935p5/65798.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1450195935p2/65798.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/65798.Bethany_McLean",
+                        "average_rating": 4.14,
+                        "ratings_count": 23719,
+                        "text_reviews_count": 1172
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 13709203,
+                    "uri": "kca://work/amzn1.gr.work.v1.kd4JrKoiTWHQyB57Z-ajDA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2139535519
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 28 11:58:49 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1879156798,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 28 11:58:49 -0800 2017",
+            "date_updated": "Thu Dec 28 11:58:49 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2229978842",
+            "link": "https://www.goodreads.com/review/show/2229978842",
+            "owned": 0
+        }
+    }
+}

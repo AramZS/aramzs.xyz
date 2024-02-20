@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2800684993,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 57045
+                },
+                "isbn": 756400597,
+                "isbn13": 9780756400590,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 436
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.iMJt1bJy23MeRWMiDCbYKA",
+                "title": "Downbelow Station (The Company Wars, #1)",
+                "title_without_series": "Downbelow Station",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/57045.Downbelow_Station",
+                "num_pages": 526,
+                "format": "Mass Market Paperback",
+                "edition_information": "20th anniversary edition",
+                "publisher": "DAW",
+                "publication_day": 1,
+                "publication_year": 2001,
+                "publication_month": 12,
+                "average_rating": 3.91,
+                "ratings_count": 12691,
+                "description": "A legend among sci-fi readers, <b>C. J. Cherryh</b>'s Union-Alliance novels, while separate and complete in themselves, are part of a much larger tapestry—a future history spanning 5,000 years of human civilization. A blockbuster space opera of the rebellion between Earth and its far-flung colonies, it is a classic science fiction masterwork.",
+                "authors": {
+                    "author": {
+                        "id": 989968,
+                        "name": "C.J. Cherryh",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1244675150p5/989968.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1244675150p2/989968.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/989968.C_J_Cherryh",
+                        "average_rating": 3.99,
+                        "ratings_count": 181805,
+                        "text_reviews_count": 7932
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 55573,
+                    "uri": "kca://work/amzn1.gr.work.v1.3nM_Tn_sUy_0xv4PkurY0w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2892287995
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Apr 27 06:47:49 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Apr 27 06:47:49 -0700 2019",
+            "date_updated": "Sat Apr 27 06:48:12 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2800684993",
+            "link": "https://www.goodreads.com/review/show/2800684993",
+            "owned": 0
+        }
+    }
+}

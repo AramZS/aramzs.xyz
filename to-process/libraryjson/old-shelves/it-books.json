@@ -1,0 +1,51 @@
+{
+    "name": "It Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "10% Happier",
+            "id": "21419710",
+            "author": "Dan   Harris",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086553000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/21419710",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "It Books",
+            "tags": [
+                "Kindle Edition",
+                "It Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "21419710",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

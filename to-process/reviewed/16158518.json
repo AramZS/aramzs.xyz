@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 702950654,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16158518
+                },
+                "isbn": 1594204195,
+                "isbn13": 9781594204197,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 308
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Qe49ZlY_oyOOveoO2EhZRg",
+                "title": "Difficult Men: Behind the Scenes of a Creative Revolution: From The Sopranos and The Wire to Mad Men and Breaking Bad",
+                "title_without_series": "Difficult Men: Behind the Scenes of a Creative Revolution: From The Sopranos and The Wire to Mad Men and Breaking Bad",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356145312l/16158518._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356145312l/16158518._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16158518-difficult-men",
+                "num_pages": 303,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.83,
+                "ratings_count": 2904,
+                "description": "<b>A riveting and revealing look at the shows that helped cable television drama emerge as the signature art form of the twenty-first century.</b><br /><br /> In the late 1990s and early 2000s, the landscape of television began an unprecedented transformation. While the networks continued to chase the lowest common denominator, a wave of new shows, first on premium cable channels like HBO and then basic cable networks like FX and AMC, dramatically stretched television’s narrative inventiveness, emotional resonance, and artistic ambition. No longer necessarily concerned with creating always-likable characters, plots that wrapped up neatly every episode, or subjects that were deemed safe and appropriate, shows such as The Wire, The Sopranos, Mad Men, Deadwood, The Shield, and more tackled issues of life and death, love and sexuality, addiction, race, violence, and existential boredom. Just as the Big Novel had in the 1960s and the subversive films of New Hollywood had in 1970s, television shows became the place to go to see stories of the triumph and betrayals of the American Dream at the beginning of the twenty-first century.<br /><br /> This revolution happened at the hands of a new breed of auteur: the all-powerful writer-show runner. These were men nearly as complicated, idiosyncratic, and “difficult” as the conflicted protagonists that defined the genre. Given the chance to make art in a maligned medium, they fell upon the opportunity with unchecked ambition.<br /><br /> Combining deep reportage with cultural analysis and historical context, Brett Martin recounts the rise and inner workings of a genre that represents not only a new golden age for TV but also a cultural watershed. Difficult Men features extensive interviews with all the major players, including David Chase (The Sopranos), David Simon and Ed Burns (The Wire), Matthew Weiner and Jon Hamm (Mad Men), David Milch (NYPD Blue, Deadwood), and Alan Ball (Six Feet Under), in addition to dozens of other writers, directors, studio executives, actors, production assistants, makeup artists, script supervisors, and so on. Martin takes us behind the scenes of our favorite shows, delivering never-before-heard story after story and revealing how cable TV has distinguished itself dramatically from the networks, emerging from the shadow of film to become a truly significant and influential part of our culture.<br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 1157271,
+                        "name": "Brett Martin",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1361388065p5/1157271.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1361388065p2/1157271.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1157271.Brett_Martin",
+                        "average_rating": 3.85,
+                        "ratings_count": 3176,
+                        "text_reviews_count": 382
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 21998934,
+                    "uri": "kca://work/amzn1.gr.work.v1.jlZ4ORyziOXKRH17iMr3tQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 132189050
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Aug 24 15:25:54 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 498066270,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Aug 24 15:25:54 -0700 2013",
+            "date_updated": "Sat Aug 24 15:25:54 -0700 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/702950654",
+            "link": "https://www.goodreads.com/review/show/702950654",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2982132472,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 39732762
+                },
+                "isbn": 1517902983,
+                "isbn13": 9781517902988,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.xZaLS87SBZAr9mzGOeIYow",
+                "title": "The Robotic Imaginary: The Human and the Price of Dehumanized Labor",
+                "title_without_series": "The Robotic Imaginary: The Human and the Price of Dehumanized Labor",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524978772l/39732762._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524978772l/39732762._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/39732762-the-robotic-imaginary",
+                "num_pages": 240,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Univ Of Minnesota Press",
+                "publication_day": 16,
+                "publication_year": 2018,
+                "publication_month": 10,
+                "average_rating": 3.8,
+                "ratings_count": 5,
+                "description": "<b>Tracing the connections between human-like robots and AI at the site of dehumanization and exploited labor</b><br /><br /><br /> The word robot—introduced in Karel Capek’s 1920 play <i>R.U.R.</i>—derives from rabota, the Czech word for servitude or forced labor. A century later, the play’s dystopian themes of dehumanization and exploited labor are being played out in factories, workplaces, and battlefields. In <i>The Robotic Imaginary</i>, Jennifer Rhee traces the provocative and productive connections of contemporary robots in technology, film, art, and literature. Centered around the twinned processes of anthropomorphization and dehumanization, she analyzes the coevolution of cultural and technological robots and artificial intelligence, arguing that it is through the conceptualization of the human and, more important, the dehumanized that these multiple spheres affect and transform each other.<br /><br />Drawing on the writings of Alan Turing, Sara Ahmed, and Arlie Russell Hochschild; such films and novels as <i>Her</i> and <i>The Stepford Wives</i>; technologies like Kismet (the pioneering “emotional robot”); and contemporary drone art, this book explores anthropomorphic paradigms in robot design and imagery in ways that often challenge the very grounds on which those paradigms operate in robotics labs and industry. From disembodied, conversational AI and its entanglement with care labor; embodied mobile robots as they intersect with domestic labor; emotional robots impacting affective labor; and armed military drones and artistic responses to drone warfare, <i>The Robotic Imaginary</i> ultimately reveals how the human is made knowable through the design of and discourse on humanoid robots that are, paradoxically, dehumanized.",
+                "authors": {
+                    "author": {
+                        "id": 17913655,
+                        "name": "Jennifer Rhee",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17913655.Jennifer_Rhee",
+                        "average_rating": 3.8,
+                        "ratings_count": 5,
+                        "text_reviews_count": 1
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 61425432,
+                    "uri": "kca://work/amzn1.gr.work.v1.ABjuACILjJKJuujMFr6ZDw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3133138960
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Sep 18 11:36:21 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2628291816,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Sep 18 11:36:20 -0700 2019",
+            "date_updated": "Wed Sep 18 11:36:21 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2982132472",
+            "link": "https://www.goodreads.com/review/show/2982132472",
+            "owned": 0
+        }
+    }
+}

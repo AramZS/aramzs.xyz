@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2825168362,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 32768520
+                },
+                "isbn": 1250126428,
+                "isbn13": 9781250126429,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1686
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.tJWBiPuBDJ2zmcdWYGOBsw",
+                "title": "Mirage (Mirage, #1)",
+                "title_without_series": "Mirage",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521643356l/32768520._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521643356l/32768520._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/32768520-mirage",
+                "num_pages": 320,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Flatiron Books",
+                "publication_day": 28,
+                "publication_year": 2018,
+                "publication_month": 8,
+                "average_rating": 3.72,
+                "ratings_count": 7974,
+                "description": "In a star system dominated by the brutal Vathek empire, eighteen-year-old Amani is a dreamer. She dreams of what life was like before the occupation; she dreams of writing poetry like the old-world poems she adores; she dreams of receiving a sign from Dihya that one day, she, too, will have adventure, and travel beyond her isolated moon.<br /><br />But when adventure comes for Amani, it is not what she expects: she is kidnapped by the regime and taken in secret to the royal palace, where she discovers that she is nearly identical to the cruel half-Vathek Princess Maram. The princess is so hated by her conquered people that she requires a body double, someone to appear in public as Maram, ready to die in her place.<br /><br />As Amani is forced into her new role, she can’t help but enjoy the palace’s beauty—and her time with the princess’ fiancé, Idris. But the glitter of the royal court belies a world of violence and fear. If Amani ever wishes to see her family again, she must play the princess to perfection...because one wrong move could lead to her death.",
+                "authors": {
+                    "author": {
+                        "id": 15179415,
+                        "name": "Somaiya Daud",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1516594116p5/15179415.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1516594116p2/15179415.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/15179415.Somaiya_Daud",
+                        "average_rating": 3.75,
+                        "ratings_count": 8705,
+                        "text_reviews_count": 2319
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 52481416,
+                    "uri": "kca://work/amzn1.gr.work.v1.NvF8kDktCZGjKJnfW5qE1g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2924753574
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat May 18 05:02:17 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat May 18 05:02:16 -0700 2019",
+            "date_updated": "Sat May 18 05:02:24 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2825168362",
+            "link": "https://www.goodreads.com/review/show/2825168362",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071696510,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 252559
+                },
+                "isbn": 743488474,
+                "isbn13": 9780743488471,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 23
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.a5fwRAeEuvl6spwBRQKNcw",
+                "title": "The Cobra Trilogy",
+                "title_without_series": "The Cobra Trilogy",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530114128l/252559._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530114128l/252559._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/252559.The_Cobra_Trilogy",
+                "num_pages": 848,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Baen Books",
+                "publication_day": 14,
+                "publication_year": 2004,
+                "publication_month": 9,
+                "average_rating": 3.96,
+                "ratings_count": 1203,
+                "description": "The colony worlds Adirondack and Silvern fell to the Troft forces almost without a struggle. Outnumbered and on the defensive, Earth made a desperate decision. It would attack the aliens not from space, but on the ground-with forces the Trofts did not even suspect. Thus were created the Cobras, a guerilla force whose weapons were surgically implanted, invisible to the unsuspecting eye, yet undeniably deadly. But power brings temptation . . . and not all the Cobras could be trusted to fight for Earth alone. Jonny Moreau would learn the uses-and abuses-of his special abilities, and what it truly meant to be a Cobra.",
+                "authors": {
+                    "author": {
+                        "id": 12479,
+                        "name": "Timothy Zahn",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p5/12479.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p2/12479.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12479.Timothy_Zahn",
+                        "average_rating": 4.07,
+                        "ratings_count": 363187,
+                        "text_reviews_count": 15929
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 185529,
+                    "uri": "kca://work/amzn1.gr.work.v1.IJisafrtZH4FxcoETXNl2w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593088859
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:19:33 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:19:33 -0700 2014",
+            "date_updated": "Sat Oct 04 07:19:33 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071696510",
+            "link": "https://www.goodreads.com/review/show/1071696510",
+            "owned": 0
+        }
+    }
+}

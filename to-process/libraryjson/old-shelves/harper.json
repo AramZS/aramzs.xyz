@@ -1,0 +1,541 @@
+{
+    "name": "Harper",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Not That Bad: Dispatches from Rape Culture",
+            "id": "36381052",
+            "author": "Roxane Gay, Aubrey Hirsch, Jill Christman, Claire Schwartz, Lynn Melnick, Brandon  Taylor, Emma Smith-Stevens, A.J. McKenna, Lisa Mecham, Vanessa Mártir, Ally Sheedy, xTx, So Mayer, Nora Salem, Lyz Lenz, Amy Jo Burns, V.L. Seek, Michelle Chen, Gabrielle Union, Liz Rosema, Anthony Frame, Samhita Mukhopadhyay, Miriam Zoila Pérez, Zoë Medeiros, Sharisse Tracey, Stacey May Fowles, Elisabeth Fairfield Stokes, Meredith Talusan, Nicole Boyce, Elissa Bassist",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1543267491000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/36381052",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper",
+            "tags": [
+                "Hardcover",
+                "Harper",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0062851462",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780062851468",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "36381052",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Shepherd's Crown (Discworld, #41; Tiffany Aching, #5)",
+            "id": "22886868",
+            "author": "Terry Pratchett, Rob Wilkins",
+            "date_finished": 1451606400000,
+            "notes": [],
+            "date_started": 1473085976000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Shepherd's Crown (Discworld, #41; Tiffany Aching, #5): Rating - 4/5",
+                    "date": 1451606400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22886868",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper",
+            "tags": [
+                "Hardcover",
+                "Harper",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0062429973",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780062429971",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "22886868",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Eric (Discworld, #9; Rincewind #4)",
+            "id": "64218",
+            "author": "Terry Pratchett",
+            "date_finished": 1370044800000,
+            "notes": [],
+            "date_started": 1390425887000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Eric (Discworld, #9; Rincewind #4): Rating - 4/5",
+                    "date": 1370044800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/64218",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper",
+            "tags": [
+                "Mass Market Paperback",
+                "Harper",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0380821214",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780380821211",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "64218",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Sourcery (Discworld, #5; Rincewind #3)",
+            "id": "34499",
+            "author": "Terry Pratchett",
+            "date_finished": 1370044800000,
+            "notes": [],
+            "date_started": 1390425882000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Sourcery (Discworld, #5; Rincewind #3): Rating - 4/5",
+                    "date": 1370044800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34499",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper",
+            "tags": [
+                "Mass Market Paperback",
+                "Harper",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0061020672",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780061020674",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34499",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Making Money (Discworld, #36; Moist Von Lipwig, #2)",
+            "id": "116296",
+            "author": "Terry Pratchett",
+            "date_finished": 1377993600000,
+            "notes": [],
+            "date_started": 1390425693000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Making Money (Discworld, #36; Moist Von Lipwig, #2): Rating - 4/5",
+                    "date": 1377993600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/116296",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper",
+            "tags": [
+                "Hardcover",
+                "Harper",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0061161640",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780061161643",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "116296",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime",
+            "id": "6694937",
+            "author": "John Heilemann, Mark Halperin",
+            "date_finished": 1272240000000,
+            "notes": [],
+            "date_started": 1272305293000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime: Rating - 5/5",
+                    "date": 1272240000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6694937",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper",
+            "tags": [
+                "Hardcover",
+                "Harper",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0061733636",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780061733635",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6694937",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Shepherd's Crown (Discworld, #41; Tiffany Aching, #5)",
+            "id": 22886868,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22886868",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper",
+            "tags": [
+                "Hardcover",
+                "Harper",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 22886868,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Game Change: Obama and the Clintons, McCain and Palin, and the Race of a Lifetime",
+            "id": 6694937,
+            "author": "John Heilemann",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6694937",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper",
+            "tags": [
+                "Hardcover",
+                "Harper",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 6694937,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Making Money (Discworld, #36; Moist Von Lipwig, #2)",
+            "id": 116296,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/116296",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper",
+            "tags": [
+                "Hardcover",
+                "Harper",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 116296,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Sourcery (Discworld, #5; Rincewind #3)",
+            "id": 34499,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34499",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper",
+            "tags": [
+                "Mass Market Paperback",
+                "Harper",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 34499,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Eric (Discworld, #9; Rincewind #4)",
+            "id": 64218,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/64218",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper",
+            "tags": [
+                "Mass Market Paperback",
+                "Harper",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 64218,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

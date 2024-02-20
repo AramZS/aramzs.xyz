@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 532799902,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13547197
+                },
+                "isbn": 1592911722,
+                "isbn13": 9781592911721,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 17
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.VbDevLOfLf09Y6yMO273fQ",
+                "title": "Freakangels Complete Box Set",
+                "title_without_series": "Freakangels Complete Box Set",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344394298l/13547197._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344394298l/13547197._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13547197-freakangels-complete-box-set",
+                "num_pages": 864,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Avatar Press",
+                "publication_day": 6,
+                "publication_year": 2012,
+                "publication_month": 11,
+                "average_rating": 4.32,
+                "ratings_count": 198,
+                "description": "The complete six-volume box set of Warren Ellis’ enormously popular web comic, a tale of twelve psychic Londoners whose combined powers flooded the world!<br /><br />Twenty-three years ago, twelve strange children were born in England at exactly the same moment. Six years ago, they used their psychic powers in unison and accidentally flooded the world. Today, they live in and defend Whitechapel, perhaps the last real settlement in soggy London, from the evil machinations of one of their own – a “Freakangel” gone rogue. But when Mark, the bad seed, returns and forces his old friends to expand their consciousness beyond all concepts of space and time, they discover there’s something coming… something dark and terrible beyond the borders of Whitechapel, closing in for the kill. Writer Warren Ellis and artist Paul Duffield proudly present the 2010 Eagle Award-winning adventures of the Freakangels in this gorgeous box set collection of all six volumes! Packaged in a sturdy slipcase featuring striking original art, never-before-seen!",
+                "authors": {
+                    "author": {
+                        "id": 12772,
+                        "name": "Warren Ellis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p5/12772.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p2/12772.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12772.Warren_Ellis",
+                        "average_rating": 4.13,
+                        "ratings_count": 411461,
+                        "text_reviews_count": 19050
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 19112334,
+                    "uri": "kca://work/amzn1.gr.work.v1.Pfuwvndn0UH5Zcv3ZLifHQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051890265
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:42:05 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813202724,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Feb 01 00:00:00 -0800 2013",
+            "date_added": "Mon Feb 11 00:41:37 -0800 2013",
+            "date_updated": "Mon Oct 23 16:42:06 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/532799902",
+            "link": "https://www.goodreads.com/review/show/532799902",
+            "owned": 0
+        }
+    }
+}

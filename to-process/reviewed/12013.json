@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 162066724,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12013
+                },
+                "isbn": 553575376,
+                "isbn13": 9780553575378,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 785
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Xk8r3HViqTcogZYXUJRU0w",
+                "title": "Excession (Culture, #5)",
+                "title_without_series": "Excession",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930712l/12013._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930712l/12013._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12013.Excession",
+                "num_pages": 499,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Bantam Spectra (NY)",
+                "publication_day": 2,
+                "publication_year": 1998,
+                "publication_month": 2,
+                "average_rating": 4.21,
+                "ratings_count": 24077,
+                "description": "The international sensation Iain M. Banks offers readers a deeply imaginative, wittily satirical tale, proving once again that he is \"a talent to be reckoned with\" (\"Locus\"). In <i>Excession</i>, the Culture's espionage and dirty tricks section orders Diplomat Byr Gen-Hofoen to steal the soul of a long-dead starship captain. By accepting the mission, Byr irrevocably plunges himself into a conspiracy: one that could either lead the universe into an age of peace or to the brink of annihilation.",
+                "authors": {
+                    "author": {
+                        "id": 5807106,
+                        "name": "Iain M. Banks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p5/5807106.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p2/5807106.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks",
+                        "average_rating": 4.08,
+                        "ratings_count": 349700,
+                        "text_reviews_count": 15763
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 1494164,
+                    "uri": "kca://work/amzn1.gr.work.v1.hW-bIxPDVkNopWACXMcyzA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Apr 19 06:34:16 -0700 2011",
+            "date_updated": "Tue Apr 19 06:34:20 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/162066724",
+            "link": "https://www.goodreads.com/review/show/162066724",
+            "owned": 0
+        }
+    }
+}

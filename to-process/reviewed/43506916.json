@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065302472,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 43506916
+                },
+                "isbn": "152474767X",
+                "isbn13": 9781524747671,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 554
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.yz0ySb9UVkMkMPlvxUJQoA",
+                "title": "A Cosmology of Monsters",
+                "title_without_series": "A Cosmology of Monsters",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553582284l/43506916._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553582284l/43506916._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/43506916-a-cosmology-of-monsters",
+                "num_pages": 336,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Pantheon Books",
+                "publication_day": 17,
+                "publication_year": 2019,
+                "publication_month": 9,
+                "average_rating": 3.86,
+                "ratings_count": 3016,
+                "description": "A tender and terrifying literary horror novel - the author's debut - that tells the story of a family (creators of a haunted house attraction called the Wandering Dark) and the hereditary monsters - both metaphorical and all-too-real - that haunt them.<br /><br />Monsters both figurative and <i>very</i> literal stalk the Turner family. The youngest child, Noah, narrates the family history: how in the late '60s, his bookish mother Margaret marries Lovecraft-lover Harry against her better judgment. The couple has two daughters - Sydney, born for the spotlight, and the brilliant but awkward Eunice, a natural writer and storyteller. But finances are tight, Margaret and Eunice are haunted by horrific dreams, and Harry starts acting strangely. He becomes obsessed with the construction of an elaborately crafted haunted house attraction, christened the Wandering Dark. The family tries to shield baby Noah from the house's faux horrors, but unbeknownst to them, he's being visited by a furry beast with glowing orange eyes - the same ghastly being glimpsed by both his mother and sister. However, unlike them, Noah decides to let the creature in...<br /><br />As he approaches the conclusion of his family's tale, it becomes more and more apparent that there's only one way the story can end: with Noah making the ultimate sacrifice.",
+                "authors": {
+                    "author": {
+                        "id": 7976232,
+                        "name": "Shaun Hamill",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1549396452p5/7976232.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1549396452p2/7976232.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7976232.Shaun_Hamill",
+                        "average_rating": 3.86,
+                        "ratings_count": 3019,
+                        "text_reviews_count": 631
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 67664960,
+                    "uri": "kca://work/amzn1.gr.work.v1.sXDtSl6nNOpmtTcM6BuCDw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244214975
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:16:04 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712836410,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:16:03 -0800 2019",
+            "date_updated": "Thu Nov 28 09:16:04 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065302472",
+            "link": "https://www.goodreads.com/review/show/3065302472",
+            "owned": 0
+        }
+    }
+}

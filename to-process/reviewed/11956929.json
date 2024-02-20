@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 532800552,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 11956929
+                },
+                "isbn": 345530373,
+                "isbn13": 9780345530370,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 448
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Y9yWE1mv40e38QdVpcytiQ",
+                "title": "Stay Awake",
+                "title_without_series": "Stay Awake",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320476190l/11956929._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320476190l/11956929._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/11956929-stay-awake",
+                "num_pages": 254,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Ballantine Books",
+                "publication_day": 7,
+                "publication_year": 2012,
+                "publication_month": 2,
+                "average_rating": 3.67,
+                "ratings_count": 2483,
+                "description": "Before the critically acclaimed novels <i>Await Your Reply </i>and<i> You Remind Me of Me, </i>Dan Chaon made a name for himself as a renowned writer of dazzling short stories. Now, in <i>Stay Awake,</i> Chaon returns to that form for the first time since his masterly <i>Among the Missing,</i> a finalist for the National Book Award.<br /><br />In these haunting, suspenseful stories, lost, fragile, searching characters wander between ordinary life and a psychological shadowland. They have experienced intense love or loss, grief or loneliness, displacement or disconnection—and find themselves in unexpected, dire, and sometimes unfathomable situations.<br /><br />A father’s life is upended by his son’s night terrors—and disturbing memories of the first wife and child he abandoned; a foster child receives a call from the past and begins to remember his birth mother, whose actions were unthinkable; a divorced woman experiences her own dark version of “empty-nest syndrome”; a young widower is unnerved by the sudden, inexplicable appearances of messages and notes—on dollar bills, inside a magazine, stapled to the side of a tree; and a college dropout begins to suspect that there’s something off, something sinister, in his late parents’ house.<br /><br />Dan Chaon’s stories feature scattered families, unfulfilled dreamers, anxious souls. They exist in a twilight realm—in a place by the window late at night when the streets are empty and the world appears to be quiet. But you are up, unable to sleep. So you stay awake.",
+                "authors": {
+                    "author": {
+                        "id": 16560,
+                        "name": "Dan Chaon",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1241719844p5/16560.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1241719844p2/16560.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16560.Dan_Chaon",
+                        "average_rating": 3.78,
+                        "ratings_count": 342500,
+                        "text_reviews_count": 13616
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 16491627,
+                    "uri": "kca://work/amzn1.gr.work.v1.UYCuMLcTJn_sX1NYeiCADw"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 361409450,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Feb 11 00:43:37 -0800 2013",
+            "date_updated": "Mon Feb 11 00:43:37 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/532800552",
+            "link": "https://www.goodreads.com/review/show/532800552",
+            "owned": 0
+        }
+    }
+}

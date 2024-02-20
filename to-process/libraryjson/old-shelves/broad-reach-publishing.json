@@ -1,0 +1,194 @@
+{
+    "name": "Broad Reach Publishing",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Beacon 23",
+            "id": "26247312",
+            "author": "Hugh Howey",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1581178331000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/26247312",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Broad Reach Publishing",
+            "tags": [
+                "Kindle Edition",
+                "Broad Reach Publishing",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "26247312",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Shift (Shift, #1-3; Silo, #2)",
+            "id": "17306293",
+            "author": "Hugh Howey",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146331000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/17306293",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Broad Reach Publishing",
+            "tags": [
+                "Kindle Edition",
+                "Broad Reach Publishing",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "17306293",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Wool Omnibus (Silo, #1)",
+            "id": "13453029",
+            "author": "Hugh Howey",
+            "date_finished": 1331769600000,
+            "notes": [],
+            "date_started": 1331846125000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Wool Omnibus (Silo, #1): Rating - 5/5",
+                    "date": 1331769600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13453029",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Broad Reach Publishing",
+            "tags": [
+                "Kindle Edition",
+                "Broad Reach Publishing",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "13453029",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Wool Omnibus (Silo, #1)",
+            "id": 13453029,
+            "author": "Hugh Howey",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13453029",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Broad Reach Publishing",
+            "tags": [
+                "Kindle Edition",
+                "Broad Reach Publishing",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 13453029,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

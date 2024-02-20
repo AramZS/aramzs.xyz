@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2638110449,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25066824
+                },
+                "isbn": 785198849,
+                "isbn13": 9780785198840,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 321
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Z9V_WYatalODNEACDAakyg",
+                "title": "Secret Wars",
+                "title_without_series": "Secret Wars",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455502178l/25066824._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455502178l/25066824._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25066824-secret-wars",
+                "num_pages": 312,
+                "format": "Hardcover",
+                "edition_information": "Deluxe Edition",
+                "publisher": "Marvel Comics",
+                "publication_day": 15,
+                "publication_year": 2016,
+                "publication_month": 3,
+                "average_rating": 3.81,
+                "ratings_count": 3416,
+                "description": "The Marvel Universe is no more! The interdimensional Incursions have eliminated each and every dimension one by one - and now, despite the best eff orts of the scientists, sages and superhumans of both dimensions, the Marvel Universe and Ultimate Universe have collided with one another...and been destroyed! Now, all that exists in the vast empty cosmos is a single titanic patchwork planet, made of the fragmented remains of hundreds of devastated dimensions: Battleworld! And the survivors of this multiversal catastrophe must learn to survive in this strange new realm! What strange creatures inhabit this world? Which familiar faces will make their return? And what happens when the various realms go to war? The Marvel Universe is dead...and the victors of the Secret Wars will determine what comes next!<br /><br /><b>Collecting</b>: <i>Secret Wars</i> 1-9 &amp; materiel from <i>FCBD 2015: Secret Wars</i> 0",
+                "authors": {
+                    "author": {
+                        "id": 356424,
+                        "name": "Jonathan Hickman",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1356400161p5/356424.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1356400161p2/356424.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/356424.Jonathan_Hickman",
+                        "average_rating": 3.93,
+                        "ratings_count": 158207,
+                        "text_reviews_count": 12431
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 44751586,
+                    "uri": "kca://work/amzn1.gr.work.v1.2DeCXzQRK-ChzZztd0E2ww"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2677536976
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Dec 25 09:36:33 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Dec 22 00:00:00 -0800 2018",
+            "date_added": "Tue Dec 25 09:36:32 -0800 2018",
+            "date_updated": "Wed Dec 26 07:34:21 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2638110449",
+            "link": "https://www.goodreads.com/review/show/2638110449",
+            "owned": 0
+        }
+    }
+}

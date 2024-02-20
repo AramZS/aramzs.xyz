@@ -1,0 +1,137 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2167843881,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34376766
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 798
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.A4iie4QZ6NcqX1vo4WDuig",
+                "title": "Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made",
+                "title_without_series": "Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.24,
+                "ratings_count": 9724,
+                "description": "<p>Developing video games—hero's journey or fool's errand? The creative and technical logistics that go into building today's hottest games can be more harrowing and complex than the games themselves, often seeming like an endless maze or a bottomless abyss. In <em>Blood, Sweat, and Pixels, </em>Jason Schreier takes readers on a fascinating odyssey behind the scenes of video game development, where the creator may be a team of 600 overworked underdogs or a solitary geek genius. Exploring the artistic challenges, technical impossibilities, marketplace demands, and Donkey Kong-sized monkey wrenches thrown into the works by corporate, <em>Blood, Sweat, and Pixels </em>reveals how bringing any game to completion is more than Sisyphean—it's nothing short of miraculous.</p><p>Taking some of the most popular, bestselling recent games, Schreier immerses readers in the hellfire of the development process, whether it's RPG studio Bioware's challenge to beat an impossible schedule and overcome countless technical nightmares to build <em>Dragon Age: Inquisition</em>; indie developer Eric Barone's single-handed efforts to grow country-life RPG <em>Stardew Valley </em>from one man's vision into a multi-million-dollar franchise; or Bungie spinning out from their corporate overlords at Microsoft to create <em>Destiny</em>, a brand new universe that they hoped would become as iconic as <em>Star Wars</em> and <em>Lord of the Rings</em>—even as it nearly ripped their studio apart. </p><p>Documenting the round-the-clock crunches, buggy-eyed burnout, and last-minute saves, <em>Blood, Sweat, and Pixels </em>is a journey through development hell—and ultimately a tribute to the dedicated diehards and unsung heroes who scale mountains of obstacles in their quests to create the best games imaginable.</p>",
+                "authors": {
+                    "author": {
+                        "id": 16222011,
+                        "name": "Jason Schreier",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16222011.Jason_Schreier",
+                        "average_rating": 4.24,
+                        "ratings_count": 9724,
+                        "text_reviews_count": 1014
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 55462513,
+                    "uri": "kca://work/amzn1.gr.work.v1.C7j-KtwJrc14JaLlp2aIXA"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2251438233
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sun Mar 04 10:40:51 -0800 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2059331961
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sun Oct 29 14:25:05 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sun Oct 29 14:25:04 -0700 2017",
+            "read_at": "Sun Mar 04 10:48:54 -0800 2018",
+            "date_added": "Sun Oct 29 14:25:04 -0700 2017",
+            "date_updated": "Sun Mar 04 10:48:54 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "reading_notes_link_text": "2 highlights",
+            "reading_notes_url": "https://www.goodreads.com/notes/34376766-blood-sweat-and-pixels/1244876-aram",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2167843881",
+            "link": "https://www.goodreads.com/review/show/2167843881",
+            "owned": 0
+        }
+    }
+}

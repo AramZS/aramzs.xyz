@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749130490,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19318116
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.wMkwo-Hq7a32GybS9vsoNQ",
+                "title": "The Forbes Model For Journalism in the Digital Age",
+                "title_without_series": "The Forbes Model For Journalism in the Digital Age",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19318116-the-forbes-model-for-journalism-in-the-digital-age",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.59,
+                "ratings_count": 34,
+                "description": "ABOUT THE BOOK<br /><br />Since its founding in 1917, Forbes has been providing insights, information, and inspiration to ensure the success of those who are dedicated to the spirit of free enterprise.<br /><br />Its flagship publications, Forbes and Forbes Asia, reach a worldwide audience of more than six million readers and its website, Forbes.com—the leading business site on the Web—attracts an audience that averages 30 million people per month. Forbes also publishes ForbesLife magazine and licensed editions in more than 25 countries around the world.<br /><br />Lewis DVorkin has always appreciated the importance of clarity, particularly in his professional life and in the media he consumes. When he first came to Forbes in the mid-1990s, he completely understood the brand and its voice. Then he left for AOL as the millennium turned. It was obvious the news cycle was getting faster and digital media was the place to be. After that, he founded a startup, True/Slant. He had a clear idea – well, he hoped he did – for a new way to produce news. <br /><br />Two years ago, he sold that company to Forbes, one of his investors. In re-joining a trusted brand and people he trusts as the chief product officer, he saw a direct path for the True/Slant team to take its ideas to a bigger stage. It’s worked out great. Why? Lots of reasons, especially this one: the clarity and strength of the Forbes mission.<br /><br />Journalism at Forbes is rooted in the conviction that success results from free enterprise, the entrepreneurial spirit, smart investing – and living a life beyond the mere accumulation of dollars. Forbes is about aspiration. That message has given tremendous focus to the task of dramatically re-imagining our products and culture in the era of digital publishing and social media.<br /><br />ABOUT THE AUTHOR<br /><br />Lewis DVorkin serves as Chief Product Officer at Forbes Media. His long journey has taken him from The New York Times, Newsweek and The Wall Street Journal, to tabloid TV, AOL—and an instrumental role in launching TMZ.com. DVorkin has lived through a newspaper strike (sounds quaint, right?), the New York City Black Out in '77, and a bout with the Cabbage Patch Dolls. He was the founder and CEO of True/Slant, which Forbes invested in and later acquired. DVorkin first got hooked on the News business as the student editor of the Daily Iowan during the days of Vietnam, Watergate and Roe v. Wade. DVorkin would like to express his gratitude to James Bellows—a truly gifted editor, an extraordinary human being and a mentor.<br /><br />TABLE OF CONTENTS<br /><br />- Introduction: Disrupting the Media Model for News and Information<br />- The Forbes Approach to Brand Building<br />- Digital Journalism and the New Face of Media<br />- News &amp; Social Media - Online Content in the Facebook Age<br />- A New Breed of Journalist - What Makes Forbes Writers Different<br />- Closing Thoughts: Reimagining a Magazine as a Digital Media Marches On<br /><br />EXCERPT FROM THE BOOK<br /><br />Entrepreneurial Journalism means digital screens that come alive with individual voice, real-time activity and dynamic content, not the homogenized, lifeless and static news pages I see on so many other news sites. When I spoke with Forbes staff reporter Deborah Jacobs about this change, she replied, “You know what’s changed for me at Forbes? I now write for my audience, not my editor.”<br /><br />That’s what our new model is about – listening and engaging with news consumers. Then we trust our full-time reporters and knowledgeable contributors to respond by producing content that meets their needs. And lots of it! Digital audiences can’t seem to get enough information, so it’s our job to supply it.",
+                "authors": {
+                    "author": {
+                        "id": 6440324,
+                        "name": "Lewis DVorkin",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6440324.Lewis_DVorkin",
+                        "average_rating": 3.59,
+                        "ratings_count": 34,
+                        "text_reviews_count": 2
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 21439872,
+                    "uri": "kca://work/amzn1.gr.work.v1.8edOoEvGF1Nf7NEavnTctg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498304091
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:43:44 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414466997,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:43:43 -0700 2016",
+            "date_updated": "Mon Sep 05 07:43:43 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749130490",
+            "link": "https://www.goodreads.com/review/show/1749130490",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Fantome",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Opal",
+            "id": "16124152",
+            "author": "Michael Siemsen",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1359431791000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16124152",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Fantome",
+            "tags": [
+                "ebook",
+                "Fantome",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780983446934",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16124152",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

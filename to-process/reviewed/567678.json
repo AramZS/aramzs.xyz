@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960348945,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 567678
+                },
+                "isbn": 684853159,
+                "isbn13": 9780684853154,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3193
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.9B8ap1N_qPkJPM3GjRPhtA",
+                "title": "The Wasp Factory",
+                "title_without_series": "The Wasp Factory",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434940562l/567678._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434940562l/567678._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/567678.The_Wasp_Factory",
+                "num_pages": 192,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Simon & Schuster (NYC)",
+                "publication_day": {},
+                "publication_year": 1998,
+                "publication_month": {},
+                "average_rating": 3.84,
+                "ratings_count": 73202,
+                "description": "Frank, no ordinary sixteen-year-old, lives with his father outside a remote Scottish village. Their life is, to say the least, unconventional. Frank's mother abandoned them years ago: his elder brother Eric is confined to a psychiatric hospital; and his father measures out his eccentricities on an imperial scale. Frank has turned to strange acts of violence to vent his frustrations. In the bizarre daily rituals there is some solace. But when news comes of Eric's escape from the hospital Frank has to prepare the ground for his brother's inevitable return - an event that explodes the mysteries of the past and changes Frank utterly.<br /><br /><i>The Wasp Factory</i> is a work of horrifying compulsion: horrifying, because it enters a mind whose realities are not our own, whose values of life and death are alien to our society; compulsive, because the humour and compassion of that mind reach out to us all. A novel of extraordinary originality, imagination and comic ferocity.",
+                "authors": {
+                    "author": {
+                        "id": 7628,
+                        "name": "Iain Banks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1374456581p5/7628.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1374456581p2/7628.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7628.Iain_Banks",
+                        "average_rating": 3.8,
+                        "ratings_count": 171754,
+                        "text_reviews_count": 8740
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 3205295,
+                    "uri": "kca://work/amzn1.gr.work.v1.JQHGF9wMFgWMzf3IKC_8wQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452290858
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:18:34 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710715717,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:18:34 -0700 2014",
+            "date_updated": "Sat Jun 07 06:18:34 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960348945",
+            "link": "https://www.goodreads.com/review/show/960348945",
+            "owned": 0
+        }
+    }
+}

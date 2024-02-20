@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2638064661,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35056651
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 42
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.buaMxj0NMO6JwljB0Hy-3Q",
+                "title": "Champions Vol. 1: Change The World",
+                "title_without_series": "Champions Vol. 1: Change The World",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35056651-champions-vol-1",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.85,
+                "ratings_count": 1306,
+                "description": "Collecting Champions (2016) #1-5.<br /><br />One of the great team names in Marvel history returns, in incredible new fashion! During the fallout of Civil War II, Ms. Marvel, Nova and Spider-Man quit the Avengers and strike out on their own! With Viv Vision and the Totally Awesome Hulk by their side, these young heroes are determined to change the world their own way - and they're only the beginning! It starts as an idea. It becomes an ideal. But what happens when it turns into a movement - one so big even the Hulk can't stop it? And will one of the greatest X-Men of all forge a new future by their side? Welcome to the Champions, Cyclops! Unfortunately, not all of your new would-be teammates are glad to see you!",
+                "authors": {
+                    "author": {
+                        "id": 5363,
+                        "name": "Mark Waid",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1281876586p5/5363.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1281876586p2/5363.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5363.Mark_Waid",
+                        "average_rating": 3.97,
+                        "ratings_count": 273535,
+                        "text_reviews_count": 17863
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 52692638,
+                    "uri": "kca://work/amzn1.gr.work.v1.kTIS6XVzhX99_tj-cVaf5A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2677481446
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Dec 25 09:00:19 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Dec 25 00:00:00 -0800 2018",
+            "date_added": "Tue Dec 25 09:00:18 -0800 2018",
+            "date_updated": "Wed Dec 26 07:34:51 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2638064661",
+            "link": "https://www.goodreads.com/review/show/2638064661",
+            "owned": 0
+        }
+    }
+}

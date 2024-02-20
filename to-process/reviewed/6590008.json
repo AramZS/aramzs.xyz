@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749130420,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6590008
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 18
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.T8wfm8lGuo0lo6rj9ANZ7Q",
+                "title": "JavaScript: The Good Parts",
+                "title_without_series": "JavaScript: The Good Parts",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6590008-javascript",
+                "num_pages": 100,
+                "format": {},
+                "edition_information": "1st Edition",
+                "publisher": "Yahoo Press",
+                "publication_day": 17,
+                "publication_year": 2008,
+                "publication_month": 12,
+                "average_rating": 4.23,
+                "ratings_count": 7814,
+                "description": "Most programming languages contain good and bad parts, but JavaScript has more than its share of the bad, having been developed and released in a hurry before it could be refined. This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole-a subset you can use to create truly extensible and efficient code.<br /><br />Considered <i>the</i> JavaScript expert by many people in the development community, author Douglas Crockford identifies the abundance of good ideas that make JavaScript an outstanding object-oriented programming language-ideas such as functions, loose typing, dynamic objects, and an expressive object literal notation. Unfortunately, these good ideas are mixed in with bad and downright awful ideas, like a programming model based on global variables.<br /><br />When Java applets failed, JavaScript became the language of the Web by default, making its popularity almost completely independent of its qualities as a programming language. In <i>JavaScript: The Good Parts</i>, Crockford finally digs through the steaming pile of good intentions and blunders to give you a detailed look at all the genuinely elegant parts of JavaScript, including:<br /><br />* Syntax<br />* Objects<br />* Functions<br />* Inheritance<br />* Arrays<br />* Regular expressions<br />* Methods<br />* Style<br />* Beautiful features<br /><br />The real beauty? As you move ahead with the subset of JavaScript that this book presents, you'll also sidestep the need to <i>unlearn</i> all the bad parts. Of course, if you want to find out more about the bad parts and how to use them badly, simply consult any other JavaScript book.<br /><br />With <i>JavaScript: The Good Parts</i>, you'll discover a beautiful, elegant, lightweight and highly expressive language that lets you create effective code, whether you're managing object libraries or just trying to get Ajax to run fast. If you develop sites or applications for the Web, this book is an absolute must.",
+                "authors": {
+                    "author": {
+                        "id": 1290380,
+                        "name": "Douglas Crockford",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1290380.Douglas_Crockford",
+                        "average_rating": 4.16,
+                        "ratings_count": 9242,
+                        "text_reviews_count": 580
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 3028639,
+                    "uri": "kca://work/amzn1.gr.work.v1.Z1HuMZSt3rIihybug4m1dw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498303998
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:43:39 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414466934,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:43:38 -0700 2016",
+            "date_updated": "Mon Sep 05 07:43:39 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749130420",
+            "link": "https://www.goodreads.com/review/show/1749130420",
+            "owned": 0
+        }
+    }
+}

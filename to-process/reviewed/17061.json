@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528959313,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17061
+                },
+                "isbn": 61139378,
+                "isbn13": 9780061139376,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 13598
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.iZ08M4DnKVh3VqwRVK5eKg",
+                "title": "Coraline",
+                "title_without_series": "Coraline",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493497435l/17061._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493497435l/17061._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17061.Coraline",
+                "num_pages": 162,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "William Morrow Paperbacks",
+                "publication_day": 29,
+                "publication_year": 2006,
+                "publication_month": 8,
+                "average_rating": 4.06,
+                "ratings_count": 456316,
+                "description": "The day after they moved in, Coraline went exploring....<br /><br />In Coraline's family's new flat are twenty-one windows and fourteen doors. Thirteen of the doors open and close. <br /><br />The fourteenth is locked, and on the other side is only a brick wall, until the day Coraline unlocks the door to find a passage to another flat in another house just like her own. <br /><br />Only it's different. <br /><br />At first, things seem marvelous in the other flat. The food is better. The toy box is filled with wind-up angels that flutter around the bedroom, books whose pictures writhe and crawl and shimmer, little dinosaur skulls that chatter their teeth. But there's another mother, and another father, and they want Coraline to stay with them and be their little girl. They want to change her and never let her go. <br /><br />Other children are trapped there as well, lost souls behind the mirrors. Coraline is their only hope of rescue. She will have to fight with all her wits and all the tools she can find if she is to save the lost children, her ordinary life, and herself. <br /><br />Critically acclaimed and award-winning author Neil Gaiman will delight readers with his first novel for all ages.",
+                "authors": {
+                    "author": {
+                        "id": 1221698,
+                        "name": "Neil Gaiman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p5/1221698.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p2/1221698.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1221698.Neil_Gaiman",
+                        "average_rating": 4.13,
+                        "ratings_count": 5858776,
+                        "text_reviews_count": 352868
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 2834844,
+                    "uri": "kca://work/amzn1.gr.work.v1.vbalmqvzO8KrGjieBP-H0w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051892824
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:44:32 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813204579,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:19:57 -0800 2013",
+            "date_updated": "Mon Oct 23 16:44:32 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528959313",
+            "link": "https://www.goodreads.com/review/show/528959313",
+            "owned": 0
+        }
+    }
+}

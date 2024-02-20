@@ -1,0 +1,117 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960347665,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7963
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9780898799279,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 267
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.T6sW7MKD6hzj9kraDRBwGQ",
+                "title": "Characters and Viewpoint",
+                "title_without_series": "Characters and Viewpoint",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7963.Characters_and_Viewpoint",
+                "num_pages": 182,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Writer's Digest Books",
+                "publication_day": 15,
+                "publication_year": 1999,
+                "publication_month": 3,
+                "average_rating": 4.03,
+                "ratings_count": 4282,
+                "description": "Vivid and memorable characters aren't born: they have to be made.<br /><br />This book is a set of tools: literary crowbars, chisels, mallets, pliers and tongs. Use them to pry, chip, yank and sift good characters out of the place where they live in your memory, your imagination and your soul.<br /><br />Award-winning author Orson Scott Card explains in depth the techniques of inventing, developing and presenting characters, plus handling viewpoint in novels and short stories. With specific examples, he spells out your narrative options–the choices you'll make in creating fictional people so \"real\" that readers will feel they know them like members of their own families.<br /><br />You'll learn how to: <br />draw the characters from a variety of sources, including a story's basic idea, real life–even a character's social circumstances <br />make characters show who they are by the things they do and say, and by their individual \"style\" <br />develop characters readers will love–or love to hate <br />distinguish among major characters, minor characters and walk-ons, and develop each one appropriately <br />choose the most effective viewpoint to reveal the characters and move the storytelling <br />decide how deeply you should explore your characters' thoughts, emotions and attitudes",
+                "authors": {
+                    "author": {
+                        "id": 589,
+                        "name": "Orson Scott Card",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294099952p5/589.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294099952p2/589.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/589.Orson_Scott_Card",
+                        "average_rating": 4.09,
+                        "ratings_count": 2587909,
+                        "text_reviews_count": 105497
+                    }
+                },
+                "published": 1999,
+                "work": {
+                    "id": 10967,
+                    "uri": "kca://work/amzn1.gr.work.v1.OXe8XpzoIX4dCBMSTPFdCg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452289310
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:16:37 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:16:37 -0700 2014",
+            "date_updated": "Sat Jun 07 06:16:37 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960347665",
+            "link": "https://www.goodreads.com/review/show/960347665",
+            "owned": 0
+        }
+    }
+}

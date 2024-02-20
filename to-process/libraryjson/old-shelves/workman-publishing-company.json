@@ -1,0 +1,51 @@
+{
+    "name": "Workman Publishing Company",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Freelancer's Bible: Everything You Need to Know to Have the Career of Your Dreams—On Your Terms",
+            "id": "14841556",
+            "author": "Sara Horowitz",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1356965774000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/14841556",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Workman Publishing Company",
+            "tags": [
+                "Paperback",
+                "Workman Publishing Company",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "076116488X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780761164883",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "14841556",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

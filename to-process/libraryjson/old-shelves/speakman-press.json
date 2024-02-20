@@ -1,0 +1,103 @@
+{
+    "name": "Speakman Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Imaginary Friends",
+            "id": "13002061",
+            "author": "Terry Brooks",
+            "date_finished": 1359676800000,
+            "notes": [],
+            "date_started": 1390426001000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Imaginary Friends: Rating - 4/5",
+                    "date": 1359676800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13002061",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Speakman Press",
+            "tags": [
+                "Kindle Edition",
+                "Speakman Press",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "13002061",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Imaginary Friends",
+            "id": 13002061,
+            "author": "Terry Brooks",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13002061",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Speakman Press",
+            "tags": [
+                "Speakman Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 13002061,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

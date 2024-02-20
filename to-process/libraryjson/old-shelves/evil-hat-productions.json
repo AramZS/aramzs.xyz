@@ -1,0 +1,96 @@
+{
+    "name": "Evil Hat Productions",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Our World (The Dresden Files Roleplaying Game, #2)",
+            "id": "8029972",
+            "author": "Leonard Balsera, Jim Butcher, Genevieve Cogman, Rob Donoghue, Fred Hicks, Kenneth Hite, Ryan Macklin, Chad Underkoffler, Clark Valentine",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386953303000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8029972",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Evil Hat Productions",
+            "tags": [
+                "Hardcover",
+                "Evil Hat Productions",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0977153487",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780977153480",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "8029972",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Your Story (The Dresden Files Roleplaying Game, #1)",
+            "id": "8029973",
+            "author": "Leonard Balsera, Jim Butcher, Genevieve Cogman, Rob Donoghue, Fred Hicks, Kenneth Hite, Ryan Macklin, Chad Underkoffler, Clark Valentine",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386953300000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8029973",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Evil Hat Productions",
+            "tags": [
+                "Hardcover",
+                "Evil Hat Productions",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0977153479",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780977153473",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "8029973",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

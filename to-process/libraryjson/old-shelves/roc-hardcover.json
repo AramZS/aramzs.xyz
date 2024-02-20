@@ -1,0 +1,104 @@
+{
+    "name": "Roc Hardcover",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Ghost Story (The Dresden Files, #13)",
+            "id": "8058301",
+            "author": "Jim Butcher",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1303220363000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Ghost Story (The Dresden Files, #13): Rating - 5/5",
+                    "date": 1303220363000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8058301",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Roc Hardcover",
+            "tags": [
+                "Hardcover",
+                "Roc Hardcover",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "045146379X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780451463791",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "8058301",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Ghost Story (The Dresden Files, #13)",
+            "id": 8058301,
+            "author": "Jim Butcher",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8058301",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Roc Hardcover",
+            "tags": [
+                "Hardcover",
+                "Roc Hardcover",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "045146379X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 8058301,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

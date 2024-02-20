@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671466,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 434938
+                },
+                "isbn": 679750290,
+                "isbn13": 9780679750291,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 24
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-IW5XU8tB7R5iEC6s0DeYg",
+                "title": "Operation Shylock",
+                "title_without_series": "Operation Shylock",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/434938.Operation_Shylock",
+                "num_pages": 400,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Vintage",
+                "publication_day": 15,
+                "publication_year": 1994,
+                "publication_month": 3,
+                "average_rating": 3.77,
+                "ratings_count": 3779,
+                "description": "<b><i>Time</i> Magazine Best American Novel (1993)<br /></b><br />In this fiendishly imaginative book (which may or may not be fiction), Philip Roth meets a man who may or may not be Philip Roth. Because <i>someone</i> with that name has been touring Israel, promoting a bizarre reverse exodus of the Jews. Roth is intent on stopping him, even if that means impersonating his own impersonator. <br /><br />With excruciating suspense, unfettered philosophical speculation, and a cast of characters that includes Israeli intelligence agents, Palestinian exiles, an accused war criminal, and an enticing charter member of an organization called Anti-Semites Anonymous, <b>Operation Shylock</b> barrels across the frontier between fact and fiction, seriousness and high comedy, history and nightmare.",
+                "authors": {
+                    "author": {
+                        "id": 463,
+                        "name": "Philip Roth",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1399886959p5/463.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1399886959p2/463.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/463.Philip_Roth",
+                        "average_rating": 3.81,
+                        "ratings_count": 384391,
+                        "text_reviews_count": 27913
+                    }
+                },
+                "published": 1994,
+                "work": {
+                    "id": 3082517,
+                    "uri": "kca://work/amzn1.gr.work.v1.mmCxnzACONf0618zHL3MUw"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:22:01 -0700 2008",
+            "date_updated": "Mon Jun 16 19:22:01 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671466",
+            "link": "https://www.goodreads.com/review/show/24671466",
+            "owned": 0
+        }
+    }
+}

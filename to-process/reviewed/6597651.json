@@ -1,0 +1,157 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 93585566,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6597651
+                },
+                "isbn": 1597801577,
+                "isbn13": 9781597801577,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5047
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.BYKlGfoI6gUllwnnib1EiA",
+                "title": "The Windup Girl",
+                "title_without_series": "The Windup Girl",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1278940608l/6597651._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1278940608l/6597651._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6597651-the-windup-girl",
+                "num_pages": 359,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Night Shade Books",
+                "publication_day": 1,
+                "publication_year": 2009,
+                "publication_month": 9,
+                "average_rating": 3.75,
+                "ratings_count": 62417,
+                "description": "Anderson Lake is a company man, AgriGen's Calorie Man in Thailand. Under cover as a factory manager, Anderson combs Bangkok's street markets in search of foodstuffs thought to be extinct, hoping to reap the bounty of history's lost calories. There, he encounters Emiko... <br /><br />Emiko is the Windup Girl, a strange and beautiful creature. One of the New People, Emiko is not human; instead, she is an engineered being, creche-grown and programmed to satisfy the decadent whims of a Kyoto businessman, but now abandoned to the streets of Bangkok. Regarded as soulless beings by some, devils by others, New People are slaves, soldiers, and toys of the rich in a chilling near future in which calorie companies rule the world, the oil age has passed, and the side effects of bio-engineered plagues run rampant across the globe. <br /><br />What Happens when calories become currency? What happens when bio-terrorism becomes a tool for corporate profits, when said bio-terrorism's genetic drift forces mankind to the cusp of post-human evolution? Award-winning author Paolo Bacigalupi delivers one of the most highly acclaimed science fiction novels of the twenty-first century.",
+                "authors": {
+                    "author": {
+                        "id": 1226977,
+                        "name": "Paolo Bacigalupi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1375566282p5/1226977.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1375566282p2/1226977.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1226977.Paolo_Bacigalupi",
+                        "average_rating": 3.78,
+                        "ratings_count": 173920,
+                        "text_reviews_count": 20197
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 6791425,
+                    "uri": "kca://work/amzn1.gr.work.v1.mblm2qQjRGeY4smwQs7tVg"
+                }
+            },
+            "user_statuses": {
+                "user_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2242198
+                    },
+                    "page": {
+                        "type": "integer",
+                        "$t": 115
+                    },
+                    "chapter": {
+                        "type": "integer"
+                    },
+                    "comments_count": 0,
+                    "created_at": {
+                        "type": "datetime",
+                        "$t": "Thu Mar 11 08:36:12 -0800 2010"
+                    },
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Mar 11 08:36:12 -0800 2010"
+                    },
+                    "last_comment_at": {
+                        "type": "datetime"
+                    },
+                    "ratings_count": {
+                        "type": "integer",
+                        "$t": 0
+                    },
+                    "percent": {
+                        "type": "integer"
+                    },
+                    "work_id": {
+                        "type": "integer"
+                    },
+                    "note_uri": {},
+                    "note_updated_at": {
+                        "type": "datetime"
+                    },
+                    "body": {}
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 51598941,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847054895,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Thu Mar 11 00:00:00 -0800 2010",
+            "read_at": "Wed Mar 17 23:41:10 -0700 2010",
+            "date_added": "Thu Mar 11 08:36:07 -0800 2010",
+            "date_updated": "Thu Dec 04 08:42:48 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/93585566",
+            "link": "https://www.goodreads.com/review/show/93585566",
+            "owned": 0
+        }
+    }
+}

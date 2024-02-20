@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333630989,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35798468
+                },
+                "isbn": "152479953X",
+                "isbn13": 9781524799533,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 285
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4b-PY0BO78S6LnZd3hSCMw",
+                "title": "Canto Bight (Journey to Star Wars: The Last Jedi, #1)",
+                "title_without_series": "Canto Bight",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505354146l/35798468._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505354146l/35798468._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35798468-canto-bight",
+                "num_pages": 295,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Del Rey Books",
+                "publication_day": 5,
+                "publication_year": 2017,
+                "publication_month": 12,
+                "average_rating": 3.46,
+                "ratings_count": 2291,
+                "description": "Soon to be seen in <i>Star Wars: The Last Jedi</i>, welcome to the casino city of Canto Bight. A place where exotic aliens, captivating creatures, and other would-be high rollers are willing to risk everything to make their fortunes. Set across one fateful evening, these four interconnected stories explore the deception and danger of the lavish casino city<i>. </i><br /><br />- An honest salesman meets a career criminal as a dream vacation turns into the worst nightmare imaginable, in a story by Saladin Ahmed.<br /><br />- Dreams and schemes collide when a deal over a priceless bottle of wine becomes a struggle for survival, as told by Mira Grant.<br /><br />- Old habits die hard when a servant is forced into a mad struggle for power among Canto Bight's elite, in a tale by Rae Carson<br /><br />- A deadbeat gambler has one last chance to turn his luck around; all he has to do is survive one wild night, as told by John Jackson Miller.<br /><br />In Canto Bight, one is free to revel in excess, untouched from the problems of a galaxy once again descending into chaos and war. Dreams can become reality, but the stakes have never been higher--for there is a darkness obscured by all the glamour and luxury.",
+                "authors": {
+                    "author": {
+                        "id": 4025591,
+                        "name": "Saladin Ahmed",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1325700680p5/4025591.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1325700680p2/4025591.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4025591.Saladin_Ahmed",
+                        "average_rating": 3.9,
+                        "ratings_count": 39009,
+                        "text_reviews_count": 5117
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 57213360,
+                    "uri": "kca://work/amzn1.gr.work.v1.zvHdYPqtVPu05fa7Gu9J-Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2274322259
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Mar 20 05:17:27 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Mar 20 05:17:26 -0700 2018",
+            "date_updated": "Tue Mar 20 05:17:26 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333630989",
+            "link": "https://www.goodreads.com/review/show/2333630989",
+            "owned": 0
+        }
+    }
+}

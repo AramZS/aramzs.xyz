@@ -1,0 +1,113 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 33840992,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 38447
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 48669
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.QYIb80P3mP0A4pXX0ucI6A",
+                "title": "The Handmaid's Tale",
+                "title_without_series": "The Handmaid's Tale",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578028274l/38447._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578028274l/38447._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale",
+                "num_pages": 314,
+                "format": "Paperback",
+                "edition_information": "1st Anchor Books edition",
+                "publisher": "Anchor Books",
+                "publication_day": {},
+                "publication_year": 1998,
+                "publication_month": 4,
+                "average_rating": 4.11,
+                "ratings_count": 1369059,
+                "description": "Offred is a Handmaid in the Republic of Gilead. She may leave the home of the Commander and his wife once a day to walk to food markets whose signs are now pictures instead of words because women are no longer allowed to read. She must lie on her back once a month and pray that the Commander makes her pregnant, because in an age of declining births, Offred and the other Handmaids are valued only if their ovaries are viable. Offred can remember the years before, when she lived and made love with her husband, Luke; when she played with and protected her daughter; when she had a job, money of her own, and access to knowledge. But all of that is gone now . . . <br /><br />Funny, unexpected, horrifying, and altogether convincing, <i>The Handmaid's Tale</i> is at once scathing satire, dire warning, and tour de force.",
+                "authors": {
+                    "author": {
+                        "id": 3472,
+                        "name": "Margaret Atwood",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1282859073p5/3472.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1282859073p2/3472.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3472.Margaret_Atwood",
+                        "average_rating": 4.03,
+                        "ratings_count": 2588358,
+                        "text_reviews_count": 164637
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 1119185,
+                    "uri": "kca://work/amzn1.gr.work.v1.C3iSrQ9DOvG8o6BBrFoi4w"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "exclusive": true,
+                        "id": 2635324,
+                        "name": "to-read",
+                        "review_shelf_id": 15157260,
+                        "sortable": true
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847071068,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Sep 25 14:55:10 -0700 2008",
+            "date_updated": "Thu Dec 04 09:10:37 -0800 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/33840992",
+            "link": "https://www.goodreads.com/review/show/33840992",
+            "owned": 0
+        }
+    }
+}

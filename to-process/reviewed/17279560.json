@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2054300178,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17279560
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1321
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.C9Fq9M1xHAoiSgzBkyugjQ",
+                "title": "Dangerous Women",
+                "title_without_series": "Dangerous Women",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370759802l/17279560._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370759802l/17279560._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17279560-dangerous-women",
+                "num_pages": 736,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 3,
+                "publication_year": 2013,
+                "publication_month": 12,
+                "average_rating": 3.68,
+                "ratings_count": 11301,
+                "description": "The Dangerous Women anthology contains following stories:<br /> - Introduction by Gardner Dozois<br /> - “Some Desperado” by Joe Abercrombie - A Red Country story<br /> - “My Heart is Either Broken” by Megan Abbott<br /> - “Nora’s Song” by Cecelia Holland<br /> - “The Hands That Are Not There” by Melinda Snodgrass<br /> - “Bombshells” by Jim Butcher - A Harry Dresden story<br /> - “Raisa Stepanova” by Carrie Vaughn<br /> - “Wrestling Jesus” by Joe R. Lansdale<br /> - “Neighbors” by Megan Lindholm<br /> - “I Know How to Pick ’Em” by Lawrence Block<br /> - “Shadows For Silence in the Forests of Hell” by Brandon Sanderson - A Cosmere story<br /> - “A Queen in Exile” by Sharon Kay Penman<br /> - “The Girl in the Mirror” by Lev Grossman - A Magicians story<br /> - “Second Arabesque, Very Slowly” by Nancy Kress<br /> - “City Lazarus” by Diana Rowland<br /> - “Virgins” by Diana Gabaldon - An Outlander story<br /> - “Hell Hath No Fury” by Sherilynn Kenyon<br /> - “Pronouncing Doom” by S.M. Stirling - An Emberverse story<br /> - “Name the Beast” by Sam Sykes<br /> - “Caretakers” by Pat Cadigan<br /> - “Lies My Mother Told Me” by Caroline Spector - A Wild Cards story<br /> - “The Princess and the Queen” by George R.R. Martin - A Song of Ice and Fire story",
+                "authors": {
+                    "author": {
+                        "id": 346732,
+                        "name": "George R.R. Martin",
+                        "role": "Editor/Contributor",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563055799p5/346732.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563055799p2/346732.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
+                        "average_rating": 4.37,
+                        "ratings_count": 5431031,
+                        "text_reviews_count": 194375
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 19236677,
+                    "uri": "kca://work/amzn1.gr.work.v1.5P3RzAayuVoaMdBSi0Ou5w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1910668750
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 09 07:18:17 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1708037036,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Jul 09 07:18:16 -0700 2017",
+            "date_updated": "Sun Jul 09 07:18:16 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2054300178",
+            "link": "https://www.goodreads.com/review/show/2054300178",
+            "owned": 0
+        }
+    }
+}

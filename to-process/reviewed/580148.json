@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24672149,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 580148
+                },
+                "isbn": 889953457,
+                "isbn13": 9780889953451,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.dje7SFCadoSZUhFnaJ_O6w",
+                "title": "The Engine of Recall",
+                "title_without_series": "The Engine of Recall",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328771169l/580148._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328771169l/580148._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/580148.The_Engine_of_Recall",
+                "num_pages": 271,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Red Deer Press",
+                "publication_day": 1,
+                "publication_year": 2007,
+                "publication_month": 7,
+                "average_rating": 3.82,
+                "ratings_count": 72,
+                "description": "Aurora Award Nominee, 2006<br /><br />Gathered here for the first time are the finest science-fiction stories, including the previously unpublished novelette \"Alexander's Road,\" by the award-winning Karl Schroeder. The <i>Engine of Recall</i> tales are of ordinary people in astonishing circumstances. Whether stranded alone on the frigid oceans of Saturn's moon Titan, or searching for stolen nuclear bombs under the rusting oil derricks of Azerbaijan, Schroeder's characters assert their humanity in inhuman circumstances.<br /><br />Combining classic adventure and sophisticated speculation, the ten stories in this collection are sure to satisfy a broad range of readers.<br /><br />Includes an introduction by Stephen Baxter.<br /><br />The original story \"Alexander's Road\" was nominated for the Aurora Award -- Canada's top Science Fiction award -- for best short work in English.",
+                "authors": {
+                    "author": {
+                        "id": 19169,
+                        "name": "Karl Schroeder",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1378361478p5/19169.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1378361478p2/19169.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/19169.Karl_Schroeder",
+                        "average_rating": 3.78,
+                        "ratings_count": 20218,
+                        "text_reviews_count": 2438
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 567050,
+                    "uri": "kca://work/amzn1.gr.work.v1.HvLWDYadiTzfcC0kzz8bzA"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 10337486,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:28:52 -0700 2008",
+            "date_updated": "Mon Jun 16 19:28:52 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24672149",
+            "link": "https://www.goodreads.com/review/show/24672149",
+            "owned": 0
+        }
+    }
+}

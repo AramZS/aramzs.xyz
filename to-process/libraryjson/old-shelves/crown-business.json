@@ -1,0 +1,141 @@
+{
+    "name": "Crown Business",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It",
+            "id": "7495395",
+            "author": "Scott Patterson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1514491700000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7495395",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Crown Business",
+            "tags": [
+                "Hardcover",
+                "Crown Business",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0307453375",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780307453372",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "7495395",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Rework",
+            "id": "6732019",
+            "author": "Jason Fried, David Heinemeier Hansson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146597000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6732019",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Crown Business",
+            "tags": [
+                "Hardcover",
+                "Crown Business",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0307463745",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780307463746",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6732019",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future",
+            "id": "12605157",
+            "author": "Chris Guillebeau",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1351570239000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12605157",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Crown Business",
+            "tags": [
+                "Hardcover",
+                "Crown Business",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0307951529",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780307951526",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "12605157",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

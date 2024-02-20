@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520208664,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 187124
+                },
+                "isbn": 345379624,
+                "isbn13": 9780345379627,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 511
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.eDREHJviJ93K2S0rK3TuUg",
+                "title": "Running with the Demon (Word & Void, #1)",
+                "title_without_series": "Running with the Demon",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451687782l/187124._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451687782l/187124._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/187124.Running_with_the_Demon",
+                "num_pages": 420,
+                "format": "Hardcover",
+                "edition_information": "First Edition",
+                "publisher": "Del Rey Books",
+                "publication_day": 19,
+                "publication_year": 1997,
+                "publication_month": 8,
+                "average_rating": 3.97,
+                "ratings_count": 26685,
+                "description": "Twenty years ago, Terry Brooks turned fantasy fiction on its head with The Sword of Shannara, the first fantasy novel to make the mainstream bestseller lists, and the first in an unbroken string of thirteen bestselling books. Now, in Running with the Demon, Brooks does nothing less than revitalize fantasy fiction again, inventing the complex and powerful new mythos of the Word and the Void, good versus evil still, but played out in the theater-in-the-round of the \"real world\" of our present. <br /><br />On the hottest Fourth of July weekend in decades, two men have come to Hopewell, Illinois, site of a lengthy, bitter steel strike. One is a demon, dark servant of the Void, who will use the anger and frustration of the community to attain a terrible secret goal. The other is John Ross, a Knight of the Word, a man who, while he sleeps, lives in the hell the world will become if he fails to change its course on waking. Ross has been given the ability to see the future. But does he have the power to change it?<br /><br />At stake is the soul of a fourteen-year-old girl mysteriously linked to both men. And the lives of the people of Hopewell. And the future of the country. This Fourth of July, while friends and families picnic in Sinnissippi Park and fireworks explode in celebration of freedom and independence, the fate of Humanity will be decided . . .<br /><br />A novel that weaves together family drama, fading innocence, cataclysm, and enlightenment, Running with the Demon will forever change the way you think about the fantasy novel. As believable as it is imaginative, as wondrous as it is frightening, it is a rich, exquisitely-written tale to be savored long after the last page is turned.",
+                "authors": {
+                    "author": {
+                        "id": 9629,
+                        "name": "Terry Brooks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1280785812p5/9629.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1280785812p2/9629.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9629.Terry_Brooks",
+                        "average_rating": 3.96,
+                        "ratings_count": 775609,
+                        "text_reviews_count": 21501
+                    }
+                },
+                "published": 1997,
+                "work": {
+                    "id": 3102782,
+                    "uri": "kca://work/amzn1.gr.work.v1.AsUBISEA2Qcvis3h9Qb3YQ"
+                }
+            },
+            "rating": 5,
+            "votes": 2,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 351879128,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Dec 28 00:00:00 -0800 2012",
+            "date_added": "Mon Jan 28 19:47:38 -0800 2013",
+            "date_updated": "Mon Jan 28 20:08:35 -0800 2013",
+            "read_count": 1,
+            "body": "Terry Brooks' Running with Demon is the prototypical urban fantasy novel. Published in 1997, it is one of the earliest novels to approach the genre and gain widespread readership.<br /><br />Running with the Demon introduces Brooks' world of the Word and the Void, opposing forces of chaos and order that set the stage for a well-developed unique moral relativity that serves as the bedrock of a unique narrative. <br /><br />The book features excellent characters, a unique and interesting approach to its world of magic, and a riveting plot. If you've ever enjoyed an urban fantasy novel, you're certain to like this book. Brooks manages to remain accessible while writing detailed and reasonably complex prose, so If you've never tried out the genre, this is a great place to start.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520208664",
+            "link": "https://www.goodreads.com/review/show/520208664",
+            "owned": 0
+        }
+    }
+}

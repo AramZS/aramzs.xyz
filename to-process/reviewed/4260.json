@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528968784,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4260
+                },
+                "isbn": 1932416242,
+                "isbn13": 9781932416244,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 623
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.t_hz5WQpj3hNCMxrFr9vuQ",
+                "title": "The Polysyllabic Spree",
+                "title_without_series": "The Polysyllabic Spree",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327723619l/4260._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327723619l/4260._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4260.The_Polysyllabic_Spree",
+                "num_pages": 143,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "McSweeney's",
+                "publication_day": 30,
+                "publication_year": 2004,
+                "publication_month": 11,
+                "average_rating": 3.73,
+                "ratings_count": 6953,
+                "description": "The Polysyllabic Spree is the first title in the Believer Book series, which collects essays by and interviews with some of our favorite authors—George Saunders, Zadie Smith, Michel Houellebecq, Janet Malcolm, Jim Shepard, and Haruki Murakami, to name a few. In his monthly column \"Stuff I've Been Reading\", Nick Hornby lists the books he's purchased and the books he's read that month—they almost never overlap—and briefly discusses the books he's actually read. The Polysyllabic Spree includes selected passages from the novels, biographies, collections of poetry, and comics discussed in the column.",
+                "authors": {
+                    "author": {
+                        "id": 2929,
+                        "name": "Nick Hornby",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1422915487p5/2929.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1422915487p2/2929.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2929.Nick_Hornby",
+                        "average_rating": 3.66,
+                        "ratings_count": 596707,
+                        "text_reviews_count": 33047
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 2961810,
+                    "uri": "kca://work/amzn1.gr.work.v1.2Wgqd6bwRB8_qKr3w85-Uw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:31:04 -0800 2013",
+            "date_updated": "Thu Feb 07 08:31:04 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528968784",
+            "link": "https://www.goodreads.com/review/show/528968784",
+            "owned": 0
+        }
+    }
+}

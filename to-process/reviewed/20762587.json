@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340715,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20762587
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.BxvJJV-ym6PPrYgrW_4KUg",
+                "title": "MFA vs NYC: The Two Cultures of American Fiction",
+                "title_without_series": "MFA vs NYC: The Two Cultures of American Fiction",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20762587-mfa-vs-nyc",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.63,
+                "ratings_count": 785,
+                "description": "<b>Chad Harbach and contributors map out the “two cultures” of American fiction: MFA programs and NYC publishing<br /></b><br />In a widely read essay entitled “MFA vs NYC,” bestselling novelist Chad Harbach (<i>The Art of Fielding</i>) argued that the American literary scene has split into two cultures: New York publishing versus university MFA programs. This book brings together established writers, MFA professors and students, and New York editors, publicists, and agents to talk about these overlapping worlds, and the ways writers make (or fail to make) a living within them. Should you seek an advanced degree, or will workshops smother your style? Do you need to move to New York, or will the high cost of living undo you? What’s worse—having a day job or not having health insurance? How do agents decide what to represent? Will Big Publishing survive? How has the rise of MFA programs affected American fiction? The expert contributors, including George Saunders, Elif Batuman, and Fredric Jameson, consider all these questions and more, with humor and rigor. <i>MFA vs NYC </i>is a must-read for aspiring writers, and for anyone interested in the present and future of American letters.<br />",
+                "authors": {
+                    "author": {
+                        "id": 3452783,
+                        "name": "Chad Harbach",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1393970671p5/3452783.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1393970671p2/3452783.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3452783.Chad_Harbach",
+                        "average_rating": 3.99,
+                        "ratings_count": 102296,
+                        "text_reviews_count": 10381
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 25701143,
+                    "uri": "kca://work/amzn1.gr.work.v1.y5OFEcD_xoKH82OI-YuPbw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 974838779
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Aug 18 21:51:23 -0700 2015"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 452280720
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Jun 07 06:05:09 -0700 2014"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Jun 07 06:05:09 -0700 2014",
+            "read_at": "Tue Aug 18 21:51:23 -0700 2015",
+            "date_added": "Sat Jun 07 06:05:09 -0700 2014",
+            "date_updated": "Tue Aug 18 21:51:23 -0700 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340715",
+            "link": "https://www.goodreads.com/review/show/960340715",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Margaret K. McElderry Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Red Scrolls of Magic (The Eldest Curses, #1)",
+            "id": "35297403",
+            "author": "Cassandra Clare, Wesley Chu",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961276000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/35297403",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Margaret K. McElderry Books",
+            "tags": [
+                "Hardcover",
+                "Margaret K. McElderry Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1481495089",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781481495080",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "35297403",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 724623181,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 386371
+                },
+                "isbn": 60013168,
+                "isbn13": 9780060013165,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 262
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.FQdak598jAZVfyIM_bi4uQ",
+                "title": "Monstrous Regiment (Discworld, #31)",
+                "title_without_series": "Monstrous Regiment",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430859425l/386371._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430859425l/386371._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/386371.Monstrous_Regiment",
+                "num_pages": 389,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "HarperCollins Publishers",
+                "publication_day": 31,
+                "publication_year": 2004,
+                "publication_month": 8,
+                "average_rating": 4.21,
+                "ratings_count": 58153,
+                "description": "It began as a sudden strange fancy...Polly Perks had to become a boy in a hurry. Cutting off her hair and wearing trousers was easy. Learning to fart and belch in public and walk like an ape took more time.<br /><br />And now she's enlisted in the army, and is searching for her lost brother. But there's a war on and whatever anyone says, their side's coming off worse. Polly and her fellow recruits are suddenly in the thick of it, without any training, and the enemy is hunting them.\" All they have on their side is the most artful sergeant in the army, a vampire with a lust for coffee and a readiness to fight dirty. And as they take the war to the heart of the enemy, they have to use all the resources of...the Monstrous Regiment.",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 2073281,
+                    "uri": "kca://work/amzn1.gr.work.v1.mt3M80MLSHTiAFdiXS_F8Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 159409823
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Sep 20 23:24:24 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Sep 01 00:00:00 -0700 2013",
+            "date_added": "Fri Sep 20 23:24:24 -0700 2013",
+            "date_updated": "Sun Apr 06 02:40:49 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/724623181",
+            "link": "https://www.goodreads.com/review/show/724623181",
+            "owned": 0
+        }
+    }
+}

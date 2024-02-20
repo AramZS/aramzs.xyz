@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2047026230,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 21839603
+                },
+                "isbn": 1612133193,
+                "isbn13": 9781612133195,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1553
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.OLv05yb9pBTbzCl3seFf7A",
+                "title": "Ruthless People (Ruthless People, #1)",
+                "title_without_series": "Ruthless People",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396504157l/21839603._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396504157l/21839603._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/21839603-ruthless-people",
+                "num_pages": 342,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "The Writers Coffee Shop",
+                "publication_day": 15,
+                "publication_year": 2014,
+                "publication_month": 7,
+                "average_rating": 4.03,
+                "ratings_count": 19026,
+                "description": "To the outside world, they look like American Royalty, giving to charities, feeding the homeless, rebuilding the city. But behind closed doors is a constant battle for dominance between two Bosses, cultures, and hearts.<br /><br /><b>Ruthless People</b> is a romantic crime fiction set in modern day Chicago, following the life and marriage of Melody Nicci Giovanni and Liam Callahan—rivals by blood and leaders through fear. Their marriage was arranged by their fathers in hopes to end years of bloodshed between the Irish and the Italians.<br /><br />Liam, next in line to lead the Irish, believes he’s getting a simple-minded wife, one he can control, one who bends to his every need . . . the complete opposite of Melody. Bred to be a Boss, a world-class marksman, master of disguise, with no mercy and no fear. Twenty-four years later, she has achieved more than any man could even dream of, killing anyone who steps in her way. She knows exactly what type of man Liam is, and she would rather die than give up the power she has spent her whole life building. But with no other family left, she must not only learn to work with Liam, but the whole Callahan clan.<br /><br />The Mafia of the past is evolving, and with rival bosses gunning for them, Melody and Liam will have to figure out how to work as one to take down those who stand in their way, all while keeping up appearances.<br /><br /><b>Power, Family, and Respect are everything.</b><br /><br /><i><b>Warning:</b> This book contains adult language and subject matter including graphic violence and explict sex that may be disturbing for some readers. This book is not intended for readers under the age of 18.</i>",
+                "authors": {
+                    "author": {
+                        "id": 8118655,
+                        "name": "J.J. McAvoy",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447335765p5/8118655.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447335765p2/8118655.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8118655.J_J_McAvoy",
+                        "average_rating": 4.18,
+                        "ratings_count": 78002,
+                        "text_reviews_count": 8162
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 41106601,
+                    "uri": "kca://work/amzn1.gr.work.v1.1_1tGwVUeSa3nWhoZ9VYQA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1901058314
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 02 07:17:36 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1700966434,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Jul 02 07:17:35 -0700 2017",
+            "date_updated": "Sun Jul 02 07:17:35 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2047026230",
+            "link": "https://www.goodreads.com/review/show/2047026230",
+            "owned": 0
+        }
+    }
+}

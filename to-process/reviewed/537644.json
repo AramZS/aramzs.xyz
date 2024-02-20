@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528949844,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 537644
+                },
+                "isbn": 393968200,
+                "isbn13": 9780393968200,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 42
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.0a42Eif0FzRv0T_vc2Gs4g",
+                "title": "The Norton Anthology of Poetry",
+                "title_without_series": "The Norton Anthology of Poetry",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/537644.The_Norton_Anthology_of_Poetry",
+                "num_pages": 1998,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "W. W. Norton & Company",
+                "publication_day": 1,
+                "publication_year": 1996,
+                "publication_month": 10,
+                "average_rating": 4.32,
+                "ratings_count": 3734,
+                "description": "The fourth edition of this standard work contains 1800 poems by 300 poets, with 600 poems and 100 poets newly included. The anthology offers more poetry by women (40 new poets), with special attention to early women poets. The book also includes a greater diversity of American poetry, with double the number of poems by African American, Hispanic, native American and Asian American poets. There are 26 new poets representing the Commonwealth literature tradition: now included are more than 37 poets from Australia, New Zealand, Ireland, Scotland, Wales, the Caribbean, South Africa and India.",
+                "authors": {
+                    "author": {
+                        "id": 118999,
+                        "name": "Margaret Ferguson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/118999.Margaret_Ferguson",
+                        "average_rating": 4.31,
+                        "ratings_count": 3871,
+                        "text_reviews_count": 99
+                    }
+                },
+                "published": 1996,
+                "work": {
+                    "id": 525067,
+                    "uri": "kca://work/amzn1.gr.work.v1.ck18vM96noKjB6-SgCK8sA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:08:25 -0800 2013",
+            "date_updated": "Thu Feb 07 08:08:25 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528949844",
+            "link": "https://www.goodreads.com/review/show/528949844",
+            "owned": 0
+        }
+    }
+}

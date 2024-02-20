@@ -1,0 +1,136 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1972233068,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 30136164
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.l0DsTCLkinYe17hmOmctGQ",
+                "title": "Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams",
+                "title_without_series": "Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/30136164-mapping-experiences",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.12,
+                "ratings_count": 380,
+                "description": "<div>\n  <p>Customers who have inconsistent, broken experiences with products and services are understandably frustrated. But it’s worse when people inside these companies can’t pinpoint the problem because they’re too focused on business processes. This practical book shows your company how to use alignment diagrams to turn valuable customer observations into actionable insight. With this unique tool, you can visually map your existing customer experience and envision future solutions.</p>\n  <p>Product and brand managers, marketing specialists, and business owners will learn how experience diagramming can help determine where business goals and customer perspectives intersect. Once you’re armed with this data, you can provide users with real value.</p>\n  <p>Mapping Experiences is divided into three parts:</p>\n   \n     Understand the underlying principles of diagramming, and discover how these diagrams can inform strategy \n     Learn how to create diagrams with the four iterative modes in the mapping process: setting up a mapping initiative, investigating the evidence, visualizing the process, and using diagrams in workshops and experiments \n     See key diagrams in action, including service blueprints, customer journey maps, experience maps, mental models, and spatial maps and ecosystem models \n   \n</div>",
+                "authors": {
+                    "author": {
+                        "id": 329604,
+                        "name": "James Kalbach",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/329604.James_Kalbach",
+                        "average_rating": 4,
+                        "ratings_count": 690,
+                        "text_reviews_count": 24
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 46787723,
+                    "uri": "kca://work/amzn1.gr.work.v1.c7W5Mt_QSsNN_7P80A3tag"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151861
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:54 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151858
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:54 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1627403602,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Apr 15 07:14:53 -0700 2017",
+            "date_updated": "Sat Apr 15 07:14:53 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1972233068",
+            "link": "https://www.goodreads.com/review/show/1972233068",
+            "owned": 0
+        }
+    }
+}

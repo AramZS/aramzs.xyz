@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2162080327,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35253056
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-qCBxsc2GqcRBBqVtRWu5Q",
+                "title": "Life in Code: A Personal History of Technology",
+                "title_without_series": "Life in Code: A Personal History of Technology",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555688704l/35253056._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555688704l/35253056._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35253056-life-in-code",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.96,
+                "ratings_count": 812,
+                "description": "<b>The never-more-necessary return of one of our most vital and eloquent voices on technology and culture, from the author of the seminal </b><i>\n  <b>Close to the Machine</b>\n</i><br /><i></i><br /><i></i>When Ellen Ullman moved to San Francisco and became a computer programmer in the late 1970s, she was joining an idealistic, exclusive, and almost exclusively male cadre that had dreams and aspirations to change the world. In 1997, she wrote<i> Close to the Machine</i>, the now classic and still definitive account of life as a coder at the birth of what would be a sweeping technological, cultural, and financial revolution.<br /><br />The intervening twenty years has seen, among other things, the rise of the Internet, the ubiquity of once unimaginably powerful computers, and the thorough transformation of our economy and society—as Ullman’s clique of socially awkward West Coast geeks became our new elite, elevated for and insulated by a technical mastery that few could achieve.<br /><br />In <i>Life in Code</i>, Ullman presents a series of essays that unlock and explain—and don’t necessarily celebrate—how we got to now, as only she can, with a fluency and expertise that’s unusual in someone with her humanistic worldview, and with the sharp insight and brilliant prose that are uniquely her own. <i>Life in Code</i> is an essential text toward our understanding of the last twenty years—and the next twenty.",
+                "authors": {
+                    "author": {
+                        "id": 80270,
+                        "name": "Ellen Ullman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1375987657p5/80270.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1375987657p2/80270.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/80270.Ellen_Ullman",
+                        "average_rating": 3.69,
+                        "ratings_count": 4887,
+                        "text_reviews_count": 799
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 52153475,
+                    "uri": "kca://work/amzn1.gr.work.v1.xHcqbICDgzjx0Pxy5wHYlA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051856166
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:07:27 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1813177697,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Oct 23 16:07:26 -0700 2017",
+            "date_updated": "Mon Oct 23 16:07:27 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2162080327",
+            "link": "https://www.goodreads.com/review/show/2162080327",
+            "owned": 0
+        }
+    }
+}

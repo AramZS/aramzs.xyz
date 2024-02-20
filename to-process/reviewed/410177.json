@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 127883096,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 410177
+                },
+                "isbn": 60846755,
+                "isbn13": 9780060846756,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 87
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.lU-RBIOnUWJxVWGuJFR5pQ",
+                "title": "The New Space Opera",
+                "title_without_series": "The New Space Opera",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/410177.The_New_Space_Opera",
+                "num_pages": 528,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Harper Voyager",
+                "publication_day": 12,
+                "publication_year": 2007,
+                "publication_month": 6,
+                "average_rating": 3.83,
+                "ratings_count": 1111,
+                "description": "The brightest names in science fiction pen all-new tales of space and wonder.<br /><br />Contents <br />1 • Introduction (The New Space Opera) • (2007) • essay by Gardner Dozois and Jonathan Strahan<br />6 • Saving Tiamaat • (2007) • shortstory by Gwyneth Jones<br />24 • Verthandi's Ring • (2007) • shortstory by Ian McDonald<br />39 • Hatch • [The Great Ship Universe] • (2007) • shortstory by Robert Reed<br />66 • Winning Peace • (2007) • novelette by Paul J. McAuley<br />88 • Glory • (2007) • novelette by Greg Egan<br />112 • Maelstrom • (2007) • novelette by Kage Baker<br />143 • Blessed by an Angel • (2007) • shortstory by Peter F. Hamilton<br />158 • Who's Afraid of Wolf 359? • shortstory by Ken MacLeod<br />170 • The Valley of the Gardens • (2007) • novelette by Tony Daniel<br />202 • Dividing the Sustain • (2007) • novelette by James Patrick Kelly<br />234 • Minla's Flowers • [Merlin [4] • 2] • (2007) • novella by Alastair Reynolds<br />291 • Splinters of Glass • (2007) • novelette by Mary Rosenblum<br />316 • Remembrance • (2007) • shortstory by Stephen Baxter<br />334 • The Emperor and the Maula • (2007) • novelette by Robert Silverberg<br />379 • The Worm Turns • (2007) • shortstory by Gregory Benford<br />401 • Send Them Flowers • (2007) • novelette by Walter Jon Williams<br />436 • Art of War • shortstory by Nancy Kress<br />454 • Muse of Fire • (2007) • novella by Dan Simmons",
+                "authors": {
+                    "author": {
+                        "id": 12052,
+                        "name": "Gardner Dozois",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1247758142p5/12052.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1247758142p2/12052.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12052.Gardner_Dozois",
+                        "average_rating": 3.8,
+                        "ratings_count": 82786,
+                        "text_reviews_count": 9449
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 399462,
+                    "uri": "kca://work/amzn1.gr.work.v1.0aaBPVUC56334j3dDul4oA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 75211490,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Oct 24 00:00:00 -0700 2010",
+            "date_added": "Mon Oct 25 15:18:12 -0700 2010",
+            "date_updated": "Mon Oct 25 15:19:42 -0700 2010",
+            "read_count": 1,
+            "body": "An excellent collection, well worth the low price of it's soft-cover edition. This book is full of really good space opera stories and should be picked up by any fan of the genre.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/127883096",
+            "link": "https://www.goodreads.com/review/show/127883096",
+            "owned": 0
+        }
+    }
+}

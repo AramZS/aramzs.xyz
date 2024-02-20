@@ -1,0 +1,104 @@
+{
+    "name": "Slipcased Hardcover",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Absolute Sandman, Volume One",
+            "id": "23753",
+            "author": "Neil Gaiman, Mike Dringenberg, Chris Bachalo, Michael Zulli, Kelly Jones, Charles Vess, Colleen Doran, Malcolm Jones III, Steve Parkhouse, Daniel Vozzo, Lee Loughridge, Steve Oliff, Todd Klein, Dave McKean, Sam Kieth",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508801499000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Absolute Sandman, Volume One: Rating - 4/5",
+                    "date": 1508801499000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/23753",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Vertigo",
+            "tags": [
+                "Slipcased Hardcover",
+                "Vertigo",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1401210821",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781401210823",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "23753",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Absolute Sandman, Volume One",
+            "id": 23753,
+            "author": "Neil Gaiman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/23753",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Vertigo",
+            "tags": [
+                "Slipcased Hardcover",
+                "Vertigo",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 23753,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

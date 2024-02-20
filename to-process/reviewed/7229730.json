@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960342621,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7229730
+                },
+                "isbn": 810984237,
+                "isbn13": 9780810984233,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 424
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qeVZNnW5ggqJGunKuA86RQ",
+                "title": "Meanwhile",
+                "title_without_series": "Meanwhile",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878248l/7229730._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878248l/7229730._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7229730-meanwhile",
+                "num_pages": 80,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Harry N. Abrams",
+                "publication_day": 1,
+                "publication_year": 2010,
+                "publication_month": 3,
+                "average_rating": 3.92,
+                "ratings_count": 3861,
+                "description": "Chocolate or Vanilla? This simple choice is all it takes to get started with <i>Meanwhile</i>, the wildly inventive creation of comics mastermind Jason Shiga, of whom Scott McCloud said “Crazy + Genius = Shiga.” Jimmy, whose every move is under your control, finds himself in a mad scientist’s lab, where he’s given a choice between three amazing objects: a mind-reading device, a time-travel machine, or the Killitron 3000 (which is as ominous as it sounds). Down each of these paths there are puzzles, mysterious clues, and shocking revelations. It’s up to the reader to lead Jimmy to success or disaster.<br /><br /><i>Meanwhile</i> is a wholly original story of invention, discovery, and saving the world, told through a system of tabs that take you forward, backward, upside down, and right side up again. Each read creates a new adventure!<br /> Awards and praise for Jason Shiga<br /> <br />2004 Eisner Award<br />2003 Ignatz Award<br />2007 Stumpton Trophy Award<br />1999 Xeric Grant Recipient<br /> <br />“Crazy + Genius = Shiga” —Scott McCloud, author of <i>Understanding Comics</i><br /> <br />“If humankind ever finds itself at the brink of its own destruction and I am given the task to fill a small, space-bound time capsule with a collection of ten graphic novels that would present to alien eyes the best that the cartoonists of Earth had to offer the universe, Jason Shiga's <i>Meanwhile</i> would surely be among my picks.” —Gene Luen Yang, author of <i>American Born Chinese</i><br /> <br />“A creator of comix that can be at once funny, disturbing, thoughtful, deconstructed, and cleverly put together.” —<i>Time</i> online<br /> <br />“<i>Meanwhile </i>is a wallop of a book/graphic novel! It delivers action, choices, problem solving, and engagement. And it reminds me of my own efforts in writing Choose Your Own Adventure, which I take as a great compliment coming from Jason Shiga. I wish I had written this book! Run, don’t walk, to your favorite bookseller and pick up a copy!” —R. A. Montgomery, Choose Your Own Adventure author<br /> <br />“Ingenious” —Edward Packard, Choose Your Own Adventure author<br />",
+                "authors": {
+                    "author": {
+                        "id": 469075,
+                        "name": "Jason Shiga",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1391381898p5/469075.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1391381898p2/469075.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/469075.Jason_Shiga",
+                        "average_rating": 3.73,
+                        "ratings_count": 10951,
+                        "text_reviews_count": 1616
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 8075007,
+                    "uri": "kca://work/amzn1.gr.work.v1.EsSUwluMSiV91V_Yh7SEVw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452283065
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:08:31 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:08:31 -0700 2014",
+            "date_updated": "Sat Jun 07 06:08:31 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960342621",
+            "link": "https://www.goodreads.com/review/show/960342621",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "name": "Routledge",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Outlaw Culture: Resisting Representations (Routledge Classics)",
+            "id": "19970872",
+            "author": "bell hooks",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086557000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/19970872",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Routledge",
+            "tags": [
+                "Kindle Edition",
+                "Routledge",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "19970872",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Journalism of Ideas: Brainstorming, Developing, and Selling Stories in the Digital Age",
+            "id": "16233900",
+            "author": "Daniel Reimold",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386953072000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16233900",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Routledge",
+            "tags": [
+                "Hardcover",
+                "Routledge",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0415634660",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780415634663",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16233900",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Being and Nothingness",
+            "id": "10033",
+            "author": "Jean-Paul Sartre, Hazel E. Barnes, Mary Warnock, Richard Eyre",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1351349912000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/10033",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Routledge",
+            "tags": [
+                "Paperback",
+                "Routledge",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0415278481",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780415278485",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "10033",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

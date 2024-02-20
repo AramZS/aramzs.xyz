@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 493461642,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2439175
+                },
+                "isbn": 785128530,
+                "isbn13": 9780785128533,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 239
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.NGNWgFEZ4Sg3jjwDhpAGQw",
+                "title": "Runaways, Vol. 8: Dead End Kids",
+                "title_without_series": "Runaways, Vol. 8: Dead End Kids",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486186024l/2439175._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486186024l/2439175._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2439175.Runaways_Vol_8",
+                "num_pages": 152,
+                "format": "Hardcover",
+                "edition_information": "Premier",
+                "publisher": "Marvel",
+                "publication_day": 23,
+                "publication_year": 2008,
+                "publication_month": 7,
+                "average_rating": 3.98,
+                "ratings_count": 6744,
+                "description": "<b>Running out of time</b><br /><br />Rebellious teens Nico, Chase, Karolina, Molly, Victor and Xavin are survivors. All children of super-villains, they turned agaist their evil elders to become aamateur super heroes. But when the authorities chase them out of Los Angeles, the Runaways forge an uneasy alliance with East Coast crime boss Kingpin, placing them on a collision course with the killer vigilante Punisher. The ensuing disaster hurls the kids a century backward in time, trapping them in 1907 New York - home of child labor, quaint technology and competing gangs of super-folk known as \"Wonders.\" Can the Runaways get back to the future? Find out in a timeless tale of comedy, romance and old-fashioned heroism!<br /><br />Collecting <i>Runaways #26-30</i>, written by Joss Whedon (<i>Astonishing X-Men, Buffy the Vampire Slayer</i>) and illustrated by Michael Ryan (<i>New Excalibur, New X-Men</i>).",
+                "authors": {
+                    "author": {
+                        "id": 18015,
+                        "name": "Joss Whedon",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1302721520p5/18015.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1302721520p2/18015.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/18015.Joss_Whedon",
+                        "average_rating": 4.07,
+                        "ratings_count": 458466,
+                        "text_reviews_count": 24468
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2446369,
+                    "uri": "kca://work/amzn1.gr.work.v1.bRLXESWyhnLoijbXZDdLnQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051895196
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:46:49 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813206375,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Jan 02 22:00:59 -0800 2013",
+            "date_updated": "Mon Oct 23 16:46:49 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/493461642",
+            "link": "https://www.goodreads.com/review/show/493461642",
+            "owned": 0
+        }
+    }
+}

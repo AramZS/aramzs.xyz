@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789363932,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13497
+                },
+                "isbn": "055358202X",
+                "isbn13": 9780553582024,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 17078
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.2u8bip9cCzMCnINjEI3ZVw",
+                "title": "A Feast for Crows (A Song of Ice and Fire, #4)",
+                "title_without_series": "A Feast for Crows",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429538615l/13497._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429538615l/13497._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13497.A_Feast_for_Crows",
+                "num_pages": 1061,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Bantam Books",
+                "publication_day": {},
+                "publication_year": 2011,
+                "publication_month": {},
+                "average_rating": 4.14,
+                "ratings_count": 600538,
+                "description": "<i>Crows will fight over a dead man's flesh, and kill each other for his eyes</i>.<br /><br />Bloodthirsty, treacherous and cunning, the Lannisters are in power on the Iron Throne in the name of the boy-king Tommen. The war in the Seven Kingdoms has burned itself out, but in its bitter aftermath new conflicts spark to life.<br /><br />The Martells of Dorne and the Starks of Winterfell seek vengeance for their dead. Euron Crow's Eye, as black a pirate as ever raised a sail, returns from the smoking ruins of Valyria to claim the Iron Isles. From the icy north, where Others threaten the Wall, apprentice Maester Samwell Tarly brings a mysterious babe in arms to the Citadel.<br /><br />Against a backdrop of incest and fratricide, alchemy and murder, victory will go to the men and women possessed of the coldest steel and the coldest hearts.",
+                "authors": {
+                    "author": {
+                        "id": 346732,
+                        "name": "George R.R. Martin",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563055799p5/346732.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563055799p2/346732.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
+                        "average_rating": 4.37,
+                        "ratings_count": 5431031,
+                        "text_reviews_count": 194375
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 1019062,
+                    "uri": "kca://work/amzn1.gr.work.v1.bc9MHw9pLQ6f8KzsHVjbug"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240402425
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 07:19:36 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 07:19:36 -0800 2013",
+            "date_updated": "Fri Dec 13 07:19:36 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789363932",
+            "link": "https://www.goodreads.com/review/show/789363932",
+            "owned": 0
+        }
+    }
+}

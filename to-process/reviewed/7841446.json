@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1367862671,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7841446
+                },
+                "isbn": 1416596585,
+                "isbn13": 9781416596585,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 801
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.iDyqV367368J3q_tCZ3PJQ",
+                "title": "In the Plex: How Google Thinks, Works, and Shapes Our Lives",
+                "title_without_series": "In the Plex: How Google Thinks, Works, and Shapes Our Lives",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7841446-in-the-plex",
+                "num_pages": 432,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Simon  Schuster",
+                "publication_day": 12,
+                "publication_year": 2011,
+                "publication_month": 4,
+                "average_rating": 3.82,
+                "ratings_count": 28538,
+                "description": "Written with full cooperation from top management, including cofounders Sergey Brin and Larry Page, this is the inside story behind Google, the most successful and most admired technology company of our time, told by one of our best technology writers.<br /><br />Few companies in history have ever been as successful and as admired as Google, the company that has transformed the Internet and become an indispensable part of our lives. How has Google done it? Veteran technology reporter Steven Levy was granted unprecedented access to the company, and in this revelatory book he takes readers inside Google headquarters—the Googleplex—to show how Google works.<br /><br />While they were still students at Stanford, Google cofounders Larry Page and Sergey Brin revolutionized Internet search. They followed this brilliant innovation with another, as two of Google’s earliest employees found a way to do what no one else had: make billions of dollars from Internet advertising. With this cash cow, Google was able to expand dramatically and take on other transformative projects: more efficient data centers, open-source cell phones, free Internet video (YouTube), cloud computing, digitizing books, and much more.<br /><br />The key to Google’s success in all these businesses, Levy reveals, is its engineering mind-set and adoption of such Internet values as speed, openness, experimentation, and risk taking. After its unapologetically elitist approach to hiring, Google pampers its engineers—free food and dry cleaning, on-site doctors and masseuses—and gives them all the resources they need to succeed. Even today, with a workforce of more than 23,000, Larry Page signs off on every hire.<br /><br />But has Google lost its innovative edge? With its newest initiative, social networking, Google is chasing a successful competitor for the first time. Some employees are leaving the company for smaller, nimbler start-ups. Can the company that famously decided not to be evil still compete?<br /><br />No other book has ever turned Google inside out as Levy does with In the Plex.",
+                "authors": {
+                    "author": {
+                        "id": 32131,
+                        "name": "Steven Levy",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1577488431p5/32131.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1577488431p2/32131.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/32131.Steven_Levy",
+                        "average_rating": 3.89,
+                        "ratings_count": 39726,
+                        "text_reviews_count": 1538
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 10934698,
+                    "uri": "kca://work/amzn1.gr.work.v1.J69LZe0IFDixmgo9tMPyPg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 974839997
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 18 21:53:08 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1063517917,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Aug 18 21:53:07 -0700 2015",
+            "date_updated": "Tue Aug 18 21:53:08 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1367862671",
+            "link": "https://www.goodreads.com/review/show/1367862671",
+            "owned": 0
+        }
+    }
+}

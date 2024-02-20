@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606737827,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35018901
+                },
+                "isbn": "076538891X",
+                "isbn13": 9780765388919,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1219
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.E1qfo0SbaSgkFH7-DxoIkA",
+                "title": "Head On (Lock In, #2)",
+                "title_without_series": "Head On",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497994548l/35018901._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497994548l/35018901._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35018901-head-on",
+                "num_pages": 335,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 17,
+                "publication_year": 2018,
+                "publication_month": 4,
+                "average_rating": 4.01,
+                "ratings_count": 14860,
+                "description": "John Scalzi returns with <i>Head On</i>, the standalone follow-up to the New York Times bestselling and critically acclaimed <i>Lock In</i>. Chilling near-future SF with the thrills of a gritty cop procedural, <i>Head On</i> brings Scalzi's trademark snappy dialogue and technological speculation to the future world of sports.<br /><br />Hilketa is a frenetic and violent pastime where players attack each other with swords and hammers. The main goal of the game: obtain your opponent’s head and carry it through the goalposts. With flesh and bone bodies, a sport like this would be impossible. But all the players are “threeps,” robot-like bodies controlled by people with Haden’s Syndrome, so anything goes. No one gets hurt, but the brutality is real and the crowds love it.<br /><br />Until a star athlete drops dead on the playing field.<br /><br />Is it an accident or murder? FBI Agents and Haden-related crime investigators, Chris Shane and Leslie Vann, are called in to uncover the truth―and in doing so travel to the darker side of the fast-growing sport of Hilketa, where fortunes are made or lost, and where players and owners do whatever it takes to win, on and off the field.",
+                "authors": {
+                    "author": {
+                        "id": 4763,
+                        "name": "John Scalzi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+                        "average_rating": 4.03,
+                        "ratings_count": 712019,
+                        "text_reviews_count": 57344
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 45415409,
+                    "uri": "kca://work/amzn1.gr.work.v1.8ruqxE2fPH39Ea0kKwUwLg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636061757
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:23:17 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251643677,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:23:16 -0800 2018",
+            "date_updated": "Mon Nov 26 13:23:17 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606737827",
+            "link": "https://www.goodreads.com/review/show/2606737827",
+            "owned": 0
+        }
+    }
+}

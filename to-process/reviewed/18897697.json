@@ -1,0 +1,136 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1972233025,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18897697
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.71ymjlfY3bhCSNs55BDIag",
+                "title": "Building Hypermedia APIs with HTML5 and Node",
+                "title_without_series": "Building Hypermedia APIs with HTML5 and Node",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18897697-building-hypermedia-apis-with-html5-and-node",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.6,
+                "ratings_count": 73,
+                "description": "With this concise book, you’ll learn the art of building hypermedia APIs that don’t simply run on the Web, but that actually exist in the Web. You’ll start with the general principles and technologies behind this architectural approach, and then dive hands-on into three fully-functional API examples. Too many APIs rely on concepts rooted in desktop and local area network patterns that don’t scale well—costly solutions that are difficult to maintain over time. This book shows system architects and web developers how to design and implement human- and machine-readable web services that remain stable and flexible as they scale.Learn the H-Factors for representing application metadata across all media types and formats Understand the four basic design elements for authoring hypermedia types Convert a simple read-only XML-based media type into a successful API design Examine the challenges and advantages of designing a hypermedia type with JSON Use HTML5’s rich set of hypermedia controls in the API design process Learn the details of documenting, publishing, and registering media type designs and link-relation types",
+                "authors": {
+                    "author": {
+                        "id": 176637,
+                        "name": "Mike Amundsen",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/176637.Mike_Amundsen",
+                        "average_rating": 3.66,
+                        "ratings_count": 498,
+                        "text_reviews_count": 61
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 18308359,
+                    "uri": "kca://work/amzn1.gr.work.v1.3d1hkRjN5OPwdv43y4i9DQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151798
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:51 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151793
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:50 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1627403564,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Apr 15 07:14:50 -0700 2017",
+            "date_updated": "Sat Apr 15 07:14:50 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1972233025",
+            "link": "https://www.goodreads.com/review/show/1972233025",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749130209,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23847989
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 90
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UGCsVIOqWCTS1V0Llpjwxw",
+                "title": "Futuristic Violence and Fancy Suits (Zoey Ashe, #1)",
+                "title_without_series": "Futuristic Violence and Fancy Suits",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429314513l/23847989._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429314513l/23847989._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23847989-futuristic-violence-and-fancy-suits",
+                "num_pages": 383,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Thomas Dunne Books",
+                "publication_day": 6,
+                "publication_year": 2015,
+                "publication_month": 10,
+                "average_rating": 3.99,
+                "ratings_count": 12538,
+                "description": "Nightmarish villains with superhuman enhancements.<br /><br />An all-seeing social network that tracks your every move.<br /><br />Mysterious, smooth-talking power players who lurk behind the scenes.<br /><br />A young woman from the trailer park.<br /><br />And her very smelly cat.<br /><br />Together, they will decide the future of mankind.<br /><br />Get ready for a world in which anyone can have the powers of a god or the fame of a pop star, in which human achievement soars to new heights while its depravity plunges to the blackest depths. A world in which at least one cat smells like a seafood shop's dumpster on a hot summer day.<br /><br />This is the world in which Zoey Ashe finds herself, navigating a futuristic city in which one can find elements of the fantastic, nightmarish and ridiculous on any street corner. Her only trusted advisor is the aforementioned cat, but even in the future, cats cannot give advice. At least not any that you'd want to follow.<br /><br />Will Zoey figure it all out in time? Or maybe the better question is, will you? After all, the future is coming sooner than you think.",
+                "authors": {
+                    "author": {
+                        "id": 225033,
+                        "name": "David  Wong",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440567087p5/225033.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440567087p2/225033.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/225033.David_Wong",
+                        "average_rating": 4.02,
+                        "ratings_count": 103733,
+                        "text_reviews_count": 10347
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 34393786,
+                    "uri": "kca://work/amzn1.gr.work.v1.mf8whgkj8avmgGduAnPdgw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498303742
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:43:23 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414466752,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:43:22 -0700 2016",
+            "date_updated": "Mon Sep 05 07:43:23 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749130209",
+            "link": "https://www.goodreads.com/review/show/1749130209",
+            "owned": 0
+        }
+    }
+}

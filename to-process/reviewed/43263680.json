@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065301038,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 43263680
+                },
+                "isbn": 1250313074,
+                "isbn13": 9781250313072,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 9943
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.enGfkxkl3kuwXWAi_Mbppw",
+                "title": "Ninth House (Alex Stern, #1)",
+                "title_without_series": "Ninth House",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553102141l/43263680._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553102141l/43263680._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/43263680-ninth-house",
+                "num_pages": 459,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Flatiron Books",
+                "publication_day": 8,
+                "publication_year": 2019,
+                "publication_month": 10,
+                "average_rating": 4.08,
+                "ratings_count": 61993,
+                "description": "Galaxy “Alex” Stern is the most unlikely member of Yale’s freshman class. Raised in the Los Angeles hinterlands by a hippie mom, Alex dropped out of school early and into a world of shady drug dealer boyfriends, dead-end jobs, and much, much worse. By age twenty, in fact, she is the sole survivor of a horrific, unsolved multiple homicide. Some might say she’s thrown her life away. But at her hospital bed, Alex is offered a second chance: to attend one of the world’s most elite universities on a full ride. What’s the catch, and why her?<br /><br />Still searching for answers to this herself, Alex arrives in New Haven tasked by her mysterious benefactors with monitoring the activities of Yale’s secret societies. These eight windowless “tombs” are well-known to be haunts of the future rich and powerful, from high-ranking politicos to Wall Street and Hollywood’s biggest players. But their occult activities are revealed to be more sinister and more extraordinary than any paranoid imagination might conceive.",
+                "authors": {
+                    "author": {
+                        "id": 4575289,
+                        "name": "Leigh Bardugo",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1534446099p5/4575289.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1534446099p2/4575289.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4575289.Leigh_Bardugo",
+                        "average_rating": 4.21,
+                        "ratings_count": 1234275,
+                        "text_reviews_count": 166121
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 53348200,
+                    "uri": "kca://work/amzn1.gr.work.v1.FHVY1J2dovnleCXNfTKjGg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244213161
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:14:28 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712835026,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:14:27 -0800 2019",
+            "date_updated": "Thu Nov 28 09:14:28 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065301038",
+            "link": "https://www.goodreads.com/review/show/3065301038",
+            "owned": 0
+        }
+    }
+}

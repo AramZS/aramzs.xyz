@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1123171353,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 14497
+                },
+                "isbn": 60557818,
+                "isbn13": 9780060557812,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 15514
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.c51MT6mpyRpeHepu6Yx7Sg",
+                "title": "Neverwhere (London Below, #1)",
+                "title_without_series": "Neverwhere",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348747943l/14497._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348747943l/14497._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/14497.Neverwhere",
+                "num_pages": 370,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "William Morrow Paperbacks",
+                "publication_day": 2,
+                "publication_year": 2003,
+                "publication_month": 9,
+                "average_rating": 4.17,
+                "ratings_count": 411324,
+                "description": "Under the streets of London there's a place most people could never even dream of. A city of monsters and saints, murderers and angels, knights in armour and pale girls in black velvet. This is the city of the people who have fallen between the cracks.<br /><br />Richard Mayhew, a young businessman, is going to find out more than enough about this other London. A single act of kindness catapults him out of his workday existence and into a world that is at once eerily familiar and utterly bizarre. And a strange destiny awaits him down here, beneath his native city: Neverwhere.",
+                "authors": {
+                    "author": {
+                        "id": 1221698,
+                        "name": "Neil Gaiman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p5/1221698.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p2/1221698.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1221698.Neil_Gaiman",
+                        "average_rating": 4.13,
+                        "ratings_count": 5858776,
+                        "text_reviews_count": 352868
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 16534,
+                    "uri": "kca://work/amzn1.gr.work.v1.BDISHjs24Q5pevic84Muyw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 658877796
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 04 09:21:09 -0800 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 847077072,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 04 09:21:08 -0800 2014",
+            "date_updated": "Thu Dec 04 09:21:09 -0800 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1123171353",
+            "link": "https://www.goodreads.com/review/show/1123171353",
+            "owned": 0
+        }
+    }
+}

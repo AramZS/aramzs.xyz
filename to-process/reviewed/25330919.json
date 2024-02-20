@@ -1,0 +1,129 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749129999,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25330919
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4CvcwdfkPWPgWDuctqPiqw",
+                "title": "Children of the Sea , Vol. 1",
+                "title_without_series": "Children of the Sea , Vol. 1",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25330919-children-of-the-sea-vol-1",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.84,
+                "ratings_count": 1831,
+                "description": "When Ruka was younger, she saw a ghost in the water at the aquarium where her dad works. Now she feels drawn toward the aquarium and the two mysterious boys she meets there, Umi and Sora. They were raised by dugongs and hear the same strange calls from the sea as she does.<br /><br />Ruka's dad and the other adults who work at the aquarium are only distantly aware of what the children are experiencing as they get caught up in the mystery of the worldwide disappearance of the oceans' fish.",
+                "authors": {
+                    "author": {
+                        "id": 1328406,
+                        "name": "Daisuke Igarashi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1368699764p5/1328406.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1368699764p2/1328406.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1328406.Daisuke_Igarashi",
+                        "average_rating": 3.91,
+                        "ratings_count": 4604,
+                        "text_reviews_count": 447
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 6398654,
+                    "uri": "kca://work/amzn1.gr.work.v1.G2Tc63eE45Uq1Xktywv3VQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498303453
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:43:10 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813194291,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": true,
+                        "id": 2635324,
+                        "name": "to-read",
+                        "review_shelf_id": 1414466540,
+                        "sortable": true
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:43:10 -0700 2016",
+            "date_updated": "Mon Oct 23 16:30:25 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749129999",
+            "link": "https://www.goodreads.com/review/show/1749129999",
+            "owned": 0
+        }
+    }
+}

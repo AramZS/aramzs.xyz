@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299968191,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22393656
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.PWkWqR6E9vL7kdM6Tbav1g",
+                "title": "X-Men: X-Cutioner's Song",
+                "title_without_series": "X-Men: X-Cutioner's Song",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500465756l/22393656._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500465756l/22393656._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22393656-x-men",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.67,
+                "ratings_count": 167,
+                "description": "When Cyclops and Phoenix are kidnapped - and Cable seemingly assassinates Professor X - the X-Men, X-Factor and X-Force go to war...with each other! Witness epic battles around the globe and on the moon as Mr. Sinister's subtle plan of vengeance on Apocalypse unfolds, and major revelations are made about the true identities of Cable and his twisted doppelganger Stryfe!<br /><br />Collects Uncanny X-Men #294-297, X-Factor (1986) #84-86, X-Men (1991) #14-16, X-Force (1991) #16-18 &amp; Stryfe's Strike File.",
+                "authors": {
+                    "author": {
+                        "id": 14461,
+                        "name": "Scott Lobdell",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1551759566p5/14461.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1551759566p2/14461.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14461.Scott_Lobdell",
+                        "average_rating": 3.81,
+                        "ratings_count": 85037,
+                        "text_reviews_count": 6568
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 69326262,
+                    "uri": "kca://work/amzn1.gr.work.v1.KhFCxUBKtK0b8fREDT-FVQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886479897
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:30:12 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Fri Jun 05 15:30:11 -0700 2015",
+            "date_updated": "Thu Dec 31 07:42:07 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299968191",
+            "link": "https://www.goodreads.com/review/show/1299968191",
+            "owned": 0
+        }
+    }
+}

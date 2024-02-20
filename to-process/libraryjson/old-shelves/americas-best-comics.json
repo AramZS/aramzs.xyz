@@ -1,0 +1,51 @@
+{
+    "name": "America's Best Comics",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Promethea, Vol. 1",
+            "id": "821800",
+            "author": "Alan Moore, J.H. Williams III, Mick Gray",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1476627458000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/821800",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "America's Best Comics",
+            "tags": [
+                "Paperback",
+                "America's Best Comics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1563896672",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781563896675",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "821800",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

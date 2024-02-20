@@ -1,0 +1,148 @@
+{
+    "name": "Princeton University Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Men, Women, and Chain Saws: Gender in the Modern Horror Film",
+            "id": "293192",
+            "author": "Carol J. Clover",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1558319025000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/293192",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Princeton University Press",
+            "tags": [
+                "Paperback",
+                "Princeton University Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0691006202",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780691006208",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "293192",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Hero With a Thousand Faces",
+            "id": "588138",
+            "author": "Joseph Campbell",
+            "date_finished": 1230768000000,
+            "notes": [],
+            "date_started": 1387572918000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Hero With a Thousand Faces: Rating - 5/5",
+                    "date": 1230768000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/588138",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Princeton University Press",
+            "tags": [
+                "Paperback",
+                "Princeton University Press",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0691017840",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780691017846",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "588138",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Hero With a Thousand Faces",
+            "id": 588138,
+            "author": "Joseph Campbell",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/588138",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Princeton University Press",
+            "tags": [
+                "Princeton University Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 588138,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

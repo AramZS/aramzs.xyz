@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1123153785,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6759
+                },
+                "isbn": 316921173,
+                "isbn13": 9780316921176,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6387
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.oz0ltwCHZj0h1mh5QuEc4g",
+                "title": "Infinite Jest",
+                "title_without_series": "Infinite Jest",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446876799l/6759._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446876799l/6759._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6759.Infinite_Jest",
+                "num_pages": 1088,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Back Bay Books",
+                "publication_day": {},
+                "publication_year": 2005,
+                "publication_month": {},
+                "average_rating": 4.29,
+                "ratings_count": 71650,
+                "description": "A gargantuan, mind-altering comedy about the Pursuit of Happiness in America. <br /><br />Set in an addicts' halfway house and a tennis academy, and featuring the most endearingly screwed-up family to come along in recent fiction, <i>Infinite Jest</i> explores essential questions about what entertainment is and why it has come to so dominate our lives; about how our desire for entertainment affects our need to connect with other people; and about what the pleasures we choose say about who we are. <br /><br />Equal parts philosophical quest and screwball comedy, <i>Infinite Jest</i> bends every rule of fiction without sacrificing for a moment its own entertainment value. It is an exuberant, uniquely American exploration of the passions that make us human—and one of those rare books that renew the idea of what a novel can do.",
+                "authors": {
+                    "author": {
+                        "id": 4339,
+                        "name": "David Foster Wallace",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1580514295p5/4339.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1580514295p2/4339.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4339.David_Foster_Wallace",
+                        "average_rating": 4.13,
+                        "ratings_count": 285617,
+                        "text_reviews_count": 26872
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 3271542,
+                    "uri": "kca://work/amzn1.gr.work.v1.saWDcfsBTXeXgjrCTFXO9g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 658855462
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 04 08:53:52 -0800 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847061491,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Jan 01 00:00:00 -0800 2005",
+            "date_added": "Thu Dec 04 08:53:52 -0800 2014",
+            "date_updated": "Wed Feb 04 13:22:17 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1123153785",
+            "link": "https://www.goodreads.com/review/show/1123153785",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "New Directions",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Labyrinths: Selected Stories & Other Writings",
+            "id": "336116",
+            "author": "Jorge Luis Borges, Donald A. Yates, James E. Irby, Willian Gibson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1480958052000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/336116",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "New Directions",
+            "tags": [
+                "Paperback",
+                "New Directions",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0811216993",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780811216999",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "336116",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

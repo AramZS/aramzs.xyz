@@ -1,0 +1,104 @@
+{
+    "name": "William Heinemann",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Magician King (The Magicians, #2)",
+            "id": "10079321",
+            "author": "Lev Grossman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1414688159000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Magician King (The Magicians, #2): Rating - 4/5",
+                    "date": 1414688159000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/10079321",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "William Heinemann",
+            "tags": [
+                "Paperback",
+                "William Heinemann",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "043402080X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780434020805",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "10079321",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Magician King (The Magicians, #2)",
+            "id": 10079321,
+            "author": "Lev Grossman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/10079321",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "William Heinemann",
+            "tags": [
+                "Paperback",
+                "William Heinemann",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "043402080X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 10079321,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

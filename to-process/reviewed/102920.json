@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 90062271,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 102920
+                },
+                "isbn": "006097625X",
+                "isbn13": 9780060976255,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2040
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.3CA8E0zogCj4Bc62eDZeyw",
+                "title": "Understanding Comics: The Invisible Art",
+                "title_without_series": "Understanding Comics: The Invisible Art",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328408101l/102920._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328408101l/102920._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/102920.Understanding_Comics",
+                "num_pages": 215,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "William Morrow Paperbacks",
+                "publication_day": 1,
+                "publication_year": 1993,
+                "publication_month": 1,
+                "average_rating": 3.97,
+                "ratings_count": 102475,
+                "description": "<strong>The bestselling international classic on storytelling and visual communication</strong><br /><br /><strong>\"You must read this book.\" </strong>—<strong> Neil Gaiman</strong><br /><br />Praised throughout the cartoon industry by such luminaries as Art Spiegelman, Matt Groening, and Will Eisner, Scott McCloud's <em>Understanding Comics</em> is a seminal examination of comics art: its rich history, surprising technical components, and major cultural significance. Explore the secret world between the panels, through the lines, and within the hidden symbols of a powerful but misunderstood art form.",
+                "authors": {
+                    "author": {
+                        "id": 33907,
+                        "name": "Scott McCloud",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1231113775p5/33907.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1231113775p2/33907.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/33907.Scott_McCloud",
+                        "average_rating": 3.99,
+                        "ratings_count": 138204,
+                        "text_reviews_count": 5700
+                    }
+                },
+                "published": 1993,
+                "work": {
+                    "id": 2415847,
+                    "uri": "kca://work/amzn1.gr.work.v1.InJXBvMkejbsXZ33tu2MMA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 602771288
+                    },
+                    "old_status": "currently-reading",
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 13 09:46:15 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 293111500,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813208135,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Tue Feb 16 00:00:00 -0800 2010",
+            "read_at": "Mon Oct 13 09:46:17 -0700 2014",
+            "date_added": "Tue Feb 16 23:48:04 -0800 2010",
+            "date_updated": "Mon Oct 23 16:48:59 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/90062271",
+            "link": "https://www.goodreads.com/review/show/90062271",
+            "owned": 0
+        }
+    }
+}

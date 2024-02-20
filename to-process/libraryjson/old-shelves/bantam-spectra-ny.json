@@ -1,0 +1,104 @@
+{
+    "name": "Bantam Spectra (NY)",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Excession (Culture, #5)",
+            "id": "12013",
+            "author": "Iain M. Banks",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1303220060000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Excession (Culture, #5): Rating - 5/5",
+                    "date": 1303220060000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12013",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bantam Spectra (NY)",
+            "tags": [
+                "Mass Market Paperback",
+                "Bantam Spectra (NY)",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0553575376",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780553575378",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "12013",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Excession (Culture, #5)",
+            "id": 12013,
+            "author": "Iain M. Banks",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12013",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bantam Spectra (NY)",
+            "tags": [
+                "Mass Market Paperback",
+                "Bantam Spectra (NY)",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 12013,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

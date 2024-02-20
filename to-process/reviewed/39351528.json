@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3032238270,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 39351528
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 15
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ctjV3nvuXhnzP_JSGR3M_Q",
+                "title": "Before The Exit: Thought Experiments For Entrepreneurs",
+                "title_without_series": "Before The Exit: Thought Experiments For Entrepreneurs",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/39351528-before-the-exit",
+                "num_pages": 59,
+                "format": {},
+                "edition_information": {},
+                "publisher": "Amazon Digital Services",
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.43,
+                "ratings_count": 107,
+                "description": "In the entrepreneurial world, it’s rarely questioned that “exiting” is the end goal of a smartly built business and a prestigious waypoint in a successful career.<br /><br />Since building and selling a business can take years - or even decades - you can’t exactly “practice” exiting your business. The best you can do is learn from others.<br /><br />In 2015, Dan Andrews and Ian Schoen sold their product business, which they built over the course of 7 years and employed 15 people, for multi-seven figures. While they don't regret selling the business – there are many mistakes they made that were avoidable.<br /><br />Whether you are still in the early stages of building a business or thinking of selling, this book is designed to help you build with the future in mind.<br /><br />This book presents a series of 5 thought experiments including: <br /><br />- The Lifestyle Ladder<br /><br />- The Mock Tax Rebate featuring the Mediocre CEO Test<br /><br />- The Hidden Upsides<br /><br />- The Cash Conundrum<br /><br />- The Dirty Secret<br /><br />It turns out there are patterns and predictable challenges coming your way when you prepare to exit your business. Knowing about them in advance is fun and potentially very profitable.<br /><br />The five thought experiments that you’ll read about in this book are designed to give you clarity and confidence as you think through what it might mean to sell your business.",
+                "authors": {
+                    "author": {
+                        "id": 18003641,
+                        "name": "Dan   Andrews",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1525461543p5/18003641.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1525461543p2/18003641.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/18003641.Dan_Andrews",
+                        "average_rating": 4.43,
+                        "ratings_count": 107,
+                        "text_reviews_count": 15
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 61009032,
+                    "uri": "kca://work/amzn1.gr.work.v1.2JU-38FmXqDwCFJ5zVxT_Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3200244057
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Oct 31 19:11:58 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2679304469,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Oct 31 19:11:57 -0700 2019",
+            "date_updated": "Thu Oct 31 19:11:57 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3032238270",
+            "link": "https://www.goodreads.com/review/show/3032238270",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 27661618,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3509481
+                },
+                "isbn": 385517181,
+                "isbn13": 9780385517188,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 30
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qINfhOZr9k-imBG0-b-d-A",
+                "title": "A Patent Lie",
+                "title_without_series": "A Patent Lie",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320476372l/3509481._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320476372l/3509481._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3509481-a-patent-lie",
+                "num_pages": 304,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Doubleday",
+                "publication_day": 17,
+                "publication_year": 2008,
+                "publication_month": 6,
+                "average_rating": 3.22,
+                "ratings_count": 144,
+                "description": "A gripping inside look at high-stakes lawyering, <b>A Patent Lie</b> is further evidence that Paul Goldstein is an emerging master of the legal thriller.After being forced from his high-powered Manhattan law firm, Michael Seeley—the tough-but-wounded hero of <i>Errors and Omissions</i>—has set up shop in his native Buffalo. Partly out of need, partly out of pride, Seeley takes on a case for his estranged brother, whose small biotech firm is suing a Swiss pharmaceutical giant over a controversial new AIDS vaccine. Seeley heads out to Silicon Valley to lead the case, but soon realizes there is much more at stake than he was first led to believe. As certain partnerships come to light, and financial gains become staggeringly clear, Seeley's own life may be in grave danger.<br /><br /><br /><i>From the Trade Paperback edition.</i>",
+                "authors": {
+                    "author": {
+                        "id": 199906,
+                        "name": "Paul Goldstein",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1286492830p5/199906.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1286492830p2/199906.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/199906.Paul_Goldstein",
+                        "average_rating": 3.32,
+                        "ratings_count": 481,
+                        "text_reviews_count": 82
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 3551164,
+                    "uri": "kca://work/amzn1.gr.work.v1.8mJF3d-jwV2Qy02IGE6zbQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 11858968,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jul 18 16:28:45 -0700 2008",
+            "date_updated": "Fri Jul 18 16:28:45 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/27661618",
+            "link": "https://www.goodreads.com/review/show/27661618",
+            "owned": 0
+        }
+    }
+}

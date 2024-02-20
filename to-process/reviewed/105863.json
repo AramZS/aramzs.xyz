@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789417095,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 105863
+                },
+                "isbn": 785116567,
+                "isbn13": 9780785116561,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 65
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.54Ad8woFO-o_eLdQi6kmZw",
+                "title": "Powers, Vol. 7: Forever",
+                "title_without_series": "Powers, Vol. 7: Forever",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/105863.Powers_Vol_7",
+                "num_pages": 272,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 15,
+                "publication_year": 2004,
+                "publication_month": 12,
+                "average_rating": 4.2,
+                "ratings_count": 1547,
+                "description": "Presents the story that literally spans the history of man as all the mysteries of Powers and the Powers universe unfold, following a lone warrior's trek through the greatest stories ever told.",
+                "authors": {
+                    "author": {
+                        "id": 12424,
+                        "name": "Brian Michael Bendis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1239763230p5/12424.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1239763230p2/12424.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12424.Brian_Michael_Bendis",
+                        "average_rating": 3.92,
+                        "ratings_count": 493910,
+                        "text_reviews_count": 30779
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 102044,
+                    "uri": "kca://work/amzn1.gr.work.v1.7VO0M-yu2Pespj_thw3giA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240467520
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:50:16 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813201882,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:50:16 -0800 2013",
+            "date_updated": "Mon Oct 23 16:40:57 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789417095",
+            "link": "https://www.goodreads.com/review/show/789417095",
+            "owned": 0
+        }
+    }
+}

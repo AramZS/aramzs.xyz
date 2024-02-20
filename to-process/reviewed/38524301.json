@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065306726,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 38524301
+                },
+                "isbn": 1785865870,
+                "isbn13": 9781785865879,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 609
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ucYTVHK1uSkqEctguU7iJA",
+                "title": "Shades of Magic Vol. 1: The Steel Prince",
+                "title_without_series": "Shades of Magic Vol. 1: The Steel Prince",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536423241l/38524301._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536423241l/38524301._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/38524301-shades-of-magic-vol-1",
+                "num_pages": 112,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Titan Comics",
+                "publication_day": 6,
+                "publication_year": 2019,
+                "publication_month": 3,
+                "average_rating": 3.7,
+                "ratings_count": 7403,
+                "description": "<b>Written by #1 New York Times bestselling author V.E. Schwab and torn from the universe of the Shades of Magic sequence, this all-original comic book prequel to A Darker Shade of Magic is perfect for fans of bloody, swashbuckling adventure and gritty fantasy!</b><br /><br />Delve into the thrilling, epic tale of the young and arrogant prince Maxim Maresh, long before he became the king of Red London and adoptive father to Kell, the lead of A Darker Shade of Magic!<br /><br />The youthful Maresh is sent to a violent and unmanageable port city on the Blood Coast of Verose, on strict orders from his father, King Nokil Maresh, to cut his military teeth in this lawless landscape.<br /><br />There, he encounters an unruly band of soldiers, a lawless landscape, and the intoxicatingly deadly presence of the newly returned pirate queen, Arisa...<br /><br /><i>Collects Shades of Magic: The Steel Prince #1-4.</i>",
+                "authors": {
+                    "author": {
+                        "id": 7168230,
+                        "name": "V.E. Schwab",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1511218938p5/7168230.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1511218938p2/7168230.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7168230.V_E_Schwab",
+                        "average_rating": 4.19,
+                        "ratings_count": 498383,
+                        "text_reviews_count": 75358
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 60156771,
+                    "uri": "kca://work/amzn1.gr.work.v1.sQngssCQ5lW_5Vs1MhYAgg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244220457
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:21:20 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712840713,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:21:19 -0800 2019",
+            "date_updated": "Thu Nov 28 09:21:20 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065306726",
+            "link": "https://www.goodreads.com/review/show/3065306726",
+            "owned": 0
+        }
+    }
+}

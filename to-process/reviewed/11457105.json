@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789412751,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 11457105
+                },
+                "isbn": 1119998956,
+                "isbn13": 9781119998952,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 66
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Jwl2_Qg8rt_m-w2FN5JK5A",
+                "title": "Design for Hackers: Reverse Engineering Beauty",
+                "title_without_series": "Design for Hackers: Reverse Engineering Beauty",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/11457105-design-for-hackers",
+                "num_pages": 352,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Wiley",
+                "publication_day": 29,
+                "publication_year": 2011,
+                "publication_month": 8,
+                "average_rating": 3.74,
+                "ratings_count": 804,
+                "description": "Discover the techniques behind beautiful design by deconstructing designs to understand them. The term 'hacker' has been redefined to consist of anyone who has an insatiable curiosity as to how things work--and how they can try to make them better. This book is aimed at hackers of all skill levels and explains the classical principles and techniques behind beautiful designs by deconstructing those designs in order to understand what makes them so remarkable. Author and designer David Kadavy provides you with the framework for understanding good design and places a special emphasis on interactive mediums. You'll explore color theory, the role of proportion and geometry in design, and the relationship between medium and form. Packed with unique reverse engineering design examples, this book inspires and encourages you to discover and create new beauty in a variety of formats. Breaks down and studies the classical principles and techniques behind the creation of beautiful design. Illustrates cultural and contextual considerations in communicating to a specific audience. Discusses why design is important, the purpose of design, the various constraints of design, and how today's fonts are designed with the screen in mind. Dissects the elements of color, size, scale, proportion, medium, and form. Features a unique range of examples, including the graffiti in the ancient city of Pompeii, the lack of the color black in Monet's art, the style and sleekness of the iPhone, and more.<br /><br />By the end of this book, you'll be able to apply the featured design principles to your own web designs, mobile apps, or other digital work.",
+                "authors": {
+                    "author": {
+                        "id": 4877308,
+                        "name": "David Kadavy",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1524610285p5/4877308.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1524610285p2/4877308.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4877308.David_Kadavy",
+                        "average_rating": 3.92,
+                        "ratings_count": 1578,
+                        "text_reviews_count": 142
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 16391176,
+                    "uri": "kca://work/amzn1.gr.work.v1.rFvxxaCdcDm1wSXYgqk9sg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240462314
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:43:23 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571651519,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:43:22 -0800 2013",
+            "date_updated": "Fri Dec 13 08:43:22 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789412751",
+            "link": "https://www.goodreads.com/review/show/789412751",
+            "owned": 0
+        }
+    }
+}

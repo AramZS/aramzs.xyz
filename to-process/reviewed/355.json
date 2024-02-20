@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24670789,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 355
+                },
+                "isbn": 345316509,
+                "isbn13": 9780345316509,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 440
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.tojY7xrh_YfYKz5px06W6Q",
+                "title": "Job: A Comedy of Justice",
+                "title_without_series": "Job: A Comedy of Justice",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438043968l/355._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438043968l/355._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/355.Job",
+                "num_pages": 439,
+                "format": "Paperback",
+                "edition_information": "First Paperback Edition",
+                "publisher": "Del Rey",
+                "publication_day": 12,
+                "publication_year": 1985,
+                "publication_month": 10,
+                "average_rating": 3.78,
+                "ratings_count": 16510,
+                "description": "After he firewalked in Polynesia, the world wasn't the same for Alexander Hergensheimer, now called Alec Graham. As natural accidents occurred without cease, Alex knew Armageddon and the Day of Judgement were near. Somehow he had to bring his beloved heathen, Margrethe, to a state of grace, and, while he was at it, save the rest of the world ....",
+                "authors": {
+                    "author": {
+                        "id": 205,
+                        "name": "Robert A. Heinlein",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192826560p5/205.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192826560p2/205.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/205.Robert_A_Heinlein",
+                        "average_rating": 3.94,
+                        "ratings_count": 1071046,
+                        "text_reviews_count": 34737
+                    }
+                },
+                "published": 1985,
+                "work": {
+                    "id": 924656,
+                    "uri": "kca://work/amzn1.gr.work.v1.Qh1w-7lL2CvJfXGrsM3d_Q"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 10337026,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:15:13 -0700 2008",
+            "date_updated": "Mon Jun 16 19:15:13 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24670789",
+            "link": "https://www.goodreads.com/review/show/24670789",
+            "owned": 0
+        }
+    }
+}

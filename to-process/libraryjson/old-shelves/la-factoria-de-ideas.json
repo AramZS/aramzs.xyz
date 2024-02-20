@@ -1,0 +1,51 @@
+{
+    "name": "La factoría de ideas",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Ubik",
+            "id": "22590",
+            "author": "Philip K. Dick, David Alabort, Manuel Espín",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1299675449000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22590",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "La factoría de ideas",
+            "tags": [
+                "Paperback",
+                "La factoría de ideas",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "8498000831",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9788498000832",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "22590",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

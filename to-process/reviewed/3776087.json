@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960341374,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3776087
+                },
+                "isbn": 786950161,
+                "isbn13": 9780786950164,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 15
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.YDGubrmfBbCEGsZmBXFHWA",
+                "title": "Dungeons & Dragons Player's Handbook 2: A 4th Edition D&D Core Rulebook",
+                "title_without_series": "Dungeons & Dragons Player's Handbook 2: A 4th Edition D&D Core Rulebook",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320527555l/3776087._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320527555l/3776087._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3776087-dungeons-dragons-player-s-handbook-2",
+                "num_pages": 224,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Wizards of the Coast",
+                "publication_day": 17,
+                "publication_year": 2009,
+                "publication_month": 3,
+                "average_rating": 3.5,
+                "ratings_count": 520,
+                "description": "New classes, races, and other options for your <b>D&amp;D</b>(R) game.<br /><br />This book builds on the array of classes and races presented in the first <b>\n  <i>Player's Handbook</i>\n</b>(R), adding both old favorites and new, never-before-seen options to the game.<br /><br />The book adds a new power source for 4th Edition <b>D&amp;D</b>; classes using the new primal power source include the barbarian and the druid.<br /><br /><b>\n  <i>Player's Handbook 2</i>\n</b> expands the range of options available to <b>D&amp;D</b> players with new classes, races, powers, and other material.",
+                "authors": {
+                    "author": {
+                        "id": 331596,
+                        "name": "Jeremy Crawford",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/331596.Jeremy_Crawford",
+                        "average_rating": 4.42,
+                        "ratings_count": 9657,
+                        "text_reviews_count": 401
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 3820109,
+                    "uri": "kca://work/amzn1.gr.work.v1.MzExRgKJqWfFVvFsJLK3Xg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452281529
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:06:19 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710710001,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:06:18 -0700 2014",
+            "date_updated": "Sat Jun 07 06:06:18 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960341374",
+            "link": "https://www.goodreads.com/review/show/960341374",
+            "owned": 0
+        }
+    }
+}

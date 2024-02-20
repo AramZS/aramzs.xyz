@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1304810412,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9579865
+                },
+                "isbn": 1846944317,
+                "isbn13": 9781846944314,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.G_VEXzYtdNzHHU1S1F5T_g",
+                "title": "Post-Cinematic Affect",
+                "title_without_series": "Post-Cinematic Affect",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355050997l/9579865._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355050997l/9579865._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9579865-post-cinematic-affect",
+                "num_pages": 191,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Obooks",
+                "publication_day": 16,
+                "publication_year": 2010,
+                "publication_month": 11,
+                "average_rating": 4.08,
+                "ratings_count": 114,
+                "description": "Post-Cinematic Affect is about what it feels like to live in the affluent West in the early 21st century. Specifically, it explores the structure of feeling that is emerging today in tandem with new digital technologies, together with economic globalization and the financialization of more and more human activities. The 20th century was the age of film and television; these dominant media shaped and reflected our cultural sensibilities. In the 21st century, new digital media help to shape and reflect new forms of sensibility. Movies (moving image and sound works) continue to be made, but they have adopted new formal strategies, they are viewed under massively changed conditions, and they address their spectators in different ways than was the case in the 20th century. The book traces these changes, focusing on four recent moving-image works: Nick Hooker's music video for Grace Jones' song Corporate Cannibal; Olivier Assayas' movie Boarding Gate, starring Asia Argento; Richard Kelly's movie Southland Tales, featuring Justin Timberlake, Dwayne Johnson, and other pop culture celebrities; and Mark Neveldine and Brian Taylor's Gamer.",
+                "authors": {
+                    "author": {
+                        "id": 91752,
+                        "name": "Steven Shaviro",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1369396422p5/91752.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1369396422p2/91752.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/91752.Steven_Shaviro",
+                        "average_rating": 3.92,
+                        "ratings_count": 918,
+                        "text_reviews_count": 73
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 14466765,
+                    "uri": "kca://work/amzn1.gr.work.v1.Apwh4NwKcAn937udnt2d_A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 892752432
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 10 20:49:17 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1006734404,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Jun 10 20:49:17 -0700 2015",
+            "date_updated": "Wed Jun 10 20:49:18 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1304810412",
+            "link": "https://www.goodreads.com/review/show/1304810412",
+            "owned": 0
+        }
+    }
+}

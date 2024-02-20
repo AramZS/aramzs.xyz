@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1549834810,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25547096
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 217
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.JJeEoEXRxCMedF92-Gb1HQ",
+                "title": "Reflections (Indexing, #2)",
+                "title_without_series": "Reflections",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436288119l/25547096._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436288119l/25547096._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25547096-reflections",
+                "num_pages": 325,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": 12,
+                "publication_year": 2016,
+                "publication_month": 1,
+                "average_rating": 4.19,
+                "ratings_count": 3004,
+                "description": "“For her to love me, she had to be willing to kill me. Anything else would show that her heart was untrue.”<br /><br />The struggle against not-so-charming storybook narratives isn’t the only complicating factor in Henrietta “Henry” Marchen’s life. As part of the ATI Management Bureau team protecting the world from fairy tales gone awry, she’s juggling her unwanted new status as a Snow White, dealing with a potentially dangerous Pied Piper, and wrangling a most troublesome wicked stepsister—along with a budding relationship with Jeff, her teammate.<br /><br />But when a twisted, vicious Cinderella breaks out of prison and wreaks havoc, things go from disenchanted to deadly. And once Henry realizes someone is trying to use her to destroy the world, her story becomes far from over—and this one might not have a happily ever after.<br /><br />Indexing: Reflections is New York Times bestselling author Seanan McGuire’s continuing new urban fantasy, where everything you thought you knew about fairy tales gets turned on its head.<br /><br />This book was initially released in episodes as a Kindle Serial. All episodes are now available for immediate download as a complete book.",
+                "authors": {
+                    "author": {
+                        "id": 2860219,
+                        "name": "Seanan McGuire",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1245623198p5/2860219.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1245623198p2/2860219.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2860219.Seanan_McGuire",
+                        "average_rating": 4.03,
+                        "ratings_count": 460789,
+                        "text_reviews_count": 61403
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 42661824,
+                    "uri": "kca://work/amzn1.gr.work.v1.OrrVqI_fd3PkSerCoMRLVg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1239080906
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Feb 15 17:56:13 -0800 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Feb 15 17:56:13 -0800 2016",
+            "date_added": "Mon Feb 15 17:56:13 -0800 2016",
+            "date_updated": "Mon Feb 15 17:56:14 -0800 2016",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1549834810",
+            "link": "https://www.goodreads.com/review/show/1549834810",
+            "owned": 0
+        }
+    }
+}

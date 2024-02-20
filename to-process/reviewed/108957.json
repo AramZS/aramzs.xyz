@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960347589,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 108957
+                },
+                "isbn": 321384016,
+                "isbn13": 9780321384010,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 23
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ME2W8a63YctAhqNApjIoAA",
+                "title": "Everyware: The Dawning Age of Ubiquitous Computing",
+                "title_without_series": "Everyware: The Dawning Age of Ubiquitous Computing",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/108957.Everyware",
+                "num_pages": 267,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "New Riders Publishing",
+                "publication_day": 20,
+                "publication_year": 2006,
+                "publication_month": 3,
+                "average_rating": 3.89,
+                "ratings_count": 301,
+                "description": "Ubiquitous computing--almost imperceptible, but everywhere around us--is rapidly becoming a reality. How will it change us? how can we shape its emergence? Smart buildings, smart furniture, smart clothing... even smart bathtubs. networked street signs and self-describing soda cans. Gestural interfaces like those seen in <i>Minority Report</i>. The RFID tags now embedded in everything from credit cards to the family pet. All of these are facets of the ubiquitous computing author Adam Greenfield calls \"everyware.\" In a series of brief, thoughtful meditations, Greenfield explains how everyware is already reshaping our lives, transforming our understanding of the cities we live in, the communities we belong to--and the way we see ourselves. What are people saying about the book? <i>\"Adam Greenfield is intense, engaged, intelligent and caring. I pay attention to him. I counsel you to do the same.\" </i>--<b>HOWARD RHEINGOLD</b>, AUTHOR, <i>SMART MOBS: THE NEXT SOCIAL REVOLUTION</i> <i>\"A gracefully written, fascinating, and deeply wise book on one of the most powerful ideas of the digital age--and the obstacles we must overcome before we can make ubiquitous computing a reality.\"</i>--<b>STEVE SILBERMAN</b>, EDITOR, <i>WIRED MAGAZINE</i> <i>\"Adam is a visionary. he has true compassion and respect for ordinary users like me who are struggling to use and understand the new technology being thrust on us at overwhelming speed.\"</i>--<b>REBECCA MACKINNON</b>, BERKMAN CENTER FOR INTERNET AND SOCIETY, HARVARD UNIVERSITY <i>Everyware</i> is an AIGA Design Press book, published under Peachpit's New Riders imprint in partnership with AIGA.<br />",
+                "authors": {
+                    "author": {
+                        "id": 18299688,
+                        "name": "Adam  Greenfield",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/18299688.Adam_Greenfield",
+                        "average_rating": 4.05,
+                        "ratings_count": 1083,
+                        "text_reviews_count": 106
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 105006,
+                    "uri": "kca://work/amzn1.gr.work.v1.BWnKxm1jGSOz3raB5GbhAw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452289220
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:16:31 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:16:31 -0700 2014",
+            "date_updated": "Sat Jun 07 06:16:31 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960347589",
+            "link": "https://www.goodreads.com/review/show/960347589",
+            "owned": 0
+        }
+    }
+}

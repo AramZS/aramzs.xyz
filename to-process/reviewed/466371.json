@@ -1,0 +1,150 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 82036002,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 466371
+                },
+                "isbn": 441006329,
+                "isbn13": 9780441006328,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 71
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.OA-Usnzko--SEkMUlleeJg",
+                "title": "The Color of Distance",
+                "title_without_series": "The Color of Distance",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/466371.The_Color_of_Distance",
+                "num_pages": 480,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Ace",
+                "publication_day": 1,
+                "publication_year": 1999,
+                "publication_month": 7,
+                "average_rating": 4.27,
+                "ratings_count": 769,
+                "description": "Juna is the sole survivor of a team of surveyors marooned in the dense and isolated Tendu rain forest, an uninhabitable world for humans. Her only hope for survival is total transformation--and terrifying assimilation--into the amphibian Tendu species. Juna will learn more about her own human nature than ever before.",
+                "authors": {
+                    "author": {
+                        "id": 104526,
+                        "name": "Amy Thomson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1473929536p5/104526.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1473929536p2/104526.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/104526.Amy_Thomson",
+                        "average_rating": 4.02,
+                        "ratings_count": 1449,
+                        "text_reviews_count": 154
+                    }
+                },
+                "published": 1999,
+                "work": {
+                    "id": 454744,
+                    "uri": "kca://work/amzn1.gr.work.v1.xX37XamZSqmyRz3G2Te_aA"
+                }
+            },
+            "user_statuses": {
+                "user_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1768109
+                    },
+                    "page": {
+                        "type": "integer",
+                        "$t": 20
+                    },
+                    "chapter": {
+                        "type": "integer"
+                    },
+                    "comments_count": 0,
+                    "created_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 25 18:15:28 -0800 2009"
+                    },
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 25 18:15:28 -0800 2009"
+                    },
+                    "last_comment_at": {
+                        "type": "datetime"
+                    },
+                    "ratings_count": {
+                        "type": "integer",
+                        "$t": 0
+                    },
+                    "percent": {
+                        "type": "integer"
+                    },
+                    "work_id": {
+                        "type": "integer"
+                    },
+                    "note_uri": {},
+                    "note_updated_at": {
+                        "type": "datetime"
+                    },
+                    "body": {}
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 47568057,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 25 18:15:10 -0800 2009",
+            "date_updated": "Wed Feb 03 17:56:24 -0800 2010",
+            "read_count": 1,
+            "body": "An excellent science fiction novel. If you are a SF reader or writer you need to pick up this book.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/82036002",
+            "link": "https://www.goodreads.com/review/show/82036002",
+            "owned": 0
+        }
+    }
+}

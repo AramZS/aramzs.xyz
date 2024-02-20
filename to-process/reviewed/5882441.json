@@ -1,0 +1,104 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 39549913,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 5882441
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4
+                },
+                "uri": "kca://book/amzn1.gr.book.v1._GKF4fFR8dSx-GN_RI33Kg",
+                "title": "Reggie vs. Kaiju Storm Chimera Wolf",
+                "title_without_series": "Reggie vs. Kaiju Storm Chimera Wolf",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341203011l/5882441._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341203011l/5882441._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/5882441-reggie-vs-kaiju-storm-chimera-wolf",
+                "num_pages": {},
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "MWS Media",
+                "publication_day": 18,
+                "publication_year": 2008,
+                "publication_month": 11,
+                "average_rating": 3.94,
+                "ratings_count": 18,
+                "description": "Fans of Pacific Rim, Godzilla, and giant monster / kaiju films will enjoy this giant monster tale!<br /><br />It takes a kaiju storm to bring Reggie Samson back to his old hometown... and the girl he left but never let go. What connects all three? Reggie had better figure it out before Kaiju Storm Chimera Wolf destroys them all!<br /><br />This is the first story set in Matthew Wayne Selznick's Daikaiju Universe storyworld. 4,550 words.",
+                "authors": {
+                    "author": {
+                        "id": 703538,
+                        "name": "Matthew Wayne Selznick",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1506096385p5/703538.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1506096385p2/703538.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/703538.Matthew_Wayne_Selznick",
+                        "average_rating": 3.84,
+                        "ratings_count": 1043,
+                        "text_reviews_count": 82
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 6054663,
+                    "uri": "kca://work/amzn1.gr.work.v1.AOeIqtad6ZUJ8nwbQZhvTg"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 18383729,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Dec 07 17:50:58 -0800 2008",
+            "date_updated": "Sun Dec 07 17:51:01 -0800 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/39549913",
+            "link": "https://www.goodreads.com/review/show/39549913",
+            "owned": 0
+        }
+    }
+}

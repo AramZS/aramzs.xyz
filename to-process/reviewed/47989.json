@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 724622985,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 47989
+                },
+                "isbn": "055215430X",
+                "isbn13": 9780552154307,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1499
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.TsS3tvC_ny1vYz_WrullMw",
+                "title": "Night Watch (Discworld, #29; City Watch, #6)",
+                "title_without_series": "Night Watch",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320518310l/47989._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320518310l/47989._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/47989.Night_Watch",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.5,
+                "ratings_count": 92174,
+                "description": "<i>'Don't put your trust in revolutions. They always come round again. That's why they're called revolutions. People die, and nothing changes.'</i><br /><br />For a policeman, there can be few things worse than a serial killer at loose in your city. Except, perhaps, a serial killer who targets coppers, and a city on the brink of bloody revolution. The people have found their voice at last, the flags and barricades are rising...And the question for a policeman, an officer of the law, a defender of the peace, is:<br /><br />Are you with them, or are you against them?",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 1712283,
+                    "uri": "kca://work/amzn1.gr.work.v1.FXVMLak-PWFTOUldXDrKfQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 159409565
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Sep 20 23:23:34 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Sep 01 00:00:00 -0700 2013",
+            "date_added": "Fri Sep 20 23:23:34 -0700 2013",
+            "date_updated": "Wed Jan 22 13:19:40 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/724622985",
+            "link": "https://www.goodreads.com/review/show/724622985",
+            "owned": 0
+        }
+    }
+}

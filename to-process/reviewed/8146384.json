@@ -1,0 +1,104 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 133309980,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8146384
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.9aC-6IKlmRnoHJKsC9jndw",
+                "title": "The Sovereign Era: Year One (The Sovereign Era, #3)",
+                "title_without_series": "The Sovereign Era: Year One",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8146384-the-sovereign-era",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.84,
+                "ratings_count": 87,
+                "description": "Matthew Wayne Selznick's \"The Sovereign Era: Year One\" Tales from the dawn of the Sovereign Era! April, 1985: The world is stunned to discover individuals with remarkable powers and abilities living among us! Explore a mosaic history of the first twelve months of the Sovereign Era in these stories from seven superstars of new media fiction: Mur Lafferty - \"You Must Be My Lucky Star\" Jared Axelrod - \"Can't Get There From Here\" Nathan Lowell - \"Mouse Mousey\" P.G. Holyfield - \"Every Breath You Take\" J.R. Blackwell - \"I Wear My Sunglasses At Night\" Matt Wallace - \"Sangre del Sureños\" J.C. Hutchins - \"Dear Mr. Donner\" Featuring cover art by Jeffrey Himmelman!",
+                "authors": {
+                    "author": {
+                        "id": 703538,
+                        "name": "Matthew Wayne Selznick",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1506096385p5/703538.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1506096385p2/703538.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/703538.Matthew_Wayne_Selznick",
+                        "average_rating": 3.84,
+                        "ratings_count": 1043,
+                        "text_reviews_count": 82
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 12945152,
+                    "uri": "kca://work/amzn1.gr.work.v1.cXXyDRVrPkepxwTfKiSEhg"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 79542746,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 02 11:52:34 -0800 2010",
+            "date_updated": "Thu Dec 02 11:52:34 -0800 2010",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/133309980",
+            "link": "https://www.goodreads.com/review/show/133309980",
+            "owned": 0
+        }
+    }
+}

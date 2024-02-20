@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2845832228,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18815082
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 90
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.rITfL8hei69OkoU_TdOIzg",
+                "title": "An Astronaut's Guide to Life on Earth",
+                "title_without_series": "An Astronaut's Guide to Life on Earth",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18815082-an-astronaut-s-guide-to-life-on-earth",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.17,
+                "ratings_count": 43010,
+                "description": "<b>As Commander of the International Space Station, Chris Hadfield captivated the world with stunning photos and commentary from space. Now, in his first book, Chris offers readers extraordinary stories from his life as an astronaut, and shows how to make the impossible a reality.</b><br /> <br />Chris Hadfield decided to become an astronaut after watching the Apollo moon landing with his family on Stag Island, Ontario, when he was nine years old, and it was impossible for Canadians to be astronauts. In 2013, he served as Commander of the International Space Station orbiting the Earth during a five-month mission. Fulfilling this lifelong dream required intense focus, natural ability and a singular commitment to “thinking like an astronaut.” In <i>An Astronaut’s Guide to Life on Earth</i>, Chris gives us a rare insider’s perspective on just what that kind of thinking involves, and how earthbound humans can use it to achieve success and happiness in their lives.<br />Astronaut training turns popular wisdom about how to be successful on its head. Instead of visualizing victory, astronauts prepare for the worst; always sweat the small stuff; and do care what others think. Chris shows how this unique education comes into play with dramatic anecdotes about going blind during a spacewalk, getting rid of a live snake while piloting a plane, and docking with space station Mir when laser tracking systems fail at the critical moment. Along the way, he shares exhilarating experiences, and challenges, from his 144 days on the ISS, and provides an unforgettable answer to his most-asked question: What’s it <i>really </i>like in outer space?<br />Written with humour, humility and a profound optimism for the future of space exploration, <i>An Astronaut’s Guide to Life on Earth </i>offers readers not just the inspiring story of one man’s journey to the ISS, but the opportunity to step into his space-boots and think like an astronaut—and renew their commitment to pursuing their own dreams, big or small.",
+                "authors": {
+                    "author": {
+                        "id": 1136925,
+                        "name": "Chris Hadfield",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1372880368p5/1136925.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1372880368p2/1136925.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1136925.Chris_Hadfield",
+                        "average_rating": 4.18,
+                        "ratings_count": 46717,
+                        "text_reviews_count": 4494
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 25488999,
+                    "uri": "kca://work/amzn1.gr.work.v1.y71ANdmwFg2ezlBHnjsEbw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2952088381
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Jun 04 05:26:52 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2492322795,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Jun 04 05:26:52 -0700 2019",
+            "date_updated": "Tue Jun 04 05:26:52 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2845832228",
+            "link": "https://www.goodreads.com/review/show/2845832228",
+            "owned": 0
+        }
+    }
+}

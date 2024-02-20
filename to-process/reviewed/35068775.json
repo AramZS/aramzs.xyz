@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2344466913,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35068775
+                },
+                "isbn": 62686658,
+                "isbn13": 9780062686657,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 363
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZsLYRmMKrlGyCqdU2dnT4Q",
+                "title": "The Oracle Year",
+                "title_without_series": "The Oracle Year",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500395608l/35068775._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500395608l/35068775._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35068775-the-oracle-year",
+                "num_pages": 432,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Harper Perennial",
+                "publication_day": 3,
+                "publication_year": 2018,
+                "publication_month": 4,
+                "average_rating": 3.69,
+                "ratings_count": 9439,
+                "description": "From bestselling comic-book franchise writer Charles Soule comes a clever and witty first novel of a twentysomething New Yorker who wakes up one morning with the power to predict the future—perfect for fans of Joe Hill and Brad Meltzer, or books like <em>This Book Is Full of Spiders</em> and <em>Welcome to Night Vale.</em><br /><br />Knowledge is power. So when an unassuming Manhattan bassist named Will Dando awakens from a dream one morning with 108 predictions about the future in his head, he rapidly finds himself the most powerful man in the world. Protecting his anonymity by calling himself the Oracle, he sets up a heavily guarded Web site with the help of his friend Hamza to selectively announce his revelations. In no time, global corporations are offering him millions for exclusive access, eager to profit from his prophecies.<br /><br />He's also making a lot of high-powered enemies, from the President of the United States and a nationally prominent televangelist to a warlord with a nuclear missile and an assassin grandmother. Legions of cyber spies are unleashed to hack the Site—as it's come to be called—and the best manhunters money can buy are deployed not only to unmask the Oracle but to take him out of the game entirely. With only a handful of people he can trust—including a beautiful journalist—it's all Will can do to simply survive, elude exposure, and protect those he loves long enough to use his knowledge to save the world.<br /><br />Delivering fast-paced adventure on a global scale as well as sharp-witted satire on our concepts of power and faith, Marvel writer Charles Soule's audacious debut novel takes readers on a rollicking ride where it's impossible to predict what will happen next.<br /><br /> <br /><br /><strong></strong> <br /><br /><strong></strong> <br /><br /><strong></strong><strong></strong>",
+                "authors": {
+                    "author": {
+                        "id": 1641284,
+                        "name": "Charles Soule",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1518019458p5/1641284.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1518019458p2/1641284.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1641284.Charles_Soule",
+                        "average_rating": 3.82,
+                        "ratings_count": 111885,
+                        "text_reviews_count": 12613
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 56364203,
+                    "uri": "kca://work/amzn1.gr.work.v1.7m939K2NVOhf-D0i39JNZg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2288707938
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Mar 30 05:36:02 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1990599683,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Mar 30 05:36:02 -0700 2018",
+            "date_updated": "Fri Mar 30 05:36:02 -0700 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2344466913",
+            "link": "https://www.goodreads.com/review/show/2344466913",
+            "owned": 0
+        }
+    }
+}

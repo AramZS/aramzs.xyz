@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065301229,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 41893832
+                },
+                "isbn": 1250195527,
+                "isbn13": 9781250195524,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 473
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.J8d3dNb83-wEaUccw4VRBA",
+                "title": "Middlegame",
+                "title_without_series": "Middlegame",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537288490l/41893832._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537288490l/41893832._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/41893832-middlegame",
+                "num_pages": 525,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor.com",
+                "publication_day": 7,
+                "publication_year": 2019,
+                "publication_month": 5,
+                "average_rating": 4.08,
+                "ratings_count": 10369,
+                "description": "Meet Roger. Skilled with words, languages come easily to him. He instinctively understands how the world works through the power of story.<br /><br />Meet Dodger, his twin. Numbers are her world, her obsession, her everything. All she understands, she does so through the power of math.<br /><br />Roger and Dodger aren’t exactly human, though they don’t realise it. They aren’t exactly gods, either. Not entirely. Not yet.<br /><br />Meet Reed, skilled in the alchemical arts like his progenitor before him. Reed created Dodger and her brother. He’s not their father. Not quite. But he has a plan: to raise the twins to the highest power, to ascend with them and claim their authority as his own.<br /><br />Godhood is attainable. Pray it isn’t attained.",
+                "authors": {
+                    "author": {
+                        "id": 2860219,
+                        "name": "Seanan McGuire",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1245623198p5/2860219.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1245623198p2/2860219.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2860219.Seanan_McGuire",
+                        "average_rating": 4.03,
+                        "ratings_count": 460789,
+                        "text_reviews_count": 61403
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 57524946,
+                    "uri": "kca://work/amzn1.gr.work.v1.oArVP4-FBDBqhnuI_ROJ3A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244213399
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:14:40 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712835219,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:14:39 -0800 2019",
+            "date_updated": "Thu Nov 28 09:14:40 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065301229",
+            "link": "https://www.goodreads.com/review/show/3065301229",
+            "owned": 0
+        }
+    }
+}

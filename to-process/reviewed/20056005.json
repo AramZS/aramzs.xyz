@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999622837,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20056005
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Ivkudc-w2_U9t75W-95kYQ",
+                "title": "The Fall of the House of Forbes: The Inside Story of the Collapse of a Media Empire",
+                "title_without_series": "The Fall of the House of Forbes: The Inside Story of the Collapse of a Media Empire",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20056005-the-fall-of-the-house-of-forbes",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.54,
+                "ratings_count": 68,
+                "description": "<br /><div>\n  <div>\n    <div>\n      <div>\n        <div>\n          <p>Forbes: the legendary name in finance journalism.  Synonymous with wealth, grand excess, glamour, and fun as well as style, insight, gossip, and hard-nosed reporting, the media empire and the family behind it form a remarkable story that has never been told. Now, in The Fall of the House of Forbes, veteran journalist Stewart Pinkerton reveals the hidden machinations, disastrous decisions, and personal foibles of a century-old dynasty that rose to glittering heights and crashed just as spectacularly.</p>\n          <p></p>\n          <p>Writing from an insider’s perspective and first-hand sources developed over his twenty years as a writer and editor at Forbes, Pinkerton takes us to the ritualized formal lunches inside the mansion-like headquarters at 60 Fifth Avenue in Manhattan; the lavish advertiser parties on board the family yacht, The Highlander; the sybaritic private life of Malcolm Forbes and the family’s increasing discomfort with its patriarch; and the glory days of the magazine, with its news-making stories, high-rolling expense accounts, and bar-setting standards for anyone who aspired to wealth and its trappings.  But as the media business changed, Forbes was slow to react, and found itself burdened by Malcolm’s immense personal expenses, Steve Forbes’s bumbling, self-financed presidential campaigns, and the family’s hubris and hesitation in the face of reality.   A series of devastating business decisions and an internecine struggle for power forced the sale of the Faberge eggs, the vintage toy collection, the homes, the private island, the yacht, and finally the sale of 40% of the company itself to outside investors…a collapse of shocking speed after decades of unsurpassed success.</p>\n          <p></p>\n          <p>A compelling narrative account of a powerful family’s dysfunction, The Fall of the House of Forbes is a parable of capitalism at its best and worst, and a metaphor for the current state of digital turmoil in media.  </p>\n        </div>\n      </div>\n    </div>\n  </div>\n</div><br />",
+                "authors": {
+                    "author": {
+                        "id": 5020873,
+                        "name": "Stewart Pinkerton",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1397723736p5/5020873.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1397723736p2/5020873.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5020873.Stewart_Pinkerton",
+                        "average_rating": 3.54,
+                        "ratings_count": 68,
+                        "text_reviews_count": 10
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 16930713,
+                    "uri": "kca://work/amzn1.gr.work.v1.HIvnO5h2nlPDCCW6n7AcKg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3156496541
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Oct 03 06:30:17 -0700 2019"
+                    },
+                    "ratings_count": 1,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2646064746,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Oct 03 06:30:17 -0700 2019",
+            "date_updated": "Thu Oct 03 06:30:17 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999622837",
+            "link": "https://www.goodreads.com/review/show/2999622837",
+            "owned": 0
+        }
+    }
+}

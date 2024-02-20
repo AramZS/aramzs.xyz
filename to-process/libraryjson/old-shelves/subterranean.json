@@ -1,0 +1,96 @@
+{
+    "name": "Subterranean",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Six-Gun Snow White",
+            "id": "16104414",
+            "author": "Catherynne M. Valente",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360252574000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16104414",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Subterranean",
+            "tags": [
+                "Hardcover",
+                "Subterranean",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1596065524",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781596065529",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16104414",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Your Hate Mail Will Be Graded: A Decade of Whatever, 1998-2008",
+            "id": "3852882",
+            "author": "John Scalzi",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1353727980000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3852882",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Subterranean",
+            "tags": [
+                "Hardcover",
+                "Subterranean",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1596062118",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781596062115",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "3852882",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

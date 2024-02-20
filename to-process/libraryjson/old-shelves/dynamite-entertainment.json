@@ -1,0 +1,247 @@
+{
+    "name": "Dynamite Entertainment",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Jim Butcher's Dresden Files: Ghoul Goblin",
+            "id": "18430203",
+            "author": "Jim Butcher, Mark Powers, Joseph S. Cooper",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1499609980000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Jim Butcher's Dresden Files: Ghoul Goblin: Rating - 3/5",
+                    "date": 1499609980000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18430203",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dynamite Entertainment",
+            "tags": [
+                "Hardcover",
+                "Dynamite Entertainment",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1606904388",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781606904381",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18430203",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Jim Butcher's The Dresden Files: Down Town",
+            "id": "25558821",
+            "author": "Jim Butcher, Mark Powers, Carlos Gómez, Stjepan Šejić",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1499609843000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25558821",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dynamite Entertainment",
+            "tags": [
+                "Hardcover",
+                "Dynamite Entertainment",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "160690700X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781606907009",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25558821",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Jim Butcher's The Dresden Files: Wild Card (Series Omnibus, Signed Limited Edition)",
+            "id": "30272307",
+            "author": "Jim Butcher, Mark Powers, Carlos Gómez, Sean Izaakse (Issue 4), Anthony Fowler, Jr. (Issue 3), Mohan, Bill Tortolini, Geoff Harkins, Anthony Marques, Rich Young, Priscilla Spencer, Michael Ashleigh Finn, Fred Hicks",
+            "date_finished": 1496707200000,
+            "notes": [],
+            "date_started": 1496752839000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Jim Butcher's The Dresden Files: Wild Card (Series Omnibus, Signed Limited Edition): Rating - 4/5",
+                    "date": 1496707200000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30272307",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dynamite Entertainment",
+            "tags": [
+                "Hardcover",
+                "Dynamite Entertainment",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1524100994",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781524100995",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "30272307",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Jim Butcher's Dresden Files: Ghoul Goblin",
+            "id": 18430203,
+            "author": "Jim Butcher",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18430203",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dynamite Entertainment",
+            "tags": [
+                "Hardcover",
+                "Dynamite Entertainment",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 18430203,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Jim Butcher's The Dresden Files: Wild Card (Series Omnibus, Signed Limited Edition)",
+            "id": 30272307,
+            "author": "Jim Butcher",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30272307",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dynamite Entertainment",
+            "tags": [
+                "Hardcover",
+                "Dynamite Entertainment",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 30272307,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

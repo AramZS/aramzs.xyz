@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528943964,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 166580
+                },
+                "isbn": 1840232048,
+                "isbn13": 9781840232042,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 445
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.bZwRG4GeV8yizILm3K71vw",
+                "title": "The Sandman: The Dream Hunters",
+                "title_without_series": "The Sandman: The Dream Hunters",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940077l/166580._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940077l/166580._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/166580.The_Sandman",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Titan Books Ltd.",
+                "publication_day": {},
+                "publication_year": 2000,
+                "publication_month": {},
+                "average_rating": 4.4,
+                "ratings_count": 18261,
+                "description": "Sandman fans should feel lucky that master fantasy writer Neil Gaiman discovered the mythical world of Japanese fables while researching his translation of Hayao Miyazaki's film Princess Mononoke. At the same time, while preparing for the Sandman 10th anniversary, he met Yoshitaka Amano, his artist for the 11th Sandman book. Amano is the famed designer of the Final Fantasy game series. The product of Gaiman's immersion in Japanese art, culture, and history, Sandman: Dream Hunters is a classic Japanese tale (adapted from \"The Fox, the Monk, and the Mikado of All Night's Dreaming\") that he has subtly morphed into his Sandman universe.<br /><br />Like most fables, the story begins with a wager between two jealous animals, a fox and a badger: which of them can drive a young monk from his solitary temple? The winner will make the temple into a new fox or badger home. But as the fox adopts the form of a woman to woo the monk from his hermitage, she falls in love with him. Meanwhile, in far away Kyoto, the wealthy Master of Yin-Yang, the onmyoji, is plagued by his fears and seeks tranquility in his command of sorcery. He learns of the monk and his inner peace; he dispatches demons to plague the monk in his dreams and eventually kill him to bring his peace to the onmyoji. The fox overhears the demons on their way to the monk and begins her struggle to save the man whom at first she so envied.<br /><br />Dream Hunters is a beautiful package. From the ink-brush painted endpapers to the luminous page layouts--including Amano's gate-fold painting of Morpheus in a sea of reds, oranges, and violets--this book has been crafted for a sensuous reading experience. Gaiman has developed as a prose stylist in the last several years with novels and stories such as Neverwhere and Stardust, and his narrative rings with a sense of timelessness and magic that gently sustains this adult fairy tale. The only disappointment here is that the book is so brief. One could imagine this creative team being even better suited to a longer story of more epic proportions. On the final page of Dream Hunters, in fact, Amano suggest that he will collaborate further with Mr. Gaiman in the future. Readers of Dream Hunters will hope that Amano's dream comes true. --Patrick O'Kelley",
+                "authors": {
+                    "author": {
+                        "id": 1221698,
+                        "name": "Neil Gaiman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p5/1221698.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p2/1221698.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1221698.Neil_Gaiman",
+                        "average_rating": 4.13,
+                        "ratings_count": 5858776,
+                        "text_reviews_count": 352868
+                    }
+                },
+                "published": 2000,
+                "work": {
+                    "id": 160861,
+                    "uri": "kca://work/amzn1.gr.work.v1.o1teS3TnEYD2A97zG4Vt2A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051893231
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:44:55 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813204869,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:01:17 -0800 2013",
+            "date_updated": "Mon Oct 23 16:44:55 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528943964",
+            "link": "https://www.goodreads.com/review/show/528943964",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2186985811,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 192523
+                },
+                "isbn": "034545684X",
+                "isbn13": 9780345456847,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 362
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.M7UmSeladXyXmfqrcyy-Vw",
+                "title": "Outbound Flight",
+                "title_without_series": "Outbound Flight",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546347l/192523._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546347l/192523._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/192523.Outbound_Flight",
+                "num_pages": 480,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Del Rey",
+                "publication_day": 30,
+                "publication_year": 2007,
+                "publication_month": 1,
+                "average_rating": 3.93,
+                "ratings_count": 11302,
+                "description": "It began as the ultimate voyage of discovery–only to become the stuff of lost Republic legend . . . and a dark chapter in Jedi history. Now, at last, acclaimed author Timothy Zahn returns to tell the whole extraordinary story of the remarkable–and doomed–Outbound Flight Project.<br /><br />The Clone Wars have yet to erupt when Jedi Master Jorus C’baoth petitions the Senate for support of a singularly ambitious undertaking. Six Jedi Masters, twelve Jedi Knights, and fifty thousand men, women, and children will embark–aboard a gargantuan vessel, equipped for years of travel–on a mission to contact intelligent life and colonize undiscovered worlds beyond the known galaxy. The government bureaucracy threatens to scuttle the expedition before it can even start–until Master C’baoth foils a murderous conspiracy plot, winning him the political capital he needs to set in motion the dream of Outbound Flight.<br /><br />Or so it would seem. For unknown to the famed Jedi Master, the successful launch of the mission is secretly being orchestrated by an unlikely ally: the evil Sith Lord, Darth Sidious, who has his own reasons for wanting Outbound Flight to move forward . . . and, ultimately, to fail. <br /><br />Yet Darth Sidious is not the mission’s most dangerous challenge. Once underway, the starship crosses paths at the edge of Unknown Space with the forces of the alien Chiss Ascendancy and the brilliant mastermind best known as “Thrawn.” Even Jedi Knight Obi-Wan Kenobi, aboard Outbound Flight with his young Padawan student, Anakin Skywalker, cannot help avert disaster. Thus what begins as a peaceful Jedi mission is violently transformed into an all-out war for survival against staggering odds–and the most diabolical of adversaries.<br /><br />Timothy Zahn’s unique mix of espionage, political gamesmanship, and deadly interstellar combat breathes electrifying life into a Star Wars legend.<br /><br /><br /><i>From the Hardcover edition.</i>",
+                "authors": {
+                    "author": {
+                        "id": 12479,
+                        "name": "Timothy Zahn",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p5/12479.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p2/12479.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12479.Timothy_Zahn",
+                        "average_rating": 4.07,
+                        "ratings_count": 363187,
+                        "text_reviews_count": 15929
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 556530,
+                    "uri": "kca://work/amzn1.gr.work.v1.KeWgy592r8bOrFLU_Fo2rw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2084096147
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Nov 17 06:04:32 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Nov 17 06:04:31 -0800 2017",
+            "date_updated": "Fri Nov 17 06:04:31 -0800 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2186985811",
+            "link": "https://www.goodreads.com/review/show/2186985811",
+            "owned": 0
+        }
+    }
+}

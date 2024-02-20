@@ -1,0 +1,96 @@
+{
+    "name": "Bloomsbury USA",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Should I Go to Grad School?: 41 Answers to An Impossible Question",
+            "id": "22267886",
+            "author": "Jessica Loudis, Bosko Blagojevic, John Arthur Peetz, Allison Rodman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1452350870000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22267886",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bloomsbury USA",
+            "tags": [
+                "Kindle Edition",
+                "Bloomsbury USA",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "22267886",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Monopolists: Obsession, Fury, and the Scandal Behind the World's Favorite Board Game",
+            "id": "21284468",
+            "author": "Mary Pilon",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1433543312000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/21284468",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bloomsbury USA",
+            "tags": [
+                "Kindle Edition",
+                "Bloomsbury USA",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "21284468",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

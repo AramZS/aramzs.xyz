@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3286331295,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 36466732
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 455
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.s5Mzl8z42T2T7g9hEFmASA",
+                "title": "The Last Sun (The Tarot Sequence, #1)",
+                "title_without_series": "The Last Sun",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517437940l/36466732._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517437940l/36466732._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/36466732-the-last-sun",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.2,
+                "ratings_count": 2400,
+                "description": "Rune Saint John, last child of the fallen Sun Court, is hired to search for Lady Judgment's missing son, Addam, on New Atlantis, the island city where the Atlanteans moved after ordinary humans destroyed their original home.<br /><br />With his companion and bodyguard, Brand, he questions Addam's relatives and business contacts through the highest ranks of the nobles of New Atlantis. But as they investigate, they uncover more than a missing man: a legendary creature connected to the secret of the massacre of Rune's Court. <br /><br />In looking for Addam, can Rune find the truth behind his family's death and the torments of his past?",
+                "authors": {
+                    "author": {
+                        "id": 17261493,
+                        "name": "K.D.  Edwards",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1517438249p5/17261493.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1517438249p2/17261493.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17261493.K_D_Edwards",
+                        "average_rating": 4.33,
+                        "ratings_count": 3607,
+                        "text_reviews_count": 779
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 58174811,
+                    "uri": "kca://work/amzn1.gr.work.v1.J37GIImPKRH3T0-cxfJT8w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3534737984
+                    },
+                    "old_status": {},
+                    "status": "currently-reading",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Apr 17 13:59:00 -0700 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 2927912747,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri Apr 17 13:59:00 -0700 2020",
+            "read_at": {},
+            "date_added": "Fri Apr 17 13:59:00 -0700 2020",
+            "date_updated": "Fri Apr 17 13:59:00 -0700 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3286331295",
+            "link": "https://www.goodreads.com/review/show/3286331295",
+            "owned": 0
+        }
+    }
+}

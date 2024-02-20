@@ -1,0 +1,231 @@
+{
+    "name": "Simon  Schuster",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Goliath: The 100-Year War Between Monopoly Power and Democracy",
+            "id": "40538538",
+            "author": "Matt Stoller",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1572614344000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/40538538",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Simon  Schuster",
+            "tags": [
+                "Hardcover",
+                "Simon  Schuster",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1501183087",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781501183089",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "40538538",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking",
+            "id": "30753841",
+            "author": "Samin Nosrat, Wendy MacNaughton",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1556373594000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30753841",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Simon  Schuster",
+            "tags": [
+                "Hardcover",
+                "Simon  Schuster",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1476753830",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781476753836",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "30753841",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "All the Single Ladies: Unmarried Women and the Rise of an Independent Nation",
+            "id": "25814394",
+            "author": "Rebecca Traister",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1493983209000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25814394",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Simon  Schuster",
+            "tags": [
+                "Hardcover",
+                "Simon  Schuster",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1476716560",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781476716565",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25814394",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "In the Plex: How Google Thinks, Works, and Shapes Our Lives",
+            "id": "7841446",
+            "author": "Steven Levy",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1439959988000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7841446",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Simon  Schuster",
+            "tags": [
+                "Hardcover",
+                "Simon  Schuster",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1416596585",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781416596585",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "7841446",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Know-It-All: One Man's Humble Quest to Become the Smartest Person in the World",
+            "id": "28116",
+            "author": "A.J. Jacobs",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1224013551000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/28116",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Simon  Schuster",
+            "tags": [
+                "Paperback",
+                "Simon  Schuster",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0743250621",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780743250627",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "28116",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

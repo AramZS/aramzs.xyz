@@ -1,0 +1,158 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3286328390,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 32603079
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9780399182112,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1556
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZX7GkPk21M7IBCxc1yliyA",
+                "title": "Wanderers",
+                "title_without_series": "Wanderers",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542215231l/32603079._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542215231l/32603079._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/32603079-wanderers",
+                "num_pages": 800,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Del Rey",
+                "publication_day": 9,
+                "publication_year": 2019,
+                "publication_month": 7,
+                "average_rating": 4.01,
+                "ratings_count": 10859,
+                "description": "<b>A decadent rock star. A deeply religious radio host. A disgraced scientist. And a teenage girl who may be the world's last hope.</b><br /><br />Shana wakes up one morning to discover her little sister in the grip of a strange malady. She appears to be sleepwalking. She cannot talk and cannot be woken up. And she is heading with inexorable determination to a destination that only she knows. But Shana and her sister are not alone. Soon they are joined by a flock of sleepwalkers from across America, on the same mysterious journey. And like Shana, there are other “shepherds” who follow the flock to protect their friends and family on the long dark road ahead.<br /><br />For on their journey, they will discover an America convulsed with terror and violence, where this apocalyptic epidemic proves less dangerous than the fear of it. As the rest of society collapses all around them–and an ultraviolent militia threatens to exterminate them–the fate of the sleepwalkers depends on unraveling the mystery behind the epidemic. The terrifying secret will either tear the nation apart–or bring the survivors together to remake a shattered world.",
+                "authors": {
+                    "author": {
+                        "id": 17152,
+                        "name": "Chuck Wendig",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p5/17152.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p2/17152.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17152.Chuck_Wendig",
+                        "average_rating": 3.73,
+                        "ratings_count": 111871,
+                        "text_reviews_count": 16120
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 53184096,
+                    "uri": "kca://work/amzn1.gr.work.v1.a968c2277WO3qlukBdXzWQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3534734125
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Apr 17 13:57:08 -0700 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri Jan 17 00:00:00 -0800 2020",
+            "read_at": "Mon Mar 30 00:00:00 -0700 2020",
+            "date_added": "Fri Apr 17 13:57:07 -0700 2020",
+            "date_updated": "Fri Apr 17 13:58:23 -0700 2020",
+            "read_count": 1,
+            "body": "Turned out that to be a really weird time to read this.",
+            "comments_count": 2,
+            "comments": {
+                "start": 1,
+                "end": 2,
+                "total": 2,
+                "comment": [
+                    {
+                        "id": 207848365,
+                        "body": "A friend of mine really hated this book.",
+                        "user": {
+                            "id": 1914949,
+                            "uri": "kca://profile:goodreads/A2VZ6B4OC643M",
+                            "name": "Nika",
+                            "display_name": "Nika",
+                            "location": "The United States",
+                            "link": "https://www.goodreads.com/user/show/1914949-nika",
+                            "image_url": "https://images.gr-assets.com/users/1307483468p3/1914949.jpg",
+                            "small_image_url": "https://images.gr-assets.com/users/1307483468p2/1914949.jpg",
+                            "has_image": true
+                        },
+                        "created_at": "Sat Apr 18 20:25:42 -0700 2020",
+                        "updated_at": "Sat Apr 18 20:25:42 -0700 2020"
+                    },
+                    {
+                        "id": 209974679,
+                        "body": "<i>Nika wrote: \"A friend of mine really hated this book.\"</i><br /><br />Really? That's a surprise, I liked the book and Wendig's writing is above par. What didn't they like?",
+                        "user": {
+                            "id": 1244876,
+                            "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                            "name": "Aram",
+                            "display_name": "Aram",
+                            "location": "Long Island City, NY",
+                            "link": "https://www.goodreads.com/user/show/1244876-aram",
+                            "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                            "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                            "has_image": true
+                        },
+                        "created_at": "Fri May 22 11:42:06 -0700 2020",
+                        "updated_at": "Fri May 22 11:42:06 -0700 2020"
+                    }
+                ]
+            },
+            "url": "https://www.goodreads.com/review/show/3286328390",
+            "link": "https://www.goodreads.com/review/show/3286328390",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065306657,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 38452813
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9781401297732,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1116
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.cpJxiXYNnGoZwJ_GvkJecQ",
+                "title": "Teen Titans: Raven",
+                "title_without_series": "Teen Titans: Raven",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528738829l/38452813._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528738829l/38452813._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/38452813-teen-titans",
+                "num_pages": 192,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "DC Ink",
+                "publication_day": 2,
+                "publication_year": 2019,
+                "publication_month": 7,
+                "average_rating": 3.97,
+                "ratings_count": 7950,
+                "description": "When a tragic accident takes the life of seventeen-year-old Raven Roth’s foster mom—and Raven’s memory—she moves to New Orleans to live with her foster mother’s family and finish her senior year of high school.<br /><br />Starting over isn’t easy. Raven remembers how to solve math equations and make pasta, but she can’t remember her favorite song or who she was before the accident. When strange things start happening—things most people would consider impossible—Raven starts to think it might be better not to know who she was in her previous life.<br /><br />But as she grows closer to her foster sister, Max, her new friends, and Tommy Torres, a guy who accepts her for who she is now, Raven has to decide if she’s ready to face what’s buried in the past...and the darkness building inside her.<br /><br />From the #1 New York Times best-selling co-author of Beautiful Creatures Kami Garcia and artist Gabriel Picolo comes this first graphic novel in the Teen Titans series for DC Ink, Teen Titans: Raven.",
+                "authors": {
+                    "author": {
+                        "id": 2895706,
+                        "name": "Kami Garcia",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1452664536p5/2895706.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1452664536p2/2895706.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2895706.Kami_Garcia",
+                        "average_rating": 3.82,
+                        "ratings_count": 906694,
+                        "text_reviews_count": 50164
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 60077986,
+                    "uri": "kca://work/amzn1.gr.work.v1.pCbK0fzbufMJIrjQKnfuiw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244220367
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:21:14 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712840652,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:21:14 -0800 2019",
+            "date_updated": "Thu Nov 28 09:21:14 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065306657",
+            "link": "https://www.goodreads.com/review/show/3065306657",
+            "owned": 0
+        }
+    }
+}

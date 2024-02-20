@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2591748033,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15704486
+                },
+                "isbn": 385743602,
+                "isbn13": 9780385743600,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3882
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.yBDrGKha7UXxEV4EpeozNA",
+                "title": "Calamity (Reckoners, #3)",
+                "title_without_series": "Calamity",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437098338l/15704486._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437098338l/15704486._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15704486-calamity",
+                "num_pages": 417,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Delacorte Press",
+                "publication_day": 16,
+                "publication_year": 2016,
+                "publication_month": 2,
+                "average_rating": 4.19,
+                "ratings_count": 58577,
+                "description": "When Calamity lit up the sky, the Epics were born. David’s fate has been tied to their villainy ever since that historic night. Steelheart killed his father. Firefight stole his heart. And now Regalia has turned his closest ally into a dangerous enemy.<br /><br />David knew Prof’s secret, and kept it even when the Reckoners’ leader struggled to control the effects of his Epic powers. But facing Obliteration in Babilar was too much. Prof has now embraced his Epic destiny. He’s disappeared into those murky shadows of menace Epics are infamous for the world over, and everyone knows there’s no turning back. . . . <br /><br />But everyone is wrong. Redemption is possible for Epics—Megan proved it. They’re not lost. Not completely. And David is just about crazy enough to face down the most powerful High Epic of all to get his friend back. Or die trying.",
+                "authors": {
+                    "author": {
+                        "id": 38550,
+                        "name": "Brandon Sanderson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1394044556p5/38550.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1394044556p2/38550.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+                        "average_rating": 4.39,
+                        "ratings_count": 3270920,
+                        "text_reviews_count": 217241
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 21366542,
+                    "uri": "kca://work/amzn1.gr.work.v1.wXzp52EM9xhgJK3c121uOQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2616213031
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 12 04:52:53 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 12 04:52:52 -0800 2018",
+            "date_updated": "Mon Nov 12 04:53:10 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2591748033",
+            "link": "https://www.goodreads.com/review/show/2591748033",
+            "owned": 0
+        }
+    }
+}

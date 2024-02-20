@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789414158,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2403747
+                },
+                "isbn": "059652983X",
+                "isbn13": 9780596529833,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 31
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.EdiF4qMJjJW9ZusyYHXPdw",
+                "title": "Learning the vi and Vim Editors",
+                "title_without_series": "Learning the vi and Vim Editors",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834952l/2403747._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834952l/2403747._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2403747.Learning_the_vi_and_Vim_Editors",
+                "num_pages": 494,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "O'Reilly Media",
+                "publication_day": 22,
+                "publication_year": 2008,
+                "publication_month": 7,
+                "average_rating": 3.91,
+                "ratings_count": 599,
+                "description": "There's nothing that hard-core Unix and Linux users are more fanatical about than their text editor. Editors are the subject of adoration and worship, or of scorn and ridicule, depending upon whether the topic of discussion is your editor or someone else's.<br /><br /><i>vi</i> has been the standard editor for close to 30 years. Popular on Unix and Linux, it has a growing following on Windows systems, too. Most experienced system administrators cite <i>vi</i> as their tool of choice. And since 1986, this book has been <i>the</i> guide for <i>vi</i>.<br /><br /> However, Unix systems are not what they were 30 years ago, and neither is this book. While retaining all the valuable features of previous editions, the 7th edition of <i>Learning the vi and vim Editors</i> has been expanded to include detailed information on <i>vim</i>, the leading <i>vi</i> clone. <i>vim</i> is the default version of <i>vi</i> on most Linux systems and on Mac OS X, and is available for many other operating systems too.<br /><br /> With this guide, you learn text editing basics and advanced tools for both editors, such as multi-window editing, how to write both interactive macros and scripts to extend the editor, and power tools for programmers -- all in the easy-to-follow style that has made this book a classic.<br /><br /><i>Learning the vi and vim Editors</i> includes:<br /><br /><b>A complete introduction to text editing with vi:</b><br /><br />How to move around <i>vi</i> in a hurry Beyond the basics, such as using buffers <i>vi's</i> global search and replacement Advanced editing, including customizing <i>vi</i> and executing Unix commands<br /><br /><b>How to make full use of vim:</b> Extended text objects and more powerful regular expressions Multi-window editing and powerful <i>vim</i> scripts How to make full use of the GUI version of <i>vim</i>, called <i>gvim</i> <i>vim's</i> enhancements for programmers, such as syntax highlighting, folding and extended tags<br /><br /> Coverage of three other popular <i>vi</i> clones -- <i>nvi</i>, <i>elvis</i>, and <i>vile</i> -- is also included. You'll find several valuable appendixes, including an alphabetical quick reference to both <i>vi</i> and <i>ex</i> mode commands for regular <i>vi</i> and for <i>vim</i>, plus an updated appendix on <i>vi</i> and the Internet.<br /><br /> Learning either <i>vi</i> or <i>vim</i> is required knowledge if you use Linux or Unix, and in either case, reading this book is essential. After reading this book, the choice of editor will be obvious for you too.",
+                "authors": {
+                    "author": {
+                        "id": 59924,
+                        "name": "Arnold Robbins",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/59924.Arnold_Robbins",
+                        "average_rating": 3.94,
+                        "ratings_count": 2856,
+                        "text_reviews_count": 132
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2410886,
+                    "uri": "kca://work/amzn1.gr.work.v1.vyZXeB0CwlsqqPXe-H0tSg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240464012
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:45:55 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571652816,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:45:55 -0800 2013",
+            "date_updated": "Fri Dec 13 08:45:55 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789414158",
+            "link": "https://www.goodreads.com/review/show/789414158",
+            "owned": 0
+        }
+    }
+}

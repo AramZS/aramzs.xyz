@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2117392705,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13270564
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 46
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.vfo4NbUDeVEz551cvhQ8gw",
+                "title": "Raise the Dawn (Star Trek: Typhon Pact, #7)",
+                "title_without_series": "Raise the Dawn",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335334812l/13270564._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335334812l/13270564._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13270564-raise-the-dawn",
+                "num_pages": 394,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": 2012,
+                "publication_month": {},
+                "average_rating": 4.1,
+                "ratings_count": 746,
+                "description": "After the disastrous events in the Bajoran system, Captain Benjamin Sisko must confront the consequences of the recent choices he has made in his life. At the same time, the United Federation of Planets and its Khitomer Accords allies have come to the brink of war with the Typhon Pact. <br /><br />While factions within the Pact unsuccessfully used the recent gestures of goodwill–the opening of borders and a joint Federation-Romulan exploratory mission–to develop quantum slipstream drive, they have not given up their goals. Employing a broad range of assets, from Romulus to Cardassia, from Ab-Tzenketh to Bajor, they embark on a dangerous new plan to acquire the technology they need to take control of the Alpha and Beta Quadrants. While UFP President Bacco and Romulan Praetor Kamemor work feverishly to reestablish peace, Captains Sisko, Jean-Luc Picard, and Ro Laren stand on the front lines of the conflict... even as a new danger threatens the Bajoran wormhole as it once more becomes a flashpoint of galactic history.",
+                "authors": {
+                    "author": {
+                        "id": 10487,
+                        "name": "David R. George III",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10487.David_R_George_III",
+                        "average_rating": 3.86,
+                        "ratings_count": 8304,
+                        "text_reviews_count": 732
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 18474279,
+                    "uri": "kca://work/amzn1.gr.work.v1.R0Qcwoqhnt4HEB_UxWQCZQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1998441087
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Sep 11 16:56:32 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1993509351
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Sep 07 17:17:05 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Thu Sep 07 17:17:05 -0700 2017",
+            "read_at": "Mon Sep 11 16:56:31 -0700 2017",
+            "date_added": "Thu Sep 07 17:17:05 -0700 2017",
+            "date_updated": "Mon Sep 11 16:56:31 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2117392705",
+            "link": "https://www.goodreads.com/review/show/2117392705",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967826,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22104583
+                },
+                "isbn": 262028026,
+                "isbn13": 9780262028028,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.o177EEpOTTam1mTbQxwFGQ",
+                "title": "Flash: Building the Interactive Web",
+                "title_without_series": "Flash: Building the Interactive Web",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400833803l/22104583._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400833803l/22104583._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22104583-flash",
+                "num_pages": 180,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "MIT Press",
+                "publication_day": 29,
+                "publication_year": 2014,
+                "publication_month": 8,
+                "average_rating": 3.5,
+                "ratings_count": 8,
+                "description": "<b>How Flash rose and fell as the world's most ubiquitous yet divisive software platform, enabling the development and distribution of a world of creative content.</b><br /><br />Adobe Flash began as a simple animation tool and grew into a multimedia platform that offered a generation of creators and innovators an astonishing range of opportunities to develop and distribute new kinds of digital content. For the better part of a decade, Flash was the de facto standard for dynamic online media, empowering amateur and professional developers to shape the future of the interactive Web. In this book, Anastasia Salter and John Murray trace the evolution of Flash into one of the engines of participatory culture.<br /><br />Salter and Murray investigate Flash as both a fundamental force that shaped perceptions of the web and a key technology that enabled innovative interactive experiences and new forms of gaming. They examine a series of works that exemplify Flash's role in shaping the experience and expectations of web multimedia. Topics include Flash as a platform for developing animation (and the \"Flashimation\" aesthetic); its capacities for scripting and interactive design; games and genres enabled by the reconstruction of the browser as a games portal; forms and genres of media art that use Flash; and Flash's stance on openness and standards--including its platform-defining battle over the ability to participate in Apple's own proprietary platforms.<br /><br />Flash's exit from the mobile environment in 2011 led some to declare that Flash was dead. But, as Salter and Murray show, not only does Flash live, but its role as a definitive cross-platform tool continues to influence web experience.",
+                "authors": {
+                    "author": {
+                        "id": 6741709,
+                        "name": "Anastasia Salter",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6741709.Anastasia_Salter",
+                        "average_rating": 3.57,
+                        "ratings_count": 53,
+                        "text_reviews_count": 15
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 41450070,
+                    "uri": "kca://work/amzn1.gr.work.v1.v7UnZ_mBW0zkiKDyiPkCzg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886479445
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:29:40 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1002423807,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:29:39 -0700 2015",
+            "date_updated": "Fri Jun 05 15:29:40 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967826",
+            "link": "https://www.goodreads.com/review/show/1299967826",
+            "owned": 0
+        }
+    }
+}

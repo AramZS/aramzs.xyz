@@ -1,0 +1,51 @@
+{
+    "name": "Henery Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "On The Road with Del & Louise: A Novel in Stories",
+            "id": "26532012",
+            "author": "Art  Taylor",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086566000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/26532012",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Henery Press",
+            "tags": [
+                "Kindle Edition",
+                "Henery Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "26532012",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

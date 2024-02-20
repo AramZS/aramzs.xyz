@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 149168214,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 706043
+                },
+                "isbn": "067101398X",
+                "isbn13": 9780671013981,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 44
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Ds96v2ASojQ27H08ww8lSg",
+                "title": "End Game (Star Trek: New Frontier, #4)",
+                "title_without_series": "End Game",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320895853l/706043._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320895853l/706043._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/706043.End_Game",
+                "num_pages": 184,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": {},
+                "publication_year": 1997,
+                "publication_month": 8,
+                "average_rating": 3.88,
+                "ratings_count": 1159,
+                "description": "Captain Mackenzie Calhoun: Wearing a veneer of civilization as others would a cloak, Calhoun will now find himself facing a scheme for revenge that may unleash the savage warrior he keeps locked within himself.<br /><br />Lieutenant Robin Lefler: An eternal optimist, Lefler occasionally asks the wrong question at the wrong time...and yet this time it may lead the Excalibur crew to unexpectedly shocking answers.<br /><br />Commander Elizabeth Shelby: Walking the fine line between duty and conscience, Shelby may find that she must decide between the life she loves and the man she once loved.<br /><br />As the Thallonian homeworld faces catastrophe, Captain Calhoun must confront his own bloody past in a life-or-death struggle for survival and honor. But when the planet's ultimate secret is revealed, only Captain Calhoun and the USS Excalibur can save the last remnants of the Empire from total destruction!.",
+                "authors": {
+                    "author": {
+                        "id": 13681,
+                        "name": "Peter David",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p5/13681.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p2/13681.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13681.Peter_David",
+                        "average_rating": 4.02,
+                        "ratings_count": 297991,
+                        "text_reviews_count": 13707
+                    }
+                },
+                "published": 1997,
+                "work": {
+                    "id": 692323,
+                    "uri": "kca://work/amzn1.gr.work.v1.dFd-DMxA58zlU8AycnXIvQ"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Feb 19 06:07:41 -0800 2011",
+            "date_updated": "Sat Feb 19 06:07:41 -0800 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/149168214",
+            "link": "https://www.goodreads.com/review/show/149168214",
+            "owned": 0
+        }
+    }
+}

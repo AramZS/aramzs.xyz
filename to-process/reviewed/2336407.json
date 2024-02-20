@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071691340,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2336407
+                },
+                "isbn": "078513011X",
+                "isbn13": 9780785130116,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 151
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.pHqbcvi40Uf0DNnnboiP1A",
+                "title": "Thor by J. Michael Straczynski, Volume 1",
+                "title_without_series": "Thor by J. Michael Straczynski, Volume 1",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417281021l/2336407._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417281021l/2336407._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2336407.Thor_by_J_Michael_Straczynski_Volume_1",
+                "num_pages": {},
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 14,
+                "publication_year": 2008,
+                "publication_month": 5,
+                "average_rating": 4.14,
+                "ratings_count": 8227,
+                "description": "Not a clone! Not a robot! Not an imaginary story! The God of Thunder is officially BACK! You've waited for it, you've demanded it...and we say thee YEA! The Odinson comes roaring to life in this highly anticipated ongoing series by red-hot superstars J. Michael Straczynski (<i>Amazing Spider-Man</i>) and Olivier Coipel (<i>House of M</i>)! But how does a god return from Ragnarok? And what place will he find in a world torn by <i>Civil War</i>?<br /><br /><b>Collecting</b>: <i>Thor</i> 1-6",
+                "authors": {
+                    "author": {
+                        "id": 2689,
+                        "name": "J. Michael Straczynski",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1305780248p5/2689.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1305780248p2/2689.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2689.J_Michael_Straczynski",
+                        "average_rating": 3.98,
+                        "ratings_count": 124577,
+                        "text_reviews_count": 6083
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2343086,
+                    "uri": "kca://work/amzn1.gr.work.v1.RLtahgPFpeX0V4O7MEn35Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593082371
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:11:21 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813197969,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:11:20 -0700 2014",
+            "date_updated": "Mon Oct 23 16:35:14 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071691340",
+            "link": "https://www.goodreads.com/review/show/1071691340",
+            "owned": 0
+        }
+    }
+}

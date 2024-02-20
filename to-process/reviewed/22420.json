@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789422040,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22420
+                },
+                "isbn": 1563897229,
+                "isbn13": 9781563897221,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 148
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Xk5P1HnvWsdQaynuTwgIOw",
+                "title": "Transmetropolitan, Vol. 5: Lonely City",
+                "title_without_series": "Transmetropolitan, Vol. 5: Lonely City",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374683445l/22420._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374683445l/22420._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22420.Transmetropolitan_Vol_5",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Vertigo",
+                "publication_day": 1,
+                "publication_year": 2001,
+                "publication_month": 7,
+                "average_rating": 4.41,
+                "ratings_count": 12302,
+                "description": {},
+                "authors": {
+                    "author": {
+                        "id": 12772,
+                        "name": "Warren Ellis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p5/12772.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p2/12772.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12772.Warren_Ellis",
+                        "average_rating": 4.13,
+                        "ratings_count": 411461,
+                        "text_reviews_count": 19050
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 23446,
+                    "uri": "kca://work/amzn1.gr.work.v1.FT540l72UUip9GLAxjHTAw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240473673
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:58:24 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813199482,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2009",
+            "date_added": "Fri Dec 13 08:58:24 -0800 2013",
+            "date_updated": "Mon Oct 23 16:37:23 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789422040",
+            "link": "https://www.goodreads.com/review/show/789422040",
+            "owned": 0
+        }
+    }
+}

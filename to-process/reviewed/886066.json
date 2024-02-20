@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 162066925,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 886066
+                },
+                "isbn": 1841494186,
+                "isbn13": 9781841494180,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 734
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.0M1RCR3u4xvkUAElHrKoWQ",
+                "title": "Matter (Culture, #8)",
+                "title_without_series": "Matter",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327954631l/886066._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327954631l/886066._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/886066.Matter",
+                "num_pages": 593,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 31,
+                "publication_year": 2008,
+                "publication_month": 1,
+                "average_rating": 4.07,
+                "ratings_count": 21982,
+                "description": "In a world renowned within a galaxy full of wonders, a crime within a war. For one brother it means a desperate flight, and a search for the one - maybe two - people who could clear his name. For his brother it means a life lived under constant threat of treachery and murder. And for their sister, it means returning to a place she'd thought abandoned forever.<br /><br />Only the sister is not what she once was; Djan Seriy Anaplian has become an agent of the Culture's Special Circumstances section, charged with high-level interference in civilisations throughout the greater galaxy.<br /><br />Concealing her new identity - and her particular set of abilities - might be a dangerous strategy. In the world to which Anaplian returns, nothing is quite as it seems; and determining the appropriate level of interference in someone else’s war is never a simple matter.<br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 5807106,
+                        "name": "Iain M. Banks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p5/5807106.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p2/5807106.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks",
+                        "average_rating": 4.08,
+                        "ratings_count": 349700,
+                        "text_reviews_count": 15763
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 871329,
+                    "uri": "kca://work/amzn1.gr.work.v1.TuBTl_f2j0jULOvo1aIYqQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Apr 19 06:35:15 -0700 2011",
+            "date_updated": "Fri Sep 16 13:53:57 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/162066925",
+            "link": "https://www.goodreads.com/review/show/162066925",
+            "owned": 0
+        }
+    }
+}

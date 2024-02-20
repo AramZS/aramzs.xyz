@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333636206,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 26114222
+                },
+                "isbn": 765379422,
+                "isbn13": 9780765379429,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 210
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.v9eP08GJ-rZ2IrX1I9uNKQ",
+                "title": "Four Roads Cross (Craft Sequence, #5)",
+                "title_without_series": "Four Roads Cross",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443028346l/26114222._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443028346l/26114222._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/26114222-four-roads-cross",
+                "num_pages": 416,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 26,
+                "publication_year": 2016,
+                "publication_month": 7,
+                "average_rating": 4.36,
+                "ratings_count": 2293,
+                "description": "The great city of Alt Coulumb is in crisis. The moon goddess Seril, long thought dead, is back—and the people of Alt Coulumb aren't happy. Protests rock the city, and Kos Everburning's creditors attempt a hostile takeover of the fire god's church. Tara Abernathy, the god's in-house Craftswoman, must defend the church against the world's fiercest necromantic firm—and against her old classmate, a rising star in the Craftwork world. <br /><br />As if that weren't enough, Cat and Raz, supporting characters from <i>Three Parts Dead</i>, are back too, fighting monster pirates; skeleton kings drink frozen cocktails, defying several principles of anatomy; jails, hospitals, and temples are broken into and out of; choirs of flame sing over Alt Coulumb; demons pose significant problems; a farmers' market proves more important to world affairs than seems likely; doctors of theology strike back; Monk-Technician Abelard performs several miracles; The Rats! play Walsh's Place; and dragons give almost-helpful counsel.",
+                "authors": {
+                    "author": {
+                        "id": 3405346,
+                        "name": "Max Gladstone",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440009008p5/3405346.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440009008p2/3405346.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3405346.Max_Gladstone",
+                        "average_rating": 3.99,
+                        "ratings_count": 63809,
+                        "text_reviews_count": 11046
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 46061143,
+                    "uri": "kca://work/amzn1.gr.work.v1.it9MW_7lespR32_6ZTUeEA"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3435523218
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Feb 29 09:33:13 -0800 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2274328950
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Mar 20 05:24:40 -0700 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri Jan 10 00:00:00 -0800 2020",
+            "read_at": "Sat Feb 29 09:33:32 -0800 2020",
+            "date_added": "Tue Mar 20 05:24:39 -0700 2018",
+            "date_updated": "Sat Feb 29 09:33:32 -0800 2020",
+            "read_count": 2,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333636206",
+            "link": "https://www.goodreads.com/review/show/2333636206",
+            "owned": 0
+        }
+    }
+}

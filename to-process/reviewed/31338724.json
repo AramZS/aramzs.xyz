@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785936190,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 31338724
+                },
+                "isbn": 1632158957,
+                "isbn13": 9781632158956,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2055
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.6u0SmqAYsChr1KtLLasGWg",
+                "title": "Paper Girls, Vol. 2",
+                "title_without_series": "Paper Girls, Vol. 2",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508969532l/31338724._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508969532l/31338724._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/31338724-paper-girls-vol-2",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 30,
+                "publication_year": 2016,
+                "publication_month": 11,
+                "average_rating": 4.15,
+                "ratings_count": 20375,
+                "description": "<b>Brian K. Vaughan</b>, #1 <i>New York Times</i> bestselling writer of <i>SAGA</i>, and <b>Cliff Chiang</b>, legendary artist of <i>WONDER WOMAN</i>, return with acclaimed colorist <b>Matt Wilson</b> and innovative letterer <b>JAred K. Fletcher</b> for the second volume of <i>PAPER GIRLS</i>, as the hit series continues with a bold new direction.<br /><br />After surviving the strangest night of their lives in the Cleveland suburb of Stony Stream, intrepid young newspaper deliverers Erin, Mac, and Tiffany find themselves launched from 1988 to a distant and terrifying future... the year 2016.<br /><br />What would you do if you were suddenly confronted by your 12-year-old self? 40-year-old newspaper reporter Erin Tieng is about to find out in this action-packed story about identity, mortality, and growing older in the 21st century.<br /><br />Collects <i>PAPER GIRLS</i> #6-#10",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 52013404,
+                    "uri": "kca://work/amzn1.gr.work.v1.8HY2ivwgy5Y4zx4Xczp3HQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546345814
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:35:32 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813191794,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 05 00:00:00 -0800 2017",
+            "date_added": "Sun Oct 16 07:35:32 -0700 2016",
+            "date_updated": "Mon Oct 23 16:27:05 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785936190",
+            "link": "https://www.goodreads.com/review/show/1785936190",
+            "owned": 0
+        }
+    }
+}

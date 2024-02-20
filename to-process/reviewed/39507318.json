@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606739929,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 39507318
+                },
+                "isbn": 1476740186,
+                "isbn13": 9781476740188,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10438
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.U42By6_2IgUih1FC1sPPXA",
+                "title": "The Library Book",
+                "title_without_series": "The Library Book",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524238338l/39507318._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524238338l/39507318._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/39507318-the-library-book",
+                "num_pages": 317,
+                "format": "Hardcover",
+                "edition_information": "First Edition",
+                "publisher": "Simon & Schuster",
+                "publication_day": 16,
+                "publication_year": 2018,
+                "publication_month": 10,
+                "average_rating": 3.93,
+                "ratings_count": 66868,
+                "description": "On the morning of April 29, 1986, a fire alarm sounded in the Los Angeles Public Library. As the moments passed, the patrons and staff who had been cleared out of the building realized this was not the usual fire alarm. As one fireman recounted, “Once that first stack got going, it was ‘Goodbye, Charlie.’” The fire was disastrous: it reached 2000 degrees and burned for more than seven hours. By the time it was extinguished, it had consumed four hundred thousand books and damaged seven hundred thousand more. Investigators descended on the scene, but more than thirty years later, the mystery remains: Did someone purposefully set fire to the library—and if so, who?<br /><br />Weaving her lifelong love of books and reading into an investigation of the fire, award-winning <i>New Yorker</i> reporter and <i>New York Times</i> bestselling author Susan Orlean delivers a mesmerizing and uniquely compelling book that manages to tell the broader story of libraries and librarians in a way that has never been done before.<br /><br />In <i>The Library Book</i>, Orlean chronicles the LAPL fire and its aftermath to showcase the larger, crucial role that libraries play in our lives; delves into the evolution of libraries across the country and around the world, from their humble beginnings as a metropolitan charitable initiative to their current status as a cornerstone of national identity; brings each department of the library to vivid life through on-the-ground reporting; studies arson and attempts to burn a copy of a book herself; reflects on her own experiences in libraries; and reexamines the case of Harry Peak, the blond-haired actor long suspected of setting fire to the LAPL more than thirty years ago.<br /><br />Along the way, Orlean introduces us to an unforgettable cast of characters from libraries past and present—from Mary Foy, who in 1880 at eighteen years old was named the head of the Los Angeles Public Library at a time when men still dominated the role, to Dr. C.J.K. Jones, a pastor, citrus farmer, and polymath known as “The Human Encyclopedia” who roamed the library dispensing information; from Charles Lummis, a wildly eccentric journalist and adventurer who was determined to make the L.A. library one of the best in the world, to the current staff, who do heroic work every day to ensure that their institution remains a vital part of the city it serves.<br /><br />Brimming with her signature wit, insight, compassion, and talent for deep research, <i>The Library Book</i> is Susan Orlean’s thrilling journey through the stacks that reveals how these beloved institutions provide much more than just books—and why they remain an essential part of the heart, mind, and soul of our country. It is also a master journalist’s reminder that, perhaps especially in the digital era, they are more necessary than ever.",
+                "authors": {
+                    "author": {
+                        "id": 45374,
+                        "name": "Susan Orlean",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1316565913p5/45374.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1316565913p2/45374.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/45374.Susan_Orlean",
+                        "average_rating": 3.86,
+                        "ratings_count": 96750,
+                        "text_reviews_count": 15720
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 61126110,
+                    "uri": "kca://work/amzn1.gr.work.v1.H0qWrd8Wpm9NYPzNkt73tQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636064571
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:25:28 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251645911,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:25:28 -0800 2018",
+            "date_updated": "Mon Nov 26 13:25:28 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606739929",
+            "link": "https://www.goodreads.com/review/show/2606739929",
+            "owned": 0
+        }
+    }
+}

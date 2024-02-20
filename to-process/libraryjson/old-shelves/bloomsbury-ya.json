@@ -1,0 +1,51 @@
+{
+    "name": "Bloomsbury YA",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Kingdom of Ash (Throne of Glass, #7)",
+            "id": "33590260",
+            "author": "Sarah J. Maas",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1545061769000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/33590260",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bloomsbury YA",
+            "tags": [
+                "Hardcover",
+                "Bloomsbury YA",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1619636107",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781619636101",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "33590260",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

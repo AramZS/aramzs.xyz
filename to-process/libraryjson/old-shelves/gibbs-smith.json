@@ -1,0 +1,104 @@
+{
+    "name": "Gibbs Smith",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Single Scene Short Stories",
+            "id": "3160872",
+            "author": "Margaret Bishop",
+            "date_finished": 1214352000000,
+            "notes": [],
+            "date_started": 1214430315000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Single Scene Short Stories: Rating - 5/5",
+                    "date": 1214352000000,
+                    "type": "short",
+                    "content": "A great collection, well worth a buy for any reader or writer. A broad and excellent selection of stories.",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3160872",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gibbs Smith",
+            "tags": [
+                "Paperback",
+                "Gibbs Smith",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1423600622",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781423600626",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "3160872",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Single Scene Short Stories",
+            "id": 3160872,
+            "author": "Margaret Bishop",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3160872",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gibbs Smith",
+            "tags": [
+                "Paperback",
+                "Gibbs Smith",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 3160872,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

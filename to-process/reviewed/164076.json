@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24672228,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 164076
+                },
+                "isbn": 28639189,
+                "isbn13": 9780028639185,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 11
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.t1TYe_gTQqvOqRZThaP4lA",
+                "title": "The Complete Idiot's Guide to Publishing Science Fiction",
+                "title_without_series": "The Complete Idiot's Guide to Publishing Science Fiction",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/164076.The_Complete_Idiot_s_Guide_to_Publishing_Science_Fiction",
+                "num_pages": 384,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Alpha",
+                "publication_day": 9,
+                "publication_year": 2000,
+                "publication_month": 7,
+                "average_rating": 3.71,
+                "ratings_count": 70,
+                "description": "Covers everything from networking and story preparation to submission and agent solicitation, this tells the reader how it all fits together.",
+                "authors": {
+                    "author": {
+                        "id": 12581,
+                        "name": "Cory Doctorow",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1361468756p5/12581.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1361468756p2/12581.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12581.Cory_Doctorow",
+                        "average_rating": 3.82,
+                        "ratings_count": 196549,
+                        "text_reviews_count": 21672
+                    }
+                },
+                "published": 2000,
+                "work": {
+                    "id": 158395,
+                    "uri": "kca://work/amzn1.gr.work.v1.5YxYBlZYUGTfI2QK93DJqA"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 10337530,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:30:17 -0700 2008",
+            "date_updated": "Mon Jun 16 19:30:17 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24672228",
+            "link": "https://www.goodreads.com/review/show/24672228",
+            "owned": 0
+        }
+    }
+}

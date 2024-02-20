@@ -1,0 +1,59 @@
+{
+    "name": "IDW Publishing ",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Locke & Key, Vol. 5: Clockworks",
+            "id": "13490570",
+            "author": "Joe Hill, Gabriel Rodríguez",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508802477000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Locke & Key, Vol. 5: Clockworks: Rating - 4/5",
+                    "date": 1508802477000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13490570",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "IDW Publishing ",
+            "tags": [
+                "Hardcover",
+                "IDW Publishing ",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1613772270",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781613772270",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "13490570",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

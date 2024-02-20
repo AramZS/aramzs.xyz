@@ -1,0 +1,149 @@
+{
+    "name": "Oxford University Press, USA",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Slapped by the Invisible Hand: The Panic of 2007",
+            "id": "7478879",
+            "author": "Gary B. Gorton",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1514491704000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7478879",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Oxford University Press, USA",
+            "tags": [
+                "Hardcover",
+                "Oxford University Press, USA",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0199734151",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780199734153",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "7478879",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Richard III",
+            "id": "42058",
+            "author": "William Shakespeare, John Jowett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1417711867000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Richard III: Rating - 5/5",
+                    "date": 1417711867000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/42058",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Oxford University Press, USA",
+            "tags": [
+                "Paperback",
+                "Oxford University Press, USA",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0192839934",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780192839930",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "42058",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Richard III",
+            "id": 42058,
+            "author": "William Shakespeare",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/42058",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Oxford University Press, USA",
+            "tags": [
+                "Paperback",
+                "Oxford University Press, USA",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 42058,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

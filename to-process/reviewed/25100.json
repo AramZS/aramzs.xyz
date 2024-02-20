@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528959509,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25100
+                },
+                "isbn": "156389226X",
+                "isbn13": 9781563892264,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1230
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.tUHvAKlAEmfHxqMy17W8nw",
+                "title": "Dream Country (The Sandman, #3)",
+                "title_without_series": "Dream Country",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402485052l/25100._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402485052l/25100._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25100.Dream_Country",
+                "num_pages": 111,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "DC Comics",
+                "publication_day": 5,
+                "publication_year": 1999,
+                "publication_month": 2,
+                "average_rating": 4.24,
+                "ratings_count": 94699,
+                "description": "The third volume of the Sandman collection is a series of four short comic book stories. In each of these otherwise unrelated stories, Morpheus serves only as a minor character. Here we meet the mother of Morpheus's son, find out what cats dream about, and discover the true origin behind Shakespeare's A Midsummer's Night Dream. The latter won a World Fantasy Award for best short story, the first time a comic book was given that honor. collecting The Sandman #17–20",
+                "authors": {
+                    "author": {
+                        "id": 1221698,
+                        "name": "Neil Gaiman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p5/1221698.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p2/1221698.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1221698.Neil_Gaiman",
+                        "average_rating": 4.13,
+                        "ratings_count": 5858776,
+                        "text_reviews_count": 352868
+                    }
+                },
+                "published": 1999,
+                "work": {
+                    "id": 2371237,
+                    "uri": "kca://work/amzn1.gr.work.v1.nQmysGcUA4XI7P-nYYndHQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051892600
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:44:19 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813204421,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:20:10 -0800 2013",
+            "date_updated": "Mon Oct 23 16:44:19 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528959509",
+            "link": "https://www.goodreads.com/review/show/528959509",
+            "owned": 0
+        }
+    }
+}

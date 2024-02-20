@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333634243,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23533039
+                },
+                "isbn": 356502422,
+                "isbn13": 9780356502427,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2156
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.u4KJY-Y8KGOYQtaNLeJfSw",
+                "title": "Ancillary Mercy (Imperial Radch, #3)",
+                "title_without_series": "Ancillary Mercy",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493642929l/23533039._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493642929l/23533039._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23533039-ancillary-mercy",
+                "num_pages": 330,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 6,
+                "publication_year": 2015,
+                "publication_month": 10,
+                "average_rating": 4.21,
+                "ratings_count": 30761,
+                "description": "For just a moment, things seem to be under control for the soldier known as Breq. Then a search of Athoek Station's slums turns up someone who shouldn't exist—someone who might be a refugee from a ship that's been hiding beyond the empire's reach for three thousand years. In the meantime a messenger from the alien and mysterious Presger empire arrives, as does Breq's enemy, the divided and quite possibly insane Anaander Mianaai—ruler of an empire that's at war with itself.<br /><br />Anaander is heavily armed and extremely unhappy with Breq. She could take her ship and crew and flee, but that would leave everyone at Athoek in terrible danger.<br /><br />Breq has a desperate plan. The odds aren't good, but that's never stopped her before.",
+                "authors": {
+                    "author": {
+                        "id": 3365457,
+                        "name": "Ann Leckie",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1402526383p5/3365457.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1402526383p2/3365457.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3365457.Ann_Leckie",
+                        "average_rating": 4.02,
+                        "ratings_count": 173495,
+                        "text_reviews_count": 18640
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 43134689,
+                    "uri": "kca://work/amzn1.gr.work.v1.215NRh8BvYg7Id6i26_TMA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2274326470
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Mar 20 05:22:05 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Mar 20 05:22:05 -0700 2018",
+            "date_updated": "Tue Mar 20 05:22:20 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333634243",
+            "link": "https://www.goodreads.com/review/show/2333634243",
+            "owned": 0
+        }
+    }
+}

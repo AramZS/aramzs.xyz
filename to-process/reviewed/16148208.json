@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333636092,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16148208
+                },
+                "isbn": 765335743,
+                "isbn13": 9780765335746,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 342
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.wrbOHE7VClYO0a4E_mvWDQ",
+                "title": "Full Fathom Five (Craft Sequence, #3)",
+                "title_without_series": "Full Fathom Five",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385068358l/16148208._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385068358l/16148208._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16148208-full-fathom-five",
+                "num_pages": 382,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 15,
+                "publication_year": 2014,
+                "publication_month": 7,
+                "average_rating": 4.12,
+                "ratings_count": 3984,
+                "description": "The third novel set in the addictive and compelling fantasy world of <i>Three Parts Dead</i>.<br /><br />On the island of Kavekana, Kai builds gods to order, then hands them to others to maintain. Her creations aren’t conscious and lack their own wills and voices, but they accept sacrifices, and protect their worshippers from other gods—perfect vehicles for Craftsmen and Craftswomen operating in the divinely controlled Old World. When Kai sees one of her creations dying and tries to save her, she’s grievously injured—then sidelined from the business entirely, her near-suicidal rescue attempt offered up as proof of her instability. But when Kai gets tired of hearing her boss, her coworkers, and her ex-boyfriend call her crazy, and starts digging into the reasons her creations die, she uncovers a conspiracy of silence and fear—which will crush her, if Kai can’t stop it first.",
+                "authors": {
+                    "author": {
+                        "id": 3405346,
+                        "name": "Max Gladstone",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440009008p5/3405346.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440009008p2/3405346.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3405346.Max_Gladstone",
+                        "average_rating": 3.99,
+                        "ratings_count": 63809,
+                        "text_reviews_count": 11046
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 21982690,
+                    "uri": "kca://work/amzn1.gr.work.v1.I7XAtSXOE8TuBaNTg8-0Lg"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3362019512
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Jan 23 03:44:45 -0800 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2274328815
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Mar 20 05:24:31 -0700 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Mar 20 05:24:30 -0700 2018",
+            "date_updated": "Thu Jan 23 03:45:12 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333636092",
+            "link": "https://www.goodreads.com/review/show/2333636092",
+            "owned": 0
+        }
+    }
+}

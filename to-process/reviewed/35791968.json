@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629416289,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35791968
+                },
+                "isbn": 399562451,
+                "isbn13": 9780399562457,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6859
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8Ua-_yZQJVYLabh5hM_R8w",
+                "title": "Still Me (Me Before You, #3)",
+                "title_without_series": "Still Me",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502818159l/35791968._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502818159l/35791968._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35791968-still-me",
+                "num_pages": 368,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Pamela Dorman Books",
+                "publication_day": 30,
+                "publication_year": 2018,
+                "publication_month": 1,
+                "average_rating": 4.14,
+                "ratings_count": 133243,
+                "description": "<b>From the #1 New York Times bestselling author Jojo Moyes, a new book featuring her iconic heroine of <i>Me Before You</i> and <i>After You</i>, Louisa Clark.</b><br /><br />Louisa Clark arrives in New York ready to start a new life, confident that she can embrace this new adventure and keep her relationship with Ambulance Sam alive across several thousand miles. She steps into the world of the superrich, working for Leonard Gopnik and his much younger second wife, Agnes. Lou is determined to get the most out of the experience and throws herself into her new job and New York life. <br /><br />As she begins to mix in New York high society, Lou meets Joshua Ryan, a man who brings with him a whisper of her past. Before long, Lou finds herself torn between Fifth Avenue where she works and the treasure-filled vintage clothing store where she actually feels at home. And when matters come to a head, she has to ask herself: Who is Louisa Clark? And how do you find the courage to follow your heart—wherever that may lead?<br /><br />Funny, romantic, and poignant, <i>Still Me</i> follows Lou as she navigates how to stay true to herself, while pushing to live boldly in her brave new world.",
+                "authors": {
+                    "author": {
+                        "id": 281810,
+                        "name": "Jojo Moyes",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400624880p5/281810.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400624880p2/281810.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/281810.Jojo_Moyes",
+                        "average_rating": 4.09,
+                        "ratings_count": 2099008,
+                        "text_reviews_count": 170065
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 57291583,
+                    "uri": "kca://work/amzn1.gr.work.v1.MI9DwxISDBGahQCxVSF4uA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666065194
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:58:35 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274621160,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:58:35 -0800 2018",
+            "date_updated": "Mon Dec 17 07:58:35 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629416289",
+            "link": "https://www.goodreads.com/review/show/2629416289",
+            "owned": 0
+        }
+    }
+}

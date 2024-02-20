@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 831477760,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17907054
+                },
+                "isbn": 1477809600,
+                "isbn13": 9781477809600,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 616
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.GDvo7E93g-_aj54Ni96acw",
+                "title": "Indexing (Indexing, #1)",
+                "title_without_series": "Indexing",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369528556l/17907054._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369528556l/17907054._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17907054-indexing",
+                "num_pages": 404,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "47North",
+                "publication_day": 21,
+                "publication_year": 2014,
+                "publication_month": 1,
+                "average_rating": 3.91,
+                "ratings_count": 6264,
+                "description": "“Never underestimate the power of a good story.”<br /><br />Good advice...especially when a story can kill you.<br /><br />For most people, the story of their lives is just that: the accumulation of time, encounters, and actions into a cohesive whole. But for an unfortunate few, that day-to-day existence is affected—perhaps infected is a better word—by memetic incursion: where fairy tale narratives become reality, often with disastrous results.<br /><br />That's where the ATI Management Bureau steps in, an organization tasked with protecting the world from fairy tales, even while most of their agents are struggling to keep their own fantastic archetypes from taking over their lives. When you're dealing with storybook narratives in the real world, it doesn't matter if you're Snow White, Sleeping Beauty, or the Wicked Queen: no one gets a happily ever after.<br /><br />Indexing is New York Times bestselling author Seanan McGuire’s new urban fantasy where everything you thought you knew about fairy tales gets turned on its head.",
+                "authors": {
+                    "author": {
+                        "id": 2860219,
+                        "name": "Seanan McGuire",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1245623198p5/2860219.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1245623198p2/2860219.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2860219.Seanan_McGuire",
+                        "average_rating": 4.03,
+                        "ratings_count": 460794,
+                        "text_reviews_count": 61404
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 25089153,
+                    "uri": "kca://work/amzn1.gr.work.v1.XnmKXZmXgt4FqzO5utpHAw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 291626405
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jan 22 13:08:31 -0800 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Jan 01 00:00:00 -0800 2014",
+            "date_added": "Wed Jan 22 13:08:31 -0800 2014",
+            "date_updated": "Wed Jan 22 13:15:10 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/831477760",
+            "link": "https://www.goodreads.com/review/show/831477760",
+            "owned": 0
+        }
+    }
+}

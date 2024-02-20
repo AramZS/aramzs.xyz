@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3044011152,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 414096
+                },
+                "isbn": 684809931,
+                "isbn13": 9780684809939,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 249
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.wRWd04rjf4eqwByDPfiJ1g",
+                "title": "DisneyWar",
+                "title_without_series": "DisneyWar",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/414096.DisneyWar",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.02,
+                "ratings_count": 5163,
+                "description": "The dramatic inside story of the downfall of Michael Eisner—Disney Chairman and CEO—and the scandals that drove America’s best-known entertainment company to civil war.<br /><br />“When You Wish Upon a Star,” “Whistle While You Work,” “The Happiest Place on Earth”—these are lyrics indelibly linked to Disney, one of the most admired and best-known companies in the world. So when Roy Disney, chairman of Walt Disney Animation and nephew of founder Walt Disney, abruptly resigned in November 2003 and declared war on chairman and chief executive Michael Eisner, he sent shock waves through the entertainment industry, corporate boardrooms, theme parks, and living rooms around the world—everywhere Disney does business and its products are cherished.<br /><br />Drawing on unprecedented access to both Eisner and Roy Disney, current and former Disney executives and board members, as well as thousands of pages of never-before-seen letters, memos, transcripts, and other documents, James B. Stewart gets to the bottom of mysteries that have enveloped Disney for years: What really caused the rupture with studio chairman Jeffrey Katzenberg, a man who once regarded Eisner as a father but who became his fiercest rival? How could Eisner have so misjudged Michael Ovitz, a man who was not only “the most powerful man in Hollywood” but also his friend, whom he appointed as Disney president and immediately wanted to fire? What caused the break between Eisner and Pixar chairman Steve Jobs, and why did Pixar abruptly abandon its partnership with Disney? Why did Eisner so mistrust Roy Disney that he assigned Disney company executives to spy on him? How did Eisner control the Disney board for so long, and what really happened in the fateful board meeting in September 2004, when Eisner played his last cards? <br /><br />DisneyWar is an enthralling tale of one of America’s most powerful media and entertainment companies, the people who control it, and those trying to overthrow them. It tells a story that—in its sudden twists, vivid, larger-than-life characters, and thrilling climax—might itself have been the subject of a Disney classic—except that it’s all true.",
+                "authors": {
+                    "author": {
+                        "id": 1328,
+                        "name": "James B. Stewart",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1371506793p5/1328.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1371506793p2/1328.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1328.James_B_Stewart",
+                        "average_rating": 4.07,
+                        "ratings_count": 18889,
+                        "text_reviews_count": 1052
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 1936202,
+                    "uri": "kca://work/amzn1.gr.work.v1.fwXRrQb9wAjfexcuoYOgJw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3215858758
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Nov 10 11:06:48 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Nov 10 11:06:47 -0800 2019",
+            "date_updated": "Sun Nov 10 11:07:03 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3044011152",
+            "link": "https://www.goodreads.com/review/show/3044011152",
+            "owned": 0
+        }
+    }
+}

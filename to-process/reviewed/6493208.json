@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 331121253,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6493208
+                },
+                "isbn": 1400052173,
+                "isbn13": 9781400052172,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 29484
+                },
+                "uri": "kca://book/amzn1.gr.book.v1._7-9Y5M5fK8bUSkjHjFNqQ",
+                "title": "The Immortal Life of Henrietta Lacks",
+                "title_without_series": "The Immortal Life of Henrietta Lacks",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks",
+                "num_pages": 370,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Crown Publishing Group",
+                "publication_day": 2,
+                "publication_year": 2010,
+                "publication_month": 2,
+                "average_rating": 4.07,
+                "ratings_count": 557779,
+                "description": "Her name was Henrietta Lacks, but scientists know her as HeLa. She was a poor Southern tobacco farmer who worked the same land as her slave ancestors, yet her cells—taken without her knowledge—became one of the most important tools in medicine. The first “immortal” human cells grown in culture, they are still alive today, though she has been dead for more than sixty years. If you could pile all HeLa cells ever grown onto a scale, they’d weigh more than 50 million metric tons—as much as a hundred Empire State Buildings. HeLa cells were vital for developing the polio vaccine; uncovered secrets of cancer, viruses, and the atom bomb’s effects; helped lead to important advances like in vitro fertilization, cloning, and gene mapping; and have been bought and sold by the billions.<p>Yet Henrietta Lacks remains virtually unknown, buried in an unmarked grave.</p><p>Now Rebecca Skloot takes us on an extraordinary journey, from the “colored” ward of Johns Hopkins Hospital in the 1950s to stark white laboratories with freezers full of HeLa cells; from Henrietta’s small, dying hometown of Clover, Virginia — a land of wooden slave quarters, faith healings, and voodoo — to East Baltimore today, where her children and grandchildren live and struggle with the legacy of her cells.</p><p>Henrietta’s family did not learn of her “immortality” until more than twenty years after her death, when scientists investigating HeLa began using her husband and children in research without informed consent. And though the cells had launched a multimillion-dollar industry that sells human biological materials, her family never saw any of the profits. As Rebecca Skloot so brilliantly shows, the story of the Lacks family — past and present — is inextricably connected to the dark history of experimentation on African Americans, the birth of bioethics, and the legal battles over whether we control the stuff we are made of.</p><p>Over the decade it took to uncover this story, Rebecca became enmeshed in the lives of the Lacks family—especially Henrietta’s daughter Deborah, who was devastated to learn about her mother’s cells. She was consumed with questions: Had scientists cloned her mother? Did it hurt her when researchers infected her cells with viruses and shot them into space? What happened to her sister, Elsie, who died in a mental institution at the age of fifteen? And if her mother was so important to medicine, why couldn’t her children afford health insurance?</p><p>Intimate in feeling, astonishing in scope, and impossible to put down, <i>The Immortal Life of Henrietta Lacks</i> captures the beauty and drama of scientific discovery, as well as its human consequences.</p>",
+                "authors": {
+                    "author": {
+                        "id": 2940640,
+                        "name": "Rebecca Skloot",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1291156030p5/2940640.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1291156030p2/2940640.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2940640.Rebecca_Skloot",
+                        "average_rating": 4.07,
+                        "ratings_count": 559291,
+                        "text_reviews_count": 33852
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 6684634,
+                    "uri": "kca://work/amzn1.gr.work.v1.7GCC_sT0t36kTkJalDCj5w"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 218510662,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed May 16 13:26:19 -0700 2012",
+            "date_updated": "Wed May 16 13:26:19 -0700 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/331121253",
+            "link": "https://www.goodreads.com/review/show/331121253",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "HarperElixir",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Hero Within - Rev. & Expanded Ed.: Six Archetypes We Live By",
+            "id": "19093100",
+            "author": "Carol S. Pearson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086456000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/19093100",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "HarperElixir",
+            "tags": [
+                "Kindle Edition",
+                "HarperElixir",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "19093100",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

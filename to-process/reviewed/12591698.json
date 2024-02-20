@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1487325753,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12591698
+                },
+                "isbn": 1841499900,
+                "isbn13": 9781841499901,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4167
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.0XisucKtvM8-4g28MVMe8A",
+                "title": "Caliban's War (The Expanse, #2)",
+                "title_without_series": "Caliban's War",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407572377l/12591698._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407572377l/12591698._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12591698-caliban-s-war",
+                "num_pages": 595,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Orbit (Hachette)",
+                "publication_day": 26,
+                "publication_year": 2012,
+                "publication_month": 6,
+                "average_rating": 4.34,
+                "ratings_count": 91267,
+                "description": "We are not alone.<br /><br />On Ganymede, breadbasket of the outer planets, a Martian marine watches as her platoon is slaughtered by a monstrous supersoldier. On Earth, a high-level politician struggles to prevent interplanetary war from reigniting. And on Venus, an alien protomolecule has overrun the planet, wreaking massive, mysterious changes and threatening to spread out into the solar system.<br /><br />In the vast wilderness of space, James Holden and the crew of the Rocinante have been keeping the peace for the Outer Planets Alliance. When they agree to help a scientist search war-torn Ganymede for a missing child, the future of humanity rests on whether a single ship can prevent an alien invasion that may have already begun . . .<br /><br />Caliban's War is a breakneck science fiction adventure following the critically acclaimed Leviathan Wakes.",
+                "authors": {
+                    "author": {
+                        "id": 4192148,
+                        "name": "James S.A. Corey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573162332p5/4192148.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573162332p2/4192148.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey",
+                        "average_rating": 4.25,
+                        "ratings_count": 603159,
+                        "text_reviews_count": 37691
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 17606541,
+                    "uri": "kca://work/amzn1.gr.work.v1.Cft_0egNZ_Tvz-5WsYMAew"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1139140096
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 31 07:43:24 -0800 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Thu Dec 31 07:43:24 -0800 2015",
+            "date_updated": "Thu Dec 31 07:45:53 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1487325753",
+            "link": "https://www.goodreads.com/review/show/1487325753",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 702951148,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17665597
+                },
+                "isbn": 1466844191,
+                "isbn13": 9781466844193,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 46
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.2aYy2u0RiaR9XXN_UkEY5Q",
+                "title": "Fire Above, Fire Below",
+                "title_without_series": "Fire Above, Fire Below",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363862703l/17665597._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363862703l/17665597._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17665597-fire-above-fire-below",
+                "num_pages": 32,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 8,
+                "publication_year": 2013,
+                "publication_month": 5,
+                "average_rating": 3.78,
+                "ratings_count": 455,
+                "description": "\"Fire Above, Fire Below\" is about the crisis that the dying of a dragon living below a major city causes, and the pact made many years earlier to deal with such a situation.",
+                "authors": {
+                    "author": {
+                        "id": 8347,
+                        "name": "Garth Nix",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p5/8347.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p2/8347.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8347.Garth_Nix",
+                        "average_rating": 4.05,
+                        "ratings_count": 769164,
+                        "text_reviews_count": 38472
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 24659165,
+                    "uri": "kca://work/amzn1.gr.work.v1.Efy4PskRxWt2Mqkkk-AEgg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 132189679
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Aug 24 15:26:46 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Aug 01 00:00:00 -0700 2013",
+            "date_added": "Sat Aug 24 15:26:46 -0700 2013",
+            "date_updated": "Wed Jan 22 13:22:25 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/702951148",
+            "link": "https://www.goodreads.com/review/show/702951148",
+            "owned": 0
+        }
+    }
+}

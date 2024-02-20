@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520209586,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 98458
+                },
+                "isbn": 743444124,
+                "isbn13": 9780743444125,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.XLNq-iEFCfbVKRWLU-pxCQ",
+                "title": "Miracle Workers (Starfleet Corps of Engineers Omnibus, #2)",
+                "title_without_series": "Miracle Workers",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/98458.Miracle_Workers",
+                "num_pages": 444,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": 4,
+                "publication_year": 2002,
+                "publication_month": 3,
+                "average_rating": 3.84,
+                "ratings_count": 245,
+                "description": "STARFLEET CORPS OF ENGINEERS Their motto: Have tech, will travel Follows a rapid-response team of the Starfleet Corps of Engineers: this group solves engineering problems in space that are too complicated, or take too much time, for a larger starship crew to handle. The action centers on the lower-decks crew of the USS da Vinci, a Saber-class ship that serves as the transportation of an SCE team. The SCE reports to Captain Montgomery Scott, who serves as their liaison with Starfleet Command and also pitches in when his vast store of knowledge can be of help.<br />2]Anthology series, Book 2. Further adventures of the Starfleet Corps of Engineers. Take it apart, figure it out, put it back together. That's the ongoing mission of the U.S.S. da Vinci, commanded by Captain David Gold and his first officer, Commander Sonya Gomez, late of the Starship Enterprise™ and one of Starfleet's top engineers. They oversee a crack S.C.E. team that can construct six impossible things before breakfast, composed of specialists in such diverse fields as tactical systems, alien cultures, computers, linguistics, and cryptography. Together they're ready to cope with just about every kind of high-tech challenge imaginable-and a few that nobody could have imagined. Need to build a subspace accelerator while under attack by a deadly local predator? Need to rescue a starship from interphase without getting trapped there yourself? Call in the S.C.E. crew, who put their lives on the line to rescue a space station from catastrophe, and face off against a deadly alien race of technology thieves with the aid of Lieutenant Nog from Space Station Deep Space 9 ™.<br />Contents;<br /> Interphase, Book Two [Star Trek: Starfleet Corps of Engineers • 5] / novella by Kevin Dilmore and Dayton Ward<br /> Cold Fusion [Star Trek: Starfleet Corps of Engineers • 6] / novella by Keith R. A. DeCandido<br /> Invincible [Star Trek: Starfleet Corps of Engineers • 7] / novel by Keith R. A. DeCandido and David Mack<br /> Star Trek: S.C.E. Minipedia • essay by Keith R. A. DeCandido<br />.",
+                "authors": {
+                    "author": {
+                        "id": 43697,
+                        "name": "Keith R.A. DeCandido",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1449800282p5/43697.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1449800282p2/43697.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/43697.Keith_R_A_DeCandido",
+                        "average_rating": 3.94,
+                        "ratings_count": 49461,
+                        "text_reviews_count": 3646
+                    }
+                },
+                "published": 2002,
+                "work": {
+                    "id": 94911,
+                    "uri": "kca://work/amzn1.gr.work.v1.HUDag7_xOaU-wUio2GhReQ"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:48:38 -0800 2013",
+            "date_updated": "Mon Jan 28 19:48:38 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520209586",
+            "link": "https://www.goodreads.com/review/show/520209586",
+            "owned": 0
+        }
+    }
+}

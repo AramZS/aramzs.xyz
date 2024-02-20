@@ -1,0 +1,104 @@
+{
+    "name": "Forbes Media",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Internet Of Garbage",
+            "id": "25910742",
+            "author": "Sarah Jeong",
+            "date_finished": 1539216000000,
+            "notes": [],
+            "date_started": 1539305693000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Internet Of Garbage: Rating - 5/5",
+                    "date": 1539216000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25910742",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Forbes Media",
+            "tags": [
+                "Kindle Edition",
+                "Forbes Media",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25910742",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Internet Of Garbage",
+            "id": 25910742,
+            "author": "Sarah Jeong",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25910742",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Forbes Media",
+            "tags": [
+                "Kindle Edition",
+                "Forbes Media",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 25910742,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

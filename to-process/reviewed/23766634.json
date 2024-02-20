@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2229998327,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23766634
+                },
+                "isbn": 1408857901,
+                "isbn13": 9781408857908,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 17857
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qnW-iTrZwpKlBLQ35qi80A",
+                "title": "A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",
+                "title_without_series": "A Court of Wings and Ruin",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555221560l/23766634._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555221560l/23766634._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23766634-a-court-of-wings-and-ruin",
+                "num_pages": 699,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Bloomsbury Childrens Books",
+                "publication_day": 2,
+                "publication_year": 2017,
+                "publication_month": 5,
+                "average_rating": 4.47,
+                "ratings_count": 212001,
+                "description": "Looming war threatens all Feyre holds dear in the third volume of the #1 <i>New York Times </i>bestselling <i>A Court of Thorns and Roses </i>series.<br /><br />Feyre has returned to the Spring Court, determined to gather information on Tamlin's manoeuvrings and the invading king threatening to bring Prythian to its knees. But to do so she must play a deadly game of deceit – and one slip may spell doom not only for Feyre, but for her world as well.<br /><br />As war bears down upon them all, Feyre must decide who to trust amongst the dazzling and lethal High Lords – and hunt for allies in unexpected places. <br /><br />In this thrilling third book in the #1 <i>New York Times </i>bestselling series from Sarah J. Maas, the earth will be painted red as mighty armies grapple for power over the one thing that could destroy them all.",
+                "authors": {
+                    "author": {
+                        "id": 3433047,
+                        "name": "Sarah J. Maas",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1582137198p5/3433047.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1582137198p2/3433047.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas",
+                        "average_rating": 4.39,
+                        "ratings_count": 3048917,
+                        "text_reviews_count": 304552
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 25126752,
+                    "uri": "kca://work/amzn1.gr.work.v1.B7a7eGxwgpas4La-ezQW_A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2139559947
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 28 12:12:41 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1879174366,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 28 12:12:40 -0800 2017",
+            "date_updated": "Thu Dec 28 12:12:41 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2229998327",
+            "link": "https://www.goodreads.com/review/show/2229998327",
+            "owned": 0
+        }
+    }
+}

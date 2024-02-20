@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 483516603,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 66657
+                },
+                "isbn": 156031876,
+                "isbn13": 9780156031875,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 957
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.IOCMaAJ7j_i8pCOJTyucww",
+                "title": "Magic for Beginners",
+                "title_without_series": "Magic for Beginners",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403188634l/66657._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403188634l/66657._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/66657.Magic_for_Beginners",
+                "num_pages": 297,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Mariner Books",
+                "publication_day": 5,
+                "publication_year": 2006,
+                "publication_month": 9,
+                "average_rating": 3.82,
+                "ratings_count": 8477,
+                "description": "The nine stories in Link's second collection are the spitting image of those in her acclaimed debut, Stranger Things Happen: effervescent blends of quirky humor and pathos that transform stock themes of genre fiction into the stuff of delicate lyrical fantasy. In \"Stone Animals,\" a house's haunting takes the unusual form of hordes of rabbits that camp out nightly on the front lawn. This proves just one of several benign but inexplicable phenomena that begin to pull apart the family newly moved into the house as surely as a more sinister supernatural influence might. The title story beautifully captures the unpredictable potential of teenage lives through its account of a group of adolescent schoolfriends whose experiences subtly parallel events in a surreal TV fantasy series. Zombies serve as the focus for a young man's anxieties about his future in \"Some Zombie Contingency Plans\" and offer suggestive counterpoint to the lives of two convenience store clerks who serve them in \"The Hortlak.\" Not only does Link find fresh perspectives from which to explore familiar premises, she also forges ingenious connections between disparate images and narrative approaches to suggest a convincing alternate logic that shapes the worlds of her highly original fantasies.<br /><br />Contents:<br />The Faery Handbag (2004)<br />The Hortlak (2003)<br />The Cannon (2003)<br />Stone Animals (2004)<br />Catskin (2003)<br />Some Zombie Contingency Plans (2005)<br />The Great Divorce (2005)<br />Magic for Beginners (2005)<br />Lull (2002)",
+                "authors": {
+                    "author": {
+                        "id": 24902,
+                        "name": "Kelly Link",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1422586197p5/24902.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1422586197p2/24902.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24902.Kelly_Link",
+                        "average_rating": 3.81,
+                        "ratings_count": 154051,
+                        "text_reviews_count": 21488
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 649937,
+                    "uri": "kca://work/amzn1.gr.work.v1.P6R0EeUuKlsDomdpOsISWA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Dec 22 00:00:00 -0800 2012",
+            "read_at": "Sun Dec 23 07:43:17 -0800 2012",
+            "date_added": "Sun Dec 23 00:26:58 -0800 2012",
+            "date_updated": "Sun Dec 23 07:43:17 -0800 2012",
+            "read_count": 1,
+            "body": "Another set of dream-like stories from Kelly Link. In these stories the ending is often at the beginning and you don't exactly read them, as much as feel them.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/483516603",
+            "link": "https://www.goodreads.com/review/show/483516603",
+            "owned": 1
+        }
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "name": "First Second",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Adventure Zone: Here There Be Gerblins",
+            "id": "35684941",
+            "author": "Clint McElroy, Griffin McElroy, Justin McElroy, Travis McElroy, Carey Pietsch",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1575134011000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Adventure Zone: Here There Be Gerblins: Rating - 4/5",
+                    "date": 1575134011000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/35684941",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "First Second",
+            "tags": [
+                "Paperback",
+                "First Second",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1250153700",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781250153708",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "35684941",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Pumpkinheads",
+            "id": "40864790",
+            "author": "Rainbow Rowell, Faith Erin Hicks",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961677000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/40864790",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "First Second",
+            "tags": [
+                "Hardcover",
+                "First Second",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "125031285X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781250312853",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "40864790",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Brazen: Rebel Ladies Who Rocked the World (Les Culottées, #1-2)",
+            "id": "34506937",
+            "author": "Pénélope Bagieu, Montana Kane",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1543267654000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34506937",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "First Second",
+            "tags": [
+                "Paperback",
+                "First Second",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1626728690",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781626728691",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34506937",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Prince and the Dressmaker",
+            "id": "34506912",
+            "author": "Jen Wang",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1543267651000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34506912",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "First Second",
+            "tags": [
+                "Paperback",
+                "First Second",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "162672363X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781626723634",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34506912",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Adventure Zone: Here There Be Gerblins",
+            "id": 35684941,
+            "author": "Clint McElroy",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/35684941",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "First Second",
+            "tags": [
+                "Paperback",
+                "First Second",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 35684941,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

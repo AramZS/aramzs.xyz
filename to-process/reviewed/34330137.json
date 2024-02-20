@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999620517,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34330137
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.pKOlTR49yab3kCwrWEX0LQ",
+                "title": "Significant Zero: Heroes, Villains, and the Fight for Art and Soul in Video Games",
+                "title_without_series": "Significant Zero: Heroes, Villains, and the Fight for Art and Soul in Video Games",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34330137-significant-zero",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.04,
+                "ratings_count": 433,
+                "description": "From the award-winning video game writer of such hits as BioShock and Borderlands comes an exclusive “compelling look into a world that doesn’t like to spill its secrets to outsiders” (NPR): the video game industry.<br /><br />When his satirical musings in a college newspaper got him discharged from the Air Force, it became clear to Walt Williams that his destiny in life was to be a writer—he just never thought he’d end up writing video games, including some of the biggest franchises today.<br /><br />A veteran video game narrative designer, Williams pulls back the curtain on an astonishingly profitable industry that has put its stamp on pop culture and yet is little known to those outside its walls. As Williams walks you through his unlikely and at times inglorious rise within one of the world’s top gaming companies, he exposes an industry abundant in brain power and out-sized egos, but struggling to stay innovative. <i>Significant Zero </i>also provides clear-eyed criticism of the industry’s addiction to violence and explains how the role of the narrative designer is crucial for expanding the scope of video games into more immersive and emotional experiences.<br /><br /><i>Significant Zero</i> is a rare and illuminating look inside “the video gaming industry in all its lucrative shine and questionable morality…[and] provides a refreshing and realistic portrayal of succeeding at attaining a dream via an unforeseen career trajectory” (<i>Booklist</i>).",
+                "authors": {
+                    "author": {
+                        "id": 5098398,
+                        "name": "Walt Williams",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5098398.Walt_Williams",
+                        "average_rating": 4.03,
+                        "ratings_count": 442,
+                        "text_reviews_count": 52
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 53537919,
+                    "uri": "kca://work/amzn1.gr.work.v1.Wth1h_85a1cIR5Wehoo5-Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3156493569
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Oct 03 06:27:53 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2646062430,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Oct 03 06:27:52 -0700 2019",
+            "date_updated": "Thu Oct 03 06:27:52 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999620517",
+            "link": "https://www.goodreads.com/review/show/2999620517",
+            "owned": 0
+        }
+    }
+}

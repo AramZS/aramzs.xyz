@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749128698,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8505011
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 332
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.5BwDvubMKZoP3Kbu9ATQxg",
+                "title": "The Knife of Never Letting Go (Chaos Walking, #1)",
+                "title_without_series": "The Knife of Never Letting Go",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562967562l/8505011._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562967562l/8505011._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8505011-the-knife-of-never-letting-go",
+                "num_pages": 497,
+                "format": "Audible Audio",
+                "edition_information": {},
+                "publisher": "Candlewick on Brilliance Audio",
+                "publication_day": 28,
+                "publication_year": 2010,
+                "publication_month": 9,
+                "average_rating": 3.98,
+                "ratings_count": 146438,
+                "description": "A dystopian thriller follows a boy and girl on the run from a town where all thoughts can be heard – and the passage to manhood embodies a horrible secret.<br /><br />Todd Hewitt is the only boy in a town of men. Ever since the settlers were infected with the Noise germ, Todd can hear everything the men think, and they hear everything he thinks. Todd is just a month away from becoming a man, but in the midst of the cacophony, he knows that the town is hiding something from him -- something so awful Todd is forced to flee with only his dog, whose simple, loyal voice he hears too. With hostile men from the town in pursuit, the two stumble upon a strange and eerily silent creature: a girl. Who is she? Why wasn't she killed by the germ like all the females on New World? Propelled by Todd's gritty narration, readers are in for a white-knuckle journey in which a boy on the cusp of manhood must unlearn everything he knows in order to figure out who he truly is.",
+                "authors": {
+                    "author": {
+                        "id": 370361,
+                        "name": "Patrick Ness",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1589369436p5/370361.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1589369436p2/370361.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/370361.Patrick_Ness",
+                        "average_rating": 4.12,
+                        "ratings_count": 618601,
+                        "text_reviews_count": 85533
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 2124180,
+                    "uri": "kca://work/amzn1.gr.work.v1.sTiYr5FbOLCil8f16exuJw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498301709
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:41:40 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414465195,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:41:39 -0700 2016",
+            "date_updated": "Mon Sep 05 07:41:40 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749128698",
+            "link": "https://www.goodreads.com/review/show/1749128698",
+            "owned": 0
+        }
+    }
+}

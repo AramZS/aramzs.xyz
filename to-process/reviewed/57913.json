@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24670961,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 57913
+                },
+                "isbn": 440539811,
+                "isbn13": 9780440539810,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 749
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.GbZtd0B4o0SolfiNz4nNig",
+                "title": "The Illuminatus! Trilogy",
+                "title_without_series": "The Illuminatus! Trilogy",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/57913.The_Illuminatus_Trilogy",
+                "num_pages": 805,
+                "format": "Paperback",
+                "edition_information": "Trade Paperback",
+                "publisher": "Dell",
+                "publication_day": {},
+                "publication_year": 1983,
+                "publication_month": 12,
+                "average_rating": 4.01,
+                "ratings_count": 14301,
+                "description": "It was a deadly mistake. Joseph Malik, editor of a radical magazine, had snooped into rumors about an ancient secret society that was still alive and kicking. Now his offices have been bombed, he's missing, and the case has landed in the lap of a tough, cynical, streetwise New York detective. Saul Goodman knows he's stumbled onto something big—but even he can't guess how far into the pinnacles of power this conspiracy of evil has penetrated.<br /><br />Filled with sex and violence—in and out of time and space—the three books of The Illuminatus! Trilogy are only partly works of the imagination. They tackle all the cover-ups of our time—from who <i>really</i> shot the Kennedys to why there's a pyramid on a one-dollar bill—and suggest a mind-blowing truth.",
+                "authors": {
+                    "author": {
+                        "id": 5752454,
+                        "name": "Robert Shea",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1333835995p5/5752454.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1333835995p2/5752454.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5752454.Robert_Shea",
+                        "average_rating": 4.02,
+                        "ratings_count": 21240,
+                        "text_reviews_count": 1109
+                    }
+                },
+                "published": 1983,
+                "work": {
+                    "id": 813,
+                    "uri": "kca://work/amzn1.gr.work.v1.E4ghQnCNZbjtBffRS-9rjQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 10337092,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:17:13 -0700 2008",
+            "date_updated": "Mon Jun 16 19:17:13 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24670961",
+            "link": "https://www.goodreads.com/review/show/24670961",
+            "owned": 0
+        }
+    }
+}

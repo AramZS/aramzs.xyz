@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24670163,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18154
+                },
+                "isbn": 1416507787,
+                "isbn13": 9781416507789,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 593
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4Mr35HQQu8CBFEWFmu_d4g",
+                "title": "The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage",
+                "title_without_series": "The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg",
+                "num_pages": 399,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Gallery Books",
+                "publication_day": 13,
+                "publication_year": 2005,
+                "publication_month": 9,
+                "average_rating": 4.23,
+                "ratings_count": 9542,
+                "description": "<i>Before the Internet became widely known as a global tool for terrorists, one perceptive U.S. citizen recognized its ominous potential. Armed with clear evidence of computer espionage, he began a highly personal quest to expose a hidden network of spies that threatened national security. But would the authorities back him up? Cliff Stoll's dramatic firsthand account is \"a computer-age detective story, instantly fascinating [and] astonishingly gripping\"</i> (Smithsonian). <br /> Cliff Stoll was an astronomer turned systems manager at Lawrence Berkeley Lab when a 75-cent accounting error alerted him to the presence of an unauthorized user on his system. The hacker's code name was \"Hunter\" -- a mysterious invader who managed to break into U.S. computer systems and steal sensitive military and security information. Stoll began a one-man hunt of his own: spying on the spy. It was a dangerous game of deception, broken codes, satellites, and missile bases -- a one-man sting operation that finally gained the attention of the CIA...and ultimately trapped an international spy ring fueled by cash, cocaine, and the KGB.",
+                "authors": {
+                    "author": {
+                        "id": 30891,
+                        "name": "Clifford Stoll",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/30891.Clifford_Stoll",
+                        "average_rating": 4.18,
+                        "ratings_count": 10126,
+                        "text_reviews_count": 805
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 19611,
+                    "uri": "kca://work/amzn1.gr.work.v1.TxdFRp81YRyMgr0yXkDkbQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:06:56 -0700 2008",
+            "date_updated": "Mon Jun 16 19:06:56 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24670163",
+            "link": "https://www.goodreads.com/review/show/24670163",
+            "owned": 0
+        }
+    }
+}

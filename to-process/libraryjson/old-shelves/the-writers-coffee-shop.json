@@ -1,0 +1,51 @@
+{
+    "name": "The Writers Coffee Shop",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Ruthless People (Ruthless People, #1)",
+            "id": "21839603",
+            "author": "J.J. McAvoy",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1499005055000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/21839603",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "The Writers Coffee Shop",
+            "tags": [
+                "Paperback",
+                "The Writers Coffee Shop",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1612133193",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781612133195",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "21839603",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

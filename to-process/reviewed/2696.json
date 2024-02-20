@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528971619,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2696
+                },
+                "isbn": 140424385,
+                "isbn13": 9780140424386,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2410
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.GYttKPT1Sdo6n2wFFVyuCg",
+                "title": "The Canterbury Tales",
+                "title_without_series": "The Canterbury Tales",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1261208589l/2696._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1261208589l/2696._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2696.The_Canterbury_Tales",
+                "num_pages": 504,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Penguin Classics",
+                "publication_day": 30,
+                "publication_year": 2003,
+                "publication_month": 1,
+                "average_rating": 3.5,
+                "ratings_count": 183861,
+                "description": "<p>The procession that crosses Chaucer's pages is as full of life and as richly textured as a medieval tapestry. The Knight, the Miller, the Friar, the Squire, the Prioress, the Wife of Bath, and others who make up the cast of characters -- including Chaucer himself -- are real people, with human emotions and weaknesses. When it is remembered that Chaucer wrote in English at a time when Latin was the standard literary language across western Europe, the magnitude of his achievement is even more remarkable. But Chaucer's genius needs no historical introduction; it bursts forth from every page of <i>The Canterbury Tales.</i><br /><br />If we trust the General Prologue, Chaucer intended that each pilgrim should tell two tales on the way to Canterbury and two tales on the way back. He never finished his enormous project and even the completed tales were not finally revised. Scholars are uncertain about the order of the tales. As the printing press had yet to be invented when Chaucer wrote his works, The Canterbury Tales has been passed down in several handwritten manuscripts.</p>",
+                "authors": {
+                    "author": {
+                        "id": 1838,
+                        "name": "Geoffrey Chaucer",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1202588994p5/1838.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1202588994p2/1838.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1838.Geoffrey_Chaucer",
+                        "average_rating": 3.55,
+                        "ratings_count": 219971,
+                        "text_reviews_count": 4848
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 986234,
+                    "uri": "kca://work/amzn1.gr.work.v1.PAJRl8vTbWVOnNth-VL1Ng"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:33:44 -0800 2013",
+            "date_updated": "Thu Feb 07 08:33:44 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528971619",
+            "link": "https://www.goodreads.com/review/show/528971619",
+            "owned": 0
+        }
+    }
+}

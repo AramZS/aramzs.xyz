@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749124598,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 30685076
+                },
+                "isbn": 1632159791,
+                "isbn13": 9781632159793,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.iRf45zhrwdjltPQ4WFS28w",
+                "title": "Wayward, Vol. 3",
+                "title_without_series": "Wayward, Vol. 3",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466596794l/30685076._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466596794l/30685076._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/30685076-wayward-vol-3",
+                "num_pages": 136,
+                "format": "ebook",
+                "edition_information": "Kobo",
+                "publisher": "Image Comics",
+                "publication_day": 9,
+                "publication_year": 2016,
+                "publication_month": 6,
+                "average_rating": 3.86,
+                "ratings_count": 654,
+                "description": "The new gods of Japan have arrived and a clash with the myths of old will change the country forever. JIM ZUB (Conan Red Sonja, Samurai Jack) and STEVEN CUMMINGS (Dead Shot, Legends of the Dark Knight) combine the camaraderie and emotion of shows like Buffy with Japan's engaging culture and mythic monsters.<br /><br />Collects issues 11-15.",
+                "authors": {
+                    "author": {
+                        "id": 5737122,
+                        "name": "Jim Zub",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1518410451p5/5737122.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1518410451p2/5737122.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5737122.Jim_Zub",
+                        "average_rating": 3.81,
+                        "ratings_count": 29088,
+                        "text_reviews_count": 3658
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 74042574,
+                    "uri": "kca://work/amzn1.gr.work.v2.9e8427e2-c45a-493b-8728-d65edfa7973c"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498296453
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:37:04 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813194763,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Aug 05 00:00:00 -0700 2016",
+            "date_added": "Mon Sep 05 07:37:04 -0700 2016",
+            "date_updated": "Thu Nov 07 05:58:36 -0800 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749124598",
+            "link": "https://www.goodreads.com/review/show/1749124598",
+            "owned": 0
+        }
+    }
+}

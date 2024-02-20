@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24670907,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 350
+                },
+                "isbn": 441788386,
+                "isbn13": 9780441788385,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6348
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8zej_WuuLGB01sVAycpjxg",
+                "title": "Stranger in a Strange Land",
+                "title_without_series": "Stranger in a Strange Land",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088l/350._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088l/350._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land",
+                "num_pages": 528,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Ace",
+                "publication_day": 1,
+                "publication_year": 1991,
+                "publication_month": 10,
+                "average_rating": 3.92,
+                "ratings_count": 268325,
+                "description": "<b>NAME: Valentine Michael Smith<br />ANCESTRY: Human<br />ORIGIN: Mars</b><br /><br />Valentine Michael Smith is a human being raised on Mars, newly returned to Earth. Among his people for the first time, he struggles to understand the social mores and prejudices of human nature that are so alien to him, while teaching them his own fundamental beliefs in grokking, watersharing, and love.",
+                "authors": {
+                    "author": {
+                        "id": 205,
+                        "name": "Robert A. Heinlein",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192826560p5/205.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192826560p2/205.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/205.Robert_A_Heinlein",
+                        "average_rating": 3.94,
+                        "ratings_count": 1071043,
+                        "text_reviews_count": 34737
+                    }
+                },
+                "published": 1991,
+                "work": {
+                    "id": 908211,
+                    "uri": "kca://work/amzn1.gr.work.v1.kYwyNoUWp0v2AVBxT-n0yw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847054699,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 10337078,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:16:47 -0700 2008",
+            "date_updated": "Thu Dec 04 08:42:29 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24670907",
+            "link": "https://www.goodreads.com/review/show/24670907",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Random House Bullseye Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Phantom Tollbooth",
+            "id": "378",
+            "author": "Norton Juster, Jules Feiffer",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360254841000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Phantom Tollbooth: Rating - 5/5",
+                    "date": 1360254841000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/378",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House Bullseye Books",
+            "tags": [
+                "Paperback",
+                "Random House Bullseye Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0394820371",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780394820378",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "378",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Phantom Tollbooth",
+            "id": 378,
+            "author": "Norton Juster",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/378",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House Bullseye Books",
+            "tags": [
+                "Paperback",
+                "Random House Bullseye Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 378,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

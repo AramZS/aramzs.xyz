@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1956952460,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 26082188
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2168
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-kcU3bMyawYNtZ_KCXRX0Q",
+                "title": "The Dispatcher",
+                "title_without_series": "The Dispatcher",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474569919l/26082188._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474569919l/26082188._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/26082188-the-dispatcher",
+                "num_pages": 3,
+                "format": "Audible Audio",
+                "edition_information": "Unabridged",
+                "publisher": "Audible Studios",
+                "publication_day": 4,
+                "publication_year": 2016,
+                "publication_month": 10,
+                "average_rating": 3.99,
+                "ratings_count": 19755,
+                "description": "<b>Listening Length: 2 hours and 18 minutes</b><br /><br />One day, not long from now, it becomes almost impossible to murder anyone - 999 times out of a thousand, anyone who is intentionally killed comes back. How? We don't know. But it changes everything: war, crime, daily life.<br />Tony Valdez is a Dispatcher - a licensed, bonded professional whose job is to humanely dispatch those whose circumstances put them in death's crosshairs, so they can have a second chance to avoid the reaper. But when a fellow Dispatcher and former friend is apparently kidnapped, Tony learns that there are some things that are worse than death and that some people are ready to do almost anything to avenge a supposed wrong.<br />It's a race against time for Valdez to find his friend before it's too late...before not even a Dispatcher can save him.<br /><br /><br />___<br />Zachary Quinto - best known for his role as the Nimoy-approved Spock in the recent Star Trek reboot and the menacing, power-stealing serial killer, Sylar, in Heroes - brings his well-earned sci-fi credentials and simmering intensity to this audio-exclusive novella from master storyteller John Scalzi.",
+                "authors": {
+                    "author": {
+                        "id": 4763,
+                        "name": "John Scalzi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+                        "average_rating": 4.03,
+                        "ratings_count": 712024,
+                        "text_reviews_count": 57344
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 46020966,
+                    "uri": "kca://work/amzn1.gr.work.v1.c-X6WOZFyTi1ENp2psW0fQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1778250800
+                        },
+                        "old_status": {},
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Mar 30 07:44:19 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1778250777
+                        },
+                        "old_status": {},
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Mar 30 07:44:18 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Mar 30 00:00:00 -0700 2017",
+            "date_added": "Thu Mar 30 07:44:18 -0700 2017",
+            "date_updated": "Thu May 18 07:28:59 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1956952460",
+            "link": "https://www.goodreads.com/review/show/1956952460",
+            "owned": 0
+        }
+    }
+}

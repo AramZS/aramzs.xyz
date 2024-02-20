@@ -1,0 +1,183 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 55998096,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4699575
+                },
+                "isbn": 525951113,
+                "isbn13": 9780525951117,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1873
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.mL00mSq1cbwA2vC0FHS2kQ",
+                "title": "Daemon (Daemon, #1)",
+                "title_without_series": "Daemon",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432909825l/4699575._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432909825l/4699575._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4699575-daemon",
+                "num_pages": 432,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.16,
+                "ratings_count": 38566,
+                "description": "Technology controls almost everything in our modern-day world, from remote entry on our cars to access to our homes, from the flight controls of our airplanes to the movements of the entire world economy. Thousands of autonomous computer programs, or daemons, make our networked world possible, running constantly in the background of our lives, trafficking e-mail, transferring money, and monitoring power grids. For the most part, daemons are benign, but the same can't always be said for the people who design them.<br /><br /> Matthew Sobol was a legendary computer game designer—the architect behind half-a-dozen popular online games. His premature death depressed both gamers and his company's stock price. But Sobol's fans aren't the only ones to note his passing. When his obituary is posted online, a previously dormant daemon activates, initiating a chain of events intended to unravel the fabric of our hyper-efficient, interconnected world. With Sobol's secrets buried along with him, and as new layers of his daemon are unleashed at every turn, it's up to an unlikely alliance to decipher his intricate plans and wrest the world from the grasp of a nameless, faceless enemy—or learn to live in a society in which we are no longer in control. . . .<br /><br /> Computer technology expert Daniel Suarez blends haunting high-tech realism with gripping suspense in an authentic, complex thriller in the tradition of Michael Crichton, Neal Stephenson, and William Gibson.",
+                "authors": {
+                    "author": {
+                        "id": 1956402,
+                        "name": "Daniel Suarez",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1265394868p5/1956402.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1265394868p2/1956402.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1956402.Daniel_Suarez",
+                        "average_rating": 4.12,
+                        "ratings_count": 98028,
+                        "text_reviews_count": 7601
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 4763873,
+                    "uri": "kca://work/amzn1.gr.work.v1.t1knaZxR_VmjmozQtsG31Q"
+                }
+            },
+            "user_statuses": {
+                "user_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 806357
+                        },
+                        "page": {
+                            "type": "integer",
+                            "$t": 432
+                        },
+                        "chapter": {
+                            "type": "integer"
+                        },
+                        "comments_count": 0,
+                        "created_at": {
+                            "type": "datetime",
+                            "$t": "Tue May 26 18:12:32 -0700 2009"
+                        },
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue May 26 18:12:32 -0700 2009"
+                        },
+                        "last_comment_at": {
+                            "type": "datetime"
+                        },
+                        "ratings_count": {
+                            "type": "integer",
+                            "$t": 0
+                        },
+                        "percent": {
+                            "type": "integer"
+                        },
+                        "work_id": {
+                            "type": "integer"
+                        },
+                        "note_uri": {},
+                        "note_updated_at": {
+                            "type": "datetime"
+                        },
+                        "body": {}
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 757008
+                        },
+                        "page": {
+                            "type": "integer",
+                            "$t": 40
+                        },
+                        "chapter": {
+                            "type": "integer"
+                        },
+                        "comments_count": 0,
+                        "created_at": {
+                            "type": "datetime",
+                            "$t": "Thu May 14 16:36:31 -0700 2009"
+                        },
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu May 14 16:36:31 -0700 2009"
+                        },
+                        "last_comment_at": {
+                            "type": "datetime"
+                        },
+                        "ratings_count": {
+                            "type": "integer",
+                            "$t": 0
+                        },
+                        "percent": {
+                            "type": "integer"
+                        },
+                        "work_id": {
+                            "type": "integer"
+                        },
+                        "note_uri": {},
+                        "note_updated_at": {
+                            "type": "datetime"
+                        },
+                        "body": {}
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue May 26 18:12:37 -0700 2009",
+            "date_added": "Wed May 13 18:22:52 -0700 2009",
+            "date_updated": "Tue May 26 18:12:37 -0700 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/55998096",
+            "link": "https://www.goodreads.com/review/show/55998096",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 33840820,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 33356
+                },
+                "isbn": 349117624,
+                "isbn13": 9780349117621,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 928
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.CQPGDPSQSP2CCE4nuSxgmA",
+                "title": "Jennifer Government",
+                "title_without_series": "Jennifer Government",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/33356.Jennifer_Government",
+                "num_pages": 352,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Abacus",
+                "publication_day": 5,
+                "publication_year": 2004,
+                "publication_month": 2,
+                "average_rating": 3.66,
+                "ratings_count": 13098,
+                "description": "In Max Barry's twisted, hilarious and terrifying vision of the near future, the world is run by giant corporations and employees take the last names of the companies they work for. It's a globalised, ultra-capitalist free market paradise! Hack Nike is a lowly merchandising officer who's not very good at negotiating his salary. So when John Nike and John Nike, executives from the promised land of Marketing, offer him a contract, he signs without reading it. Unfortunately, Hack's new contract involves shooting teenagers to build up street cred for Nike's new line of $2,500 trainers. Hack goes to the police—but they assume that he's asking for a subcontracting deal and lease the assassination to the more experienced NRA. Enter Jennifer Government, a tough-talking agent with a barcode tattoo under her eye and a personal problem with John Nike (the boss of the other John Nike). And a gun. Hack is about to find out what it really means to mess with market forces.",
+                "authors": {
+                    "author": {
+                        "id": 18741,
+                        "name": "Max Barry",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1310004110p5/18741.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1310004110p2/18741.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/18741.Max_Barry",
+                        "average_rating": 3.81,
+                        "ratings_count": 59415,
+                        "text_reviews_count": 6714
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 1647,
+                    "uri": "kca://work/amzn1.gr.work.v1.WiHoB4DpsHj3eA8wLZr7Zg"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Sep 25 14:53:01 -0700 2008",
+            "date_updated": "Mon Mar 02 10:09:01 -0800 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/33840820",
+            "link": "https://www.goodreads.com/review/show/33840820",
+            "owned": 0
+        }
+    }
+}

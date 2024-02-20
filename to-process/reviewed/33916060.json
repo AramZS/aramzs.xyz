@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999616760,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 33916060
+                },
+                "isbn": 399587799,
+                "isbn13": 9780399587795,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 460
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.EVxwbjfQu9-TIqG0fZhcqQ",
+                "title": "Blackwing (Raven's Mark, #1)",
+                "title_without_series": "Blackwing",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486071174l/33916060._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486071174l/33916060._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/33916060-blackwing",
+                "num_pages": 360,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Ace Books",
+                "publication_day": 3,
+                "publication_year": 2017,
+                "publication_month": 10,
+                "average_rating": 4.13,
+                "ratings_count": 4094,
+                "description": "<p>The republic faces annihilation, despite the vigilance of Galharrow's Blackwings. When a raven tattoo rips itself from his arm to deliver a desperate message, Galharrow and a mysterious noblewoman must investigate a long dead sorcerer's legacy. But there is a conspiracy within the citadel: traitors, flesh-eaters and the ghosts of the wastelands seek to destroy them, but if they cannot solve the ancient wizard's paradox, the Deep Kings will walk the earth again, and all will be lost.</p><p>The war with the Eastern Empire ended in stalemate some eighty years ago, thanks to Nall's 'Engine', a wizard-crafted weapon so powerful even the Deep Kings feared it. The strike of the Engine created the Misery - a wasteland full of ghosts and corrupted magic that now forms a No Mans Land along the frontier. But when Galharrow investigates a frontier fortress, he discovers complacency bordering on treason: then the walls are stormed, and the Engine fails to launch. Galharrow only escapes because of the preternatural magical power of the noblewoman he was supposed to be protecting. Together, they race to the capital to unmask the traitors and restore the republic's defences. Far across the Misery a vast army is on the move, as the Empire prepares to call the republic's bluff.</p>",
+                "authors": {
+                    "author": {
+                        "id": 5796286,
+                        "name": "Ed McDonald",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1485372362p5/5796286.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1485372362p2/5796286.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5796286.Ed_McDonald",
+                        "average_rating": 4.2,
+                        "ratings_count": 7524,
+                        "text_reviews_count": 1255
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 54881779,
+                    "uri": "kca://work/amzn1.gr.work.v1.vecdRku9dFzFp63ndrvmug"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3156488691
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Oct 03 06:23:40 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Oct 03 06:23:40 -0700 2019",
+            "date_updated": "Thu Oct 03 06:23:59 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999616760",
+            "link": "https://www.goodreads.com/review/show/2999616760",
+            "owned": 0
+        }
+    }
+}

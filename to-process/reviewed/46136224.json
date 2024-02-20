@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999621835,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 46136224
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 79
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8gH14gVTFfAJhYBohsid8Q",
+                "title": "Uncanny Valley",
+                "title_without_series": "Uncanny Valley",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/46136224-uncanny-valley",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.74,
+                "ratings_count": 8205,
+                "description": "<b>The prescient, page-turning account of a journey in Silicon Valley: a defining memoir of our digital age</b><br /><br />In her mid-twenties, at the height of tech industry idealism, Anna Wiener—stuck, broke, and looking for meaning in her work, like any good millennial—left a job in book publishing for the promise of the new digital economy. She moved from New York to San Francisco, where she landed at a big-data startup in the heart of the Silicon Valley bubble: a world of surreal extravagance, dubious success, and fresh-faced entrepreneurs hell-bent on domination, glory, and, of course, <i>progress</i>.<br /><br />Anna arrived during a massive cultural shift, as the tech industry rapidly transformed into a locus of wealth and power rivaling Wall Street. But amid the company ski vacations and in-office speakeasies, boyish camaraderie and ride-or-die corporate fealty, a new Silicon Valley began to emerge: one in far over its head, one that enriched itself at the expense of the idyllic future it claimed to be building.<br /><br />Part coming-of-age-story, part portrait of an already bygone era, Anna Wiener's memoir, <i>Uncanny Valley</i>, is a rare first-person glimpse into high-flying, reckless startup culture at a time of unchecked ambition, unregulated surveillance, wild fortune, and accelerating political power. With wit, candor, and heart, Anna deftly charts the tech industry's shift from self-appointed world savior to democracy-endangering liability, alongside a personal narrative of aspiration, ambivalence, and disillusionment.",
+                "authors": {
+                    "author": {
+                        "id": 3948574,
+                        "name": "Anna Wiener",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1569785505p5/3948574.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1569785505p2/3948574.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3948574.Anna_Wiener",
+                        "average_rating": 3.74,
+                        "ratings_count": 8213,
+                        "text_reviews_count": 1118
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 69908892,
+                    "uri": "kca://work/amzn1.gr.work.v1.PhwEhjrJtnYNwXClkorD2Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3156495262
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Oct 03 06:29:18 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2646063766,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Oct 03 06:29:18 -0700 2019",
+            "date_updated": "Thu Oct 03 06:29:18 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999621835",
+            "link": "https://www.goodreads.com/review/show/2999621835",
+            "owned": 0
+        }
+    }
+}

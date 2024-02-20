@@ -1,0 +1,299 @@
+{
+    "name": "Plume",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Magician's Land (The Magicians, #3)",
+            "id": "19103097",
+            "author": "Lev Grossman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1415294816000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Magician's Land (The Magicians, #3): Rating - 4/5",
+                    "date": 1415294816000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/19103097",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Plume",
+            "tags": [
+                "Kindle Edition",
+                "Plume",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "19103097",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Gunslinger",
+            "id": "43615",
+            "author": "Stephen King",
+            "date_finished": 1291334400000,
+            "notes": [],
+            "date_started": 1291400856000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Gunslinger: Rating - 4/5",
+                    "date": 1291334400000,
+                    "type": "short",
+                    "content": "Glad to have finally picked up the series. I really liked this first book and I'm looking forward to the rest of them. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/43615",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Plume",
+            "tags": [
+                "Paperback",
+                "Plume",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "43615",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "How the García Girls Lost Their Accents ",
+            "id": "11208",
+            "author": "Julia Alvarez",
+            "date_finished": 1235952000000,
+            "notes": [],
+            "date_started": 1236017290000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of How the García Girls Lost Their Accents : Rating - 3/5",
+                    "date": 1235952000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11208",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Plume",
+            "tags": [
+                "Paperback",
+                "Plume",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0452287073",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780452287075",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "11208",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Magician's Land (The Magicians, #3)",
+            "id": 19103097,
+            "author": "Lev Grossman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/19103097",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Plume",
+            "tags": [
+                "Kindle Edition",
+                "Plume",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 19103097,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Gunslinger",
+            "id": 43615,
+            "author": "Stephen King",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/43615",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Plume",
+            "tags": [
+                "Plume",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 43615,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "How the García Girls Lost Their Accents",
+            "id": 11208,
+            "author": "Julia Alvarez",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11208",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Plume",
+            "tags": [
+                "Paperback",
+                "Plume",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 11208,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

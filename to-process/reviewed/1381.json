@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528973486,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1381
+                },
+                "isbn": 143039954,
+                "isbn13": 9780143039952,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6725
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Tad6LahKhXeOMHx3tYGiYA",
+                "title": "The Odyssey",
+                "title_without_series": "The Odyssey",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390173285l/1381._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390173285l/1381._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1381.The_Odyssey",
+                "num_pages": 541,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Penguin Classics",
+                "publication_day": 30,
+                "publication_year": 2006,
+                "publication_month": 11,
+                "average_rating": 3.76,
+                "ratings_count": 836558,
+                "description": "<i>Sing to me of the man, Muse, the man of twists and turns<br />driven time and again off course, once he had plundered<br />the hallowed heights of Troy.</i><br /><br />So begins Robert Fagles' magnificent translation of the <i>Odyssey</i>, which Jasper Griffin in <i>The New York Times Review of Books</i> hails as \"a distinguished achievement.\"<br /><br />If the <i>Iliad</i> is the world's greatest war epic, then the <i>Odyssey</i> is literature's grandest evocation of everyman's journey though life. Odysseus' reliance on his wit and wiliness for survival in his encounters with divine and natural forces, during his ten-year voyage home to Ithaca after the Trojan War, is at once a timeless human story and an individual test of moral endurance. <br /><br />In the myths and legends that are retold here, Fagles has captured the energy and poetry of Homer's original in a bold, contemporary idiom, and given us an <i>Odyssey</i> to read aloud, to savor, and to treasure for its sheer lyrical mastery.<br /><br />Renowned classicist Bernard Knox's superb Introduction and textual commentary provide new insights and background information for the general reader and scholar alike, intensifying the strength of Fagles' translation.<br /><br />This is an <i>Odyssey</i> to delight both the classicist and the public at large, and to captivate a new generation of Homer's students.<br /><br />--<br /><br />Robert Fagles, winner of the PEN/Ralph Manheim Medal for Translation and a 1996 Academy Award in Literature from the American Academy of Arts and Letters, presents us with Homer's best-loved and most accessible poem in a stunning new modern-verse translation.",
+                "authors": {
+                    "author": {
+                        "id": 903,
+                        "name": "Homer",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1390672749p5/903.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1390672749p2/903.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/903.Homer",
+                        "average_rating": 3.81,
+                        "ratings_count": 1266262,
+                        "text_reviews_count": 20951
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 3356006,
+                    "uri": "kca://work/amzn1.gr.work.v1.tFbTWd1rKv0r2pQLhiOtfA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847066200,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:36:41 -0800 2013",
+            "date_updated": "Thu Dec 04 09:01:59 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528973486",
+            "link": "https://www.goodreads.com/review/show/528973486",
+            "owned": 0
+        }
+    }
+}

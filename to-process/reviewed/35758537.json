@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2757213358,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35758537
+                },
+                "isbn": 1534304703,
+                "isbn13": 9781534304703,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 38
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-GPKsFTAsb9hLmzPB2P25A",
+                "title": "Generation Gone, Vol. 1",
+                "title_without_series": "Generation Gone, Vol. 1",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514049840l/35758537._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514049840l/35758537._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35758537-generation-gone-vol-1",
+                "num_pages": 176,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 9,
+                "publication_year": 2018,
+                "publication_month": 1,
+                "average_rating": 3.32,
+                "ratings_count": 220,
+                "description": "America, 2020. Three young hackers with nothing to lose. A secretive scientist with a plan. One final job.<br /><br />What happens when you're young, poor, angry, and get superpowers you never asked for? Multiple trips to the sun, weird black goo, a breakup fight inside a nuclear factory, love, hate, anger, loss -- and a struggle for survival.<br /><br />The first chapter of the SF action epic by ALES KOT and ANDRE LIMA ARAUJO.<br /><br />Collects issues 1 through 5.<br />",
+                "authors": {
+                    "author": {
+                        "id": 6451215,
+                        "name": "Aleš Kot",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1437719500p5/6451215.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1437719500p2/6451215.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6451215.Ale_Kot",
+                        "average_rating": 3.69,
+                        "ratings_count": 14278,
+                        "text_reviews_count": 1515
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 57259562,
+                    "uri": "kca://work/amzn1.gr.work.v1.tWIzyshl7lHw7U10PIA1aQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2833948685
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Mar 20 08:39:16 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Mar 20 08:39:16 -0700 2019",
+            "date_updated": "Wed Mar 20 08:39:24 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2757213358",
+            "link": "https://www.goodreads.com/review/show/2757213358",
+            "owned": 0
+        }
+    }
+}

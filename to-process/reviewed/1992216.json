@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 112716989,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1992216
+                },
+                "isbn": 1568658044,
+                "isbn13": 9781568658049,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 18
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ab4WwWxlSUf_YxAQqfHhsw",
+                "title": "Chronicles of the Lensmen, Volume 1: Triplanetary / First Lensman / Galactic Patrol",
+                "title_without_series": "Chronicles of the Lensmen, Volume 1: Triplanetary / First Lensman / Galactic Patrol",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1992216.Chronicles_of_the_Lensmen_Volume_1",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": "Sfbc Science Fiction",
+                "publication_day": 1,
+                "publication_year": 1998,
+                "publication_month": 6,
+                "average_rating": 3.96,
+                "ratings_count": 425,
+                "description": "First three books in one - Triplanetary - First Lensman - Galactic Patrol This book collects the first half of the first - and one of the most famous --space epics of all time. With these books \"Doc\" Smith laid the foundation for all science fiction to come, crediting what David Weber \"the great archetypes of the genre\".",
+                "authors": {
+                    "author": {
+                        "id": 4477395,
+                        "name": "E.E. \"Doc\" Smith",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1315184002p5/4477395.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1315184002p2/4477395.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4477395.E_E_Doc_Smith",
+                        "average_rating": 3.82,
+                        "ratings_count": 36532,
+                        "text_reviews_count": 1604
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 1995901,
+                    "uri": "kca://work/amzn1.gr.work.v1.9pckK56UbE1XOr1NswQjaQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Jul 21 00:00:00 -0700 2010",
+            "date_added": "Wed Jul 21 08:53:41 -0700 2010",
+            "date_updated": "Wed Jul 21 08:53:54 -0700 2010",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/112716989",
+            "link": "https://www.goodreads.com/review/show/112716989",
+            "owned": 0
+        }
+    }
+}

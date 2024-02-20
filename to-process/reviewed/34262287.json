@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2073732236,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34262287
+                },
+                "isbn": 1940535166,
+                "isbn13": 9781940535166,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 18
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.3MXWCibVeWpTj69f8LN6Mg",
+                "title": "Kingdom Hearts II (Boss Fight Books, #16)",
+                "title_without_series": "Kingdom Hearts II",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492933269l/34262287._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492933269l/34262287._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34262287-kingdom-hearts-ii",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Boss Fight Books",
+                "publication_day": 27,
+                "publication_year": 2017,
+                "publication_month": 6,
+                "average_rating": 3.7,
+                "ratings_count": 132,
+                "description": "Light and darkness. Heroes and villains. Final Fantasy epics and... Donald Duck? The Kingdom Hearts series has always walked a fine line between masterfully executed crossover and nonsensical fan mashup, but Square Enix and Disney's intercompany franchise remains beloved throughout numerous sequels, prequels, and remixes. Despite the outlandish premise and convoluted lore, what lies at the heart of Kingdom Hearts is more than familiar to fans of Final Fantasy and Disney alike: friendship.<br /><br />For games critic and JRPG superfan Alexa Ray Corriea, no game in the series better exemplifies friendship than Kingdom Hearts II. Corriea's close reading of protagonist Sora's struggles and triumphs, his friendship with rival Riku, and his dark journey into oblivion illuminates how the unlikely universe of Kingdom Hearts authentically portrays human relationships better than any solo Final Fantasy or Disney game ever could. Just as Kingdom Hearts II is greater than the sum of its parts, Corriea's exploration of the game's themes and emotional depths reveals how each of us is stronger for the people who surround us.",
+                "authors": {
+                    "author": {
+                        "id": 16437305,
+                        "name": "Alexa Ray Corriea",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1554298035p5/16437305.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1554298035p2/16437305.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16437305.Alexa_Ray_Corriea",
+                        "average_rating": 3.7,
+                        "ratings_count": 132,
+                        "text_reviews_count": 21
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 55320016,
+                    "uri": "kca://work/amzn1.gr.work.v1.3RBT0zh6SSC4kwj0r-2Icw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1936137527
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Jul 27 09:31:21 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1726711058,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jul 27 09:31:20 -0700 2017",
+            "date_updated": "Thu Jul 27 09:31:21 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2073732236",
+            "link": "https://www.goodreads.com/review/show/2073732236",
+            "owned": 0
+        }
+    }
+}

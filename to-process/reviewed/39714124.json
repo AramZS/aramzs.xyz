@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3286318540,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 39714124
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 703
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZjuMcQEpQKqhKe_Ch9L3Dg",
+                "title": "Empire of Sand (The Books of Ambha, #1)",
+                "title_without_series": "Empire of Sand",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572543111l/39714124._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572543111l/39714124._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/39714124-empire-of-sand",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.86,
+                "ratings_count": 4265,
+                "description": "<b>A nobleman’s daughter with magic in her blood. An empire built on the dreams of enslaved gods. <i>Empire of Sand</i> is Tasha Suri’s captivating, Mughal India-inspired debut fantasy.</b><br /><br />The Amrithi are outcasts; nomads descended of desert spirits, they are coveted and persecuted throughout the Empire for the power in their blood. Mehr is the illegitimate daughter of an imperial governor and an exiled Amrithi mother she can barely remember, but whose face and magic she has inherited.<br /><br />When Mehr’s power comes to the attention of the Emperor’s most feared mystics, she must use every ounce of will, subtlety, and power she possesses to resist their cruel agenda.<br /><br />Should she fail, the gods themselves may awaken seeking vengeance…<br /><br /><b>Empire of Sand is a lush, dazzling fantasy novel perfect for readers of <i>City of Brass</i> and <i>The Wrath &amp; the Dawn.</i></b>",
+                "authors": {
+                    "author": {
+                        "id": 17718309,
+                        "name": "Tasha Suri",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1519360213p5/17718309.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1519360213p2/17718309.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17718309.Tasha_Suri",
+                        "average_rating": 3.9,
+                        "ratings_count": 5081,
+                        "text_reviews_count": 1124
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 60212354,
+                    "uri": "kca://work/amzn1.gr.work.v1.lepMhMfHi9BOoM9109C3kw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3534721022
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Apr 17 13:50:21 -0700 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2927900321,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Apr 17 13:50:20 -0700 2020",
+            "date_updated": "Fri Apr 17 13:50:21 -0700 2020",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3286318540",
+            "link": "https://www.goodreads.com/review/show/3286318540",
+            "owned": 0
+        }
+    }
+}

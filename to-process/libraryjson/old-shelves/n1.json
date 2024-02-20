@@ -1,0 +1,59 @@
+{
+    "name": "n+1",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "MFA vs NYC: The Two Cultures of American Fiction",
+            "id": "20762587",
+            "author": "Chad Harbach",
+            "date_finished": 1439856000000,
+            "notes": [],
+            "date_started": 1439959883000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of MFA vs NYC: The Two Cultures of American Fiction: Rating - 4/5",
+                    "date": 1439856000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/20762587",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "n+1",
+            "tags": [
+                "Kindle Edition",
+                "n+1",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "20762587",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

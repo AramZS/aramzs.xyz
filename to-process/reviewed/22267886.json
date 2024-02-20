@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960339961,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22267886
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.E1en8WFSB5Jo6TG6GBmgjQ",
+                "title": "Should I Go to Grad School?: 41 Answers to An Impossible Question",
+                "title_without_series": "Should I Go to Grad School?: 41 Answers to An Impossible Question",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22267886-should-i-go-to-grad-school",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.51,
+                "ratings_count": 65,
+                "description": "The decision to attend graduate school is easy for future doctors and lawyers: they must have a professional degree to get started. But for young creative workers, aspiring artists, and intellectuals, grad school is an existential fork in the road. An M.F.A. or a humanities Ph.D. can give you time to invest in studying something you love among like-minded intellectuals and qualify you to teach a new generation of students; but it can also uproot you geographically, expose you to backstabbing competitors, and saddle you with debt. Given the current job market, is grad school really worth it�financially, professionally, and emotionally?<br /><br />In <i>Should I Go to Grad School?</i>, a wide range of people who lead intellectually and creatively interesting lives�sculptors and philosophers, activists and poets, a cocktail designer and a movie star�tell their own stories about choosing to go to grad school�or steering clear�and what that decision has meant in their lives. They give us an inside look at what grad school today is really like, and share the wisdom they wish they could have had going in. They reflect on their divergent paths to success, and muse about the path not taken. <br /><br />With contributors including David Orr, James Franco, Simon Critchley, Terry Castle, Sheila Heti, and many more, <i>Should I Go to Grad School?</i> is a must read for anyone seriously considering that titular question.",
+                "authors": {
+                    "author": {
+                        "id": 7306091,
+                        "name": "Jessica Loudis",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7306091.Jessica_Loudis",
+                        "average_rating": 3.51,
+                        "ratings_count": 65,
+                        "text_reviews_count": 18
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 26340860,
+                    "uri": "kca://work/amzn1.gr.work.v1.EMxuCE63Wl5xE_eEscZwNA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452279739
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:03:48 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710708810,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:03:48 -0700 2014",
+            "date_updated": "Sat Jan 09 06:47:50 -0800 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960339961",
+            "link": "https://www.goodreads.com/review/show/960339961",
+            "owned": 0
+        }
+    }
+}

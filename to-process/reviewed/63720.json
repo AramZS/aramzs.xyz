@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 702951476,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 63720
+                },
+                "isbn": 552154229,
+                "isbn13": 9780552154222,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 847
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.gBZXl4NuSgTFApB_FsHLjQ",
+                "title": "The Fifth Elephant (Discworld, #24; City Watch, #5)",
+                "title_without_series": "The Fifth Elephant",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327961702l/63720._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327961702l/63720._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/63720.The_Fifth_Elephant",
+                "num_pages": 464,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Corgi",
+                "publication_day": 6,
+                "publication_year": 2008,
+                "publication_month": 11,
+                "average_rating": 4.27,
+                "ratings_count": 58725,
+                "description": "They say that diplomacy is a gentle art. That its finest practitioners are subtle, sophisticated individuals for whom nuance and subtext are meat and drink. And that mastering it is a lifetime's work. But you <i>do</i> need a certain inclination in that direction. It's not something you can just pick up on the job.<br /><br />Which is a shame if you find yourself dropped unaccountably into a position of some significant diplomatic responsibility. If you don't really <i>do</i> diplomacy or haven't been to school with the right foreign bigwigs or aren't even sure whether a nod is as good as a wink to anyone, sighted or otherwise, then things are likely to go wrong. It's just a question of how badly...",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 819126,
+                    "uri": "kca://work/amzn1.gr.work.v1.oIkWeI1K-JrA4yx_1fMqvg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 132190076
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Aug 24 15:27:19 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Sep 01 00:00:00 -0700 2013",
+            "date_added": "Sat Aug 24 15:27:19 -0700 2013",
+            "date_updated": "Wed Jan 22 13:19:25 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/702951476",
+            "link": "https://www.goodreads.com/review/show/702951476",
+            "owned": 0
+        }
+    }
+}

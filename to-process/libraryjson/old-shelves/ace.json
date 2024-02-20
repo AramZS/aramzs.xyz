@@ -1,0 +1,774 @@
+{
+    "name": "Ace",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Battle Ground (The Dresden Files, #17)",
+            "id": "23106013",
+            "author": "Jim Butcher",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1501173188000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/23106013",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Hardcover",
+                "Ace",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0593199308",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780593199305",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "23106013",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Brief Cases (The Dresden Files, #15.1)",
+            "id": "12183815",
+            "author": "Jim Butcher",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1501173181000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12183815",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "ebook",
+                "Ace",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0451492129",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780451492128",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "12183815",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Stranger in a Strange Land",
+            "id": "350",
+            "author": "Robert A. Heinlein",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1417711349000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Stranger in a Strange Land: Rating - 5/5",
+                    "date": 1417711349000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/350",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Paperback",
+                "Ace",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0441788386",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780441788385",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "350",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Apocalypse Codex (Laundry Files, #4)",
+            "id": "12393566",
+            "author": "Charles Stross",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402147269000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Apocalypse Codex (Laundry Files, #4): Rating - 5/5",
+                    "date": 1402147269000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12393566",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Kindle Edition",
+                "Ace",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "12393566",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Rhesus Chart (Laundry Files, #5)",
+            "id": "18902300",
+            "author": "Charles Stross",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146298000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18902300",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Kindle Edition",
+                "Ace",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18902300",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Ombria in Shadow",
+            "id": "781124",
+            "author": "Patricia A. McKillip",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360252933000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/781124",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Paperback",
+                "Ace",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0441010164",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780441010165",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "781124",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Control Point (Shadow Ops, #1)",
+            "id": "11783484",
+            "author": "Myke Cole",
+            "date_finished": 1337385600000,
+            "notes": [],
+            "date_started": 1337547357000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Control Point (Shadow Ops, #1): Rating - 3/5",
+                    "date": 1337385600000,
+                    "type": "long",
+                    "content": "The book has a good foundation, a well established universe that makes sense and works well. Sadly, this is explored through a protagonist who is badly thought-out, unbelievably contradictory, and poorly developed. If you like military fiction and like urban fantasy, you'll probably like this book, but it has the potential to be a lot more. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11783484",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Mass Market Paperback",
+                "Ace",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1937007243",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781937007249",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "11783484",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Dream Park (Dream Park, #1)",
+            "id": "357922",
+            "author": "Larry Niven, Steven Barnes",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1316206369000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Dream Park (Dream Park, #1): Rating - 3/5",
+                    "date": 1316206369000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/357922",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Paperback",
+                "Ace",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0441167306",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780441167302",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "357922",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Atrocity Archives (Laundry Files, #1)",
+            "id": "101869",
+            "author": "Charles Stross",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1299165554000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Atrocity Archives (Laundry Files, #1): Rating - 3/5",
+                    "date": 1299165554000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/101869",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Paperback",
+                "Ace",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0441013651",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780441013654",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "101869",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Color of Distance",
+            "id": "466371",
+            "author": "Amy Thomson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1265248584000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Color of Distance: Rating - 5/5",
+                    "date": 1265248584000,
+                    "type": "short",
+                    "content": "An excellent science fiction novel. If you are a SF reader or writer you need to pick up this book. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/466371",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Mass Market Paperback",
+                "Ace",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0441006329",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780441006328",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "466371",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Apocalypse Codex (Laundry Files, #4)",
+            "id": 12393566,
+            "author": "Charles Stross",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12393566",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Kindle Edition",
+                "Ace",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 12393566,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Atrocity Archives (Laundry Files, #1)",
+            "id": 101869,
+            "author": "Charles Stross",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/101869",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Paperback",
+                "Ace",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 101869,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Stranger in a Strange Land",
+            "id": 350,
+            "author": "Robert A. Heinlein",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/350",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Paperback",
+                "Ace",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 350,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Color of Distance",
+            "id": 466371,
+            "author": "Amy Thomson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/466371",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Mass Market Paperback",
+                "Ace",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 466371,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Dream Park (Dream Park, #1)",
+            "id": 357922,
+            "author": "Larry Niven",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/357922",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Paperback",
+                "Ace",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 357922,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Control Point (Shadow Ops, #1)",
+            "id": 11783484,
+            "author": "Myke Cole",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11783484",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace",
+            "tags": [
+                "Mass Market Paperback",
+                "Ace",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 11783484,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

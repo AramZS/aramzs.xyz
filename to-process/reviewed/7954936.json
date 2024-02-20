@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1367819598,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7954936
+                },
+                "isbn": 670022152,
+                "isbn13": 9780670022151,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 283
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.pmoJgPNx-JatQHSCJdalGA",
+                "title": "What Technology Wants",
+                "title_without_series": "What Technology Wants",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7954936-what-technology-wants",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.71,
+                "ratings_count": 6847,
+                "description": "\"Verbalizing visceral feelings about technology, whether attraction or repulsion, Kelly explores the “technium,” his term for the globalized, interconnected stage of technological development. Arguing that the processes creating the technium are akin to those of biological evolution, Kelly devotes the opening sections of his exposition to that analogy, maintaining that the technium exhibits a similar tendency toward self-organizing complexity. Having defined the technium, Kelly addresses its discontents, as expressed by the Unabomber (although Kelly admits to trepidation in taking seriously the antitechnology screeds of a murderer) and then as lived by the allegedly technophobic Amish. From his observations and discussions with some Amish people, Kelly extracts some precepts of their attitudes toward gadgets, suggesting folk in the secular world can benefit from the Amish approach of treating tools as servants of self and society rather than as out-of-control masters. Exploring ramifications of technology on human welfare and achievement, Kelly arrives at an optimistic outlook that will interest many, coming, as it does, from the former editor of Wired magazine.\"<br /><br />Gilbert Taylor, Booklist",
+                "authors": {
+                    "author": {
+                        "id": 27388,
+                        "name": "Kevin Kelly",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1282952717p5/27388.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1282952717p2/27388.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/27388.Kevin_Kelly",
+                        "average_rating": 3.91,
+                        "ratings_count": 18550,
+                        "text_reviews_count": 1468
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 11619217,
+                    "uri": "kca://work/amzn1.gr.work.v1.aTCE71TGUuc9z9AIt_f5WQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 974783550
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 18 20:42:45 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1063479495,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Aug 18 20:42:45 -0700 2015",
+            "date_updated": "Tue Aug 18 20:42:45 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1367819598",
+            "link": "https://www.goodreads.com/review/show/1367819598",
+            "owned": 0
+        }
+    }
+}

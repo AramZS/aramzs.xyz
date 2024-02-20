@@ -1,0 +1,101 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 240677983,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 40445
+                },
+                "isbn": 345457692,
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3223
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.HvtHztIe4zEe_doZpvVWpw",
+                "title": "Altered Carbon (Takeshi Kovacs, #1)",
+                "title_without_series": "Altered Carbon",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387128955l/40445._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387128955l/40445._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/40445.Altered_Carbon",
+                "num_pages": 526,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Del Rey / Ballantine Books",
+                "publication_day": 28,
+                "publication_year": 2006,
+                "publication_month": 2,
+                "average_rating": 4.05,
+                "ratings_count": 83279,
+                "description": "It's the twenty-fifth century, and advances in technology have redefined life itself. A person's consciousness can now be stored in the brain and downloaded into a new body (or \"sleeve\"), making death nothing more than a minor blip on a screen. Onetime U.N. Envoy Takeshi Kovacs has been killed before, but his last death was particularly painful. Resleeved into a body in Bay City (formerly San Francisco), Kovacs is thrown into the dark heart of a shady, far-reaching conspiracy that is vicious even by the standards of a society that treats existence as something that can be bought and sold. For Kovacs, the shell that blew a hole in his chest was only the beginning.<br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 16496,
+                        "name": "Richard K. Morgan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1175224722p5/16496.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1175224722p2/16496.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16496.Richard_K_Morgan",
+                        "average_rating": 3.98,
+                        "ratings_count": 186130,
+                        "text_reviews_count": 11521
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 2095852,
+                    "uri": "kca://work/amzn1.gr.work.v1.8RvYJGh9drF_jBYZpaO2CA"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 28 11:10:35 -0800 2011",
+            "date_updated": "Mon Nov 28 11:10:35 -0800 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/240677983",
+            "link": "https://www.goodreads.com/review/show/240677983",
+            "owned": 0
+        }
+    }
+}

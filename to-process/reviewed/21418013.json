@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1099090433,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 21418013
+                },
+                "isbn": 765375869,
+                "isbn13": 9780765375865,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4623
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.1e9r2UlKpJoJWWC6IO_k5w",
+                "title": "Lock In (Lock In, #1)",
+                "title_without_series": "Lock In",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438701397l/21418013._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438701397l/21418013._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/21418013-lock-in",
+                "num_pages": 336,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 26,
+                "publication_year": 2014,
+                "publication_month": 8,
+                "average_rating": 3.89,
+                "ratings_count": 52130,
+                "description": "Not too long from today, a new, highly contagious virus makes its way across the globe. Most who get sick experience nothing worse than flu, fever and headaches. But for the unlucky one percent - and nearly five million souls in the United States alone - the disease causes \"Lock In\": Victims fully awake and aware, but unable to move or respond to stimulus. The disease affects young, old, rich, poor, people of every color and creed. The world changes to meet the challenge.<br /><br />A quarter of a century later, in a world shaped by what's now known as \"Haden's syndrome,\" rookie FBI agent Chris Shane is paired with veteran agent Leslie Vann. The two of them are assigned what appears to be a Haden-related murder at the Watergate Hotel, with a suspect who is an \"integrator\" - someone who can let the locked in borrow their bodies for a time. If the Integrator was carrying a Haden client, then naming the suspect for the murder becomes that much more complicated.<br /><br />But \"complicated\" doesn't begin to describe it. As Shane and Vann began to unravel the threads of the murder, it becomes clear that the real mystery - and the real crime - is bigger than anyone could have imagined. The world of the locked in is changing, and with the change comes opportunities that the ambitious will seize at any cost. The investigation that began as a murder case takes Shane and Vann from the halls of corporate power to the virtual spaces of the locked in, and to the very heart of an emerging, surprising new human culture. It's nothing you could have expected.",
+                "authors": {
+                    "author": {
+                        "id": 4763,
+                        "name": "John Scalzi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+                        "average_rating": 4.03,
+                        "ratings_count": 712024,
+                        "text_reviews_count": 57344
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 26115712,
+                    "uri": "kca://work/amzn1.gr.work.v1._s_agMIyO23goWIrfYuTJA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 628300982
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 06 09:27:21 -0800 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 06 09:27:20 -0800 2014",
+            "date_updated": "Thu Nov 06 09:27:20 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1099090433",
+            "link": "https://www.goodreads.com/review/show/1099090433",
+            "owned": 0
+        }
+    }
+}

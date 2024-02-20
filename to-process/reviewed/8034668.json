@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 153153069,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8034668
+                },
+                "isbn": 1936070669,
+                "isbn13": 9781936070664,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 17
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.iiSU6KMRyTnK_ZfY0q4HzA",
+                "title": "Copenhagen Noir",
+                "title_without_series": "Copenhagen Noir",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328692857l/8034668._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328692857l/8034668._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8034668-copenhagen-noir",
+                "num_pages": 256,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Akashic Books",
+                "publication_day": 7,
+                "publication_year": 2010,
+                "publication_month": 12,
+                "average_rating": 2.79,
+                "ratings_count": 84,
+                "description": "\"The latest entry in the publisher's series (41 and counting) proves the resilience of, and market for, these locale noirs. Editor Michaëlis, a Danish book critic, is both scholarly and insightful in the introduction and outlines how the stories reflect the greed and ennui of modern Denmark in contrast to the Danish idyll depicted in tourist brochures . . . Although some stories veer from noir orthodoxy, there are fine examples of lyrical writing, noir sensibilities, and insight into the current Danish psyche. Overall, a very impressive anthology.\"<br />--<b>\n  <i>Library Journal</i>\n</b><br /><br />\"The indefatigable noir series of anthologies (<i>Orange County Noir, Trinidad Noir, Brooklyn Noir 3</i>, etc.) focuses in its 43rd volume on the home of Hans Christian Andersen . . . Based on this collection, Copenhagen may be a great place to visit, but nobody seems to live there, at least not well or long.\"<br />--<b>\n  <i>Kirkus Reviews</i>\n</b><br /><br />\"Fans used to the watered-down noir now prevalent in America will notice immediately the much harder edge of these stories, which are much closer to the noir of the 1940s and '50s.\"<br />--<b>\n  <i>Booklist</i>\n</b><br /><br />\"[This] volume has grim, uncomfortable power.\"<br />--<b>\n  <i>Publishers Weekly</i>\n</b><br /><br />Joining Rome, Paris, Istanbul, London, and Dublin as European hosts for the Akashic Noir series, <i>Copenhagen Noir</i> features brand-new stories from a top-notch crew of Danish writers, with several Swedish and Norwegian writers thrown into the mix. This volume definitively reveals why Scandinavian crime fiction has come to be so popular across the world.<br /><br />Includes brand-new stories by: Naja Marie Aidt, Jonas T. Bengtsson, Helle Helle, Christian Dorph and Simon Pasternak, Susanne Staun, Lene Kaaberbøl and Agnete Friis, Klaus Rifbjerg, Gretelise Holm, Georg Ursin, Kristian Lundberg, Kristina Stoltz, Seyit Öztürk, Benn Q. Holm, and Gunnar Staalesen.<br /><br /><b>Bo Tao Michaëlis</b> is a book critic and editor living in Copenhagen, Denmark.",
+                "authors": {
+                    "author": {
+                        "id": 3482475,
+                        "name": "Bo Tao Michaelis",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3482475.Bo_Tao_Michaelis",
+                        "average_rating": 3.08,
+                        "ratings_count": 127,
+                        "text_reviews_count": 22
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 12647242,
+                    "uri": "kca://work/amzn1.gr.work.v1.WFSt-Lf1IN2O7lVL9_zuMA"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 95064786,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Mar 09 04:57:23 -0800 2011",
+            "date_updated": "Wed Mar 09 04:57:23 -0800 2011",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/153153069",
+            "link": "https://www.goodreads.com/review/show/153153069",
+            "owned": 0
+        }
+    }
+}

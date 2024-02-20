@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333636145,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23168830
+                },
+                "isbn": 765379406,
+                "isbn13": 9780765379405,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 271
+                },
+                "uri": "kca://book/amzn1.gr.book.v1._-8Sneuf75raZ68s9vxZDA",
+                "title": "Last First Snow (Craft Sequence, #4)",
+                "title_without_series": "Last First Snow",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411416296l/23168830._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411416296l/23168830._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23168830-last-first-snow",
+                "num_pages": 384,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 14,
+                "publication_year": 2015,
+                "publication_month": 7,
+                "average_rating": 4.02,
+                "ratings_count": 3076,
+                "description": "The fourth novel set in the compellingly modern fantasy world of the Craft Sequence <br /><br />Forty years after the God Wars, Dresediel Lex bears the scars of liberation—especially in the Skittersill, a poor district still bound by the fallen gods' decaying edicts. As long as the gods' wards last, they strangle development; when they fail, demons will be loosed upon the city. The King in Red hires Elayne Kevarian of the Craft firm Kelethres, Albrecht, and Ao to fix the wards, but the Skittersill's people have their own ideas. A protest rises against Elayne's work, led by Temoc, a warrior-priest turned community organizer who wants to build a peaceful future for his city, his wife, and his young son.<br /><br />As Elayne drags Temoc and the King in Red to the bargaining table, old wounds reopen, old gods stir in their graves, civil blood breaks to new mutiny, and profiteers circle in the desert sky. Elayne and Temoc must fight conspiracy, dark magic, and their own demons to save the peace—or failing that, to save as many people as they can.",
+                "authors": {
+                    "author": {
+                        "id": 3405346,
+                        "name": "Max Gladstone",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440009008p5/3405346.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440009008p2/3405346.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3405346.Max_Gladstone",
+                        "average_rating": 3.99,
+                        "ratings_count": 63809,
+                        "text_reviews_count": 11046
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 42713969,
+                    "uri": "kca://work/amzn1.gr.work.v1.N51vsMeFJ8WS42kJ9wQfPQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3435524821
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Feb 29 09:34:15 -0800 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2274328880
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Mar 20 05:24:35 -0700 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Wed Jan 01 00:00:00 -0800 2020",
+            "read_at": "Fri Jan 10 00:00:00 -0800 2020",
+            "date_added": "Tue Mar 20 05:24:35 -0700 2018",
+            "date_updated": "Sat Feb 29 09:35:31 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333636145",
+            "link": "https://www.goodreads.com/review/show/2333636145",
+            "owned": 0
+        }
+    }
+}

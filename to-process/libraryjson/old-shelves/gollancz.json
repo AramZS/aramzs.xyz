@@ -1,0 +1,51 @@
+{
+    "name": "Gollancz  ",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Flow My Tears, the Policeman Said",
+            "id": "22584",
+            "author": "Philip K. Dick",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1299675452000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22584",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gollancz  ",
+            "tags": [
+                "Paperback",
+                "Gollancz  ",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1857983416",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781857983418",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "22584",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

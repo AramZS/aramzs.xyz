@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1367819657,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 36086
+                },
+                "isbn": 1594489254,
+                "isbn13": 9781594489259,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2986
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.0_Beru33X1p72lI9zTxHtQ",
+                "title": "The Ghost Map: The Story of London's Most Terrifying Epidemic—and How It Changed Science, Cities, and the Modern World",
+                "title_without_series": "The Ghost Map: The Story of London's Most Terrifying Epidemic—and How It Changed Science, Cities, and the Modern World",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/36086.The_Ghost_Map",
+                "num_pages": 299,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Riverhead Books",
+                "publication_day": 1,
+                "publication_year": 2006,
+                "publication_month": 11,
+                "average_rating": 3.9,
+                "ratings_count": 37579,
+                "description": "From Steven Johnson, the dynamic thinker routinely compared to James Gleick, Dava Sobel, and Malcolm Gladwell, <i>The Ghost Map</i> is a riveting page-turner about a real-life historical hero, Dr. John Snow. It's the summer of 1854, and London is just emerging as one of the first modern cities in the world. But lacking the infrastructure—garbage removal, clean water, sewers—necessary to support its rapidly expanding population, the city has become the perfect breeding ground for a terrifying disease no one knows how to cure. As the cholera outbreak takes hold, a physician and a local curate are spurred to action—and ultimately solve the most pressing medical riddle of their time. In a triumph of multidisciplinary thinking, Johnson illuminates the intertwined histories and inter-connectedness of the spread of disease, contagion theory, the rise of cities, and the nature of scientific inquiry, offering both a riveting history and a powerful explanation of how it has shaped the world we live in.",
+                "authors": {
+                    "author": {
+                        "id": 1563,
+                        "name": "Steven Johnson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1476976800p5/1563.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1476976800p2/1563.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1563.Steven_Johnson",
+                        "average_rating": 3.91,
+                        "ratings_count": 80913,
+                        "text_reviews_count": 7532
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 1008989,
+                    "uri": "kca://work/amzn1.gr.work.v1.NdVohGalAqefjJ5Lgt4g1Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 974783616
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 18 20:42:50 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1063479564,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Aug 18 20:42:50 -0700 2015",
+            "date_updated": "Tue Aug 18 20:42:50 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1367819657",
+            "link": "https://www.goodreads.com/review/show/1367819657",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 149168211,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 558882
+                },
+                "isbn": 671013963,
+                "isbn13": 9780671013967,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 40
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.kzUFyT04gEbL-if3nfAMZw",
+                "title": "Into the Void (Star Trek: New Frontier, #2)",
+                "title_without_series": "Into the Void",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320895645l/558882._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320895645l/558882._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/558882.Into_the_Void",
+                "num_pages": 151,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": {},
+                "publication_year": 1997,
+                "publication_month": 7,
+                "average_rating": 3.86,
+                "ratings_count": 1244,
+                "description": "Roll Call: The Crew of the U.S.S. Excalibur:<br />Captain Mackenzie Calhoun: An unorthodox, decisive young captain who loves his crew and his ship, and loves testing their limits even more.<br /><br />Commander Shelby: A woman of strong opinions and strong values, Shelby never hesitated to tell her captains when she thought they were wrong, and Mackenzie Calhoun won't be any exception.<br /><br />Burgoyne 172: The chief engineer of the Excalibur, with the decisiveness of Calhoun, the strength of Shelby, and the gender of both. Burgoyne is a Hermat, and when s/he sets his/her sights on you, s/he isn't an easy...person...to refuse.<br /><br />As the Thallonian Empire succumbs to violence and insurrection, the U.S.S. Excalibur prepares to launch on her humanitarian mission of mercy. But her departure is destined to be a memorable one, as Calhoun contends with an unexpected stowaway, a stormy relationship with his crew, and -- light-years away -- frightened refugees aboard a dying ship.",
+                "authors": {
+                    "author": {
+                        "id": 13681,
+                        "name": "Peter David",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p5/13681.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p2/13681.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13681.Peter_David",
+                        "average_rating": 4.02,
+                        "ratings_count": 297992,
+                        "text_reviews_count": 13707
+                    }
+                },
+                "published": 1997,
+                "work": {
+                    "id": 546058,
+                    "uri": "kca://work/amzn1.gr.work.v1.Lp_RVv_rAZtwSt0d7XrteA"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Feb 19 06:07:40 -0800 2011",
+            "date_updated": "Sat Feb 19 06:07:40 -0800 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/149168211",
+            "link": "https://www.goodreads.com/review/show/149168211",
+            "owned": 0
+        }
+    }
+}

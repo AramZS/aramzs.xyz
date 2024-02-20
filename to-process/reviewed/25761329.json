@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785918312,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25761329
+                },
+                "isbn": 1608868036,
+                "isbn13": 9781608868032,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1139
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.JWBOqzG83_bn4OVFd0F73g",
+                "title": "A Terrible Plan (Lumberjanes, Vol. 3)",
+                "title_without_series": "A Terrible Plan",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445630715l/25761329._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445630715l/25761329._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25761329-a-terrible-plan",
+                "num_pages": 112,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "BOOM! Box",
+                "publication_day": 5,
+                "publication_year": 2016,
+                "publication_month": 4,
+                "average_rating": 4.06,
+                "ratings_count": 14526,
+                "description": "IF YOU GOT IT, HAUNT IT!<br /><br />Trying to take advantage of the first quiet day at camp in a while, Mal and Molly's date takes a bizarre turn with the appearance of the Bear Woman! Back at camp, Jo, April, and Ripley must stay on their toes as they try and earn every badge possible, which ends up being a lot harder than any of them ever planned.<br /><br />This <i>New York Times</i> bestselling series continues with <i>Lumberjanes</i> #9, \"If You Got It, Haunt It Badge;\" #10, \"Abscence Make the Heart Grow Fondant Badge;\" #11, \"Go Ball-istic Badge;\" and #12, \"Oldie but Goodie Badge.\"",
+                "authors": {
+                    "author": {
+                        "id": 6887314,
+                        "name": "Noelle Stevenson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1407089695p5/6887314.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1407089695p2/6887314.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6887314.Noelle_Stevenson",
+                        "average_rating": 4.09,
+                        "ratings_count": 260592,
+                        "text_reviews_count": 26093
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 46670296,
+                    "uri": "kca://work/amzn1.gr.work.v1.rJUeSQDUGuDTEMd3aiw7ug"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546323139
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:10:33 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813193773,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Oct 14 00:00:00 -0700 2016",
+            "date_added": "Sun Oct 16 07:10:32 -0700 2016",
+            "date_updated": "Mon Oct 23 16:29:42 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785918312",
+            "link": "https://www.goodreads.com/review/show/1785918312",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Avon Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Watership Down (Watership Down, #1)",
+            "id": "76620",
+            "author": "Richard  Adams",
+            "date_finished": 883612800000,
+            "notes": [],
+            "date_started": 1351350855000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Watership Down (Watership Down, #1): Rating - 3/5",
+                    "date": 883612800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/76620",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Avon Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Avon Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "038039586X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780380395866",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "76620",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Watership Down (Watership Down, #1)",
+            "id": 76620,
+            "author": "Richard  Adams",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/76620",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Avon Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Avon Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "038039586X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 76620,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

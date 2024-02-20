@@ -1,0 +1,51 @@
+{
+    "name": "Graphics",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Visual Display of Quantitative Information",
+            "id": "17744",
+            "author": "Edward R. Tufte",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1572574332000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/17744",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Graphics",
+            "tags": [
+                "Hardcover",
+                "Graphics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0961392142",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780961392147",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "17744",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

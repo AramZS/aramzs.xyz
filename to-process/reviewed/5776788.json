@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1297474750,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 5776788
+                },
+                "isbn": 61714305,
+                "isbn13": 9780061714306,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2363
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.VtdtrE29szvR4JCJomTmLA",
+                "title": "Sandman Slim (Sandman Slim, #1)",
+                "title_without_series": "Sandman Slim",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311727590l/5776788._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311727590l/5776788._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/5776788-sandman-slim",
+                "num_pages": 388,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Harper Voyager",
+                "publication_day": 21,
+                "publication_year": 2009,
+                "publication_month": 7,
+                "average_rating": 3.94,
+                "ratings_count": 32462,
+                "description": "Supernatural fantasy has a new antihero in Sandman Slim, star of this gripping, gritty new series by Richard Kadrey.<br /><br />Life sucks and then you die. Or, if you’re James Stark, you spend eleven years in Hell as a hitman before finally escaping, only to land back in the hell-on-earth that is Los Angeles.<br /><br />Now Stark’s back, and ready for revenge. And absolution, and maybe even love. But when his first stop saddles him with an abusive talking head, Stark discovers that the road to absolution and revenge is much longer than you’d expect, and both Heaven and Hell have their own ideas for his future.<br /><br />Resurrection sucks. Saving the world is worse.<br /><br />Darkly twisted, irreverent, and completely hilarious, Sandman Slim is the breakthrough novel by an acclaimed author.",
+                "authors": {
+                    "author": {
+                        "id": 37557,
+                        "name": "Richard Kadrey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1252945001p5/37557.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1252945001p2/37557.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37557.Richard_Kadrey",
+                        "average_rating": 3.99,
+                        "ratings_count": 130478,
+                        "text_reviews_count": 8935
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 5948537,
+                    "uri": "kca://work/amzn1.gr.work.v1.NHWzksE2BNksI09TmMpc3g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 883206324
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Jun 02 21:37:14 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Tue Jun 02 21:37:13 -0700 2015",
+            "date_updated": "Thu Dec 31 07:42:45 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1297474750",
+            "link": "https://www.goodreads.com/review/show/1297474750",
+            "owned": 0
+        }
+    }
+}

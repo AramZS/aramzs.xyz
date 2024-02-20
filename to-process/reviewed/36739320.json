@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2724377076,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 36739320
+                },
+                "isbn": 735210934,
+                "isbn13": 9780735210936,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 772
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.oejS4Iz2aD0w86Oyuel-WQ",
+                "title": "Because Internet: Understanding the New Rules of Language",
+                "title_without_series": "Because Internet: Understanding the New Rules of Language",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547222587l/36739320._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547222587l/36739320._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/36739320-because-internet",
+                "num_pages": 327,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Riverhead Books",
+                "publication_day": 23,
+                "publication_year": 2019,
+                "publication_month": 7,
+                "average_rating": 4.07,
+                "ratings_count": 4862,
+                "description": "<b> A linguistically informed look at how our digital world is transforming the English language. </b><br /><br />Language is humanity's most spectacular open-source project, and the internet is making our language change faster and in more interesting ways than ever before. Internet conversations are structured by the shape of our apps and platforms, from the grammar of status updates to the protocols of comments and @replies. Linguistically inventive online communities spread new slang and jargon with dizzying speed. What's more, social media is a vast laboratory of unedited, unfiltered words where we can watch language evolve in real time.<br /><br />Even the most absurd-looking slang has genuine patterns behind it. Internet linguist Gretchen McCulloch explores the deep forces that shape human language and influence the way we communicate with one another. She explains how your first social internet experience influences whether you prefer \"LOL\" or \"lol,\" why ~sparkly tildes~ succeeded where centuries of proposals for irony punctuation had failed, what emoji have in common with physical gestures, and how the artfully disarrayed language of animal memes like lolcats and doggo made them more likely to spread.<br /><br /><em>Because Internet</em> is essential reading for anyone who's ever puzzled over how to punctuate a text message or wondered where memes come from. It's the perfect book for understanding how the internet is changing the English language, why that's a good thing, and what our online interactions reveal about who we are.",
+                "authors": {
+                    "author": {
+                        "id": 17391188,
+                        "name": "Gretchen McCulloch",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1550772888p5/17391188.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1550772888p2/17391188.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17391188.Gretchen_McCulloch",
+                        "average_rating": 4.07,
+                        "ratings_count": 4862,
+                        "text_reviews_count": 923
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 58531406,
+                    "uri": "kca://work/amzn1.gr.work.v1.nELvrV9KDKKvS3obpTOO6w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2790362311
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Feb 21 10:43:29 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2368904429,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 21 10:43:28 -0800 2019",
+            "date_updated": "Thu Feb 21 10:43:29 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2724377076",
+            "link": "https://www.goodreads.com/review/show/2724377076",
+            "owned": 0
+        }
+    }
+}

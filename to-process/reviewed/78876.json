@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 688626117,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 78876
+                },
+                "isbn": 575058080,
+                "isbn13": 9780575058088,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 795
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8aiZBiEWourqlR0dOcDAuw",
+                "title": "Maskerade (Discworld, #18; Witches #5)",
+                "title_without_series": "Maskerade",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/78876.Maskerade",
+                "num_pages": 285,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Gollancz",
+                "publication_day": {},
+                "publication_year": 1995,
+                "publication_month": {},
+                "average_rating": 4.09,
+                "ratings_count": 49813,
+                "description": "The Ghost in the bone-white mask who haunts theAnkh-Morpork Opera House was always considered a benign presence -- some would even say lucky -- until he started killing people. The sudden rash of bizarre backstage deaths now threatens to mar the operatic debut of country girl Perdita X. (nee Agnes) Nitt, she of the ample body and ampler voice.<br /><br />Perdita's expected to hide in the chorus and sing arias out loud while a more petitely presentable soprano mouths the notes. But at least it's an escape from scheming Nanny Ogg and old Granny Weatherwax back home, who want her to join their witchy ranks.<br /><br />Once Granny sets her mind on something, however, it's difficult -- and often hazardous -- to dissuade her. And no opera-prowling phantom fiend is going to keep a pair of determined hags down on the farm after they've seen Ankh-Morpork.",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 1995,
+                "work": {
+                    "id": 968513,
+                    "uri": "kca://work/amzn1.gr.work.v1.Avh8MmNRc-IniyLrLfFFaw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 114359539
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Aug 07 11:35:01 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Aug 01 00:00:00 -0700 2013",
+            "date_added": "Wed Aug 07 11:35:01 -0700 2013",
+            "date_updated": "Wed Jan 22 13:22:46 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/688626117",
+            "link": "https://www.goodreads.com/review/show/688626117",
+            "owned": 0
+        }
+    }
+}

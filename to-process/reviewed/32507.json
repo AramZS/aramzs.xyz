@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 100163675,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 32507
+                },
+                "isbn": "044661162X",
+                "isbn13": 9780446611626,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 843
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.S1Na0SBh3VI-kGwB7FEnjA",
+                "title": "Chasing the Dime",
+                "title_without_series": "Chasing the Dime",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/32507.Chasing_the_Dime",
+                "num_pages": 448,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Warner Books",
+                "publication_day": 1,
+                "publication_year": 2003,
+                "publication_month": 9,
+                "average_rating": 3.96,
+                "ratings_count": 30924,
+                "description": "The phone messages waiting for Henry Pierce clearly aren't for him: \"Where is Lilly? This is her number. It's on the site.\" Pierce has just moved into a new apartment, and he's been \"chasing the dime\"--doing all it takes so his company comes out first with a scientific breakthrough worth millions. But he can't get the messages for Lilly out of his head. As Pierce tries to help a woman he has never met, he steps into a world of escorts, websites, sex, and secret passions. A world where his success and expertise mean nothing...and where he becomes the chief suspect in a murder case, trapped in the fight of his life.",
+                "authors": {
+                    "author": {
+                        "id": 12470,
+                        "name": "Michael Connelly",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1539114448p5/12470.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1539114448p2/12470.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12470.Michael_Connelly",
+                        "average_rating": 4.14,
+                        "ratings_count": 1803379,
+                        "text_reviews_count": 90694
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 2758504,
+                    "uri": "kca://work/amzn1.gr.work.v1.x1UrR-zBJRrdcRrPEdhMNA"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Apr 26 11:10:29 -0700 2010",
+            "read_at": "Wed Jul 21 08:52:46 -0700 2010",
+            "date_added": "Mon Apr 26 11:10:29 -0700 2010",
+            "date_updated": "Wed Jul 21 08:52:46 -0700 2010",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/100163675",
+            "link": "https://www.goodreads.com/review/show/100163675",
+            "owned": 0
+        }
+    }
+}

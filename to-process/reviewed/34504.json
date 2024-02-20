@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 661201272,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34504
+                },
+                "isbn": 61020664,
+                "isbn13": 9780061020667,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1964
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.egyiqxLjgdfQia90D2zJTg",
+                "title": "Wyrd Sisters (Discworld, #6; Witches #2)",
+                "title_without_series": "Wyrd Sisters",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275974472l/34504._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275974472l/34504._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34504.Wyrd_Sisters",
+                "num_pages": 265,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Hartorch",
+                "publication_day": 6,
+                "publication_year": 2001,
+                "publication_month": 2,
+                "average_rating": 4.13,
+                "ratings_count": 88406,
+                "description": "Kingdoms wobble, crowns topple and knives flash on the magical Discworld as the statutory three witches meddle in royal politics. The wyrd sisters battle against frightful odds to put the rightful king on the throne. At least, that's what they think...",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 1494222,
+                    "uri": "kca://work/amzn1.gr.work.v1.hQ2n36tvAvNFgIJ2UPnJ_A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 79909106
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 07 12:12:37 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Aug 01 00:00:00 -0700 2013",
+            "date_added": "Sun Jul 07 12:12:37 -0700 2013",
+            "date_updated": "Wed Jan 22 13:23:36 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/661201272",
+            "link": "https://www.goodreads.com/review/show/661201272",
+            "owned": 0
+        }
+    }
+}

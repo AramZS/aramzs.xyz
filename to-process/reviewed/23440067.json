@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1304800460,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23440067
+                },
+                "isbn": 1632152258,
+                "isbn13": 9781632152251,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 238
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Gkc9Lb-qINjzQ_Qvb8JD6g",
+                "title": "Lazarus, Vol. 3: Conclave",
+                "title_without_series": "Lazarus, Vol. 3: Conclave",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427718232l/23440067._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427718232l/23440067._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23440067-lazarus-vol-3",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 18,
+                "publication_year": 2015,
+                "publication_month": 3,
+                "average_rating": 4.22,
+                "ratings_count": 3838,
+                "description": "In a dystopian near-future, government is a quaint concept, resources are coveted, and possession is 100% of the law. A handful of Families rule, jealously guarding what they have and exploiting the Waste who struggle to survive in their domains. Forever Carlyle defends her family's holdings through deception and force as their protector, their Lazarus. The 16 Families have gathered together in the exclusive luxury confines of Triton One to resolve the emerging conflict between Carlyle and Hock, and they've brought their Lazari with them. While Forever's romance with the Morray Lazarus, Joacquim, continues to blossom, she finds herself not only questioning her identity, but also her loyalty to her Family and her father, Malcolm, when orders her to kill her brother, Jonah. <br /><br /><br />Collecting issues #10-15 of the critically acclaimed, New York Times bestselling series and the third story arc, \"Conclave.\"",
+                "authors": {
+                    "author": {
+                        "id": 18327,
+                        "name": "Greg Rucka",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192549912p5/18327.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192549912p2/18327.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/18327.Greg_Rucka",
+                        "average_rating": 3.99,
+                        "ratings_count": 250835,
+                        "text_reviews_count": 18704
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 43004293,
+                    "uri": "kca://work/amzn1.gr.work.v1.sxFmCANnp2gKiTOHQN_Xvw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 892739648
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 10 20:36:35 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813196093,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Wed Jun 10 20:36:34 -0700 2015",
+            "date_updated": "Mon Oct 23 16:32:47 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1304800460",
+            "link": "https://www.goodreads.com/review/show/1304800460",
+            "owned": 0
+        }
+    }
+}

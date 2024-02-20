@@ -1,0 +1,51 @@
+{
+    "name": "OUP Oxford",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "How Novels Work",
+            "id": "10349",
+            "author": "John Mullan",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213669559000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/10349",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "OUP Oxford",
+            "tags": [
+                "Hardcover",
+                "OUP Oxford",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0199281777",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780199281770",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "10349",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

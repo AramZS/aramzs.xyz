@@ -1,0 +1,202 @@
+{
+    "name": "Vintage Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Untouchable",
+            "id": "163",
+            "author": "John Banville",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1417711717000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Untouchable: Rating - 5/5",
+                    "date": 1417711717000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/163",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Vintage Books",
+            "tags": [
+                "Paperback",
+                "Vintage Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0679767479",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780679767473",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "163",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Babel-17/Empire Star",
+            "id": "145356",
+            "author": "Samuel R. Delany",
+            "date_finished": 1224115200000,
+            "notes": [],
+            "date_started": 1336019779000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Babel-17/Empire Star: Rating - 5/5",
+                    "date": 1224115200000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/145356",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Vintage Books",
+            "tags": [
+                "Paperback",
+                "Vintage Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0375706690",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780375706691",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "145356",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Babel-17/Empire Star",
+            "id": 145356,
+            "author": "Samuel R. Delany",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/145356",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Vintage Books",
+            "tags": [
+                "Paperback",
+                "Vintage Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 145356,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Untouchable",
+            "id": 163,
+            "author": "John Banville",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/163",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Vintage Books",
+            "tags": [
+                "Paperback",
+                "Vintage Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 163,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

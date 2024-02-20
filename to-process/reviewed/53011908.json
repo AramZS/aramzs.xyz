@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065303867,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 53011908
+                },
+                "isbn": 316486639,
+                "isbn13": 9780316486637,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4991
+                },
+                "uri": "kca://book/amzn1.gr.book.v3._oxANAnZ5IfZlJIi",
+                "title": "Catch and Kill: Lies, Spies, and a Conspiracy to Protect Predators",
+                "title_without_series": "Catch and Kill: Lies, Spies, and a Conspiracy to Protect Predators",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/53011908-catch-and-kill",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.5,
+                "ratings_count": 47455,
+                "description": "<p>\n  <strong>In a dramatic account of violence and espionage, Pulitzer Prize-winning investigative reporter Ronan Farrow exposes serial abusers and a cabal of powerful interests hell-bent on covering up the truth, at any cost.</strong>\n</p><br /><p>In 2017, a routine network television investigation led Ronan Farrow to a story only whispered about: one of Hollywood's most powerful producers was a predator, protected by fear, wealth, and a conspiracy of silence. As Farrow drew closer to the truth, shadowy operatives, from high-priced lawyers to elite war-hardened spies, mounted a secret campaign of intimidation, threatening his career, following his every move and weaponizing an account of abuse in his own family.</p><br /><p>All the while, Farrow and his producer faced a degree of resistance that could not be explained - until now. And a trail of clues revealed corruption and cover-ups from Hollywood, to Washington, and beyond.</p><br /><p>This is the untold story of the exotic tactics of surveillance and intimidation deployed by wealthy and connected men to threaten journalists, evade accountability and silence victims of abuse - and it's the story of the women who risked everything to expose the truth and spark a global movement.</p><br /><p>Both a spy thriller and a meticulous work of investigative journalism, <em>Catch and Kill</em> breaks devastating new stories about the rampant abuse of power - and sheds far-reaching light on investigations that shook the culture.</p>",
+                "authors": {
+                    "author": {
+                        "id": 17176042,
+                        "name": "Ronan Farrow",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17176042.Ronan_Farrow",
+                        "average_rating": 4.47,
+                        "ratings_count": 53014,
+                        "text_reviews_count": 6684
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 72177046,
+                    "uri": "kca://work/amzn1.gr.work.v2.9f56aada-9e91-4ca0-97f5-4ffc2c21a36e"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244216785
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:17:42 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712837784,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:17:41 -0800 2019",
+            "date_updated": "Tue Apr 07 01:26:34 -0700 2020",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065303867",
+            "link": "https://www.goodreads.com/review/show/3065303867",
+            "owned": 0
+        }
+    }
+}

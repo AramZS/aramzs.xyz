@@ -1,0 +1,132 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1304686357,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16219704
+                },
+                "isbn": 1118531647,
+                "isbn13": 9781118531648,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 86
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.tYPTjAhyVRuta4JCXSHs9w",
+                "title": "JavaScript and jQuery: Interactive Front-End Web Development",
+                "title_without_series": "JavaScript and jQuery: Interactive Front-End Web Development",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394412494l/16219704._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394412494l/16219704._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16219704-javascript-and-jquery",
+                "num_pages": 640,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Wiley",
+                "publication_day": 30,
+                "publication_year": 2014,
+                "publication_month": 6,
+                "average_rating": 4.33,
+                "ratings_count": 1323,
+                "description": "Learn JavaScript and jQuery a nicer way<br /><br />This full-color book adopts a visual approach to teaching JavaScript &amp; jQuery, showing you how to make web pages more interactive and interfaces more intuitive through the use of inspiring code examples, infographics, and photography. The content assumes no previous programming experience, other than knowing how to create a basic web page in HTML &amp; CSS. You'll learn how to achieve techniques seen on many popular websites (such as adding animation, tabbed panels, content sliders, form validation, interactive galleries, and sorting data)..Introduces core programming concepts in JavaScript and jQueryUses clear descriptions, inspiring examples, and easy-to-follow diagramsTeaches you how to create scripts from scratch, and understand the thousands of JavaScripts, JavaScript APIs, and jQuery plugins that are available on the webDemonstrates the latest practices in progressive enhancement, cross-browser compatibility, and when you may be better off using CSS3<br /><br />If you're looking to create more enriching web experiences and express your creativity through code, then this is the book for you.This book is also available as part of a set in hardcover - Web Design with HTML, CSS, JavaScript and jQuery, 9781119038634 - and in softcover - Web Design with HTML, CSS, JavaScript and jQuery, 9781118907443.",
+                "authors": {
+                    "author": {
+                        "id": 135171,
+                        "name": "Jon Duckett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1547423959p5/135171.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1547423959p2/135171.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/135171.Jon_Duckett",
+                        "average_rating": 4.32,
+                        "ratings_count": 6089,
+                        "text_reviews_count": 452
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 22198953,
+                    "uri": "kca://work/amzn1.gr.work.v1.1UCY81KH3i3R-QDhcD8K1Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2892297508
+                        },
+                        "old_status": "currently-reading",
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 27 06:56:57 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 892592746
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Wed Jun 10 18:15:35 -0700 2015"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2446723134,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Wed Jun 10 18:15:34 -0700 2015",
+            "read_at": {},
+            "date_added": "Wed Jun 10 18:15:34 -0700 2015",
+            "date_updated": "Sat Apr 27 06:56:57 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1304686357",
+            "link": "https://www.goodreads.com/review/show/1304686357",
+            "owned": 0
+        }
+    }
+}

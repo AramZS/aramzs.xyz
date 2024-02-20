@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2047028789,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 166433
+                },
+                "isbn": 60935723,
+                "isbn13": 9780060935726,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 221
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.OEMfJSv3C-uhP1h0KJHj7Q",
+                "title": "Empires of the Word: A Language History of the World",
+                "title_without_series": "Empires of the Word: A Language History of the World",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407712075l/166433._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407712075l/166433._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/166433.Empires_of_the_Word",
+                "num_pages": 615,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Harper Perennial",
+                "publication_day": 27,
+                "publication_year": 2006,
+                "publication_month": 6,
+                "average_rating": 4.05,
+                "ratings_count": 2453,
+                "description": "Nicholas Ostler's <em>Empires of the Word</em> is the first history of the world's great tongues, gloriously celebrating the wonder of words that binds communities together and makes possible both the living of a common history and the telling of it. From the uncanny resilience of Chinese through twenty centuries of invasions to the engaging self-regard of Greek and to the struggles that gave birth to the languages of modern Europe, these epic achievements and more are brilliantly explored, as are the fascinating failures of once \"universal\" languages. A splendid, authoritative, and remarkable work, it demonstrates how the language history of the world eloquently reveals the real character of our planet's diverse peoples and prepares us for a linguistic future full of surprises.",
+                "authors": {
+                    "author": {
+                        "id": 96776,
+                        "name": "Nicholas Ostler",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1442560092p5/96776.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1442560092p2/96776.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/96776.Nicholas_Ostler",
+                        "average_rating": 3.97,
+                        "ratings_count": 3066,
+                        "text_reviews_count": 385
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 1206382,
+                    "uri": "kca://work/amzn1.gr.work.v1.kmxNrzGI43KrsdtI8Xf9_g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1901061669
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 02 07:21:02 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1700968992,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Jul 02 07:21:02 -0700 2017",
+            "date_updated": "Sun Jul 02 07:21:02 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2047028789",
+            "link": "https://www.goodreads.com/review/show/2047028789",
+            "owned": 0
+        }
+    }
+}

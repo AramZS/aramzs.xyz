@@ -1,0 +1,140 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1991501355,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22055262
+                },
+                "isbn": 765376458,
+                "isbn13": 9780765376459,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 18239
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.27kyjy8GMCYU5CFMWIlk2Q",
+                "title": "A Darker Shade of Magic (Shades of Magic, #1)",
+                "title_without_series": "A Darker Shade of Magic",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400322851l/22055262._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400322851l/22055262._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22055262-a-darker-shade-of-magic",
+                "num_pages": 400,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 24,
+                "publication_year": 2015,
+                "publication_month": 2,
+                "average_rating": 4.09,
+                "ratings_count": 177784,
+                "description": "Kell is one of the last Antari—magicians with a rare, coveted ability to travel between parallel Londons; Red, Grey, White, and, once upon a time, Black.<br /><br />Kell was raised in Arnes—Red London—and officially serves the Maresh Empire as an ambassador, traveling between the frequent bloody regime changes in White London and the court of George III in the dullest of Londons, the one without any magic left to see.<br /><br />Unofficially, Kell is a smuggler, servicing people willing to pay for even the smallest glimpses of a world they'll never see. It's a defiant hobby with dangerous consequences, which Kell is now seeing firsthand.<br /><br />After an exchange goes awry, Kell escapes to Grey London and runs into Delilah Bard, a cut-purse with lofty aspirations. She first robs him, then saves him from a deadly enemy, and finally forces Kell to spirit her to another world for a proper adventure.<br /><br />Now perilous magic is afoot, and treachery lurks at every turn. To save all of the worlds, they'll first need to stay alive.",
+                "authors": {
+                    "author": {
+                        "id": 7168230,
+                        "name": "V.E. Schwab",
+                        "role": "pseudonym",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1511218938p5/7168230.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1511218938p2/7168230.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7168230.V_E_Schwab",
+                        "average_rating": 4.19,
+                        "ratings_count": 498382,
+                        "text_reviews_count": 75358
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 40098252,
+                    "uri": "kca://work/amzn1.gr.work.v1.08Jdp9isLgrhlqMLE9-U6g"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1994392916
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Sep 08 11:17:28 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1828115430
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri May 05 04:28:53 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 1769584560,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Sep 02 00:00:00 -0700 2017",
+            "date_added": "Fri May 05 04:28:53 -0700 2017",
+            "date_updated": "Fri Sep 08 11:17:47 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1991501355",
+            "link": "https://www.goodreads.com/review/show/1991501355",
+            "owned": 0
+        }
+    }
+}

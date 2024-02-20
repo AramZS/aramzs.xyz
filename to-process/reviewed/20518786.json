@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1552307738,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20518786
+                },
+                "isbn": 765374897,
+                "isbn13": 9780765374899,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 293
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.QqNfnYbsOrF4YDhp3Mb-3A",
+                "title": "Willful Child (Willful Child, #1)",
+                "title_without_series": "Willful Child",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418694657l/20518786._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418694657l/20518786._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20518786-willful-child",
+                "num_pages": 352,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 4,
+                "publication_year": 2014,
+                "publication_month": 11,
+                "average_rating": 3.49,
+                "ratings_count": 2167,
+                "description": "<i>These are the voyages of the starship, A.S.F. </i>Willful Child<i>. Its ongoing mission: to seek out strange new worlds on which to plant the Terran flag, to subjugate and if necessary obliterate new life life-forms, to boldly blow the...</i><br /><br />And so we join the not-terribly-bright but exceedingly cock-sure Captain Hadrian Sawback - a kind of James T Kirk crossed with 'American Dad' - and his motley crew on board the Starship Willful Child for a series of devil-may-care, near-calamitous and downright chaotic adventures through 'the infinite vastness of interstellar space'...<br /><br />The bestselling author of the acclaimed Malazan Book of the Fallen sequence has taken his life-long passion for 'Star Trek' and transformed it into a smart, inventive and hugely entertaining spoof on the whole mankind-exploring-space-for-the-good-of-all-species-but-trashing-stuff-with-a-lot-of-hi-tech-kit-along-the-way type over-blown adventure. The result is this smart. inventive, occasionally wildly OTT and often very funny novel that deftly parodies the genre while also paying fond homage to it.",
+                "authors": {
+                    "author": {
+                        "id": 31232,
+                        "name": "Steven Erikson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1219169436p5/31232.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1219169436p2/31232.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/31232.Steven_Erikson",
+                        "average_rating": 4.23,
+                        "ratings_count": 409365,
+                        "text_reviews_count": 17282
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 26112570,
+                    "uri": "kca://work/amzn1.gr.work.v1.w6xdAob2Vldqy80PH3iW4g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1242248762
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Feb 17 22:04:07 -0800 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Tue Feb 16 00:00:00 -0800 2016",
+            "read_at": "Thu Feb 18 22:08:29 -0800 2016",
+            "date_added": "Wed Feb 17 22:04:06 -0800 2016",
+            "date_updated": "Wed Feb 17 22:08:29 -0800 2016",
+            "read_count": 1,
+            "body": "This was a very very weird book. I thought there was going to be some sort of punchline, but nope.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1552307738",
+            "link": "https://www.goodreads.com/review/show/1552307738",
+            "owned": 0
+        }
+    }
+}

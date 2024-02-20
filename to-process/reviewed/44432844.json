@@ -1,0 +1,136 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999622015,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 44432844
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 130
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8n9SJEsCGWNBKQ15Hy-b9w",
+                "title": "Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It",
+                "title_without_series": "Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558916139l/44432844._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558916139l/44432844._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/44432844-ruined-by-design",
+                "num_pages": 251,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": 12,
+                "publication_year": 2019,
+                "publication_month": 4,
+                "average_rating": 4.21,
+                "ratings_count": 898,
+                "description": "The world is working exactly as designed.<br />The combustion engine which is destroying our planet’s atmosphere and rapidly making it inhospitable is working exactly as we designed it. Guns, which lead to so much death, work exactly as they’re designed to work. And every time we “improve” their design, they get better at killing. Facebook’s privacy settings, which have outed gay teens to their conservative parents, are working exactly as designed. Their “real names” iniative, which makes it easier for stalkers to re-find their victims, is working exactly as designed. Twitter’s toxicity and lack of civil discourse is working exactly as it’s designed to work.<br />The world is working exactly as designed. And it’s not working very well. Which means we need to do a better job of designing it. Design is a craft with an amazing amount of power. The power to choose. The power to influence. As designers, we need to see ourselves as gatekeepers of what we are bringing into the world, and what we choose not to bring into the world. Design is a craft with responsibility. The responsibility to help create a better world for all.<br />Design is also a craft with a lot of blood on its hands. Every cigarette ad is on us. Every gun is on us. Every ballot that a voter cannot understand is on us. Every time social network’s interface allows a stalker to find their victim, that’s on us. The monsters we unleash into the world will carry your name.<br />This book will make you see that design is a political act. What we choose to design is a political act. Who we choose to work for is a political act. Who we choose to work with is a political act. And, most importantly, the people we’ve excluded from these decisions is the biggest (and stupidest) political act we’ve made as a society.<br />If you’re a designer, this book might make you angry. It should make you angry. But it will also give you the tools you need to make better decisions. You will learn how to evaluate the potential benefits and harm of what you’re working on. You’ll learn how to present your concerns. You’ll learn the importance of building and working with diverse teams who can approach problems from multiple points-of-view. You’ll learn how to make a case using data and good storytelling. You’ll learn to say NO in a way that’ll make people listen. But mostly, this book will fill you with the confidence to do the job the way you always wanted to be able to do it. This book will help you understand your responsibilities.",
+                "authors": {
+                    "author": {
+                        "id": 5804969,
+                        "name": "Mike Monteiro",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5804969.Mike_Monteiro",
+                        "average_rating": 4.23,
+                        "ratings_count": 5932,
+                        "text_reviews_count": 447
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 68997511,
+                    "uri": "kca://work/amzn1.gr.work.v1.WApN3FwDDwTrhJhL5JChqw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3375361648
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Wed Jan 29 11:32:10 -0800 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3156495493
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Oct 03 06:29:30 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 2809223226,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Wed Jan 29 11:32:09 -0800 2020",
+            "read_at": {},
+            "date_added": "Thu Oct 03 06:29:30 -0700 2019",
+            "date_updated": "Wed Jan 29 11:32:09 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999622015",
+            "link": "https://www.goodreads.com/review/show/2999622015",
+            "owned": 0
+        }
+    }
+}

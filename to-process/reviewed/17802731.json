@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749129645,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17802731
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 53
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.tSRRnPJsV7dgKvUNg8I31g",
+                "title": "Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal",
+                "title_without_series": "Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375676988l/17802731._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375676988l/17802731._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17802731-hatching-twitter",
+                "num_pages": 288,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Portfolio",
+                "publication_day": 5,
+                "publication_year": 2013,
+                "publication_month": 11,
+                "average_rating": 4.03,
+                "ratings_count": 14718,
+                "description": "Twitter seems like a perfect start-up success story. In barely six years, a small group of young, ambitious programmers in Silicon Valley built an $11.5 billion business out of the ashes of a failed podcasting company. Today Twitter boasts more than 200 million active users and has affected business, politics, media, and other fields in innumerable ways.<br />  <br /> Now Nick Bilton of the <i>New York Times </i>takes readers behind the scenes with a narrative that shows what happened inside Twitter as it grew at exponential speeds. This is a tale of betrayed friendships and high-stakes power struggles as the four founders—Biz Stone, Evan Williams, Jack Dorsey, and Noah Glass—went from everyday engineers to wealthy celebrities, featured on magazine covers, Oprah, The Daily Show, and <i>Time</i>’s list of the world’s most influential people.<br />  <br /> Bilton’s exclusive access and exhaustive investigative reporting—drawing on hundreds of sources, documents, and internal e-mails—have enabled him to write an intimate portrait of fame, influence, and power. He also captures the zeitgeist and global influence of Twitter, which has been used to help overthrow governments in the Middle East and disrupt the very fabric of the way people communicate.",
+                "authors": {
+                    "author": {
+                        "id": 3164188,
+                        "name": "Nick Bilton",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1384455454p5/3164188.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1384455454p2/3164188.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3164188.Nick_Bilton",
+                        "average_rating": 4.2,
+                        "ratings_count": 35997,
+                        "text_reviews_count": 2819
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 25670400,
+                    "uri": "kca://work/amzn1.gr.work.v1.wlEBMjrDqVGZhzqFaKb-6w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498302977
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:42:47 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414466181,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:42:47 -0700 2016",
+            "date_updated": "Mon Sep 05 07:42:47 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749129645",
+            "link": "https://www.goodreads.com/review/show/1749129645",
+            "owned": 0
+        }
+    }
+}

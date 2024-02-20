@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333629215,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 27274444
+                },
+                "isbn": 1476753156,
+                "isbn13": 9781476753157,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 32
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.sZjIBHZxG85t05LuaZIjWg",
+                "title": "Best Defense (Star Trek: Legacies #2)",
+                "title_without_series": "Best Defense",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468185637l/27274444._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468185637l/27274444._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/27274444-best-defense",
+                "num_pages": 384,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Pocket Books/Star Trek",
+                "publication_day": 26,
+                "publication_year": 2016,
+                "publication_month": 7,
+                "average_rating": 4.06,
+                "ratings_count": 637,
+                "description": "Just in time for the milestone 50th Anniversary of <i>Star Trek: The Original Series</i>, an epic new trilogy that stretches from the earliest voyages of the Starship<i> Enterprise</i> to Captain Kirk’s historic five-year-mission—and from one universe to another!<br /><br />A debt of honor: One brave woman ventures alone into a parallel universe to save her old shipmates, exiled there decades earlier by a mysterious device called the Transfer Key. She soon learns the alternate universe harbors not just an alien invasion force, but a secret that underpins its very existence.<br /><br /> A mission of peace: A long-awaited Klingon-Federation peace conference convenes, led by Ambassador Sarek of Vulcan and Councillor Gorkon of Qo’noS. But both sides have enemies who would prefer the two great powers remain at war—and who will do anything to make certain hate wins the day.<br /><br /> An errand of justice: Captain Kirk and his crew seek the stolen Transfer Key that opens a door between universes, but their hunt is cut short by Ambassador Sarek’s plea for help. The <i>Enterprise</i> crew soon becomes targets in a deadly crossfire—one whose outcome will decide the fate of two universes.<br /><br /> ™, ®, &amp; © 2016 CBS Studios, Inc. STAR TREK and related marks and logos are trademarks of CBS Studios, Inc. All Rights Reserved.",
+                "authors": {
+                    "author": {
+                        "id": 2620393,
+                        "name": "David Mack",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1254780245p5/2620393.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1254780245p2/2620393.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2620393.David_Mack",
+                        "average_rating": 4.06,
+                        "ratings_count": 29894,
+                        "text_reviews_count": 2586
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 47328273,
+                    "uri": "kca://work/amzn1.gr.work.v1.kFfzKYy3higgvLCpnib88Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2274319943
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Mar 20 05:14:39 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Mar 20 05:14:39 -0700 2018",
+            "date_updated": "Tue Mar 20 05:14:54 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333629215",
+            "link": "https://www.goodreads.com/review/show/2333629215",
+            "owned": 0
+        }
+    }
+}

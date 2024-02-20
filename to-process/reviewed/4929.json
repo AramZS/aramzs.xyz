@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785912843,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4929
+                },
+                "isbn": 1400079276,
+                "isbn13": 9781400079278,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 12990
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.gDH1_-18MG4EmXmSl6pqIw",
+                "title": "Kafka on the Shore",
+                "title_without_series": "Kafka on the Shore",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore",
+                "num_pages": 467,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Vintage International",
+                "publication_day": 3,
+                "publication_year": 2006,
+                "publication_month": 1,
+                "average_rating": 4.14,
+                "ratings_count": 286058,
+                "description": "<i>Kafka on the Shore</i>, a tour de force of metaphysical reality, is powered by two remarkable characters: a teenage boy, Kafka Tamura, who runs away from home either to escape a gruesome oedipal prophecy or to search for his long-missing mother and sister; and an aging simpleton called Nakata, who never recovered from a wartime affliction and now is drawn toward Kafka for reasons that, like the most basic activities of daily life, he cannot fathom. Their odyssey, as mysterious to them as it is to us, is enriched throughout by vivid accomplices and mesmerizing events. Cats and people carry on conversations, a ghostlike pimp employs a Hegel-quoting prostitute, a forest harbors soldiers apparently unaged since World War II, and rainstorms of fish (and worse) fall from the sky. There is a brutal murder, with the identity of both victim and perpetrator a riddle—yet this, along with everything else, is eventually answered, just as the entwined destinies of Kafka and Nakata are gradually revealed, with one escaping his fate entirely and the other given a fresh start on his own.",
+                "authors": {
+                    "author": {
+                        "id": 3354,
+                        "name": "Haruki Murakami",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1539035376p5/3354.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1539035376p2/3354.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3354.Haruki_Murakami",
+                        "average_rating": 3.96,
+                        "ratings_count": 2245917,
+                        "text_reviews_count": 164365
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 6191072,
+                    "uri": "kca://work/amzn1.gr.work.v1.YabzJ8KPH2tcPHlSFH7clw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546316066
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:01:51 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1449408917,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Oct 16 07:01:50 -0700 2016",
+            "date_updated": "Sun Oct 16 07:01:51 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785912843",
+            "link": "https://www.goodreads.com/review/show/1785912843",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Tin House Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Plotto: The Master Book of All Plots",
+            "id": "11454870",
+            "author": "William Wallace Cook",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386954102000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11454870",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Tin House Books",
+            "tags": [
+                "Hardcover",
+                "Tin House Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1935639188",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781935639183",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "11454870",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

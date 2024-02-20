@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 442775135,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 76620
+                },
+                "isbn": "038039586X",
+                "isbn13": 9780380395866,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10321
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.uzypxdU7RbFsFY2AGBhxkg",
+                "title": "Watership Down (Watership Down, #1)",
+                "title_without_series": "Watership Down",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931l/76620._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931l/76620._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/76620.Watership_Down",
+                "num_pages": 478,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Avon Books",
+                "publication_day": {},
+                "publication_year": 1975,
+                "publication_month": 6,
+                "average_rating": 4.06,
+                "ratings_count": 420370,
+                "description": "<i>Librarian's note: See alternate cover edition of ISBN13 9780380395866 <a href=\"https://www.goodreads.com/book/show/9514847-watership-down\" rel=\"nofollow\">here</a>.</i><br /><br />Set in England's Downs, a once idyllic rural landscape, this stirring tale of adventure, courage and survival follows a band of very special creatures on their flight from the intrusion of man and the certain destruction of their home. Led by a stouthearted pair of friends, they journey forth from their native Sandleford Warren through the harrowing trials posed by predators and adversaries, to a mysterious promised land and a more perfect society.",
+                "authors": {
+                    "author": {
+                        "id": 7717,
+                        "name": "Richard  Adams",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1210188763p5/7717.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1210188763p2/7717.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7717.Richard_Adams",
+                        "average_rating": 4.04,
+                        "ratings_count": 449047,
+                        "text_reviews_count": 15654
+                    }
+                },
+                "published": 1975,
+                "work": {
+                    "id": 1357456,
+                    "uri": "kca://work/amzn1.gr.work.v1.rwkzjlcQhy_fTPVfFVp7XQ"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 1998",
+            "date_added": "Sat Oct 27 08:13:06 -0700 2012",
+            "date_updated": "Sat Oct 27 08:14:15 -0700 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/442775135",
+            "link": "https://www.goodreads.com/review/show/442775135",
+            "owned": 0
+        }
+    }
+}

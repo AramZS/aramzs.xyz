@@ -1,0 +1,104 @@
+{
+    "name": "Bloomsbury Methuen Drama",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Truth (Discworld, #25; Industrial Revolution, #2)",
+            "id": "34498",
+            "author": "Terry Pratchett",
+            "date_finished": 1379635200000,
+            "notes": [],
+            "date_started": 1379745412000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Truth (Discworld, #25; Industrial Revolution, #2): Rating - 5/5",
+                    "date": 1379635200000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34498",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bloomsbury Methuen Drama",
+            "tags": [
+                "Paperback",
+                "Bloomsbury Methuen Drama",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0413771164",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780413771162",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34498",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Truth (Discworld, #25; Industrial Revolution, #2)",
+            "id": 34498,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34498",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bloomsbury Methuen Drama",
+            "tags": [
+                "Paperback",
+                "Bloomsbury Methuen Drama",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 34498,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

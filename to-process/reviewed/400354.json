@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 688625687,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 400354
+                },
+                "isbn": 61092193,
+                "isbn13": 9780061092190,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1165
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.OvIAmnJNLg8RCQmizcjUcA",
+                "title": "Men at Arms (Discworld, #15; City Watch #2)",
+                "title_without_series": "Men at Arms",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/400354.Men_at_Arms",
+                "num_pages": 377,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "HarperPrism",
+                "publication_day": 27,
+                "publication_year": 2003,
+                "publication_month": 5,
+                "average_rating": 4.38,
+                "ratings_count": 78890,
+                "description": "<i>'What's so hard about pulling a sword out of a stone? The real work's already been done. You ought to make yourself useful and find the man who put the sword in the stone in the first place.'</i><br /><br />The City Watch needs MEN! But what it's got includes Corporal Carrot (technically a dwarf), Lance-constable Cuddy (really a dwarf), Lance-constable Detritus (a troll), Lance-constable Angua (a woman... most of the time) and Corporal Nobbs (disqualified from the human race for shoving).<br /><br />And they need all the help they can get, because someone in Ankh-Morpork has been getting dangerous ideas - about crowns and legendary swords, and destiny. And the problem with destiny is, of course, that she is not always careful where she points her finger. One minute you might be minding your own business on a normal if not spectacular career path, the next you might be in the frame for the big job, like saving the world...",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 819071,
+                    "uri": "kca://work/amzn1.gr.work.v1.XcoWMo3XfnqAbfMhd31YgQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 114359009
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Aug 07 11:34:31 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Aug 01 00:00:00 -0700 2013",
+            "date_added": "Wed Aug 07 11:34:31 -0700 2013",
+            "date_updated": "Wed Jan 22 13:23:01 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/688625687",
+            "link": "https://www.goodreads.com/review/show/688625687",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785919706,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 29475447
+                },
+                "isbn": 1473621445,
+                "isbn13": 9781473621442,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2970
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.G9aQpSKnh0heqZeoJJXnJQ",
+                "title": "A Closed and Common Orbit (Wayfarers, #2)",
+                "title_without_series": "A Closed and Common Orbit",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457598923l/29475447._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457598923l/29475447._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/29475447-a-closed-and-common-orbit",
+                "num_pages": 365,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Hodder & Stoughton",
+                "publication_day": 20,
+                "publication_year": 2016,
+                "publication_month": 10,
+                "average_rating": 4.33,
+                "ratings_count": 31500,
+                "description": "Lovelace was once merely a ship's artificial intelligence. When she wakes up in an new body, following a total system shut-down and reboot, she has no memory of what came before. As Lovelace learns to negotiate the universe and discover who she is, she makes friends with Pepper, an excitable engineer, who's determined to help her learn and grow.<br /><br />Together, Pepper and Lovey will discover that no matter how vast space is, two people can fill it together.<br /><br /><i>The Long Way to a Small, Angry Planet</i> introduced readers to the incredible world of Rosemary Harper, a young woman with a restless soul and secrets to keep. When she joined the crew of the Wayfarer, an intergalactic ship, she got more than she bargained for - and learned to live with, and love, her rag-tag collection of crewmates.<br /><br /><i>A Closed and Common Orbit</i> is the stand-alone sequel to Becky Chambers' beloved debut novel <i>The Long Way to a Small, Angry Planet</i> and is perfect for fans of <i>Firefly</i>, Joss Whedon, <i>Mass Effect</i> and <i>Star Wars</i>.",
+                "authors": {
+                    "author": {
+                        "id": 8389735,
+                        "name": "Becky Chambers",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562580587p5/8389735.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562580587p2/8389735.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8389735.Becky_Chambers",
+                        "average_rating": 4.2,
+                        "ratings_count": 125377,
+                        "text_reviews_count": 19972
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 48620653,
+                    "uri": "kca://work/amzn1.gr.work.v1.pzNffeGvAdmvrnJmf8QMFQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2616209666
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Nov 12 04:48:43 -0800 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1546324898
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sun Oct 16 07:12:35 -0700 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Oct 16 07:12:34 -0700 2016",
+            "date_updated": "Mon Nov 12 04:49:10 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785919706",
+            "link": "https://www.goodreads.com/review/show/1785919706",
+            "owned": 0
+        }
+    }
+}

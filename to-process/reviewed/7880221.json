@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528960108,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7880221
+                },
+                "isbn": 1401228801,
+                "isbn13": 9781401228804,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 428
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.mwlNwUitr7o_JTyvaLKnXA",
+                "title": "Fables, Vol. 14: Witches",
+                "title_without_series": "Fables, Vol. 14: Witches",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376616061l/7880221._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376616061l/7880221._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7880221-fables-vol-14",
+                "num_pages": 192,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 7,
+                "publication_year": 2010,
+                "publication_month": 12,
+                "average_rating": 4.13,
+                "ratings_count": 10606,
+                "description": "<b>Winner of Fourteen <u>Eisner</u> Awards</b><br /><br /><b>Toil and Trouble</b><br />In the wreckage that was once Fabletown, the sinister Mister Dark is building a web of fear and anger that threatens to ensnare any Fable that strays too close. Cut off from the Woodland building's business office and its trove of magical weapons, the exiled free Fables now must turn to their oldest and most powerful members - the witches and warlocks who once occupied the Woodland's 13th floor - to defeat this latest adversary. But even as those still trapped within the business office struggle against a legion of uncaged foes, rivalries within the Fables' sorcerous community threaten to fracture their united front - and open them up to destruction.<br /><br /><b>Collecting</b>: <i>Fables</i> 86-93",
+                "authors": {
+                    "author": {
+                        "id": 12444,
+                        "name": "Bill Willingham",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p5/12444.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p2/12444.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12444.Bill_Willingham",
+                        "average_rating": 4.04,
+                        "ratings_count": 583176,
+                        "text_reviews_count": 25138
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 11078042,
+                    "uri": "kca://work/amzn1.gr.work.v1.kXLhkb871F2xAoHWETUzSg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051891717
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:43:30 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813203743,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:20:57 -0800 2013",
+            "date_updated": "Mon Oct 23 16:43:30 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528960108",
+            "link": "https://www.goodreads.com/review/show/528960108",
+            "owned": 0
+        }
+    }
+}

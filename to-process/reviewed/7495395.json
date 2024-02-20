@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2229992151,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7495395
+                },
+                "isbn": 307453375,
+                "isbn13": 9780307453372,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 340
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.VfAag7ia7XSFFJ2A8tUTiQ",
+                "title": "The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It",
+                "title_without_series": "The Quants: How a New Breed of Math Whizzes Conquered Wall Street and Nearly Destroyed It",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320432894l/7495395._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320432894l/7495395._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7495395-the-quants",
+                "num_pages": 352,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Crown Business",
+                "publication_day": 2,
+                "publication_year": 2010,
+                "publication_month": 2,
+                "average_rating": 3.86,
+                "ratings_count": 7593,
+                "description": "“Beware of geeks bearing formulas.”<br /> --Warren Buffett<br />  <br /> In March of 2006, the world’s richest men sipped champagne in an opulent New York hotel.  They were preparing to compete in a poker tournament with million-dollar stakes, but those numbers meant nothing to them.  They were accustomed to risking <i>billions.</i>  <br />  <br /> At the card table that night was Peter Muller, an eccentric, whip-smart whiz kid who’d studied theoretical mathematics at Princeton and now managed a fabulously successful hedge fund called PDT…when he wasn’t playing his keyboard for morning commuters on the New York subway.  With him was Ken Griffin, who as an undergraduate trading convertible bonds out of his Harvard dorm room had outsmarted the Wall Street pros and made money in one of the worst bear markets of all time.  Now he was the tough-as-nails head of Citadel Investment Group, one of the most powerful money machines on earth. There too were Cliff Asness, the sharp-tongued, mercurial founder of the hedge fund AQR, a man as famous for his computer-smashing rages as for his brilliance, and Boaz Weinstein, chess life-master and king of the credit default swap, who while juggling $30 billion worth of positions for Deutsche Bank found time for frequent visits to Las Vegas with the famed MIT card-counting team.  <br />  <br /> On that night in 2006, these four men and their cohorts were the new kings of Wall Street.  Muller, Griffin, Asness, and Weinstein were among the best and brightest of a  new breed, the <i>quants</i>.  Over the prior twenty years, this species of math whiz --technocrats who make billions not with gut calls or fundamental analysis but with formulas and high-speed computers-- had usurped the testosterone-fueled, kill-or-be-killed risk-takers who’d long been the alpha males the world’s largest casino.  The quants believed that a dizzying, indecipherable-to-mere-mortals cocktail of differential calculus, quantum physics, and advanced geometry held the key to reaping riches from the financial markets.  And they helped create a digitized money-trading machine that could shift billions around the globe with the click of a mouse.  <br />  <br /> Few realized that night, though, that in creating this unprecedented machine, men like Muller, Griffin, Asness and Weinstein had sowed the seeds for history’s greatest financial disaster.  <br />  <br /> Drawing on unprecedented access to these four number-crunching titans, <i>The Quants </i>tells the inside story of what they thought and felt in the days and weeks when they helplessly watched much of their net worth vaporize – and wondered just how their mind-bending formulas and genius-level IQ’s had led them so wrong, so fast.  Had their years of success been dumb luck, fool’s gold, a good run that could come to an end on any given day?  What if The Truth they sought -- the secret of the markets -- wasn’t knowable? Worse, what if there wasn’t any Truth? <br />  <br /> In <i>The Quants</i>, Scott Patterson tells the story not just of these men, but of Jim Simons, the reclusive founder of the most successful hedge fund in history; Aaron Brown, the quant who used his math skills to humiliate Wall Street’s old guard at their trademark game of Liar’s Poker, and years later found himself with a front-row seat to the rapid emergence of mortgage-backed securities; and gadflies and dissenters such as Paul Wilmott, Nassim Taleb, and Benoit Mandelbrot.  <br />  <br /> With the immediacy of today’s NASDAQ close and the timeless power of a Greek tragedy, <i>The Quants</i> is at once a masterpiece of explanatory journalism, a gripping tale of ambition and hubris…and an ominous warning about Wall Street’s future. <br />",
+                "authors": {
+                    "author": {
+                        "id": 310329,
+                        "name": "Scott Patterson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1341701832p5/310329.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1341701832p2/310329.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/310329.Scott_Patterson",
+                        "average_rating": 3.92,
+                        "ratings_count": 10470,
+                        "text_reviews_count": 592
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 9648524,
+                    "uri": "kca://work/amzn1.gr.work.v1.wKDDc_S6mAfQRsOdUKfrtA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2139552220
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 28 12:08:21 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1879168907,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 28 12:08:20 -0800 2017",
+            "date_updated": "Thu Dec 28 12:08:20 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2229992151",
+            "link": "https://www.goodreads.com/review/show/2229992151",
+            "owned": 0
+        }
+    }
+}

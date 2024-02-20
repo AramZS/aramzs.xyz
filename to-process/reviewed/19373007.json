@@ -1,0 +1,136 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1972232848,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19373007
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.OJWxyD7c9wVfDHeABhfg3g",
+                "title": "The Precariat: The New Dangerous Class",
+                "title_without_series": "The Precariat: The New Dangerous Class",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19373007-the-precariat",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.89,
+                "ratings_count": 565,
+                "description": "Neo-liberal policies and institutional changes have produced a huge and growing number of people with sufficiently common experiences to be called an emerging class. In this book Guy Standing introduces what he calls the Precariat - a growing number of people across the world living and working precariously, usually in a series of short-term jobs, without recourse to stable occupational identities, stable social protection or protective regulations relevant to them. They include migrant workers, but also locals.<br /><br />Standing argues that this class of people could produce new instabilities in society. They are increasingly frustrated and dangerous because they have no voice, and hence they are vulnerable to the siren calls of extreme political parties. He outlines a new kind of good society, with more people actively involved in civil society and the precariat re-engaged. He goes on to consider one way to a new better society -- an unconditional basic wage for everyone, contributed by the state, which could be topped up through employment.<br /><br />This is a topical, and a radical book, which will appeal to a broad market concerned by the increasing problems of job insecurity and civic disengagement.<br /><br />Guy Standing, professor of development studies at the University of London, offers an unprecedented, necessary and articulate examination of a dominant, crucial consequence of globalization: the creation and maintenance of a seemingly permanent, worldwide, growing underclass of migrant, underpaid, exploited, short-term workers, the “precariat.” Their jobs and social positions are just that: precarious. This group includes millions of people from rural China who flock to the cities to work for low wages, women in many places working service jobs without contracts, and youth disenfranchised by a lack of opportunities for a career or even a stable job. Standing explains how globalization forced them into this way of life and argues for their reintegration into mainstream society. While always politically neutral, getAbstract recommends his important, eye-opening and groundbreaking report to students, NGO officials, policy makers, CEOs, HR personnel, and anyone delving into business, politics and the consequences of globalization.",
+                "authors": {
+                    "author": {
+                        "id": 319309,
+                        "name": "Guy Standing",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1462195911p5/319309.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1462195911p2/319309.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/319309.Guy_Standing",
+                        "average_rating": 3.95,
+                        "ratings_count": 1051,
+                        "text_reviews_count": 134
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 15606476,
+                    "uri": "kca://work/amzn1.gr.work.v1.OvOIZGzrUCCKBPkGbaFhxw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151523
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:35 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151517
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:35 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1627403387,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Apr 15 07:14:34 -0700 2017",
+            "date_updated": "Sat Apr 15 07:14:34 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1972232848",
+            "link": "https://www.goodreads.com/review/show/1972232848",
+            "owned": 0
+        }
+    }
+}

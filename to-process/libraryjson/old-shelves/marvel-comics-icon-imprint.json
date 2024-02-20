@@ -1,0 +1,202 @@
+{
+    "name": "Marvel Comics (Icon imprint)",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Powers, Vol. 10: Cosmic",
+            "id": "105960",
+            "author": "Brian Michael Bendis, Michael Avon Oeming",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508801962000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Powers, Vol. 10: Cosmic: Rating - 5/5",
+                    "date": 1508801962000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/105960",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics (Icon imprint)",
+            "tags": [
+                "Paperback",
+                "Marvel Comics (Icon imprint)",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0785122605",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780785122609",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "105960",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Powers, Vol. 11: Secret Identity",
+            "id": "105871",
+            "author": "Brian Michael Bendis, Michael Avon Oeming",
+            "date_finished": 1385856000000,
+            "notes": [],
+            "date_started": 1508801957000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Powers, Vol. 11: Secret Identity: Rating - 5/5",
+                    "date": 1385856000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/105871",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics (Icon imprint)",
+            "tags": [
+                "Paperback",
+                "Marvel Comics (Icon imprint)",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0785122613",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780785122616",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "105871",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Powers, Vol. 11: Secret Identity",
+            "id": 105871,
+            "author": "Brian Michael Bendis",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/105871",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics (Icon imprint)",
+            "tags": [
+                "Paperback",
+                "Marvel Comics (Icon imprint)",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 105871,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Powers, Vol. 10: Cosmic",
+            "id": 105960,
+            "author": "Brian Michael Bendis",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/105960",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics (Icon imprint)",
+            "tags": [
+                "Paperback",
+                "Marvel Comics (Icon imprint)",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 105960,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

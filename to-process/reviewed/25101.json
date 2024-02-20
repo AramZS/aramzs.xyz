@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528959535,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25101
+                },
+                "isbn": 1563890356,
+                "isbn13": 9781563890352,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1065
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.wkSEah5kFb3hJwMhY2hskw",
+                "title": "Season of Mists (The Sandman, #4)",
+                "title_without_series": "Season of Mists",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327937313l/25101._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327937313l/25101._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25101.Season_of_Mists",
+                "num_pages": 217,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Vertigo",
+                "publication_day": 10,
+                "publication_year": 1999,
+                "publication_month": 3,
+                "average_rating": 4.54,
+                "ratings_count": 59419,
+                "description": "Ten thousand years ago, Morpheus condemned a woman who loved him to Hell. Now the other members of his immortal family, The Endless, have convinced the Dream King that this was an injustice. To make it right, Morpheus must return to Hell to rescue his banished love -- and Hell's ruler, the fallen angel Lucifer, has already sworn to destroy him.<br /><br />Collects THE SANDMAN #21-28.",
+                "authors": {
+                    "author": {
+                        "id": 1221698,
+                        "name": "Neil Gaiman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p5/1221698.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p2/1221698.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1221698.Neil_Gaiman",
+                        "average_rating": 4.13,
+                        "ratings_count": 5858776,
+                        "text_reviews_count": 352868
+                    }
+                },
+                "published": 1999,
+                "work": {
+                    "id": 25854,
+                    "uri": "kca://work/amzn1.gr.work.v1.2tQLxp_vwoW6B1RaIUrPSg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051892516
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:44:14 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813204348,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:20:14 -0800 2013",
+            "date_updated": "Mon Oct 23 16:44:14 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528959535",
+            "link": "https://www.goodreads.com/review/show/528959535",
+            "owned": 0
+        }
+    }
+}

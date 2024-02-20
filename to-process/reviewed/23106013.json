@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2073733901,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23106013
+                },
+                "isbn": 593199308,
+                "isbn13": 9780593199305,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.VsAOcR_kJo25pBfR0NvjMg",
+                "title": "Battle Ground (The Dresden Files, #17)",
+                "title_without_series": "Battle Ground",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587778549l/23106013._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587778549l/23106013._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23106013-battle-ground",
+                "num_pages": 432,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Ace",
+                "publication_day": 29,
+                "publication_year": 2020,
+                "publication_month": 9,
+                "average_rating": 4.48,
+                "ratings_count": 247,
+                "description": "THINGS ARE ABOUT TO GET SERIOUS FOR HARRY DRESDEN, CHICAGO’S ONLY PROFESSIONAL WIZARD, in the next entry in the #1 New York Times bestselling Dresden Files.<br /><br />Harry has faced terrible odds before. He has a long history of fighting enemies above his weight class. The Red Court of vampires. The fallen angels of the Order of the Blackened Denarius. The Outsiders.<br /><br />But this time it’s different. A being more powerful and dangerous on an order of magnitude beyond what the world has seen in a millennium is coming. And she’s bringing an army. The Last Titan has declared war on the city of Chicago, and has come to subjugate humanity, obliterating any who stand in her way.<br /><br />Harry’s mission is simple but impossible: Save the city by killing a Titan. And the attempt will change Harry’s life, Chicago, and the mortal world forever.",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2020,
+                "work": {
+                    "id": 42654036,
+                    "uri": "kca://work/amzn1.gr.work.v1._eJusfyijvN0uf5jO5_9HA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1936139667
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Jul 27 09:33:08 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1726712622,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jul 27 09:33:07 -0700 2017",
+            "date_updated": "Thu Jul 27 09:33:08 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2073733901",
+            "link": "https://www.goodreads.com/review/show/2073733901",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065304268,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 44303730
+                },
+                "isbn": 1250147603,
+                "isbn13": 9781250147608,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2546
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Oi3zp9-AvRvVMmjYJCq-8w",
+                "title": "Me",
+                "title_without_series": "Me",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553526563l/44303730._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553526563l/44303730._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/44303730-me",
+                "num_pages": 374,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Henry Holt & Company",
+                "publication_day": 15,
+                "publication_year": 2019,
+                "publication_month": 10,
+                "average_rating": 4.34,
+                "ratings_count": 24622,
+                "description": "In his only official autobiography, music icon Elton John writes about his extraordinary life, which is also the subject of the film <i>Rocketman</i>.<br /><br />Christened Reginald Dwight, he was a shy boy with Buddy Holly glasses who grew up in the London suburb of Pinner and dreamed of becoming a pop star. By the age of twenty-three, he was on his first tour of America, facing an astonished audience in his tight silver hotpants, bare legs and a T-shirt with ROCK AND ROLL emblazoned across it in sequins. Elton John had arrived and the music world would never be the same again.<br /><br />His life has been full of drama, from the early rejection of his work with song-writing partner Bernie Taupin to spinning out of control as a chart-topping superstar; from half-heartedly trying to drown himself in his LA swimming pool to disco-dancing with the Queen; from friendships with John Lennon, Freddie Mercury and George Michael to setting up his AIDS Foundation. All the while, Elton was hiding a drug addiction that would grip him for over a decade.<br /><br />In <i>Me</i> Elton also writes about getting clean and changing his life, about finding love with David Furnish and becoming a father.",
+                "authors": {
+                    "author": {
+                        "id": 103812,
+                        "name": "Elton John",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207678127p5/103812.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207678127p2/103812.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/103812.Elton_John",
+                        "average_rating": 4.32,
+                        "ratings_count": 26068,
+                        "text_reviews_count": 3414
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 68837791,
+                    "uri": "kca://work/amzn1.gr.work.v1.27OnUMS5X4ggvDDJLS2Waw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244217302
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:18:10 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712838173,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:18:09 -0800 2019",
+            "date_updated": "Thu Nov 28 09:18:10 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065304268",
+            "link": "https://www.goodreads.com/review/show/3065304268",
+            "owned": 0
+        }
+    }
+}

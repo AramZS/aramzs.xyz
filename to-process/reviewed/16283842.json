@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789414904,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16283842
+                },
+                "isbn": 393062988,
+                "isbn13": 9780393062984,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 22
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-1GKHWYvAaiPvCMzVM_mhw",
+                "title": "The Internet Police: How Crime Went Online, and the Cops Followed",
+                "title_without_series": "The Internet Police: How Crime Went Online, and the Cops Followed",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362956118l/16283842._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362956118l/16283842._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16283842-the-internet-police",
+                "num_pages": 320,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "W. W. Norton  Company",
+                "publication_day": 19,
+                "publication_year": 2013,
+                "publication_month": 8,
+                "average_rating": 3.68,
+                "ratings_count": 189,
+                "description": "Once considered a borderless and chaotic virtual landscape, the Internet is now home to the forces of international law and order. It’s not just computer hackers and cyber crooks who lurk in the dark corners of the Web—the cops are there, too.<br />In <em>The Internet Police</em>, <em>Ars Technica</em> editor Nate Anderson takes readers on a behind-the-screens tour of landmark cybercrime cases, revealing how criminals continue to find digital and legal loopholes even as police hurry to cinch them closed.<br /><br /><br />From the Cleveland man whose “natural male enhancement” pill inadvertently protected the privacy of your e-mail to the Russian spam king who ended up in a Milwaukee jail to the Australian arrest that ultimately led to the breakup of the largest child pornography ring in the United States, Anderson draws on interviews, court documents, and law-enforcement reports to reconstruct accounts of how online policing actually works.<br /><br /><br />Questions of online crime are as complex and interconnected as the Internet itself. With each episode in <em>The Internet Police</em>, Anderson shows the dark side of online spaces—but also how dystopian a fully “ordered” alternative would be.",
+                "authors": {
+                    "author": {
+                        "id": 4279798,
+                        "name": "Nate Anderson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4279798.Nate_Anderson",
+                        "average_rating": 3.7,
+                        "ratings_count": 278,
+                        "text_reviews_count": 40
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 22396244,
+                    "uri": "kca://work/amzn1.gr.work.v1.Y-E0BraZBAFOk9jZOIvv-w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240464910
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:47:08 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571653474,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:47:08 -0800 2013",
+            "date_updated": "Fri Dec 13 08:47:08 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789414904",
+            "link": "https://www.goodreads.com/review/show/789414904",
+            "owned": 0
+        }
+    }
+}

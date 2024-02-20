@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 463614394,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2102600
+                },
+                "isbn": 765316986,
+                "isbn13": 9780765316981,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1372
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.OetXJHau3U0CIoRpkX6pVw",
+                "title": "Zoe's Tale (Old Man's War, #4)",
+                "title_without_series": "Zoe's Tale",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1301108028l/2102600._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1301108028l/2102600._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2102600.Zoe_s_Tale",
+                "num_pages": 335,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.74,
+                "ratings_count": 26982,
+                "description": "How do you tell your part in the biggest tale in history?<br /><br />I ask because it's what I have to do. I'm Zoe Boutin Perry: A colonist stranded on a deadly pioneer world. Holy icon to a race of aliens. A player (and a pawn) in a interstellar chess match to save humanity, or to see it fall. Witness to history. Friend. Daughter. Human. Seventeen years old.<br /><br />Everyone on Earth knows the tale I am part of. But you don't know my tale: How I did what I did — how I did what I had to do — not just to stay alive but to keep you alive, too. All of you. I'm going to tell it to you now, the only way I know how: not straight but true, the whole thing, to try make you feel what I felt: the joy and terror and uncertainty, panic and wonder, despair and hope. Everything that happened, bringing us to Earth, and Earth out of its captivity. All through my eyes.<br /><br />It's a story you know. But you don't know it all.",
+                "authors": {
+                    "author": {
+                        "id": 4763,
+                        "name": "John Scalzi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+                        "average_rating": 4.03,
+                        "ratings_count": 712024,
+                        "text_reviews_count": 57344
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 18280032,
+                    "uri": "kca://work/amzn1.gr.work.v1.xOA6hSv2pTisBOOmy8yoHQ"
+                }
+            },
+            "rating": 2,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sun Nov 25 00:00:00 -0800 2012",
+            "read_at": "Mon Nov 26 00:00:00 -0800 2012",
+            "date_added": "Sun Nov 25 19:00:04 -0800 2012",
+            "date_updated": "Mon Nov 26 21:53:34 -0800 2012",
+            "read_count": 1,
+            "body": "This novel is fascinating in a way. Scalzi takes events from past novels (mostly the previous book in the series) and re-frames them through a new character. Zoe's voice is strong and her characterization excellent. The same is true of her group of friends. In that it succeeds. However, having read the previous books, there is simply too much repeated here. <br /><br />The narrative is fragmentary (out of necessity, because there is so much to the main plot that Zoe doesn't witness) and the only two fragments that truly add value come towards the end, significant events that only Zoe (instead of the triad of previous protagonists) witnessed. These sections shine. However, in order to make the novel stand on its own, Scalzi ends up treating us to far too much exposition, the beginning of the book is fairly weighed down with explanation and back story, mostly told to us, mostly repeating events we've already seen in previous novels with not enough extra added that they would stand on their own. <br /><br />It's a shame that both the strong stories also can't stand on their own either, as this novel would have been far better as a self-contained set of shorts from Zoe's perspective. All the ingredients are there, but instead it all comes out a bit too loose to be a great novel but still too connected to be a good collection of shorts. <br /><br />If you loved the series so far, go for it, otherwise it is likely not worth picking up.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/463614394",
+            "link": "https://www.goodreads.com/review/show/463614394",
+            "owned": 1
+        }
+    }
+}

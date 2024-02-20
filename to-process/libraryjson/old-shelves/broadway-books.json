@@ -1,0 +1,149 @@
+{
+    "name": "Broadway Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Martian",
+            "id": "18401393",
+            "author": "Andy Weir",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1433993626000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18401393",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Broadway Books",
+            "tags": [
+                "Kindle Edition",
+                "Broadway Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18401393",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Superpowers",
+            "id": "1991184",
+            "author": "David J.  Schwartz",
+            "date_finished": 1213747200000,
+            "notes": [],
+            "date_started": 1213973915000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Superpowers: Rating - 3/5",
+                    "date": 1213747200000,
+                    "type": "long",
+                    "content": "This book starts well and from the moment the World Trade Center is mentioned the general flow is pretty well established. There are few surprises here, and the question of what the book's heroes would do on 9/11 pulls through some mediocre prose and overdone foreshadowing.<br/><br/>However, at about 3/4ths through the book, something happens. The characters gain depth. As soon as you hit that, the book becomes almost impossible to put down. You now care about the once relatively shallow superheroes. The fact that you know what is to come doesn't change the fact that you now really want to know what is going to happen to them. Unfortunately, though the ending ties everything up, it feels somewhat lackluster. <br/><br/>The book is decent overall, however, it feels as if the characters' depth is almost an accident. However, if you like stories about Superheroes you should pick this book up. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1991184",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Broadway Books",
+            "tags": [
+                "Paperback",
+                "Broadway Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0307394409",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780307394408",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "1991184",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Superpowers",
+            "id": 1991184,
+            "author": "David J.  Schwartz",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1991184",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Broadway Books",
+            "tags": [
+                "Paperback",
+                "Broadway Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 1991184,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

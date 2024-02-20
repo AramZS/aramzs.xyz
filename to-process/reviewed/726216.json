@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 464707017,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 726216
+                },
+                "isbn": 1843533871,
+                "isbn13": 9781843533870,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 22
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.0WH5crFtZ5zwMX6UxN_8vQ",
+                "title": "The Rough Guide to Cult Fiction",
+                "title_without_series": "The Rough Guide to Cult Fiction",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/726216.The_Rough_Guide_to_Cult_Fiction",
+                "num_pages": 368,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Rough Guides",
+                "publication_day": 1,
+                "publication_year": 2005,
+                "publication_month": 5,
+                "average_rating": 4.12,
+                "ratings_count": 180,
+                "description": "<p>This new Rough Guide will make you a literary buff in the time it takes to say Jack Kerouac. Even if you already know your Hunter S Thompson from your Jim Thompson, you''ll still find it hard to resist a book which tells you which cult novel has been implicated in assassinations, which world famous novelist offered to throw himself off a train to prove his devotion to his literary idol and which cult poet and prose stylist inspired a Broadway musical and the Velvet Underground. There''s a critical guide to over 150 cult authors - from Kathy Acker to Yevgeny Zamyatin, including potted biographies, their must reads, and their surprising influences. Reviews of 100 cult novels - seminal works by authors who never quite achieved cult status themselves but still produced one classic work. Finally, there''s a cult collection - a feast of literary trivia which categorises writers by the diseases they suffered for their art, reveals 12 literary giants who wrote standing up, and pores over the little known fictional epics of Sarah Bernhardt and Benito Mussolini.</p>",
+                "authors": {
+                    "author": {
+                        "id": 192618,
+                        "name": "Paul Simpson",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/192618.Paul_Simpson",
+                        "average_rating": 4.31,
+                        "ratings_count": 5204,
+                        "text_reviews_count": 258
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 712431,
+                    "uri": "kca://work/amzn1.gr.work.v1.I1MUyFy99c0yIFa2loAd3g"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 309838928,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Nov 27 08:55:09 -0800 2012",
+            "date_updated": "Tue Nov 27 08:55:09 -0800 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/464707017",
+            "link": "https://www.goodreads.com/review/show/464707017",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 574255481,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 329275
+                },
+                "isbn": 1400062977,
+                "isbn13": 9781400062973,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 96
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Brpvo-d9p05aICHf6peNzA",
+                "title": "The Book of Lost Books: An Incomplete History of All the Great Books You'll Never Read",
+                "title_without_series": "The Book of Lost Books: An Incomplete History of All the Great Books You'll Never Read",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320485504l/329275._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320485504l/329275._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/329275.The_Book_of_Lost_Books",
+                "num_pages": 344,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Random House",
+                "publication_day": 18,
+                "publication_year": 2006,
+                "publication_month": 4,
+                "average_rating": 3.49,
+                "ratings_count": 720,
+                "description": "In an age when deleted scenes from Adam Sandler movies are saved, it’s sobering to realize that some of the world’s greatest prose and poetry has gone missing. This witty, wry, and unique new book rectifies that wrong. Part detective story, part history lesson, part exposé, The Book of Lost Books is the first guide to literature’s what-ifs and never-weres.<br />In compulsively readable fashion, Stuart Kelly reveals details about tantalizing vanished works by the famous, the acclaimed, and the influential, from the time of cave drawings to the late twentieth century. Here are the true stories behind stories, poems, and plays that now exist only in imagination:<br /><br />·Aristophanes’ Heracles, the Stage Manager was one of the playwright’s several spoofs that disappeared.<i>\n  <br />\n</i>·Love’s Labours Won may have been a sequel to Shakespeare’s Love’s Labours Lost–or was it just an alternative title for The Taming of the Shrew?<br />·Jane Austen’s incomplete novel Sanditon, was a critique of hypochondriacs and cures started when the author was fatally ill.<br />·Nikolai Gogol burned the second half of Dead Souls after a religious conversion convinced him that literature was paganism.<br />·Some of the thousand pages of William Burroughs’s original Naked Lunch were stolen and sold on the street by Algerian street boys.<br />·Sylvia Plath’s widower, Ted Hughes, claimed that the 130 pages of her second novel, perhaps based on their marriage, were lost after her death.<br /><br />Whether destroyed (Socrates’ versions of Aesop’s Fables), misplaced (Malcolm Lowry’s Ultramarine was pinched from his publisher’s car), interrupted by the author’s death (Robert Louis Stevenson’s Weir of Hermiston), or simply never begun (Vladimir Nabokov’s Speak, America, a second volume of his memoirs), these missing links create a history of literature for a parallel world. Civilized and satirical, erudite yet accessible, The Book of Lost Books is itself a find.",
+                "authors": {
+                    "author": {
+                        "id": 189036,
+                        "name": "Stuart Kelly",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334504855p5/189036.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334504855p2/189036.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/189036.Stuart_Kelly",
+                        "average_rating": 3.54,
+                        "ratings_count": 965,
+                        "text_reviews_count": 136
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 319884,
+                    "uri": "kca://work/amzn1.gr.work.v1.kXTh3ytMs3Mh_FK0aFFB-g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 59265131
+                    },
+                    "old_status": "currently-reading",
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 19 21:58:30 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Tue Jan 29 00:00:00 -0800 2013",
+            "read_at": "Wed Jun 19 00:00:00 -0700 2013",
+            "date_added": "Fri Mar 29 08:25:48 -0700 2013",
+            "date_updated": "Wed Jun 19 22:00:03 -0700 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/574255481",
+            "link": "https://www.goodreads.com/review/show/574255481",
+            "owned": 1
+        }
+    }
+}

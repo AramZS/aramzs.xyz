@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 162067171,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 91479
+                },
+                "isbn": 451459407,
+                "isbn13": 9780451459404,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2601
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.BdcX7EM_bVaQrMbKvopaMA",
+                "title": "Death Masks (The Dresden Files, #5)",
+                "title_without_series": "Death Masks",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557713l/91479._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557713l/91479._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/91479.Death_Masks",
+                "num_pages": 432,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Roc",
+                "publication_day": 5,
+                "publication_year": 2003,
+                "publication_month": 8,
+                "average_rating": 4.31,
+                "ratings_count": 110625,
+                "description": "Harry Dresden, Chicago's only practicing professional wizard, should be happy that business is pretty good for a change. But now he's getting more than he bargained for:<br /><br />A duel with the Red Court of Vampires' champion, who must kill Harry to end the war between vampires and wizards...<br /><br />Professional hit men using Harry for target practice...<br /><br />The missing Shroud of Turin...<br /><br />A handless and headless corpse the Chicago police need identified...<br /><br />Not to mention the return of Harry's ex-girlfriend Susan, who's still struggling with her semi-vampiric nature. And who seems to have a new man in her life.<br /><br />Some days, it just doesn't pay to get out of bed. No matter how much you're charging.",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364197,
+                        "text_reviews_count": 98043
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 2183,
+                    "uri": "kca://work/amzn1.gr.work.v1.wCYEtGjyWujunOnrmEnbNA"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Apr 19 06:36:47 -0700 2011",
+            "date_updated": "Tue Apr 19 06:36:51 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/162067171",
+            "link": "https://www.goodreads.com/review/show/162067171",
+            "owned": 0
+        }
+    }
+}

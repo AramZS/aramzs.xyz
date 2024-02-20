@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 162067123,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 91478
+                },
+                "isbn": 451458923,
+                "isbn13": 9780451458926,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3293
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.eYTmTT8ESX7PCgb2gwMFNw",
+                "title": "Summer Knight (The Dresden Files, #4)",
+                "title_without_series": "Summer Knight",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557469l/91478._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345557469l/91478._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/91478.Summer_Knight",
+                "num_pages": 446,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Roc",
+                "publication_day": 3,
+                "publication_year": 2002,
+                "publication_month": 9,
+                "average_rating": 4.29,
+                "ratings_count": 120294,
+                "description": "<i>For the 1st printing edition of this ISBN, see <a href=\"https://www.goodreads.com/book/show/10446473.here\" title=\"here\" rel=\"nofollow\">here</a>.</i><br /><br />HARRY DRESDEN -- WIZARD<br /><br />Lost items found. Paranormal Investigations. Consulting. Advice. Reasonable Rates.<br />No Love Potions, Endless Purses, or Other Entertainment<br /><br />Ever since his girlfriend left town to deal with her newly acquired taste for blood, Harry Dresden has been down and out in Chicago. He can't pay his rent. He's alienating his friends. He can't even recall the last time he took a shower.<br /><br />The only professional wizard in the phone book has become a desperate man.<br /><br />And just when it seems things can't get any worse, in saunters the Winter Queen of Faerie. She has an offer Harry can't refuse if he wants to free himself of the supernatural hold his faerie godmother has over him--and hopefully end his run of bad luck. All he has to do is find out who murdered the Summer Queen's right-hand man, the Summer Knight, and clear the Winter Queen's name.<br /><br />It seems simple enough, but Harry knows better than to get caught in the middle of faerie politics. Until he finds out that the fate of the entire world rests on his solving this case. No pressure or anything...",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2002,
+                "work": {
+                    "id": 912988,
+                    "uri": "kca://work/amzn1.gr.work.v1.hiLolUGgZG0fh1j3zLl22Q"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Apr 19 06:36:28 -0700 2011",
+            "date_updated": "Tue Apr 19 06:36:36 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/162067123",
+            "link": "https://www.goodreads.com/review/show/162067123",
+            "owned": 0
+        }
+    }
+}

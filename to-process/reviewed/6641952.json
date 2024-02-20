@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1190813971,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6641952
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.5YNdFd4TU713XZGGDUZR8A",
+                "title": "Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary",
+                "title_without_series": "Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6641952-cathedral-and-the-bazaar",
+                "num_pages": 258,
+                "format": {},
+                "edition_information": {},
+                "publisher": "O'Reilly Media",
+                "publication_day": 14,
+                "publication_year": 2008,
+                "publication_month": 7,
+                "average_rating": 3.8,
+                "ratings_count": 3688,
+                "description": {},
+                "authors": {
+                    "author": {
+                        "id": 18542,
+                        "name": "Eric S. Raymond",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1265508525p5/18542.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1265508525p2/18542.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/18542.Eric_S_Raymond",
+                        "average_rating": 3.88,
+                        "ratings_count": 5718,
+                        "text_reviews_count": 291
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 100993,
+                    "uri": "kca://work/amzn1.gr.work.v1.tViXLaH3BL0v38d6PcdEOQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 744188166
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Feb 04 13:21:31 -0800 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 904006862,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Feb 04 13:21:30 -0800 2015",
+            "date_updated": "Wed Feb 04 13:21:31 -0800 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1190813971",
+            "link": "https://www.goodreads.com/review/show/1190813971",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 75480264,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6224826
+                },
+                "isbn": 1594488878,
+                "isbn13": 9781594488870,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3280
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.YnWoyKvp-9endt3yd5_E3w",
+                "title": "Juliet, Naked",
+                "title_without_series": "Juliet, Naked",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480092420l/6224826._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480092420l/6224826._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6224826-juliet-naked",
+                "num_pages": 406,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Riverhead Books",
+                "publication_day": 29,
+                "publication_year": 2009,
+                "publication_month": 9,
+                "average_rating": 3.49,
+                "ratings_count": 40712,
+                "description": "Annie loves Duncan — or thinks she does. Duncan loves Annie, but then, all of a sudden, he doesn't. Duncan really loves Tucker Crowe, a reclusive Dylanish singer-songwriter who stopped making music ten years ago. Annie stops loving Duncan, and starts getting her own life.<br /><br /> In doing so, she initiates an e-mail correspondence with Tucker, and a connection is forged between two lonely people who are looking for more out of what they've got. Tucker's been languishing (and he's unnervingly aware of it), living in rural Pennsylvania with what he sees as his one hope for redemption amid a life of emotional and artistic ruin -- his young son, Jackson. But then there's also the new material he's about to release to the world: an acoustic, stripped-down version of his greatest album, <i>Juliet</i> — entitled, <i>Juliet, Naked</i>.<br /><br /> What happens when a washed-up musician looks for another chance? And miles away, a restless, childless woman looks for a change? <i>Juliet, Naked</i> is a powerfully engrossing, humblingly humorous novel about music, love, loneliness, and the struggle to live up to one's promise.",
+                "authors": {
+                    "author": {
+                        "id": 2929,
+                        "name": "Nick Hornby",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1422915487p5/2929.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1422915487p2/2929.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2929.Nick_Hornby",
+                        "average_rating": 3.66,
+                        "ratings_count": 596707,
+                        "text_reviews_count": 33047
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 6405538,
+                    "uri": "kca://work/amzn1.gr.work.v1.5NvCgRD3B-C96yZqqSCCMw"
+                }
+            },
+            "user_statuses": {
+                "user_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1567612
+                        },
+                        "page": {
+                            "type": "integer",
+                            "$t": 416
+                        },
+                        "chapter": {
+                            "type": "integer"
+                        },
+                        "comments_count": 0,
+                        "created_at": {
+                            "type": "datetime",
+                            "$t": "Tue Nov 10 10:56:44 -0800 2009"
+                        },
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Nov 10 10:56:44 -0800 2009"
+                        },
+                        "last_comment_at": {
+                            "type": "datetime"
+                        },
+                        "ratings_count": {
+                            "type": "integer",
+                            "$t": 0
+                        },
+                        "percent": {
+                            "type": "integer"
+                        },
+                        "work_id": {
+                            "type": "integer"
+                        },
+                        "note_uri": {},
+                        "note_updated_at": {
+                            "type": "datetime"
+                        },
+                        "body": {}
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1486290
+                        },
+                        "page": {
+                            "type": "integer",
+                            "$t": 150
+                        },
+                        "chapter": {
+                            "type": "integer"
+                        },
+                        "comments_count": 0,
+                        "created_at": {
+                            "type": "datetime",
+                            "$t": "Fri Oct 23 08:17:24 -0700 2009"
+                        },
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Oct 23 08:17:24 -0700 2009"
+                        },
+                        "last_comment_at": {
+                            "type": "datetime"
+                        },
+                        "ratings_count": {
+                            "type": "integer",
+                            "$t": 0
+                        },
+                        "percent": {
+                            "type": "integer"
+                        },
+                        "work_id": {
+                            "type": "integer"
+                        },
+                        "note_uri": {},
+                        "note_updated_at": {
+                            "type": "datetime"
+                        },
+                        "body": {}
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Oct 28 00:00:00 -0700 2009",
+            "date_added": "Fri Oct 23 08:17:11 -0700 2009",
+            "date_updated": "Tue Nov 10 11:01:07 -0800 2009",
+            "read_count": 1,
+            "body": "Nick Hornby's tale of celebrity internet obsession and clever people stuck in remote places is smart and subtly funny. A good read, though not as light as it initially appears.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/75480264",
+            "link": "https://www.goodreads.com/review/show/75480264",
+            "owned": 0
+        }
+    }
+}

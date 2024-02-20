@@ -1,0 +1,96 @@
+{
+    "name": "CreateSpace Independent Publishing Platform",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "A Mind Forever Voyaging: A History of Storytelling in Video Games",
+            "id": "16146784",
+            "author": "Dylan Holmes",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1352922858000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16146784",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "CreateSpace Independent Publishing Platform",
+            "tags": [
+                "Paperback",
+                "CreateSpace Independent Publishing Platform",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1480005754",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781480005754",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16146784",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Long Way to a Small, Angry Planet (Wayfarers, #1)",
+            "id": 22733729,
+            "author": "Becky Chambers",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22733729",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "CreateSpace Independent Publishing Platform",
+            "tags": [
+                "Paperback",
+                "CreateSpace Independent Publishing Platform",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 22733729,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

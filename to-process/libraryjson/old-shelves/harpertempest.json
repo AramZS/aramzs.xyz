@@ -1,0 +1,104 @@
+{
+    "name": "HarperTempest",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Wintersmith (Discworld, #35; Tiffany Aching, #3)",
+            "id": "34492",
+            "author": "Terry Pratchett",
+            "date_finished": 1377993600000,
+            "notes": [],
+            "date_started": 1390425699000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Wintersmith (Discworld, #35; Tiffany Aching, #3): Rating - 3/5",
+                    "date": 1377993600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34492",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "HarperTempest",
+            "tags": [
+                "Hardcover",
+                "HarperTempest",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0060890312",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780060890315",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34492",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Wintersmith (Discworld, #35; Tiffany Aching, #3)",
+            "id": 34492,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34492",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "HarperTempest",
+            "tags": [
+                "Hardcover",
+                "HarperTempest",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 34492,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2692914650,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22914448
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2306
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.TyugI81lJH2tMNK3aup99A",
+                "title": "The Dead Key",
+                "title_without_series": "The Dead Key",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421800352l/22914448._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421800352l/22914448._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22914448-the-dead-key",
+                "num_pages": 477,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": 1,
+                "publication_year": 2015,
+                "publication_month": 3,
+                "average_rating": 3.85,
+                "ratings_count": 27686,
+                "description": "<b>\n  <i>2014 Winner — Amazon Breakthrough Novel Award — Grand Prize and Mystery &amp; Thriller Fiction Winner</i>\n</b><br /><br />It’s 1998, and for years the old First Bank of Cleveland has sat abandoned, perfectly preserved, its secrets only speculated on by the outside world.<br /><br />Twenty years before, amid strange staff disappearances and allegations of fraud, panicked investors sold Cleveland’s largest bank in the middle of the night, locking out customers and employees, and thwarting a looming federal investigation. In the confusion that followed, the keys to the vault’s safe-deposit boxes were lost.<br /><br />In the years since, Cleveland’s wealthy businessmen kept the truth buried in the abandoned high-rise. The ransacked offices and forgotten safe-deposit boxes remain locked in time, until young engineer Iris Latch stumbles upon them during a renovation survey. What begins as a welcome break from her cubicle becomes an obsession as Iris unravels the bank’s sordid past. With each haunting revelation, Iris follows the looming shadow of the past deeper into the vault—and soon realizes that the key to the mystery comes at an astonishing price.",
+                "authors": {
+                    "author": {
+                        "id": 8199366,
+                        "name": "D.M. Pulley",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1469710212p5/8199366.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1469710212p2/8199366.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8199366.D_M_Pulley",
+                        "average_rating": 3.89,
+                        "ratings_count": 46144,
+                        "text_reviews_count": 3945
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 44394457,
+                    "uri": "kca://work/amzn1.gr.work.v1.RY4k7aqdWNN0Zr7AZT8OeA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2748688577
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Jan 28 11:05:33 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 11:05:32 -0800 2019",
+            "date_updated": "Mon Jan 28 11:05:54 -0800 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2692914650",
+            "link": "https://www.goodreads.com/review/show/2692914650",
+            "owned": 0
+        }
+    }
+}

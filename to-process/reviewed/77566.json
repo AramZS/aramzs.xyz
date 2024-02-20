@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 52210583,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 77566
+                },
+                "isbn": 553283685,
+                "isbn13": 9780553283686,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6784
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.2xaw98fU9vu-PP2TJ7Wgyw",
+                "title": "Hyperion (Hyperion Cantos #1)",
+                "title_without_series": "Hyperion",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405546838l/77566._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/77566.Hyperion",
+                "num_pages": 482,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Bantam Spectra",
+                "publication_day": {},
+                "publication_year": 1990,
+                "publication_month": 3,
+                "average_rating": 4.24,
+                "ratings_count": 175392,
+                "description": "On the world called Hyperion, beyond the law of the Hegemony of Man, there waits the creature called the Shrike. There are those who worship it. There are those who fear it. And there are those who have vowed to destroy it. In the Valley of the Time Tombs, where huge, brooding structures move backward through time, the Shrike waits for them all. On the eve of Armageddon, with the entire galaxy at war, seven pilgrims set forth on a final voyage to Hyperion seeking the answers to the unsolved riddles of their lives. Each carries a desperate hope—and a terrible secret. And one may hold the fate of humanity in his hands. <br /><br />A stunning tour de force filled with transcendent awe and wonder, <i>Hyperion</i> is a masterwork of science fiction that resonates with excitement and invention, the first volume in a remarkable new science fiction epic by the multiple-award-winning author of <i>The Hollow Man</i>.",
+                "authors": {
+                    "author": {
+                        "id": 2687,
+                        "name": "Dan Simmons",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1427999015p5/2687.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1427999015p2/2687.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2687.Dan_Simmons",
+                        "average_rating": 4.08,
+                        "ratings_count": 575648,
+                        "text_reviews_count": 32188
+                    }
+                },
+                "published": 1990,
+                "work": {
+                    "id": 1383900,
+                    "uri": "kca://work/amzn1.gr.work.v1.xIT2_7WWJ119Me44O0dVMg"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1828108750
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri May 05 04:18:43 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1794278223
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Apr 10 11:02:53 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Apr 10 11:02:52 -0700 2017",
+            "read_at": "Fri May 05 04:18:44 -0700 2017",
+            "date_added": "Fri Apr 10 12:02:51 -0700 2009",
+            "date_updated": "Fri May 05 04:18:42 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/52210583",
+            "link": "https://www.goodreads.com/review/show/52210583",
+            "owned": 0
+        }
+    }
+}

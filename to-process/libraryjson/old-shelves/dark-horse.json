@@ -1,0 +1,104 @@
+{
+    "name": "Dark Horse",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "B.P.R.D., Vol. 1: Hollow Earth and Other Stories",
+            "id": "111828",
+            "author": "Mike Mignola, Christopher Golden, Thomas E. Sniegoski, Brian  McDonald, Derek Thompson, Matt Smith, Ryan Sook",
+            "date_finished": 1388534400000,
+            "notes": [],
+            "date_started": 1390425314000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of B.P.R.D., Vol. 1: Hollow Earth and Other Stories: Rating - 4/5",
+                    "date": 1388534400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/111828",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dark Horse",
+            "tags": [
+                "Paperback",
+                "Dark Horse",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1593072805",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781593072803",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "111828",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "B.P.R.D., Vol. 1: Hollow Earth and Other Stories",
+            "id": 111828,
+            "author": "Mike Mignola",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/111828",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dark Horse",
+            "tags": [
+                "Paperback",
+                "Dark Horse",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 111828,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

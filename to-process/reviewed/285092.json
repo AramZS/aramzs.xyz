@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528968574,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 285092
+                },
+                "isbn": 1573225517,
+                "isbn13": 9781573225519,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4007
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.K8EYrkrh0LntOs8RYzZTMw",
+                "title": "High Fidelity",
+                "title_without_series": "High Fidelity",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327928082l/285092._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327928082l/285092._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/285092.High_Fidelity",
+                "num_pages": 340,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Riverhead Books",
+                "publication_day": 5,
+                "publication_year": 1996,
+                "publication_month": 5,
+                "average_rating": 3.94,
+                "ratings_count": 169562,
+                "description": "Do you know your desert-island, all-time, top five most memorable split-ups?<br /><br />Rob does. He keeps a list, in fact. But Laura isn't on it - even though she's just become his latest ex. He's got his life back, you see. He can just do what he wants when he wants: like listen to whatever music he likes, look up the girls that are on his list, and generally behaves as if Laura never mattered. But Rob finds he can't move on. He's stuck in a really deep groove - and it's called Laura. Soon, he's asking himself some big questions: about love, about life - and about why we choose to share ours with the people we do.",
+                "authors": {
+                    "author": {
+                        "id": 2929,
+                        "name": "Nick Hornby",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1422915487p5/2929.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1422915487p2/2929.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2929.Nick_Hornby",
+                        "average_rating": 3.66,
+                        "ratings_count": 596704,
+                        "text_reviews_count": 33047
+                    }
+                },
+                "published": 1996,
+                "work": {
+                    "id": 2961887,
+                    "uri": "kca://work/amzn1.gr.work.v1.9kkGeihfTLwrnjeFYPqFBw"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847069190,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:30:47 -0800 2013",
+            "date_updated": "Thu Dec 04 09:07:09 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528968574",
+            "link": "https://www.goodreads.com/review/show/528968574",
+            "owned": 0
+        }
+    }
+}

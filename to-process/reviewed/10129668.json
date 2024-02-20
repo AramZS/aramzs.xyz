@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785922799,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 10129668
+                },
+                "isbn": "006187325X",
+                "isbn13": 9780061873256,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 282
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.hBug2qQ09XsT4Qlo0YO4-w",
+                "title": "The Beekeeper's Lament: How One Man and Half a Billion Honey Bees Help Feed America",
+                "title_without_series": "The Beekeeper's Lament: How One Man and Half a Billion Honey Bees Help Feed America",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940879l/10129668._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327940879l/10129668._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/10129668-the-beekeeper-s-lament",
+                "num_pages": 288,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Harper Perennial",
+                "publication_day": 24,
+                "publication_year": 2011,
+                "publication_month": 5,
+                "average_rating": 3.93,
+                "ratings_count": 1878,
+                "description": "“You’ll never think of bees, their keepers, or the fruits (and nuts) of their laborsthe same way again.” —Trevor Corson, author of <em>The Secret Life of Lobsters</em><br /><br />Award-winning journalist Hannah Nordhaus tells the remarkable story of John Miller, one of America’s foremost migratory beekeepers, and the myriad and mysterious epidemics threatening American honeybee populations. In luminous, razor-sharp prose, Nordhaus explores the vital role that honeybees play in American agribusiness, the maintenance of our food chain, and the very future of the nation. With an intimate focus and incisive reporting, in a book perfect for fans of Eric Schlosser’s <em>Fast Food Nation</em>, Michael Pollan’s <em>The Botany of Desire</em>,and John McPhee’s <em>Oranges,</em> Nordhaus’s stunning exposé illuminates one the most critical issues facing the world today,offering insight, information, and, ultimately, hope.",
+                "authors": {
+                    "author": {
+                        "id": 2807114,
+                        "name": "Hannah Nordhaus",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1423094268p5/2807114.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1423094268p2/2807114.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2807114.Hannah_Nordhaus",
+                        "average_rating": 3.64,
+                        "ratings_count": 4401,
+                        "text_reviews_count": 774
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 15027533,
+                    "uri": "kca://work/amzn1.gr.work.v1.OVWOCjP4wmrewCsZDXQjPA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546328722
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:16:51 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1449417875,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Oct 16 07:16:50 -0700 2016",
+            "date_updated": "Sun Oct 16 07:16:51 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785922799",
+            "link": "https://www.goodreads.com/review/show/1785922799",
+            "owned": 0
+        }
+    }
+}

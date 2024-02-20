@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785922621,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 345000
+                },
+                "isbn": 465036961,
+                "isbn13": 9780465036967,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 65
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.VhtSQaSvliKTzGR0DhUU2Q",
+                "title": "Killing Monsters: Our Children's Need For Fantasy, Heroism, and Make-Believe Violence",
+                "title_without_series": "Killing Monsters: Our Children's Need For Fantasy, Heroism, and Make-Believe Violence",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/345000.Killing_Monsters",
+                "num_pages": 272,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Basic Books",
+                "publication_day": 6,
+                "publication_year": 2003,
+                "publication_month": 5,
+                "average_rating": 3.94,
+                "ratings_count": 463,
+                "description": "Children choose their heroes more carefully than we think. From Pokémon to the rapper Eminem, pop-culture icons are not simply commercial pied pipers who practice mass hypnosis on our youth. Indeed, argues the author of this lively and persuasive paean to the power of popular culture, even trashy or violent entertainment gives children something they need, something that can help both boys and girls develop in a healthy way. Drawing on a wealth of true stories, many gleaned from the fascinating workshops he conducts, and basing his claims on extensive research, including interviews with psychologists and educators, Gerard Jones explains why validating our children's fantasies teaches them to trust their own emotions and build stronger selves.",
+                "authors": {
+                    "author": {
+                        "id": 16515,
+                        "name": "Gerard Jones",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1477929151p5/16515.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1477929151p2/16515.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16515.Gerard_Jones",
+                        "average_rating": 3.97,
+                        "ratings_count": 25385,
+                        "text_reviews_count": 870
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 655269,
+                    "uri": "kca://work/amzn1.gr.work.v1.e4YDGiLiNHyHSOR9rXGQMw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546328504
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:16:36 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1449417714,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Oct 16 07:16:36 -0700 2016",
+            "date_updated": "Sun Oct 16 07:16:36 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785922621",
+            "link": "https://www.goodreads.com/review/show/1785922621",
+            "owned": 0
+        }
+    }
+}

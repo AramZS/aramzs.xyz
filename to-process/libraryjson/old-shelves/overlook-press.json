@@ -1,0 +1,104 @@
+{
+    "name": "Overlook Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Titus Groan (Gormenghast, #1)",
+            "id": "39063",
+            "author": "Mervyn Peake",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1554570006000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Titus Groan (Gormenghast, #1): Rating - 3/5",
+                    "date": 1554570006000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/39063",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Overlook Press",
+            "tags": [
+                "Paperback",
+                "Overlook Press",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0879514256",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780879514259",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "39063",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Titus Groan (Gormenghast, #1)",
+            "id": 39063,
+            "author": "Mervyn Peake",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/39063",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Overlook Press",
+            "tags": [
+                "Paperback",
+                "Overlook Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 39063,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

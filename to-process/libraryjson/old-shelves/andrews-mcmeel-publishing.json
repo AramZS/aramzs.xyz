@@ -1,0 +1,141 @@
+{
+    "name": "Andrews McMeel Publishing",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Herding Cats (Sarah's Scribbles, #3)",
+            "id": "35924705",
+            "author": "Sarah Andersen",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1545062346000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/35924705",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Andrews McMeel Publishing",
+            "tags": [
+                "Paperback",
+                "Andrews McMeel Publishing",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1449489788",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781449489786",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "35924705",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Witch Doesn't Burn in This One (Women Are Some Kind of Magic, #2)",
+            "id": "35924698",
+            "author": "Amanda Lovelace",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1543267673000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/35924698",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Andrews McMeel Publishing",
+            "tags": [
+                "Paperback",
+                "Andrews McMeel Publishing",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1449489427",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781449489427",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "35924698",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Big Mushy Happy Lump (Sarah's Scribbles, #2)",
+            "id": "30754980",
+            "author": "Sarah Andersen",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1514491953000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30754980",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Andrews McMeel Publishing",
+            "tags": [
+                "Paperback",
+                "Andrews McMeel Publishing",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1449479618",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781449479619",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "30754980",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

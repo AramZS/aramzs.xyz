@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 442769247,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6801452
+                },
+                "isbn": 596518862,
+                "isbn13": 9780596518868,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 48
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.OVMsjXQjzZnKpmfyj5x7qQ",
+                "title": "The Art of SEO: Mastering Search Engine Optimization",
+                "title_without_series": "The Art of SEO: Mastering Search Engine Optimization",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834817l/6801452._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328834817l/6801452._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6801452-the-art-of-seo",
+                "num_pages": 556,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "O'Reilly Media",
+                "publication_day": 28,
+                "publication_year": 2009,
+                "publication_month": 10,
+                "average_rating": 4.09,
+                "ratings_count": 749,
+                "description": "Four acknowledged experts in search engine optimization share guidelines and innovative techniques that will help you plan and execute a comprehensive SEO strategy. This second edition brings you up to date on recent changes in search engine behavior—such as new ranking methods involving user engagement and social media—with an array of effective tactics, from basic to advanced.<br /><br /><br />Comprehend SEO’s many intricacies and complexities<br />Explore the underlying theory and inner workings of search engines<br />Understand the role of social media, user data, and links<br />Discover tools to track results and measure success<br />Recognize how changes to your site can confuse search engines<br />Learn to build a competent SEO team with defined roles<br />Glimpse the future of search and the SEO industry<br />Visit <i><a target=\"_blank\" href=\"http://www.artofseobook.com\" rel=\"nofollow\">www.artofseobook.com</a></i> for late-breaking updates, checklists, worksheets, templates, and guides.",
+                "authors": {
+                    "author": {
+                        "id": 3054784,
+                        "name": "Eric Enge",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3054784.Eric_Enge",
+                        "average_rating": 4.09,
+                        "ratings_count": 749,
+                        "text_reviews_count": 59
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 7007899,
+                    "uri": "kca://work/amzn1.gr.work.v1.mNtJDlSC7qknGKVXA_lUjA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 602771075
+                    },
+                    "old_status": "currently-reading",
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 13 09:46:03 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 293110495,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Oct 27 08:00:25 -0700 2012",
+            "read_at": "Mon Oct 13 09:46:03 -0700 2014",
+            "date_added": "Sat Oct 27 08:00:25 -0700 2012",
+            "date_updated": "Mon Oct 13 09:46:03 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/442769247",
+            "link": "https://www.goodreads.com/review/show/442769247",
+            "owned": 0
+        }
+    }
+}

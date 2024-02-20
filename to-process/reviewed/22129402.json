@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967981,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22129402
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 24
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.uoCW48hfMnYy9heGb4WuJA",
+                "title": "Willful Child",
+                "title_without_series": "Willful Child",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410020502l/22129402._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410020502l/22129402._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22129402-willful-child",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.49,
+                "ratings_count": 2167,
+                "description": "<i>These are the voyages of the starship, A.S.F. </i>Willful Child<i>. Its ongoing mission: to seek out strange new worlds on which to plant the Terran flag, to subjugate and if necessary obliterate new life life-forms, to boldly blow the...</i><br /><br /><br /><br /><br /><br />And so we join the not-terribly-bright but exceedingly cock-sure Captain Hadrian Sawback - a kind of James T Kirk crossed with 'American Dad' - and his motley crew on board the Starship Willful Child for a series of devil-may-care, near-calamitous and downright chaotic adventures through 'the infinite vastness of interstellar space'...<br /><br /><br /><br /><br /><br />The bestselling author of the acclaimed Malazan Book of the Fallen sequence has taken his life-long passion for 'Star Trek' and transformed it into a smart, inventive and hugely entertaining spoof on the whole mankind-exploring-space-for-the-good-of-all-species-but-trashing-stuff-with-a-lot-of-hi-tech-kit-along-the-way type over-blown adventure. The result is this smart. inventive, occasionally wildly OTT and often very funny novel that deftly parodies the genre while also paying fond homage to it.",
+                "authors": {
+                    "author": {
+                        "id": 31232,
+                        "name": "Steven Erikson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1219169436p5/31232.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1219169436p2/31232.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/31232.Steven_Erikson",
+                        "average_rating": 4.23,
+                        "ratings_count": 409365,
+                        "text_reviews_count": 17282
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 26112570,
+                    "uri": "kca://work/amzn1.gr.work.v1.w6xdAob2Vldqy80PH3iW4g"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2051882504
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Oct 23 16:33:51 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 886479635
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Jun 05 15:29:54 -0700 2015"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:29:53 -0700 2015",
+            "date_updated": "Mon Oct 23 16:33:51 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967981",
+            "link": "https://www.goodreads.com/review/show/1299967981",
+            "owned": 0
+        }
+    }
+}

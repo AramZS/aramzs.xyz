@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1487386940,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 26069714
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 43
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.MV7_3ofxr9ApWZ9C1mA6dg",
+                "title": "ELEKTROGRAD: RUSTED BLOOD",
+                "title_without_series": "ELEKTROGRAD: RUSTED BLOOD",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439148596l/26069714._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439148596l/26069714._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/26069714-elektrograd",
+                "num_pages": 35,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "SUMMON Books",
+                "publication_day": 16,
+                "publication_year": 2015,
+                "publication_month": 8,
+                "average_rating": 3.9,
+                "ratings_count": 849,
+                "description": "ELEKTROGRAD is the city of the future. Since the early 20th Century, it has been used as a testbed for futuristic modes of living. Each of its seven districts is an experimental site for new forms of architecture.<br /><br />It is now the early 21st Century. Elektrograd is showing its age.<br /><br />Mekanoplatz is the northernmost district of Elektrograd. And, on the district border, within site of the old construction robots with homeless people sheltering in their rusting carcasses, under the green flingers reaching their tentacles to the edge of space, and in the shadow of the hall where the shape of the future was first revealed in sparks and fire, there is a dead body.<br /><br />ELEKTROGRAD: RUSTED BLOOD is a murder mystery in a strange dream of a city, from the NYT-bestselling author of the crime novel GUN MACHINE and the graphic novels TRANSMETROPOLITAN, PLANETARY and RED.",
+                "authors": {
+                    "author": {
+                        "id": 12772,
+                        "name": "Warren Ellis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p5/12772.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p2/12772.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12772.Warren_Ellis",
+                        "average_rating": 4.13,
+                        "ratings_count": 411463,
+                        "text_reviews_count": 19050
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 46005717,
+                    "uri": "kca://work/amzn1.gr.work.v1.36Xe5QyrGFWQc1rzV0ScIQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1139244508
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 31 08:38:53 -0800 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Feb 01 00:00:00 -0800 2015",
+            "date_added": "Thu Dec 31 08:38:52 -0800 2015",
+            "date_updated": "Thu Dec 31 08:56:31 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1487386940",
+            "link": "https://www.goodreads.com/review/show/1487386940",
+            "owned": 0
+        }
+    }
+}

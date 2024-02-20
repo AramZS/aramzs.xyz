@@ -1,0 +1,112 @@
+{
+    "name": "Dutton Adult",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Freedom™ (Daemon, #2)",
+            "id": "7132363",
+            "author": "Daniel Suarez",
+            "date_finished": 1286064000000,
+            "notes": [],
+            "date_started": 1286163186000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Freedom™ (Daemon, #2): Rating - 5/5",
+                    "date": 1286064000000,
+                    "type": "short",
+                    "content": "Excellent book. Well written, captivating plot and fascinating in its near-future assumptions. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7132363",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dutton Adult",
+            "tags": [
+                "Hardcover",
+                "Dutton Adult",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0525951571",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780525951575",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "7132363",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Daemon (Daemon, #1)",
+            "id": "4699575",
+            "author": "Daniel Suarez",
+            "date_finished": 1243296000000,
+            "notes": [],
+            "date_started": 1243386757000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Daemon (Daemon, #1): Rating - 4/5",
+                    "date": 1243296000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4699575",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dutton Adult",
+            "tags": [
+                "Hardcover",
+                "Dutton Adult",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0525951113",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780525951117",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "4699575",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

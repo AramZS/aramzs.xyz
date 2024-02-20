@@ -1,0 +1,125 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340460,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18691062
+                },
+                "isbn": 1401246826,
+                "isbn13": 9781401246822,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 35
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.BA6W4aIBwjLHFqEjJRhvRA",
+                "title": "Batman: Bruce Wayne, Fugitive",
+                "title_without_series": "Batman: Bruce Wayne, Fugitive",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400857219l/18691062._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400857219l/18691062._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18691062-batman",
+                "num_pages": 418,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "DC Comics",
+                "publication_day": 15,
+                "publication_year": 2014,
+                "publication_month": 7,
+                "average_rating": 3.71,
+                "ratings_count": 330,
+                "description": "Indicted for killing his sometime girlfriend Vesper Fairchild, Bruce Wayne is sent to Blackgate Prison...only to escape, launching a citywide manhunt. Now Batman has now gone to ground -- renouncing his true identity and operating deeper in the shadows than ever before. It falls to his extended family -- Nightwing, Robin, Oracle, Batgirl, Spoiler, and Alfred to figure out who really did commit the murder. While the clues point to a possible setup, no one can deny that those same clues might point to Batman's actual guilt. <br /><br />This new, single-volume edition includes never before reprinted stories. Collects BATMAN #603-607, DETECTIVE COMICS #768-775, BATMAN: GOTHAM KNIGHTS #29-32 and BATGIRL #29 and 33.",
+                "authors": {
+                    "author": {
+                        "id": 18327,
+                        "name": "Greg Rucka",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192549912p5/18327.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192549912p2/18327.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/18327.Greg_Rucka",
+                        "average_rating": 3.99,
+                        "ratings_count": 250835,
+                        "text_reviews_count": 18704
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 26537412,
+                    "uri": "kca://work/amzn1.gr.work.v1.66FPTJ9768ljXlglrPJq7Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452280388
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:04:43 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "exclusive": true,
+                        "id": 2635324,
+                        "name": "to-read",
+                        "review_shelf_id": 710709217,
+                        "sortable": true
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813198799,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:04:43 -0700 2014",
+            "date_updated": "Mon Oct 23 16:36:23 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340460",
+            "link": "https://www.goodreads.com/review/show/960340460",
+            "owned": 0
+        }
+    }
+}

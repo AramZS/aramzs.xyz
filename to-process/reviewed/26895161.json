@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1757216509,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 26895161
+                },
+                "isbn": 1101966939,
+                "isbn13": 9781101966938,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 871
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.G6g1lPMZilbKVklBCZwMvQ",
+                "title": "Life Debt (Star Wars: Aftermath, #2)",
+                "title_without_series": "Life Debt",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449268300l/26895161._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449268300l/26895161._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/26895161-life-debt",
+                "num_pages": 448,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Del Rey",
+                "publication_day": 19,
+                "publication_year": 2016,
+                "publication_month": 7,
+                "average_rating": 3.73,
+                "ratings_count": 11331,
+                "description": "Set between the events of <i>Return of the Jedi</i> and <i>The Force Awakens</i>, the never-before-told story that began with <i>Star Wars: Aftermath</i> continues in this thrilling novel, the second book of Chuck Wendig s <i>New York Times</i> bestselling trilogy.<br /><br />\"It is a dark time for the Empire. . . .\"<br /><br />The Emperor is dead, and the remnants of his former Empire are in retreat. As the New Republic fights to restore a lasting peace to the galaxy, some dare to imagine new beginnings and new destinies. For Han Solo, that means settling his last outstanding debt, by helping Chewbacca liberate the Wookiee's homeworld of Kashyyyk.<br /><br />Meanwhile, Norra Wexley and her band of Imperial hunters pursue Grand Admiral Rae Sloane and the Empire's remaining leadership across the galaxy. Even as more and more officers are brought to justice, Sloane continues to elude the New Republic, and Norra fears Sloane may be searching for a means to save the crumbling Empire from oblivion. But the hunt for Sloane is cut short when Norra receives an urgent request from Princess Leia Organa. The attempt to liberate Kashyyyk has carried Han Solo, Chewbacca, and a band of smugglers into an ambush resulting in Chewie's capture and Han's disappearance.<br /><br />Breaking away from their official mission and racing toward the <i>Millennium Falcon</i>'s last known location, Norra and her crew prepare for any challenge that stands between them and their missing comrades. But they can't anticipate the true depth of the danger that awaits them or the ruthlessness of the enemy drawing them into his crosshairs.",
+                "authors": {
+                    "author": {
+                        "id": 17152,
+                        "name": "Chuck Wendig",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p5/17152.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p2/17152.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17152.Chuck_Wendig",
+                        "average_rating": 3.73,
+                        "ratings_count": 111872,
+                        "text_reviews_count": 16121
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 47250982,
+                    "uri": "kca://work/amzn1.gr.work.v1.H00jFwLO3Nw9jFzf0J8cyA"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1647187875
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Jan 03 10:38:55 -0800 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1508834794
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Sep 13 15:52:31 -0700 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Tue Sep 13 00:00:00 -0700 2016",
+            "read_at": "Sat Nov 19 00:00:00 -0800 2016",
+            "date_added": "Tue Sep 13 15:52:31 -0700 2016",
+            "date_updated": "Tue Jan 03 10:39:12 -0800 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1757216509",
+            "link": "https://www.goodreads.com/review/show/1757216509",
+            "owned": 0
+        }
+    }
+}

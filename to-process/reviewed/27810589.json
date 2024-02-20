@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749129343,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 27810589
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 794
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.iRpqp0g5QRzsQuO08ZY9BA",
+                "title": "A Death in Sweden",
+                "title_without_series": "A Death in Sweden",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/27810589-a-death-in-sweden",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.84,
+                "ratings_count": 16501,
+                "description": "Dan Hendricks is a man in need of a lifeline. A former CIA operative, he is now an agent for hire by foreign powers on the hunt for dangerous fugitives. It’s a lethal world at the best of times, and Dan knows his number is almost up. His next job could be his last—and his next job is his biggest yet.<br /><br />The target sounds trackable enough: Jacques Fillon, who gave up his life trying to save a fellow passenger following a bus crash in northern Sweden. But the man was something of an enigma in this rural community, and his death exposes his greatest secret: Jacques Fillon never existed at all.<br /><br />Dan is tasked with uncovering Fillon’s true identity—but can he do so before his own past catches up with him?",
+                "authors": {
+                    "author": {
+                        "id": 5094,
+                        "name": "Kevin Wignall",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1446076083p5/5094.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1446076083p2/5094.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5094.Kevin_Wignall",
+                        "average_rating": 3.95,
+                        "ratings_count": 50380,
+                        "text_reviews_count": 2416
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 45688257,
+                    "uri": "kca://work/amzn1.gr.work.v1.qiSvStEtVbMo56q7rS4P4Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498302530
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:42:26 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414465829,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:42:25 -0700 2016",
+            "date_updated": "Mon Sep 05 07:42:26 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749129343",
+            "link": "https://www.goodreads.com/review/show/1749129343",
+            "owned": 0
+        }
+    }
+}

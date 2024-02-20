@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749132339,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6609384
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Q72BjfAA3muqDDXnUIvRNg",
+                "title": "Grand Illusion",
+                "title_without_series": "Grand Illusion",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6609384-grand-illusion",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.71,
+                "ratings_count": 51,
+                "description": "<p>Rudy Giuliani emerged from the smoke of 9/11 as the unquestioned hero of the day: America's Mayor, the father figure we could all rely on to be tough, to be wise, to do the right thing. In that uncertain time, it was a comfort to know that he was on the scene and in control, making the best of a dire situation.</p><p>But was he really?</p><p><em>Grand Illusion</em> is the definitive report on Rudy Giuliani's role in 9/11—the true story of what happened that day and the first clear-eyed evaluation of Giuliani's role before, during, and after the disaster.</p><p>While the pictures of a soot-covered Giuliani making his way through the streets became very much a part of his personal mythology, they were also a symbol of one of his greatest failures. The mayor's performance, though marked by personal courage and grace under fire, followed two terms in office pursuing an utterly wrongheaded approach to the city's security against terrorism. Turning the mythology on its head, <em>Grand Illusion</em> reveals how Giuliani has revised his own history, casting himself as prescient terror hawk when in fact he ran his administration as if terrorist threats simply did not exist, too distracted by pet projects and turf wars to attend to vital precautions.</p><p>Authors Wayne Barrett and Dan Collins also provide the first authoritative view of the aftermath of the 9/11 attacks, recounting the triumphs and missteps of the city's efforts to heal itself. With surprising new reporting about the victims, the villains, and the heroes, this is an eye-opening reassessment of one of the pivotal events—and politicians—of our time.</p>",
+                "authors": {
+                    "author": {
+                        "id": 836,
+                        "name": "Wayne Barrett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/836.Wayne_Barrett",
+                        "average_rating": 3.76,
+                        "ratings_count": 278,
+                        "text_reviews_count": 40
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 5439,
+                    "uri": "kca://work/amzn1.gr.work.v1.9bfbmoefmv_FvtYEiDw0FA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498306417
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:45:51 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:45:50 -0700 2016",
+            "date_updated": "Mon Sep 05 07:45:51 -0700 2016",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749132339",
+            "link": "https://www.goodreads.com/review/show/1749132339",
+            "owned": 0
+        }
+    }
+}

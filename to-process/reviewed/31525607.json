@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2414300841,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 31525607
+                },
+                "isbn": 571268943,
+                "isbn13": 9780571268948,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 258
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.C0hAbMYNAyw5zoPre0ZFPQ",
+                "title": "Welcome to Lagos",
+                "title_without_series": "Welcome to Lagos",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471423859l/31525607._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471423859l/31525607._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/31525607-welcome-to-lagos",
+                "num_pages": 368,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Faber & Faber",
+                "publication_day": 7,
+                "publication_year": 2017,
+                "publication_month": 1,
+                "average_rating": 3.74,
+                "ratings_count": 1981,
+                "description": "Deep in the Niger Delta, officer Chike Ameobi deserts the army and sets out on the road to Lagos. He is soon joined by a wayward private, a naive militant, a vulnerable young woman and a runaway middle-class wife. The shared goals of this unlikely group: freedom and new life.<br /><br />As they strive to find their places in the city, they become embroiled in a political scandal. Ahmed Bakare, editor of the failing Nigerian Journal, is determined to report the truth. Yet government minister Chief Sandayo will do anything to maintain his position. Trapped between the two, they are forced to make a life-changing decision.<br /><br />Full of shimmering detail, <i>Welcome to Lagos</i> is a stunning portrayal of an extraordinary city, and of seven lives that intersect in a breathless story of courage and survival.",
+                "authors": {
+                    "author": {
+                        "id": 5147513,
+                        "name": "Chibundu Onuzo",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1404941278p5/5147513.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1404941278p2/5147513.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5147513.Chibundu_Onuzo",
+                        "average_rating": 3.71,
+                        "ratings_count": 3493,
+                        "text_reviews_count": 576
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 52210758,
+                    "uri": "kca://work/amzn1.gr.work.v1.KKD25yKGfsZhQ4Nd03GfpQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2381649531
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Jun 05 11:07:43 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2060946618,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Jun 05 11:07:42 -0700 2018",
+            "date_updated": "Tue Jun 05 11:07:43 -0700 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2414300841",
+            "link": "https://www.goodreads.com/review/show/2414300841",
+            "owned": 0
+        }
+    }
+}

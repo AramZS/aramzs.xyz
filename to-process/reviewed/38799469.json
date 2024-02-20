@@ -1,0 +1,121 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2421546987,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 38799469
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1503
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.XiQsis0XTC-FrcYLGLMUtQ",
+                "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+                "title_without_series": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522685770l/38799469._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522685770l/38799469._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/38799469-bad-blood",
+                "num_pages": 353,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.44,
+                "ratings_count": 143367,
+                "description": "<b>The full inside story of the breathtaking rise and shocking collapse of a multibillion-dollar startup, by the prize-winning journalist who first broke the story and pursued it to the end in the face of pressure and threats from the CEO and her lawyers.</b><br /><br />In 2014, Theranos founder and CEO Elizabeth Holmes was widely seen as the female Steve Jobs: a brilliant Stanford dropout whose startup \"unicorn\" promised to revolutionize the medical industry with a machine that would make blood tests significantly faster and easier. Backed by investors such as Larry Ellison and Tim Draper, Theranos sold shares in a fundraising round that valued the company at $9 billion, putting Holmes's worth at an estimated $4.7 billion. There was just one problem: The technology didn't work.<br /><br />For years, Holmes had been misleading investors, FDA officials, and her own employees. When Carreyrou, working at <i>The Wall Street Journal,</i> got a tip from a former Theranos employee and started asking questions, both Carreyrou and the <i>Journal</i> were threatened with lawsuits. Undaunted, the newspaper ran the first of dozens of Theranos articles in late 2015. By early 2017, the company's value was zero and Holmes faced potential legal action from the government and her investors. Here is the riveting story of the biggest corporate fraud since Enron, a disturbing cautionary tale set amid the bold promises and gold-rush frenzy of Silicon Valley.",
+                "authors": {
+                    "author": {
+                        "id": 17575761,
+                        "name": "John Carreyrou",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557850844p5/17575761.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557850844p2/17575761.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17575761.John_Carreyrou",
+                        "average_rating": 4.44,
+                        "ratings_count": 143433,
+                        "text_reviews_count": 14330
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 59699437,
+                    "uri": "kca://work/amzn1.gr.work.v1.KtP4zS1nbZ4KYtEWQH4uUQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2391210543
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Jun 12 06:02:08 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Jun 12 06:02:11 -0700 2018",
+            "date_added": "Tue Jun 12 06:02:08 -0700 2018",
+            "date_updated": "Tue Jun 12 06:02:11 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "reading_notes_link_text": "28 highlights",
+            "reading_notes_url": "https://www.goodreads.com/notes/38799469-bad-blood/1244876-aram",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2421546987",
+            "link": "https://www.goodreads.com/review/show/2421546987",
+            "owned": 0
+        }
+    }
+}

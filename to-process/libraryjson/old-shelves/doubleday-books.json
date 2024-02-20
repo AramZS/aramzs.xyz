@@ -1,0 +1,96 @@
+{
+    "name": "Doubleday Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Starless Sea",
+            "id": "43575115",
+            "author": "Erin Morgenstern",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961274000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/43575115",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Doubleday Books",
+            "tags": [
+                "Hardcover",
+                "Doubleday Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "038554121X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780385541213",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "43575115",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "My Sister, the Serial Killer",
+            "id": "38819868",
+            "author": "Oyinkan Braithwaite",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961209000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/38819868",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Doubleday Books",
+            "tags": [
+                "Hardcover",
+                "Doubleday Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0385544235",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780385544238",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "38819868",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

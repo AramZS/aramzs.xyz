@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 61082212,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1202
+                },
+                "isbn": 61234001,
+                "isbn13": 9780061234002,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 13258
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.R8VMmLFFJXIjZVkSrYZAug",
+                "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+                "title_without_series": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550917827l/1202._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550917827l/1202._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1202.Freakonomics",
+                "num_pages": 320,
+                "format": "Hardcover",
+                "edition_information": "Revised and Expanded Edition (US/CAN)",
+                "publisher": "William Morrow",
+                "publication_day": 17,
+                "publication_year": 2006,
+                "publication_month": 10,
+                "average_rating": 3.97,
+                "ratings_count": 680000,
+                "description": "Which is more dangerous, a gun or a swimming pool? What do schoolteachers and sumo wrestlers have in common? Why do drug dealers still live with their moms? How much do parents really matter? What kind of impact did Roe v. Wade have on violent crime? Freakonomics will literally redefine the way we view the modern world.<br /><br />These may not sound like typical questions for an economist to ask. But Steven D. Levitt is not a typical economist. He is a much heralded scholar who studies the stuff and riddles of everyday life -- from cheating and crime to sports and child rearing -- and whose conclusions regularly turn the conventional wisdom on its head. He usually begins with a mountain of data and a simple, unasked question. Some of these questions concern life-and-death issues; others have an admittedly freakish quality. Thus the new field of study contained in this book: freakonomics.<br /><br />Through forceful storytelling and wry insight, Levitt and co-author Stephen J. Dubner show that economics is, at root, the study of incentives -- how people get what they want, or need, especially when other people want or need the same thing. In Freakonomics, they set out to explore the hidden side of ... well, everything. The inner workings of a crack gang. The truth about real-estate agents. The myths of campaign finance. The telltale marks of a cheating schoolteacher. The secrets of the Ku Klux Klan.<br /><br />What unites all these stories is a belief that the modern world, despite a surfeit of obfuscation, complication, and downright deceit, is not impenetrable, is not unknowable, and -- if the right questions are asked -- is even more intriguing than we think. All it takes is a new way of looking. Steven Levitt, through devilishly clever and clear-eyed thinking, shows how to see through all the clutter.<br /><br />Freakonomics establishes this unconventional premise: If morality represents how we would like the world to work, then economics represents how it actually does work. It is true that readers of this book will be armed with enough riddles and stories to last a thousand cocktail parties. But Freakonomics can provide more than that. It will literally redefine the way we view the modern world.<br />(front flap)",
+                "authors": {
+                    "author": {
+                        "id": 798,
+                        "name": "Steven D. Levitt",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215370905p5/798.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215370905p2/798.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/798.Steven_D_Levitt",
+                        "average_rating": 3.96,
+                        "ratings_count": 855989,
+                        "text_reviews_count": 24821
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 5397,
+                    "uri": "kca://work/amzn1.gr.work.v1.U-RYDH4VS6Lp0ghiF96-sQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 31053423,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jun 25 11:51:10 -0700 2009",
+            "date_updated": "Thu Jun 25 11:51:10 -0700 2009",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/61082212",
+            "link": "https://www.goodreads.com/review/show/61082212",
+            "owned": 0
+        }
+    }
+}

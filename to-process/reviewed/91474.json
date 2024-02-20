@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 162067332,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 91474
+                },
+                "isbn": 451461037,
+                "isbn13": 9780451461032,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2174
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.T2bSuqxGTZbIUFssrwkR3g",
+                "title": "Proven Guilty (The Dresden Files, #8)",
+                "title_without_series": "Proven Guilty",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345667469l/91474._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345667469l/91474._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/91474.Proven_Guilty",
+                "num_pages": 489,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Roc",
+                "publication_day": 6,
+                "publication_year": 2007,
+                "publication_month": 2,
+                "average_rating": 4.41,
+                "ratings_count": 99015,
+                "description": "There's no love lost between Harry Dresden, the only wizard in the Chicago phone book, and the White Council of Wizards, who find him brash and undisciplined. But war with the vampires has thinned their ranks, so the Council has drafted Harry as a Warden and assigned him to look into rumors of black magic in the Windy City.<br /><br />As Harry adjusts to his new role, another problem arrives in the form of the tattooed and pierced daughter of an old friend, all grown-up and already in trouble. Her boyfriend is the only suspect in what looks like a supernatural assault straight out of a horror film. Malevolent entities that feed on fear are loose in Chicago, but it's all in a day's work for a wizard, his faithful dog, and a talking skull named Bob....",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364197,
+                        "text_reviews_count": 98043
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 576222,
+                    "uri": "kca://work/amzn1.gr.work.v1.vr6FnXwBFSPhNSKcxVgYxA"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Apr 19 06:37:37 -0700 2011",
+            "date_updated": "Tue Apr 19 06:37:41 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/162067332",
+            "link": "https://www.goodreads.com/review/show/162067332",
+            "owned": 0
+        }
+    }
+}

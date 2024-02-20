@@ -1,0 +1,247 @@
+{
+    "name": "G.P. Putnam's Sons",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Golem of Hollywood (A Detective Jacob Lev Novel)",
+            "id": "22598977",
+            "author": "Jonathan Kellerman, Jesse Kellerman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086663000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22598977",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "G.P. Putnam's Sons",
+            "tags": [
+                "Kindle Edition",
+                "G.P. Putnam's Sons",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "22598977",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Distrust That Particular Flavor",
+            "id": "11890817",
+            "author": "William Gibson",
+            "date_finished": 1342742400000,
+            "notes": [],
+            "date_started": 1351350919000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Distrust That Particular Flavor: Rating - 5/5",
+                    "date": 1342742400000,
+                    "type": "short",
+                    "content": "You wouldn't normally think of Gibson as a non-fiction author, but Distrust That Particular Flavor gives you a set of remarkable essays written with the same unique style and touch of the future that makes his fiction so fascinating. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11890817",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "G.P. Putnam's Sons",
+            "tags": [
+                "Hardcover",
+                "G.P. Putnam's Sons",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "039915843X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780399158438",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "11890817",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Mistress of the Art of Death (Mistress of the Art of Death, #1)",
+            "id": "86643",
+            "author": "Ariana Franklin",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213669148000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Mistress of the Art of Death (Mistress of the Art of Death, #1): Rating - 4/5",
+                    "date": 1213669148000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/86643",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "G.P. Putnam's Sons",
+            "tags": [
+                "Hardcover",
+                "G.P. Putnam's Sons",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0399154140",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780399154140",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "86643",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Mistress of the Art of Death (Mistress of the Art of Death, #1)",
+            "id": 86643,
+            "author": "Ariana Franklin",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/86643",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "G.P. Putnam's Sons",
+            "tags": [
+                "Hardcover",
+                "G.P. Putnam's Sons",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 86643,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Distrust That Particular Flavor",
+            "id": 11890817,
+            "author": "William Gibson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11890817",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "G.P. Putnam's Sons",
+            "tags": [
+                "Hardcover",
+                "G.P. Putnam's Sons",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "039915843X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 11890817,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

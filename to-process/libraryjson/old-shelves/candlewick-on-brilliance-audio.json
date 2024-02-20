@@ -1,0 +1,51 @@
+{
+    "name": "Candlewick on Brilliance Audio",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Knife of Never Letting Go (Chaos Walking, #1)",
+            "id": "8505011",
+            "author": "Patrick Ness, Nick Podehl",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086500000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8505011",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Candlewick on Brilliance Audio",
+            "tags": [
+                "Audible Audio",
+                "Candlewick on Brilliance Audio",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "8505011",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

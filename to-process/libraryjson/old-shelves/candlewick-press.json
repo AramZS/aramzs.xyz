@@ -1,0 +1,51 @@
+{
+    "name": "Candlewick Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Feed",
+            "id": "13531038",
+            "author": "M.T. Anderson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1545061816000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13531038",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Candlewick Press",
+            "tags": [
+                "Paperback",
+                "Candlewick Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0763662623",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780763662622",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "13531038",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

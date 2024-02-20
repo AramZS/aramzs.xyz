@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2646426477,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 164527
+                },
+                "isbn": 801492408,
+                "isbn13": 9780801492402,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.E4QzUI4TfN5QxtNAismGmw",
+                "title": "Interfaces of the Word: Studies in the Evolution of Consciousness and Culture",
+                "title_without_series": "Interfaces of the Word: Studies in the Evolution of Consciousness and Culture",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412529256l/164527._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412529256l/164527._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/164527.Interfaces_of_the_Word",
+                "num_pages": 352,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Cornell University Press",
+                "publication_day": 14,
+                "publication_year": 2013,
+                "publication_month": 2,
+                "average_rating": 4.25,
+                "ratings_count": 28,
+                "description": "Drawing on a wide range of disciplines--linguistics, phenomenological analysis, cultural anthropology, media studies, and intellectual history--Walter J. Ong offers a reasoned and sophisticated view of human consciousness different in many respects from that of structuralism. The essays in <i>Interfaces of the Word </i>are grouped around the dialectically related themes of change or alienation and growth or integration. Among the subjects Ong covers are the origins of speech in mother tongues; the rise and final erosion of nonvernacular learned languages; and the fictionalizing of audiences that is enforced by writing. Other essays treat the idiom of African talking drums, the ways new media interface with the old, and the various connections between specific literary forms and shifts in media that register in the work of Shakespeare and Milton and in movements such as the New Criticism. Ong also discusses the paradoxically nonliterary character of the Bible and the concerted blurring of fiction and actuality that marked much drama and narrative toward the close of the twentieth century.",
+                "authors": {
+                    "author": {
+                        "id": 95588,
+                        "name": "Walter J. Ong",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1209819966p5/95588.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1209819966p2/95588.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/95588.Walter_J_Ong",
+                        "average_rating": 4.08,
+                        "ratings_count": 1749,
+                        "text_reviews_count": 120
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 158844,
+                    "uri": "kca://work/amzn1.gr.work.v1.OL52kjdMJNgszTVDIViWqQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2688244167
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Dec 30 11:43:32 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2291366104,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Dec 30 11:43:32 -0800 2018",
+            "date_updated": "Sun Dec 30 11:43:32 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2646426477",
+            "link": "https://www.goodreads.com/review/show/2646426477",
+            "owned": 0
+        }
+    }
+}

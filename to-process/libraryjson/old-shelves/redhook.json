@@ -1,0 +1,51 @@
+{
+    "name": "Redhook",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Quarry",
+            "id": "20340586",
+            "author": "Iain Banks",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1408037989000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/20340586",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Redhook",
+            "tags": [
+                "Kindle Edition",
+                "Redhook",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "20340586",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

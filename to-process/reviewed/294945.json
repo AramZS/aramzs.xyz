@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520206956,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 294945
+                },
+                "isbn": 671042408,
+                "isbn13": 9780671042400,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 14
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.5WGTLWMSlzp2qqqLgyw6Qg",
+                "title": "Being Human (Star Trek: New Frontier, #12)",
+                "title_without_series": "Being Human",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320896969l/294945._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320896969l/294945._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/294945.Being_Human",
+                "num_pages": 267,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": {},
+                "publication_year": 2001,
+                "publication_month": 11,
+                "average_rating": 4.02,
+                "ratings_count": 677,
+                "description": "Throughout the Star Trek: New Frontier saga, Mark McHenry, the navigator on the USS Excalibur, has demonstrated abilities beyond those of the somewhat odd human being he appears to be. When the inhabitants of an innocent solar system are confronted by a menace linked to the source of McHenry's powers, his true heritage is revealed at last.<br /><br />Meanwhile, Zak Kebron is going through a startling change that will leave him both more and less than he was.",
+                "authors": {
+                    "author": {
+                        "id": 13681,
+                        "name": "Peter David",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p5/13681.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p2/13681.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13681.Peter_David",
+                        "average_rating": 4.02,
+                        "ratings_count": 297991,
+                        "text_reviews_count": 13707
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 286195,
+                    "uri": "kca://work/amzn1.gr.work.v1.5K3K_M_Iu-HGUlvl_Yr7Ow"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:45:47 -0800 2013",
+            "date_updated": "Mon Jan 28 19:45:47 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520206956",
+            "link": "https://www.goodreads.com/review/show/520206956",
+            "owned": 0
+        }
+    }
+}

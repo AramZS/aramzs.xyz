@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24670228,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 394027
+                },
+                "isbn": 765342855,
+                "isbn13": 9780765342850,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 40
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8O-Itk4Cbvf46Yb8lmcJmg",
+                "title": "Permanence",
+                "title_without_series": "Permanence",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312041918l/394027._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312041918l/394027._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/394027.Permanence",
+                "num_pages": 480,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Tor Science Fiction",
+                "publication_day": 14,
+                "publication_year": 2003,
+                "publication_month": 3,
+                "average_rating": 3.77,
+                "ratings_count": 640,
+                "description": "Young Rue Cassels of the Cycler Compact -- a civilization based around remote brown dwarf stars -- is running from her bullying brother, who has threatened to sell her into slavery. Fleeing in a shuttle spacecraft from the sparsely populated and austere comet-mining habitat she has lived in her whole life, she spots a distant, approaching object, and stakes a legal claim to it. It is not the valuable comet she hoped for but something even more wonderful, an abandoned Cycler starship.<br /><br />Her discovery unleashes a fury of action, greed, and interstellar intrigue as many factions attempt to take advantage of the last great opportunity to revitalize - and perhaps control - the Compact.<br /><br />This is the story of Rue's quest to visit and claim this ship and its treasures, set against a background of warring empires, strange alien artifacts, and fantastic science. It is a story of hope and danger, of a strange and compelling religion, Permanence, unique to this star-faring age, and of the re-birth of life and belief in a place at the edge of forever.<br />",
+                "authors": {
+                    "author": {
+                        "id": 19169,
+                        "name": "Karl Schroeder",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1378361478p5/19169.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1378361478p2/19169.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/19169.Karl_Schroeder",
+                        "average_rating": 3.78,
+                        "ratings_count": 20218,
+                        "text_reviews_count": 2438
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 1002423,
+                    "uri": "kca://work/amzn1.gr.work.v1.No_1BJRux8PHnqo-IMBNNQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 10336795,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847054574,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:07:43 -0700 2008",
+            "date_updated": "Thu Dec 04 08:42:16 -0800 2014",
+            "read_count": 1,
+            "body": "This book is a masterpiece, Schroeder deftly combines philosophy, hard sci-fi, excellent characters and a deep plot to create one of the best novels out there.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24670228",
+            "link": "https://www.goodreads.com/review/show/24670228",
+            "owned": 0
+        }
+    }
+}

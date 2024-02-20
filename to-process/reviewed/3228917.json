@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 48005102,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3228917
+                },
+                "isbn": 316017922,
+                "isbn13": 9780316017923,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 22525
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.nIiVEJt3GaY4eF_wwWwvVw",
+                "title": "Outliers: The Story of Success",
+                "title_without_series": "Outliers: The Story of Success",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266315l/3228917._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266315l/3228917._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3228917-outliers",
+                "num_pages": 309,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Little, Brown and Company",
+                "publication_day": 18,
+                "publication_year": 2008,
+                "publication_month": 11,
+                "average_rating": 4.16,
+                "ratings_count": 516751,
+                "description": "In this stunning new book, Malcolm Gladwell takes us on an intellectual journey through the world of \"outliers\"--the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?<br /><br />His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band.",
+                "authors": {
+                    "author": {
+                        "id": 1439,
+                        "name": "Malcolm Gladwell",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1564001739p5/1439.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1564001739p2/1439.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1439.Malcolm_Gladwell",
+                        "average_rating": 4.01,
+                        "ratings_count": 1988957,
+                        "text_reviews_count": 77491
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 3364437,
+                    "uri": "kca://work/amzn1.gr.work.v1.AiSrCsUeSMMsC_IUy2R8Cg"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Mar 02 10:10:09 -0800 2009",
+            "date_updated": "Mon Mar 02 10:10:09 -0800 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/48005102",
+            "link": "https://www.goodreads.com/review/show/48005102",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "name": "RHUS",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Unwritten, Vol. 7: The Wound",
+            "id": "15798404",
+            "author": "Mike Carey, Peter Gross, Yuko Shimizu",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508802437000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Unwritten, Vol. 7: The Wound: Rating - 5/5",
+                    "date": 1508802437000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/15798404",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "RHUS",
+            "tags": [
+                "Paperback",
+                "RHUS",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1401238068",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781401238063",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "15798404",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Planetary, Volume 3: Leaving the 20th Century",
+            "id": "43743",
+            "author": "Warren Ellis, John Cassaday",
+            "date_finished": 1230768000000,
+            "notes": [],
+            "date_started": 1508801827000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Planetary, Volume 3: Leaving the 20th Century: Rating - 5/5",
+                    "date": 1230768000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/43743",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "RHUS",
+            "tags": [
+                "Paperback",
+                "RHUS",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1401202942",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781401202941",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "43743",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

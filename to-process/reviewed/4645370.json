@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071692348,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4645370
+                },
+                "isbn": 785134603,
+                "isbn13": 9780785134602,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 164
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.JtJUPesg7hAPyqmGB-XB_w",
+                "title": "The Invincible Iron Man, Volume 1: The Five Nightmares",
+                "title_without_series": "The Invincible Iron Man, Volume 1: The Five Nightmares",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4645370-the-invincible-iron-man-volume-1",
+                "num_pages": 184,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 17,
+                "publication_year": 2008,
+                "publication_month": 12,
+                "average_rating": 4.11,
+                "ratings_count": 5730,
+                "description": "Tony Stark - Iron Man, billionaire industrialist, and director of S.H.I.E.L.D. - faces the most overwhelming challenge of his life. Ezekiel Stane, the son of Tony's late business rival and archenemy Obadiah, has set his sights, his genius, and his considerable fortune on the task of destroying Tony Stark and Iron Man. What's worse, he's got Iron Man tech, and he's every bit Iron Man's equal and opposite - except younger, faster, smarter, and immeasurably evil! Rising-star writer Matt Fraction (<i>Immortal Iron Fist</i>) and superstar artist Salvador Larroca (<i>Uncanny X-Men</i>) join forces to repulsor-ray your comic books to a cinder!<br /><br /><b>Collecting</b>: <i>Invincible Iron Man</i> 1-7",
+                "authors": {
+                    "author": {
+                        "id": 61382,
+                        "name": "Matt Fraction",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1464823629p5/61382.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1464823629p2/61382.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/61382.Matt_Fraction",
+                        "average_rating": 3.97,
+                        "ratings_count": 273821,
+                        "text_reviews_count": 19232
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 4695558,
+                    "uri": "kca://work/amzn1.gr.work.v1.daAIwLD3rN6Tp4mhkeMQ-A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593083700
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:12:57 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813197867,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:12:57 -0700 2014",
+            "date_updated": "Mon Oct 23 16:35:06 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071692348",
+            "link": "https://www.goodreads.com/review/show/1071692348",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 48007101,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 102439
+                },
+                "isbn": 812536363,
+                "isbn13": 9780812536362,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 795
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.9-MC1C0kbnbNVZTQPJcK6w",
+                "title": "Rainbows End",
+                "title_without_series": "Rainbows End",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729149l/102439._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316729149l/102439._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/102439.Rainbows_End",
+                "num_pages": 381,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Tor Science Fiction",
+                "publication_day": 3,
+                "publication_year": 2007,
+                "publication_month": 4,
+                "average_rating": 3.77,
+                "ratings_count": 15514,
+                "description": "Robert Gu is a recovering Alzheimer's patient. The world that he remembers was much as we know it today. Now, as he regains his faculties through a cure developed during the years of his near-fatal decline, he discovers that the world has changed and so has his place in it. He was a world-renowned poet. Now he is seventy-five years old, though by a medical miracle he looks much younger, and he’s starting over, for the first time unsure of his poetic gifts. Living with his son’s family, he has no choice but to learn how to cope with a new information age in which the virtual and the real are a seamless continuum, layers of reality built on digital views seen by a single person or millions, depending on your choice. But the consensus reality of the digital world is available only if, like his thirteen-year-old granddaughter Miri, you know how to wear your wireless access—through nodes designed into smart clothes—and to see the digital context—through smart contact lenses. <br /> <br />With knowledge comes risk. When Robert begins to re-train at Fairmont High, learning with other older people what is second nature to Miri and other teens at school, he unwittingly becomes part of a wide-ranging conspiracy to use technology as a tool for world domination. <br /> <br />In a world where every computer chip has Homeland Security built-in, this conspiracy is something that baffles even the most sophisticated security analysts, including Robert’s son and daughter-in law, two top people in the U.S. military. And even Miri, in her attempts to protect her grandfather, may be entangled in the plot. <br /> <br />As Robert becomes more deeply involved in conspiracy, he is shocked to learn of a radical change planned for the UCSD Geisel Library; all the books there, and worldwide, would cease to physically exist. He and his fellow re-trainees feel compelled to join protests against the change. With forces around the world converging on San Diego, both the conspiracy and the protest climax in a spectacular moment as unique and satisfying as it is unexpected.",
+                "authors": {
+                    "author": {
+                        "id": 44037,
+                        "name": "Vernor Vinge",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215099239p5/44037.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215099239p2/44037.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/44037.Vernor_Vinge",
+                        "average_rating": 4.08,
+                        "ratings_count": 121611,
+                        "text_reviews_count": 5790
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 3101132,
+                    "uri": "kca://work/amzn1.gr.work.v1.FwoFMExXWAKQbIYWw0k2VA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Mar 02 10:28:51 -0800 2009",
+            "date_updated": "Mon Mar 02 10:28:56 -0800 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/48007101",
+            "link": "https://www.goodreads.com/review/show/48007101",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Marvel ",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Ms. Marvel, Vol. 5: Super Famous",
+            "id": "27163013",
+            "author": "G. Willow Wilson, Takeshi Miyazawa, Saladin Ahmed, Adrian Alphona, Marco Failla, Hasan Minhaj, Rainbow Rowell, Carolin Hidalgo, Nico Leon, Cliff Chiang, Carolin Gidalgo, Cameron Stewart, Valerio Schiti",
+            "date_finished": 1476403200000,
+            "notes": [],
+            "date_started": 1508801389000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Ms. Marvel, Vol. 5: Super Famous: Rating - 5/5",
+                    "date": 1476403200000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/27163013",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel ",
+            "tags": [
+                "Paperback",
+                "Marvel ",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0785196110",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780785196112",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "27163013",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

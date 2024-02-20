@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789413139,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7786875
+                },
+                "isbn": 1450565603,
+                "isbn13": 9781450565608,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.le6bU0l0WTV87DNA2nfbqQ",
+                "title": "The Digital Journalist's Handbook",
+                "title_without_series": "The Digital Journalist's Handbook",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340786394l/7786875._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340786394l/7786875._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7786875-the-digital-journalist-s-handbook",
+                "num_pages": 252,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Createspace Independent Publishing Platform",
+                "publication_day": 19,
+                "publication_year": 2012,
+                "publication_month": 4,
+                "average_rating": 3.45,
+                "ratings_count": 29,
+                "description": "The Digital Journalist's Handbook is your guide to the tools you need to know to thrive in today's digital newsroom. This unique how-to book provides simple explanations of complex technologies and provides examples of how journalists can incorporate them into their stories and reporting. The Handbook is composed of 11 chapters, each dedicated to a different tool in the digital journalist's toolbox. Chapters include \"Writing for the Web,\" \"Blogging,\" \"Photography,\" \"Audio,\" \"Audio Slideshows,\" \"Video,\" \"Web Design,\" \"Social Networking,\" and \"Data Visualization\" as well as a glossary with definitions of more than 130 technical terms and phrases commonly used in digital journalism. The Handbook is also fully illustrated and contains diagrams and guidelines of everything from the layout of a typical blog to the features found on a digital audio recorder. In addition, each chapter includes links to online resources, tutorials, and examples of every technology mentioned in the book. The Digital Journalist's Handbook is a must-read for both novice digital journalists and tech-savvy experts.",
+                "authors": {
+                    "author": {
+                        "id": 3394549,
+                        "name": "Mark S. Luckie",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3394549.Mark_S_Luckie",
+                        "average_rating": 3.45,
+                        "ratings_count": 29,
+                        "text_reviews_count": 3
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 10729079,
+                    "uri": "kca://work/amzn1.gr.work.v1.mVprkAs3xYPbPHleNuG2hw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240462784
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:44:07 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571651913,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:44:07 -0800 2013",
+            "date_updated": "Fri Dec 13 08:44:07 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789413139",
+            "link": "https://www.goodreads.com/review/show/789413139",
+            "owned": 0
+        }
+    }
+}

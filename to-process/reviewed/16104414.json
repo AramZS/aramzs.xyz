@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528939686,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16104414
+                },
+                "isbn": 1596065524,
+                "isbn13": 9781596065529,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 557
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.1hXuFACiFLwIVC38ShUlwA",
+                "title": "Six-Gun Snow White",
+                "title_without_series": "Six-Gun Snow White",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360171677l/16104414._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360171677l/16104414._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16104414-six-gun-snow-white",
+                "num_pages": 168,
+                "format": "Hardcover",
+                "edition_information": "Signed, Limited Edition edition",
+                "publisher": "Subterranean",
+                "publication_day": 28,
+                "publication_year": 2013,
+                "publication_month": 2,
+                "average_rating": 3.68,
+                "ratings_count": 3539,
+                "description": "A <i>New York Times</i> bestselling author offers a brilliant reinvention of one of the best-known fairy tales of all time with Snow White as a gunslinger in the mythical Wild West.<br /><br />Forget the dark, enchanted forest. Picture instead a masterfully evoked Old West where you are more likely to find coyotes as the seven dwarves. Insert into this scene a plain-spoken, appealing narrator who relates the history of our heroine’s parents—a Nevada silver baron who forced the Crow people to give up one of their most beautiful daughters, Gun That Sings, in marriage to him. Although her mother’s life ended as hers began, so begins a remarkable tale: equal parts heartbreak and strength. This girl has been born into a world with no place for a half-native, half-white child. After being hidden for years, a very wicked stepmother finally gifts her with the name Snow White, referring to the pale skin she will never have. Filled with fascinating glimpses through the fabled looking glass and a close-up look at hard living in the gritty gun-slinging West, this is an utterly enchanting story…at once familiar and entirely new.",
+                "authors": {
+                    "author": {
+                        "id": 338705,
+                        "name": "Catherynne M. Valente",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1220999852p5/338705.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1220999852p2/338705.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/338705.Catherynne_M_Valente",
+                        "average_rating": 3.92,
+                        "ratings_count": 145379,
+                        "text_reviews_count": 24487
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21916225,
+                    "uri": "kca://work/amzn1.gr.work.v1.8GT8JfNIo_MJPUPU2Rx6Lw"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 358507228,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 07:56:14 -0800 2013",
+            "date_updated": "Thu Feb 07 07:56:14 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528939686",
+            "link": "https://www.goodreads.com/review/show/528939686",
+            "owned": 0
+        }
+    }
+}

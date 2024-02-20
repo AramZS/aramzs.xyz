@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 442768334,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 10033
+                },
+                "isbn": 415278481,
+                "isbn13": 9780415278485,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 271
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.m42M4aj_2uN0DXlBlfrh1A",
+                "title": "Being and Nothingness",
+                "title_without_series": "Being and Nothingness",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329978583l/10033._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329978583l/10033._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/10033.Being_and_Nothingness",
+                "num_pages": 688,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Routledge",
+                "publication_day": 28,
+                "publication_year": 2003,
+                "publication_month": 8,
+                "average_rating": 3.96,
+                "ratings_count": 25383,
+                "description": "<i>Being &amp; Nothingness</i> is without doubt one of the most significant philosophical books of the 20th century. The central work by one of the century's most influential thinkers, it altered the course of western philosophy. Its revolutionary approach challenged all previous assumptions about the individual's relationship with the world. Known as 'the Bible of existentialism', its impact on culture &amp; literature was immediate &amp; was felt worldwide, from the absurdist drama of Samuel Beckett to the soul-searching cries of the Beat poets.<br /><i>Being &amp; Nothingness</i> is one of those rare books whose influence has affected the mindset of subsequent generations. Seventy years after its 1st publication, its message remains as potent as ever--challenging readers to confront the fundamental dilemmas of human freedom, choice, responsibility &amp; action.",
+                "authors": {
+                    "author": {
+                        "id": 1466,
+                        "name": "Jean-Paul Sartre",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1475567078p5/1466.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1475567078p2/1466.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1466.Jean_Paul_Sartre",
+                        "average_rating": 3.99,
+                        "ratings_count": 291812,
+                        "text_reviews_count": 11704
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 973089,
+                    "uri": "kca://work/amzn1.gr.work.v1.o6OM77WZPC44-lF-r0q1gQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 293101419,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 27 07:58:32 -0700 2012",
+            "date_updated": "Sat Oct 27 07:58:32 -0700 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/442768334",
+            "link": "https://www.goodreads.com/review/show/442768334",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "MB Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "More Than Just a Flag",
+            "id": "44554068",
+            "author": "Monica F. Helms, Laurence Watts, Jamison Green, Dallas Denny",
+            "date_finished": 1580256000000,
+            "notes": [],
+            "date_started": 1580326252000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of More Than Just a Flag: Rating - 4/5",
+                    "date": 1580256000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/44554068",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "MB Books",
+            "tags": [
+                "Kindle Edition",
+                "MB Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "44554068",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

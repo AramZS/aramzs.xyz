@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528943080,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 26088
+                },
+                "isbn": 1401204511,
+                "isbn13": 9781401204518,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 310
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Xv3XondDnmCbaOccDbgOnw",
+                "title": "Superman: Secret Identity",
+                "title_without_series": "Superman: Secret Identity",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/26088.Superman",
+                "num_pages": 208,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "DC Comics",
+                "publication_day": 9,
+                "publication_year": 2013,
+                "publication_month": 4,
+                "average_rating": 4.24,
+                "ratings_count": 6686,
+                "description": "What's in a name? Everything, if you share it with the Man of Steel!  <br /><br />SUPERMAN: SECRET IDENTITY is a 208-page trade paperback collecting the critically lauded 4-issue miniseries written by Kurt Busiek (JLA/AVENGERS, ASTRO CITY) with art by Stuart Immonen (SUPERMAN: END OF THE CENTURY, THOR). <br /><br />Set in the real world, SECRET IDENTITY examines the life of a young Kansas man with the unfortunate name of Clark Kent. All Clark wants is to be a writer, but his daily life is filled with the taunts and jibes of his peers, comparing him to that other Clark Kent — the one with super-powers. Until one day when Clark awakens to discover that he can fly...that he does in fact have super-strength! But where did these powers come from? And what's he going to do about it?",
+                "authors": {
+                    "author": {
+                        "id": 7338,
+                        "name": "Kurt Busiek",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1395515682p5/7338.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1395515682p2/7338.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7338.Kurt_Busiek",
+                        "average_rating": 4.06,
+                        "ratings_count": 111822,
+                        "text_reviews_count": 6192
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 1100913,
+                    "uri": "kca://work/amzn1.gr.work.v1.idEmfc5Nw7c6Vo0A0QYQJQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 358510133,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:00:14 -0800 2013",
+            "date_updated": "Thu Feb 07 08:00:14 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528943080",
+            "link": "https://www.goodreads.com/review/show/528943080",
+            "owned": 0
+        }
+    }
+}

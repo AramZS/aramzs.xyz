@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340974,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19834358
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.nCEcLcpU0QHODCLnPxQncQ",
+                "title": "The Watchdog That Didn’t Bark: The Financial Crisis and the Disappearance of Investigative Journalism (Columbia Journalism Review Books)",
+                "title_without_series": "The Watchdog That Didn’t Bark: The Financial Crisis and the Disappearance of Investigative Journalism",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19834358-the-watchdog-that-didn-t-bark",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.02,
+                "ratings_count": 46,
+                "description": "In this sweeping, incisive post mortem, Dean Starkman exposes the critical shortcomings that softened coverage in the business press during the mortgage era and the years leading up to the financial collapse of 2008. He locates the roots of the problem in the origin of business news as a market messaging service for investors in the early twentieth century. This access-dependent strain of journalism was soon opposed by the grand, sweeping work of the muckrakers. Propelled by the innovations of Bernard Kilgore, the great postwar editor of the \" Wall Street Journal,\" these two genres merged when mainstream American news organizations institutionalized muckraking in the 1960s, creating a powerful guardian of the public interest. Yet as the mortgage era dawned, deep cultural and structural shifts -- some unavoidable, some self-inflicted -- eroded journalism's appetite for its role as watchdog. The result was a deafening silence about systemic corruption in the financial industry. Tragically, this silence grew only more profound as the mortgage madness reached its terrible apogee from 2004 through 2006.<br /><br />Starkman frames his analysis in a broad argument about journalism itself, dividing the profession into two competing approaches -- access reporting and accountability reporting -- which rely on entirely different sources and produce radically different representations of reality. As Starkman explains, access journalism came to dominate business reporting in the 1990s, a process he calls \"CNBCization,\" and rather than examining risky, even corrupt, corporate behavior, mainstream reporters focused on profiling executives and informing investors. Starkman concludes with a critique of the digital-news ideology and corporate influence, which threaten to further undermine investigative reporting, and he shows how financial coverage, and journalism as a whole, can reclaim its bite.",
+                "authors": {
+                    "author": {
+                        "id": 5839875,
+                        "name": "Dean Starkman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5839875.Dean_Starkman",
+                        "average_rating": 3.93,
+                        "ratings_count": 115,
+                        "text_reviews_count": 18
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 25150386,
+                    "uri": "kca://work/amzn1.gr.work.v1.2RGdeUnZmC7hCbn0K_LtIw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452281036
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:05:37 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710709657,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:05:37 -0700 2014",
+            "date_updated": "Sat Jun 07 06:05:37 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340974",
+            "link": "https://www.goodreads.com/review/show/960340974",
+            "owned": 0
+        }
+    }
+}

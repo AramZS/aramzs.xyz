@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629412173,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 26114545
+                },
+                "isbn": 765378000,
+                "isbn13": 9780765378002,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1355
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.eJbDGIZdEcOE7W5ECpta2A",
+                "title": "Too Like the Lightning (Terra Ignota, #1)",
+                "title_without_series": "Too Like the Lightning",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443106959l/26114545._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443106959l/26114545._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/26114545-too-like-the-lightning",
+                "num_pages": 432,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 10,
+                "publication_year": 2016,
+                "publication_month": 5,
+                "average_rating": 3.82,
+                "ratings_count": 8148,
+                "description": "Mycroft Canner is a convict. For his crimes he is required, as is the custom of the 25th century, to wander the world being as useful as he can to all he meets. Carlyle Foster is a sensayer--a spiritual counselor in a world that has outlawed the public practice of religion, but which also knows that the inner lives of humans cannot be wished away.<br /><br />The world into which Mycroft and Carlyle have been born is as strange to our 21st-century eyes as ours would be to a native of the 1500s. It is a hard-won utopia built on technologically-generated abundance, and also on complex and mandatory systems of labeling all public writing and speech. What seem to us normal gender distinctions are now distinctly taboo in most social situations. And most of the world's population is affiliated with globe-girdling clans of the like-minded, whose endless economic and cultural competition is carefully managed by central planners of inestimable subtlety. To us it seems like a mad combination of heaven and hell. To them, it seems like normal life.<br /><br />And in this world, Mycroft and Carlyle have stumbled on the wild card that may destablize the system: the boy Bridger, who can effortlessly make his wishes come true. Who can, it would seem, bring inanimate objects to life...",
+                "authors": {
+                    "author": {
+                        "id": 8132662,
+                        "name": "Ada Palmer",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1442973045p5/8132662.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1442973045p2/8132662.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8132662.Ada_Palmer",
+                        "average_rating": 3.98,
+                        "ratings_count": 14167,
+                        "text_reviews_count": 2426
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 46061374,
+                    "uri": "kca://work/amzn1.gr.work.v1.XVlibI7JgTGLGTHv00wWwQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666059523
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:53:40 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274616453,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:53:39 -0800 2018",
+            "date_updated": "Mon Dec 17 07:53:40 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629412173",
+            "link": "https://www.goodreads.com/review/show/2629412173",
+            "owned": 0
+        }
+    }
+}

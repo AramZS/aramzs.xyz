@@ -1,0 +1,51 @@
+{
+    "name": "Firebird",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Mount",
+            "id": "94702",
+            "author": "Carol Emshwiller",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1266476646000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/94702",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Firebird",
+            "tags": [
+                "Paperback",
+                "Firebird",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0142403024",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780142403020",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "94702",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

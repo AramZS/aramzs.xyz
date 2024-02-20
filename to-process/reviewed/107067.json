@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1304810390,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 107067
+                },
+                "isbn": 810108216,
+                "isbn13": 9780810108219,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 21
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.kXW_taKOvPN6kgPNxctsEg",
+                "title": "For a New Novel: Essays on Fiction",
+                "title_without_series": "For a New Novel: Essays on Fiction",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418363661l/107067._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418363661l/107067._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/107067.For_a_New_Novel",
+                "num_pages": 175,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Northwestern University Press",
+                "publication_day": 17,
+                "publication_year": 1992,
+                "publication_month": 8,
+                "average_rating": 3.98,
+                "ratings_count": 575,
+                "description": "Alain Robbe-Grillet, one of the leaders of the new French literary movement of the sixties, has long been regarded as the outstanding writer of the <i>nouveau roman,</i> as well as its major spokesman. <i>For a New Novel</i> reevaluates the techniques, ethos, and limits of contemporary fiction. This is a work of immense importance for any discussions of the history of the novel, and for contemporary thinking about the future of fiction.<br />",
+                "authors": {
+                    "author": {
+                        "id": 31274,
+                        "name": "Alain Robbe-Grillet",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1477767639p5/31274.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1477767639p2/31274.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/31274.Alain_Robbe_Grillet",
+                        "average_rating": 3.77,
+                        "ratings_count": 9074,
+                        "text_reviews_count": 750
+                    }
+                },
+                "published": 1992,
+                "work": {
+                    "id": 2668162,
+                    "uri": "kca://work/amzn1.gr.work.v1.Jxm1-eTNTG6mJNP_OE8HJw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 892752407
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 10 20:49:15 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1006734389,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Jun 10 20:49:15 -0700 2015",
+            "date_updated": "Wed Jun 10 20:49:16 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1304810390",
+            "link": "https://www.goodreads.com/review/show/1304810390",
+            "owned": 0
+        }
+    }
+}

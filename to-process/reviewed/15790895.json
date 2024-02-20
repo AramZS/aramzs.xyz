@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1478225014,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15790895
+                },
+                "isbn": 316221171,
+                "isbn13": 9780316221177,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 566
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Tp7yU7lfXFSHElf3bEbPRA",
+                "title": "The Shambling Guide to New York City (The Shambling Guides, #1)",
+                "title_without_series": "The Shambling Guide to New York City",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369240552l/15790895._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369240552l/15790895._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15790895-the-shambling-guide-to-new-york-city",
+                "num_pages": 350,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 28,
+                "publication_year": 2013,
+                "publication_month": 5,
+                "average_rating": 3.73,
+                "ratings_count": 3985,
+                "description": "A travel writer takes a job with a shady publishing company in New York, only to find that she must write a guide to the city - for the undead!<br /><br /><br /><br />Because of the disaster that was her last job, Zoe is searching for a fresh start as a travel book editor in the tourist-centric New York City. After stumbling across a seemingly perfect position though, Zoe is blocked at every turn because of the one thing she can't take off her resume --- human.<br /><br />Not to be put off by anything -- especially not her blood drinking boss or death goddess coworker -- Zoe delves deep into the monster world. But her job turns deadly when the careful balance between human and monsters starts to crumble -- with Zoe right in the middle.",
+                "authors": {
+                    "author": {
+                        "id": 97284,
+                        "name": "Mur Lafferty",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1546175858p5/97284.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1546175858p2/97284.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/97284.Mur_Lafferty",
+                        "average_rating": 3.86,
+                        "ratings_count": 37628,
+                        "text_reviews_count": 5516
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21512450,
+                    "uri": "kca://work/amzn1.gr.work.v1.-K77wGQ2CA2n0O3pE6C0HA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1124104536
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 24 16:18:34 -0800 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Thu Dec 24 16:18:34 -0800 2015",
+            "date_updated": "Thu Dec 31 07:38:52 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1478225014",
+            "link": "https://www.goodreads.com/review/show/1478225014",
+            "owned": 0
+        }
+    }
+}

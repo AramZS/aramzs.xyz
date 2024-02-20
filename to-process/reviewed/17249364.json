@@ -1,0 +1,142 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 816024186,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17249364
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9781937557133,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 44
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.X54L6rq61eWJ6CVyJghyXQ",
+                "title": "Sass for Web Designers",
+                "title_without_series": "Sass for Web Designers",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388141038l/17249364._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388141038l/17249364._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17249364-sass-for-web-designers",
+                "num_pages": 97,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "A Book Apart",
+                "publication_day": {},
+                "publication_year": 2013,
+                "publication_month": 11,
+                "average_rating": 4.19,
+                "ratings_count": 353,
+                "description": "Let’s face it: CSS is hard. Our stylesheets are more complex than they used to be, and we’re bending the spec to do as much as it can. Can Sass help?<br /><br />A reluctant convert to Sass, Dan Cederholm tells how he came around to the popular CSS pre-processor, and shares just what you need to take better control of your stylesheets (all the while working the way you always have). From getting started to advanced techniques, Dan will help you level up your stylesheets and get back to work in no time.",
+                "authors": {
+                    "author": {
+                        "id": 349,
+                        "name": "Dan Cederholm",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1313466007p5/349.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1313466007p2/349.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/349.Dan_Cederholm",
+                        "average_rating": 4.1,
+                        "ratings_count": 3913,
+                        "text_reviews_count": 213
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 23808159,
+                    "uri": "kca://work/amzn1.gr.work.v1.In1geKki35o4hDNhX_MMZQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 549679705
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Aug 26 22:17:48 -0700 2014"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 272647210
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Jan 07 15:09:56 -0800 2014"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 1006733623,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Tue Jan 07 15:09:56 -0800 2014",
+            "read_at": "Tue Aug 26 22:17:48 -0700 2014",
+            "date_added": "Tue Jan 07 15:09:56 -0800 2014",
+            "date_updated": "Wed Jun 10 20:48:11 -0700 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/816024186",
+            "link": "https://www.goodreads.com/review/show/816024186",
+            "owned": 0
+        }
+    }
+}

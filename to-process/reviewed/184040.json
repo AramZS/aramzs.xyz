@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789419709,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 184040
+                },
+                "isbn": 1401202322,
+                "isbn13": 9781401202323,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 580
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.XYlJeswvZyF5PObBtfKxvg",
+                "title": "Y: The Last Man, Vol. 4: Safeword (Y: The Last Man, #4)",
+                "title_without_series": "Y: The Last Man, Vol. 4: Safeword",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335238541l/184040._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335238541l/184040._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/184040.Y",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Vertigo",
+                "publication_day": 1,
+                "publication_year": 2004,
+                "publication_month": 12,
+                "average_rating": 4.25,
+                "ratings_count": 25745,
+                "description": "The fourth collection of the acclaimed Vertigo series, Y: THE LAST MAN: SAFEWORD reprints issues #18-23 of writer Brian K. Vaughan's and artist Pia Guerra's dynamic series. As the Last Man on Earth and his companions continue to head West, the story takes a detour into the psychological.<br /><p><br />In the care of a fellow Culper Ring member, Yorick Brown is forced to confront his tremendous feelings of survivor guilt that lead him to constantly put his life in danger. Once on the road again, the group runs up against a literal roadblock in Arizona, where the female remains of the Sons of Arizona militia have cut the interstate to keep out any vestiges of the U.S. government.</p>",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 1584085,
+                    "uri": "kca://work/amzn1.gr.work.v1.LKlEJJfDQcRZ_v-ypWR4jQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240470811
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:54:46 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813200586,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:54:46 -0800 2013",
+            "date_updated": "Mon Oct 23 16:39:02 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789419709",
+            "link": "https://www.goodreads.com/review/show/789419709",
+            "owned": 0
+        }
+    }
+}

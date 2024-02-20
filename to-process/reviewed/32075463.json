@@ -1,0 +1,149 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2047024697,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 32075463
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 407
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Z6y5gW49JXm8hTKhvGK0ew",
+                "title": "The Rise and Fall of D.O.D.O.",
+                "title_without_series": "The Rise and Fall of D.O.D.O.",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484599609l/32075463._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484599609l/32075463._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/32075463-the-rise-and-fall-of-d-o-d-o",
+                "num_pages": 768,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "William Morrow",
+                "publication_day": 13,
+                "publication_year": 2017,
+                "publication_month": 6,
+                "average_rating": 3.86,
+                "ratings_count": 22443,
+                "description": "From bestselling author Neal Stephenson and critically acclaimed historical and contemporary commercial novelist Nicole Galland comes a captivating and complex near-future thriller combining history, science, magic, mystery, intrigue, and adventure that questions the very foundations of the modern world.<br /><br />When Melisande Stokes, an expert in linguistics and languages, accidently meets military intelligence operator Tristan Lyons in a hallway at Harvard University, it is the beginning of a chain of events that will alter their lives and human history itself. The young man from a shadowy government entity approaches Mel, a low-level faculty member, with an incredible offer. The only condition: she must sign a nondisclosure agreement in return for the rather large sum of money.<br /><br />Tristan needs Mel to translate some very old documents, which, if authentic, are earth-shattering. They prove that magic actually existed and was practiced for centuries. But the arrival of the scientific revolution and the Age of Enlightenment weakened its power and endangered its practitioners. Magic stopped working altogether in 1851, at the time of the Great Exhibition at London’s Crystal Palace—the world’s fair celebrating the rise of industrial technology and commerce. Something about the modern world \"jams\" the \"frequencies\" used by magic, and it’s up to Tristan to find out why.<br /><br />And so the Department of Diachronic Operations—D.O.D.O. —gets cracking on its real mission: to develop a device that can bring magic back, and send Diachronic Operatives back in time to keep it alive . . . and meddle with a little history at the same time. But while Tristan and his expanding operation master the science and build the technology, they overlook the mercurial—and treacherous—nature of the human heart.<br /><br />Written with the genius, complexity, and innovation that characterize all of Neal Stephenson’s work and steeped with the down-to-earth warmth and humor of Nicole Galland’s storytelling style, this exciting and vividly realized work of science fiction will make you believe in the impossible, and take you to places—and times—beyond imagining.",
+                "authors": {
+                    "author": {
+                        "id": 545,
+                        "name": "Neal Stephenson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430920344p5/545.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430920344p2/545.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/545.Neal_Stephenson",
+                        "average_rating": 4.05,
+                        "ratings_count": 785181,
+                        "text_reviews_count": 49927
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 52724049,
+                    "uri": "kca://work/amzn1.gr.work.v1.j7HHa0yT4B7NwWyNhPEXSQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2391269374
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Jun 12 06:58:18 -0700 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2274317188
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Mar 20 05:11:14 -0700 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1901056344
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sun Jul 02 07:15:48 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Tue Mar 20 05:11:14 -0700 2018",
+            "read_at": "Tue Jun 12 06:58:43 -0700 2018",
+            "date_added": "Sun Jul 02 07:15:48 -0700 2017",
+            "date_updated": "Tue Jun 12 06:58:43 -0700 2018",
+            "read_count": 2,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2047024697",
+            "link": "https://www.goodreads.com/review/show/2047024697",
+            "owned": 0
+        }
+    }
+}

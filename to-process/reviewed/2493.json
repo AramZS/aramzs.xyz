@@ -1,0 +1,103 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528972000,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2493
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7054
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Eu_4b59fezjXbHai_zIuYg",
+                "title": "The Time Machine",
+                "title_without_series": "The Time Machine",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2493.The_Time_Machine",
+                "num_pages": 118,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Signet Classics",
+                "publication_day": 1,
+                "publication_year": 2002,
+                "publication_month": 10,
+                "average_rating": 3.89,
+                "ratings_count": 394030,
+                "description": "<b>“I’ve had a most amazing time....”</b><br /><br />So begins the Time Traveller’s astonishing firsthand account of his journey 800,000 years beyond his own era—and the story that launched H.G. Wells’s successful career and earned him his reputation as the father of science fiction. With a speculative leap that still fires the imagination, Wells sends his brave explorer to face a future burdened with our greatest hopes...and our darkest fears. A pull of the Time Machine’s lever propels him to the age of a slowly dying Earth.  There he discovers two bizarre races—the ethereal Eloi and the subterranean Morlocks—who not only symbolize the duality of human nature, but offer a terrifying portrait of the men of tomorrow as well.  Published in 1895, this masterpiece of invention captivated readers on the threshold of a new century. Thanks to Wells’s expert storytelling and provocative insight, <b>The Time Machine</b> will continue to enthrall readers for generations to come.<br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 880695,
+                        "name": "H.G. Wells",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1588944685p5/880695.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1588944685p2/880695.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/880695.H_G_Wells",
+                        "average_rating": 3.83,
+                        "ratings_count": 1003750,
+                        "text_reviews_count": 35525
+                    }
+                },
+                "published": 2002,
+                "work": {
+                    "id": 3234863,
+                    "uri": "kca://work/amzn1.gr.work.v1.UB4M2_bYRls8ZrxmrB_bkw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:34:57 -0800 2013",
+            "date_updated": "Thu Feb 07 08:34:57 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528972000",
+            "link": "https://www.goodreads.com/review/show/528972000",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Pasta dura",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Last Night at the Lobster",
+            "id": "673915",
+            "author": "Stewart O'Nan",
+            "date_finished": 1359244800000,
+            "notes": [],
+            "date_started": 1417712263000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Last Night at the Lobster: Rating - 5/5",
+                    "date": 1359244800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/673915",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Viking Pr",
+            "tags": [
+                "Pasta dura",
+                "Viking Pr",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0670018279",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780670018277",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "673915",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

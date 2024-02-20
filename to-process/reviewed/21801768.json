@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340194,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 21801768
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 426
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.vPnhXGVF4H9Fq-UotSrYsw",
+                "title": "The Slow Regard of Silent Things (The Kingkiller Chronicle, #2.5)",
+                "title_without_series": "The Slow Regard of Silent Things",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398466718l/21801768._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398466718l/21801768._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/21801768-the-slow-regard-of-silent-things",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.91,
+                "ratings_count": 108221,
+                "description": "Deep below the University, there is a dark place. Few people know of it: a broken web of ancient passageways and abandoned rooms. A young woman lives there, tucked among the sprawling tunnels of the Underthing, snug in the heart of this forgotten place.<br /><br />Her name is Auri, and she is full of mysteries.<br /><br /><i>The Slow Regard of Silent Things</i> is a brief, bittersweet glimpse of Auri’s life, a small adventure all her own. At once joyous and haunting, this story offers a chance to see the world through Auri’s eyes. And it gives the reader a chance to learn things that only Auri knows...<br /><br />In this book, Patrick Rothfuss brings us into the world of one of <i>The Kingkiller Chronicle’s</i> most enigmatic characters. Full of secrets and mysteries, <i>The Slow Regard of Silent Things</i> is the story of a broken girl trying to live in a broken world.<br /><br /><br /><b>AUTHOR’S FOREWORD</b><br /> <br />You might not want to buy this book.<br /><br />I know, that’s not the sort of thing an author is supposed to say. The marketing people aren’t going to like this. My editor is going to have a fit. But I’d rather be honest with you right out of the gate.<br /><br />First, if you haven’t read my other books, you don’t want to start here.<br /><br />My first two books are <i>The Name of the Wind</i> and <i>The Wise Man’s Fear</i>. If you’re curious to try my writing, start there. They’re the best introduction to my world. This book deals with Auri, one of the characters from that series. Without the context of those books, you’re probably going to feel pretty lost.<br /><br />Second, even if you have read my other books, I think it’s only fair to warn you that this is a bit of a strange story. I don’t go in for spoilers, but suffice to say that this one is ... different. It doesn’t do a lot of the things a classic story is supposed to do. And if you’re looking for a continuation of Kvothe’s storyline, you’re not going to find it here.<br /><br />On the other hand, if you’d like to learn more about Auri, this story has a lot to offer. If you love words and mysteries and secrets. If you’re curious about the Underthing and alchemy. If you want to know more about the hidden turnings of my world...<br /><br />Well, then this book might be for you.",
+                "authors": {
+                    "author": {
+                        "id": 108424,
+                        "name": "Patrick Rothfuss",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1351307341p5/108424.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1351307341p2/108424.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/108424.Patrick_Rothfuss",
+                        "average_rating": 4.47,
+                        "ratings_count": 1239889,
+                        "text_reviews_count": 76463
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 40864254,
+                    "uri": "kca://work/amzn1.gr.work.v1.etRxmYhEXbW3jWChD4Bt2g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452280043
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:04:13 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710709012,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:04:13 -0700 2014",
+            "date_updated": "Sat Jun 07 06:04:13 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340194",
+            "link": "https://www.goodreads.com/review/show/960340194",
+            "owned": 0
+        }
+    }
+}

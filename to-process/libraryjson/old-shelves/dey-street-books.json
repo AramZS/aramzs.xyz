@@ -1,0 +1,149 @@
+{
+    "name": "Dey Street Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely Heroine Who Outwitted America's Enemies",
+            "id": "35995468",
+            "author": "Jason Fagone",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1556373403000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/35995468",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dey Street Books",
+            "tags": [
+                "Kindle Edition",
+                "Dey Street Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "35995468",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Unbelievable: My Front-Row Seat to the Craziest Campaign in American History",
+            "id": "34731226",
+            "author": "Katy Tur",
+            "date_finished": 1505520000000,
+            "notes": [],
+            "date_started": 1505627651000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Unbelievable: My Front-Row Seat to the Craziest Campaign in American History: Rating - 5/5",
+                    "date": 1505520000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34731226",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dey Street Books",
+            "tags": [
+                "Kindle Edition",
+                "Dey Street Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34731226",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Notorious RBG: The Life and Times of Ruth Bader Ginsburg",
+            "id": "25422234",
+            "author": "Irin Carmon, Shana Knizhnik",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086537000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25422234",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dey Street Books",
+            "tags": [
+                "Hardcover",
+                "Dey Street Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0062415832",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780062415837",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25422234",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

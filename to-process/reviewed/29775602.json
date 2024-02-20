@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2638058522,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 29775602
+                },
+                "isbn": 785199608,
+                "isbn13": 9780785199601,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 127
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.x9GtB8NhngAXiOIFX5mjTg",
+                "title": "Spider-Gwen, Vol. 2: Weapon of Choice",
+                "title_without_series": "Spider-Gwen, Vol. 2: Weapon of Choice",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494640536l/29775602._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494640536l/29775602._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/29775602-spider-gwen-vol-2",
+                "num_pages": 112,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 3,
+                "publication_year": 2017,
+                "publication_month": 1,
+                "average_rating": 3.53,
+                "ratings_count": 1313,
+                "description": "Gwen's life is turned upside down after the SPIDER-WOMAN event at the worst time ever as Captain Frank Castle is bearing down on her. Does she stand a chance against Castle's punishment?<br /><br /><b>COLLECTING: </b>SPIDER-GWEN 9-13<br />",
+                "authors": {
+                    "author": {
+                        "id": 4456310,
+                        "name": "Jason Latour",
+                        "role": "Text",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1488513529p5/4456310.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1488513529p2/4456310.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4456310.Jason_Latour",
+                        "average_rating": 3.89,
+                        "ratings_count": 55187,
+                        "text_reviews_count": 5288
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 50141710,
+                    "uri": "kca://work/amzn1.gr.work.v1.Wiw97iU900M7mZbObxVCBg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2677473916
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Dec 25 08:54:59 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Dec 20 00:00:00 -0800 2018",
+            "date_added": "Tue Dec 25 08:54:58 -0800 2018",
+            "date_updated": "Wed Dec 26 07:36:02 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2638058522",
+            "link": "https://www.goodreads.com/review/show/2638058522",
+            "owned": 0
+        }
+    }
+}

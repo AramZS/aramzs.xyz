@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 462158410,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12924640
+                },
+                "isbn": 1936365790,
+                "isbn13": 9781936365791,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 74
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.VJgmpweXE3TXhjWfj8l2bw",
+                "title": "Love, an Index",
+                "title_without_series": "Love, an Index",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344693122l/12924640._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344693122l/12924640._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12924640-love-an-index",
+                "num_pages": 96,
+                "format": "Hardcover",
+                "edition_information": "McSweeney's Poetry Series",
+                "publisher": "McSweeney's",
+                "publication_day": 20,
+                "publication_year": 2012,
+                "publication_month": 3,
+                "average_rating": 4.31,
+                "ratings_count": 655,
+                "description": "A man disappears. The woman who loves him is left scarred and haunted. In her fierce, one-of-a-kind debut, Rebecca Lindenberg tells the story—in verse—of her passionate relationship with Craig Arnold, a much-respected poet who disappeared in 2009 while hiking a volcano in Japan. Lindenberg’s billowing, I-contain-multitudes style lays bare the poet’s sadnesses, joys, and longings in poems that are lyric and narrative, at once plainspoken and musically elaborate.<br /><br />Regarding her role in Arnold’s story, Lindenberg writes with clear-eyed humility and endearing dignity: “The girl with the ink-stained teeth / knows she’s famous / in a tiny, tragic way. / She’s not / daft, after all.” And then later, playfully, of her travels in Italy with the poet, her lover: “The carabinieri / wanted to know if there were bears / in our part of America. Yes, we said, / many bears. Man-eating bears? Yes, of course, / many man-eating bears.” Every poem in this collection bursts with humor, pathos, verve—and an utterly unique, soulful voice.<br /><br />This widely anticipated debut, already selected as a finalist for several prominent book awards, marks the first collection in the newly minted McSweeney’s Poetry Series. MPS is an imprint which seeks to publish a broad range of excellent new poetry collections in exquisitely designed hardcovers—poetry that’s useful and meaningful to anyone in any walk of life.",
+                "authors": {
+                    "author": {
+                        "id": 5286756,
+                        "name": "Rebecca Lindenberg",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1547584848p5/5286756.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1547584848p2/5286756.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5286756.Rebecca_Lindenberg",
+                        "average_rating": 4.3,
+                        "ratings_count": 705,
+                        "text_reviews_count": 84
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 18080118,
+                    "uri": "kca://work/amzn1.gr.work.v1.XDnd0kigAs08bdLPj81w1A"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 307858981,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Nov 23 19:31:04 -0800 2012",
+            "date_updated": "Fri Nov 23 19:31:04 -0800 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/462158410",
+            "link": "https://www.goodreads.com/review/show/462158410",
+            "owned": 0
+        }
+    }
+}

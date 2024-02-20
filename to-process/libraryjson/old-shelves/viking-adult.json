@@ -1,0 +1,149 @@
+{
+    "name": "Viking Adult",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Shadow of Night (All Souls Trilogy, #2)",
+            "id": "11559200",
+            "author": "Deborah Harkness",
+            "date_finished": 1362096000000,
+            "notes": [],
+            "date_started": 1390425914000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11559200",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Viking Adult",
+            "tags": [
+                "Hardcover",
+                "Viking Adult",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0670023485",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780670023486",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "11559200",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Waste Lands (The Dark Tower, #3)",
+            "id": "34084",
+            "author": "Stephen King, Ned Dameron",
+            "date_finished": 1291680000000,
+            "notes": [],
+            "date_started": 1291705317000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Waste Lands (The Dark Tower, #3): Rating - 4/5",
+                    "date": 1291680000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34084",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Viking Adult",
+            "tags": [
+                "Hardcover",
+                "Viking Adult",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0670032565",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780670032563",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34084",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Waste Lands (The Dark Tower, #3)",
+            "id": 34084,
+            "author": "Stephen King",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34084",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Viking Adult",
+            "tags": [
+                "Hardcover",
+                "Viking Adult",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 34084,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065306692,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 40864790
+                },
+                "isbn": "125031285X",
+                "isbn13": 9781250312853,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5423
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.fq50E9W7xEVo34s_gdview",
+                "title": "Pumpkinheads",
+                "title_without_series": "Pumpkinheads",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537541596l/40864790._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537541596l/40864790._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/40864790-pumpkinheads",
+                "num_pages": 209,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "First Second",
+                "publication_day": 27,
+                "publication_year": 2019,
+                "publication_month": 8,
+                "average_rating": 4.13,
+                "ratings_count": 31252,
+                "description": "Deja and Josiah are seasonal best friends.<br /><br />Every autumn, all through high school, they’ve worked together at the best pumpkin patch in the whole wide world. (Not many people know that the best pumpkin patch in the whole wide world is in Omaha, Nebraska, but it definitely is.) They say good-bye every Halloween, and they’re reunited every September 1.<br /><br />But this Halloween is different—Josiah and Deja are finally seniors, and this is their last season at the pumpkin patch. Their last shift together. Their last good-bye.<br /><br />Josiah’s ready to spend the whole night feeling melancholy about it. Deja isn’t ready to let him. She’s got a<i> plan</i>: What if—instead of moping and the usual slinging lima beans down at the Succotash Hut—they went out with a bang? They could see all the sights! Taste all the snacks! And Josiah could finally talk to that cute girl he’s been mooning over for three years . . .<br /><br />What if their last shift was an adventure?",
+                "authors": {
+                    "author": {
+                        "id": 4208569,
+                        "name": "Rainbow Rowell",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1342324527p5/4208569.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1342324527p2/4208569.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4208569.Rainbow_Rowell",
+                        "average_rating": 4.03,
+                        "ratings_count": 2012769,
+                        "text_reviews_count": 206377
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 42907220,
+                    "uri": "kca://work/amzn1.gr.work.v1.T6Zm30LKPwIvaIF6csc-gQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244220414
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:21:17 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712840683,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:21:17 -0800 2019",
+            "date_updated": "Thu Nov 28 09:21:17 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065306692",
+            "link": "https://www.goodreads.com/review/show/3065306692",
+            "owned": 0
+        }
+    }
+}

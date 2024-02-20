@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 474535943,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12132930
+                },
+                "isbn": 1401233597,
+                "isbn13": 9781401233594,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 217
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.RDnPIaJYyvLaeXKgFR3SAg",
+                "title": "The Unwritten, Vol. 5: On to Genesis",
+                "title_without_series": "The Unwritten, Vol. 5: On to Genesis",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327959829l/12132930._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327959829l/12132930._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12132930-the-unwritten-vol-5",
+                "num_pages": {},
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 17,
+                "publication_year": 2012,
+                "publication_month": 1,
+                "average_rating": 3.97,
+                "ratings_count": 6147,
+                "description": "<b>A <i>New York Times</i> bestseller!</b><br />Before his mysterious disappearance and untimely death, the world-famous fantasy author Wilson Taylor helped bring two enduring creations into the world: Tommy Taylor, the fictional boy wizard who starred in his best selling book...and Tom Taylor, his real-life son.<br />Armed with his father's journals, Tom Taylor begins a journey to uncover the truth behind how he came into this world. Was he born of flesh and blood, or written into existence by sheer storytelling magic?<br />His quest will take him across the United States and even into the past - to the Golden Age of comic books and the birth of a new type of hero.<br /><br /><b>Collecting</b>: <i>The Unwritten</i> 25-30",
+                "authors": {
+                    "author": {
+                        "id": 9018,
+                        "name": "Mike Carey",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334894864p5/9018.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334894864p2/9018.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9018.Mike_Carey",
+                        "average_rating": 4.03,
+                        "ratings_count": 293647,
+                        "text_reviews_count": 12863
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 17102685,
+                    "uri": "kca://work/amzn1.gr.work.v1.qdN7FiRIqW0Iy-uCLiZDfA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051895890
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:47:31 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813206902,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 10 10:00:00 -0800 2012",
+            "date_updated": "Mon Oct 23 16:47:31 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/474535943",
+            "link": "https://www.goodreads.com/review/show/474535943",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2591744435,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 31189192
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 132
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.I9f-v1CYyutwYRenx8GnRA",
+                "title": "Null States (The Centenal Cycle, #2)",
+                "title_without_series": "Null States",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484154863l/31189192._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484154863l/31189192._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/31189192-null-states",
+                "num_pages": 432,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Tor.com",
+                "publication_day": 19,
+                "publication_year": 2017,
+                "publication_month": 9,
+                "average_rating": 3.87,
+                "ratings_count": 1179,
+                "description": "The future of democracy is about to implode.<br /><br />After the last controversial global election, the global infomocracy that has ensured thirty years of world peace is fraying at the edges. As the new Supermajority government struggles to establish its legitimacy, agents of Information across the globe strive to keep the peace and maintain the flows of data that feed the new world order.<br /><br />In the newly-incorporated DarFur, a governor dies in a fiery explosion. In Geneva, a superpower hatches plans to bring microdemocracy to its knees. In Central Asia, a sprawling war among archaic states threatens to explode into a global crisis. And across the world, a shadowy plot is growing, threatening to strangle Information with the reins of power.<br /><br />\"",
+                "authors": {
+                    "author": {
+                        "id": 14220734,
+                        "name": "Malka Ann Older",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1446698915p5/14220734.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1446698915p2/14220734.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14220734.Malka_Ann_Older",
+                        "average_rating": 3.73,
+                        "ratings_count": 8783,
+                        "text_reviews_count": 1626
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 51832886,
+                    "uri": "kca://work/amzn1.gr.work.v1.lbDPuVfiFSWdlEyjwVkzOw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2616208351
+                    },
+                    "old_status": {},
+                    "status": "currently-reading",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 12 04:47:10 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 2236546142,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Nov 12 04:47:09 -0800 2018",
+            "read_at": {},
+            "date_added": "Mon Nov 12 04:47:09 -0800 2018",
+            "date_updated": "Mon Nov 12 04:47:09 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2591744435",
+            "link": "https://www.goodreads.com/review/show/2591744435",
+            "owned": 0
+        }
+    }
+}

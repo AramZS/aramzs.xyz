@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606738761,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 36381091
+                },
+                "isbn": 62679104,
+                "isbn13": 9780062679109,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2771
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.1e-H8NUWJwruayp_jo3T5w",
+                "title": "The Cabin at the End of the World",
+                "title_without_series": "The Cabin at the End of the World",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575855422l/36381091._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575855422l/36381091._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/36381091-the-cabin-at-the-end-of-the-world",
+                "num_pages": 272,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "William Morrow",
+                "publication_day": 26,
+                "publication_year": 2018,
+                "publication_month": 6,
+                "average_rating": 3.29,
+                "ratings_count": 27755,
+                "description": "The Bram Stoker Award-winning author of A Head Full of Ghosts adds an inventive twist to the home invasion horror story in a heart-palpitating novel of psychological suspense that recalls Stephen King’s Misery, Ruth Ware’s In a Dark, Dark Wood, and Jack Ketchum’s cult hit The Girl Next Door.<br /><br />Seven-year-old Wen and her parents, Eric and Andrew, are vacationing at a remote cabin on a quiet New Hampshire lake. Their closest neighbors are more than two miles in either direction along a rutted dirt road.<br /><br />One afternoon, as Wen catches grasshoppers in the front yard, a stranger unexpectedly appears in the driveway. Leonard is the largest man Wen has ever seen but he is young, friendly, and he wins her over almost instantly. Leonard and Wen talk and play until Leonard abruptly apologizes and tells Wen, \"None of what’s going to happen is your fault\". Three more strangers then arrive at the cabin carrying unidentifiable, menacing objects. As Wen sprints inside to warn her parents, Leonard calls out: \"Your dads won’t want to let us in, Wen. But they have to. We need your help to save the world.\"<br /><br />Thus begins an unbearably tense, gripping tale of paranoia, sacrifice, apocalypse, and survival that escalates to a shattering conclusion, one in which the fate of a loving family and quite possibly all of humanity are entwined. The Cabin at the End of the World is a masterpiece of terror and suspense from the fantastically fertile imagination of Paul Tremblay.",
+                "authors": {
+                    "author": {
+                        "id": 648612,
+                        "name": "Paul Tremblay",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1415058580p5/648612.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1415058580p2/648612.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/648612.Paul_Tremblay",
+                        "average_rating": 3.62,
+                        "ratings_count": 94455,
+                        "text_reviews_count": 15043
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 57969097,
+                    "uri": "kca://work/amzn1.gr.work.v1.l_SCx2LAiaFdP_7kbqRXxg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636063009
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:24:11 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251644676,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:24:10 -0800 2018",
+            "date_updated": "Mon Nov 26 13:24:11 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606738761",
+            "link": "https://www.goodreads.com/review/show/2606738761",
+            "owned": 0
+        }
+    }
+}

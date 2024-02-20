@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 453443811,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 138545
+                },
+                "isbn": 743486595,
+                "isbn13": 9780743486590,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 52
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.zJzbakck79uqo4l4-Cxk-A",
+                "title": "I, Robot: The Illustrated Screenplay",
+                "title_without_series": "I, Robot: The Illustrated Screenplay",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/138545.I_Robot",
+                "num_pages": 271,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "iBooks",
+                "publication_day": 1,
+                "publication_year": 2004,
+                "publication_month": 4,
+                "average_rating": 4.03,
+                "ratings_count": 633,
+                "description": "Until the recent announcement of the Will Smith/Alex Proyas collaboration scheduled for release in 2004, numerous attempts had been made to adapt Isaac Asimov's classic story-cycle, I, Robot, to the motion picture medium. All efforts failed. In 1977, producers approached multiple-award-winning author Harlan Ellison to take a crack at this \"impossible\" project. He accepted, and produced an astonishing screenplay that Asimov felt would be \"The first really adult, complex, worthwhile science fiction movie ever made.\" That screenplay is presented here in book format, brought to scintillating life by the illustrations of artist Mark Zug. After you read it, then decide: Is this not the greatest science fiction movie never made?",
+                "authors": {
+                    "author": {
+                        "id": 7415,
+                        "name": "Harlan Ellison",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1377708311p5/7415.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1377708311p2/7415.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7415.Harlan_Ellison",
+                        "average_rating": 4.29,
+                        "ratings_count": 1188875,
+                        "text_reviews_count": 47073
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 133538,
+                    "uri": "kca://work/amzn1.gr.work.v1.FlDZW-C8pVFWrTYB-18BCQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 301175361,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Thu Nov 01 00:00:00 -0700 2012",
+            "read_at": {},
+            "date_added": "Sun Nov 11 07:47:30 -0800 2012",
+            "date_updated": "Sun Nov 11 07:48:04 -0800 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/453443811",
+            "link": "https://www.goodreads.com/review/show/453443811",
+            "owned": 0
+        }
+    }
+}

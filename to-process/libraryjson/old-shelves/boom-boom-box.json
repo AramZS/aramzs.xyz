@@ -1,0 +1,59 @@
+{
+    "name": "BOOM! - BOOM! Box",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Lumberjanes: Pungeon Master (Lumberjanes, #2)",
+            "id": "25088157",
+            "author": "Noelle Stevenson, Grace Ellis, Brooke A. Allen",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1562950051000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Lumberjanes: Pungeon Master (Lumberjanes, #2): Rating - 4/5",
+                    "date": 1562950051000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25088157",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "BOOM! - BOOM! Box",
+            "tags": [
+                "Kindle Edition",
+                "BOOM! - BOOM! Box",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25088157",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

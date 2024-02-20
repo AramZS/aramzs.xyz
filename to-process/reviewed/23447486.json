@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967740,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23447486
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 11
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.pPcLzTFokmr-4SXOX864MA",
+                "title": "A Cup of Water Under My Bed: A Memoir",
+                "title_without_series": "A Cup of Water Under My Bed: A Memoir",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23447486-a-cup-of-water-under-my-bed",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.12,
+                "ratings_count": 1356,
+                "description": "A coming-of-age memoir by a Colombian-Cuban woman about shaping lessons from home into a new, queer life <br />In this lyrical, coming-of-age memoir, Daisy Hernandez chronicles what the women in her Cuban-Colombian family taught her about love, money, and race. Her mother warns her about \"envidia \"and men who seduce you with pastries, while one tia bemoans that her niece is turning out to be \"\"una india\"\" instead of an American. Another auntie instructs that when two people are close, they are bound to become like \"una y mugre,\" fingernails and dirt, and that no, Daisy's father is not godless. He's simply praying to a candy dish that can be traced back to Africa. <br /> These lessons--rooted in women's experiences of migration, colonization, \"y carino\"--define in evocative detail what it means to grow up female in an immigrant home. In one story, Daisy sets out to defy the dictates of race and class that preoccupy her mother and tias, but dating women and transmen, and coming to identify as bisexual, leads her to unexpected questions. In another piece, NAFTA shuts local factories in her hometown on the outskirts of New York City, and she begins translating unemployment forms for her parents, moving between English and Spanish, as well as private and collective fears. In prose that is both memoir and commentary, Daisy reflects on reporting for the \"New York Times \"as the paper is rocked by the biggest plagiarism scandal in its history and plunged into debates about the role of race in the newsroom. <br /> A heartfelt exploration of family, identity, and language, \"A Cup of Water Under My Bed\" is ultimately a daughter's story of finding herself and her community, and of creating a new, queer life. \"From the Hardcover edition.\"",
+                "authors": {
+                    "author": {
+                        "id": 1271021,
+                        "name": "Daisy Hernández",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1271021.Daisy_Hern_ndez",
+                        "average_rating": 4.14,
+                        "ratings_count": 5314,
+                        "text_reviews_count": 355
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 31460723,
+                    "uri": "kca://work/amzn1.gr.work.v1.gG7Vm1kOEwc9XDOR8uufEQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886479337
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:29:32 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1002423721,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:29:32 -0700 2015",
+            "date_updated": "Fri Jun 05 15:29:32 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967740",
+            "link": "https://www.goodreads.com/review/show/1299967740",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": " Harper Voyager",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Kill City Blues (Sandman Slim, #5)",
+            "id": "15783828",
+            "author": "Richard Kadrey",
+            "date_finished": 1452556800000,
+            "notes": [],
+            "date_started": 1452656186000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Kill City Blues (Sandman Slim, #5): Rating - 4/5",
+                    "date": 1452556800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/15783828",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": " Harper Voyager",
+            "tags": [
+                "Hardcover",
+                " Harper Voyager",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0062094599",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780062094599",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "15783828",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "name": "Riverhead",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Exit West",
+            "id": "30688435",
+            "author": "Mohsin Hamid",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1568831814000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Exit West: Rating - 4/5",
+                    "date": 1568831814000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30688435",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Riverhead",
+            "tags": [
+                "Hardcover",
+                "Riverhead",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0735212171",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780735212176",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "30688435",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Future Perfect: The Case for Progress in a Networked Age",
+            "id": "18666050",
+            "author": "Steven Johnson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146662000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18666050",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Riverhead",
+            "tags": [
+                "Kindle Edition",
+                "Riverhead",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18666050",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "On Such a Full Sea",
+            "id": "20403979",
+            "author": "Chang-rae Lee",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146338000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/20403979",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Riverhead",
+            "tags": [
+                "Kindle Edition",
+                "Riverhead",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "20403979",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Exit West",
+            "id": 30688435,
+            "author": "Mohsin Hamid",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30688435",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Riverhead",
+            "tags": [
+                "Hardcover",
+                "Riverhead",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 30688435,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749130822,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23784201
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UrME9sxwcTnjiYKq91aCNg",
+                "title": "The Fortress in Orion",
+                "title_without_series": "The Fortress in Orion",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23784201-the-fortress-in-orion",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 2.96,
+                "ratings_count": 207,
+                "description": "The Democracy is at war with the alien Traanskei Coalition. War hero Colonel Nathan Pretorius has a record of success on dangerous behind-enemy-lines missions, missions that usually leave him in the hospital. Now he's recruited for a near-impossible assignment that may well leave him dead. <br /><br />At the cost of many lives, the Democracy has managed to clone and train General Michkag, one of the Traanskei's master strategists. Colonel Pretorius and a hand-picked team must kidnap the real Michkag if they can, assassinate him if they can't, but no matter which, put the clone in his place, where he will misdirect the enemy's forces and funnel vital information to the Democracy.<br /><br />Against the odds, Pretorius, along with Cyborg Felix Ortega, computer expert Toni Levi, convict and contortionist Sally \"Snake\" Kowalski, the near-human empath Marlowe, the alien Gzychurlyx, and Madam Methuselah - the Dead Enders - must infiltrate the Fortress in Orion, accomplish their mission, and escape with their lives.",
+                "authors": {
+                    "author": {
+                        "id": 54475,
+                        "name": "Mike Resnick",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1324507257p5/54475.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1324507257p2/54475.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/54475.Mike_Resnick",
+                        "average_rating": 3.8,
+                        "ratings_count": 80653,
+                        "text_reviews_count": 6169
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 40814022,
+                    "uri": "kca://work/amzn1.gr.work.v1.joNZXTOr82h1f1CgcKlIkg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498304507
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:44:05 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414467301,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:44:05 -0700 2016",
+            "date_updated": "Mon Sep 05 07:44:05 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749130822",
+            "link": "https://www.goodreads.com/review/show/1749130822",
+            "owned": 0
+        }
+    }
+}

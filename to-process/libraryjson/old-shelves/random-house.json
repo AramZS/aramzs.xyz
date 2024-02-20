@@ -1,0 +1,525 @@
+{
+    "name": "Random House",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Dear Girls: Intimate Tales, Untold Secrets, & Advice for Living Your Best Life",
+            "id": "44600621",
+            "author": "Ali Wong, Justin Hakuta",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961419000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/44600621",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House",
+            "tags": [
+                "Hardcover",
+                "Random House",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "052550883X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780525508830",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "44600621",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Trick Mirror",
+            "id": "43130415",
+            "author": "Jia Tolentino",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1570109279000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/43130415",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House",
+            "tags": [
+                "Kindle Edition",
+                "Random House",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "43130415",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Thrawn (Star Wars: Thrawn, #1)",
+            "id": "31140332",
+            "author": "Timothy Zahn",
+            "date_finished": 1492560000000,
+            "notes": [],
+            "date_started": 1495117667000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Thrawn (Star Wars: Thrawn, #1): Rating - 4/5",
+                    "date": 1492560000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/31140332",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House",
+            "tags": [
+                "Hardcover",
+                "Random House",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1780894848",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781780894843",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "31140332",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Book of Lost Books: An Incomplete History of All the Great Books You'll Never Read",
+            "id": "329275",
+            "author": "Stuart Kelly",
+            "date_finished": 1371600000000,
+            "notes": [],
+            "date_started": 1371704403000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Book of Lost Books: An Incomplete History of All the Great Books You'll Never Read: Rating - 5/5",
+                    "date": 1371600000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/329275",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House",
+            "tags": [
+                "Hardcover",
+                "Random House",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1400062977",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781400062973",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "329275",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+            "id": "12609433",
+            "author": "Charles Duhigg",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360215779000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12609433",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House",
+            "tags": [
+                "Hardcover",
+                "Random House",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1400069289",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781400069286",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "12609433",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "House of Leaves",
+            "id": "24800",
+            "author": "Mark Z. Danielewski",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1351350794000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/24800",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House",
+            "tags": [
+                "Paperback",
+                "Random House",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "038560310X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780385603102",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "24800",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The God of Small Things",
+            "id": "9777",
+            "author": "Arundhati Roy",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213669394000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The God of Small Things: Rating - 3/5",
+                    "date": 1213669394000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/9777",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House",
+            "tags": [
+                "Hardcover",
+                "Random House",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0679457313",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780679457312",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "9777",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Panic in Level 4: Cannibals, Killer Viruses, and Other Journeys to the Edge of Science",
+            "id": "2529777",
+            "author": "Richard   Preston",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213667814000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2529777",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House",
+            "tags": [
+                "Hardcover",
+                "Random House",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1400064902",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781400064908",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "2529777",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Thrawn (Star Wars: Thrawn, #1)",
+            "id": 31140332,
+            "author": "Timothy Zahn",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/31140332",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House",
+            "tags": [
+                "Hardcover",
+                "Random House",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 31140332,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The God of Small Things",
+            "id": 9777,
+            "author": "Arundhati Roy",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/9777",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House",
+            "tags": [
+                "Hardcover",
+                "Random House",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 9777,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Book of Lost Books: An Incomplete History of All the Great Books You'll Never Read",
+            "id": 329275,
+            "author": "Stuart Kelly",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/329275",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House",
+            "tags": [
+                "Hardcover",
+                "Random House",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 329275,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

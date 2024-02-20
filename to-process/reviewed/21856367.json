@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1367819675,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 21856367
+                },
+                "isbn": "147670869X",
+                "isbn13": 9781476708690,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1741
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.o6y0h6oj9tpRdqjA8ijy4w",
+                "title": "The Innovators: How a Group of  Hackers, Geniuses and Geeks Created the Digital Revolution",
+                "title_without_series": "The Innovators: How a Group of  Hackers, Geniuses and Geeks Created the Digital Revolution",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410191571l/21856367._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410191571l/21856367._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/21856367-the-innovators",
+                "num_pages": 542,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Simon and Schuster",
+                "publication_day": 7,
+                "publication_year": 2014,
+                "publication_month": 10,
+                "average_rating": 4.11,
+                "ratings_count": 26528,
+                "description": "The computer and the internet are among the most important innovations of our era, but few people know who created them. They were not conjured up in a garret or garage by solo inventors suitable to be singled out on magazine covers or put into a pantheon with Edison, Bell, and Morse. Instead, most of the innovations of the digital age were done collaboratively. There were a lot of fascinating people involved, some ingenious and a few even geniuses. This is the story of these pioneers, hackers, inventors, and entrepreneurs—who they were, how their minds worked, and what made them so creative. It’s also a narrative of how they collaborated and why their ability to work as teams made them even more creative.”",
+                "authors": {
+                    "author": {
+                        "id": 7111,
+                        "name": "Walter Isaacson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192222433p5/7111.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192222433p2/7111.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7111.Walter_Isaacson",
+                        "average_rating": 4.12,
+                        "ratings_count": 1243494,
+                        "text_reviews_count": 29532
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 41129225,
+                    "uri": "kca://work/amzn1.gr.work.v1.zH2fK_IGDQOeTJtWQzPiAQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 974783642
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 18 20:42:52 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1063479586,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Aug 18 20:42:52 -0700 2015",
+            "date_updated": "Tue Aug 18 20:42:52 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1367819675",
+            "link": "https://www.goodreads.com/review/show/1367819675",
+            "owned": 0
+        }
+    }
+}
