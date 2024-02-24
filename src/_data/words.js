@@ -132,4 +132,8 @@ module.exports = [
 		cite: "Wikipedia",
 		citeLink: "https://en.wikipedia.org/wiki/Reification_(fallacy)",
 	},
+	{
+		term: "prandial",
+		definition: "during or relating to the eating of food.",
+	},
 ];
