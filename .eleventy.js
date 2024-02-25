@@ -9,6 +9,22 @@ const fs = require("fs");
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
 
+	eleventyConfig.on(
+		"eleventy.before",
+		async ({ dir, runMode, outputMode }) => {
+			// Run me before the build starts
+			console.log("Before Build", dir, runMode, outputMode);
+			const tvProcessor = require("./bin/enrichers/tv");
+			const tvResults = await tvProcessor.writeTVShows();
+
+			return {
+				results: {
+					tv: tvResults,
+				},
+			};
+		}
+	);
+
 	//
 	// Install Plugins
 	//
