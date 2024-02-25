@@ -51,18 +51,21 @@ const tvArray = tv.split("\n").map(async (line) => {
 	if (showName in movieDBSet) {
 		console.log("tv cache found", showName);
 		let tags = [];
-		tags = movieDBSet[showName].genre_ids.reduce((accumulator, genre) => {
-			let genreObj = tvGenresSet.genres.find(
-				(genreItem) => genreItem.id === genre
-			);
-			if (genreObj) {
-				let genreText = genreObj.name;
-				accumulator.push(genreText);
-			} else {
-				console.log("genre not found", genre);
-			}
-			return accumulator;
-		}, []);
+		tags = movieDBSet[showName].genre_ids.reduce(
+			(accumulator, genre) => {
+				let genreObj = tvGenresSet.genres.find(
+					(genreItem) => genreItem.id === genre
+				);
+				if (genreObj) {
+					let genreText = genreObj.name;
+					accumulator.push(genreText);
+				} else {
+					console.log("genre not found", genre);
+				}
+				return accumulator;
+			},
+			["list/film-and-tv", "list/tv"]
+		);
 		movieDBSet[showName].tags = tags;
 		console.log("genre tag set", tags);
 		if (tags.length < 1) {
@@ -88,6 +91,9 @@ const tvArray = tv.split("\n").map(async (line) => {
 		);
 		movieDBSet[showName].cover_image = featPath;
 		movieDBSet[showName].poster = posterPath;
+		movieDBSet[showName].watchedDate = new Date("2023-12-01").toISOString();
+		movieDBSet[showName].layout = "layouts/list-tv-film.njk";
+		delete movieDBSet[showName].layouts;
 		return { showName, ...movieDBSet[showName] };
 	}
 	fetch(movieDBUrl.href)
