@@ -1,7 +1,7 @@
 ---
 title: Cat and Girl - Me and my 4000 friends
 tags:
-  - list/on-the-news
+  - list/in-the-news
   - ai
   - art
 basedOn: https://catandgirl.com/4000-of-my-closest-friends/

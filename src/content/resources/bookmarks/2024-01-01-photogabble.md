@@ -1,7 +1,6 @@
 ---
 title: Photogabble
 tags:
-  - list/windows-interface
   - list/blogroll
 cite:
   name: Simon Dann

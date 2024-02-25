@@ -31,7 +31,6 @@ Below is a non-exhaustive list of all the breadcrumb hierarchy that I have stuff
 ~/writing/types/mirrored
 ~/writing/types/colophon
 ~/collections
-~/collections/dad-jokes
 ~/collections/quotes
 ~/collections/bookmarks
 ~/collections/webrings

@@ -1,4 +1,3 @@
-{% set buttonBoard = collections.lists | whereKeyEquals('slug', 'button-board') | first %}
 {% set grouped = collections.post | excludeStubs | groupByKey('contentType') %}
 {% set stubs = collections.post | onlyGrowthStages('stub') %}
 {% set antilibrary = bookwyrm | whereKeyEquals('shelf', 'to-read') %}
@@ -7,7 +6,7 @@
 
 <section class="jumbo-nav">
     <nav class="container">
-        <dl>
+        <dl>{{ "grouped log" | inspect}}{{ grouped | debug}}
             <dt>Writing</dt>
             <dd><a href="/essays"><span>{{ grouped.get('essay').length }}</span><span>Essays</span></a></dd>
             <dd><a href="/tutorials"><span>{{ grouped.get('tutorial').length }}</span><span>Tutorials</span></a></dd>
@@ -25,11 +24,10 @@
             <dd><a href="/antilibrary"><span>{{ antilibrary.length }}</span><span><em>The</em> Antilibrary</span></a></dd>
             <dd><a href="/lists" title="View all lists and collections (archive)"><small>View all <span aria-hidden="true">→</span></small></a></dd>
         </dl>
-        <dl>
+        <dl> {{ "resources log" | inspect}}{{ resources.get('bookmarks') | debug}}
             <dt>Resources</dt>
             <dd><a href="/resources/bookmarks"><span>{{ resources.get('bookmarks').length }}</span><span>Bookmarks</span></a></dd>
             <dd><a href="/resources/quotes"><span>{{ resources.get('quotes').length }}</span><span>Quotes</span></a></dd>
-            <dd><a href="/resources/jokes"><span>{{ resources.get('jokes').length }}</span><span>Jokes</span></a></dd>
             <dd><a href="/resources" title="View all Resources (archive)"><small>View all <span aria-hidden="true">→</span></small></a></dd>
         </dl>
         <dl>
@@ -41,20 +39,6 @@
             <dd><a href="/uses"><span>/uses</span></a></dd>
         </dl>
         <div>
-            <dl>
-                <dt>Button Board</dt>
-                <dd>
-                    <small>A random selection from my <a href="/button-board">Button Board</a>:</small>
-                </dd>
-                <dd>
-                    {%- for item in buttonBoard.items | randomItems(4) -%}
-                        {% set href = item.data.cite.href or item.url %}
-                        <a href="{{ href }}" class="no-ext btn-88x31" rel="noopener" title="Visit {{ item.data.title }}">
-                            <img width="88" height="31" src="/img/88x31/{{ item.data.button }}" alt="88x31 button for {{ item.data.title }}" aria-hidden="true" />
-                        </a>
-                    {%- endfor -%}
-                </dd>
-            </dl>
             <dl>
                 <dt>Community</dt>
                 <dd>

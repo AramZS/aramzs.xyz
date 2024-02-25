@@ -1,13 +1,13 @@
 {
-  "name": "@photogabble/website",
+  "name": "aramzs-xyz",
   "version": "2.0.0",
-  "description": "Source code for photogabble.co.uk",
+  "description": "Source code for aramzs.xyz",
   "main": "index.js",
   "scripts": {
-    "serve:dev": "rm -rf _site && cross-env ELEVENTY_ENV=development eleventy --serve",
+    "serve:dev": "rm -rf _site && cross-env ELEVENTY_ENV=development DEBUG=Eleventy* npx eleventy --serve > ./buildlog.txt",
     "serve:prod": "rm -rf _site && cross-env ELEVENTY_ENV=production eleventy --serve",
     "build": "cross-env ELEVENTY_ENV=production eleventy",
-    "build:dev": "cross-env ELEVENTY_ENV=development eleventy",
+    "build:dev": "rm -rf _site && cross-env ELEVENTY_ENV=development DEBUG=Eleventy* eleventy > ./buildlog.txt",
     "og-images": "node ./bin/create-og-images.js",
     "make:bookmark": "node ./bin/add-bookmark.js"
   },
@@ -16,12 +16,11 @@
     "gen-og-images": "./bin/create-og-images.js"
   },
   "keywords": [
-    "PhotoGabble",
     "DigitalGarden",
     "Blog",
     "11ty"
   ],
-  "author": "Simon Dann",
+  "author": "Aram Zucker-Scharff and Simon Dann",
   "license": "CC BY-NC-SA 4.0",
   "devDependencies": {
     "@11ty/eleventy": "^2.0",
@@ -57,7 +56,9 @@
   "dependencies": {
     "@11ty/eleventy-img": "^3.1.8",
     "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.4",
     "enquirer": "^2.3.6",
+    "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
     "markdown-it-find-and-replace": "^1.0.2",
     "markdown-it-link-attributes": "^4.0.1",
@@ -66,6 +67,9 @@
     "outdent": "^0.8.0",
     "sharp": "^0.33.2",
     "simple-git": "^3.20.0",
+    "slugify": "^1.6.6",
+    "transliteration": "^2.3.5",
+    "urlsafe-base64": "^1.0.0",
     "yargs": "^17.7.2"
   }
 }
