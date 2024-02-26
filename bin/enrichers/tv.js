@@ -42,75 +42,124 @@ if (cache.has("tv_genres")) {
 	});
 }
 
+const tvPageBuild = async (showName, showData) => {
+	console.log("tv cache found", showName);
+	const imagePath = "https://image.tmdb.org/t/p/original/";
+	let tags = [];
+	if (showData.hasOwnProperty("genre_ids")) {
+		console.log("tv no genre IDs found", showName, showData);
+	}
+	tags = showData.genre_ids.reduce(
+		(accumulator, genre) => {
+			let genreObj = tvGenresSet.genres.find(
+				(genreItem) => genreItem.id === genre
+			);
+			if (genreObj) {
+				let genreText = genreObj.name;
+				accumulator.push(genreText);
+			} else {
+				console.log("genre not found", genre);
+			}
+			return accumulator;
+		},
+		["list/film-and-tv", "list/tv"]
+	);
+	showData.tags = tags;
+	console.log("genre tag set", tags);
+	if (tags.length < 1) {
+		console.log("no tags", showData);
+	}
+	let featuredImage = imagePath + showData.backdrop_path;
+	let posterImage = imagePath + showData.poster_path;
+
+	let showSlug = slugger(showName);
+	showData.slug = showSlug;
+	// processImageUrl
+	let featPath = await processImageUrl(
+		featuredImage,
+		"jpg",
+		showSlug + "-featured",
+		"./public/img/retrieved/tv"
+	);
+	let posterPath = await processImageUrl(
+		posterImage,
+		"jpg",
+		showSlug + "-poster",
+		"./public/img/retrieved/tv"
+	);
+	showData.cover_image = featPath;
+	showData.poster = posterPath;
+
+	// Enforce particular requirements for the output
+	if (!showData.hasOwnProperty("watchedDate")) {
+		showData.watchedDate = new Date("2023-12-01").toISOString();
+	}
+	if (!showData.hasOwnProperty("year")) {
+		let first_air_date = new Date(showData.first_air_date);
+		showData.year = first_air_date.getFullYear();
+	}
+	if (!showData.hasOwnProperty("date")) {
+		showData.date = new Date().toISOString();
+	}
+	if (!showData.hasOwnProperty("rewatch")) {
+		showData.rewatch = false;
+	}
+	// showData.layout = "layouts/list-tv-film.njk";
+	delete showData.layouts;
+	delete showData.layout;
+	return { showName, ...showData };
+};
+
 const tvArray = tv.split("\n").map(async (line) => {
 	let showName = line;
+	if (showName === "") {
+		return;
+	}
 	movieDBUrl.searchParams.delete("query");
 	movieDBUrl.searchParams.append("query", showName);
-	var imagePath = "https://image.tmdb.org/t/p/original/";
 	await genreResult;
-	if (showName in movieDBSet) {
-		console.log("tv cache found", showName);
-		let tags = [];
-		tags = movieDBSet[showName].genre_ids.reduce(
-			(accumulator, genre) => {
-				let genreObj = tvGenresSet.genres.find(
-					(genreItem) => genreItem.id === genre
-				);
-				if (genreObj) {
-					let genreText = genreObj.name;
-					accumulator.push(genreText);
-				} else {
-					console.log("genre not found", genre);
-				}
-				return accumulator;
-			},
-			["list/film-and-tv", "list/tv"]
-		);
-		movieDBSet[showName].tags = tags;
-		console.log("genre tag set", tags);
-		if (tags.length < 1) {
-			console.log("no tags", movieDBSet[showName]);
-		}
-		let featuredImage = imagePath + movieDBSet[showName].backdrop_path;
-		let posterImage = imagePath + movieDBSet[showName].poster_path;
-		movieDBSet[showName].date = new Date().toISOString();
-		let showSlug = slugger(showName);
-		movieDBSet[showName].slug = showSlug;
-		// processImageUrl
-		let featPath = await processImageUrl(
-			featuredImage,
-			"jpg",
-			showSlug + "-featured",
-			"./public/img/retrieved/tv"
-		);
-		let posterPath = await processImageUrl(
-			posterImage,
-			"jpg",
-			showSlug + "-poster",
-			"./public/img/retrieved/tv"
-		);
-		movieDBSet[showName].cover_image = featPath;
-		movieDBSet[showName].poster = posterPath;
-		movieDBSet[showName].watchedDate = new Date("2023-12-01").toISOString();
-		movieDBSet[showName].layout = "layouts/list-tv-film.njk";
-		delete movieDBSet[showName].layouts;
-		return { showName, ...movieDBSet[showName] };
+	if (
+		showName in movieDBSet &&
+		movieDBSet[showName].hasOwnProperty("genre_ids")
+	) {
+		let showData = movieDBSet[showName];
+		const enrichedShowData = await tvPageBuild(showName, showData);
+		return enrichedShowData;
 	}
-	fetch(movieDBUrl.href)
-		.then((response) => response.json())
-		.then((data) => {
-			console.log("tv", showName, data.results[0]);
-			movieDBSet[showName] = data.results[0];
-			cache.set("tv", movieDBSet);
-		});
-	return { showName };
+	let showFound = new Promise((resolve, reject) => {
+		fetch(movieDBUrl.href)
+			.then((response) => response.json())
+			.then((data) => {
+				console.log("tv retrieved", showName, data.results);
+				movieDBSet[showName] = data.results[0];
+				cache.set("tv", movieDBSet);
+				resolve(data.results[0]);
+			})
+			.catch((e) => {
+				console.log("show retrieval failed for", movieDBUrl.href, e);
+				reject(e);
+			});
+	});
+	try {
+		let showFoundData = await showFound;
+		const enrichedShowData = await tvPageBuild(showName, showFoundData);
+		return enrichedShowData;
+	} catch (error) {
+		console.log("tv show retrieval and processing failed", showName, error);
+		return { showName };
+	}
 });
 
 const writeTVShows = async (tvPromiseArray) => {
 	console.log("Writing TV Shows");
 	const tvShows = await Promise.all(tvPromiseArray);
 	tvShows.forEach((show) => {
-		if (!show.showName) {
+		if (
+			typeof show == "undefined" ||
+			!show ||
+			!show.hasOwnProperty("showName")
+		) {
+			console.log("show has no name", show);
 			return;
 		}
 		show.rating = false;
@@ -132,6 +181,7 @@ const writeTVShows = async (tvPromiseArray) => {
 
 module.exports = {
 	writeTVShows: async () => {
+		var finishedArray = await Promise.all(tvArray);
 		var result = await writeTVShows(tvArray);
 		return result;
 	},

@@ -1,7 +1,39 @@
+{{ "Media Items List check" | inspect }}
+
+{% set fullArray = [] %}
+{% for movie in movies %}
+	{% set fullArray = (fullArray.push(movie), fullArray) %}
+{% endfor %}
+{% for media in list.items %}
+
+	{% set fullArray = (fullArray.push(media), fullArray) %}
+{% endfor %}
+{{ fullArray | mixedDataSortWatchedMedia | debug }}
 <section>
     <ul>
-        {%- for item in list.items -%}
-            <li><a href="{{ item.data.cite.href }}" rel="noopener" title="Visit {{ item.data.title }}">{{ item.data.title }}</a> [<a href="{{ item.url }}" title="My notes on {{ item.data.title }}">My Notes</a>]</li>
+        {%- for item in fullArray | mixedDataSortWatchedMedia -%}
+            {% if item.rewatch == false %}
+                <li>
+                    <strong>{{ item.title }} ({{ item.year }})</strong>
+                    <time>{{ item.watchedDate | dateToFormat("dd LLL yyyy") }}</time>
+                    {% if item.rating %}
+                        <span>{{ item.rating | ratingToStars }}</span>
+                    {% endif %}
+                    {% if item.review %}
+                        <br /><small><em><p>{{ item.review }}</p></em></small>
+                    {% endif %}
+					{% if item.content %}
+                        <small><em>{{ item.content | safe }}</em></small>
+                    {% endif %}
+                </li>
+            {% endif %}
         {%- endfor -%}
     </ul>
+</section>
+
+
+<hr/>
+
+<section>
+	<p><small>This list layout is inspired from <a href="https://www.higby.io/library/movies/" title="Visit Branden Higby's movies library">Branden Higby's movies library</a> in their digital garden.</small></p>
 </section>

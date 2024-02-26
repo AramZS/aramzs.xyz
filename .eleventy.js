@@ -8,7 +8,8 @@ const fs = require("fs");
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
-
+	// So that file creation on `.before` doesn't trigger a rebuild
+	eleventyConfig.setWatchThrottleWaitTime(5000);
 	eleventyConfig.on(
 		"eleventy.before",
 		async ({ dir, runMode, outputMode }) => {

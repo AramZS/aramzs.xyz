@@ -59,6 +59,18 @@ module.exports = {
 		description: "Articles and commentaries on current events",
 	},
 
+	"list/film-and-tv": {
+		title: "What I've been watching lately",
+		description: "Keeping track of everything I've been watching",
+		layout: "layouts/list-tv-film.njk",
+	},
+
+	"list/tv": {
+		title: "365 day writing project",
+		description: "My attempt at writing a thought a day for a year",
+		layout: "layouts/list-tv-film.njk",
+	},
+
 	// Continuous Writing Projects
 
 	"list/week-in-review": {

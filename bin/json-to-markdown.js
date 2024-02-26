@@ -32,16 +32,30 @@ const dataToMarkdown = (dataObj) => {
 	return mdReadyString;
 };
 
-const writeDataToMarkdown = (pathString, fileSlug, dataObj, content) => {
+const writeDataToMarkdown = (
+	pathString,
+	fileSlug,
+	dataObj,
+	content,
+	oldMarkdown
+) => {
 	try {
+		let mdString = dataToMarkdown({
+			data: dataObj,
+			content: content,
+		});
+		if (oldMarkdown) {
+			if (oldMarkdown === mdString) {
+				// Don't rewrite a file if the content hasn't changed
+				console.log(
+					"No Content Change Detected",
+					`${pathString}/${fileSlug}.md`
+				);
+				return true;
+			}
+		}
 		fs.mkdirSync(`${pathString}`, { recursive: true });
-		fs.writeFileSync(
-			`${pathString}/${fileSlug}.md`,
-			dataToMarkdown({
-				data: dataObj,
-				content: content,
-			})
-		);
+		fs.writeFileSync(`${pathString}/${fileSlug}.md`, mdString);
 		result = true;
 		console.log("wrote md file", `${pathString}/${fileSlug}.md`);
 	} catch (e) {
@@ -91,16 +105,22 @@ const processObjectToMarkdown = (titleProp, contentProp, pathString, obj) => {
 			const newData = { ...obj, ...oldData.data };
 			const newContent =
 				oldData.content.length > 1 ? oldData.content : content;
-
 			return writeDataToMarkdown(
 				pathString,
 				fileSlug,
 				newData,
-				newContent
+				newContent,
+				oldMarkdown
 			);
 		} else {
 			// console.log("Old Data is Empty", oldData);
-			return writeDataToMarkdown(pathString, fileSlug, obj, content);
+			return writeDataToMarkdown(
+				pathString,
+				fileSlug,
+				obj,
+				content,
+				false
+			);
 		}
 	}
 	return writeDataToMarkdown(pathString, fileSlug, obj, content);
