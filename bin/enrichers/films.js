@@ -53,11 +53,56 @@ const records = csvParse.parse(films, {
 });
 console.log("records", records);
 const filmArray = records.map(async (line) => {
+	/** 
+	 *   {
+    Date: '2021-12-01',
+    Name: 'Bloody Hell',
+    Year: '2020',
+    'Letterboxd URI': 'https://boxd.it/2kkgM7',
+    Rating: '3.5',
+    Rewatch: '',
+    Review: 'Tight, well put together film. A lot better than I expected and totally badly represented by the marketing.',
+    Tags: '',
+    'Watched Date': '2021-11-30'
+  },
+	*/
 	let filmInfo = line;
 	if (!filmInfo) {
 		//return;
 	} else {
 		console.log("filmName", filmInfo);
+		filmInfo.mediaName = filmInfo.Name;
+		let mediaName = filmInfo.mediaName;
+		movieDBUrl.searchParams.delete("query");
+		movieDBUrl.searchParams.append("query", filmInfo.mediaName);
+		await genreResult;
+		if (
+			mediaName in movieDBSet &&
+			movieDBSet[mediaName].hasOwnProperty("genre_ids")
+		) {
+			let showData = movieDBSet[mediaName];
+			const enrichedShowData = await moviePageBuild(mediaName, showData);
+			return enrichedShowData;
+		}
+		let showFound = new Promise((resolve, reject) => {
+			fetch(movieDBUrl.href)
+				.then((response) => response.json())
+				.then((data) => {
+					console.log("film retrieved", mediaName, data.results);
+					movieDBSet[mediaName] = data.results[0];
+					cache.set("film", movieDBSet);
+					resolve(data.results[0]);
+				})
+				.catch((e) => {
+					console.log(
+						"show retrieval failed for",
+						movieDBUrl.href,
+						e
+					);
+					reject(e);
+				});
+		});
+		// movieDBSet[filmInfo.mediaName] =
 	}
 });
 
