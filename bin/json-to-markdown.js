@@ -28,7 +28,14 @@ const getYAMLData = (text) => {
  * @return  {str}           String of markdown
  */
 const dataToMarkdown = (dataObj) => {
-	const mdReadyString = matter.stringify(dataObj.content, dataObj.data);
+	const ordered = Object.keys(dataObj.data)
+		.sort()
+		.reduce((obj, key) => {
+			obj[key] = dataObj.data[key];
+			return obj;
+		}, {});
+
+	const mdReadyString = matter.stringify(dataObj.content, ordered);
 	return mdReadyString;
 };
 

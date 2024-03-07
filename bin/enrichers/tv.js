@@ -6,7 +6,7 @@ const { processObjectToMarkdown } = require("../json-to-markdown");
 const slugger = require("../slugger");
 require("dotenv").config();
 
-const cache = new ObjectCache("tmdb");
+const cache = new ObjectCache("tmdb-tv");
 // https://developer.themoviedb.org/reference/intro/getting-started
 let movieDBUrl = new URL("https://api.themoviedb.org/3/search/tv");
 movieDBUrl.searchParams.append("api_key", process.env.TMDB_KEY);
@@ -42,12 +42,12 @@ if (cache.has("tv_genres")) {
 	});
 }
 
-const tvPageBuild = async (showName, showData) => {
-	console.log("tv cache found", showName);
+const tvPageBuild = async (mediaName, showData) => {
+	console.log("tv cache found", mediaName);
 	const imagePath = "https://image.tmdb.org/t/p/original/";
 	let tags = [];
 	if (showData.hasOwnProperty("genre_ids")) {
-		console.log("tv no genre IDs found", showName, showData);
+		console.log("tv no genre IDs found", mediaName, showData);
 	}
 	tags = showData.genre_ids.reduce(
 		(accumulator, genre) => {
@@ -72,7 +72,7 @@ const tvPageBuild = async (showName, showData) => {
 	let featuredImage = imagePath + showData.backdrop_path;
 	let posterImage = imagePath + showData.poster_path;
 
-	let showSlug = slugger(showName);
+	let showSlug = slugger(mediaName);
 	showData.slug = showSlug;
 	// processImageUrl
 	let featPath = await processImageUrl(
@@ -107,31 +107,31 @@ const tvPageBuild = async (showName, showData) => {
 	// showData.layout = "layouts/list-tv-film.njk";
 	delete showData.layouts;
 	delete showData.layout;
-	return { showName, ...showData };
+	return { mediaName, ...showData };
 };
 
 const tvArray = tv.split("\n").map(async (line) => {
-	let showName = line;
-	if (showName === "") {
+	let mediaName = line;
+	if (mediaName === "") {
 		return;
 	}
 	movieDBUrl.searchParams.delete("query");
-	movieDBUrl.searchParams.append("query", showName);
+	movieDBUrl.searchParams.append("query", mediaName);
 	await genreResult;
 	if (
-		showName in movieDBSet &&
-		movieDBSet[showName].hasOwnProperty("genre_ids")
+		mediaName in movieDBSet &&
+		movieDBSet[mediaName].hasOwnProperty("genre_ids")
 	) {
-		let showData = movieDBSet[showName];
-		const enrichedShowData = await tvPageBuild(showName, showData);
+		let showData = movieDBSet[mediaName];
+		const enrichedShowData = await tvPageBuild(mediaName, showData);
 		return enrichedShowData;
 	}
 	let showFound = new Promise((resolve, reject) => {
 		fetch(movieDBUrl.href)
 			.then((response) => response.json())
 			.then((data) => {
-				console.log("tv retrieved", showName, data.results);
-				movieDBSet[showName] = data.results[0];
+				console.log("tv retrieved", mediaName, data.results);
+				movieDBSet[mediaName] = data.results[0];
 				cache.set("tv", movieDBSet);
 				resolve(data.results[0]);
 			})
@@ -142,11 +142,15 @@ const tvArray = tv.split("\n").map(async (line) => {
 	});
 	try {
 		let showFoundData = await showFound;
-		const enrichedShowData = await tvPageBuild(showName, showFoundData);
+		const enrichedShowData = await tvPageBuild(mediaName, showFoundData);
 		return enrichedShowData;
 	} catch (error) {
-		console.log("tv show retrieval and processing failed", showName, error);
-		return { showName };
+		console.log(
+			"tv show retrieval and processing failed",
+			mediaName,
+			error
+		);
+		return { mediaName };
 	}
 });
 
@@ -157,16 +161,16 @@ const writeTVShows = async (tvPromiseArray) => {
 		if (
 			typeof show == "undefined" ||
 			!show ||
-			!show.hasOwnProperty("showName")
+			!show.hasOwnProperty("mediaName")
 		) {
 			console.log("show has no name", show);
 			return;
 		}
 		show.rating = false;
-		show.title = show.showName;
-		console.log("show", show.showName);
+		show.title = show.mediaName;
+		console.log("show", show.mediaName);
 		processObjectToMarkdown(
-			"showName",
+			"mediaName",
 			false,
 			"./src/content/resources/tv",
 			show
