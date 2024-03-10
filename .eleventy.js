@@ -205,5 +205,6 @@ module.exports = function (eleventyConfig) {
 			input: "src",
 			output: "_site",
 		},
+		templateFormats: ["html", "liquid", "njk", "11ty.js"],
 	};
 };

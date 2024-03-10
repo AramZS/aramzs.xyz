@@ -136,4 +136,12 @@ module.exports = [
 		term: "prandial",
 		definition: "during or relating to the eating of food.",
 	},
+	{
+		term: "samizdat",
+		definition: "",
+	},
+	{
+		term: "dorodango",
+		definition: "",
+	},
 ];

@@ -9,7 +9,9 @@
     "build": "cross-env ELEVENTY_ENV=production eleventy",
     "build:dev": "rm -rf _site && cross-env ELEVENTY_ENV=development DEBUG=Eleventy* eleventy > ./buildlog.txt",
     "og-images": "node ./bin/create-og-images.js",
-    "make:bookmark": "node ./bin/add-bookmark.js"
+    "make:bookmark": "node ./bin/add-bookmark.js",
+    "make:quotes": "node -e 'var w = require(\"./bin/enrichers/quotes.js\"); w.writeQuotes().then(() => console.log(\"complete\"))' > ./buildlog.txt",
+    "make:films": "node -e 'var w = require(\"./bin/enrichers/films.js\"); w.writeFilms().then(() => console.log(\"complete\"))' > ./buildlog.txt"
   },
   "bin": {
     "add-bookmark": "./bin/add-bookmark.js",
