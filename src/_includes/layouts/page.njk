@@ -19,7 +19,7 @@
 {% endblock %}
 
 {% block content %}
-    <article {{ ('class="'+ headingClass +'"') | safe if headingClass }}  data-source="src/_includes/layouts/page.njk">
+    <article {{ ('class="'+ headingClass +'"') | safe if headingClass }} {% if templateName %}id="{{templateName}}"{% endif %} data-source="src/_includes/layouts/page.njk">
         <header>
             <div>
                 {% block pageHeaderBefore %}
@@ -31,7 +31,7 @@
             {% block pageHeaderAfter %}{% endblock %}
         </header>
 
-        <span>&mdash;</span>
+        <span class="header-separator">&mdash;</span>
 
         {% block pageContent %}
             {{ content | safe }}

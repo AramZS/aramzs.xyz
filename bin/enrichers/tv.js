@@ -115,8 +115,6 @@ const tvArray = tv.split("\n").map(async (line) => {
 	if (mediaName === "") {
 		return;
 	}
-	movieDBUrl.searchParams.delete("query");
-	movieDBUrl.searchParams.append("query", mediaName);
 	await genreResult;
 	if (
 		mediaName in movieDBSet &&
@@ -127,6 +125,8 @@ const tvArray = tv.split("\n").map(async (line) => {
 		return enrichedShowData;
 	}
 	let showFound = new Promise((resolve, reject) => {
+    movieDBUrl.searchParams.delete("query");
+    movieDBUrl.searchParams.append("query", mediaName);
 		fetch(movieDBUrl.href)
 			.then((response) => response.json())
 			.then((data) => {

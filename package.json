@@ -5,13 +5,15 @@
   "main": "index.js",
   "scripts": {
     "serve:dev": "rm -rf _site && cross-env ELEVENTY_ENV=development DEBUG=Eleventy* npx eleventy --serve > ./buildlog.txt",
+    "serve:basic-dev": "rm -rf _site && npx eleventy --serve > ./buildlog.txt",
     "serve:prod": "rm -rf _site && cross-env ELEVENTY_ENV=production eleventy --serve",
     "build": "cross-env ELEVENTY_ENV=production eleventy",
     "build:dev": "rm -rf _site && cross-env ELEVENTY_ENV=development DEBUG=Eleventy* eleventy > ./buildlog.txt",
     "og-images": "node ./bin/create-og-images.js",
     "make:bookmark": "node ./bin/add-bookmark.js",
-    "make:quotes": "node -e 'var w = require(\"./bin/enrichers/quotes.js\"); w.writeQuotes().then(() => console.log(\"complete\"))' > ./buildlog.txt",
-    "make:films": "node -e 'var w = require(\"./bin/enrichers/films.js\"); w.writeFilms().then(() => console.log(\"complete\"))' > ./buildlog.txt"
+    "make:quotes": "node -e 'var w = require(\"./bin/enrichers/quotes.js\"); w.writeQuotes().then(() => console.log(\"complete quotes\"))' > ./buildlog.txt",
+    "make:films": "node -e 'var w = require(\"./bin/enrichers/films.js\"); w.writeFilms().then(() => console.log(\"complete films\"))' > ./buildlog.txt",
+    "make:tv": "node -e 'var w = require(\"./bin/enrichers/tv.js\"); w.writeTVShows().then(() => console.log(\"complete tv\"))' > ./buildlog.txt"
   },
   "bin": {
     "add-bookmark": "./bin/add-bookmark.js",
