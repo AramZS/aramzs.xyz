@@ -14,6 +14,7 @@ folder: lists
 {% set subTitle = list.description %}
 
 {% block pageContent %}
+	<!--  data-source="src/lists/list.njk" -->
     {% if list.layout %}
         {% include list.layout %}
     {% else %}

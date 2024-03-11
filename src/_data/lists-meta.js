@@ -66,10 +66,15 @@ module.exports = {
 	},
 
 	"list/tv": {
-		title: "365 day writing project",
-		description: "My attempt at writing a thought a day for a year",
-		layout: "layouts/list-tv-film.njk",
+		title: "TV",
+		description: "Shows I've watched recently",
+    //layout: "layouts/media-post.njk",
 	},
+  "list/film": {
+		title: "Film",
+		description: "Movies I've watched recently",
+    //layout: "layouts/media-post.njk",
+	}, 
 
 	// Continuous Writing Projects
 

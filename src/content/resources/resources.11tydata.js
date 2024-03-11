@@ -19,7 +19,7 @@ module.exports = {
 
     folder(data) {
       const resourceType = getPageResourceType(data.page);
-
+      // console.log('resourceType', resourceType, data);
       return [
         'resource',
         {href: `/resources/${resourceType}/`, text: resourceType, title: 'Goto Archive of all resources'}

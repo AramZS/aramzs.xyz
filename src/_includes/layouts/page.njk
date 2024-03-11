@@ -19,7 +19,7 @@
 {% endblock %}
 
 {% block content %}
-    <article {{ ('class="'+ headingClass +'"') | safe if headingClass }}>
+    <article {{ ('class="'+ headingClass +'"') | safe if headingClass }}  data-source="src/_includes/layouts/page.njk">
         <header>
             <div>
                 {% block pageHeaderBefore %}

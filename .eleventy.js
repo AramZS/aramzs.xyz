@@ -15,6 +15,7 @@ module.exports = function (eleventyConfig) {
 		async ({ dir, runMode, outputMode }) => {
 			// Run me before the build starts
 			console.log("Before Build", dir, runMode, outputMode);
+      return;
 			const tvProcessor = require("./bin/enrichers/tv");
 			const tvResults = await tvProcessor.writeTVShows();
 
@@ -69,6 +70,7 @@ module.exports = function (eleventyConfig) {
 				"Retro Computing": ["RetroComputing"],
 				"Node JS": ["Node"],
 				"365 Day Project": ["365DayProject"],
+        "action": ["Action"],
 			},
 			slugify,
 		}
@@ -200,11 +202,15 @@ module.exports = function (eleventyConfig) {
 
 	eleventyConfig.setLibrary("md", require("./lib/helpers/markdown"));
 
+  eleventyConfig.on('eleventy.after', async ({ dir, results, runMode, outputMode }) => {
+    // Run me after the build ends
+  });
+
 	return {
 		dir: {
 			input: "src",
 			output: "_site",
 		},
-		templateFormats: ["html", "liquid", "njk", "11ty.js"],
+		//templateFormats: ["html", "liquid", "njk", "11ty.js"],
 	};
 };

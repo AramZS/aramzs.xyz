@@ -85,7 +85,10 @@ const writeDataToMarkdown = (
  * @return  {bool}             True if the file was written
  */
 const processObjectToMarkdown = (titleProp, contentProp, pathString, obj) => {
-	const fileSlug = slugger(obj[titleProp]);
+	const fileSlug =
+		obj.hasOwnProperty("slug") && obj.slug.length > 1
+			? obj.slug
+			: slugger(obj[titleProp]);
 	let content = "";
 	if (contentProp) {
 		content = obj[contentProp];

@@ -2,7 +2,7 @@
 {% set ogtype = 'article' %}
 {% set author = people | whereKeyEquals('name', cite.name) | values(0) %}
 {% set subTitle %}
-    planted on <time datetime="{{ page.date.toISOString() }}">{{ page.date | dateToFormat("DDD") }}</time> in: {% include "../components/tag-list.njk" %}.
+    posted on <time datetime="{{ page.date.toISOString() }}">{{ page.date | dateToFormat("DDD") }}</time> in: {% include "../components/tag-list.njk" %}.
 {% endset %}
 
 {% block pageHeaderBefore %}
@@ -23,7 +23,7 @@
 {% endblock %}
 
 {% block pageContent %}
-    <section>
+    <section  data-source="src/_includes/layouts/page-resource-link.njk">
         <div>
             {% if dead and wayback %}
                 <img src="{% screenshot wayback, page.fileSlug %}" aria-hidden="true" alt="Screenshot of web page." />

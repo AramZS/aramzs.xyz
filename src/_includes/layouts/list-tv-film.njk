@@ -9,7 +9,7 @@
 	{% set fullArray = (fullArray.push(media), fullArray) %}
 {% endfor %}
 {{ fullArray | mixedDataSortWatchedMedia | debug }}
-<section>
+<section data-source="src/_includes/layouts/list-tv-film.njk">
     <ul>
         {%- for item in fullArray | mixedDataSortWatchedMedia -%}
             {% if item.rewatch == false %}
