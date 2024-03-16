@@ -46,11 +46,15 @@ function clippingsIoToQuoteObj(clipping) {
 	// console.log("Clipping", clipping);
 	var quoteObj = {
 		sourceTitle: clipping.BookTitle,
-		cite: { name: clipping.BookAuthor },
+		cite: { 
+      name: clipping.BookAuthor,
+      href: false 
+    },
 		blockquote: clipping.Content,
 		location: clipping.Location,
 		page: clipping.Page,
 		createdDate: clipping.CreatedKindle,
+    date: clipping.CreatedKindle,
 		publishDate: clipping.CreatedWebsite,
 		annotationType: clipping.AnnotationType,
 		notes: clipping.Notes ? clipping.Notes : [],
