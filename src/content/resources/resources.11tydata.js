@@ -3,7 +3,11 @@ const getPageFolders = (page) => page.filePathStem.substring(
   page.filePathStem.indexOf(`/${page.fileSlug}`)
 );
 
-const getPageResourceType = (page) => getPageFolders(page).split('/')[0];
+const getPageResourceType = (page) => {
+  let resourceType = getPageFolders(page).split('/')[0]
+  // console.log('resourceType', resourceType, page)
+  return resourceType;
+};
 
 module.exports = {
   layout: "layouts/page-resource.njk",

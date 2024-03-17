@@ -21,7 +21,6 @@ function Quote(quoteObj) {
 	this.createdDate = new Date().toISOString();
 	this.publishDate = new Date().toISOString();
 	this.location = 0;
-	this.page = false;
 	this.type = "quote";
 	this.handedFrom = "Kindle";
 	this.referringUri = false;
@@ -40,6 +39,10 @@ function Quote(quoteObj) {
 	if (!quoteHasContent) {
 		this.publish = false;
 	}
+  if (this.hasOwnProperty("page")){
+    this.pageNum = this.page;
+    delete this.page;
+  }
 }
 
 function clippingsIoToQuoteObj(clipping) {
@@ -54,7 +57,7 @@ function clippingsIoToQuoteObj(clipping) {
 		location: clipping.Location,
 		page: clipping.Page,
 		createdDate: clipping.CreatedKindle,
-    date: clipping.CreatedKindle,
+    date: new Date(clipping.CreatedKindle).toISOString(),
 		publishDate: clipping.CreatedWebsite,
 		annotationType: clipping.AnnotationType,
 		notes: clipping.Notes ? clipping.Notes : [],
@@ -83,11 +86,22 @@ function clippingsIoToQuoteObj(clipping) {
 function generateFileSlug(quoteObj) {
 	var slugCommonWordsRemoved = quoteObj.blockquote
 		.replace(" the ", " ")
+    .replace(" The ", " ")
 		.replace(" and ", " ")
+    .replace(" but ", " ")
+    .replace(" But ", " ")
 		.replace(" if ", " ")
 		.replace(" a ", " ")
+    .replace(" A ", " ")
 		.replace(" of ", " ")
 		.replace(" or ", " ")
+    .replace(" his ", " ")
+    .replace(" her ", " ")
+    .replace(" you ", " ")
+    .replace(" with ", " ")
+    .replace(" then ", " ")
+    .replace(" I ", " ")
+    .replace(" we ", " ")
 		.replace(" in ", " ");
 	var slugCandidate = slugCommonWordsRemoved.split(" ").slice(0, 5).join(" ");
 	var slug = slugger(slugCandidate);
@@ -125,6 +139,7 @@ async function writeQuoteFile() {
 		.filter((quoteObj) => quoteObj.blockquote.length > 1)
 		.map((quoteObj) => {
 			var quote = new Quote(quoteObj);
+      quote.sourceSlug = '';
 			quote.id = idGen(quote);
 			quote.slug = generateFileSlug(quote);
 			var ending = quote.blockquote.split(" ").length > 10 ? "..." : "";
@@ -132,21 +147,30 @@ async function writeQuoteFile() {
 				quote.blockquote.split(" ").slice(0, 10).join(" ") + ending;
 			if (quote.sourceTitle && quote.sourceTitle.length > 0) {
 				quote.title = quote.title + " - " + quote.sourceTitle;
+        var titleSlug = slugger(quote.sourceTitle);
+        quote.sourceSlug = titleSlug;
 			}
+      if (quote.blockquote.split(" ").length < 2){
+        quote.publish = false;
+      }
 			quote.content = `
 > ${quote.blockquote}`;
 			console.log("Quote Obj", quote);
 			return quote;
 		});
 
-	var finalQuotesActioned = finalQuotes.map((quoteObj) =>
-		processObjectToMarkdown(
+	var finalQuotesActioned = finalQuotes.map((quoteObj) => {
+    let sourcePath = '';
+    if (quoteObj.sourceSlug && quoteObj.sourceSlug.length > 0) {
+      sourcePath = `/${quoteObj.sourceSlug}`;;
+    }
+		return processObjectToMarkdown(
 			"title",
 			"content",
-			"./src/content/resources/quotes",
+			"./src/content/resources/quotes"+sourcePath,
 			quoteObj
 		)
-	);
+  });
 	return finalQuotesActioned;
 	return fs.writeFileSync(
 		"./src/_dataSources/quotes.json",
