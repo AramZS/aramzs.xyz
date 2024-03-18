@@ -5,9 +5,9 @@ titlePrefix: "Info"
 subTitle: "Effective date: May 15, 2018"
 ---
 
-Photogabble ("us", "we", or "our") uses cookies on the [https://www.photogabble.co.uk](https://www.photogabble.co.uk) website (the "Service"). By using the Service, you consent to the use of cookies.
+AramZS.xyz ("us", "we", or "our") uses cookies on the [https://www.aramzs.xyz](https://www.aramzs.xyz) website (the "Service"). By using the Service, you consent to the use of cookies.
 
-Our Cookies Policy explains what cookies are, how we use cookies, how third-parties we may partner with may use cookies on the Service, your choices regarding cookies and further information about cookies. This Cookies Policy for Photogabble is powered by [TermsFeed](https://termsfeed.com/).
+Our Cookies Policy explains what cookies are, how we use cookies, how third-parties we may partner with may use cookies on the Service, your choices regarding cookies and further information about cookies. This Cookies Policy for AramZS.xyz is powered by [TermsFeed](https://termsfeed.com/).
 
 ## What are cookies
 
@@ -15,9 +15,9 @@ Cookies are small pieces of text sent by your web browser by a website you visit
 
 Cookies can be "persistent" or "session" cookies. Persistent cookies remain on your personal computer or mobile device when you go offline, while session cookies are deleted as soon as you close your web browser.
 
-## How Photogabble uses cookies
+## How AramZS.xyz uses cookies
 
-When you use and access the Service, we may place a number of cookies files in your web browser.
+When you use and access the Service, we may place a number of cookies files in your web browser. We only use necessary cookies.
 
 We use cookies for the following purposes:
 
@@ -29,14 +29,13 @@ We use both session and persistent cookies on the Service and we use different t
 
 * **Essential cookies**. We may use essential cookies to authenticate users and prevent fraudulent use of user accounts.
 * **Preferences cookies**. We may use preferences cookies to remember information that changes the way the Service behaves or looks, such as the "remember me" functionality of a registered user or a user's language preference.
-* **Analytics cookies**. We may use analytics cookies to track information how the Service is used so that we can make improvements. We may also use analytics cookies to test new advertisements, pages, features or new functionality of the Service to see how our users react to them.
+* **Analytics cookies**. We may use analytics cookies to track information how the Service is used so that we can make improvements. We may also use analytics cookies to test new features or new functionality of the Service to see how our users react to them.
 
 ## Third-party cookies
+
 In addition to our own cookies, we may also use various third-parties cookies to report usage statistics of the Service, deliver advertisements on and through the Service, and so on.
 
 This site uses Google Analytics which is one of the most widespread and trusted analytics solutions on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.
-
-This site uses the popular [Disqus](https://www.disqus.com) platform to provide comment functionality for individual posts, you may read their [privacy policy here](https://help.disqus.com/terms-and-policies/disqus-privacy-policy).
 
 ## What are your choices regarding cookies
 
@@ -57,4 +56,4 @@ You can learn more about cookies and the following third-party websites:
 * AllAboutCookies: [http://www.allaboutcookies.org](http://www.allaboutcookies.org)
 * Network Advertising Initiative: [http://www.networkadvertising.org](http://www.networkadvertising.org)
 
-If you have any questions about this Cookies Policy, the practices of this site, or your dealings with this website, please contact me at simon@photogabble.co.uk
+If you have any questions about this Cookies Policy, the practices of this site, or your dealings with this website, please contact me at aramzs@hacktext.com

@@ -6,7 +6,7 @@ titlePrefix: "Me"
 
 I can be found in the following online communities:
 
-* <a href="https://indieweb.social/@Chronotope">Mastodon (notacult.social)</a>,
+* <a href="https://indieweb.social/@Chronotope">Mastodon (indieweb.social)</a>,
 * <a href="https://github.com/AramZS">GitHub</a>,
 * <a href="https://twitter.com/Chronotope">Twitter</a>,
 * <a href="https://keybase.io/aramzs">Keybase</a>

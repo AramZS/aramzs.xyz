@@ -197,9 +197,10 @@
 
     <nav class="container">
         <p>
-            CC {{ build.timestamp | dateToFormat('yyyy') }} Aram Zucker-Scharff. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Licensed CC BY-NC 4.0">CC BY-NC-SA 4.0</a> | <a href="https://github.com/AramZS/aramzs.xyz">src</a> | <a href="/legal/privacy">cookies &amp; privacy</a>.<br/>
+            CC {{ build.timestamp | dateToFormat('yyyy') }} Aram Zucker-Scharff. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Licensed CC BY-NC 4.0">CC BY-NC-SA 4.0</a>. | <a href="https://github.com/AramZS/aramzs.xyz">src</a> | <a href="/legal/privacy">cookies &amp; privacy</a>.<br/>
             <small>
                 Any and all opinions listed here are my own and not representative of my employers; future, past and present.<br/> 
+                Shared Alike from <a href="https://photogabble.co.uk/colophon/" target="_blank">Simon Dann</a>. <br />
                 <small>Page built {% if metadata.commit.ref %} from <a href="{{ metadata.commit.url }}/commit/{{ metadata.commit.ref }}">{{ metadata.commit.ref | limit(7) }}</a> {% endif %} on {{ build.timestamp | dateToFormat('DDDD') }} at {{ build.timestamp | dateToFormat('TT') }} by <a href="https://www.netlify.com/">Netlify Elves</a>.</small>
             </small>
         </p>
