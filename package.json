@@ -4,8 +4,8 @@
   "description": "Source code for aramzs.xyz",
   "main": "index.js",
   "scripts": {
-    "serve:dev": "rm -rf _site && cross-env ELEVENTY_ENV=development DEBUG=Eleventy* npx eleventy --serve > ./buildlog.txt",
-    "serve:basic-dev": "rm -rf _site && npx eleventy --serve > ./buildlog.txt",
+    "serve:dev": "rm -rf _site && cross-env ELEVENTY_ENV=development DEBUG=Eleventy* npx eleventy --serve | tee ./buildlog.txt",
+    "serve:basic-dev": "rm -rf _site && npx eleventy --serve | tee ./buildlog.txt",
     "serve:prod": "rm -rf _site && cross-env ELEVENTY_ENV=production eleventy --serve",
     "build": "cross-env ELEVENTY_ENV=production eleventy",
     "build:dev": "rm -rf _site && cross-env ELEVENTY_ENV=development DEBUG=Eleventy* eleventy > ./buildlog.txt",
@@ -27,7 +27,7 @@
   "author": "Aram Zucker-Scharff and Simon Dann",
   "license": "CC BY-NC-SA 4.0",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0",
+    "@11ty/eleventy": "^2.0.1",
     "@11ty/eleventy-plugin-rss": "^1.2.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
     "@fullhuman/postcss-purgecss": "^4.1.3",

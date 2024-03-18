@@ -5,6 +5,9 @@ const shortcodes = require("./lib/shortcodes");
 const transforms = require("./lib/transforms");
 const ObjectCache = require("./lib/helpers/cache");
 const fs = require("fs");
+const pluginDrafts = require("./eleventy.config.drafts.js");
+
+require("dotenv").config();
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
@@ -30,7 +33,7 @@ module.exports = function (eleventyConfig) {
 	//
 	// Install Plugins
 	//
-
+  eleventyConfig.addPlugin(pluginDrafts);
 	eleventyConfig.addPlugin(require("@rknightuk/eleventy-plugin-post-graph"), {
 		boxColor: "var(--background-muted)",
 		highlightColor: "var(--accent)",

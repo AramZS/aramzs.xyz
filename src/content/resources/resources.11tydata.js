@@ -18,7 +18,10 @@ module.exports = {
   eleventyComputed: {
     permalink(data) {
       const folders = getPageFolders(data.page);
-      return `resources/${folders}/${this.slugify(data.title)}/`
+      //console.log('resource data', data)
+      let slug = data.slug ? data.slug : this.slugify(data.title);
+      
+      return `resources/${folders}/${slug}/`
     },
 
     folder(data) {

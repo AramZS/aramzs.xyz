@@ -144,4 +144,40 @@ module.exports = [
 		term: "dorodango",
 		definition: "",
 	},
+  {
+		term: "eliding",
+		definition: "",
+	},
+  {
+		term: "coracle",
+		definition: "",
+	},
+  {
+		term: "pirozhki",
+		definition: "",
+	}, 
+  {
+		term: "antimacassar",
+		definition: "",
+	},   
+  {
+		term: "heiau",
+		definition: "",
+	},   
+  {
+		term: "menehune",
+		definition: "",
+	},       
+  {
+		term: "valence",
+		definition: "",
+	},       
+  {
+		term: "shedu",
+		definition: "",
+	},       
+  {
+		term: "frou-frou",
+		definition: "",
+	},
 ];
