@@ -8,13 +8,18 @@
 
 	{% set fullArray = (fullArray.push(media), fullArray) %}
 {% endfor %}
-{{ fullArray | mixedDataSortWatchedMedia | debug }}
+
 <section data-source="src/_includes/layouts/list-tv-film.njk">
     <ul>
         {%- for item in fullArray | mixedDataSortWatchedMedia -%}
             {% if item.rewatch == false %}
                 <li>
-                    <strong>{{ item.title }} ({{ item.year }})</strong>
+                    <strong>
+                       {% if item.page and item.page.url %}<a href="{{item.page.url}}">{% endif %}
+                      {{ item.title }}
+                      {% if item.page and item.page.url %}</a>{% endif %} 
+                      ({{ item.year }})
+                    </strong>
                     <time>{{ item.watchedDate | dateToFormat("dd LLL yyyy") }}</time>
                     {% if item.rating %}
                         <span>{{ item.rating | ratingToStars }}</span>

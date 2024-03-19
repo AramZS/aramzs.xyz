@@ -1,7 +1,7 @@
 footer {
     background-color: var(--background-muted);
     padding-bottom: 1em;
-    display:flex;
+    display: flex;
     flex-direction: column;
 }
 
@@ -10,8 +10,8 @@ footer nav {
 }
 
 /* Primary Navigation */
-footer nav:first-child{
-    background: rgba(0,0,0,.15);
+footer nav:first-child {
+    background: rgba(0, 0, 0, 0.15);
 }
 
 footer nav:first-child > div {
@@ -37,12 +37,12 @@ footer dt {
 }
 
 footer dd {
-    margin-inline-start:0;
+    margin-inline-start: 0;
 }
 
 footer nav:first-child dt {
     font-size: inherit;
-    display:inline-block;
+    display: inline-block;
 }
 
 footer nav:first-child dd {
@@ -51,8 +51,8 @@ footer nav:first-child dd {
 
 footer nav:first-child dt:after,
 footer nav:first-child dd:not(:last-child):after,
-footer nav:last-child dd:not(:last-child):after{
-    content: '\00a0|\00a0';
+footer nav:last-child dd:not(:last-child):after {
+    content: "\00a0|\00a0";
 }
 
 footer p {
@@ -68,6 +68,10 @@ footer a.icon {
 footer a.icon img {
     height: 20px;
     width: auto;
+}
+
+footer .tmdb-logo {
+    width: 40px;
 }
 
 /* Small Laptop: four columns */

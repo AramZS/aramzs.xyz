@@ -2,7 +2,7 @@
     <h2>Planted throughout the seasons</h2>
 
     {% set allPosts = collections.post | excludeStubs | excludeTypes(['mirror']) | reverse %}
-    {% set postsByYear = allPosts | groupByYear %}
+    {% set postsByYear = allPosts | filterByWritingOnly | groupByYear %}
 
     <ol class="post-list">
     {% for year, items in postsByYear %}

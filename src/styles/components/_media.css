@@ -14,6 +14,7 @@
     float: left;
     /* opacity: 0.8; */
     position: relative;
+    min-height: 416px;
 }
 
 #media .header-separator {
@@ -39,6 +40,12 @@
     position: relative;
 }
 
+#media .media-metadata:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
 #media .media-metadata > div {
     display: block;
     float: left;
@@ -51,8 +58,17 @@
 #media .metadata-text {
     width: 60%;
     margin-left: 28%;
-    position: absolute;
-    margin-top: 20px;
+    position: relative;
     background: rgb(0 0 0 / 79%);
     padding: 18px;
+    margin-top: -500px;
+}
+
+#media .media-metadata-container {
+    width: 100%;
+    display: block;
+    margin-bottom: 4px;
+    min-height: 500px;
+    position: relative;
+    float: left;
 }

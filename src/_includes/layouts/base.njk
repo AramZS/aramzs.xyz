@@ -202,6 +202,9 @@
             <small>
                 Any and all opinions listed here are my own and not representative of my employers; future, past and present.<br/> 
                 Shared Alike from <a href="https://photogabble.co.uk/colophon/" target="_blank">Simon Dann</a>. <br />
+
+                This product uses the TMDb API but is not endorsed or certified by <a href="https://www.themoviedb.org/" target="_blank">TMDb</a>. <img class="tmdb-logo" src="/img/tmdb-short.svg" />
+                <br />
                 <small>Page built {% if metadata.commit.ref %} from <a href="{{ metadata.commit.url }}/commit/{{ metadata.commit.ref }}">{{ metadata.commit.ref | limit(7) }}</a> {% endif %} on {{ build.timestamp | dateToFormat('DDDD') }} at {{ build.timestamp | dateToFormat('TT') }} by <a href="https://www.netlify.com/">Netlify Elves</a>.</small>
             </small>
         </p>
