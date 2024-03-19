@@ -4,7 +4,8 @@ module.exports = {
     const crumbs = [
       {href: '/', text: '~', title: 'Back to homepage'}
     ];
-
+    // Manage allowed folders
+    // @TODO - Mirrored code snippets should be under resources. 
     let folders = data?.folder ?? [];
     if (Array.isArray(folders) === false) folders = [folders];
 

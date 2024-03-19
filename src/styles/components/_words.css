@@ -1,0 +1,19 @@
+.word-list li {
+    margin-bottom: 2em;
+}
+.word-list .term {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: var(--foreground-muted);
+}
+.word-list .definition {
+    font-size: 1em;
+    margin-left: 5%;
+}
+.word-list .source {
+    font-size: 0.8em;
+    font-style: italic;
+    float: right;
+    width: 75%;
+    text-align: right;
+}

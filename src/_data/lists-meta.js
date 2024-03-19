@@ -75,6 +75,11 @@ module.exports = {
 		description: "Movies I've watched recently",
     //layout: "layouts/media-post.njk",
 	}, 
+  "list/design": {
+		title: "Design",
+		description: "Interesting designs I like and want to reference.",
+    //layout: "layouts/media-post.njk",
+	}, 
 
 	// Continuous Writing Projects
 

@@ -13,6 +13,7 @@
 @import "components/_footer.css";
 @import "components/_review_list.css";
 @import "components/_media.css";
+@import "components/_words.css";
 @import "components/_changes.css";
 @import "components/_jumbo.css";
 @import "components/_stats.css";
@@ -203,7 +204,7 @@ article img {
 }
 
 article.note > header h1 {
-    font-size: 6rem;
+    font-size: 5.5rem;
 }
 
 article.book > header h1 + h2 {

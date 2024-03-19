@@ -1,4 +1,4 @@
-# PhotoGabble Breadcrumb Listing
+# AramZS.xyz Breadcrumb Listing
 
 Below is a non-exhaustive list of all the breadcrumb hierarchy that I have stuffed into this digital garden. For the sake of easy to use URI's the breadcrumb hierarchy doesn't match permalink structure but informs content segmentation into "areas" of the garden.
 

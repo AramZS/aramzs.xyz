@@ -22,4 +22,4 @@ I have accounts on the following platforms, but I <em>infrequently</em> visit th
 * Facebook,
 * [LinkedIn](https://bit.ly/aramzs),
 * [LastFM](https://www.last.fm/user/Shade0),
-* Reddit.
+* [Reddit](https://www.reddit.com/user/AramZS/).
