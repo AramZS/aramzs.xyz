@@ -33,6 +33,7 @@ module.exports = function (eleventyConfig) {
 	//
 	// Install Plugins
 	//
+  // This plugin isn't doing anything. 
   eleventyConfig.addPlugin(pluginDrafts);
 	eleventyConfig.addPlugin(require("@rknightuk/eleventy-plugin-post-graph"), {
 		boxColor: "var(--background-muted)",
@@ -74,6 +75,7 @@ module.exports = function (eleventyConfig) {
 				"Node JS": ["Node"],
 				"365 Day Project": ["365DayProject"],
         "action": ["Action"],
+        "WildStorm": ["WildStorm", "wildstorm", "Wildstorm"],
 			},
 			slugify,
 		}

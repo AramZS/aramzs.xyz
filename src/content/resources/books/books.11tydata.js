@@ -8,6 +8,9 @@ module.exports = {
       return data.bookwyrm.find(book => book.openlibraryKey === data.page.fileSlug);
     },
     title(data) {
+      if (data.title){
+        return data.title
+      }
       return (!data.book) ? '' : data.book.title;
     },
     permalink(data) {

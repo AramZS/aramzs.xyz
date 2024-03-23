@@ -13,7 +13,8 @@
     "make:bookmark": "node ./bin/add-bookmark.js",
     "make:quotes": "node -e 'var w = require(\"./bin/enrichers/quotes.js\"); w.writeQuotes().then(() => console.log(\"complete quotes\"))' > ./buildlog.txt",
     "make:films": "node -e 'var w = require(\"./bin/enrichers/films.js\"); w.writeFilms().then(() => console.log(\"complete films\"))' > ./buildlog.txt",
-    "make:tv": "node -e 'var w = require(\"./bin/enrichers/tv.js\"); w.writeTVShows().then(() => console.log(\"complete tv\"))' > ./buildlog.txt"
+    "make:tv": "node -e 'var w = require(\"./bin/enrichers/tv.js\"); w.writeTVShows().then(() => console.log(\"complete tv\"))' > ./buildlog.txt",
+    "make:books": "node -e 'var w = require(\"./bin/enrichers/books.js\"); w.writeBooks().then(() => console.log(\"complete books\"))' > ./buildlog.txt"
   },
   "bin": {
     "add-bookmark": "./bin/add-bookmark.js",

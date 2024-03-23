@@ -1,7 +1,8 @@
 ---
 title: "Contrasts"
-titlePrefix: "Color"
+titlePrefix: "Lists"
 permalink: "/contrasts/index.html"
+folder: lists
+subTitle: "Interesting color combinations"
+layout: layouts/list-contrasts.njk
 ---
-
-Test Page To Go

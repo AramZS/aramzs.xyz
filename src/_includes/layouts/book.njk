@@ -1,7 +1,7 @@
 {% extends "./page.njk" %}
 {% set ogtype = 'article' %}
 {% set headingClass = 'book' %}
-{% set title = book.title %}
+{% set title = book.title or title %}
 {% set titlePrefix = 'Book' %}
 {% set subTitle = book.subtitle %}
 
