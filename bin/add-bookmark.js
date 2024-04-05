@@ -119,7 +119,7 @@ const fetchUrl = async (url, date) => {
 
     added.push(frontMatter);
   } catch (e) {
-    console.error(e.message);
+    console.error('add bookmark', e.message);
     return 1;
   }
 }

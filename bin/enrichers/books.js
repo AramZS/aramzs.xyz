@@ -708,7 +708,7 @@ function getOLData(libraryJsonObj){
 function writeBookFile(){
   var candidatesToProcess = JSON.parse(books);
   var finalActioned = candidatesToProcess.books.map((libraryJsonObj) => {
-    console.log(libraryJsonObj)
+    console.log('libraryJsonObj', libraryJsonObj)
     var bookID = idGen(libraryJsonObj);
     var pieces = [libraryJsonObj.title, libraryJsonObj.author];
     libraryJsonObj.slug = slugger(pieces.join("-"));

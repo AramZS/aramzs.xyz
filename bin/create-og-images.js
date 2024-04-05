@@ -50,7 +50,7 @@ const fileReadable = (path) => {
     }
     console.log(`Completed processing ${posts.length} items`);
   } catch (e) {
-    console.warn(e.message);
+    console.warn('create-og-images', e.message);
     process.exit(1);
   }
 })();

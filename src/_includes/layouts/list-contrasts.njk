@@ -4,7 +4,15 @@
 <section data-source="src/_includes/layouts/list-contrasts.njk">
         <ul>
             {% for colorSet in contrasts.colorSets %}
-                
+                <li class="color-item">
+                    <div class="color-set" style="background-color: {{ colorSet[0] }}">
+                        {% for colorHex in colorSet %}
+                        <div class="color-set__swatch-container" style="background-color: {{ colorHex }}80">
+                            <div class="color-set__swatch" style="background-color: {{ colorHex }}"></div>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </li>
             {% endfor %}
         </ul>
 </section>        

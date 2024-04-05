@@ -1,0 +1,47 @@
+.color-item {
+    display: block;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid var(--color-border);
+    list-style-type: none;
+}
+
+.color-set {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0.8rem;
+}
+
+.color-set__swatch-container {
+    display: inline-block;
+    margin: 5px;
+    margin-right: -1.5rem;
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+/** mix-blend-mode: difference; **/
+.color-set__swatch {
+    display: block;
+    width: 3.4rem;
+    height: 3.4rem;
+    border-radius: 50%;
+    opacity: 1;
+    margin: auto;
+}
+
+.color-set__swatch-container:first-of-type {
+    display: none;
+}
