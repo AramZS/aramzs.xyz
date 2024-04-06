@@ -18,6 +18,9 @@ module.exports = function (eleventyConfig) {
 		async ({ dir, runMode, outputMode }) => {
 			// Run me before the build starts
 			console.log("Before Build", dir, runMode, outputMode);
+      const util = require('util');
+      const exec = util.promisify(require('node:child_process').exec);
+      await exec('npx browserify ./public/scripts/contrast-calc.js > ./public/scripts/contrast-ratio.js');
       return;
 			const tvProcessor = require("./bin/enrichers/tv");
 			const tvResults = await tvProcessor.writeTVShows();
@@ -193,6 +196,7 @@ module.exports = function (eleventyConfig) {
 		"public/favicon": "/",
 		"public/files": "files",
 		"public/img": "img",
+    "public/scripts": "scripts",
 		_redirects: "_redirects",
 		"public/og-image": "img/og-image",
 		"public/main.js": "main.js",

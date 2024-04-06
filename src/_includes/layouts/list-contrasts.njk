@@ -1,5 +1,10 @@
 {% extends "./page.njk" %}
 
+{% block head %}
+<script type="module" src="/scripts/contrast-ratio.js" async></script>
+<script src="/scripts/contrast-checker.js" defer></script>
+{% endblock %}
+
 {% block content %}
 <section data-source="src/_includes/layouts/list-contrasts.njk">
         <ul>

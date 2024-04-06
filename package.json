@@ -60,10 +60,13 @@
   },
   "dependencies": {
     "@11ty/eleventy-img": "^3.1.8",
+    "browserify": "^17.0.0",
     "cheerio": "^1.0.0-rc.12",
     "csv-parse": "^5.5.5",
     "dotenv": "^16.4.4",
     "enquirer": "^2.3.6",
+    "esbuild": "^0.20.2",
+    "get-contrast": "^3.0.0",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
     "markdown-it-find-and-replace": "^1.0.2",
