@@ -7,7 +7,7 @@
 {% block pageContent %}
     <section data-source="src/_includes/layouts/page-resource.njk">
         {{ content | safe }}
-        <small>&mdash; {{ cite.name }} | <a href="{{ cite.href }}">link</a></small>
+        <small>&mdash; {{ cite.name }} | <a href="{{ cite.href or referringUri or isBasedOn }}">link</a></small>
     </section>
 
     {% include "components/backlinks.njk" %}
