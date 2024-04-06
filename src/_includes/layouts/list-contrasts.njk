@@ -7,13 +7,21 @@
 
 {% block content %}
 <section data-source="src/_includes/layouts/list-contrasts.njk">
-        <ul>
+    <div id="compare">
+      <div class="color-item" id="background-contraster">
+        <div class="color-set__swatch comparison" id="foreground-contraster"></div>
+        <div id="results-container">
+          <div id="contrast-results">Ratio: <span id="contrast-result-ratio"></span> | Score: <span id="contrast-result-score"></span> | Accessible? <span id="contrast-result-check"></span></div>
+        </div>
+      </div>
+    </div>
+        <ul id="color-contrast-list">
             {% for colorSet in contrasts.colorSets %}
                 <li class="color-item">
                     <div class="color-set" style="background-color: {{ colorSet[0] }}">
                         {% for colorHex in colorSet %}
                         <div class="color-set__swatch-container" style="background-color: {{ colorHex }}80">
-                            <div class="color-set__swatch" style="background-color: {{ colorHex }}"></div>
+                            <div class="color-set__swatch compare-ready-color" style="background-color: {{ colorHex }}"></div>
                         </div>
                         {% endfor %}
                     </div>

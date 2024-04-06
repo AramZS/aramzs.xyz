@@ -1,3 +1,12 @@
+#compare {
+    position: fixed;
+    width: 75%;
+}
+#color-contrast-list {
+    margin-top: 104px;
+    padding-left: 0;
+}
+
 .color-item {
     display: block;
     align-items: center;
@@ -40,8 +49,54 @@
     border-radius: 50%;
     opacity: 1;
     margin: auto;
+    cursor: pointer;
 }
 
-.color-set__swatch-container:first-of-type {
+li .color-set__swatch-container:first-of-type {
     display: none;
+}
+
+.compare-ready-color.compare-active {
+    border: 3px solid white;
+}
+
+#compare .color-item {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#compare .color-set__swatch {
+    display: inline-block;
+    margin-right: 25px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#results-container {
+    margin: 0 auto;
+    padding: 12px;
+    background-color: var(--background);
+    color: var(--foreground);
+}
+
+#results-container div {
+    display: inline-block;
+}
+
+@media (max-width: 864px) {
+    #compare {
+        margin: 0;
+        width: 100%;
+        padding: 0;
+        padding-right: 2em;
+    }
+    #results-container {
+        font-size: 0.8em;
+        width: 220px;
+    }
 }
