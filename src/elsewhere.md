@@ -10,6 +10,7 @@ I can be found in the following online communities:
 * <a href="https://github.com/AramZS">GitHub</a>,
 * <a href="https://twitter.com/Chronotope">Twitter</a>,
 * <a href="https://keybase.io/aramzs">Keybase</a>
+* [BlueSky](https://bsky.app/profile/chronotope.aramzs.xyz)
 
 I have accounts on the following platforms, but I <em>infrequently</em> visit them:
 

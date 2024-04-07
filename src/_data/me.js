@@ -11,6 +11,7 @@ let data = {
 		{ href: "https://github.com/aramzs", title: "GitHub" },
 		{ href: "https://twitter.com/chronotope", title: "Twitter" },
 		{ href: "https://keybase.io/aramzs", title: "Keybase" },
+    { href: "https://bsky.app/profile/chronotope.aramzs.xyz", title: "BlueSky" },
 	],
 	twitter: "@chronotope",
 };

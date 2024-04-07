@@ -15,6 +15,7 @@
     "make:films": "node -e 'var w = require(\"./bin/enrichers/films.js\"); w.writeFilms().then(() => console.log(\"complete films\"))' > ./buildlog.txt",
     "make:tv": "node -e 'var w = require(\"./bin/enrichers/tv.js\"); w.writeTVShows().then(() => console.log(\"complete tv\"))' > ./buildlog.txt",
     "make:songs": "node -e 'var w = require(\"./bin/enrichers/rss-music.js\"); w.writeSongs().then(() => console.log(\"complete write songs\"))' > ./buildlog.txt",
+    "make:pocket": "node -e 'var w = require(\"./bin/enrichers/pocket.js\"); w.writeAmplify().then(() => console.log(\"complete write amplify\"))' > ./buildlog.txt",
     "make:books": "node -e 'var w = require(\"./bin/enrichers/books.js\"); w.writeBooks().then(() => console.log(\"complete books\"))' > ./buildlog.txt"
   },
   "bin": {
@@ -70,6 +71,7 @@
     "get-contrast": "^3.0.0",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
+    "jsdom": "^24.0.0",
     "markdown-it-find-and-replace": "^1.0.2",
     "markdown-it-link-attributes": "^4.0.1",
     "markdown-it-replace-link": "^1.2.1",
