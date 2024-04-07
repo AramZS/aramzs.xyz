@@ -75,6 +75,11 @@ module.exports = {
 		description: "Movies I've watched recently",
     //layout: "layouts/media-post.njk",
 	}, 
+  "list/music": {
+		title: "Music",
+		description: "Music I've really enjoyed recently",
+    //layout: "layouts/media-post.njk",
+	}, 
   "list/design": {
 		title: "Design",
 		description: "Interesting designs I like and want to reference.",
