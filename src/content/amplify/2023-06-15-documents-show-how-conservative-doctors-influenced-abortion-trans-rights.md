@@ -1,0 +1,13 @@
+---
+date: '2023-06-15T14:13:21.000Z'
+isBasedOn: >-
+  https://www.washingtonpost.com/health/2023/06/15/abortion-transgender-christian-doctors/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjU2NzQyMDc4IiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTY4NjgwMTYwMCwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTY4ODA5NzU5OSwiaWF0IjoxNjg2ODAxNjAwLCJqdGkiOiI5ODVlMGE0Yi0yODk4LTQ5NWYtOWI1ZS0xZTkxMWM5MGNiZTQiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vaGVhbHRoLzIwMjMvMDYvMTUvYWJvcnRpb24tdHJhbnNnZW5kZXItY2hyaXN0aWFuLWRvY3RvcnMvIn0.TxQ-qGYmXo9I7NhbqTunsWSJsuXAII-vOFrd0XmFguo
+link: >-
+  https://www.washingtonpost.com/health/2023/06/15/abortion-transgender-christian-doctors/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjU2NzQyMDc4IiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTY4NjgwMTYwMCwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTY4ODA5NzU5OSwiaWF0IjoxNjg2ODAxNjAwLCJqdGkiOiI5ODVlMGE0Yi0yODk4LTQ5NWYtOWI1ZS0xZTkxMWM5MGNiZTQiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vaGVhbHRoLzIwMjMvMDYvMTUvYWJvcnRpb24tdHJhbnNnZW5kZXItY2hyaXN0aWFuLWRvY3RvcnMvIn0.TxQ-qGYmXo9I7NhbqTunsWSJsuXAII-vOFrd0XmFguo
+slug: >-
+  2023-06-15-documents-show-how-conservative-doctors-influenced-abortion-trans-rights
+tags:
+  - lgbtq+
+title: 'Documents show how conservative doctors influenced abortion, trans rights -'
+---
+

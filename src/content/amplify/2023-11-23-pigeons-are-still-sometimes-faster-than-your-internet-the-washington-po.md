@@ -1,0 +1,13 @@
+---
+date: '2023-11-23T14:54:35.000Z'
+isBasedOn: >-
+  https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNjk5OTM4MDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzAxMzIwMzk5LCJpYXQiOjE2OTk5MzgwMDAsImp0aSI6ImM2Y2Q5MGJkLTMwNmItNDk0NS04NmNkLTQ1Yjg2YzgyNDUwZSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjMvMTEvMTAvcGlnZW9ucy1hcmUtZmFzdGVyLXRoYW4teW91ci1pbnRlcm5ldC8ifQ.MTY-7bV7fqCMi4vIgZYK_Z_bndBvu8_hZ1v-cI5CKvQ
+link: >-
+  https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNjk5OTM4MDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzAxMzIwMzk5LCJpYXQiOjE2OTk5MzgwMDAsImp0aSI6ImM2Y2Q5MGJkLTMwNmItNDk0NS04NmNkLTQ1Yjg2YzgyNDUwZSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjMvMTEvMTAvcGlnZW9ucy1hcmUtZmFzdGVyLXRoYW4teW91ci1pbnRlcm5ldC8ifQ.MTY-7bV7fqCMi4vIgZYK_Z_bndBvu8_hZ1v-cI5CKvQ
+slug: >-
+  2023-11-23-pigeons-are-still-sometimes-faster-than-your-internet-the-washington-po
+tags:
+  - tech
+title: Pigeons are still (sometimes) faster than your internet - The Washington Po
+---
+
