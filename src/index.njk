@@ -15,7 +15,7 @@
 
   <section>
     <h2>Recent Writing</h2>
-    {% set postsList = articlesList | excludeTypes(['thought', 'project', 'mirror', 'resource']) | reverse | limit(6) %}
+    {% set postsList = articlesList | excludeTypes(['thought', 'project', 'mirror', 'resource', 'amplify']) | reverse | limit(6) %}
     {% include "components/post-list.njk" %}
     <p>
       Subscribe to the <a href="/writing/feed.xml">RSS Feed</a> or view the entire <a href="/writing">archive</a> for more.
