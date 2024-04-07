@@ -6,6 +6,7 @@ subTitle: What I have been listening to recently
 ---
 {% extends "layouts/page.njk" %}
 
+{% set musicPreview = collections.musicPreview.items %}
 {% block pageContent %}
     <section>
         <header><h2>Podcasts</h2></header>
@@ -18,12 +19,18 @@ subTitle: What I have been listening to recently
 
     <section>
         <header><h2>Music</h2></header>
-        <p>Coming <em>soon</em> with a last.fm integration...</p>
+        <ul>
+        {%- for item in musicPreview -%}
+          <li>
+				    <a href="{{ item.url }}" title="My notes on {{ item.data.title }}">{{ item.data.title }}</a>
+			    </li>
+        {%- endfor -%}
+        </ul>        
     </section>
 
     <hr/>
 
     <section>
-        <p><small>This music list layout is inspired from <a href="https://www.higby.io/library/music/" title="Visit Branden Higby's music library">Branden Higby's music library</a> in their digital garden.</small></p>
+        <p><small>This music list layout is inspired from <a href="https://www.higby.io/library/music/" title="Visit Branden Higby's music library">Branden Higby's music library</a> in their digital garden.</small></p> <!-- See if we can find an archive for this? -->
     </section>
 {% endblock %}

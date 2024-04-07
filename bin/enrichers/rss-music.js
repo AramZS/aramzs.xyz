@@ -54,7 +54,7 @@ async function getSongObsessedFeed(){
       item.isBasedOn = item.guid;
       delete item.guid;
       delete item.link;
-      item.date = item.pubDate;
+      item.date = new Date(item.pubDate).toISOString();
       delete item.pubDate;
       // Generate a file-slug YYYY-MM-DD string from the date
       let date = new Date(item.date);
