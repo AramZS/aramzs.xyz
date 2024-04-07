@@ -1,0 +1,12 @@
+---
+creator: Aram Zucker-Scharff
+date: '2024-01-05T10:57:06.000Z'
+description: A neoclassical saxophone-focused track that draws you in to Lotte Pen's work.
+isBasedOn: 'https://songobsessed.com/songs/chronon-by-lotte-pen/'
+isoDate: '2024-01-05T10:57:06.000Z'
+slug: 2024-01-05-chronon-by-lotte-pen
+title: Chronon by Lotte Pen
+---
+<p>When this song popped up on my Spotify daylist it caught my attention immediately. I queued up all of Lotte Pen's <a href="https://open.spotify.com/artist/09klzeoydwwlN5eyyQNNss?si=glKDIelBQTSp-MpV44UTPA" class="external-link" target="_blank">top tracks</a> and then <a href="https://open.spotify.com/album/1DYhtI8ARoSXRFM7RM6YAw?si=gmhFcMIuRGy2MKBrQJthxg" class="external-link" target="_blank">her first complete album</a>. All of Pen's work is great and I recommend it, but I do think this is the one that is most likely to draw you in to her work.</p>
+<p>Spotify classified her as neoclassical, and that's a good word for her work, but I pulled it into a genre I've seen called <a href="https://songobsessed.com/tag/brainjazz/" class="hxlink" hx-boost="true" hx-swap="outerHTML show:top" hx-target="#main-content" hx-select="#main-content" hx-push-url="true">Brainjazz</a>. Music in these works tend to combine pop and dance structures with jazz, electronic and classical sounds in some pretty interesting ways that often fall, in the way jazz can, outside of a hard structure. The genre is sort of porous, with intersection with &quot;<a href="https://songobsessed.com/tag/idm/" class="hxlink" hx-boost="true" hx-swap="outerHTML show:top" hx-target="#main-content" hx-select="#main-content" hx-push-url="true">IDM</a>&quot; or &quot;Intelligent Dance Music&quot;, <a href="https://songobsessed.com/tag/neoclassical" class="hxlink" hx-boost="true" hx-swap="outerHTML show:top" hx-target="#main-content" hx-select="#main-content" hx-push-url="true">neoclassical</a> and <a href="https://songobsessed.com/tag/progressive-jazz/" class="hxlink" hx-boost="true" hx-swap="outerHTML show:top" hx-target="#main-content" hx-select="#main-content" hx-push-url="true">progressive jazz</a>.</p>
+<p>Pen, who is based in the Netherlands, is a saxophonist and composer. She also does producing. A lot of her work leans into classical music and structures but almost all seem to include electronica-style sounds, and they're all bursting with energy and creativity. Start here and check out <a href="https://www.revancherecords.com/project/lotte-pen/" class="external-link" target="_blank">the rest of Pen's work</a>.</p>
