@@ -14,6 +14,7 @@
     "make:quotes": "node -e 'var w = require(\"./bin/enrichers/quotes.js\"); w.writeQuotes().then(() => console.log(\"complete quotes\"))' > ./buildlog.txt",
     "make:films": "node -e 'var w = require(\"./bin/enrichers/films.js\"); w.writeFilms().then(() => console.log(\"complete films\"))' > ./buildlog.txt",
     "make:tv": "node -e 'var w = require(\"./bin/enrichers/tv.js\"); w.writeTVShows().then(() => console.log(\"complete tv\"))' > ./buildlog.txt",
+    "make:songs": "node -e 'var w = require(\"./bin/enrichers/rss-music.js\"); w.writeSongs().then(() => console.log(\"complete write songs\"))' > ./buildlog.txt",
     "make:books": "node -e 'var w = require(\"./bin/enrichers/books.js\"); w.writeBooks().then(() => console.log(\"complete books\"))' > ./buildlog.txt"
   },
   "bin": {
@@ -74,6 +75,7 @@
     "markdown-it-replace-link": "^1.2.1",
     "markdown-it-todo": "^1.0.5",
     "outdent": "^0.8.0",
+    "rss-parser": "^3.13.0",
     "sharp": "^0.33.2",
     "simple-git": "^3.20.0",
     "slugify": "^1.6.6",
