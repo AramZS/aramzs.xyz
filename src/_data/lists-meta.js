@@ -88,11 +88,6 @@ module.exports = {
 
 	// Continuous Writing Projects
 
-	"list/week-in-review": {
-		title: "Week In Review",
-		description: "Weekly round up of that weeks events",
-	},
-
 	"list/365-writing": {
 		title: "365 day writing project",
 		description: "My attempt at writing a thought a day for a year",

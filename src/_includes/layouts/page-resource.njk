@@ -8,7 +8,18 @@
     <section data-source="src/_includes/layouts/page-resource.njk">
         {{ content | safe }}
         <small>&mdash; {{ cite.name }} | <a href="{{ cite.href or referringUri or isBasedOn }}">link</a></small>
+        
+        {% if blockquote and sourceTitle %}
+        <div>
+          <br />
+          <small>Replicated under Fair Use from <em>{{ sourceTitle }}</em> 
+            {% if cite and cite.name %}
+              by {{ cite.name }}
+            {% endif %}
+          </small>
+        </div>
+        {% endif %}
     </section>
-
+    
     {% include "components/backlinks.njk" %}
 {% endblock %}

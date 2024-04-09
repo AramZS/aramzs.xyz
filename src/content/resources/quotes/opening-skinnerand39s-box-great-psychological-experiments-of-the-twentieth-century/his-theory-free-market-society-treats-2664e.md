@@ -31,13 +31,13 @@ slug: his-theory-free-market-society-treats-2664e
 sourceSlug: >-
   opening-skinnerand39s-box-great-psychological-experiments-of-the-twentieth-century
 sourceTitle: >-
-  Opening Skinner&#39;s Box: Great Psychological Experiments of the Twentieth
+  Opening Skinner's Box: Great Psychological Experiments of the Twentieth
   Century
 tags:
   - Quote
 title: >-
   His theory: a free-market society treats its people as products,... - Opening
-  Skinner&#39;s Box: Great Psychological Experiments of the Twentieth Century
+  Skinner's Box: Great Psychological Experiments of the Twentieth Century
 type: quote
 ---
 

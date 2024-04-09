@@ -21,7 +21,7 @@ overview: >-
 popularity: 80.084
 poster: kipo-and-the-age-of-wonderbeasts-poster.jpg
 poster_path: /4yPluNRnnaO68VOhwDTA46wDXVN.jpg
-rating: false
+rating: 5
 rewatch: false
 slug: kipo-and-the-age-of-wonderbeasts
 tags:
@@ -37,3 +37,4 @@ watchedDate: '2023-12-01T00:00:00.000Z'
 year: 2020
 ---
 
+This show is *great*. Smart and interesting science fiction, amazing soundtrack, gorgeous animation and remarkable performances. I had a ton of fun watching this show. 

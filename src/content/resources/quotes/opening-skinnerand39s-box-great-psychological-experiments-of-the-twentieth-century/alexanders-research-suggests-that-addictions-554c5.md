@@ -26,13 +26,13 @@ slug: alexanders-research-suggests-that-addictions-554c5
 sourceSlug: >-
   opening-skinnerand39s-box-great-psychological-experiments-of-the-twentieth-century
 sourceTitle: >-
-  Opening Skinner&#39;s Box: Great Psychological Experiments of the Twentieth
+  Opening Skinner's Box: Great Psychological Experiments of the Twentieth
   Century
 tags:
   - Quote
 title: >-
   Alexander’s research suggests that addictions are in fact quite subject... -
-  Opening Skinner&#39;s Box: Great Psychological Experiments of the Twentieth
+  Opening Skinner's Box: Great Psychological Experiments of the Twentieth
   Century
 type: quote
 ---

@@ -23,7 +23,7 @@ overview: >-
 popularity: 225.111
 poster: wednesday-poster.jpg
 poster_path: /9PFonBhy4cQy7Jz20NpMygczOkv.jpg
-rating: false
+rating: 2.5
 rewatch: false
 slug: wednesday
 tags:
@@ -39,4 +39,4 @@ watchedDate: '2023-12-01T00:00:00.000Z'
 year: 2022
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+It is a bit of an odd choice to make Wednesday Addams the reluctant star of her own Scooby gang, but everything flows along fine. I think the last few episodes go entirely off the rails though. Netflix has a solid 'put it on in the background' show here. Woo?

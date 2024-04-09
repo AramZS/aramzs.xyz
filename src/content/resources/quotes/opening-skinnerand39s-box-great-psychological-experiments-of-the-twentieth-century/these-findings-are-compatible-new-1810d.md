@@ -25,13 +25,13 @@ slug: these-findings-are-compatible-new-1810d
 sourceSlug: >-
   opening-skinnerand39s-box-great-psychological-experiments-of-the-twentieth-century
 sourceTitle: >-
-  Opening Skinner&#39;s Box: Great Psychological Experiments of the Twentieth
+  Opening Skinner's Box: Great Psychological Experiments of the Twentieth
   Century
 tags:
   - Quote
 title: >-
   These findings are compatible with the new “coping” interpretation of... -
-  Opening Skinner&#39;s Box: Great Psychological Experiments of the Twentieth
+  Opening Skinner's Box: Great Psychological Experiments of the Twentieth
   Century
 type: quote
 ---
