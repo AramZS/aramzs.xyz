@@ -3,8 +3,18 @@
 {% set antilibrary = bookwyrm | whereKeyEquals('shelf', 'to-read') %}
 {% set read = bookwyrm | whereKeyEquals('shelf', 'read') %}
 {% set resources = collections.resources | groupByKey('resourceType') %}
+{% set videoMediafullArray = [] %}
+{% for movie in movies %}
+	{% set videoMediafullArray = (videoMediafullArray.push(movie), videoMediafullArray) %}
+{% endfor %}
+{% for media in list.items %}
 
-<section class="jumbo-nav">
+	{% set videoMediafullArray = (videoMediafullArray.push(media), videoMediafullArray) %}
+{% endfor %}
+
+{% set videoMediaCount = videoMediafullArray.length %}
+
+<section class="jumbo-nav" data-source="src/_includes/components/jumbo-nav.njk">
     <nav class="container">
         <dl>
             <dt>Writing</dt>
@@ -18,7 +28,7 @@
         </dl>
         <dl>
             <dt>Lists/Collections</dt>
-            <dd><a href="/lists/film-and-tv/"><span>{{ movies.length }}</span><span>Films & TV Series</span></a></dd>
+            <dd><a href="/lists/film-and-tv/"><span>{{ videoMediaCount }}</span><span>Films & TV Series</span></a></dd>
             <dd><a href="/lists/listened-to/"><span>*</span><span>Listened To</span></a></dd>
             <dd><a href="/books"><span>{{ read.length }}</span><span>My Bookshelf</span></a></dd>
             <dd><a href="/antilibrary"><span>{{ antilibrary.length }}</span><span><em>The</em> Antilibrary</span></a></dd>
