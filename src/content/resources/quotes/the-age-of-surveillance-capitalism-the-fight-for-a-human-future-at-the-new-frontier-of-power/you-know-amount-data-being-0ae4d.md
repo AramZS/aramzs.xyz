@@ -13,7 +13,7 @@ id: 0ae4dbfeb99c25b9c4fb22ceebf282e7
 location: '3909'
 notes:
   - >-
-    They reserve the right to maximize your labor and believe they aways have a
+    They reserve the right to maximize your labor and believe they always have a
     right to it.
 pageNum: '211'
 publish: true

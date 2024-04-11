@@ -14,7 +14,7 @@ location: '3940'
 notes:
   - >-
     But does paying for an always on computer connection really pay off? Look at
-    the econoic fragility it introduces during shortages. And the environmental
+    the economic fragility it introduces during shortages. And the environmental
     impact!
 pageNum: '213'
 publish: true

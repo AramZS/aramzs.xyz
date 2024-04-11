@@ -4,6 +4,6 @@ isBasedOn: 'https://marthabayne.substack.com/p/come-as-you-were?triedRedirect=tr
 link: 'https://marthabayne.substack.com/p/come-as-you-were?triedRedirect=true'
 slug: 2024-04-05-13-come-as-you-were-by-martha-bayne-bell-whistle
 tags: []
-title: '(13) Come as You Were - by Martha Bayne - Bell, Whistle'
+title: 'Come as You Were - by Martha Bayne - Bell, Whistle'
 ---
 

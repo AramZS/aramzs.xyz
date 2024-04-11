@@ -22,7 +22,7 @@ overview: >-
 popularity: 95.525
 poster: fast-and-furious-spy-racers-poster.jpg
 poster_path: /ejqbIUDbSWlgDeCoKBFGwbFML3N.jpg
-rating: false
+rating: 2
 rewatch: false
 slug: fast-and-furious-spy-racers
 tags:
@@ -39,3 +39,4 @@ watchedDate: '2023-12-01T00:00:00.000Z'
 year: 2019
 ---
 
+This is so dumb. I love it. 

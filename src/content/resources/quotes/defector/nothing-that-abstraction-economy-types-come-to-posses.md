@@ -16,7 +16,7 @@ publishDate: '2024-03-19T11:53:21.203'
 referringUri: false
 sourceSlug: defector
 sourceTitle: Defector Media
-title: The Coffee Machine that Explained Vice Media
+title: "nothing that abstraction economy types come to possess ever grows or flourishes"
 type: quote
 ---
 

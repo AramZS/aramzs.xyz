@@ -18,4 +18,4 @@ tags:
 - Buddings are ideas I've cleaned up and clarified. May still need refinement.
 - Evergreens are ideas that I have invested a lot of work in. They are in a finished state and unlikely to change over time.
 
-This hierarchy and its descriptions are entirely pulled from [Photogabble.co.uk](https://photogabble.co.uk/).
+This hierarchy and its descriptions are entirely pulled from [Photogabble.co.uk](https://photogabble.co.uk/glossary/growth/).

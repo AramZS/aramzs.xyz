@@ -5,6 +5,6 @@ link: 'https://blog.codybrown.name/p/how-to-survive-the-prestige-recession'
 slug: 2024-01-31-13-how-to-survive-the-prestige-recession-cody-brown
 tags:
   - journalism
-title: (13) How to Survive The Prestige Recession - Cody Brown
+title: How to Survive The Prestige Recession - Cody Brown
 ---
 
