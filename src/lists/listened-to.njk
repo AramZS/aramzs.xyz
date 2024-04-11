@@ -25,7 +25,7 @@ subTitle: What I have been listening to recently
         <ul>
         {%- for item in musicPreview -%}
           <li>
-				    <a href="{{ item.url }}" title="My notes on {{ item.data.title }}">{{ item.data.title }}</a>
+				    <a href="{{ item.data.isBasedOn or item.url }}" title="My notes on {{ item.data.title }}">{{ item.data.title }}</a>
 			    </li>
         {%- endfor -%}
         </ul>        
