@@ -23,7 +23,7 @@ overview: >-
 popularity: 105.33
 poster: scream-the-tv-series-poster.jpg
 poster_path: /cTRUcUnAydqboYfis0IhhY1edDt.jpg
-rating: false
+rating: 3.5
 rewatch: false
 slug: scream-the-tv-series
 tags:
@@ -39,3 +39,4 @@ watchedDate: '2023-12-01T00:00:00.000Z'
 year: 2015
 ---
 
+ Not as good as the original but still was a fun energetic watch. 

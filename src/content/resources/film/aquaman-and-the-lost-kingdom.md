@@ -30,7 +30,6 @@ tags:
   - Action
   - Adventure
   - Fantasy
-  - writing
 title: Aquaman and the Lost Kingdom
 video: false
 vote_average: 6.846
