@@ -463,6 +463,36 @@ p.down-the-rabbit-hole .margin-note img {
     align-items: center;
 }
 
+aside.notes {
+    background-color: var(--background-muted);
+    color: var(--jumbo-nav-text-color);
+    font-size: 1em;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 35px;
+    margin-top: 80px;
+}
+
+aside.notes h4 {
+    font-family: sans-serif;
+    color: var(--jumbo-nav-accent-color);
+    margin-top: 0;
+    font-style: italic;
+    font-stretch: expanded;
+    font-family: sans-serif;
+}
+
+aside.notes ul li {
+    list-style: none;
+    color: var(--background);
+    border-radius: 10px;
+    background-color: var(--accent);
+    font-size: 0.9em;
+    padding: 20px;
+    box-shadow: -10px 8px 5px var(--background);
+    margin-bottom: 18px;
+}
+
 @media (max-width: 864px) {
     .container {
         margin: 0;
