@@ -39,6 +39,7 @@ A somewhat complete list of tools, applications, hardware and services that I us
 * PHP[^4]
 * Node (TypeScript)
 * Rust
+* Python (occasionally)
 
 ## Stacks
 
