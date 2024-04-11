@@ -7,14 +7,27 @@
 {% block pageContent %}
     <section data-source="src/_includes/layouts/page-resource.njk">
         {{ content | safe }}
-        <small>&mdash; {{ cite.name }} | <a href="{{ cite.href or referringUri or isBasedOn }}">link</a></small>
-        
+        <small>&mdash; {{ cite.name }}{% if cite and cite.href or referringUri or isBasedOn %} | <a href="{{ cite.href or referringUri or isBasedOn }}">link</a>{% endif %}</small>
+
+        {% if notes and notes.length and notes.length > 0 %}
+        <aside class="notes">
+          <h4>Notes:</h4>
+          <ul>
+            {% for note in notes %}
+            <li>
+              {{ note | safe }}
+            </li>
+            {% endfor %}
+          </ul>
+        </aside>
+        {% endif %}
+
         {% if blockquote and sourceTitle %}
         <div>
           <br />
           <small>Replicated under Fair Use from <em>{{ sourceTitle }}</em> 
             {% if cite and cite.name %}
-              by {{ cite.name }}
+              by {{ cite.name }}. {% if pageNum %}<em>(Pg. {{pageNum}})</em>{% endif %}
             {% endif %}
           </small>
         </div>

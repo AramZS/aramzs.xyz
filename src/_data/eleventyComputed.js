@@ -9,7 +9,7 @@ module.exports = {
     let folders = data?.folder ?? [];
     if (Array.isArray(folders) === false) folders = [folders];
 
-    if (['project', 'resource'].includes(data?.contentType)) folders = folders.filter(f => f !== 'writing');
+    if (['project', 'resource', 'amplify'].includes(data?.contentType)) folders = folders.filter(f => f !== 'writing');
 
     for (const folder of folders) {
       if (typeof folder === 'string') {
@@ -34,6 +34,9 @@ module.exports = {
             break;
           case 'stats':
             crumbs.push({href: '/stats/', text: 'stats', title: 'Goto writing stats'});
+            break;
+          case 'amplify':
+            crumbs.push({href: '/amplify/', text: 'amplify', title: 'Goto amplified links'});
             break;
         }
       } else {

@@ -1,5 +1,6 @@
+{% set collectionTerm = collectionVerb or "Planted" %}
 <nav class="dates-list">
-    <h2>Planted throughout the seasons</h2>
+    <h2>{{ collectionTerm }} throughout the seasons</h2>
 
     {% set allPosts = collections.post | excludeStubs | excludeTypes(['mirror']) | reverse %}
     {% set postsByYear = allPosts | filterByWritingOnly | groupByYear %}
