@@ -1,0 +1,39 @@
+---
+description: Information about amplification on this site.
+permalink: /amplify/index.html
+folder: amplify
+---
+
+{% extends "layouts/page.njk" %}
+
+{% set allPosts = collections.contentTypes | findBySlug('amplify') | values('items') %}
+{% set postsByYear = allPosts | groupByYear %}
+{% set titlePrefix = 'Index' %}
+{% set title = 'Amplify Archive' %}
+{% set subTitle = '<strong>' + allPosts.length +'</strong> Amplified Links' %}
+{% set headingClass = 'writing-index' %}
+{% set paginationBase = "amplify" %}
+{% set forward = true %}
+
+{% block pageContent %}
+  <p>
+    The Amplify section is for amplifying content posted by other people and on other sites. Think of it as somewhere between a link post and a reblog. It pulls together posts and writing by others that I think are worth sharing, but where I don't have much that I want to write about them. It includes all my saves exported from Pocket.
+  </p>
+    {% for year, items in postsByYear %}
+        <section>
+            <header>
+                <h3>Last 100 in {{ year }}</h3>
+                <nav>
+                    {% set postsByMonth = items | groupByMonth %}
+                    {% set year = year %}
+                    {% include 'components/months-of-year.njk' %}
+                </nav>
+            </header>
+            {% set displayContentType = true %}
+            {% set postsList = items.slice(0, 100) %}
+            {% include "components/post-list.njk" %}
+        </section>
+    {% endfor %}
+
+    {% include 'components/hot-topics.njk' %}
+{% endblock %}
