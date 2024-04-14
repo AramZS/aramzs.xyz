@@ -2,7 +2,7 @@ module.exports = [
   {
     id: 'hazard',
     type: 'podcast',
-    album: 'Hazard Podcast',
+    name: 'Hazard Podcast',
     artist: 'Jordan Gass-Poore',
     image: '/img/listening/podcasts/Hazard-Logo_No-Words.png',
     url: 'https://hazardpodcast.com/',
