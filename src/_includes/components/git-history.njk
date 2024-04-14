@@ -1,4 +1,16 @@
 {% if changes and changes.length > 0 %}
+  <h3>Git History</h3>
+  <ol class="changes" id="changesList">
+    {% for c in changes %}
+      <li class="change" style="{% if loop.index0 >= 5 %}display: none;{% endif %}">
+        <a href="{{ c.url }}">
+          <span class="change__title">{{ c.message }}</span>
+        </a>
+        <hr/>
+        <time>{{ c.date }}</time>
+      </li>
+    {% endfor %}
+  </ol>
 
   {% if changes.length === 1 %}
     {% set amendedTimes = '' %}
