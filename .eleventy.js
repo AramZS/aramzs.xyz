@@ -32,6 +32,14 @@ module.exports = function (eleventyConfig) {
 			};
 		}
 	);
+  eleventyConfig.on(
+		"eleventy.after",
+		async ({ dir, results, runMode, outputMode }) => {
+			// Run me after the build ends
+      console.log("After Build", dir, runMode, outputMode);
+      console.log("Build Complete");
+		}
+	);
 
 	//
 	// Install Plugins
