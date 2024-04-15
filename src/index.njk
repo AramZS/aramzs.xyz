@@ -14,25 +14,36 @@
     <p>You can find out more <a href="https://aramzs.github.io/aramzs/">about me</a>, what I <a href="/uses/">use</a>, the books that I <a href="/books/">have been reading</a> and what I am up to <a href="/now/">now</a>.</p>
   </section>
 
-  <section>
-    <h2>Recent Writing</h2>
-    {% set postsList = articlesList | excludeTypes(['thought', 'project', 'mirror', 'resource', 'amplify']) | reverse | limit(6) %}
-    {% include "components/post-list.njk" %}
-    <p>
-      Subscribe to the <a href="/writing/feed.xml">RSS Feed</a> or view the entire <a href="/writing">archive</a> for more.
-    </p>
-  </section>
-
-  {% set thoughts = articlesList | onlyTypes(['thought']) %}
-
-  {% if thoughts.length > 0 %}
+  <section id="front-content-display">
     <section>
-      <h2>Recent Thoughts</h2>
-      {% set postsList = thoughts | reverse | limit(3) %}
+      <h2>Recent Writing</h2>
+      {% set postsList = articlesList | excludeTypes(['thought', 'project', 'mirror', 'resource', 'amplify']) | reverse | limit(6) %}
       {% include "components/post-list.njk" %}
       <p>
-        View <a href="/thoughts/">more thoughts...</a>
+        Subscribe to the <a href="/writing/feed.xml">RSS Feed</a> or view the entire <a href="/writing">archive</a> for more.
       </p>
     </section>
-  {% endif %}
+
+    {% set thoughts = articlesList | onlyTypes(['thought']) %}
+
+    {% if thoughts.length > 0 %}
+      <section>
+        <h2>Recent Thoughts</h2>
+        {% set postsList = thoughts | reverse | limit(3) %}
+        {% include "components/post-list.njk" %}
+        <p>
+          View <a href="/thoughts/">more thoughts...</a>
+        </p>
+      </section>
+    {% endif %}
+    <section>
+      <h2>Recent Amplifications</h2>
+      {% set postsList = collections.contentTypes | findBySlug('amplify') | values('items') | limit(10) %}
+      {% include "components/post-list.njk" %}
+      {% set forward = true %}
+      <p>
+        Subscribe to the <a href="/amplify/feed.xml">Amplified Items RSS Feed</a> or view the entire <a href="/amplify">archive</a> for more.
+      </p>
+    </section>
+  </section>
 {% endblock %}
