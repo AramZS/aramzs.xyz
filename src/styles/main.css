@@ -549,7 +549,7 @@ aside.notes ul li {
 }
 
 #front-content-display {
-    gap: 50px;
+    gap: 60px;
     grid-template-columns: auto auto;
     grid-template-rows: auto auto;
     display: grid;
