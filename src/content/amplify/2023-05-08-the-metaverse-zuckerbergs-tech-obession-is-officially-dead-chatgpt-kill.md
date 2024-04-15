@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-08-the-metaverse-zuckerbergs-tech-obession-is-officially-dead-chatgpt-kill
 tags:
-  - tech
+  - Tech
 title: 'The Metaverse, Zuckerberg''s Tech Obession, Is Officially Dead. ChatGPT Kill'
 ---
 

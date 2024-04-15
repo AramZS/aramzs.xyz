@@ -8,7 +8,7 @@ slug: >-
   2024-01-18-its-not-just-you-youtube-is-slowing-down-your-pc-if-you-have-adblock-inst
 tags:
   - ad tech
-  - tech
+  - Tech
 title: 'It''s not just you: YouTube is slowing down your PC if you have AdBlock inst'
 ---
 

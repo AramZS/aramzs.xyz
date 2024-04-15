@@ -5,7 +5,7 @@ link: 'https://hugo.blog/2024/03/11/vision-pro/'
 slug: >-
   2024-03-16-vision-pro-is-an-over-engineered-devkit-hardware-bleeds-genius-and-audac
 tags:
-  - tech
+  - Tech
 title: Vision Pro is an over-engineered “devkit” // Hardware bleeds genius & audac
 ---
 

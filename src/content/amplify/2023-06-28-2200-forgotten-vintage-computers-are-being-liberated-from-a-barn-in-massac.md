@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-28-2200-forgotten-vintage-computers-are-being-liberated-from-a-barn-in-massac
 tags:
-  - tech
+  - Tech
 title: '2,200 Forgotten Vintage Computers Are Being Liberated From a Barn in Massac'
 ---
 

@@ -6,7 +6,7 @@ slug: 2024-03-14-among-the-ai-doomsayers-or-the-new-yorker
 tags:
   - ai
   - politics
-  - tech
+  - Tech
 title: Among the A.I. Doomsayers | The New Yorker
 ---
 

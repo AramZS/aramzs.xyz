@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-13-the-washington-post-chatgpt-is-nothing-new-machines-have-helped-us-write
 tags:
-  - tech
+  - Tech
 title: '[The Washington Post] ChatGPT is nothing new. Machines have helped us write'
 ---
 

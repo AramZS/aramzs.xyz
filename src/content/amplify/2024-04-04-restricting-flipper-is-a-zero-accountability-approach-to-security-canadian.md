@@ -8,7 +8,7 @@ slug: >-
   2024-04-04-restricting-flipper-is-a-zero-accountability-approach-to-security-canadian
 tags:
   - law and order
-  - tech
+  - Tech
 title: 'Restricting Flipper is a Zero Accountability Approach to Security: Canadian'
 ---
 

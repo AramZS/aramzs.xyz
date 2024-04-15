@@ -7,7 +7,7 @@ link: >-
 slug: 2024-03-02-chatgpt-and-google-gemini-are-both-doomed
 tags:
   - ai
-  - tech
+  - Tech
 title: ChatGPT and Google Gemini Are Both Doomed
 ---
 

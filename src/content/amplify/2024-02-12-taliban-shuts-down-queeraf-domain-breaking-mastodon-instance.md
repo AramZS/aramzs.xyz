@@ -6,7 +6,7 @@ link: >-
   https://www.404media.co/taliban-shuts-down-queer-af-domain-breaking-mastodon-instance/
 slug: 2024-02-12-taliban-shuts-down-queeraf-domain-breaking-mastodon-instance
 tags:
-  - tech
+  - Tech
 title: 'Taliban Shuts Down ''queer.af'' Domain, Breaking Mastodon Instance'
 ---
 

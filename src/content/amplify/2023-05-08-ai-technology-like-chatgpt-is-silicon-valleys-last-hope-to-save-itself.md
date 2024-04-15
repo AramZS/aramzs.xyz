@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - business
-  - tech
+  - Tech
 title: AI Technology Like ChatGPT Is Silicon Valley's Last Hope to Save Itself
 ---
 

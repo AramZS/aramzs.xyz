@@ -4,7 +4,7 @@ isBasedOn: 'http://textcasting.org/'
 link: 'http://textcasting.org/'
 slug: 2023-11-09-textcasting
 tags:
-  - tech
+  - Tech
 title: Textcasting
 ---
 

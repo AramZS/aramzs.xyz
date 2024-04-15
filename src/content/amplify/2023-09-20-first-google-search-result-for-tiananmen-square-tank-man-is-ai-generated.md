@@ -8,7 +8,7 @@ slug: >-
   2023-09-20-first-google-search-result-for-tiananmen-square-tank-man-is-ai-generated
 tags:
   - ai
-  - tech
+  - Tech
 title: 'First Google Search Result for Tiananmen Square “Tank Man” Is AI Generated '
 ---
 

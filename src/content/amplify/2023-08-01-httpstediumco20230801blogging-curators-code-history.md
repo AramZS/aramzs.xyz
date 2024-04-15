@@ -4,7 +4,7 @@ isBasedOn: 'https://tedium.co/2023/08/01/blogging-curators-code-history/'
 link: 'https://tedium.co/2023/08/01/blogging-curators-code-history/'
 slug: 2023-08-01-httpstediumco20230801blogging-curators-code-history
 tags:
-  - tech
+  - Tech
 title: 'https://tedium.co/2023/08/01/blogging-curators-code-history/'
 ---
 

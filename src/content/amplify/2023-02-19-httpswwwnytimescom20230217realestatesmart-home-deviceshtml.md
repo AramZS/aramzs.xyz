@@ -4,7 +4,7 @@ isBasedOn: 'https://www.nytimes.com/2023/02/17/realestate/smart-home-devices.htm
 link: 'https://www.nytimes.com/2023/02/17/realestate/smart-home-devices.html'
 slug: 2023-02-19-httpswwwnytimescom20230217realestatesmart-home-deviceshtml
 tags:
-  - tech
+  - Tech
 title: 'https://www.nytimes.com/2023/02/17/realestate/smart-home-devices.html'
 ---
 

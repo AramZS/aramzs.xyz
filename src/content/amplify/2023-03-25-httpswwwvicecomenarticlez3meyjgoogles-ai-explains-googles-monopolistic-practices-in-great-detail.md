@@ -8,7 +8,7 @@ slug: >-
   2023-03-25-httpswwwvicecomenarticlez3meyjgoogles-ai-explains-googles-monopolistic-practices-in-great-detail
 tags:
   - ai
-  - tech
+  - Tech
 title: >-
   https://www.vice.com/en/article/z3meyj/googles-ai-explains-googles-monopolistic-practices-in-great-detail
 ---

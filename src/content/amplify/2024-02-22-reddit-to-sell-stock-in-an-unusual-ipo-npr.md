@@ -7,7 +7,7 @@ link: >-
 slug: 2024-02-22-reddit-to-sell-stock-in-an-unusual-ipo-npr
 tags:
   - social media
-  - tech
+  - Tech
 title: 'Reddit to sell stock in an unusual IPO : NPR'
 ---
 

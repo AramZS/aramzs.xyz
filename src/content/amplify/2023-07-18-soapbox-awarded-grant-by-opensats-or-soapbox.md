@@ -4,7 +4,7 @@ isBasedOn: 'https://soapbox.pub/blog/soapbox-awarded-grant/'
 link: 'https://soapbox.pub/blog/soapbox-awarded-grant/'
 slug: 2023-07-18-soapbox-awarded-grant-by-opensats-or-soapbox
 tags:
-  - tech
+  - Tech
 title: Soapbox Awarded Grant by OpenSats | Soapbox
 ---
 

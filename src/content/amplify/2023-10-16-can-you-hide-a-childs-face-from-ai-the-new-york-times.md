@@ -7,7 +7,7 @@ link: >-
 slug: 2023-10-16-can-you-hide-a-childs-face-from-ai-the-new-york-times
 tags:
   - ai
-  - tech
+  - Tech
 title: Can You Hide a Child’s Face From A.I.? - The New York Times
 ---
 

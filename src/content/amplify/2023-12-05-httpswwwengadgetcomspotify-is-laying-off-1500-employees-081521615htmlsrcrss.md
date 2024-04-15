@@ -8,7 +8,7 @@ slug: >-
   2023-12-05-httpswwwengadgetcomspotify-is-laying-off-1500-employees-081521615htmlsrcrss
 tags:
   - labor
-  - tech
+  - Tech
 title: >-
   https://www.engadget.com/spotify-is-laying-off-1500-employees-081521615.html?src=rss
 ---

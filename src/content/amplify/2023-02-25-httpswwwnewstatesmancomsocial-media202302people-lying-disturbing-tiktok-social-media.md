@@ -9,7 +9,7 @@ slug: >-
 tags:
   - culture
   - social media
-  - tech
+  - Tech
 title: >-
   https://www.newstatesman.com/social-media/2023/02/people-lying-disturbing-tiktok-social-media
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: 2023-10-04-ai-has-bloated-my-robotstxt-reply-von-explaino
 tags:
   - code
-  - tech
+  - Tech
 title: AI has bloated my robots.txt - Reply - von Explaino
 ---
 

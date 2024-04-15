@@ -5,7 +5,7 @@ link: 'https://defector.com/burning-down-the-house'
 slug: 2023-06-11-httpsdefectorcomburning-down-the-house
 tags:
   - social media
-  - tech
+  - Tech
 title: 'https://defector.com/burning-down-the-house'
 ---
 

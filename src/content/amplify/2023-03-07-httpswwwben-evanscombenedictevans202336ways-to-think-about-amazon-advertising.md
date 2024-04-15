@@ -8,7 +8,7 @@ slug: >-
   2023-03-07-httpswwwben-evanscombenedictevans202336ways-to-think-about-amazon-advertising
 tags:
   - ad tech
-  - tech
+  - Tech
 title: >-
   https://www.ben-evans.com/benedictevans/2023/3/6/ways-to-think-about-amazon-advertising
 ---

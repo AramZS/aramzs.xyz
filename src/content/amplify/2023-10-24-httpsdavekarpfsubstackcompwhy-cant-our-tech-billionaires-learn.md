@@ -4,7 +4,7 @@ isBasedOn: 'https://davekarpf.substack.com/p/why-cant-our-tech-billionaires-lear
 link: 'https://davekarpf.substack.com/p/why-cant-our-tech-billionaires-learn'
 slug: 2023-10-24-httpsdavekarpfsubstackcompwhy-cant-our-tech-billionaires-learn
 tags:
-  - tech
+  - Tech
 title: 'https://davekarpf.substack.com/p/why-cant-our-tech-billionaires-learn'
 ---
 

@@ -11,7 +11,7 @@ tags:
   - housing
   - justice
   - race
-  - tech
+  - Tech
 title: 'L.A.’s Scoring System for Subsidized Housing Gives Black and Latino People '
 ---
 

@@ -5,7 +5,7 @@ link: 'https://www.adweek.com/agencies/california-ramps-up-efforts-to-regulate-a
 slug: 2023-04-14-california-ramps-up-efforts-to-regulate-ai
 tags:
   - ai
-  - tech
+  - Tech
 title: California Ramps Up Efforts to Regulate AI
 ---
 

@@ -6,7 +6,7 @@ slug: >-
   2023-08-16-httpswwwhackingbutlegalcomnaomi-wu-and-the-silence-that-speaks-volumes
 tags:
   - politics
-  - tech
+  - Tech
 title: 'https://www.hackingbutlegal.com/naomi-wu-and-the-silence-that-speaks-volumes/'
 ---
 

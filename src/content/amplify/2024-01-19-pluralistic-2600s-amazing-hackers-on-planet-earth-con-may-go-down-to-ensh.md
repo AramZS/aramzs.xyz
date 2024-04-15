@@ -5,7 +5,7 @@ link: 'https://pluralistic.net/2024/01/19/hope-less/'
 slug: >-
   2024-01-19-pluralistic-2600s-amazing-hackers-on-planet-earth-con-may-go-down-to-ensh
 tags:
-  - tech
+  - Tech
 title: 'Pluralistic: 2600’s amazing Hackers on Planet Earth con may go down to ensh'
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://cyberpeaceinstitute.org/multistakeholder-manifesto'
 link: 'https://cyberpeaceinstitute.org/multistakeholder-manifesto'
 slug: 2024-01-19-multistakeholder-manifesto-or-the-cyberpeace-institute
 tags:
-  - tech
+  - Tech
 title: Multistakeholder Manifesto | The CyberPeace Institute
 ---
 

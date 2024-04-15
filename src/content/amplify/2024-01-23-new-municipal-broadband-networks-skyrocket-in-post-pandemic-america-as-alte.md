@@ -10,7 +10,7 @@ tags:
   - community
   - devolution
   - local
-  - tech
+  - Tech
 title: New Municipal Broadband Networks Skyrocket in Post-Pandemic America As Alte
 ---
 

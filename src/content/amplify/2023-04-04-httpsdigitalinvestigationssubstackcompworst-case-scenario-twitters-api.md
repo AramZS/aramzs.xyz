@@ -5,7 +5,7 @@ link: 'https://digitalinvestigations.substack.com/p/worst-case-scenario-twitters
 slug: >-
   2023-04-04-httpsdigitalinvestigationssubstackcompworst-case-scenario-twitters-api
 tags:
-  - tech
+  - Tech
 title: 'https://digitalinvestigations.substack.com/p/worst-case-scenario-twitters-api'
 ---
 

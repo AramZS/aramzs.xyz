@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-07-opinion-or-a-tech-overlords-horrifying-silly-vision-for-who-should-rule-th
 tags:
-  - tech
+  - Tech
 title: 'Opinion | A Tech Overlord’s Horrifying, Silly Vision for Who Should Rule th'
 ---
 

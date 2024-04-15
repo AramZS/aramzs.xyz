@@ -5,7 +5,7 @@ link: 'https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/'
 slug: 2023-06-10-https9to5maccom20230608ios-17-link-tracking-protection
 tags:
   - ad tech
-  - tech
+  - Tech
 title: 'https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-26-the-washington-post-meet-the-amazon-influencers-making-money-off-everyt
 tags:
-  - tech
+  - Tech
 title: '[The Washington Post] Meet the Amazon ‘influencers’ making money off everyt'
 ---
 

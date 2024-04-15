@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2023/04/13/opinion/email-time-work-stress.html'
 slug: 2023-04-15-httpswwwnytimescom20230413opinionemail-time-work-stresshtml
 tags:
   - culture
-  - tech
+  - Tech
 title: 'https://www.nytimes.com/2023/04/13/opinion/email-time-work-stress.html'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-15-httpstechcrunchcom20240315gumroad-no-longer-allows-most-nsfw-art-leaving-its-adult-creators-panicked
 tags:
-  - tech
+  - Tech
 title: >-
   https://techcrunch.com/2024/03/15/gumroad-no-longer-allows-most-nsfw-art-leaving-its-adult-creators-panicked/
 ---

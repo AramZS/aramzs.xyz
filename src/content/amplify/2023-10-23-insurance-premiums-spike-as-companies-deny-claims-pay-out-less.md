@@ -7,7 +7,7 @@ link: >-
 slug: 2023-10-23-insurance-premiums-spike-as-companies-deny-claims-pay-out-less
 tags:
   - business
-  - tech
+  - Tech
 title: 'Insurance Premiums Spike As Companies Deny Claims, Pay Out Less'
 ---
 

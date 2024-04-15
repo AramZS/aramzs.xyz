@@ -8,7 +8,7 @@ slug: >-
   2023-07-31-pluralistic-kickstarting-a-book-to-end-enshittification-because-amazon-wi
 tags:
   - economy
-  - tech
+  - Tech
 title: 'Pluralistic: Kickstarting a book to end enshittification, because Amazon wi'
 ---
 

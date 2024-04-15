@@ -8,7 +8,7 @@ slug: >-
   2023-12-05-turning-traffic-into-clean-energy-how-this-startup-plans-to-power-the-stre
 tags:
   - climate
-  - tech
+  - Tech
 title: 'Turning traffic into clean energy: How this startup plans to power the stre'
 ---
 

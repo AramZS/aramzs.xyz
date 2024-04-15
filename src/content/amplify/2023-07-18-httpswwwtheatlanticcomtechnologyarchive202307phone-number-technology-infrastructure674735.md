@@ -8,7 +8,7 @@ slug: >-
   2023-07-18-httpswwwtheatlanticcomtechnologyarchive202307phone-number-technology-infrastructure674735
 tags:
   - History
-  - tech
+  - Tech
 title: >-
   https://www.theatlantic.com/technology/archive/2023/07/phone-number-technology-infrastructure/674735/
 ---

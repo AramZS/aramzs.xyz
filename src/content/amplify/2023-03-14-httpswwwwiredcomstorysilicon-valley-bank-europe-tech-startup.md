@@ -5,7 +5,7 @@ link: 'https://www.wired.com/story/silicon-valley-bank-europe-tech-startup/'
 slug: 2023-03-14-httpswwwwiredcomstorysilicon-valley-bank-europe-tech-startup
 tags:
   - business
-  - tech
+  - Tech
 title: 'https://www.wired.com/story/silicon-valley-bank-europe-tech-startup/'
 ---
 

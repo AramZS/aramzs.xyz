@@ -5,7 +5,7 @@ link: 'https://berjon.com/ap-at/'
 slug: 2024-01-08-activitypub-over-atproto
 tags:
   - code
-  - tech
+  - Tech
 title: ActivityPub Over ATProto
 ---
 

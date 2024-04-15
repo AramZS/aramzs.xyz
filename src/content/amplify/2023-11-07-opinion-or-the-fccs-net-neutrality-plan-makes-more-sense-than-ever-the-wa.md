@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-07-opinion-or-the-fccs-net-neutrality-plan-makes-more-sense-than-ever-the-wa
 tags:
-  - tech
+  - Tech
 title: Opinion | The FCC’s net neutrality plan makes more sense than ever - The Wa
 ---
 

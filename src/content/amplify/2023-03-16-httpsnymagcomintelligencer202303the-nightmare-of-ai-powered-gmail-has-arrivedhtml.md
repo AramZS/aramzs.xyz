@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-16-httpsnymagcomintelligencer202303the-nightmare-of-ai-powered-gmail-has-arrivedhtml
 tags:
-  - tech
+  - Tech
 title: >-
   https://nymag.com/intelligencer/2023/03/the-nightmare-of-ai-powered-gmail-has-arrived.html
 ---

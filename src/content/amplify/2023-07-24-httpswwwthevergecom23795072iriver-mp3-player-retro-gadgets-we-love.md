@@ -4,7 +4,7 @@ isBasedOn: 'https://www.theverge.com/23795072/iriver-mp3-player-retro-gadgets-we
 link: 'https://www.theverge.com/23795072/iriver-mp3-player-retro-gadgets-we-love'
 slug: 2023-07-24-httpswwwthevergecom23795072iriver-mp3-player-retro-gadgets-we-love
 tags:
-  - tech
+  - Tech
 title: 'https://www.theverge.com/23795072/iriver-mp3-player-retro-gadgets-we-love'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-21-stop-talking-about-ai-ethics-its-time-to-talk-about-power-or-mit-technolo
 tags:
-  - tech
+  - Tech
 title: Stop talking about AI ethics. It’s time to talk about power. | MIT Technolo
 ---
 

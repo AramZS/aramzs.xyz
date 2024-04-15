@@ -8,7 +8,7 @@ slug: >-
   2023-10-05-google-quietly-raised-ad-prices-to-boost-search-revenue-says-executive-t
 tags:
   - ad tech
-  - tech
+  - Tech
 title: 'Google quietly raised ad prices to boost search revenue, says executive - T'
 ---
 

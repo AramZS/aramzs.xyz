@@ -8,7 +8,7 @@ slug: >-
   2023-11-20-new-openai-ceo-was-a-character-in-a-harry-potter-fanfic-thats-wildly-popul
 tags:
   - ai
-  - tech
+  - Tech
 title: New OpenAI CEO Was a Character in a Harry Potter Fanfic That's Wildly Popul
 ---
 

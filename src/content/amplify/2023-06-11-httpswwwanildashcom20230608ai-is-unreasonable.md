@@ -5,7 +5,7 @@ link: 'https://www.anildash.com/2023/06/08/ai-is-unreasonable/'
 slug: 2023-06-11-httpswwwanildashcom20230608ai-is-unreasonable
 tags:
   - ai
-  - tech
+  - Tech
 title: 'https://www.anildash.com/2023/06/08/ai-is-unreasonable/'
 ---
 

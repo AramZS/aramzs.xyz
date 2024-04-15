@@ -8,7 +8,7 @@ slug: >-
   2023-07-26-httpswwwwiredcomstoryai-powered-totally-autonomous-future-of-war-is-here
 tags:
   - ai
-  - tech
+  - Tech
 title: >-
   https://www.wired.com/story/ai-powered-totally-autonomous-future-of-war-is-here/
 ---

@@ -9,7 +9,7 @@ slug: >-
 tags:
   - Privacy
   - social media
-  - tech
+  - Tech
 title: >-
   https://www.vice.com/en/article/pke9k9/facebook-wanted-nso-spyware-to-monitor-users
 ---

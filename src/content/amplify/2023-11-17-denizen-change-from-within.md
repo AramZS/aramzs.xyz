@@ -5,7 +5,7 @@ link: 'https://www.becomingdenizen.com/'
 slug: 2023-11-17-denizen-change-from-within
 tags:
   - culture
-  - tech
+  - Tech
 title: Denizen / Change from within
 ---
 

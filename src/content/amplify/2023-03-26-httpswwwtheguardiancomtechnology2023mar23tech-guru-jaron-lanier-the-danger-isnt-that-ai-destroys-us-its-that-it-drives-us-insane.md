@@ -8,7 +8,7 @@ slug: >-
   2023-03-26-httpswwwtheguardiancomtechnology2023mar23tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane
 tags:
   - ai
-  - tech
+  - Tech
 title: >-
   https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane
 ---

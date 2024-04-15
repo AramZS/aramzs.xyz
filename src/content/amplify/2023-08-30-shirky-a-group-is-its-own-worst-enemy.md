@@ -8,7 +8,7 @@ slug: 2023-08-30-shirky-a-group-is-its-own-worst-enemy
 tags:
   - culture
   - governance
-  - tech
+  - Tech
 title: 'Shirky: A Group Is Its Own Worst Enemy'
 ---
 

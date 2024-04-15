@@ -9,7 +9,7 @@ slug: >-
 tags:
   - law and order
   - Privacy
-  - tech
+  - Tech
 title: 'Accidental Spies: Amazon Ring Owners May Be Unknowingly Emailing Police – T'
 ---
 

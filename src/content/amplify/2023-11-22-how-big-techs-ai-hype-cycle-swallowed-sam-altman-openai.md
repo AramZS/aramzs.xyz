@@ -7,7 +7,7 @@ link: >-
 slug: 2023-11-22-how-big-techs-ai-hype-cycle-swallowed-sam-altman-openai
 tags:
   - ai
-  - tech
+  - Tech
 title: 'How Big Tech’s AI Hype Cycle Swallowed Sam Altman, OpenAI'
 ---
 

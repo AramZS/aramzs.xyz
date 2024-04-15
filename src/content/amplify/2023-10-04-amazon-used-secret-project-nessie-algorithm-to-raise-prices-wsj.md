@@ -7,7 +7,7 @@ link: >-
 slug: 2023-10-04-amazon-used-secret-project-nessie-algorithm-to-raise-prices-wsj
 tags:
   - antitrust
-  - tech
+  - Tech
 title: Amazon Used Secret ‘Project Nessie’ Algorithm to Raise Prices - WSJ
 ---
 

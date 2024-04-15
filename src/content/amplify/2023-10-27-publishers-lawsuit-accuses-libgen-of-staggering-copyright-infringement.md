@@ -9,7 +9,7 @@ slug: >-
 tags:
   - copyright
   - publishing
-  - tech
+  - Tech
 title: Publishers' Lawsuit Accuses Libgen of "Staggering" Copyright Infringement *
 ---
 

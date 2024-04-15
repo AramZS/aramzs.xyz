@@ -5,7 +5,7 @@ link: 'https://blog.pragmaticengineer.com/devternity-fake-speakers/'
 slug: >-
   2023-12-07-a-tech-conference-listed-fake-speakers-for-years-i-accidentally-noticed
 tags:
-  - tech
+  - Tech
 title: 'A Tech Conference Listed Fake Speakers for Years: I Accidentally Noticed - '
 ---
 

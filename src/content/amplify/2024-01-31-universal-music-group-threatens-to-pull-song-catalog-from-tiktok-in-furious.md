@@ -8,7 +8,7 @@ slug: >-
   2024-01-31-universal-music-group-threatens-to-pull-song-catalog-from-tiktok-in-furious
 tags:
   - social media
-  - tech
+  - Tech
 title: Universal Music Group threatens to pull song catalog from TikTok in furious
 ---
 

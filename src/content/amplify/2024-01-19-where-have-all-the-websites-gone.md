@@ -5,7 +5,7 @@ link: 'https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/'
 slug: 2024-01-19-where-have-all-the-websites-gone
 tags:
   - Blogging
-  - tech
+  - Tech
 title: Where have all the websites gone?
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-10-27-hey-tech-billionaires-if-you-want-to-talk-about-radical-change-lets-abol
 tags:
   - ai
-  - tech
+  - Tech
 title: 'Hey tech billionaires, if you want to talk about radical change, let’s abol'
 ---
 

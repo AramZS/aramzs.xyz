@@ -6,7 +6,7 @@ link: >-
   https://gizmodo.com/microsoft-windows-google-chrome-feature-broken-edge-1850392901
 slug: 2023-05-02-microsoft-broke-google-chrome-feature-to-promote-edge-browser
 tags:
-  - tech
+  - Tech
 title: Microsoft Broke Google Chrome Feature to Promote Edge Browser
 ---
 

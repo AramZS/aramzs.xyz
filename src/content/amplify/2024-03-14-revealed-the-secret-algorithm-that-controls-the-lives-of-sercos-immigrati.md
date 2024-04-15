@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-14-revealed-the-secret-algorithm-that-controls-the-lives-of-sercos-immigrati
 tags:
-  - tech
+  - Tech
 title: 'Revealed: the secret algorithm that controls the lives of Serco’s immigrati'
 ---
 

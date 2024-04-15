@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - media
-  - tech
+  - Tech
 title: He Died in a Tragic Accident. Why Did the Internet Say He Was Murdered? - T
 ---
 

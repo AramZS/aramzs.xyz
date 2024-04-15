@@ -5,7 +5,7 @@ link: 'https://spectrum.ieee.org/3m-floppy'
 slug: 2024-04-03-the-rise-and-fall-of-3ms-floppy-disk-ieee-spectrum
 tags:
   - History
-  - tech
+  - Tech
 title: The Rise and Fall of 3M’s Floppy Disk - IEEE Spectrum
 ---
 

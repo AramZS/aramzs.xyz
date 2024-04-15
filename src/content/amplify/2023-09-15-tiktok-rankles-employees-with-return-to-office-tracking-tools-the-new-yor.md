@@ -9,7 +9,7 @@ slug: >-
 tags:
   - labor
   - social media
-  - tech
+  - Tech
 title: TikTok Rankles Employees With Return-to-Office Tracking Tools - The New Yor
 ---
 

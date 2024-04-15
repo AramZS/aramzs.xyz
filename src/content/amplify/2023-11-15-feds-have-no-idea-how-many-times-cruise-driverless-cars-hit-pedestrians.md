@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-15-feds-have-no-idea-how-many-times-cruise-driverless-cars-hit-pedestrians
 tags:
-  - tech
+  - Tech
 title: Feds Have No Idea How Many Times Cruise Driverless Cars Hit Pedestrians
 ---
 

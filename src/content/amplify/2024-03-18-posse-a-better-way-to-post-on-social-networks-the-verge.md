@@ -7,7 +7,7 @@ link: >-
 slug: 2024-03-18-posse-a-better-way-to-post-on-social-networks-the-verge
 tags:
   - social media
-  - tech
+  - Tech
 title: 'POSSE: a better way to post on social networks - The Verge'
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://wisdomofcrowds.live/p/the-temptation-of-peter-thiel'
 link: 'https://wisdomofcrowds.live/p/the-temptation-of-peter-thiel'
 slug: 2023-12-11-the-temptation-of-peter-thiel-by-tara-isabella-burton
 tags:
-  - tech
+  - Tech
 title: The Temptation of Peter Thiel - by Tara Isabella Burton
 ---
 

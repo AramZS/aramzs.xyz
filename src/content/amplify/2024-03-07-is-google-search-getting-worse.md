@@ -5,7 +5,7 @@ link: 'https://searchengineland.com/is-google-search-getting-worse-389658'
 slug: 2024-03-07-is-google-search-getting-worse
 tags:
   - ad tech
-  - tech
+  - Tech
 title: Is Google Search getting worse?
 ---
 

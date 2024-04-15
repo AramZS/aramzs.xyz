@@ -6,7 +6,7 @@ slug: >-
   2023-03-31-httpswwwefforgdeeplinks202303what-made-pre-elon-musk-twitter-relevant
 tags:
   - social media
-  - tech
+  - Tech
 title: 'https://www.eff.org/deeplinks/2023/03/what-made-pre-elon-musk-twitter-relevant'
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://www.mnot.net/blog/2023/11/01/regulators'
 link: 'https://www.mnot.net/blog/2023/11/01/regulators'
 slug: 2023-11-01-technical-standards-bodies-are-regulators
 tags:
-  - tech
+  - Tech
 title: Technical Standards Bodies are Regulators
 ---
 

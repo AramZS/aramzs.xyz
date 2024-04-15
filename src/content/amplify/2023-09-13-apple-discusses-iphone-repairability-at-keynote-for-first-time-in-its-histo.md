@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-13-apple-discusses-iphone-repairability-at-keynote-for-first-time-in-its-histo
 tags:
-  - tech
+  - Tech
 title: Apple Discusses iPhone Repairability at Keynote for First Time in Its Histo
 ---
 

@@ -9,7 +9,7 @@ slug: >-
 tags:
   - politics
   - social media
-  - tech
+  - Tech
 title: The U.S. Wants to Ban TikTok for the Sins of Every Social Media Company
 ---
 

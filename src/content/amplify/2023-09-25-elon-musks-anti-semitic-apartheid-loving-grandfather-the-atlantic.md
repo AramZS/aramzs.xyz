@@ -7,7 +7,7 @@ link: >-
 slug: 2023-09-25-elon-musks-anti-semitic-apartheid-loving-grandfather-the-atlantic
 tags:
   - History
-  - tech
+  - Tech
 title: 'Elon Musk’s Anti-Semitic, Apartheid-Loving Grandfather - The Atlantic'
 ---
 

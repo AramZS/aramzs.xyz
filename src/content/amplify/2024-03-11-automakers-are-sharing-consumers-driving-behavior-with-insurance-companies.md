@@ -8,7 +8,7 @@ slug: >-
   2024-03-11-automakers-are-sharing-consumers-driving-behavior-with-insurance-companies
 tags:
   - Privacy
-  - tech
+  - Tech
 title: Automakers Are Sharing Consumers’ Driving Behavior With Insurance Companies
 ---
 

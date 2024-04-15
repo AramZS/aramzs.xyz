@@ -7,7 +7,7 @@ link: >-
 slug: 2024-04-03-friendship-ended-with-google-now-kagi-is-my-best-friend
 tags:
   - Privacy
-  - tech
+  - Tech
 title: Friendship Ended With GOOGLE Now KAGI Is My Best Friend
 ---
 

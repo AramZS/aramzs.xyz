@@ -9,7 +9,7 @@ slug: >-
 tags:
   - law and order
   - politics
-  - tech
+  - Tech
 title: Polish Hackers Repaired Trains the Manufacturer Artificially Bricked. Now T
 ---
 

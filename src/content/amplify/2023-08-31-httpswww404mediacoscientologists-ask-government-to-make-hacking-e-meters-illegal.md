@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-31-httpswww404mediacoscientologists-ask-government-to-make-hacking-e-meters-illegal
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.404media.co/scientologists-ask-government-to-make-hacking-e-meters-illegal/
 ---

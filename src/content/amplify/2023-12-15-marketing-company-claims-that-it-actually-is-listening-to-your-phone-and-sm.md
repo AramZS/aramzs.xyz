@@ -8,7 +8,7 @@ slug: >-
   2023-12-15-marketing-company-claims-that-it-actually-is-listening-to-your-phone-and-sm
 tags:
   - Privacy
-  - tech
+  - Tech
 title: Marketing Company Claims That It Actually Is Listening to Your Phone and Sm
 ---
 

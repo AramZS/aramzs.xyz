@@ -8,7 +8,7 @@ slug: >-
   2024-01-08-the-tragedy-of-the-commons-is-a-false-and-dangerous-myth-or-aeon-essays
 tags:
   - philosophy
-  - tech
+  - Tech
 title: The tragedy of the commons is a false and dangerous myth | Aeon Essays
 ---
 

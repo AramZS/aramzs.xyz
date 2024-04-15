@@ -4,7 +4,7 @@ isBasedOn: 'https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-mone
 link: 'https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money'
 slug: 2023-07-08-httpswwwwealthsimplecomen-camagazinecobol-controls-your-money
 tags:
-  - tech
+  - Tech
 title: 'https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money'
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-05-11-everything-happening-on-bluesky-twitters-most-chaotic-successor-the-ver
 tags:
   - social media
-  - tech
+  - Tech
 title: 'Everything happening on Bluesky, Twitter’s most chaotic successor - The Ver'
 ---
 

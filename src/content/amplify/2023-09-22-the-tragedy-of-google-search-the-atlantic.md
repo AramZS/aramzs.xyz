@@ -7,7 +7,7 @@ link: >-
 slug: 2023-09-22-the-tragedy-of-google-search-the-atlantic
 tags:
   - search
-  - tech
+  - Tech
 title: The Tragedy of Google Search - The Atlantic
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: 2024-02-04-the-money-and-drugs-that-tie-elon-musk-to-some-tesla-directors-wsj
 tags:
   - business
-  - tech
+  - Tech
 title: The Money and Drugs That Tie Elon Musk to Some Tesla Directors - WSJ
 ---
 

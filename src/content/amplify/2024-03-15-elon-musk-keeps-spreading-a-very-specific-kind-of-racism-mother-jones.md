@@ -9,7 +9,7 @@ slug: >-
 tags:
   - politics
   - social media
-  - tech
+  - Tech
 title: Elon Musk Keeps Spreading a Very Specific Kind of Racism – Mother Jones
 ---
 

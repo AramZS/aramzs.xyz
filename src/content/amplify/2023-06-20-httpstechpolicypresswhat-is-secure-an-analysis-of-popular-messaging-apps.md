@@ -5,7 +5,7 @@ link: 'https://techpolicy.press/what-is-secure-an-analysis-of-popular-messaging-
 slug: >-
   2023-06-20-httpstechpolicypresswhat-is-secure-an-analysis-of-popular-messaging-apps
 tags:
-  - tech
+  - Tech
 title: 'https://techpolicy.press/what-is-secure-an-analysis-of-popular-messaging-apps/'
 ---
 

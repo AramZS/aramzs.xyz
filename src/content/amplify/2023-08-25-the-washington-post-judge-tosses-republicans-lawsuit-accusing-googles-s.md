@@ -9,7 +9,7 @@ slug: >-
 tags:
   - law and order
   - politics
-  - tech
+  - Tech
 title: '[The Washington Post] Judge tosses Republicans’ lawsuit accusing Google’s s'
 ---
 

@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - politics
-  - tech
+  - Tech
 title: '[The Washington Post] This agency is tasked with keeping AI safe. Its offic'
 ---
 

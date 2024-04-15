@@ -8,7 +8,7 @@ slug: >-
   2023-04-06-working-together-to-build-a-more-private-internet-the-privacy-sandbox
 tags:
   - Privacy
-  - tech
+  - Tech
 title: Working Together to Build a More Private Internet - The Privacy Sandbox
 ---
 

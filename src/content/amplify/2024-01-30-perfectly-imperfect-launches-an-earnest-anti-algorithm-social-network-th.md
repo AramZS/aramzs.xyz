@@ -8,7 +8,7 @@ slug: >-
   2024-01-30-perfectly-imperfect-launches-an-earnest-anti-algorithm-social-network-th
 tags:
   - social media
-  - tech
+  - Tech
 title: 'Perfectly Imperfect launches an earnest, anti-algorithm social network - Th'
 ---
 

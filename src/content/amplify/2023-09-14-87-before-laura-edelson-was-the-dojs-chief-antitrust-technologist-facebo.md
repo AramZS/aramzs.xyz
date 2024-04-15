@@ -7,7 +7,7 @@ slug: >-
 tags:
   - banking
   - economy
-  - tech
+  - Tech
 title: '87. Before Laura Edelson was the DOJ''s chief antitrust technologist, Facebo'
 ---
 

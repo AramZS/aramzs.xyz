@@ -4,7 +4,7 @@ isBasedOn: 'https://tedium.co/2024/03/14/full-time-linux-two-months-later/'
 link: 'https://tedium.co/2024/03/14/full-time-linux-two-months-later/'
 slug: 2024-03-14-switching-to-linux-full-time-my-thoughts-two-months-later
 tags:
-  - tech
+  - Tech
 title: 'Switching To Linux Full-Time: My Thoughts Two Months Later'
 ---
 

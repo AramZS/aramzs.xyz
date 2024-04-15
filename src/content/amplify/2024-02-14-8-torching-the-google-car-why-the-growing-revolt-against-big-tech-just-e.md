@@ -6,7 +6,7 @@ slug: >-
   2024-02-14-8-torching-the-google-car-why-the-growing-revolt-against-big-tech-just-e
 tags:
   - culture
-  - tech
+  - Tech
 title: '(8) Torching the Google car: Why the growing revolt against big tech just e'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-25-nvidia-sued-for-stealing-trade-secrets-after-screensharing-blunder-showed-r
 tags:
-  - tech
+  - Tech
 title: NVIDIA sued for stealing trade secrets after screensharing blunder showed r
 ---
 

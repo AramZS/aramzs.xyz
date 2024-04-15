@@ -8,7 +8,7 @@ slug: >-
   2024-02-28-introduction-to-reverse-key-indexes-part-i-or-richard-footes-oracle-blog
 tags:
   - code
-  - tech
+  - Tech
 title: 'Introduction To Reverse Key Indexes: Part I | Richard Foote''s Oracle Blog'
 ---
 

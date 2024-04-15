@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-21-httpswwwrollingstonecomcultureculture-listselon-musk-twitter-zuckerberg-lies-1234808808hyperloop-1234808813
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.rollingstone.com/culture/culture-lists/elon-musk-twitter-zuckerberg-lies-1234808808/hyperloop-1234808813/
 ---

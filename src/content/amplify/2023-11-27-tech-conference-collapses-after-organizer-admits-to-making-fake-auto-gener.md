@@ -6,7 +6,7 @@ slug: >-
   2023-11-27-tech-conference-collapses-after-organizer-admits-to-making-fake-auto-gener
 tags:
   - ai
-  - tech
+  - Tech
 title: Tech Conference Collapses After Organizer Admits to Making Fake ‘Auto-Gener
 ---
 

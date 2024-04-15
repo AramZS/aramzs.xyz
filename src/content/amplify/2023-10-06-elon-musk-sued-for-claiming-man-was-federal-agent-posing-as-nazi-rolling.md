@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-06-elon-musk-sued-for-claiming-man-was-federal-agent-posing-as-nazi-rolling
 tags:
-  - tech
+  - Tech
 title: 'Elon Musk Sued for Claiming Man Was Federal Agent Posing as Nazi – Rolling '
 ---
 

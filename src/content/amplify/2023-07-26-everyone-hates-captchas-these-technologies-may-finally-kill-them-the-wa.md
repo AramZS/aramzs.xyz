@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-26-everyone-hates-captchas-these-technologies-may-finally-kill-them-the-wa
 tags:
-  - tech
+  - Tech
 title: Everyone hates Captchas. These technologies may finally kill them. - The Wa
 ---
 

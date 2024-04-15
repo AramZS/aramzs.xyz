@@ -7,7 +7,7 @@ link: >-
 slug: 2023-09-11-google-chat-deletions-hang-sword-of-damocles-over-search-trial
 tags:
   - law and order
-  - tech
+  - Tech
 title: Google Chat Deletions Hang ‘Sword of Damocles’ Over Search Trial
 ---
 

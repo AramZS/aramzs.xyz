@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-05-google-and-yahoo-are-cracking-down-on-inbox-spam-dont-expect-less-email-m
 tags:
-  - tech
+  - Tech
 title: Google and Yahoo Are Cracking Down on Inbox Spam. Don’t Expect Less Email M
 ---
 

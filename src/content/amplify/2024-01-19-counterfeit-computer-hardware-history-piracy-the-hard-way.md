@@ -5,7 +5,7 @@ link: 'https://tedium.co/2024/01/19/counterfeit-hardware-computing-history/'
 slug: 2024-01-19-counterfeit-computer-hardware-history-piracy-the-hard-way
 tags:
   - History
-  - tech
+  - Tech
 title: 'Counterfeit Computer Hardware History: Piracy, The Hard Way'
 ---
 

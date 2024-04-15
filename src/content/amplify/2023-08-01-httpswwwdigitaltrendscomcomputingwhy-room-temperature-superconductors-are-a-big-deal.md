@@ -8,7 +8,7 @@ slug: >-
   2023-08-01-httpswwwdigitaltrendscomcomputingwhy-room-temperature-superconductors-are-a-big-deal
 tags:
   - science
-  - tech
+  - Tech
 title: >-
   https://www.digitaltrends.com/computing/why-room-temperature-superconductors-are-a-big-deal/
 ---

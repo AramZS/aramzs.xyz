@@ -4,7 +4,7 @@ isBasedOn: 'https://tedium.co/2023/08/26/wordpress-100-year-plan-archival-legacy
 link: 'https://tedium.co/2023/08/26/wordpress-100-year-plan-archival-legacy/'
 slug: 2023-08-28-httpstediumco20230826wordpress-100-year-plan-archival-legacy
 tags:
-  - tech
+  - Tech
 title: 'https://tedium.co/2023/08/26/wordpress-100-year-plan-archival-legacy/'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: 2023-09-22-what-its-like-to-be-a-13-year-old-girl-today-the-new-york-times
 tags:
   - social media
-  - tech
+  - Tech
   - youth
 title: What It’s Like to Be a 13-Year-Old Girl Today - The New York Times
 ---

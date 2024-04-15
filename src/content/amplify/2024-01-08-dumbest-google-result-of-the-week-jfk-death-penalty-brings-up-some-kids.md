@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-08-dumbest-google-result-of-the-week-jfk-death-penalty-brings-up-some-kids
 tags:
-  - tech
+  - Tech
 title: 'Dumbest Google Result of the Week: ‘JFK Death Penalty’ Brings Up Some Kid’s'
 ---
 

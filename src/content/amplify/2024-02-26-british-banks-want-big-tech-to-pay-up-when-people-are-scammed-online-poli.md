@@ -8,7 +8,7 @@ slug: >-
   2024-02-26-british-banks-want-big-tech-to-pay-up-when-people-are-scammed-online-poli
 tags:
   - law and order
-  - tech
+  - Tech
 title: British banks want Big Tech to pay up when people are scammed online – POLI
 ---
 

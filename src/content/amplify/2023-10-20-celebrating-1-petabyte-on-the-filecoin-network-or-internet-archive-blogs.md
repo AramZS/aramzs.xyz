@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-20-celebrating-1-petabyte-on-the-filecoin-network-or-internet-archive-blogs
 tags:
-  - tech
+  - Tech
 title: Celebrating 1 Petabyte on the Filecoin Network! | Internet Archive Blogs
 ---
 

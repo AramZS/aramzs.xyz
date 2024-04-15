@@ -5,7 +5,7 @@ link: 'https://www.platformer.news/p/how-a-single-engineer-brought-down'
 slug: 2023-03-06-httpswwwplatformernewsphow-a-single-engineer-brought-down
 tags:
   - social media
-  - tech
+  - Tech
 title: 'https://www.platformer.news/p/how-a-single-engineer-brought-down'
 ---
 

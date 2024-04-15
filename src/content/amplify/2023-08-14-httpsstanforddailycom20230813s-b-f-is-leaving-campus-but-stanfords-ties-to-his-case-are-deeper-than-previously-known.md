@@ -8,7 +8,7 @@ slug: >-
   2023-08-14-httpsstanforddailycom20230813s-b-f-is-leaving-campus-but-stanfords-ties-to-his-case-are-deeper-than-previously-known
 tags:
   - ethics
-  - tech
+  - Tech
 title: >-
   https://stanforddaily.com/2023/08/13/s-b-f-is-leaving-campus-but-stanfords-ties-to-his-case-are-deeper-than-previously-known/
 ---

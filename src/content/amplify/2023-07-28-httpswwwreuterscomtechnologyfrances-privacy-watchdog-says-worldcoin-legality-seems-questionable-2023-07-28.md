@@ -9,7 +9,7 @@ slug: >-
 tags:
   - crypto currency
   - Privacy
-  - tech
+  - Tech
 title: >-
   https://www.reuters.com/technology/frances-privacy-watchdog-says-worldcoin-legality-seems-questionable-2023-07-28/
 ---

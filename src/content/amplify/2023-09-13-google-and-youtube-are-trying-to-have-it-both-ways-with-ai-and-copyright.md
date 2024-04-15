@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - media
-  - tech
+  - Tech
 title: 'Google and YouTube are trying to have it both ways with AI and copyright - '
 ---
 

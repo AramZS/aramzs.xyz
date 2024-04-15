@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-26-how-antarcticas-history-of-isolation-is-endingthanks-to-starlink-or-mit-te
 tags:
-  - tech
+  - Tech
 title: How Antarctica’s history of isolation is ending—thanks to Starlink | MIT Te
 ---
 

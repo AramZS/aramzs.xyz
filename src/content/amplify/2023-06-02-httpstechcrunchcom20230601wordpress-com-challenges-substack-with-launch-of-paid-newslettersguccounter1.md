@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-02-httpstechcrunchcom20230601wordpress-com-challenges-substack-with-launch-of-paid-newslettersguccounter1
 tags:
-  - tech
+  - Tech
 title: >-
   https://techcrunch.com/2023/06/01/wordpress-com-challenges-substack-with-launch-of-paid-newsletters/?guccounter=1
 ---

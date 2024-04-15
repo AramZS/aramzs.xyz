@@ -6,7 +6,7 @@ slug: >-
   2023-11-29-prominent-women-in-tech-say-they-dont-want-to-join-openais-all-male-board
 tags:
   - ai
-  - tech
+  - Tech
   - women
 title: Prominent Women in Tech Say They Don't Want to Join OpenAI's All-Male Board
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-17-httpsthemessengercomnews22b-high-tech-army-goggles-leave-soldiers-queasy-off-target-lawmakers-skeptical
 tags:
-  - tech
+  - Tech
 title: >-
   https://themessenger.com/news/22b-high-tech-army-goggles-leave-soldiers-queasy-off-target-lawmakers-skeptical
 ---

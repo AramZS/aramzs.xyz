@@ -8,7 +8,7 @@ slug: >-
   2024-01-24-lotame-syncs-with-trade-desks-unified-id-20-as-cookie-deprecation-begins
 tags:
   - ad tech
-  - tech
+  - Tech
 title: 'Lotame syncs with Trade Desk’s Unified ID 2.0 as cookie deprecation begins '
 ---
 

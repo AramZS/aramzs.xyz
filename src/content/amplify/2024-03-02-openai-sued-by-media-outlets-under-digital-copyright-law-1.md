@@ -8,7 +8,7 @@ slug: 2024-03-02-openai-sued-by-media-outlets-under-digital-copyright-law-1
 tags:
   - ai
   - journalism
-  - tech
+  - Tech
 title: OpenAI Sued by Media Outlets Under Digital Copyright Law (1)
 ---
 

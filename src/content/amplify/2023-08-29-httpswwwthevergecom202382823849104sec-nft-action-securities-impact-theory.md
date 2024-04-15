@@ -8,7 +8,7 @@ slug: >-
   2023-08-29-httpswwwthevergecom202382823849104sec-nft-action-securities-impact-theory
 tags:
   - crypto currency
-  - tech
+  - Tech
 title: >-
   https://www.theverge.com/2023/8/28/23849104/sec-nft-action-securities-impact-theory
 ---

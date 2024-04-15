@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ethics
   - race
-  - tech
+  - Tech
 title: Ratings Systems Amplify Racial Bias on Gig-Economy Platforms | Yale Insight
 ---
 

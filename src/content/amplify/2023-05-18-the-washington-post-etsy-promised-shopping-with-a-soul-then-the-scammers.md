@@ -6,7 +6,7 @@ slug: >-
   2023-05-18-the-washington-post-etsy-promised-shopping-with-a-soul-then-the-scammers
 tags:
   - ad tech
-  - tech
+  - Tech
 title: '[The Washington Post] Etsy promised shopping with a soul. Then the scammers'
 ---
 

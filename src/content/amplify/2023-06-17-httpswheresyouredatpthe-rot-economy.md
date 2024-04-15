@@ -5,7 +5,7 @@ link: 'https://wheresyoured.at/p/the-rot-economy'
 slug: 2023-06-17-httpswheresyouredatpthe-rot-economy
 tags:
   - economy
-  - tech
+  - Tech
 title: 'https://wheresyoured.at/p/the-rot-economy'
 ---
 

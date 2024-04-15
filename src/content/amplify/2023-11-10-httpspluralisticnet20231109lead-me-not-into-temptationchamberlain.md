@@ -4,7 +4,7 @@ isBasedOn: 'https://pluralistic.net/2023/11/09/lead-me-not-into-temptation/#cham
 link: 'https://pluralistic.net/2023/11/09/lead-me-not-into-temptation/#chamberlain'
 slug: 2023-11-10-httpspluralisticnet20231109lead-me-not-into-temptationchamberlain
 tags:
-  - tech
+  - Tech
 title: 'https://pluralistic.net/2023/11/09/lead-me-not-into-temptation/#chamberlain'
 ---
 

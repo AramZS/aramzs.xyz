@@ -6,7 +6,7 @@ slug: >-
   2023-03-14-snapchat-tried-to-make-a-safe-ai-but-tests-reveal-its-conversations-can-be
 tags:
   - ai
-  - tech
+  - Tech
 title: Snapchat tried to make a safe AI. But tests reveal its conversations can be
 ---
 

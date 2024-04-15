@@ -5,7 +5,7 @@ link: 'https://noahberlatsky.substack.com/p/substack-admits-to-sweeping-ignoranc
 slug: 2023-04-22-httpsnoahberlatskysubstackcompsubstack-admits-to-sweeping-ignorance
 tags:
   - social media
-  - tech
+  - Tech
 title: 'https://noahberlatsky.substack.com/p/substack-admits-to-sweeping-ignorance'
 ---
 

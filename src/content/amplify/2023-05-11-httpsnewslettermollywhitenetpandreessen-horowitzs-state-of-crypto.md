@@ -4,7 +4,7 @@ isBasedOn: 'https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-cr
 link: 'https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-crypto'
 slug: 2023-05-11-httpsnewslettermollywhitenetpandreessen-horowitzs-state-of-crypto
 tags:
-  - tech
+  - Tech
   - web3
 title: 'https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-crypto'
 ---

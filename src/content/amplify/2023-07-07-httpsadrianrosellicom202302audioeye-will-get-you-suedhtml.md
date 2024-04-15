@@ -4,7 +4,7 @@ isBasedOn: 'https://adrianroselli.com/2023/02/audioeye-will-get-you-sued.html'
 link: 'https://adrianroselli.com/2023/02/audioeye-will-get-you-sued.html'
 slug: 2023-07-07-httpsadrianrosellicom202302audioeye-will-get-you-suedhtml
 tags:
-  - tech
+  - Tech
 title: 'https://adrianroselli.com/2023/02/audioeye-will-get-you-sued.html'
 ---
 

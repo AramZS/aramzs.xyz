@@ -7,7 +7,7 @@ link: >-
 slug: 2023-09-23-the-ai-chatbot-assistants-are-here-do-we-want-them
 tags:
   - ai
-  - tech
+  - Tech
 title: The AI Chatbot Assistants Are Here. Do We Want Them?
 ---
 

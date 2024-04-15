@@ -8,7 +8,7 @@ slug: >-
   2023-10-03-predictive-policing-software-terrible-at-predicting-crimes-the-markup
 tags:
   - ai
-  - tech
+  - Tech
 title: Predictive Policing Software Terrible At Predicting Crimes – The Markup
 ---
 

@@ -5,7 +5,7 @@ link: 'https://www.404media.co/mastodon-is-the-good-one/'
 slug: 2023-10-20-httpswww404mediacomastodon-is-the-good-one
 tags:
   - social media
-  - tech
+  - Tech
 title: 'https://www.404media.co/mastodon-is-the-good-one/'
 ---
 

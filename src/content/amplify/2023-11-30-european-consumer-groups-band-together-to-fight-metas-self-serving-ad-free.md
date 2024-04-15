@@ -7,7 +7,7 @@ slug: >-
 tags:
   - eu
   - Privacy
-  - tech
+  - Tech
 title: European consumer groups band together to fight Meta’s self-serving ad-free
 ---
 

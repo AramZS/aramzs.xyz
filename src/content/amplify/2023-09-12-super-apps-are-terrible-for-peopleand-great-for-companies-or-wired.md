@@ -6,7 +6,7 @@ slug: 2023-09-12-super-apps-are-terrible-for-peopleand-great-for-companies-or-wi
 tags:
   - ad tech
   - Privacy
-  - tech
+  - Tech
 title: Super Apps Are Terrible for People—and Great for Companies | WIRED
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-11-07-youtube-to-test-generative-ai-features-including-a-comments-summarizer-and
 tags:
   - ai
-  - tech
+  - Tech
 title: 'YouTube to test generative AI features, including a comments summarizer and'
 ---
 

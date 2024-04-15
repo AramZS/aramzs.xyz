@@ -4,7 +4,7 @@ isBasedOn: 'https://www.w3.org/TR/turingtest/'
 link: 'https://www.w3.org/TR/turingtest/'
 slug: 2023-05-04-inaccessibility-of-captcha
 tags:
-  - tech
+  - Tech
 title: Inaccessibility of CAPTCHA
 ---
 

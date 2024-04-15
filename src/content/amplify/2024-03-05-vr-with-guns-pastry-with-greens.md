@@ -5,7 +5,7 @@ link: 'https://flaminghydra.com/issue-26/'
 slug: 2024-03-05-vr-with-guns-pastry-with-greens
 tags:
   - culture
-  - tech
+  - Tech
 title: VR with guns / Pastry with greens
 ---
 

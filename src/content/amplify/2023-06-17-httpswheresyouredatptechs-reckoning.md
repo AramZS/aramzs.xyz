@@ -4,7 +4,7 @@ isBasedOn: 'https://wheresyoured.at/p/techs-reckoning'
 link: 'https://wheresyoured.at/p/techs-reckoning'
 slug: 2023-06-17-httpswheresyouredatptechs-reckoning
 tags:
-  - tech
+  - Tech
 title: 'https://wheresyoured.at/p/techs-reckoning'
 ---
 

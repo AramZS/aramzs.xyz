@@ -5,7 +5,7 @@ link: 'https://mobiledevmemo.com/lose-lose/'
 slug: 2023-03-05-httpsmobiledevmemocomlose-lose
 tags:
   - ad tech
-  - tech
+  - Tech
 title: 'https://mobiledevmemo.com/lose-lose/'
 ---
 

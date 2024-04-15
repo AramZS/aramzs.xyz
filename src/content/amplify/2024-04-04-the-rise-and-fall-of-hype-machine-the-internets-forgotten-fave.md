@@ -8,7 +8,7 @@ slug: 2024-04-04-the-rise-and-fall-of-hype-machine-the-internets-forgotten-fave
 tags:
   - Music
   - social media
-  - tech
+  - Tech
 title: 'The Rise and Fall of Hype Machine, the Internet''s Forgotten Fave'
 ---
 

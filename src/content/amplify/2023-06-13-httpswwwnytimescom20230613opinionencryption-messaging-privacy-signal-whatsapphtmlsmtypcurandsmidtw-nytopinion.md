@@ -8,7 +8,7 @@ slug: >-
   2023-06-13-httpswwwnytimescom20230613opinionencryption-messaging-privacy-signal-whatsapphtmlsmtypcurandsmidtw-nytopinion
 tags:
   - Privacy
-  - tech
+  - Tech
 title: >-
   https://www.nytimes.com/2023/06/13/opinion/encryption-messaging-privacy-signal-whatsapp.html?smtyp=cur&smid=tw-nytopinion
 ---

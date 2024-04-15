@@ -8,7 +8,7 @@ slug: >-
   2023-08-28-httpswwwlightreadingcombroadbandyoutube-tv-urged-to-drop-dollar600-less-than-cable-ad-claimdd-id786211
 tags:
   - entertainment
-  - tech
+  - Tech
 title: >-
   https://www.lightreading.com/broadband/youtube-tv-urged-to-drop-$600-less-than-cable-ad-claim/d/d-id/786211
 ---

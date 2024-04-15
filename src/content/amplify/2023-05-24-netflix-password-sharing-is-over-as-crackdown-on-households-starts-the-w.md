@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-24-netflix-password-sharing-is-over-as-crackdown-on-households-starts-the-w
 tags:
-  - tech
+  - Tech
 title: 'Netflix password sharing is over, as crackdown on households starts - The W'
 ---
 

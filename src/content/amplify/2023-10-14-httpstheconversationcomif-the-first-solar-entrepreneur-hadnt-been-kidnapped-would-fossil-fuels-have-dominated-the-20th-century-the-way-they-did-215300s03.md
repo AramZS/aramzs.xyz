@@ -9,7 +9,7 @@ slug: >-
 tags:
   - climate
   - History
-  - tech
+  - Tech
 title: >-
   https://theconversation.com/if-the-first-solar-entrepreneur-hadnt-been-kidnapped-would-fossil-fuels-have-dominated-the-20th-century-the-way-they-did-215300?s=03
 ---

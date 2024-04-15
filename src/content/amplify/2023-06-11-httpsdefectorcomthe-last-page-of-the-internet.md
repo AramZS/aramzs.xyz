@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/the-last-page-of-the-internet'
 link: 'https://defector.com/the-last-page-of-the-internet'
 slug: 2023-06-11-httpsdefectorcomthe-last-page-of-the-internet
 tags:
-  - tech
+  - Tech
 title: 'https://defector.com/the-last-page-of-the-internet'
 ---
 

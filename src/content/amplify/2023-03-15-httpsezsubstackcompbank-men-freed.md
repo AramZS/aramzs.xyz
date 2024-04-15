@@ -5,7 +5,7 @@ link: 'https://ez.substack.com/p/bank-men-freed'
 slug: 2023-03-15-httpsezsubstackcompbank-men-freed
 tags:
   - business
-  - tech
+  - Tech
 title: 'https://ez.substack.com/p/bank-men-freed'
 ---
 

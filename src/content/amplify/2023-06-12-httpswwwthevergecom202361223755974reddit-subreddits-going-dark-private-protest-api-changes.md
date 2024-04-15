@@ -8,7 +8,7 @@ slug: >-
   2023-06-12-httpswwwthevergecom202361223755974reddit-subreddits-going-dark-private-protest-api-changes
 tags:
   - ai
-  - tech
+  - Tech
 title: >-
   https://www.theverge.com/2023/6/12/23755974/reddit-subreddits-going-dark-private-protest-api-changes
 ---

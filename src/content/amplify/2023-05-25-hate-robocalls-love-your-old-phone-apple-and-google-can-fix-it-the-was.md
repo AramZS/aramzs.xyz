@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-25-hate-robocalls-love-your-old-phone-apple-and-google-can-fix-it-the-was
 tags:
-  - tech
+  - Tech
 title: Hate robocalls? Love your old phone? Apple and Google can fix it. - The Was
 ---
 

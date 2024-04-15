@@ -10,7 +10,7 @@ tags:
   - ad tech
   - business
   - social media
-  - tech
+  - Tech
 title: >-
   https://www.nbcnews.com/tech/tiktok-for-good-docuseries-small-businesses-rcna74925
 ---

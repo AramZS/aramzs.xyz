@@ -8,7 +8,7 @@ slug: >-
   2023-09-25-antitrust-lawsuit-against-google-who-exactly-is-the-search-giant-hurting
 tags:
   - law and order
-  - tech
+  - Tech
 title: 'Antitrust lawsuit against Google: Who exactly is the search giant hurting?'
 ---
 

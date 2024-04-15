@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-08-httpsgizmodocomone-mans-nearly-impossible-quest-to-make-a-toaster-from-5794368
 tags:
-  - tech
+  - Tech
 title: >-
   https://gizmodo.com/one-mans-nearly-impossible-quest-to-make-a-toaster-from-5794368
 ---

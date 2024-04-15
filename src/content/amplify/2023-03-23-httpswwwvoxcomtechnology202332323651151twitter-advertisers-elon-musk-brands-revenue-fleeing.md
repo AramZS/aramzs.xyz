@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ad tech
   - social media
-  - tech
+  - Tech
 title: >-
   https://www.vox.com/technology/2023/3/23/23651151/twitter-advertisers-elon-musk-brands-revenue-fleeing
 ---

@@ -5,7 +5,7 @@ link: 'https://www.wired.com/story/matt-walsh-twitter-hack-doomed/'
 slug: 2023-04-19-httpswwwwiredcomstorymatt-walsh-twitter-hack-doomed
 tags:
   - social media
-  - tech
+  - Tech
 title: 'https://www.wired.com/story/matt-walsh-twitter-hack-doomed/'
 ---
 

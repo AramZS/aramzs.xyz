@@ -4,7 +4,7 @@ isBasedOn: 'https://communityrule.info/about/'
 link: 'https://communityrule.info/about/'
 slug: 2023-03-24-about-communityrule
 tags:
-  - tech
+  - Tech
 title: About / CommunityRule
 ---
 

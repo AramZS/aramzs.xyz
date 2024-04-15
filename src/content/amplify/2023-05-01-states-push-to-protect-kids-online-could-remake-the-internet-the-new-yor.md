@@ -11,7 +11,7 @@ tags:
   - law and order
   - Privacy
   - social media
-  - tech
+  - Tech
 title: States’ Push to Protect Kids Online Could Remake the Internet - The New Yor
 ---
 

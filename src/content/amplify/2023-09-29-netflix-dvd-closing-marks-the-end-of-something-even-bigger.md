@@ -6,7 +6,7 @@ link: >-
   https://slate.com/culture/2023/09/netflix-dvd-rental-service-ending-movies-queue.html
 slug: 2023-09-29-netflix-dvd-closing-marks-the-end-of-something-even-bigger
 tags:
-  - tech
+  - Tech
 title: Netflix DVD closing marks the end of something even bigger.
 ---
 

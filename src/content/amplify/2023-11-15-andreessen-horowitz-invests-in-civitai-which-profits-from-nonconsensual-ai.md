@@ -8,7 +8,7 @@ slug: >-
   2023-11-15-andreessen-horowitz-invests-in-civitai-which-profits-from-nonconsensual-ai
 tags:
   - ai
-  - tech
+  - Tech
 title: 'Andreessen Horowitz Invests in Civitai, Which Profits From Nonconsensual AI'
 ---
 

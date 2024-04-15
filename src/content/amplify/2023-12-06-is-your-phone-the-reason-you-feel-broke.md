@@ -7,7 +7,7 @@ link: >-
 slug: 2023-12-06-is-your-phone-the-reason-you-feel-broke
 tags:
   - economy
-  - tech
+  - Tech
 title: Is Your Phone the Reason You Feel Broke?
 ---
 

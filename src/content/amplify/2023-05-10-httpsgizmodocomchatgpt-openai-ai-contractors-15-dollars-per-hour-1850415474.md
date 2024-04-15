@@ -8,7 +8,7 @@ slug: >-
   2023-05-10-httpsgizmodocomchatgpt-openai-ai-contractors-15-dollars-per-hour-1850415474
 tags:
   - ai
-  - tech
+  - Tech
 title: >-
   https://gizmodo.com/chatgpt-openai-ai-contractors-15-dollars-per-hour-1850415474
 ---

@@ -9,7 +9,7 @@ slug: >-
 tags:
   - politics
   - social media
-  - tech
+  - Tech
 title: '[The Washington Post] Following Elon Musk’s lead, Big Tech is surrendering '
 ---
 

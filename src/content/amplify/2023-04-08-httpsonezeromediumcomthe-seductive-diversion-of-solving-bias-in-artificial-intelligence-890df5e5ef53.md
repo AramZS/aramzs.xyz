@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-08-httpsonezeromediumcomthe-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53
 tags:
-  - tech
+  - Tech
 title: >-
   https://onezero.medium.com/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53
 ---

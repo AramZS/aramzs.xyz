@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-12-httpswwwinversecominputreviewsis-samsung-galaxy-s21-ultra-using-ai-to-fake-detailed-moon-photos-investigation-super-resolution-analysis
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.inverse.com/input/reviews/is-samsung-galaxy-s21-ultra-using-ai-to-fake-detailed-moon-photos-investigation-super-resolution-analysis
 ---

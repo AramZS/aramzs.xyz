@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-07-httpsstackdiarycomzoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out
 tags:
-  - tech
+  - Tech
 title: >-
   https://stackdiary.com/zoom-terms-now-allow-training-ai-on-user-content-with-no-opt-out/
 ---

@@ -8,7 +8,7 @@ slug: >-
   2023-11-10-httpsarstechnicacomgadgets202311tumblr-is-reportedly-on-life-support-as-its-latest-owner-reassigns-staff
 tags:
   - social media
-  - tech
+  - Tech
 title: >-
   https://arstechnica.com/gadgets/2023/11/tumblr-is-reportedly-on-life-support-as-its-latest-owner-reassigns-staff/
 ---

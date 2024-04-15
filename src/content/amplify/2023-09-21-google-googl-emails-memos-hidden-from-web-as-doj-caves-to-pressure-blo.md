@@ -9,7 +9,7 @@ slug: >-
 tags:
   - antitrust
   - law and order
-  - tech
+  - Tech
 title: 'Google (GOOGL) Emails, Memos Hidden From Web as DOJ Caves to Pressure - Blo'
 ---
 

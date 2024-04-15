@@ -5,7 +5,7 @@ link: 'https://defector.com/online-is-what-you-make-of-it'
 slug: 2023-02-23-httpsdefectorcomonline-is-what-you-make-of-it
 tags:
   - culture
-  - tech
+  - Tech
 title: 'https://defector.com/online-is-what-you-make-of-it'
 ---
 

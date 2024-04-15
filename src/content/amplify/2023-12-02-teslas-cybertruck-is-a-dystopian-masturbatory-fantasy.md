@@ -7,7 +7,7 @@ link: >-
 slug: 2023-12-02-teslas-cybertruck-is-a-dystopian-masturbatory-fantasy
 tags:
   - cars
-  - tech
+  - Tech
 title: 'Tesla''s Cybertruck is a dystopian, masturbatory fantasy'
 ---
 

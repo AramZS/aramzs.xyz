@@ -6,7 +6,7 @@ slug: 2024-01-17-httpswerdio2024the-fediverse-for-media-organizations
 tags:
   - code
   - media
-  - tech
+  - Tech
 title: 'https://werd.io/2024/the-fediverse-for-media-organizations'
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-06-18-federation-is-pretty-cool-but-kinda-confusing-and-maybe-a-little-scary
 tags:
   - social media
-  - tech
+  - Tech
 title: 'Federation is pretty cool, but kinda confusing, and maybe a little scary – '
 ---
 

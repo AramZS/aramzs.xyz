@@ -4,7 +4,7 @@ isBasedOn: 'https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-
 link: 'https://www.wired.com/story/neuralink-uc-davis-monkey-photos-videos-secret/'
 slug: 2023-10-04-how-neuralink-keeps-dead-monkey-photos-secret-or-wired
 tags:
-  - tech
+  - Tech
 title: How Neuralink Keeps Dead Monkey Photos Secret | WIRED
 ---
 

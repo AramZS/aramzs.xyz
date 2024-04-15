@@ -8,7 +8,7 @@ slug: >-
   2023-03-05-httpsnymagcomintelligencerarticleai-artificial-intelligence-chatbots-emily-m-benderhtml
 tags:
   - ai
-  - tech
+  - Tech
 title: >-
   https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html
 ---

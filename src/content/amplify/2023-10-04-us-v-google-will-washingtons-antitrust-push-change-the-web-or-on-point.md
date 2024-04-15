@@ -8,7 +8,7 @@ slug: >-
   2023-10-04-us-v-google-will-washingtons-antitrust-push-change-the-web-or-on-point
 tags:
   - antitrust
-  - tech
+  - Tech
 title: 'U.S. v. Google: Will Washington’s antitrust push change the web? | On Point'
 ---
 

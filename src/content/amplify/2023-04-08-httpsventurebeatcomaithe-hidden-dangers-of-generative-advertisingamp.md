@@ -5,7 +5,7 @@ link: 'https://venturebeat.com/ai/the-hidden-dangers-of-generative-advertising/a
 slug: >-
   2023-04-08-httpsventurebeatcomaithe-hidden-dangers-of-generative-advertisingamp
 tags:
-  - tech
+  - Tech
 title: 'https://venturebeat.com/ai/the-hidden-dangers-of-generative-advertising/amp/'
 ---
 

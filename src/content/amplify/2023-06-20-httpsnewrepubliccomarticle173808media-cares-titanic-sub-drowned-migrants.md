@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-20-httpsnewrepubliccomarticle173808media-cares-titanic-sub-drowned-migrants
 tags:
-  - tech
+  - Tech
 title: >-
   https://newrepublic.com/article/173808/media-cares-titanic-sub-drowned-migrants
 ---

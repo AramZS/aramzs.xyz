@@ -5,7 +5,7 @@ link: 'https://www.washingtonpost.com/technology/2023/02/24/apps-subscription-co
 slug: 2023-02-28-why-it-might-cost-more-money-to-buy-from-apps-the-washington-post
 tags:
   - end the app
-  - tech
+  - Tech
 title: Why it might cost more money to buy from apps - The Washington Post
 ---
 

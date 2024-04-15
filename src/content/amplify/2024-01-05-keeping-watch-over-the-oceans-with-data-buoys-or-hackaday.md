@@ -6,7 +6,7 @@ slug: 2024-01-05-keeping-watch-over-the-oceans-with-data-buoys-or-hackaday
 tags:
   - climate
   - entertainment
-  - tech
+  - Tech
 title: Keeping Watch Over The Oceans With Data Buoys | Hackaday
 ---
 

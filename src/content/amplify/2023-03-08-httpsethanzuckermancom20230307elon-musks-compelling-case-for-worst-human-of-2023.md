@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-08-httpsethanzuckermancom20230307elon-musks-compelling-case-for-worst-human-of-2023
 tags:
-  - tech
+  - Tech
 title: >-
   https://ethanzuckerman.com/2023/03/07/elon-musks-compelling-case-for-worst-human-of-2023/
 ---

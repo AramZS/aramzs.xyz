@@ -4,7 +4,7 @@ isBasedOn: 'https://newsletter.shifthappens.site/archive/the-monkey-lives/'
 link: 'https://newsletter.shifthappens.site/archive/the-monkey-lives/'
 slug: 2024-02-14-the-monkey-lives
 tags:
-  - tech
+  - Tech
 title: The monkey lives
 ---
 

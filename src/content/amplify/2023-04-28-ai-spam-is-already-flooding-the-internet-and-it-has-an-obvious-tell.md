@@ -7,7 +7,7 @@ link: >-
 slug: 2023-04-28-ai-spam-is-already-flooding-the-internet-and-it-has-an-obvious-tell
 tags:
   - ai
-  - tech
+  - Tech
 title: AI Spam Is Already Flooding the Internet and It Has an Obvious Tell
 ---
 

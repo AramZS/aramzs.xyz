@@ -8,7 +8,7 @@ slug: >-
   2023-11-07-barack-obama-on-ai-free-speech-and-the-future-of-the-internet-the-verge
 tags:
   - ai
-  - tech
+  - Tech
 title: 'Barack Obama on AI, free speech, and the future of the internet - The Verge'
 ---
 

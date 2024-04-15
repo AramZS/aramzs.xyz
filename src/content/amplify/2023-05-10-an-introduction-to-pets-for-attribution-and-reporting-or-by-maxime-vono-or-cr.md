@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ad tech
   - Privacy
-  - tech
+  - Tech
 title: An Introduction to PETs for Attribution and Reporting | by Maxime Vono | Cr
 ---
 

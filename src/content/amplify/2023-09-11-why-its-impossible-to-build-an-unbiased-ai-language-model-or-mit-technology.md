@@ -10,7 +10,7 @@ tags:
   - ai
   - politics
   - race
-  - tech
+  - Tech
 title: Why it’s impossible to build an unbiased AI language model | MIT Technology
 ---
 

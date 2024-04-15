@@ -8,7 +8,7 @@ slug: >-
   2023-04-04-automated-decision-making-and-profiling-are-not-new-issues-the-informatio
 tags:
   - Privacy
-  - tech
+  - Tech
 title: Automated Decision-Making and Profiling are Not New Issues - The Informatio
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-29-in-the-presence-of-new-rationale-good-maintainers-change-their-mind-often
 tags:
-  - tech
+  - Tech
 title: 'In the Presence of New Rationale, Good Maintainers Change Their Mind Often '
 ---
 

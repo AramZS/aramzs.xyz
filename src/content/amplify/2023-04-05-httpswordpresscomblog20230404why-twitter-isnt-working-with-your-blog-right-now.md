@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-05-httpswordpresscomblog20230404why-twitter-isnt-working-with-your-blog-right-now
 tags:
-  - tech
+  - Tech
 title: >-
   https://wordpress.com/blog/2023/04/04/why-twitter-isnt-working-with-your-blog-right-now/
 ---

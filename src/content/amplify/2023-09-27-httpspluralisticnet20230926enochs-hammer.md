@@ -5,7 +5,7 @@ link: 'https://pluralistic.net/2023/09/26/enochs-hammer/'
 slug: 2023-09-27-httpspluralisticnet20230926enochs-hammer
 tags:
   - ai
-  - tech
+  - Tech
 title: 'https://pluralistic.net/2023/09/26/enochs-hammer/'
 ---
 

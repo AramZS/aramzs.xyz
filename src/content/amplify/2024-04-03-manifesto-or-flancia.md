@@ -4,7 +4,7 @@ isBasedOn: 'https://flancia.org/manifesto/'
 link: 'https://flancia.org/manifesto/'
 slug: 2024-04-03-manifesto-or-flancia
 tags:
-  - tech
+  - Tech
 title: Manifesto | Flancia
 ---
 

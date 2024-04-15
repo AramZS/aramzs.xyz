@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-07-tesla-hacker-discovers-secret-elon-mode-for-hands-free-full-self-driving
 tags:
-  - tech
+  - Tech
 title: 'Tesla hacker discovers secret ‘Elon Mode’ for hands-free Full Self-Driving '
 ---
 

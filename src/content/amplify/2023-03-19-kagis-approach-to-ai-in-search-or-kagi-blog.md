@@ -5,7 +5,7 @@ link: 'https://blog.kagi.com/kagi-ai-search'
 slug: 2023-03-19-kagis-approach-to-ai-in-search-or-kagi-blog
 tags:
   - ai
-  - tech
+  - Tech
 title: Kagi's approach to AI in search | Kagi Blog
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: 2023-09-28-inside-sam-bankman-frieds-family-bubble-or-the-new-yorker
 tags:
   - crypto currency
-  - tech
+  - Tech
   - web3
 title: Inside Sam Bankman-Fried’s Family Bubble | The New Yorker
 ---

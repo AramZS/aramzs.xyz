@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-30-mirror-mirror-on-the-wall-whos-the-prettiest-spotify-wrapped-of-them-all
 tags:
-  - tech
+  - Tech
 title: 'Mirror, Mirror On The Wall, Who''s The Prettiest Spotify Wrapped Of Them All'
 ---
 

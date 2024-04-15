@@ -8,7 +8,7 @@ slug: >-
   2024-02-07-deepfake-video-conference-call-costs-company-millions-or-huffpost-latest-new
 tags:
   - ai
-  - tech
+  - Tech
 title: Deepfake Video Conference Call Costs Company Millions | HuffPost Latest New
 ---
 

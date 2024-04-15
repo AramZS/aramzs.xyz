@@ -5,7 +5,7 @@ link: 'https://www.wired.com/story/cyberintimacy-covid-health/'
 slug: 2023-02-25-httpswwwwiredcomstorycyberintimacy-covid-health
 tags:
   - health
-  - tech
+  - Tech
 title: 'https://www.wired.com/story/cyberintimacy-covid-health/'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-22-httpswwwthevergecom202342123691840us-pirg-education-fund-report-investigation-chromebook-churn
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.theverge.com/2023/4/21/23691840/us-pirg-education-fund-report-investigation-chromebook-churn
 ---

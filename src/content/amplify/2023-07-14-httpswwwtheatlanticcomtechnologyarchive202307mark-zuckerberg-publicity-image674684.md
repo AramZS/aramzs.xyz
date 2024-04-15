@@ -8,7 +8,7 @@ slug: >-
   2023-07-14-httpswwwtheatlanticcomtechnologyarchive202307mark-zuckerberg-publicity-image674684
 tags:
   - culture
-  - tech
+  - Tech
 title: >-
   https://www.theatlantic.com/technology/archive/2023/07/mark-zuckerberg-publicity-image/674684/
 ---

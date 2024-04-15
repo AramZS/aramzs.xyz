@@ -8,7 +8,7 @@ slug: >-
   2023-06-09-httpsgrumpyoldwomancodeswe-need-to-talk-about-accessibility-again-and-again-and-then-some-more
 tags:
   - code
-  - tech
+  - Tech
 title: >-
   https://grumpyoldwoman.codes/we-need-to-talk-about-accessibility-again-and-again-and-then-some-more/
 ---

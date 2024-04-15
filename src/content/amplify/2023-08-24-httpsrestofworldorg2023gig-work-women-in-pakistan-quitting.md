@@ -5,7 +5,7 @@ link: 'https://restofworld.org/2023/gig-work-women-in-pakistan-quitting/'
 slug: 2023-08-24-httpsrestofworldorg2023gig-work-women-in-pakistan-quitting
 tags:
   - labor
-  - tech
+  - Tech
 title: 'https://restofworld.org/2023/gig-work-women-in-pakistan-quitting/'
 ---
 

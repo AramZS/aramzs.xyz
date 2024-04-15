@@ -4,7 +4,7 @@ isBasedOn: 'https://tedium.co/2023/08/30/apple-lightning-going-away/'
 link: 'https://tedium.co/2023/08/30/apple-lightning-going-away/'
 slug: 2023-08-30-will-lightnings-demise-mean-the-end-of-proprietary-connectors
 tags:
-  - tech
+  - Tech
 title: Will Lightning’s Demise Mean The End Of Proprietary Connectors?
 ---
 

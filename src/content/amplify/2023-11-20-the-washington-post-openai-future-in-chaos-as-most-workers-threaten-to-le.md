@@ -8,7 +8,7 @@ slug: >-
   2023-11-20-the-washington-post-openai-future-in-chaos-as-most-workers-threaten-to-le
 tags:
   - ai
-  - tech
+  - Tech
 title: '[The Washington Post] OpenAI future in chaos as most workers threaten to le'
 ---
 

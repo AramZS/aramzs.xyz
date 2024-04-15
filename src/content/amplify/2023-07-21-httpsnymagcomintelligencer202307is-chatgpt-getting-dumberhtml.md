@@ -5,7 +5,7 @@ link: 'https://nymag.com/intelligencer/2023/07/is-chatgpt-getting-dumber.html'
 slug: 2023-07-21-httpsnymagcomintelligencer202307is-chatgpt-getting-dumberhtml
 tags:
   - ai
-  - tech
+  - Tech
 title: 'https://nymag.com/intelligencer/2023/07/is-chatgpt-getting-dumber.html'
 ---
 

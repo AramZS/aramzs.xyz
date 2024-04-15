@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-23-here-are-the-documents-the-google-antitrust-trial-judge-didnt-want-you-to
 tags:
-  - tech
+  - Tech
 title: "Here are the documents the Google antitrust trial judge\_didn’t\_want you to "
 ---
 

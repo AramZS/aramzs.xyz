@@ -7,7 +7,7 @@ link: >-
 slug: 2023-06-15-reddit-ceo-warns-employees-not-to-wear-reddit-swag-amid-blackout
 tags:
   - social media
-  - tech
+  - Tech
 title: Reddit CEO Warns Employees Not to Wear Reddit Swag Amid Blackout
 ---
 

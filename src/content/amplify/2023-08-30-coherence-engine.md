@@ -7,7 +7,7 @@ link: >-
 slug: 2023-08-30-coherence-engine
 tags:
   - governance
-  - tech
+  - Tech
 title: Coherence Engine
 ---
 

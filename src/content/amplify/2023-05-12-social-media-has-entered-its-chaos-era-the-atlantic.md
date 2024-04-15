@@ -9,7 +9,7 @@ tags:
   - decentralization
   - History
   - social media
-  - tech
+  - Tech
   - web3
 title: Social Media Has Entered Its Chaos Era - The Atlantic
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-12-18-how-elon-musk-is-trying-to-make-web-scraping-dangerous-again-the-markup
 tags:
-  - tech
+  - Tech
 title: How Elon Musk Is Trying To Make Web Scraping Dangerous Again – The Markup
 ---
 

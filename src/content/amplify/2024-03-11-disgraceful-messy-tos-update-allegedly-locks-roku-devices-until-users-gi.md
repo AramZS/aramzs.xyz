@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-11-disgraceful-messy-tos-update-allegedly-locks-roku-devices-until-users-gi
 tags:
-  - tech
+  - Tech
 title: '“Disgraceful”: Messy ToS update allegedly locks Roku devices until users gi'
 ---
 

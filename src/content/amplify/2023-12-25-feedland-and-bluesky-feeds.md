@@ -5,7 +5,7 @@ link: 'http://scripting.com/2023/12/23/141939.html?title=feedlandAndBlueskyFeeds
 slug: 2023-12-25-feedland-and-bluesky-feeds
 tags:
   - social media
-  - tech
+  - Tech
 title: FeedLand and Bluesky feeds
 ---
 

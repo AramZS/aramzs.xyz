@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-06-oregon-passes-bill-that-would-make-iphones-more-repairable-everywhere
 tags:
-  - tech
+  - Tech
 title: Oregon Passes Bill That Would Make iPhones More Repairable Everywhere
 ---
 

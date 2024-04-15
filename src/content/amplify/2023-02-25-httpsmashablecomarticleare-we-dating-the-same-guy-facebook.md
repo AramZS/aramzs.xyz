@@ -5,7 +5,7 @@ link: 'https://mashable.com/article/are-we-dating-the-same-guy-facebook'
 slug: 2023-02-25-httpsmashablecomarticleare-we-dating-the-same-guy-facebook
 tags:
   - culture
-  - tech
+  - Tech
 title: 'https://mashable.com/article/are-we-dating-the-same-guy-facebook'
 ---
 

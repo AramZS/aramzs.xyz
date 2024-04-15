@@ -6,7 +6,7 @@ link: >-
   https://www.technologyreview.com/2023/10/17/1081194/how-to-fix-the-internet-online-discourse/
 slug: 2023-10-18-how-to-fix-the-internet-or-mit-technology-review
 tags:
-  - tech
+  - Tech
 title: How to fix the internet | MIT Technology Review
 ---
 

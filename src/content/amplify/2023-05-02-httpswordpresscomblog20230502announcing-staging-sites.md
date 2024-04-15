@@ -4,7 +4,7 @@ isBasedOn: 'https://wordpress.com/blog/2023/05/02/announcing-staging-sites/'
 link: 'https://wordpress.com/blog/2023/05/02/announcing-staging-sites/'
 slug: 2023-05-02-httpswordpresscomblog20230502announcing-staging-sites
 tags:
-  - tech
+  - Tech
 title: 'https://wordpress.com/blog/2023/05/02/announcing-staging-sites/'
 ---
 

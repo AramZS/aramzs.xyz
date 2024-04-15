@@ -5,7 +5,7 @@ link: 'https://aaron.jorb.in/transparent-salaries-in-wordpress/'
 slug: 2023-10-30-transparent-salaries-in-wordpress-aaron-jorbin
 tags:
   - labor
-  - tech
+  - Tech
 title: Transparent Salaries in WordPress - Aaron Jorbin
 ---
 

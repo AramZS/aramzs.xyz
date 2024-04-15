@@ -6,7 +6,7 @@ slug: 2023-08-18-big-techs-waste-solutions-are-a-scam-or-the-new-republic
 tags:
   - climate
   - politics
-  - tech
+  - Tech
 title: Big Tech’s Waste “Solutions” Are a Scam | The New Republic
 ---
 

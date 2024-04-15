@@ -6,7 +6,7 @@ link: >-
   https://www.theatlantic.com/technology/archive/2023/09/elon-musk-walter-isaacson-biography/675277/
 slug: 2023-09-12-will-anyone-ever-make-sense-of-elon-musk-the-atlantic
 tags:
-  - tech
+  - Tech
 title: Will Anyone Ever Make Sense of Elon Musk? - The Atlantic
 ---
 

@@ -5,7 +5,7 @@ link: 'https://bmann.ca/bluesky-and-domains/'
 slug: 2023-03-07-bluesky-and-domain-names-as-handles
 tags:
   - decentralization
-  - tech
+  - Tech
 title: Bluesky and Domain Names as Handles
 ---
 

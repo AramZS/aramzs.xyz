@@ -6,7 +6,7 @@ slug: >-
   2024-01-16-is-your-local-police-department-using-fusus-ai-enabled-cameras-find-out-he
 tags:
   - Privacy
-  - tech
+  - Tech
 title: Is Your Local Police Department Using Fusus AI-Enabled Cameras? Find Out He
 ---
 

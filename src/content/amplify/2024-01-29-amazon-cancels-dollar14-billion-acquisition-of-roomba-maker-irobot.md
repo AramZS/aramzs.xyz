@@ -4,7 +4,7 @@ isBasedOn: 'https://www.axios.com/2024/01/29/amazon-irobot-roomba-deal-antitrust
 link: 'https://www.axios.com/2024/01/29/amazon-irobot-roomba-deal-antitrust'
 slug: 2024-01-29-amazon-cancels-dollar14-billion-acquisition-of-roomba-maker-irobot
 tags:
-  - tech
+  - Tech
 title: Amazon cancels $1.4 billion acquisition of Roomba maker iRobot
 ---
 

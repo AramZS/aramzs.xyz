@@ -5,7 +5,7 @@ link: 'https://restofworld.org/2023/techs-bad-year-h1b-visa-layoffs/'
 slug: 2023-03-14-httpsrestofworldorg2023techs-bad-year-h1b-visa-layoffs
 tags:
   - labor
-  - tech
+  - Tech
 title: 'https://restofworld.org/2023/techs-bad-year-h1b-visa-layoffs/'
 ---
 

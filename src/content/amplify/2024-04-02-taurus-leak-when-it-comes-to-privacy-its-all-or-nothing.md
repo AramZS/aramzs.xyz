@@ -8,7 +8,7 @@ slug: 2024-04-02-taurus-leak-when-it-comes-to-privacy-its-all-or-nothing
 tags:
   - Privacy
   - Privacy labor
-  - tech
+  - Tech
 title: 'Taurus leak: When it comes to privacy, it’s all or nothing'
 ---
 

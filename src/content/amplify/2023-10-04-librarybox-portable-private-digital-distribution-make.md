@@ -5,7 +5,7 @@ link: 'https://makezine.com/projects/librarybox/'
 slug: 2023-10-04-librarybox-portable-private-digital-distribution-make
 tags:
   - Archiving
-  - tech
+  - Tech
 title: 'LibraryBox: Portable Private Digital Distribution - Make:'
 ---
 

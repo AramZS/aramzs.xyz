@@ -8,7 +8,7 @@ slug: >-
   2023-05-22-there-was-all-sorts-of-toxic-behaviour-timnit-gebru-on-her-sacking-by-go
 tags:
   - ai
-  - tech
+  - Tech
 title: '‘There was all sorts of toxic behaviour’: Timnit Gebru on her sacking by Go'
 ---
 

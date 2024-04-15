@@ -8,7 +8,7 @@ slug: 2024-01-12-what-i-learned-selling-a-used-pencil-on-tiktok-shop
 tags:
   - business
   - social media
-  - tech
+  - Tech
 title: What I Learned Selling a Used Pencil on TikTok Shop
 ---
 

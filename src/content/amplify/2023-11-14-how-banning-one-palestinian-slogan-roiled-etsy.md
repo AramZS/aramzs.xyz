@@ -5,7 +5,7 @@ link: 'https://www.platformer.news/p/how-banning-one-palestinian-slogan'
 slug: 2023-11-14-how-banning-one-palestinian-slogan-roiled-etsy
 tags:
   - israel
-  - tech
+  - Tech
 title: How banning one Palestinian slogan roiled Etsy
 ---
 

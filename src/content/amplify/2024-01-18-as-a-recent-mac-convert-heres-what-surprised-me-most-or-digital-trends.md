@@ -5,7 +5,7 @@ link: 'https://www.digitaltrends.com/computing/recent-mac-convert-what-surprised
 slug: >-
   2024-01-18-as-a-recent-mac-convert-heres-what-surprised-me-most-or-digital-trends
 tags:
-  - tech
+  - Tech
 title: 'As a recent Mac convert, here''s what surprised me most | Digital Trends'
 ---
 

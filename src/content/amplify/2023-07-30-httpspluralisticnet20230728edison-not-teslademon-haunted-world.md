@@ -4,7 +4,7 @@ isBasedOn: 'https://pluralistic.net/2023/07/28/edison-not-tesla/#demon-haunted-w
 link: 'https://pluralistic.net/2023/07/28/edison-not-tesla/#demon-haunted-world'
 slug: 2023-07-30-httpspluralisticnet20230728edison-not-teslademon-haunted-world
 tags:
-  - tech
+  - Tech
 title: 'https://pluralistic.net/2023/07/28/edison-not-tesla/#demon-haunted-world'
 ---
 

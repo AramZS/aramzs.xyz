@@ -5,7 +5,7 @@ link: 'https://a16z.com/the-techno-optimist-manifesto/'
 slug: 2023-10-16-the-techno-optimist-manifesto-or-andreessen-horowitz
 tags:
   - ethics
-  - tech
+  - Tech
 title: The Techno-Optimist Manifesto | Andreessen Horowitz
 ---
 

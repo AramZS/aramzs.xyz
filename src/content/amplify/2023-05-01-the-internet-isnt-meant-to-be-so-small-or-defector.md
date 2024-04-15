@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/the-internet-isnt-meant-to-be-so-small'
 link: 'https://defector.com/the-internet-isnt-meant-to-be-so-small'
 slug: 2023-05-01-the-internet-isnt-meant-to-be-so-small-or-defector
 tags:
-  - tech
+  - Tech
 title: The Internet Isn't Meant To Be So Small | Defector
 ---
 

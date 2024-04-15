@@ -5,7 +5,7 @@ link: 'https://ron.stoner.com/nostr_Security_and_Privacy/'
 slug: 2023-04-08-httpsronstonercomnostrsecurityandprivacy
 tags:
   - social media
-  - tech
+  - Tech
 title: 'https://ron.stoner.com/nostr_Security_and_Privacy/'
 ---
 

@@ -5,7 +5,7 @@ link: 'https://adrianroselli.com/2023/05/audioeye-is-suing-me.html#Response'
 slug: 2023-07-07-httpsadrianrosellicom202305audioeye-is-suing-mehtmlresponse
 tags:
   - law and order
-  - tech
+  - Tech
 title: 'https://adrianroselli.com/2023/05/audioeye-is-suing-me.html#Response'
 ---
 

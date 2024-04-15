@@ -8,7 +8,7 @@ slug: >-
   2023-11-07-how-chinese-influencers-use-ai-digital-clones-of-themselves-to-pump-out-con
 tags:
   - ai
-  - tech
+  - Tech
 title: How Chinese influencers use AI digital clones of themselves to pump out con
 ---
 

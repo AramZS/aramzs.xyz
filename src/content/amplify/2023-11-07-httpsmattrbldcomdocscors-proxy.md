@@ -4,7 +4,7 @@ isBasedOn: 'https://mattrbld.com/docs/cors-proxy/'
 link: 'https://mattrbld.com/docs/cors-proxy/'
 slug: 2023-11-07-httpsmattrbldcomdocscors-proxy
 tags:
-  - tech
+  - Tech
 title: 'https://mattrbld.com/docs/cors-proxy/'
 ---
 

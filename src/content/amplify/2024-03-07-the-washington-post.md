@@ -7,7 +7,7 @@ link: >-
 slug: 2024-03-07-the-washington-post
 tags:
   - eu
-  - tech
+  - Tech
 title: '[The Washington Post] '
 ---
 

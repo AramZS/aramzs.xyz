@@ -8,7 +8,7 @@ slug: >-
   2023-08-31-atlassian-ceo-scott-farquhar-goes-to-the-office-once-a-quarter-or-fortune
 tags:
   - labor
-  - tech
+  - Tech
 title: Atlassian CEO Scott Farquhar goes to the office 'once a quarter' | Fortune
 ---
 

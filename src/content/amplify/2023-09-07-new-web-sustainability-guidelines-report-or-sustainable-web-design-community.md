@@ -9,7 +9,7 @@ slug: >-
 tags:
   - code
   - s12y
-  - tech
+  - Tech
 title: New Web Sustainability Guidelines Report | Sustainable Web Design Community
 ---
 

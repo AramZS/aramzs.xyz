@@ -5,7 +5,7 @@ link: 'https://wheresyoured.at/p/elons-gordian-knot'
 slug: 2023-12-05-elons-gordian-knot-ed-zitrons-wheres-your-ed-at
 tags:
   - ai
-  - tech
+  - Tech
 title: Elon's Gordian Knot - Ed Zitron's Where's Your Ed At
 ---
 

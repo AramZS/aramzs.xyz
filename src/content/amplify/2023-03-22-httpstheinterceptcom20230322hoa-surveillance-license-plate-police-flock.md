@@ -9,7 +9,7 @@ slug: >-
 tags:
   - law and order
   - Privacy
-  - tech
+  - Tech
 title: >-
   https://theintercept.com/2023/03/22/hoa-surveillance-license-plate-police-flock/
 ---

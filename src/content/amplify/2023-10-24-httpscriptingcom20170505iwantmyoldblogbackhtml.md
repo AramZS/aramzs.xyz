@@ -4,7 +4,7 @@ isBasedOn: 'http://scripting.com/2017/05/05/iWantMyOldBlogBack.html'
 link: 'http://scripting.com/2017/05/05/iWantMyOldBlogBack.html'
 slug: 2023-10-24-httpscriptingcom20170505iwantmyoldblogbackhtml
 tags:
-  - tech
+  - Tech
 title: 'http://scripting.com/2017/05/05/iWantMyOldBlogBack.html'
 ---
 

@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - business
-  - tech
+  - Tech
 title: >-
   https://sloanreview.mit.edu/article/dont-get-distracted-by-the-hype-around-generative-ai/?social_token=d38996db74c1758ba5c39d6ec80cfaf8
 ---

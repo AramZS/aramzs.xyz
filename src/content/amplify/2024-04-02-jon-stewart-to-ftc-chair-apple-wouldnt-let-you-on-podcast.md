@@ -4,7 +4,7 @@ isBasedOn: 'https://www.axios.com/2024/04/02/jon-stewart-apple-ftc-chair-intervi
 link: 'https://www.axios.com/2024/04/02/jon-stewart-apple-ftc-chair-interview'
 slug: 2024-04-02-jon-stewart-to-ftc-chair-apple-wouldnt-let-you-on-podcast
 tags:
-  - tech
+  - Tech
 title: 'Jon Stewart to FTC chair: Apple wouldn''t let you on podcast'
 ---
 

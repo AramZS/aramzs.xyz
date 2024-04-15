@@ -7,7 +7,7 @@ link: >-
 slug: 2023-05-08-what-youtube-hustlers-understand-about-ai
 tags:
   - ai
-  - tech
+  - Tech
 title: What YouTube Hustlers Understand About AI
 ---
 

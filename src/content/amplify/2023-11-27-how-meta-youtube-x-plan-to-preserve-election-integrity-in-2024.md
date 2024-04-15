@@ -7,7 +7,7 @@ link: >-
 slug: 2023-11-27-how-meta-youtube-x-plan-to-preserve-election-integrity-in-2024
 tags:
   - social media
-  - tech
+  - Tech
 title: 'How Meta, YouTube, X plan to preserve election integrity in 2024'
 ---
 

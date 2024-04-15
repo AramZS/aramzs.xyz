@@ -6,7 +6,7 @@ slug: >-
   2024-03-18-opinion-or-social-media-algorithms-control-us-its-time-to-push-back-the
 tags:
   - social media
-  - tech
+  - Tech
 title: Opinion | Social Media Algorithms Control Us. It’s Time To Push Back. - The
 ---
 

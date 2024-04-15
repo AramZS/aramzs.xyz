@@ -4,7 +4,7 @@ isBasedOn: 'https://berjon.com/bigger-browser/'
 link: 'https://berjon.com/bigger-browser/'
 slug: 2023-10-30-youre-gonna-need-a-bigger-browser
 tags:
-  - tech
+  - Tech
 title: You're Gonna Need A Bigger Browser
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-16-httpswwwthevergecom23642073best-printer-2023-brother-laser-wi-fi-its-fine
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.theverge.com/23642073/best-printer-2023-brother-laser-wi-fi-its-fine
 ---

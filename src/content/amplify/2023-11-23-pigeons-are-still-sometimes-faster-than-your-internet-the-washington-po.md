@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-23-pigeons-are-still-sometimes-faster-than-your-internet-the-washington-po
 tags:
-  - tech
+  - Tech
 title: Pigeons are still (sometimes) faster than your internet - The Washington Po
 ---
 

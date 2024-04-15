@@ -7,7 +7,7 @@ link: >-
 slug: 2023-03-17-the-last-place-left-you-can-go-viral-by-ryan-broderick
 tags:
   - social media
-  - tech
+  - Tech
 title: The last place left you can go viral - by Ryan Broderick
 ---
 

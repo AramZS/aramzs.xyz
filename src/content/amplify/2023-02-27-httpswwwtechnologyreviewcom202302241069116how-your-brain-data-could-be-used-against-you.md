@@ -8,7 +8,7 @@ slug: >-
   2023-02-27-httpswwwtechnologyreviewcom202302241069116how-your-brain-data-could-be-used-against-you
 tags:
   - Privacy
-  - tech
+  - Tech
 title: >-
   https://www.technologyreview.com/2023/02/24/1069116/how-your-brain-data-could-be-used-against-you/
 ---

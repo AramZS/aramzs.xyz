@@ -6,7 +6,7 @@ link: >-
   https://gizmodo.com/the-self-checkout-nightmare-may-finally-be-ending-1851169879
 slug: 2024-01-18-the-self-checkout-nightmare-may-finally-be-ending
 tags:
-  - tech
+  - Tech
 title: The Self-Checkout Nightmare May Finally Be Ending
 ---
 

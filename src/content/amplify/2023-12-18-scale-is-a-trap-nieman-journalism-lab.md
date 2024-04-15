@@ -6,7 +6,7 @@ slug: 2023-12-18-scale-is-a-trap-nieman-journalism-lab
 tags:
   - journalism
   - media
-  - tech
+  - Tech
 title: Scale is a trap » Nieman Journalism Lab
 ---
 

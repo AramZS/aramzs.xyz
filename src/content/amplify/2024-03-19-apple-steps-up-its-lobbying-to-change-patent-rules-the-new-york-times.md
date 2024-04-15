@@ -8,7 +8,7 @@ slug: >-
   2024-03-19-apple-steps-up-its-lobbying-to-change-patent-rules-the-new-york-times
 tags:
   - law and order
-  - tech
+  - Tech
 title: Apple Steps Up Its Lobbying to Change Patent Rules - The New York Times
 ---
 

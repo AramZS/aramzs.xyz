@@ -6,7 +6,7 @@ link: >-
   https://www.theverge.com/2023/3/28/23660473/substack-retail-investors-revenue-profit
 slug: 2023-03-30-how-much-money-do-we-think-substack-lost-last-year-the-verge
 tags:
-  - tech
+  - Tech
 title: How much money do we think Substack lost last year? - The Verge
 ---
 

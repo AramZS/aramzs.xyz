@@ -7,7 +7,7 @@ link: >-
 slug: 2023-12-02-forget-the-link-tax-focus-on-one-key-metric-to-save-local-news
 tags:
   - media
-  - tech
+  - Tech
 title: Forget the link tax. Focus on one key metric to “save local news”
 ---
 

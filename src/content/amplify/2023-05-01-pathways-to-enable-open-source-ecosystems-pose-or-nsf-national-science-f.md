@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-01-pathways-to-enable-open-source-ecosystems-pose-or-nsf-national-science-f
 tags:
-  - tech
+  - Tech
 title: Pathways to Enable Open-Source Ecosystems (POSE) | NSF - National Science F
 ---
 

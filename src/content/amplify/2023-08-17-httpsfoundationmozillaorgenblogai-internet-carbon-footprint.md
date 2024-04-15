@@ -5,7 +5,7 @@ link: 'https://foundation.mozilla.org/en/blog/ai-internet-carbon-footprint/'
 slug: 2023-08-17-httpsfoundationmozillaorgenblogai-internet-carbon-footprint
 tags:
   - climate
-  - tech
+  - Tech
 title: 'https://foundation.mozilla.org/en/blog/ai-internet-carbon-footprint/'
 ---
 

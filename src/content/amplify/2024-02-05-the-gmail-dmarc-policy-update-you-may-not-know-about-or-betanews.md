@@ -6,7 +6,7 @@ link: >-
   https://betanews.com/2024/02/02/the-gmail-dmarc-policy-update-you-may-not-know-about/
 slug: 2024-02-05-the-gmail-dmarc-policy-update-you-may-not-know-about-or-betanews
 tags:
-  - tech
+  - Tech
 title: The Gmail DMARC policy update you may not know about | BetaNews
 ---
 

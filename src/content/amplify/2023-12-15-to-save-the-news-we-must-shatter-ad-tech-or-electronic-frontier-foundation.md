@@ -6,7 +6,7 @@ slug: >-
   2023-12-15-to-save-the-news-we-must-shatter-ad-tech-or-electronic-frontier-foundation
 tags:
   - ad tech
-  - tech
+  - Tech
 title: 'To Save the News, We Must Shatter Ad-Tech | Electronic Frontier Foundation'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-19-httpswwwbusinessinsidercomtaylor-swift-avoided-100-million-ftx-deal-with-securities-question-2023-4
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.businessinsider.com/taylor-swift-avoided-100-million-ftx-deal-with-securities-question-2023-4
 ---

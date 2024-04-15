@@ -8,7 +8,7 @@ slug: >-
   2024-02-18-this-is-why-teslas-stainless-steel-cybertrucks-may-be-rusting-or-wired
 tags:
   - cars
-  - tech
+  - Tech
 title: This Is Why Tesla's Stainless Steel Cybertrucks May Be Rusting | WIRED
 ---
 

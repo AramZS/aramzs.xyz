@@ -5,7 +5,7 @@ link: 'https://www.businessinsider.com/zoom-ceo-employees-return-to-office-2023-
 slug: 2023-08-24-zooms-pivot-ceo-explains-why-employees-must-return-to-office
 tags:
   - labor
-  - tech
+  - Tech
 title: 'Zoom''s Pivot: CEO Explains Why Employees Must Return to Office'
 ---
 

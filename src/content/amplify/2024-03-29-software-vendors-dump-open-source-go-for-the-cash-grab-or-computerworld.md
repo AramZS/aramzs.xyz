@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-29-software-vendors-dump-open-source-go-for-the-cash-grab-or-computerworld
 tags:
-  - tech
+  - Tech
 title: 'Software vendors dump open source, go for the cash grab | Computerworld'
 ---
 

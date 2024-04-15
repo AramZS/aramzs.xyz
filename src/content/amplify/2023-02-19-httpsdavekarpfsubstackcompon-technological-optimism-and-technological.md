@@ -5,7 +5,7 @@ link: 'https://davekarpf.substack.com/p/on-technological-optimism-and-technologi
 slug: >-
   2023-02-19-httpsdavekarpfsubstackcompon-technological-optimism-and-technological
 tags:
-  - tech
+  - Tech
 title: 'https://davekarpf.substack.com/p/on-technological-optimism-and-technological'
 ---
 

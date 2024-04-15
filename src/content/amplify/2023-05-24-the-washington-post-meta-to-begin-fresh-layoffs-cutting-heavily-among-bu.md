@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-24-the-washington-post-meta-to-begin-fresh-layoffs-cutting-heavily-among-bu
 tags:
-  - tech
+  - Tech
 title: '[The Washington Post] Meta to begin fresh layoffs, cutting heavily among bu'
 ---
 

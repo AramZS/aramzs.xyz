@@ -5,7 +5,7 @@ link: 'https://aaron.jorb.in/what-it-means-to-be-polyhistoric/'
 slug: 2024-01-26-what-it-means-to-be-polyhistoric-aaron-jorbin
 tags:
   - culture
-  - tech
+  - Tech
 title: What it means to be polyhistoric - Aaron Jorbin
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://gizmodo.com/tesla-app-apple-store-view-live-camera-185062826
 link: 'https://gizmodo.com/tesla-app-apple-store-view-live-camera-1850628265'
 slug: 2023-07-12-httpsgizmodocomtesla-app-apple-store-view-live-camera-1850628265
 tags:
-  - tech
+  - Tech
 title: 'https://gizmodo.com/tesla-app-apple-store-view-live-camera-1850628265'
 ---
 

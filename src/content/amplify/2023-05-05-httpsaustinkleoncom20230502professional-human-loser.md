@@ -5,7 +5,7 @@ link: 'https://austinkleon.com/2023/05/02/professional-human-loser/'
 slug: 2023-05-05-httpsaustinkleoncom20230502professional-human-loser
 tags:
   - ai
-  - tech
+  - Tech
 title: 'https://austinkleon.com/2023/05/02/professional-human-loser/'
 ---
 

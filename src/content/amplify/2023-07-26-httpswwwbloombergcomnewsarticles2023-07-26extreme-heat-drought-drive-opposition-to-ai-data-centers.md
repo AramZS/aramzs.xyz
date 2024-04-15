@@ -8,7 +8,7 @@ slug: >-
   2023-07-26-httpswwwbloombergcomnewsarticles2023-07-26extreme-heat-drought-drive-opposition-to-ai-data-centers
 tags:
   - climate
-  - tech
+  - Tech
 title: >-
   https://www.bloomberg.com/news/articles/2023-07-26/extreme-heat-drought-drive-opposition-to-ai-data-centers
 ---

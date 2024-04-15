@@ -8,7 +8,7 @@ slug: >-
   2024-01-13-plagiarism-detection-tools-offer-a-false-sense-of-accuracy-the-markup
 tags:
   - academia
-  - tech
+  - Tech
 title: Plagiarism Detection Tools Offer a False Sense of Accuracy – The Markup
 ---
 

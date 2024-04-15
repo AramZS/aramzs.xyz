@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-12-21-pornhub-xvideos-and-stripchat-hit-with-tough-new-eu-safety-regulations
 tags:
-  - tech
+  - Tech
 title: 'Pornhub, XVideos, and Stripchat hit with tough new EU safety regulations - '
 ---
 

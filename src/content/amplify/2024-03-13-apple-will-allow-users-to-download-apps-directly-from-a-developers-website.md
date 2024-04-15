@@ -5,7 +5,7 @@ link: 'https://9to5mac.com/2024/03/12/iphone-app-store-changes-web-distribution-
 slug: >-
   2024-03-13-apple-will-allow-users-to-download-apps-directly-from-a-developers-website
 tags:
-  - tech
+  - Tech
 title: Apple will allow users to download apps directly from a developer’s website
 ---
 

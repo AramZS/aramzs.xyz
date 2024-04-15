@@ -4,7 +4,7 @@ isBasedOn: 'https://www.disconnect.blog/p/why-silicon-valley-is-bringing-eugenic
 link: 'https://www.disconnect.blog/p/why-silicon-valley-is-bringing-eugenics'
 slug: 2023-04-22-httpswwwdisconnectblogpwhy-silicon-valley-is-bringing-eugenics
 tags:
-  - tech
+  - Tech
 title: 'https://www.disconnect.blog/p/why-silicon-valley-is-bringing-eugenics'
 ---
 

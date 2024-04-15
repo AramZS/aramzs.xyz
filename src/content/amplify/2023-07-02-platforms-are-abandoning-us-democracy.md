@@ -4,7 +4,7 @@ isBasedOn: 'https://techpolicy.press/platforms-are-abandoning-u-s-democracy/'
 link: 'https://techpolicy.press/platforms-are-abandoning-u-s-democracy/'
 slug: 2023-07-02-platforms-are-abandoning-us-democracy
 tags:
-  - tech
+  - Tech
 title: Platforms are Abandoning U.S. Democracy
 ---
 

@@ -5,7 +5,7 @@ link: 'https://blueskyweb.xyz/blog/3-30-2023-algorithmic-choice'
 slug: 2023-08-22-httpsblueskywebxyzblog3-30-2023-algorithmic-choice
 tags:
   - social media
-  - tech
+  - Tech
 title: 'https://blueskyweb.xyz/blog/3-30-2023-algorithmic-choice'
 ---
 

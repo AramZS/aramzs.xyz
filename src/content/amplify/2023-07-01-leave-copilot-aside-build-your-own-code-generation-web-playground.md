@@ -7,7 +7,7 @@ link: >-
 slug: 2023-07-01-leave-copilot-aside-build-your-own-code-generation-web-playground
 tags:
   - code
-  - tech
+  - Tech
 title: Leave Copilot Aside. Build Your Own Code Generation Web Playground
 ---
 

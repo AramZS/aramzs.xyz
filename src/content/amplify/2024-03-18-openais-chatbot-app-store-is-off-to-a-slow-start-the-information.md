@@ -7,7 +7,7 @@ link: >-
 slug: 2024-03-18-openais-chatbot-app-store-is-off-to-a-slow-start-the-information
 tags:
   - ai
-  - tech
+  - Tech
 title: OpenAI’s Chatbot App Store Is Off to a Slow Start — The Information
 ---
 

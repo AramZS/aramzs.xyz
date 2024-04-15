@@ -8,7 +8,7 @@ slug: >-
   2024-03-02-unionized-youtube-workers-learn-google-laid-them-all-off-during-city-counci
 tags:
   - labor
-  - tech
+  - Tech
 title: Unionized YouTube Workers Learn Google Laid Them All Off During City Counci
 ---
 

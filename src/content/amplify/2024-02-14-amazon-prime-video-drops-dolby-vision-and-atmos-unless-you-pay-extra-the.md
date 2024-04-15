@@ -6,7 +6,7 @@ slug: >-
   2024-02-14-amazon-prime-video-drops-dolby-vision-and-atmos-unless-you-pay-extra-the
 tags:
   - entertainment
-  - tech
+  - Tech
 title: 'Amazon Prime Video drops Dolby Vision and Atmos unless you pay extra - The '
 ---
 

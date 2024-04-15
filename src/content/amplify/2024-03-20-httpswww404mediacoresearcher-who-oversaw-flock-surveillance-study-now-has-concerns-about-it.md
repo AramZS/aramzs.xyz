@@ -8,7 +8,7 @@ slug: >-
   2024-03-20-httpswww404mediacoresearcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it
 tags:
   - law and order
-  - tech
+  - Tech
 title: >-
   https://www.404media.co/researcher-who-oversaw-flock-surveillance-study-now-has-concerns-about-it/
 ---

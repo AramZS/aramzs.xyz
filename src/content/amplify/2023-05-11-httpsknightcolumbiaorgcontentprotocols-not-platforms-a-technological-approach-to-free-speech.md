@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-11-httpsknightcolumbiaorgcontentprotocols-not-platforms-a-technological-approach-to-free-speech
 tags:
-  - tech
+  - Tech
 title: >-
   https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech
 ---

@@ -5,7 +5,7 @@ link: 'https://thebaffler.com/latest/the-miseducation-of-kara-swisher-ongweso'
 slug: 2024-04-03-the-miseducation-of-kara-swisher-or-edward-ongweso-jr
 tags:
   - journalism
-  - tech
+  - Tech
 title: The Miseducation of Kara Swisher | Edward Ongweso Jr.
 ---
 

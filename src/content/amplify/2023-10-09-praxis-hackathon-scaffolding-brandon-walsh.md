@@ -5,7 +5,7 @@ link: 'https://walshbr.com/blog/praxis-hackathon-scaffolding/'
 slug: 2023-10-09-praxis-hackathon-scaffolding-brandon-walsh
 tags:
   - academia
-  - tech
+  - Tech
 title: Praxis Hackathon Scaffolding · Brandon Walsh
 ---
 

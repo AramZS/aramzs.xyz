@@ -8,7 +8,7 @@ slug: >-
   2023-03-27-opinion-or-yes-tiktok-is-a-threat-to-america-but-so-are-us-social-media
 tags:
   - social media
-  - tech
+  - Tech
 title: 'Opinion | Yes, TikTok is a threat to America. But so are U.S. social media '
 ---
 

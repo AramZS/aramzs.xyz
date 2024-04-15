@@ -8,7 +8,7 @@ slug: >-
   2023-06-22-httpswwwthevergecom202362123769263mark-zuckerberg-elon-musk-fight-cage-match-worldstar
 tags:
   - social media
-  - tech
+  - Tech
 title: >-
   https://www.theverge.com/2023/6/21/23769263/mark-zuckerberg-elon-musk-fight-cage-match-worldstar
 ---

@@ -4,7 +4,7 @@ isBasedOn: 'https://www.thecurrent.com/lou-paskalis-ceo-advertising-twitter-medi
 link: 'https://www.thecurrent.com/lou-paskalis-ceo-advertising-twitter-media'
 slug: 2023-11-23-requiem-for-a-friend-or-the-current
 tags:
-  - tech
+  - Tech
 title: Requiem for a friend | The Current
 ---
 

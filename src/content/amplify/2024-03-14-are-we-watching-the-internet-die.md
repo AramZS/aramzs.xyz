@@ -5,7 +5,7 @@ link: 'https://www.wheresyoured.at/are-we-watching-the-internet-die/'
 slug: 2024-03-14-are-we-watching-the-internet-die
 tags:
   - ai
-  - tech
+  - Tech
 title: Are We Watching The Internet Die?
 ---
 

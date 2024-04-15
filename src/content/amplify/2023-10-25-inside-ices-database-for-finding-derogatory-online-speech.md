@@ -7,7 +7,7 @@ link: >-
 slug: 2023-10-25-inside-ices-database-for-finding-derogatory-online-speech
 tags:
   - immigration
-  - tech
+  - Tech
 title: Inside ICE’s Database for Finding ‘Derogatory’ Online Speech
 ---
 

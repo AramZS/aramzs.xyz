@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2023/05/23/business/australia-lithium-refining.ht
 slug: 2023-05-24-httpswwwnytimescom20230523businessaustralia-lithium-refininghtml
 tags:
   - economy
-  - tech
+  - Tech
 title: 'https://www.nytimes.com/2023/05/23/business/australia-lithium-refining.html'
 ---
 

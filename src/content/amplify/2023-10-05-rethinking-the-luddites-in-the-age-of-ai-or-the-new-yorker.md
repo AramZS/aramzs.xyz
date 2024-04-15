@@ -7,7 +7,7 @@ link: >-
 slug: 2023-10-05-rethinking-the-luddites-in-the-age-of-ai-or-the-new-yorker
 tags:
   - ai
-  - tech
+  - Tech
 title: Rethinking the Luddites in the Age of A.I. | The New Yorker
 ---
 

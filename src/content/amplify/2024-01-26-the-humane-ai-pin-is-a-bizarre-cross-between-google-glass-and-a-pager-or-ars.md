@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-26-the-humane-ai-pin-is-a-bizarre-cross-between-google-glass-and-a-pager-or-ars
 tags:
-  - tech
+  - Tech
 title: The Humane AI Pin is a bizarre cross between Google Glass and a pager | Ars
 ---
 

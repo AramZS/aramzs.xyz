@@ -5,7 +5,7 @@ link: 'https://helpcenter.memoq.com/hc/en-us/articles/360010266300-Concordance-s
 slug: 2024-03-27-concordance-search-memoq-help-center
 tags:
   - search
-  - tech
+  - Tech
 title: Concordance search – memoQ Help Center
 ---
 

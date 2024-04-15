@@ -5,7 +5,7 @@ link: 'https://disconnect.blog/kara-swishers-reality-distortion-field/'
 slug: 2024-04-03-kara-swishers-reality-distortion-field
 tags:
   - journalism
-  - tech
+  - Tech
 title: Kara Swisher’s Reality Distortion Field
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-03-03-httpstechpolicypressstopping-bluetooth-location-trackers-from-becoming-people-trackers
 tags:
   - Privacy
-  - tech
+  - Tech
 title: >-
   https://techpolicy.press/stopping-bluetooth-location-trackers-from-becoming-people-trackers/
 ---

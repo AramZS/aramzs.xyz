@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - economy
-  - tech
+  - Tech
 title: >-
   https://www.theguardian.com/technology/2023/may/28/artificial-intelligence-doug-rushkoff-tech-billionaires-escape-mode
 ---

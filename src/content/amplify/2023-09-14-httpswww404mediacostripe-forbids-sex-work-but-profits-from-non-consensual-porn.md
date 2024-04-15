@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - culture
-  - tech
+  - Tech
 title: >-
   https://www.404media.co/stripe-forbids-sex-work-but-profits-from-non-consensual-porn/
 ---

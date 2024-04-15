@@ -4,7 +4,7 @@ isBasedOn: 'https://www.washingtonpost.com/business/2023/03/27/binance-crypto-cf
 link: 'https://www.washingtonpost.com/business/2023/03/27/binance-crypto-cftc/'
 slug: 2023-03-27-httpswwwwashingtonpostcombusiness20230327binance-crypto-cftc
 tags:
-  - tech
+  - Tech
 title: 'https://www.washingtonpost.com/business/2023/03/27/binance-crypto-cftc/'
 ---
 

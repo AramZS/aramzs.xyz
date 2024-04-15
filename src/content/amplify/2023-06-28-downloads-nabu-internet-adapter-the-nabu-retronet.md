@@ -4,7 +4,7 @@ isBasedOn: 'https://nabu.ca/downloads-nabu-internet-adapter'
 link: 'https://nabu.ca/downloads-nabu-internet-adapter'
 slug: 2023-06-28-downloads-nabu-internet-adapter-the-nabu-retronet
 tags:
-  - tech
+  - Tech
 title: Downloads - Nabu Internet Adapter - The Nabu RetroNET
 ---
 

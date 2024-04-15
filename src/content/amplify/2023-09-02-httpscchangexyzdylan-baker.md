@@ -4,7 +4,7 @@ isBasedOn: 'https://cchange.xyz/dylan-baker/'
 link: 'https://cchange.xyz/dylan-baker/'
 slug: 2023-09-02-httpscchangexyzdylan-baker
 tags:
-  - tech
+  - Tech
 title: 'https://cchange.xyz/dylan-baker/'
 ---
 

@@ -6,7 +6,7 @@ slug: >-
   2023-07-06-instagrams-twitter-rival-is-the-latest-in-metas-parade-of-copycat-apps
 tags:
   - social media
-  - tech
+  - Tech
 title: Instagram's Twitter rival is the latest in Meta's parade of copycat apps
 ---
 

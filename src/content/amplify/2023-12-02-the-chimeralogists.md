@@ -4,7 +4,7 @@ isBasedOn: 'https://berjon.com/chimeralogist/'
 link: 'https://berjon.com/chimeralogist/'
 slug: 2023-12-02-the-chimeralogists
 tags:
-  - tech
+  - Tech
 title: The Chimeralogists
 ---
 

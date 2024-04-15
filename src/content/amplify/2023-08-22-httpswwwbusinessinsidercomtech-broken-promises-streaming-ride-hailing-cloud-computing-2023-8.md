@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-22-httpswwwbusinessinsidercomtech-broken-promises-streaming-ride-hailing-cloud-computing-2023-8
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.businessinsider.com/tech-broken-promises-streaming-ride-hailing-cloud-computing-2023-8
 ---

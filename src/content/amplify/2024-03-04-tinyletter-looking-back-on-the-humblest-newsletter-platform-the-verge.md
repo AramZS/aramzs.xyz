@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-04-tinyletter-looking-back-on-the-humblest-newsletter-platform-the-verge
 tags:
-  - tech
+  - Tech
 title: 'TinyLetter: looking back on the humblest newsletter platform - The Verge'
 ---
 

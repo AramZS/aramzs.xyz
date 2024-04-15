@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-04-pluralistic-the-real-problem-with-anonymity-04-mar-2024-pluralistic-d
 tags:
-  - tech
+  - Tech
 title: 'Pluralistic: The real problem with anonymity (04 Mar 2024) – Pluralistic: D'
 ---
 

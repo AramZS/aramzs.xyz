@@ -8,7 +8,7 @@ slug: >-
   2024-01-30-inspiration-from-the-luddites-on-brian-merchants-blood-in-the-machine-or
 tags:
   - books
-  - tech
+  - Tech
 title: 'Inspiration from the Luddites: On Brian Merchant’s “Blood in the Machine” |'
 ---
 

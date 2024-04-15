@@ -6,7 +6,7 @@ slug: >-
   2023-11-03-his-job-was-to-make-instagram-safe-for-teens-his-14-year-old-showed-him-wh
 tags:
   - social media
-  - tech
+  - Tech
 title: His Job Was to Make Instagram Safe for Teens. His 14-Year-Old Showed Him Wh
 ---
 

@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - climate
-  - tech
+  - Tech
 title: AI Needs So Much Power That Old Coal Plants Are Sticking Around - Bloomberg
 ---
 

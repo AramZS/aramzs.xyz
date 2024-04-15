@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-01-wework-plans-to-file-for-bankruptcy-over-massive-debt-pile-and-losses
 tags:
-  - tech
+  - Tech
 title: WeWork plans to file for bankruptcy over massive debt pile and losses
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-29-httpswwwnytimescom20230729technologymike-masnick-techdirt-internet-futurehtml
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.nytimes.com/2023/07/29/technology/mike-masnick-techdirt-internet-future.html
 ---

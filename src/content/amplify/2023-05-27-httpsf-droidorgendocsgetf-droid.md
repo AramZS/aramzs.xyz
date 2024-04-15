@@ -4,7 +4,7 @@ isBasedOn: 'https://f-droid.org/en/docs/Get_F-Droid/'
 link: 'https://f-droid.org/en/docs/Get_F-Droid/'
 slug: 2023-05-27-httpsf-droidorgendocsgetf-droid
 tags:
-  - tech
+  - Tech
 title: 'https://f-droid.org/en/docs/Get_F-Droid/'
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2024-03-01-elon-musk-sues-openai-and-asks-court-to-decide-on-artificial-general-intell
 tags:
   - ai
-  - tech
+  - Tech
 title: Elon Musk sues OpenAI and asks court to decide on artificial general intell
 ---
 

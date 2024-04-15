@@ -8,7 +8,7 @@ slug: >-
   2023-02-24-httpsgizmodocomtexas-and-florida-bills-impossible-speech-laws-coming-1850115791
 tags:
   - law and order
-  - tech
+  - Tech
 title: >-
   https://gizmodo.com/texas-and-florida-bills-impossible-speech-laws-coming-1850115791
 ---

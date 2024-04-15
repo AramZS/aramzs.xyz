@@ -7,7 +7,7 @@ link: >-
 slug: 2023-07-01-edward-loveall
 tags:
   - social media
-  - tech
+  - Tech
 title: Edward Loveall
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-11-httpwwwantipopeorgcharlieblog-static202311dont-create-the-torment-nexushtml
 tags:
-  - tech
+  - Tech
 title: >-
   http://www.antipope.org/charlie/blog-static/2023/11/dont-create-the-torment-nexus.html
 ---

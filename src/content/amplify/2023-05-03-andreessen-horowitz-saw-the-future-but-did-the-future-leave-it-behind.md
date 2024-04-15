@@ -6,7 +6,7 @@ slug: >-
   2023-05-03-andreessen-horowitz-saw-the-future-but-did-the-future-leave-it-behind
 tags:
   - economy
-  - tech
+  - Tech
 title: "Andreessen Horowitz\_saw the future — but did the future leave it behind? - "
 ---
 

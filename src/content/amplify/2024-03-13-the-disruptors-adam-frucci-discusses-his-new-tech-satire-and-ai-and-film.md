@@ -8,7 +8,7 @@ slug: >-
   2024-03-13-the-disruptors-adam-frucci-discusses-his-new-tech-satire-and-ai-and-film
 tags:
   - entertainment
-  - tech
+  - Tech
 title: '‘The Disruptors’: Adam Frucci discusses his new tech satire and AI and film'
 ---
 

@@ -6,7 +6,7 @@ link: >-
   https://hbr.org/2024/01/is-genais-impact-on-productivity-overblown?trk=public_post_comment-text
 slug: 2024-01-20-is-genais-impact-on-productivity-overblown
 tags:
-  - tech
+  - Tech
 title: Is GenAI’s Impact on Productivity Overblown?
 ---
 

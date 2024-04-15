@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-08-switching-to-a-flip-phone-helped-me-cut-down-on-my-smartphone-addiction-t
 tags:
-  - tech
+  - Tech
 title: Switching to a Flip Phone Helped Me Cut Down on My Smartphone Addiction - T
 ---
 

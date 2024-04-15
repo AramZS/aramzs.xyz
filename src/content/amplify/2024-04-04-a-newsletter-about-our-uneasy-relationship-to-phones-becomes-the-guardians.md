@@ -8,7 +8,7 @@ slug: >-
   2024-04-04-a-newsletter-about-our-uneasy-relationship-to-phones-becomes-the-guardians
 tags:
   - media
-  - tech
+  - Tech
 title: A newsletter about our uneasy relationship to phones becomes The Guardian’s
 ---
 

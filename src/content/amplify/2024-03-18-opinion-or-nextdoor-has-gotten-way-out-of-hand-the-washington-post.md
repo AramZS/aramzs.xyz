@@ -8,7 +8,7 @@ slug: 2024-03-18-opinion-or-nextdoor-has-gotten-way-out-of-hand-the-washington-p
 tags:
   - culture
   - social media
-  - tech
+  - Tech
 title: Opinion | Nextdoor has gotten way out of hand - The Washington Post
 ---
 

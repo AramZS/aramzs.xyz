@@ -6,7 +6,7 @@ slug: 2024-03-14-journalists-are-feeding-the-ai-hype-machine
 tags:
   - ai
   - politics
-  - tech
+  - Tech
 title: '''Journalists are feeding the AI hype machine'''
 ---
 

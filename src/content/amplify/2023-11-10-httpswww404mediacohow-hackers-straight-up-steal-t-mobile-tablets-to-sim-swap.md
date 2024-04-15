@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-10-httpswww404mediacohow-hackers-straight-up-steal-t-mobile-tablets-to-sim-swap
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.404media.co/how-hackers-straight-up-steal-t-mobile-tablets-to-sim-swap/
 ---

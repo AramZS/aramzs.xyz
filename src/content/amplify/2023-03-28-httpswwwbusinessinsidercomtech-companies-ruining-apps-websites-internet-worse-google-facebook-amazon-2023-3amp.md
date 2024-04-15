@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ad tech
   - end the app
-  - tech
+  - Tech
 title: >-
   https://www.businessinsider.com/tech-companies-ruining-apps-websites-internet-worse-google-facebook-amazon-2023-3?amp
 ---

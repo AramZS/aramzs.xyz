@@ -4,7 +4,7 @@ isBasedOn: 'https://www.threshold.vc/podcast/the-case-of-the-millionaire-mirage'
 link: 'https://www.threshold.vc/podcast/the-case-of-the-millionaire-mirage'
 slug: 2023-08-30-httpswwwthresholdvcpodcastthe-case-of-the-millionaire-mirage
 tags:
-  - tech
+  - Tech
 title: 'https://www.threshold.vc/podcast/the-case-of-the-millionaire-mirage'
 ---
 

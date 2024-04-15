@@ -9,7 +9,7 @@ slug: >-
 tags:
   - code
   - design
-  - tech
+  - Tech
 title: How We Approach Visual Storytelling Accessibility at The Markup – The Marku
 ---
 

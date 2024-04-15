@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-27-why-is-elon-musk-attacking-wikipedia-because-its-very-existence-offends-hi
 tags:
-  - tech
+  - Tech
 title: Why is Elon Musk attacking Wikipedia? Because its very existence offends hi
 ---
 

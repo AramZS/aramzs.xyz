@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - labor
-  - tech
+  - Tech
 title: Google contractors objected to reading obscene Bard prompts — now they’re u
 ---
 

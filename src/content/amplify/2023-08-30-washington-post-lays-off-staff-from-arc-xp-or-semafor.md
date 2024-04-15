@@ -7,7 +7,7 @@ link: >-
 slug: 2023-08-30-washington-post-lays-off-staff-from-arc-xp-or-semafor
 tags:
   - media
-  - tech
+  - Tech
 title: Washington Post lays off staff from Arc XP | Semafor
 ---
 

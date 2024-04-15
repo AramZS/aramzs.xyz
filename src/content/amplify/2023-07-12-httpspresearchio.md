@@ -4,7 +4,7 @@ isBasedOn: 'https://presearch.io/'
 link: 'https://presearch.io/'
 slug: 2023-07-12-httpspresearchio
 tags:
-  - tech
+  - Tech
 title: 'https://presearch.io/'
 ---
 

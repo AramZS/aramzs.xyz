@@ -9,7 +9,7 @@ slug: >-
 tags:
   - business
   - Music
-  - tech
+  - Tech
 title: White Noise Podcasters Are Costing Spotify $38 Million a Year - Bloomberg
 ---
 

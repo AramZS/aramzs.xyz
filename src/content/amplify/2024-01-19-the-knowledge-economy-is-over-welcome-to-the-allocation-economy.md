@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-19-the-knowledge-economy-is-over-welcome-to-the-allocation-economy
 tags:
   - ai
-  - tech
+  - Tech
 title: The Knowledge Economy Is Over. Welcome to the Allocation Economy
 ---
 

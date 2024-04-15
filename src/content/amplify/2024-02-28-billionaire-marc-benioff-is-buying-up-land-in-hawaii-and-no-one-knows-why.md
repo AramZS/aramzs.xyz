@@ -8,7 +8,7 @@ slug: >-
   2024-02-28-billionaire-marc-benioff-is-buying-up-land-in-hawaii-and-no-one-knows-why
 tags:
   - economic inequality
-  - tech
+  - Tech
 title: 'Billionaire Marc Benioff is buying up land in Hawaii. And no one knows why '
 ---
 

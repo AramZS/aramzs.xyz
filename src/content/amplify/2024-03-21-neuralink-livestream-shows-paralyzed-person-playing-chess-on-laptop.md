@@ -6,7 +6,7 @@ link: >-
   https://www.nbcnews.com/tech/tech-news/neuralink-livestream-shows-paralyzed-person-playing-chess-laptop-rcna144374
 slug: 2024-03-21-neuralink-livestream-shows-paralyzed-person-playing-chess-on-laptop
 tags:
-  - tech
+  - Tech
 title: Neuralink livestream shows paralyzed person playing chess on laptop
 ---
 

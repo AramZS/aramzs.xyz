@@ -9,7 +9,7 @@ slug: >-
 tags:
   - art
   - Privacy
-  - tech
+  - Tech
 title: '[The Washington Post] How a Christie’s website revealed where people kept t'
 ---
 

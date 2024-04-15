@@ -8,7 +8,7 @@ slug: >-
   2024-01-17-each-facebook-user-is-monitored-by-thousands-of-companies-the-markup
 tags:
   - Privacy
-  - tech
+  - Tech
 title: Each Facebook User is Monitored by Thousands of Companies – The Markup
 ---
 

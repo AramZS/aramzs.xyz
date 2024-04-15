@@ -8,7 +8,7 @@ slug: >-
   2023-08-10-httpswwwnytimescom20230809technologypersonaltechvenmo-privacy-oversharinghtmlsmidnytcore-ios-shareandreferringsourcearticleshare
 tags:
   - social media
-  - tech
+  - Tech
 title: >-
   https://www.nytimes.com/2023/08/09/technology/personaltech/venmo-privacy-oversharing.html?smid=nytcore-ios-share&referringSource=articleShare
 ---

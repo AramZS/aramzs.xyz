@@ -6,7 +6,7 @@ slug: 2024-02-10-against-disruption-on-the-bulletpointization-of-books-literary-
 tags:
   - culture
   - entertainment
-  - tech
+  - Tech
 title: 'Against Disruption: On the Bulletpointization of Books ‹ Literary Hub'
 ---
 

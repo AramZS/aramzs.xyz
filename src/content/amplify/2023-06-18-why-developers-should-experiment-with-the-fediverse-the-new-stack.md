@@ -5,7 +5,7 @@ link: 'https://thenewstack.io/why-developers-should-experiment-with-the-fedivers
 slug: 2023-06-18-why-developers-should-experiment-with-the-fediverse-the-new-stack
 tags:
   - social media
-  - tech
+  - Tech
 title: Why Developers Should Experiment with the Fediverse - The New Stack
 ---
 

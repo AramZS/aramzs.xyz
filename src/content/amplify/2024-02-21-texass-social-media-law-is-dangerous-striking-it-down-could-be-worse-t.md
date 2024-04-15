@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-21-texass-social-media-law-is-dangerous-striking-it-down-could-be-worse-t
 tags:
-  - tech
+  - Tech
 title: Texas’s Social-Media Law Is Dangerous. Striking It Down Could Be Worse. - T
 ---
 

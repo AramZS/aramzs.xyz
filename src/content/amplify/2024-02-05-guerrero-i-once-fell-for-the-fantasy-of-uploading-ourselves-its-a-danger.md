@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-05-guerrero-i-once-fell-for-the-fantasy-of-uploading-ourselves-its-a-danger
 tags:
-  - tech
+  - Tech
 title: 'Guerrero: I once fell for the fantasy of uploading ourselves. It''s a danger'
 ---
 

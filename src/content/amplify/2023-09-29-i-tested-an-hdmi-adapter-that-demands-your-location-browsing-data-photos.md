@@ -8,7 +8,7 @@ slug: >-
   2023-09-29-i-tested-an-hdmi-adapter-that-demands-your-location-browsing-data-photos
 tags:
   - Privacy
-  - tech
+  - Tech
 title: 'I Tested an HDMI Adapter That Demands Your Location, Browsing Data, Photos,'
 ---
 

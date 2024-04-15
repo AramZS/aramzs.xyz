@@ -8,7 +8,7 @@ slug: 2023-05-08-when-the-threat-of-ai-is-an-insult
 tags:
   - ai
   - entertainment
-  - tech
+  - Tech
 title: When the Threat of AI Is an Insult
 ---
 

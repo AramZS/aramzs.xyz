@@ -9,7 +9,7 @@ slug: >-
 tags:
   - Privacy
   - social media
-  - tech
+  - Tech
 title: A TikTok Ban Is A Pointless Political Turd For Democrats | Techdirt
 ---
 

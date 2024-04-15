@@ -8,7 +8,7 @@ slug: >-
   2023-11-28-ransomware-catastrophe-at-fidelity-national-financial-causes-panic-with-h
 tags:
   - banking
-  - tech
+  - Tech
 title: Ransomware ‘catastrophe’ at Fidelity National Financial causes panic with h
 ---
 

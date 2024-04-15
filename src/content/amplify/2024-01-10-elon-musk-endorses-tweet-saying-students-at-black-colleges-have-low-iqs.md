@@ -8,7 +8,7 @@ slug: >-
   2024-01-10-elon-musk-endorses-tweet-saying-students-at-black-colleges-have-low-iqs
 tags:
   - social media
-  - tech
+  - Tech
 title: Elon Musk Endorses Tweet Saying Students at Black Colleges Have Low IQs
 ---
 

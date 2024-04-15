@@ -4,7 +4,7 @@ isBasedOn: 'https://www.wired.com/story/tesla-sweden-strike/'
 link: 'https://www.wired.com/story/tesla-sweden-strike/'
 slug: 2023-11-13-httpswwwwiredcomstorytesla-sweden-strike
 tags:
-  - tech
+  - Tech
 title: 'https://www.wired.com/story/tesla-sweden-strike/'
 ---
 

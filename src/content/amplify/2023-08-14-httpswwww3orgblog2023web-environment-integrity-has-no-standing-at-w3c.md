@@ -6,7 +6,7 @@ slug: >-
   2023-08-14-httpswwww3orgblog2023web-environment-integrity-has-no-standing-at-w3c
 tags:
   - Privacy
-  - tech
+  - Tech
 title: 'https://www.w3.org/blog/2023/web-environment-integrity-has-no-standing-at-w3c/'
 ---
 

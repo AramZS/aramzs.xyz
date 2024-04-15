@@ -5,7 +5,7 @@ link: 'https://torquemag.io/2023/08/press-this-keep-the-web-independent/'
 slug: 2023-08-23-press-this-really-simple-ssl-with-rogier-lankhorst
 tags:
   - IndieWeb
-  - tech
+  - Tech
 title: 'Press This: Really Simple SSL with Rogier Lankhorst'
 ---
 

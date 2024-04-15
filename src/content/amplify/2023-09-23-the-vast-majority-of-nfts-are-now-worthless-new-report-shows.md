@@ -7,7 +7,7 @@ link: >-
 slug: 2023-09-23-the-vast-majority-of-nfts-are-now-worthless-new-report-shows
 tags:
   - crypto currency
-  - tech
+  - Tech
 title: 'The vast majority of NFTs are now worthless, new report shows'
 ---
 

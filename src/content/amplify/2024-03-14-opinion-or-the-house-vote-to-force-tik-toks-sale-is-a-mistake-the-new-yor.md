@@ -8,7 +8,7 @@ tags:
   - politics
   - Privacy
   - social media
-  - tech
+  - Tech
 title: Opinion | The House Vote to Force Tik Tok’s Sale Is a Mistake - The New Yor
 ---
 

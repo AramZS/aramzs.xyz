@@ -7,7 +7,7 @@ link: >-
 slug: 2024-02-13-service-jobs-now-require-bizarre-personality-test-from-ai-company
 tags:
   - labor
-  - tech
+  - Tech
 title: Service Jobs Now Require Bizarre Personality Test From AI Company
 ---
 

@@ -6,7 +6,7 @@ slug: >-
   2023-09-29-pluralistic-yanis-varoufakiss-technofeudalism-what-killed-capitalism
 tags:
   - Privacy
-  - tech
+  - Tech
 title: 'Pluralistic: Yanis Varoufakis’s “Technofeudalism: What Killed Capitalism?” '
 ---
 

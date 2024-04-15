@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-12-httpsgizmodocomhelion-microsoft-nuclear-fusion-power-deal-climate-1850429130
 tags:
-  - tech
+  - Tech
 title: >-
   https://gizmodo.com/helion-microsoft-nuclear-fusion-power-deal-climate-1850429130
 ---

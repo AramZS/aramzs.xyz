@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-11-google-is-losing-its-fitbit-leaders-and-laying-off-hundreds-of-ar-employees
 tags:
-  - tech
+  - Tech
 title: Google is losing its Fitbit leaders and laying off hundreds of AR employees
 ---
 

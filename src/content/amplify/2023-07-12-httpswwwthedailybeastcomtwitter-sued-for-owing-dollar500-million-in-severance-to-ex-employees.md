@@ -9,7 +9,7 @@ slug: >-
 tags:
   - labor
   - social media
-  - tech
+  - Tech
 title: >-
   https://www.thedailybeast.com/twitter-sued-for-owing-dollar500-million-in-severance-to-ex-employees
 ---

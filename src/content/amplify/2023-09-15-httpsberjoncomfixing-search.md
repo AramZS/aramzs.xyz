@@ -4,7 +4,7 @@ isBasedOn: 'https://berjon.com/fixing-search/'
 link: 'https://berjon.com/fixing-search/'
 slug: 2023-09-15-httpsberjoncomfixing-search
 tags:
-  - tech
+  - Tech
 title: 'https://berjon.com/fixing-search/'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-10-httpswww404mediacovoters-overwhelmingly-pass-car-right-to-repair-law-in-maine
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.404media.co/voters-overwhelmingly-pass-car-right-to-repair-law-in-maine/
 ---

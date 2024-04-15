@@ -6,7 +6,7 @@ slug: 2023-11-13-httpsmslashdotorgstory421375
 tags:
   - economic inequality
   - economy
-  - tech
+  - Tech
 title: 'https://m.slashdot.org/story/421375'
 ---
 

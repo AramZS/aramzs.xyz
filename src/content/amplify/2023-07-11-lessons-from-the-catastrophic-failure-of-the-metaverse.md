@@ -4,7 +4,7 @@ isBasedOn: 'https://www.thenation.com/article/culture/metaverse-zuckerberg-pr-hy
 link: 'https://www.thenation.com/article/culture/metaverse-zuckerberg-pr-hype/'
 slug: 2023-07-11-lessons-from-the-catastrophic-failure-of-the-metaverse
 tags:
-  - tech
+  - Tech
   - vr
 title: Lessons From the Catastrophic Failure of the Metaverse
 ---

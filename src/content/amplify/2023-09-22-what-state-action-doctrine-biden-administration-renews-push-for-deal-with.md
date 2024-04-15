@@ -8,7 +8,7 @@ slug: >-
   2023-09-22-what-state-action-doctrine-biden-administration-renews-push-for-deal-with
 tags:
   - social media
-  - tech
+  - Tech
 title: 'What State Action Doctrine? Biden Administration Renews Push For Deal With '
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-10-10-how-this-retired-widow-lost-dollar661000-in-a-common-elder-fraud-scheme
 tags:
   - law and order
-  - tech
+  - Tech
 title: 'How this retired widow lost $661,000 in a common elder fraud scheme'
 ---
 

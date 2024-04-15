@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-13-reddit-must-share-ip-addresses-of-piracy-discussing-users-film-studios-say
 tags:
-  - tech
+  - Tech
 title: 'Reddit must share IP addresses of piracy-discussing users, film studios say'
 ---
 

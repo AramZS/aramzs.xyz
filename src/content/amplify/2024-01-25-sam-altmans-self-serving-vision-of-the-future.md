@@ -5,7 +5,7 @@ link: 'https://disconnect.blog/sam-altmans-self-serving-vision-of-the-future/'
 slug: 2024-01-25-sam-altmans-self-serving-vision-of-the-future
 tags:
   - ai
-  - tech
+  - Tech
 title: Sam Altman's self-serving vision of the future
 ---
 

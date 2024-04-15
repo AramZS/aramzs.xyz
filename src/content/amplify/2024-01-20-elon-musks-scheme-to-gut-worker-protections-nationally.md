@@ -5,7 +5,7 @@ link: 'https://www.publicnotice.co/p/elon-musk-space-x-national-labor-relations-
 slug: 2024-01-20-elon-musks-scheme-to-gut-worker-protections-nationally
 tags:
   - labor
-  - tech
+  - Tech
 title: Elon Musk's scheme to gut worker protections nationally
 ---
 

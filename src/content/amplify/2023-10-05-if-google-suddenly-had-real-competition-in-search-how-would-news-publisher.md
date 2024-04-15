@@ -9,7 +9,7 @@ slug: >-
 tags:
   - journalism
   - search
-  - tech
+  - Tech
 title: 'If Google suddenly had real competition in search, how would news publisher'
 ---
 

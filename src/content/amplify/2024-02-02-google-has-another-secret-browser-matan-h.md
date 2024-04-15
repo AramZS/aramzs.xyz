@@ -4,7 +4,7 @@ isBasedOn: 'https://matan-h.com/another-secret-browser'
 link: 'https://matan-h.com/another-secret-browser'
 slug: 2024-02-02-google-has-another-secret-browser-matan-h
 tags:
-  - tech
+  - Tech
 title: Google has another secret browser - Matan-h
 ---
 

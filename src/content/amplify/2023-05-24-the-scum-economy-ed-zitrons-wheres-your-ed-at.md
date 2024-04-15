@@ -7,7 +7,7 @@ tags:
   - economy
   - media
   - social media
-  - tech
+  - Tech
 title: The Scum Economy - Ed Zitron's Where's Your Ed At
 ---
 

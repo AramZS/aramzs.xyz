@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-25-httpswwwcnbccom20230424spacex-starship-explosion-spread-particulate-matter-for-mileshtml
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.cnbc.com/2023/04/24/spacex-starship-explosion-spread-particulate-matter-for-miles.html
 ---

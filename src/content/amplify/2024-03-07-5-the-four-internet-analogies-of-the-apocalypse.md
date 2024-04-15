@@ -7,7 +7,7 @@ link: >-
 slug: 2024-03-07-5-the-four-internet-analogies-of-the-apocalypse
 tags:
   - law and order
-  - tech
+  - Tech
 title: (5) The Four Internet Analogies of the Apocalypse
 ---
 

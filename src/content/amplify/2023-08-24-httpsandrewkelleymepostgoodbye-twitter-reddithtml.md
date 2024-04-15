@@ -4,7 +4,7 @@ isBasedOn: 'https://andrewkelley.me/post/goodbye-twitter-reddit.html'
 link: 'https://andrewkelley.me/post/goodbye-twitter-reddit.html'
 slug: 2023-08-24-httpsandrewkelleymepostgoodbye-twitter-reddithtml
 tags:
-  - tech
+  - Tech
 title: 'https://andrewkelley.me/post/goodbye-twitter-reddit.html'
 ---
 

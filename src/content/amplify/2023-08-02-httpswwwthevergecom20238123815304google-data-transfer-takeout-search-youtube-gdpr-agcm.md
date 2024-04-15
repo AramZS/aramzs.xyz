@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-02-httpswwwthevergecom20238123815304google-data-transfer-takeout-search-youtube-gdpr-agcm
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.theverge.com/2023/8/1/23815304/google-data-transfer-takeout-search-youtube-gdpr-agcm
 ---

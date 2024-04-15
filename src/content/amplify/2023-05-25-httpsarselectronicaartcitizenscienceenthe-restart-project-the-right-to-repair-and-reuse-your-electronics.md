@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-25-httpsarselectronicaartcitizenscienceenthe-restart-project-the-right-to-repair-and-reuse-your-electronics
 tags:
-  - tech
+  - Tech
 title: >-
   https://ars.electronica.art/citizenscience/en/the-restart-project-the-right-to-repair-and-reuse-your-electronics/
 ---

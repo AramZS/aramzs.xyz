@@ -7,7 +7,7 @@ link: >-
 slug: 2024-02-26-the-washington-post-ai-dream-girls-are-coming-for-porn-stars-jobs
 tags:
   - ai
-  - tech
+  - Tech
 title: '[The Washington Post] AI ‘dream girls’ are coming for porn stars’ jobs'
 ---
 

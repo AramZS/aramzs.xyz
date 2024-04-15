@@ -6,7 +6,7 @@ slug: >-
   2023-09-29-elon-musks-x-headed-for-rule-of-law-clash-with-eu-warns-twitters-forme
 tags:
   - social media
-  - tech
+  - Tech
 title: 'Elon Musk’s X headed for ‘rule of law’ clash with EU, warns Twitter’s forme'
 ---
 

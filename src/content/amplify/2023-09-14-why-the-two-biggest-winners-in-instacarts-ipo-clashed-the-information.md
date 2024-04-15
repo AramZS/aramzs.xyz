@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-14-why-the-two-biggest-winners-in-instacarts-ipo-clashed-the-information
 tags:
-  - tech
+  - Tech
 title: Why the Two Biggest Winners in Instacart’s IPO Clashed — The Information
 ---
 

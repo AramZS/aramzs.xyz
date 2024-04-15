@@ -8,7 +8,7 @@ slug: >-
   2024-01-19-its-possible-to-find-spirituality-in-technology-but-beware-those-who-misu
 tags:
   - culture
-  - tech
+  - Tech
 title: 'It’s possible to find spirituality in technology, but beware those who misu'
 ---
 

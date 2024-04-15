@@ -4,7 +4,7 @@ isBasedOn: 'https://www.baldurbjarnason.com/2023/web-dev-untalented/'
 link: 'https://www.baldurbjarnason.com/2023/web-dev-untalented/'
 slug: 2023-11-08-web-developers-remarkably-untalented-and-careless-baldur-bjarnason
 tags:
-  - tech
+  - Tech
 title: "Web developers: remarkably untalented and careless? –\_Baldur Bjarnason"
 ---
 

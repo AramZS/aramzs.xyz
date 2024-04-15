@@ -8,7 +8,7 @@ slug: >-
   2023-06-21-httpswwwbloombergcomnewsarticles2023-06-21apple-illegally-interrogated-staff-about-union-judge-rules
 tags:
   - labor
-  - tech
+  - Tech
 title: >-
   https://www.bloomberg.com/news/articles/2023-06-21/apple-illegally-interrogated-staff-about-union-judge-rules
 ---

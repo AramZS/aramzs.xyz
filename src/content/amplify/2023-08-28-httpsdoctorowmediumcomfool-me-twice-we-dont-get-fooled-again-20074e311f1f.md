@@ -8,7 +8,7 @@ slug: >-
   2023-08-28-httpsdoctorowmediumcomfool-me-twice-we-dont-get-fooled-again-20074e311f1f
 tags:
   - social media
-  - tech
+  - Tech
 title: >-
   https://doctorow.medium.com/fool-me-twice-we-dont-get-fooled-again-20074e311f1f
 ---

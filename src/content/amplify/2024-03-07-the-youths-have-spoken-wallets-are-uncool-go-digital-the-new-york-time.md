@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-07-the-youths-have-spoken-wallets-are-uncool-go-digital-the-new-york-time
 tags:
-  - tech
+  - Tech
 title: 'The Youths Have Spoken: Wallets Are Uncool. Go Digital. - The New York Time'
 ---
 

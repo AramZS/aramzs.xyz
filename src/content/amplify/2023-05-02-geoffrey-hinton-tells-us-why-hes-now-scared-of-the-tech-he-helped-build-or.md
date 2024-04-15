@@ -8,7 +8,7 @@ slug: >-
   2023-05-02-geoffrey-hinton-tells-us-why-hes-now-scared-of-the-tech-he-helped-build-or
 tags:
   - ai
-  - tech
+  - Tech
 title: 'Geoffrey Hinton tells us why he’s now scared of the tech he helped build | '
 ---
 

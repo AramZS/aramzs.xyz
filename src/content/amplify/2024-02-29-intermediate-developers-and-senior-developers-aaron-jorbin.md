@@ -4,7 +4,7 @@ isBasedOn: 'https://aaron.jorb.in/intermediate-developers-and-senior-developers/
 link: 'https://aaron.jorb.in/intermediate-developers-and-senior-developers/'
 slug: 2024-02-29-intermediate-developers-and-senior-developers-aaron-jorbin
 tags:
-  - tech
+  - Tech
 title: Intermediate Developers and Senior Developers - Aaron Jorbin
 ---
 

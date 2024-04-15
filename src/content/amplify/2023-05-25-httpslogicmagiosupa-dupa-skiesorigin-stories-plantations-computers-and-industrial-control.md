@@ -8,7 +8,7 @@ slug: >-
   2023-05-25-httpslogicmagiosupa-dupa-skiesorigin-stories-plantations-computers-and-industrial-control
 tags:
   - labor
-  - tech
+  - Tech
 title: >-
   https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-and-industrial-control/
 ---

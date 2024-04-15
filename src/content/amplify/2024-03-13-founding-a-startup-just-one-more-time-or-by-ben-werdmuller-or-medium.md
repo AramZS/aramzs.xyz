@@ -6,7 +6,7 @@ slug: >-
   2024-03-13-founding-a-startup-just-one-more-time-or-by-ben-werdmuller-or-medium
 tags:
   - business
-  - tech
+  - Tech
 title: 'Founding a Startup, Just One More Time | by Ben Werdmuller | Medium'
 ---
 

@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - media
-  - tech
+  - Tech
 title: 'Google now wants to answer your questions without links and with AI. Where '
 ---
 

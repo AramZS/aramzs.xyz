@@ -7,7 +7,7 @@ link: >-
 slug: 2023-02-17-what-is-chatgpt-doing-and-why-does-it-workstephen-wolfram-writings
 tags:
   - ai
-  - tech
+  - Tech
 title: What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings
 ---
 

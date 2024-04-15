@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-18-opinion-or-brian-merchant-why-im-a-luddite-despite-previously-loving-techn
 tags:
-  - tech
+  - Tech
 title: 'Opinion | Brian Merchant: Why I''m a Luddite despite previously loving techn'
 ---
 

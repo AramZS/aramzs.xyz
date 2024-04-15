@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2023/03/26/technology/twitter-source-code-leak.ht
 slug: 2023-03-26-httpswwwnytimescom20230326technologytwitter-source-code-leakhtml
 tags:
   - social media
-  - tech
+  - Tech
 title: 'https://www.nytimes.com/2023/03/26/technology/twitter-source-code-leak.html'
 ---
 

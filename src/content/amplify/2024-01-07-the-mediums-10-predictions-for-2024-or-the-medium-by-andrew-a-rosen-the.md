@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-07-the-mediums-10-predictions-for-2024-or-the-medium-by-andrew-a-rosen-the
 tags:
-  - tech
+  - Tech
 title: 'The Medium''s 10 Predictions for 2024 | The Medium by Andrew A. Rosen — The '
 ---
 

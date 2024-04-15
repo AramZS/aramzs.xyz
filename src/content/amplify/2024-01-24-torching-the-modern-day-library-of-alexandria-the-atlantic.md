@@ -6,7 +6,7 @@ link: >-
   https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/?trk=public_post_comment-text
 slug: 2024-01-24-torching-the-modern-day-library-of-alexandria-the-atlantic
 tags:
-  - tech
+  - Tech
 title: Torching the Modern-Day Library of Alexandria - The Atlantic
 ---
 

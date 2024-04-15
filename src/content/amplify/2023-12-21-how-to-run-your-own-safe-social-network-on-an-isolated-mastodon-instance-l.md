@@ -7,7 +7,7 @@ slug: >-
 tags:
   - decentralization
   - social media
-  - tech
+  - Tech
 title: How to run your own safe social network on an isolated Mastodon instance (L
 ---
 

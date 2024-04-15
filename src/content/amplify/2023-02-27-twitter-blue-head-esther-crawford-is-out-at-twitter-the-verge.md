@@ -7,7 +7,7 @@ link: >-
 slug: 2023-02-27-twitter-blue-head-esther-crawford-is-out-at-twitter-the-verge
 tags:
   - social media
-  - tech
+  - Tech
 title: Twitter Blue head Esther Crawford is out at Twitter - The Verge
 ---
 

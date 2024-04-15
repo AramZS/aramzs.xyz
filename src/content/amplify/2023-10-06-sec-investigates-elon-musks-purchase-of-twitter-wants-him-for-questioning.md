@@ -8,7 +8,7 @@ slug: >-
   2023-10-06-sec-investigates-elon-musks-purchase-of-twitter-wants-him-for-questioning
 tags:
   - law and order
-  - tech
+  - Tech
 title: 'SEC Investigates Elon Musk''s Purchase of Twitter, Wants Him for Questioning'
 ---
 

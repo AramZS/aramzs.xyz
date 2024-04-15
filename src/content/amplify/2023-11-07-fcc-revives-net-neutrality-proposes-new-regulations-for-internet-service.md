@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-07-fcc-revives-net-neutrality-proposes-new-regulations-for-internet-service
 tags:
-  - tech
+  - Tech
 title: 'FCC Revives ‘Net Neutrality,’ Proposes New Regulations for Internet Service'
 ---
 

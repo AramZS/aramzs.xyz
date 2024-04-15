@@ -5,7 +5,7 @@ link: 'https://www.newyorker.com/magazine/2023/08/28/elon-musks-shadow-rule'
 slug: 2024-02-06-elon-musks-shadow-rule-or-the-new-yorker
 tags:
   - politics
-  - tech
+  - Tech
 title: Elon Musk’s Shadow Rule | The New Yorker
 ---
 

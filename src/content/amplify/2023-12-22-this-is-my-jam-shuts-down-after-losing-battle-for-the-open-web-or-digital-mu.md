@@ -8,7 +8,7 @@ slug: >-
   2023-12-22-this-is-my-jam-shuts-down-after-losing-battle-for-the-open-web-or-digital-mu
 tags:
   - Music
-  - tech
+  - Tech
 title: This Is My Jam shuts down after losing battle for the open web | Digital mu
 ---
 

@@ -5,7 +5,7 @@ link: 'http://scripting.com/2023/10/07.html#a200304'
 slug: >-
   2023-10-07-i-was-talking-with-some-friends-the-other-day-about-what-a-project-to-resto
 tags:
-  - tech
+  - Tech
 title: I was talking with some friends the other day about what a project to resto
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://www.cjr.org/the_media_today/internet_archive_library_case.ph
 link: 'https://www.cjr.org/the_media_today/internet_archive_library_case.php'
 slug: 2023-03-30-httpswwwcjrorgthemediatodayinternetarchivelibrarycasephp
 tags:
-  - tech
+  - Tech
 title: 'https://www.cjr.org/the_media_today/internet_archive_library_case.php'
 ---
 

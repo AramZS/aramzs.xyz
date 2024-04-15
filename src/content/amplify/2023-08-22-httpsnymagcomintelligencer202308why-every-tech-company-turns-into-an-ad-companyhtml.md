@@ -8,7 +8,7 @@ slug: >-
   2023-08-22-httpsnymagcomintelligencer202308why-every-tech-company-turns-into-an-ad-companyhtml
 tags:
   - ad tech
-  - tech
+  - Tech
 title: >-
   https://nymag.com/intelligencer/2023/08/why-every-tech-company-turns-into-an-ad-company.html#
 ---

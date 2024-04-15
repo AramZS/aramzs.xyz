@@ -8,7 +8,7 @@ slug: >-
   2023-10-19-youtube-tests-disabling-videos-for-people-using-ad-blockers-the-verge
 tags:
   - ad tech
-  - tech
+  - Tech
 title: YouTube tests disabling videos for people using ad blockers - The Verge
 ---
 

@@ -8,7 +8,7 @@ slug: 2024-02-25-privacy-not-included-or-shop-smart-and-safe-or-mozilla-foundati
 tags:
   - cars
   - Privacy
-  - tech
+  - Tech
 title: '*privacy not included | Shop smart and safe | Mozilla Foundation'
 ---
 

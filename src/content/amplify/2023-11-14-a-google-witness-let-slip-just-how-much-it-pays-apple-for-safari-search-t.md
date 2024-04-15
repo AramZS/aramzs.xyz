@@ -8,7 +8,7 @@ slug: >-
   2023-11-14-a-google-witness-let-slip-just-how-much-it-pays-apple-for-safari-search-t
 tags:
   - ad tech
-  - tech
+  - Tech
 title: A Google witness let slip just how much it pays Apple for Safari search - T
 ---
 

@@ -5,7 +5,7 @@ link: 'https://cyberscoop.com/cult-of-the-dead-cow-veilid/'
 slug: >-
   2023-09-26-how-the-cult-of-the-dead-cow-plans-to-save-the-internet-or-cyberscoop
 tags:
-  - tech
+  - Tech
 title: How the Cult of the Dead Cow plans to save the internet | CyberScoop
 ---
 

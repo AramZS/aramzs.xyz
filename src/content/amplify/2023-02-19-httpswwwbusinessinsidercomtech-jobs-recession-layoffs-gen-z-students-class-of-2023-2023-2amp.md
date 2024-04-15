@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-02-19-httpswwwbusinessinsidercomtech-jobs-recession-layoffs-gen-z-students-class-of-2023-2023-2amp
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.businessinsider.com/tech-jobs-recession-layoffs-gen-z-students-class-of-2023-2023-2?amp
 ---

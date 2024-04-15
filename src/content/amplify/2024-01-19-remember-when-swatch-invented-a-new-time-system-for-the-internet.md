@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-19-remember-when-swatch-invented-a-new-time-system-for-the-internet
 tags:
   - History
-  - tech
+  - Tech
 title: Remember When Swatch Invented a New Time System for the Internet?
 ---
 

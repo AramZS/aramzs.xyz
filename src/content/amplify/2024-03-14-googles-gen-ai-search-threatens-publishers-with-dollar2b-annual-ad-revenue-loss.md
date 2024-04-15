@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - media
-  - tech
+  - Tech
 title: Google's Gen AI Search Threatens Publishers With $2B Annual Ad Revenue Loss
 ---
 

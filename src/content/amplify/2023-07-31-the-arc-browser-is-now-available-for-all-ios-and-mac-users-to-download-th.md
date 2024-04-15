@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-31-the-arc-browser-is-now-available-for-all-ios-and-mac-users-to-download-th
 tags:
-  - tech
+  - Tech
 title: The Arc browser is now available for all iOS and Mac users to download - Th
 ---
 

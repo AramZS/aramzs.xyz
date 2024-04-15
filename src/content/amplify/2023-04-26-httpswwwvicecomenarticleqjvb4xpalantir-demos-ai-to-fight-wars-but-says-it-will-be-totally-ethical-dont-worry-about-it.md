@@ -8,7 +8,7 @@ slug: >-
   2023-04-26-httpswwwvicecomenarticleqjvb4xpalantir-demos-ai-to-fight-wars-but-says-it-will-be-totally-ethical-dont-worry-about-it
 tags:
   - ai
-  - tech
+  - Tech
 title: >-
   https://www.vice.com/en/article/qjvb4x/palantir-demos-ai-to-fight-wars-but-says-it-will-be-totally-ethical-dont-worry-about-it
 ---

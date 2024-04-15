@@ -8,7 +8,7 @@ slug: >-
   2023-08-01-httpswwwpcmagcomnewselon-musk-will-train-his-ai-project-using-your-tweets
 tags:
   - ai
-  - tech
+  - Tech
 title: >-
   https://www.pcmag.com/news/elon-musk-will-train-his-ai-project-using-your-tweets
 ---

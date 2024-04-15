@@ -6,7 +6,7 @@ slug: >-
   2023-08-08-big-desks-and-little-people-we-are-not-paying-enough-attention-to-or-by-da
 tags:
   - Privacy
-  - tech
+  - Tech
 title: Big Desks and Little People. We are not paying enough attention to… | by Da
 ---
 

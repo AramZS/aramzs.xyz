@@ -10,7 +10,7 @@ tags:
   - law and order
   - politics
   - social media
-  - tech
+  - Tech
 title: Politicians Who Voted to Ban TikTok May Own as Much as $126 Million in Tech
 ---
 

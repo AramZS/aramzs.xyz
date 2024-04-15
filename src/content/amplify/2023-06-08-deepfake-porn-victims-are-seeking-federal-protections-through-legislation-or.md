@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-08-deepfake-porn-victims-are-seeking-federal-protections-through-legislation-or
 tags:
-  - tech
+  - Tech
   - women
 title: Deepfake Porn Victims Are Seeking Federal Protections Through Legislation |
 ---

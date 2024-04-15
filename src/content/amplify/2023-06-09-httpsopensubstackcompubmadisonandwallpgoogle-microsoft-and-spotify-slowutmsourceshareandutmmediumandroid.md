@@ -8,7 +8,7 @@ slug: >-
   2023-06-09-httpsopensubstackcompubmadisonandwallpgoogle-microsoft-and-spotify-slowutmsourceshareandutmmediumandroid
 tags:
   - business
-  - tech
+  - Tech
 title: >-
   https://open.substack.com/pub/madisonandwall/p/google-microsoft-and-spotify-slow?utm_source=share&utm_medium=android
 ---

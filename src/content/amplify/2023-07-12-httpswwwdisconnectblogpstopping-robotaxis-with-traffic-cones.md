@@ -4,7 +4,7 @@ isBasedOn: 'https://www.disconnect.blog/p/stopping-robotaxis-with-traffic-cones'
 link: 'https://www.disconnect.blog/p/stopping-robotaxis-with-traffic-cones'
 slug: 2023-07-12-httpswwwdisconnectblogpstopping-robotaxis-with-traffic-cones
 tags:
-  - tech
+  - Tech
 title: 'https://www.disconnect.blog/p/stopping-robotaxis-with-traffic-cones'
 ---
 

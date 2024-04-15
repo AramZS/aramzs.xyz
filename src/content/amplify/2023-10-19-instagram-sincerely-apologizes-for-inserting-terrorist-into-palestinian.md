@@ -7,7 +7,7 @@ slug: >-
 tags:
   - israel
   - social media
-  - tech
+  - Tech
 title: Instagram ‘Sincerely Apologizes’ For Inserting ‘Terrorist’ Into Palestinian
 ---
 

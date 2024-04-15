@@ -8,7 +8,7 @@ slug: >-
   2024-02-03-augmented-reality-changes-how-people-interact-and-communicate-study-finds
 tags:
   - culture
-  - tech
+  - Tech
 title: 'Augmented reality changes how people interact and communicate, study finds '
 ---
 

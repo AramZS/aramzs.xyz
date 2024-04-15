@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-09-httpsrachelcoldicuttmediumcomon-understanding-power-and-technology-1345dc57a1a
 tags:
-  - tech
+  - Tech
 title: >-
   https://rachelcoldicutt.medium.com/on-understanding-power-and-technology-1345dc57a1a
 ---

@@ -8,7 +8,7 @@ slug: >-
   2023-11-03-httpstechcrunchcom20231102sam-bankman-fried-found-guilty-on-all-seven-countsguccounter1
 tags:
   - crypto currency
-  - tech
+  - Tech
 title: >-
   https://techcrunch.com/2023/11/02/sam-bankman-fried-found-guilty-on-all-seven-counts/?guccounter=1
 ---

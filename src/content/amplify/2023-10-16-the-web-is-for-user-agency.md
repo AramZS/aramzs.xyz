@@ -4,7 +4,7 @@ isBasedOn: 'https://berjon.com/user-agency/'
 link: 'https://berjon.com/user-agency/'
 slug: 2023-10-16-the-web-is-for-user-agency
 tags:
-  - tech
+  - Tech
 title: The Web Is For User Agency
 ---
 

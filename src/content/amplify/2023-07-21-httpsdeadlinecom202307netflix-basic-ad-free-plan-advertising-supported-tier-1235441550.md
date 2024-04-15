@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ad tech
   - entertainment
-  - tech
+  - Tech
 title: >-
   https://deadline.com/2023/07/netflix-basic-ad-free-plan-advertising-supported-tier-1235441550/
 ---

@@ -5,7 +5,7 @@ link: 'https://kottke.org/23/07/revisiting-the-long-boom'
 slug: 2023-07-13-revisiting-the-long-boom
 tags:
   - economy
-  - tech
+  - Tech
 title: Revisiting the Long Boom
 ---
 

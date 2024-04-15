@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-18-truth-social-head-of-engineering-leaves-for-jack-dorsey-backed-alternative
 tags:
-  - tech
+  - Tech
 title: 'Truth Social Head of Engineering Leaves for Jack-Dorsey-Backed Alternative,'
 ---
 

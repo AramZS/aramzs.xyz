@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-21-openai-and-sam-altmans-palace-intrigue-might-break-big-techs-hot-new-toy
 tags:
-  - tech
+  - Tech
 title: OpenAI and Sam Altman’s Palace Intrigue Might Break Big Tech’s Hot New Toy
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-06-httpswwwvicecomenarticleak3dp4dpreview-alternatives-dprevived-digicam-finder
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.vice.com/en/article/ak3dp4/dpreview-alternatives-dprevived-digicam-finder
 ---

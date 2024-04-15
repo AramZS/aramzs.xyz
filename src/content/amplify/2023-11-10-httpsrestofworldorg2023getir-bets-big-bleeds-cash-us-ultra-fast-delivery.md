@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-10-httpsrestofworldorg2023getir-bets-big-bleeds-cash-us-ultra-fast-delivery
 tags:
-  - tech
+  - Tech
 title: >-
   https://restofworld.org/2023/getir-bets-big-bleeds-cash-us-ultra-fast-delivery/
 ---

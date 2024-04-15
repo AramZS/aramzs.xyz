@@ -8,7 +8,7 @@ slug: >-
   2023-04-08-httpswwwnytimescom20230407technologyai-chatbots-google-microsofthtml
 tags:
   - ai
-  - tech
+  - Tech
 title: >-
   https://www.nytimes.com/2023/04/07/technology/ai-chatbots-google-microsoft.html
 ---

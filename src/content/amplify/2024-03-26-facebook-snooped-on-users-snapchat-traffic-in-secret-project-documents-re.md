@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-26-facebook-snooped-on-users-snapchat-traffic-in-secret-project-documents-re
 tags:
-  - tech
+  - Tech
 title: 'Facebook snooped on users’ Snapchat traffic in secret project, documents re'
 ---
 

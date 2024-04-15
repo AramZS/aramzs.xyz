@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-31-elon-musk-forced-to-take-down-disastrous-x-sign-on-twitter-building-after
 tags:
-  - tech
+  - Tech
 title: Elon Musk Forced to Take Down Disastrous 'X' Sign on Twitter Building After
 ---
 

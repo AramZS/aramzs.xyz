@@ -5,7 +5,7 @@ link: 'https://www.linuxjournal.com/content/digital-unconformity'
 slug: 2023-04-14-the-digital-unconformity-or-linux-journal
 tags:
   - culture
-  - tech
+  - Tech
 title: The Digital Unconformity | Linux Journal
 ---
 

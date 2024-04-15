@@ -8,7 +8,7 @@ slug: >-
   2023-04-03-httpswwwnytimescom20230331podcastshard-fork-sundarhtmlcuratormediaredef
 tags:
   - business
-  - tech
+  - Tech
 title: >-
   https://www.nytimes.com/2023/03/31/podcasts/hard-fork-sundar.html?curator=MediaREDEF
 ---

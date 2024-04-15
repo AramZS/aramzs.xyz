@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-06-httpswwwwnycstudiosorgpodcastsotmepisodeson-the-media-how-big-tech-went-to-shh
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.wnycstudios.org/podcasts/otm/episodes/on-the-media-how-big-tech-went-to-shh
 ---

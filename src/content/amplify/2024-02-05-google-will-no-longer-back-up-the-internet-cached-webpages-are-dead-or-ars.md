@@ -8,7 +8,7 @@ slug: >-
   2024-02-05-google-will-no-longer-back-up-the-internet-cached-webpages-are-dead-or-ars
 tags:
   - Archiving
-  - tech
+  - Tech
 title: 'Google will no longer back up the Internet: Cached webpages are dead | Ars '
 ---
 

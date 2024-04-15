@@ -8,7 +8,7 @@ slug: >-
   2023-02-25-httpswwwrollingstonecompoliticspolitics-newselon-musk-twitter-no-transparency-reports-government-data-1234684941
 tags:
   - social media
-  - tech
+  - Tech
 title: >-
   https://www.rollingstone.com/politics/politics-news/elon-musk-twitter-no-transparency-reports-government-data-1234684941/
 ---

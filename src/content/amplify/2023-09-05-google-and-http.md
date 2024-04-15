@@ -5,7 +5,7 @@ link: 'https://this.how/googleAndHttp/'
 slug: 2023-09-05-google-and-http
 tags:
   - IndieWeb
-  - tech
+  - Tech
 title: Google and HTTP
 ---
 

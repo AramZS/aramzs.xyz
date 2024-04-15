@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-28-microsoft-now-thirstily-injects-a-poll-when-you-download-google-chrome-th
 tags:
-  - tech
+  - Tech
 title: Microsoft now thirstily injects a poll when you download Google Chrome - Th
 ---
 

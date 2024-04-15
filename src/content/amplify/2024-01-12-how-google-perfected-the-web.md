@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-12-how-google-perfected-the-web
 tags:
   - seo
-  - tech
+  - Tech
 title: How Google perfected the web
 ---
 

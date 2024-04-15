@@ -9,7 +9,7 @@ slug: >-
 tags:
   - entertainment
   - media
-  - tech
+  - Tech
 title: >-
   https://kotaku.com/anime-rock-paper-scissors-corridor-digital-ai-animation-1850186624
 ---

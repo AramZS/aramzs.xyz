@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-17-humanitys-remaining-timeline-it-looks-more-like-five-years-than-50-mee
 tags:
-  - tech
+  - Tech
 title: '‘Humanity’s remaining timeline? It looks more like five years than 50’: mee'
 ---
 

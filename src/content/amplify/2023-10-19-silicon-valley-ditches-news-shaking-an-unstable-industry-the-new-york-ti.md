@@ -7,7 +7,7 @@ slug: >-
 tags:
   - journalism
   - media
-  - tech
+  - Tech
 title: 'Silicon Valley Ditches News, Shaking an Unstable Industry - The New York Ti'
 ---
 

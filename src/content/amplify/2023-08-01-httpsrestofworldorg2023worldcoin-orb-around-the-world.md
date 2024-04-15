@@ -5,7 +5,7 @@ link: 'https://restofworld.org/2023/worldcoin-orb-around-the-world/'
 slug: 2023-08-01-httpsrestofworldorg2023worldcoin-orb-around-the-world
 tags:
   - Privacy
-  - tech
+  - Tech
 title: 'https://restofworld.org/2023/worldcoin-orb-around-the-world/'
 ---
 

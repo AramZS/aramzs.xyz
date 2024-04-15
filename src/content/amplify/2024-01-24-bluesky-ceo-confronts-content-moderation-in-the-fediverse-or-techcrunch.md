@@ -8,7 +8,7 @@ slug: >-
   2024-01-24-bluesky-ceo-confronts-content-moderation-in-the-fediverse-or-techcrunch
 tags:
   - social media
-  - tech
+  - Tech
 title: Bluesky CEO confronts content moderation in the fediverse | TechCrunch
 ---
 

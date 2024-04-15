@@ -6,7 +6,7 @@ slug: 2023-08-30-augmenting-human-intellect-a-conceptual-framework-1962-augment3
 tags:
   - culture
   - cybernetics
-  - tech
+  - Tech
 title: "Augmenting Human Intellect: A Conceptual Framework - 1962 (AUGMENT,3906,)\_-"
 ---
 

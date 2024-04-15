@@ -8,7 +8,7 @@ slug: >-
   2023-06-27-httpswwwwsjcomarticlessilicon-valley-microdosing-ketamine-lsd-magic-mushrooms-d381e214
 tags:
   - health
-  - tech
+  - Tech
 title: >-
   https://www.wsj.com/articles/silicon-valley-microdosing-ketamine-lsd-magic-mushrooms-d381e214
 ---

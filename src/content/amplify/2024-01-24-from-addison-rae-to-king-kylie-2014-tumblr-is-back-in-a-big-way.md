@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-24-from-addison-rae-to-king-kylie-2014-tumblr-is-back-in-a-big-way
 tags:
   - culture
-  - tech
+  - Tech
 title: 'From Addison Rae to King Kylie, 2014 Tumblr is back in a big way'
 ---
 

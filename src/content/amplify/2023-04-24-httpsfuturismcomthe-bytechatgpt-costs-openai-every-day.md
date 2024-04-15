@@ -5,7 +5,7 @@ link: 'https://futurism.com/the-byte/chatgpt-costs-openai-every-day'
 slug: 2023-04-24-httpsfuturismcomthe-bytechatgpt-costs-openai-every-day
 tags:
   - ai
-  - tech
+  - Tech
 title: 'https://futurism.com/the-byte/chatgpt-costs-openai-every-day'
 ---
 

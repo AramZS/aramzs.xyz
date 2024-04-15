@@ -7,7 +7,7 @@ link: >-
 slug: 2023-10-24-google-chromes-new-ip-protection-will-hide-users-ip-addresses
 tags:
   - Privacy
-  - tech
+  - Tech
 title: Google Chrome's new "IP Protection" will hide users' IP addresses
 ---
 

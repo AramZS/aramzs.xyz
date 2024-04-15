@@ -8,7 +8,7 @@ slug: >-
   2024-01-17-google-updates-chrome-incognito-disclaimer-amid-dollar5-billion-lawsuit-settleme
 tags:
   - Privacy
-  - tech
+  - Tech
 title: Google updates Chrome Incognito disclaimer amid $5 billion lawsuit settleme
 ---
 

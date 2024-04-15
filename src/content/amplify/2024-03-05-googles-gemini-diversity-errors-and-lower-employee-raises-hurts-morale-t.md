@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-05-googles-gemini-diversity-errors-and-lower-employee-raises-hurts-morale-t
 tags:
-  - tech
+  - Tech
 title: Google’s Gemini diversity errors and lower employee raises hurts morale - T
 ---
 

@@ -7,7 +7,7 @@ tags:
   - ad tech
   - journalism
   - media
-  - tech
+  - Tech
 title: Google News Is Boosting Garbage AI-Generated Articles
 ---
 

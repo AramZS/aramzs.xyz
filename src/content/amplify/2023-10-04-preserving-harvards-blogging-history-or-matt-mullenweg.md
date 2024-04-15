@@ -5,7 +5,7 @@ link: 'https://ma.tt/2023/10/preserving-harvards-blogging-history/'
 slug: 2023-10-04-preserving-harvards-blogging-history-or-matt-mullenweg
 tags:
   - History
-  - tech
+  - Tech
 title: Preserving Harvard’s Blogging History | Matt Mullenweg
 ---
 

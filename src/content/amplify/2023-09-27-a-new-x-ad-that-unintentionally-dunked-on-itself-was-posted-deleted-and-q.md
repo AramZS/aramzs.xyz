@@ -6,7 +6,7 @@ slug: >-
   2023-09-27-a-new-x-ad-that-unintentionally-dunked-on-itself-was-posted-deleted-and-q
 tags:
   - social media
-  - tech
+  - Tech
 title: 'A new X ad that unintentionally dunked on itself was posted, deleted, and q'
 ---
 

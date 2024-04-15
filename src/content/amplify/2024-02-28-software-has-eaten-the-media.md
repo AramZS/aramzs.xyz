@@ -5,7 +5,7 @@ link: 'https://www.wheresyoured.at/the-anti-economy/'
 slug: 2024-02-28-software-has-eaten-the-media
 tags:
   - media
-  - tech
+  - Tech
 title: Software Has Eaten The Media
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://www.begaydocrime.com/'
 link: 'https://www.begaydocrime.com/'
 slug: 2023-08-28-httpswwwbegaydocrimecom
 tags:
-  - tech
+  - Tech
 title: 'https://www.begaydocrime.com/'
 ---
 

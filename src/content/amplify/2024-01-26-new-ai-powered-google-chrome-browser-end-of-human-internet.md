@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-26-new-ai-powered-google-chrome-browser-end-of-human-internet
 tags:
   - ai
-  - tech
+  - Tech
 title: 'New AI-Powered Google Chrome Browser: End of Human Internet?'
 ---
 

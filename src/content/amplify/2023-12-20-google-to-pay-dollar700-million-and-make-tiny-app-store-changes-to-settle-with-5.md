@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-12-20-google-to-pay-dollar700-million-and-make-tiny-app-store-changes-to-settle-with-5
 tags:
-  - tech
+  - Tech
 title: Google to pay $700 million and make tiny app store changes to settle with 5
 ---
 

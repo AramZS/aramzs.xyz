@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-04-new-pbs-documentary-brings-elon-musk-and-his-3-year-old-to-the-moma-the
 tags:
-  - tech
+  - Tech
 title: New PBS Documentary Brings Elon Musk (and His 3-Year-Old) to the MoMA - The
 ---
 

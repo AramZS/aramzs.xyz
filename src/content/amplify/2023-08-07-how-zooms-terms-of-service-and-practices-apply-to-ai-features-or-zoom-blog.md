@@ -5,7 +5,7 @@ link: 'https://blog.zoom.us/zooms-term-service-ai/'
 slug: >-
   2023-08-07-how-zooms-terms-of-service-and-practices-apply-to-ai-features-or-zoom-blog
 tags:
-  - tech
+  - Tech
 title: How Zoom’s terms of service and practices apply to AI features | Zoom Blog
 ---
 

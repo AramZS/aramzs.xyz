@@ -8,7 +8,7 @@ slug: >-
   2023-11-06-ai-companies-have-all-kinds-of-arguments-against-paying-for-copyrighted-con
 tags:
   - ai
-  - tech
+  - Tech
 title: AI companies have all kinds of arguments against paying for copyrighted con
 ---
 

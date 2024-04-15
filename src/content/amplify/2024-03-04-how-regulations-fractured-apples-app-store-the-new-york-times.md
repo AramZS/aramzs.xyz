@@ -4,7 +4,7 @@ isBasedOn: 'https://www.nytimes.com/2024/03/04/technology/app-store-europe-law.h
 link: 'https://www.nytimes.com/2024/03/04/technology/app-store-europe-law.html'
 slug: 2024-03-04-how-regulations-fractured-apples-app-store-the-new-york-times
 tags:
-  - tech
+  - Tech
 title: How Regulations Fractured Apple’s App Store - The New York Times
 ---
 

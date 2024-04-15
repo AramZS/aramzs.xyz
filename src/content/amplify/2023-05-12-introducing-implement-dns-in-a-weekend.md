@@ -5,7 +5,7 @@ link: 'https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/'
 slug: 2023-05-12-introducing-implement-dns-in-a-weekend
 tags:
   - howto
-  - tech
+  - Tech
 title: Introducing "Implement DNS in a Weekend"
 ---
 

@@ -5,7 +5,7 @@ link: 'https://www.vulture.com/2023/04/spotify-discover-weekly-songs-essay.html'
 slug: 2023-04-07-httpswwwvulturecom202304spotify-discover-weekly-songs-essayhtml
 tags:
   - Music
-  - tech
+  - Tech
 title: 'https://www.vulture.com/2023/04/spotify-discover-weekly-songs-essay.html'
 ---
 

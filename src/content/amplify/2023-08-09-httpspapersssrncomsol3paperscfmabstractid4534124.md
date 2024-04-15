@@ -5,7 +5,7 @@ link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4534124'
 slug: 2023-08-09-httpspapersssrncomsol3paperscfmabstractid4534124
 tags:
   - culture
-  - tech
+  - Tech
 title: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4534124'
 ---
 

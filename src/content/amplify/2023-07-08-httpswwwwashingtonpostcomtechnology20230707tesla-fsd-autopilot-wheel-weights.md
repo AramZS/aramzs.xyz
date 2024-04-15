@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-08-httpswwwwashingtonpostcomtechnology20230707tesla-fsd-autopilot-wheel-weights
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.washingtonpost.com/technology/2023/07/07/tesla-fsd-autopilot-wheel-weights/
 ---

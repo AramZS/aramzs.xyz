@@ -10,7 +10,7 @@ tags:
   - antitrust
   - law and order
   - Privacy
-  - tech
+  - Tech
 title: Data Is the New Currency - WSJ
 ---
 

@@ -5,7 +5,7 @@ link: 'https://www.platformer.news/p/the-ai-hallucinations-intensify'
 slug: 2023-05-31-httpswwwplatformernewspthe-ai-hallucinations-intensify
 tags:
   - ai
-  - tech
+  - Tech
 title: 'https://www.platformer.news/p/the-ai-hallucinations-intensify'
 ---
 

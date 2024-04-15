@@ -6,7 +6,7 @@ slug: >-
   2023-11-21-opinion-or-how-companies-like-google-control-our-privacy-and-our-data-the
 tags:
   - Privacy
-  - tech
+  - Tech
 title: 'Opinion | How Companies Like Google Control Our Privacy and Our Data - The '
 ---
 

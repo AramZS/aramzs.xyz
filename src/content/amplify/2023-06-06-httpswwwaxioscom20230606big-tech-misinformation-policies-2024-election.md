@@ -9,7 +9,7 @@ slug: >-
 tags:
   - media
   - misinformation
-  - tech
+  - Tech
 title: >-
   https://www.axios.com/2023/06/06/big-tech-misinformation-policies-2024-election
 ---

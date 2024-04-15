@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-11-how-an-iphone-that-fell-from-alaska-airlines-plane-stayed-fully-intact-th
 tags:
-  - tech
+  - Tech
 title: How an iPhone that fell from Alaska Airlines plane stayed fully intact - Th
 ---
 

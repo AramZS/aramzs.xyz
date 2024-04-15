@@ -8,7 +8,7 @@ slug: >-
   2024-03-20-users-ditch-glassdoor-stunned-by-site-adding-real-names-without-consent-or
 tags:
   - Privacy
-  - tech
+  - Tech
 title: 'Users ditch Glassdoor, stunned by site adding real names without consent | '
 ---
 

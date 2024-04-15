@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-24-face-search-engine-pimeyes-blocks-searches-of-childrens-faces-the-new-yo
 tags:
-  - tech
+  - Tech
 title: Face Search Engine PimEyes Blocks Searches of Children’s Faces - The New Yo
 ---
 

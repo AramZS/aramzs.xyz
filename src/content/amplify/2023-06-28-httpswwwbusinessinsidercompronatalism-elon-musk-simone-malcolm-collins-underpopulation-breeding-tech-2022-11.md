@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-28-httpswwwbusinessinsidercompronatalism-elon-musk-simone-malcolm-collins-underpopulation-breeding-tech-2022-11
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.businessinsider.com/pronatalism-elon-musk-simone-malcolm-collins-underpopulation-breeding-tech-2022-11
 ---

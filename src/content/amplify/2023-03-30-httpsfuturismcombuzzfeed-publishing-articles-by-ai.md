@@ -6,7 +6,7 @@ slug: 2023-03-30-httpsfuturismcombuzzfeed-publishing-articles-by-ai
 tags:
   - ai
   - media
-  - tech
+  - Tech
 title: 'https://futurism.com/buzzfeed-publishing-articles-by-ai'
 ---
 

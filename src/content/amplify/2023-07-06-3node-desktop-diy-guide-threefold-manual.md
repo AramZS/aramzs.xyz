@@ -7,7 +7,7 @@ link: >-
 slug: 2023-07-06-3node-desktop-diy-guide-threefold-manual
 tags:
   - decentralization
-  - tech
+  - Tech
 title: 3Node Desktop DIY Guide - ThreeFold Manual
 ---
 

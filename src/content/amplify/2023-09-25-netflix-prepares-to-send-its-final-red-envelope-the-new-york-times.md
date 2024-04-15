@@ -7,7 +7,7 @@ link: >-
 slug: 2023-09-25-netflix-prepares-to-send-its-final-red-envelope-the-new-york-times
 tags:
   - entertainment
-  - tech
+  - Tech
 title: Netflix Prepares to Send Its Final Red Envelope - The New York Times
 ---
 

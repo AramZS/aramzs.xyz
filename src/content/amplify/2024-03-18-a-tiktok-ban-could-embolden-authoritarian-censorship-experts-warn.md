@@ -8,7 +8,7 @@ slug: 2024-03-18-a-tiktok-ban-could-embolden-authoritarian-censorship-experts-wa
 tags:
   - culture
   - social media
-  - tech
+  - Tech
 title: 'A TikTok ban could embolden authoritarian censorship, experts warn'
 ---
 

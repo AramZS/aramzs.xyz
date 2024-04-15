@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-12-12-epic-win-jury-decides-google-has-illegal-monopoly-in-app-store-fight-the
 tags:
-  - tech
+  - Tech
 title: 'Epic win: Jury decides Google has illegal monopoly in app store fight - The'
 ---
 

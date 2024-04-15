@@ -8,7 +8,7 @@ slug: >-
   2023-03-01-httpswwwwiredcomstoryface-recognition-software-led-to-his-arrest-it-was-dead-wrong
 tags:
   - law and order
-  - tech
+  - Tech
 title: >-
   https://www.wired.com/story/face-recognition-software-led-to-his-arrest-it-was-dead-wrong/
 ---

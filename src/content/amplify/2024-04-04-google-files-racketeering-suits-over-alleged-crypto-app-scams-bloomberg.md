@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-04-google-files-racketeering-suits-over-alleged-crypto-app-scams-bloomberg
 tags:
-  - tech
+  - Tech
 title: Google Files Racketeering Suits Over Alleged Crypto-App Scams - Bloomberg
 ---
 

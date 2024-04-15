@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-07-httpsadrianrosellicom202304dont-override-screen-reader-pronunciationhtml
 tags:
-  - tech
+  - Tech
 title: >-
   https://adrianroselli.com/2023/04/dont-override-screen-reader-pronunciation.html
 ---

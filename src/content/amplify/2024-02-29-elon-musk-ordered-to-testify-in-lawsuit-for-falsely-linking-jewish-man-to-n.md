@@ -8,7 +8,7 @@ slug: >-
   2024-02-29-elon-musk-ordered-to-testify-in-lawsuit-for-falsely-linking-jewish-man-to-n
 tags:
   - law and order
-  - tech
+  - Tech
 title: Elon Musk Ordered To Testify In Lawsuit For Falsely Linking Jewish Man To N
 ---
 

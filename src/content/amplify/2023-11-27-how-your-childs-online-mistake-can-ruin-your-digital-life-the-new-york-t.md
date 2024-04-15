@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-27-how-your-childs-online-mistake-can-ruin-your-digital-life-the-new-york-t
 tags:
-  - tech
+  - Tech
 title: How Your Child’s Online Mistake Can Ruin Your Digital Life - The New York T
 ---
 

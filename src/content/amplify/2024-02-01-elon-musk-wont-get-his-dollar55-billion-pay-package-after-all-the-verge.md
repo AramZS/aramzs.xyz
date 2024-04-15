@@ -8,7 +8,7 @@ slug: >-
   2024-02-01-elon-musk-wont-get-his-dollar55-billion-pay-package-after-all-the-verge
 tags:
   - business
-  - tech
+  - Tech
 title: Elon Musk won’t get his $55 billion pay package after all - The Verge
 ---
 

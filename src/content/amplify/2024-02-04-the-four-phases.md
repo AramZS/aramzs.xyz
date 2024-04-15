@@ -4,7 +4,7 @@ isBasedOn: 'https://werd.io/2024/the-four-phases'
 link: 'https://werd.io/2024/the-four-phases'
 slug: 2024-02-04-the-four-phases
 tags:
-  - tech
+  - Tech
 title: The four phases
 ---
 

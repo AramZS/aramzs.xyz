@@ -8,7 +8,7 @@ slug: >-
   2024-01-09-native-american-community-breaks-ground-on-historic-clean-energy-project-or
 tags:
   - climate
-  - tech
+  - Tech
 title: 'Native American community breaks ground on historic clean energy project | '
 ---
 

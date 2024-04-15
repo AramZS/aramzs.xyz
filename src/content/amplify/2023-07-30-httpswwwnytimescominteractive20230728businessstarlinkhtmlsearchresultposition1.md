@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-30-httpswwwnytimescominteractive20230728businessstarlinkhtmlsearchresultposition1
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.nytimes.com/interactive/2023/07/28/business/starlink.html?searchResultPosition=1
 ---

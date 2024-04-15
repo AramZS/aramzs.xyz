@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-17-see-the-websites-that-make-ai-bots-like-chatgpt-sound-so-smart-washington
 tags:
-  - tech
+  - Tech
 title: See the websites that make AI bots like ChatGPT sound so smart - Washington
 ---
 

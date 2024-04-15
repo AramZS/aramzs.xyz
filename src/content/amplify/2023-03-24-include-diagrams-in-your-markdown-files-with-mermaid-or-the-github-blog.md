@@ -6,7 +6,7 @@ slug: >-
   2023-03-24-include-diagrams-in-your-markdown-files-with-mermaid-or-the-github-blog
 tags:
   - code
-  - tech
+  - Tech
 title: Include diagrams in your Markdown files with Mermaid | The GitHub Blog
 ---
 

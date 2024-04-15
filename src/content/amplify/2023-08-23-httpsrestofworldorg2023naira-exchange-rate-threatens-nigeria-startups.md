@@ -6,7 +6,7 @@ slug: >-
   2023-08-23-httpsrestofworldorg2023naira-exchange-rate-threatens-nigeria-startups
 tags:
   - economy
-  - tech
+  - Tech
 title: 'https://restofworld.org/2023/naira-exchange-rate-threatens-nigeria-startups/'
 ---
 

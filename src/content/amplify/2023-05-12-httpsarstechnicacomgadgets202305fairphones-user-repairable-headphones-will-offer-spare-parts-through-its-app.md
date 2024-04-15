@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-12-httpsarstechnicacomgadgets202305fairphones-user-repairable-headphones-will-offer-spare-parts-through-its-app
 tags:
-  - tech
+  - Tech
 title: >-
   https://arstechnica.com/gadgets/2023/05/fairphones-user-repairable-headphones-will-offer-spare-parts-through-its-app/
 ---

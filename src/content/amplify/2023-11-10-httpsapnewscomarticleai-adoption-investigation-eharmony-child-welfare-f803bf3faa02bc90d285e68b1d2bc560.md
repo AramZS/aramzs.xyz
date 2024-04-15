@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-10-httpsapnewscomarticleai-adoption-investigation-eharmony-child-welfare-f803bf3faa02bc90d285e68b1d2bc560
 tags:
-  - tech
+  - Tech
 title: >-
   https://apnews.com/article/ai-adoption-investigation-eharmony-child-welfare-f803bf3faa02bc90d285e68b1d2bc560
 ---

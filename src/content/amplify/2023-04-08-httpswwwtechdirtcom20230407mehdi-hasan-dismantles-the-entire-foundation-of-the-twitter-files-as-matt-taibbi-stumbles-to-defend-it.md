@@ -9,7 +9,7 @@ slug: >-
 tags:
   - journalism
   - social media
-  - tech
+  - Tech
 title: >-
   https://www.techdirt.com/2023/04/07/mehdi-hasan-dismantles-the-entire-foundation-of-the-twitter-files-as-matt-taibbi-stumbles-to-defend-it/
 ---

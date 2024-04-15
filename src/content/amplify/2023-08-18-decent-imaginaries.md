@@ -5,7 +5,7 @@ link: 'https://berjon.com/decent-imaginaries/'
 slug: 2023-08-18-decent-imaginaries
 tags:
   - ethics
-  - tech
+  - Tech
 title: Decent Imaginaries
 ---
 

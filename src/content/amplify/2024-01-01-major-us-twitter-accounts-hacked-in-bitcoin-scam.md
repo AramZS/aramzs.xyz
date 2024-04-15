@@ -4,7 +4,7 @@ isBasedOn: 'https://www.bbc.com/news/technology-53425822'
 link: 'https://www.bbc.com/news/technology-53425822'
 slug: 2024-01-01-major-us-twitter-accounts-hacked-in-bitcoin-scam
 tags:
-  - tech
+  - Tech
 title: Major US Twitter accounts hacked in Bitcoin scam
 ---
 

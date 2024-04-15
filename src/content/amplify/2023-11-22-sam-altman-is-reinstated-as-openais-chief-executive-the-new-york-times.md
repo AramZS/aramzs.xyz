@@ -6,7 +6,7 @@ slug: >-
   2023-11-22-sam-altman-is-reinstated-as-openais-chief-executive-the-new-york-times
 tags:
   - ai
-  - tech
+  - Tech
 title: Sam Altman Is Reinstated as OpenAI’s Chief Executive - The New York Times
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-06-04-in-2023-resolve-to-fix-your-organizations-meta-pixel-problem-the-markup
 tags:
   - Privacy
-  - tech
+  - Tech
 title: 'In 2023, Resolve to Fix Your Organization’s Meta Pixel Problem – The Markup'
 ---
 

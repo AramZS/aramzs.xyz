@@ -8,7 +8,7 @@ slug: >-
   2023-03-14-the-washington-post-fbi-pentagon-helped-research-facial-recognition-for
 tags:
   - Privacy
-  - tech
+  - Tech
 title: '[The Washington Post] FBI, Pentagon helped research facial recognition for '
 ---
 

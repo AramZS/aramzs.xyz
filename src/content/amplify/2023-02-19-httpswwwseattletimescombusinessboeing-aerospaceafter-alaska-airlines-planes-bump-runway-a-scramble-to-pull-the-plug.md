@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-02-19-httpswwwseattletimescombusinessboeing-aerospaceafter-alaska-airlines-planes-bump-runway-a-scramble-to-pull-the-plug
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.seattletimes.com/business/boeing-aerospace/after-alaska-airlines-planes-bump-runway-a-scramble-to-pull-the-plug/
 ---

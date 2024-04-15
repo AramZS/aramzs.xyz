@@ -8,7 +8,7 @@ slug: >-
   2023-09-13-the-dojs-antitrust-trial-against-google-over-its-search-dominance-begins
 tags:
   - antitrust
-  - tech
+  - Tech
 title: 'The DOJ''s antitrust trial against Google over its search dominance begins :'
 ---
 

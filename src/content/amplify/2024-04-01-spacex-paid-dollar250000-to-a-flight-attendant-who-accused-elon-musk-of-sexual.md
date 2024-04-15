@@ -8,7 +8,7 @@ slug: >-
   2024-04-01-spacex-paid-dollar250000-to-a-flight-attendant-who-accused-elon-musk-of-sexual
 tags:
   - culture
-  - tech
+  - Tech
 title: 'SpaceX Paid $250,000 to a Flight Attendant Who Accused Elon Musk of Sexual '
 ---
 

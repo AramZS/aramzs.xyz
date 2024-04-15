@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-01-web-summit-debacle-didnt-surprise-those-who-know-polemic-ex-ceo-paddy-cosg
 tags:
-  - tech
+  - Tech
 title: Web Summit Debacle Didn’t Surprise Those Who Know Polemic Ex-CEO Paddy Cosg
 ---
 

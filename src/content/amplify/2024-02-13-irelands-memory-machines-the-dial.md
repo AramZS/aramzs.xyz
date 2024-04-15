@@ -8,7 +8,7 @@ slug: 2024-02-13-irelands-memory-machines-the-dial
 tags:
   - Archiving
   - History
-  - tech
+  - Tech
 title: Ireland's Memory Machines — The Dial
 ---
 

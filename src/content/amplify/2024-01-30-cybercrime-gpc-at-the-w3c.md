@@ -6,7 +6,7 @@ slug: 2024-01-30-cybercrime-gpc-at-the-w3c
 tags:
   - code
   - Privacy
-  - tech
+  - Tech
 title: Cybercrime; GPC at the W3C
 ---
 

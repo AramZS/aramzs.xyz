@@ -9,7 +9,7 @@ slug: >-
 tags:
   - misinformation
   - politics
-  - tech
+  - Tech
 title: '[The Washington Post] Amazon’s Alexa has been claiming the 2020 election wa'
 ---
 

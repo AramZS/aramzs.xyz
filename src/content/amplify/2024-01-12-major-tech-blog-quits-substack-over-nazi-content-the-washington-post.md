@@ -8,7 +8,7 @@ slug: >-
   2024-01-12-major-tech-blog-quits-substack-over-nazi-content-the-washington-post
 tags:
   - media
-  - tech
+  - Tech
 title: Major tech blog quits Substack over Nazi content - The Washington Post
 ---
 

@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - social media
-  - tech
+  - Tech
 title: How Taylor Swift’s legions of fans fought back against fake nudes - The Was
 ---
 

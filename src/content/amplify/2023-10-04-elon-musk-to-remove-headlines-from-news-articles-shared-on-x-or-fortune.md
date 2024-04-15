@@ -8,7 +8,7 @@ slug: >-
   2023-10-04-elon-musk-to-remove-headlines-from-news-articles-shared-on-x-or-fortune
 tags:
   - social media
-  - tech
+  - Tech
 title: Elon Musk to remove headlines from news articles shared on X | Fortune
 ---
 

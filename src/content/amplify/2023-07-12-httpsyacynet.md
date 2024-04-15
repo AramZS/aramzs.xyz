@@ -4,7 +4,7 @@ isBasedOn: 'https://yacy.net/'
 link: 'https://yacy.net/'
 slug: 2023-07-12-httpsyacynet
 tags:
-  - tech
+  - Tech
 title: 'https://yacy.net/'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: 2023-11-07-without-a-trace-how-to-take-your-phone-off-the-grid-the-markup
 tags:
   - Privacy
-  - tech
+  - Tech
 title: 'Without a Trace: How to Take Your Phone Off the Grid – The Markup'
 ---
 

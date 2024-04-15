@@ -5,7 +5,7 @@ link: 'https://www.noemamag.com/the-secret-history-and-strange-future-of-charism
 slug: 2023-05-25-the-secret-history-and-strange-future-of-charisma
 tags:
   - culture
-  - tech
+  - Tech
 title: The Secret History And Strange Future Of Charisma
 ---
 

@@ -5,7 +5,7 @@ link: 'https://maggieappleton.com/ai-dark-forest'
 slug: 2023-04-12-the-expanding-dark-forest-and-generative-ai
 tags:
   - ai
-  - tech
+  - Tech
 title: The Expanding Dark Forest and Generative AI
 ---
 

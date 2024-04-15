@@ -8,7 +8,7 @@ slug: >-
   2023-05-18-httpswwwthevergecom23721306online-age-verification-privacy-laws-child-safety
 tags:
   - Privacy
-  - tech
+  - Tech
 title: >-
   https://www.theverge.com/23721306/online-age-verification-privacy-laws-child-safety
 ---

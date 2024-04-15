@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-20-httpsunwinnablecom20231120how-daniel-guermeur-changed-touch-typing-forever
 tags:
-  - tech
+  - Tech
 title: >-
   https://unwinnable.com/2023/11/20/how-daniel-guermeur-changed-touch-typing-forever/
 ---

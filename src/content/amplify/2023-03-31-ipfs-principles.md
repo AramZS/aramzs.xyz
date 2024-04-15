@@ -4,7 +4,7 @@ isBasedOn: 'https://specs.ipfs.tech/architecture/principles/'
 link: 'https://specs.ipfs.tech/architecture/principles/'
 slug: 2023-03-31-ipfs-principles
 tags:
-  - tech
+  - Tech
 title: IPFS Principles
 ---
 

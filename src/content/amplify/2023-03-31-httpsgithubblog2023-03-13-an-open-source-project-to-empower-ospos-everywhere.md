@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-31-httpsgithubblog2023-03-13-an-open-source-project-to-empower-ospos-everywhere
 tags:
-  - tech
+  - Tech
 title: >-
   https://github.blog/2023-03-13-an-open-source-project-to-empower-ospos-everywhere/
 ---

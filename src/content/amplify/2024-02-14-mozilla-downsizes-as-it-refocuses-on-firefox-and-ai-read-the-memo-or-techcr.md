@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - social media
-  - tech
+  - Tech
 title: 'Mozilla downsizes as it refocuses on Firefox and AI: Read the memo | TechCr'
 ---
 

@@ -9,7 +9,7 @@ slug: >-
 tags:
   - abortion
   - law and order
-  - tech
+  - Tech
 title: Yelp Asks Court To Stop Texas AG Ken Paxton From Suing Them For Warning Use
 ---
 

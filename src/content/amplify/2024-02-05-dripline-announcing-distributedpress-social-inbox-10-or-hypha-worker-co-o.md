@@ -6,7 +6,7 @@ slug: >-
   2024-02-05-dripline-announcing-distributedpress-social-inbox-10-or-hypha-worker-co-o
 tags:
   - code
-  - tech
+  - Tech
 title: 'Dripline: Announcing Distributed.Press Social Inbox 1.0 | Hypha Worker Co-o'
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://disconnect.blog/how-i-became-a-tech-critic/'
 link: 'https://disconnect.blog/how-i-became-a-tech-critic/'
 slug: 2024-03-05-how-i-became-a-tech-critic
 tags:
-  - tech
+  - Tech
 title: How I became a tech critic
 ---
 

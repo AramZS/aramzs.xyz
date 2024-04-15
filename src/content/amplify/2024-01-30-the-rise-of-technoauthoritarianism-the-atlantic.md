@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-30-the-rise-of-technoauthoritarianism-the-atlantic
 tags:
   - culture
-  - tech
+  - Tech
 title: The Rise of Technoauthoritarianism - The Atlantic
 ---
 

@@ -6,7 +6,7 @@ slug: 2023-12-25-sweden-to-elon-get-unionized-or-get-out
 tags:
   - labor
   - politics
-  - tech
+  - Tech
 title: 'Sweden To Elon: Get Unionized Or Get Out!'
 ---
 

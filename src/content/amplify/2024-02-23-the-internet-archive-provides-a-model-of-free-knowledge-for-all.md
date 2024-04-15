@@ -6,7 +6,7 @@ slug: 2024-02-23-the-internet-archive-provides-a-model-of-free-knowledge-for-all
 tags:
   - Archiving
   - politics
-  - tech
+  - Tech
 title: The Internet Archive Provides a Model of Free Knowledge for All
 ---
 

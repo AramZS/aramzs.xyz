@@ -8,7 +8,7 @@ slug: 2024-04-01-trump-media-lost-dollar58-million-last-year-sec-filing-shows
 tags:
   - politics
   - social media
-  - tech
+  - Tech
 title: 'Trump Media lost $58 million last year, SEC filing shows'
 ---
 

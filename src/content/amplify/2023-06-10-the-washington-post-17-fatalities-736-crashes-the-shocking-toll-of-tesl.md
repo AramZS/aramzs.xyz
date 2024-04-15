@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-10-the-washington-post-17-fatalities-736-crashes-the-shocking-toll-of-tesl
 tags:
-  - tech
+  - Tech
 title: '[The Washington Post] 17 fatalities, 736 crashes: The shocking toll of Tesl'
 ---
 

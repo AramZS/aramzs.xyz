@@ -4,7 +4,7 @@ isBasedOn: 'https://pantheon.io/blog/open-letter-elevating-our-standards'
 link: 'https://pantheon.io/blog/open-letter-elevating-our-standards'
 slug: 2023-10-25-open-letter-on-elevating-our-standards-or-pantheonio
 tags:
-  - tech
+  - Tech
 title: Open Letter on Elevating Our Standards | Pantheon.io
 ---
 

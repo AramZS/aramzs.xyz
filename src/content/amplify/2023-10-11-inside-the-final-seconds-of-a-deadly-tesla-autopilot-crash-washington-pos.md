@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-11-inside-the-final-seconds-of-a-deadly-tesla-autopilot-crash-washington-pos
 tags:
-  - tech
+  - Tech
 title: Inside the final seconds of a deadly Tesla Autopilot crash - Washington Pos
 ---
 

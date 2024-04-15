@@ -6,7 +6,7 @@ slug: >-
   2023-08-12-the-internet-archive-is-being-sued-for-its-project-to-digitize-shellac-78-d
 tags:
   - Archiving
-  - tech
+  - Tech
 title: The Internet Archive Is Being Sued for Its Project to Digitize Shellac 78 D
 ---
 

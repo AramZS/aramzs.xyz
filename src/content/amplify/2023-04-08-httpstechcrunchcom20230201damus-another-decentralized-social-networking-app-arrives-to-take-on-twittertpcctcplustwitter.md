@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-08-httpstechcrunchcom20230201damus-another-decentralized-social-networking-app-arrives-to-take-on-twittertpcctcplustwitter
 tags:
-  - tech
+  - Tech
 title: >-
   https://techcrunch.com/2023/02/01/damus-another-decentralized-social-networking-app-arrives-to-take-on-twitter/?tpcc=tcplustwitter
 ---

@@ -5,7 +5,7 @@ link: 'https://www.newyorker.com/books/page-turner/an-open-letter-to-wikipedia'
 slug: 2023-05-04-an-open-letter-to-wikipedia-or-the-new-yorker
 tags:
   - culture
-  - tech
+  - Tech
   - writing
 title: An Open Letter to Wikipedia | The New Yorker
 ---

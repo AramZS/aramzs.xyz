@@ -6,7 +6,7 @@ slug: 2024-04-03-lavender-the-ai-machine-directing-israels-bombing-spree-in-gaza
 tags:
   - ai
   - israel
-  - tech
+  - Tech
 title: '‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza'
 ---
 

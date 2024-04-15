@@ -5,7 +5,7 @@ link: 'https://nodes.presearch.com/run'
 slug: 2023-07-06-presearch-nodes
 tags:
   - decentralization
-  - tech
+  - Tech
 title: Presearch Nodes
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://dansinker.com/posts/illusions/'
 link: 'https://dansinker.com/posts/illusions/'
 slug: 2023-02-22-httpsdansinkercompostsillusions
 tags:
-  - tech
+  - Tech
 title: 'https://dansinker.com/posts/illusions/'
 ---
 

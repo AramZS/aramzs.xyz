@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-25-httpswwwconsumerreportsorgelectronics-computerspassword-managersbest-password-managers-review-digital-security-privacy-ease-of-use-a7337649384
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.consumerreports.org/electronics-computers/password-managers/best-password-managers-review-digital-security-privacy-ease-of-use-a7337649384/
 ---

@@ -6,7 +6,7 @@ link: >-
   https://www.rollingstone.com/culture/culture-features/elon-musk-brain-implant-volunteers-1234746198/
 slug: 2023-06-02-elon-musks-brain-implant-meet-possible-volunteers-rolling-stone
 tags:
-  - tech
+  - Tech
 title: 'Elon Musk’s Brain Implant: Meet Possible Volunteers – Rolling Stone'
 ---
 

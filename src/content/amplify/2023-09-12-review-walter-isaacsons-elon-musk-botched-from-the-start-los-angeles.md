@@ -8,7 +8,7 @@ slug: >-
   2023-09-12-review-walter-isaacsons-elon-musk-botched-from-the-start-los-angeles
 tags:
   - economic inequality
-  - tech
+  - Tech
 title: 'Review: Walter Isaacson''s ''Elon Musk'' botched from the start - Los Angeles '
 ---
 

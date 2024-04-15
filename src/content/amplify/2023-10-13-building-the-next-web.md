@@ -4,7 +4,7 @@ isBasedOn: 'https://berjon.com/next-web/'
 link: 'https://berjon.com/next-web/'
 slug: 2023-10-13-building-the-next-web
 tags:
-  - tech
+  - Tech
 title: Building The Next Web
 ---
 

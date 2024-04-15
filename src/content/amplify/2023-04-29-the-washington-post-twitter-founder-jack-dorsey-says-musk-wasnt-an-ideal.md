@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-29-the-washington-post-twitter-founder-jack-dorsey-says-musk-wasnt-an-ideal
 tags:
-  - tech
+  - Tech
 title: '[The Washington Post] Twitter founder Jack Dorsey says Musk wasn’t an ideal'
 ---
 

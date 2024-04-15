@@ -6,7 +6,7 @@ link: >-
   https://www.newstatesman.com/ideas/2023/09/rise-new-tech-right-iq-cognitive-elite
 slug: 2023-09-13-the-rise-of-the-new-tech-right-new-statesman
 tags:
-  - tech
+  - Tech
 title: The rise of the new tech right - New Statesman
 ---
 

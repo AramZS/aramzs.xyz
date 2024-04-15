@@ -6,7 +6,7 @@ link: >-
   https://www.sfexaminer.com/news/crime/seduced-by-crypto-and-taken-for-millions/article_c61695b6-e1d4-11ec-9333-07be7bfdc802.html
 slug: 2023-05-04-seduced-by-crypto-and-taken-for-millions-or-crime-or-sfexaminercom
 tags:
-  - tech
+  - Tech
   - web3
 title: Seduced by crypto and taken for millions | Crime | sfexaminer.com
 ---

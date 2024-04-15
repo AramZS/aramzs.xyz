@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-13-yahoos-yhoo-grand-plan-for-tumblr-was-to-turn-it-into-the-next-generati
 tags:
-  - tech
+  - Tech
 title: Yahoo's (YHOO) grand plan for Tumblr was to turn it into the "next-generati
 ---
 

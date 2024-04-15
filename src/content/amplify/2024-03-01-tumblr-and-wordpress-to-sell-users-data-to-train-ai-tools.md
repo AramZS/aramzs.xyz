@@ -7,7 +7,7 @@ link: >-
 slug: 2024-03-01-tumblr-and-wordpress-to-sell-users-data-to-train-ai-tools
 tags:
   - ai
-  - tech
+  - Tech
 title: Tumblr and WordPress to Sell Users’ Data to Train AI Tools
 ---
 

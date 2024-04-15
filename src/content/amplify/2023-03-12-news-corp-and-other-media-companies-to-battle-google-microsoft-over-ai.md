@@ -8,7 +8,7 @@ slug: >-
   2023-03-12-news-corp-and-other-media-companies-to-battle-google-microsoft-over-ai
 tags:
   - media
-  - tech
+  - Tech
 title: 'News Corp and Other Media Companies to Battle Google, Microsoft Over AI'
 ---
 

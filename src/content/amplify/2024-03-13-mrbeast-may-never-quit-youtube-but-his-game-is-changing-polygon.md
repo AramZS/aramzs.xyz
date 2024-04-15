@@ -6,7 +6,7 @@ slug: 2024-03-13-mrbeast-may-never-quit-youtube-but-his-game-is-changing-polygon
 tags:
   - culture
   - entertainment
-  - tech
+  - Tech
 title: 'MrBeast may never quit YouTube, but his game is changing - Polygon'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-01-httpsdigidaycommediahow-generative-ai-has-shown-up-in-earnings-chatter-again-this-quarter
 tags:
-  - tech
+  - Tech
 title: >-
   https://digiday.com/media/how-generative-ai-has-shown-up-in-earnings-chatter-again-this-quarter/
 ---

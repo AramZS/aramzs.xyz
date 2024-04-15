@@ -6,7 +6,7 @@ slug: >-
   2023-12-21-using-irc-for-massive-civil-resistance-a-simple-scalable-social-network
 tags:
   - social media
-  - tech
+  - Tech
 title: 'Using IRC for massive civil resistance: A simple, scalable social network –'
 ---
 

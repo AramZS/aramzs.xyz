@@ -5,7 +5,7 @@ link: 'https://adthrive.com/creator-rights-ai-content-use/'
 slug: 2023-03-29-httpsadthrivecomcreator-rights-ai-content-use
 tags:
   - ai
-  - tech
+  - Tech
 title: 'https://adthrive.com/creator-rights-ai-content-use/'
 ---
 

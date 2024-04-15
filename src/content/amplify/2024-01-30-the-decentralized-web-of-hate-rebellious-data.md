@@ -6,7 +6,7 @@ slug: 2024-01-30-the-decentralized-web-of-hate-rebellious-data
 tags:
   - decentralization
   - politics
-  - tech
+  - Tech
 title: The Decentralized Web of Hate – Rebellious Data
 ---
 

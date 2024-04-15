@@ -9,7 +9,7 @@ slug: >-
 tags:
   - media
   - product
-  - tech
+  - Tech
 title: A Week in the Life of a Team during The New York Times Annual Hackathon | b
 ---
 

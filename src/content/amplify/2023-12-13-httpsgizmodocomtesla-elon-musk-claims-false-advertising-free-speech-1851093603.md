@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-12-13-httpsgizmodocomtesla-elon-musk-claims-false-advertising-free-speech-1851093603
 tags:
-  - tech
+  - Tech
 title: >-
   https://gizmodo.com/tesla-elon-musk-claims-false-advertising-free-speech-1851093603
 ---

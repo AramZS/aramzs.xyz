@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - labor
-  - tech
+  - Tech
 title: >-
   https://www.theguardian.com/technology/2023/aug/02/ai-chatbot-training-human-toll-content-moderator-meta-openai
 ---

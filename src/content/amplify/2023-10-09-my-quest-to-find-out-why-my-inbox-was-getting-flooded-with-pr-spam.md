@@ -7,7 +7,7 @@ link: >-
 slug: 2023-10-09-my-quest-to-find-out-why-my-inbox-was-getting-flooded-with-pr-spam
 tags:
   - marketing
-  - tech
+  - Tech
 title: My quest to find out why my inbox was getting flooded with PR spam
 ---
 

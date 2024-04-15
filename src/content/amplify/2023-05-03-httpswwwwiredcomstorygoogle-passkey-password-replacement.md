@@ -4,7 +4,7 @@ isBasedOn: 'https://www.wired.com/story/google-passkey-password-replacement/'
 link: 'https://www.wired.com/story/google-passkey-password-replacement/'
 slug: 2023-05-03-httpswwwwiredcomstorygoogle-passkey-password-replacement
 tags:
-  - tech
+  - Tech
 title: 'https://www.wired.com/story/google-passkey-password-replacement/'
 ---
 

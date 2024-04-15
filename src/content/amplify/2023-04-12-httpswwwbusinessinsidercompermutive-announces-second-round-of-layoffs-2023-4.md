@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ad tech
   - business
-  - tech
+  - Tech
 title: >-
   https://www.businessinsider.com/permutive-announces-second-round-of-layoffs-2023-4
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-28-its-still-very-funny-that-1000-people-gave-tesla-dollar250000-for-a-roadster
 tags:
-  - tech
+  - Tech
 title: 'It''s Still Very Funny That 1,000 People Gave Tesla $250,000 For A Roadster '
 ---
 

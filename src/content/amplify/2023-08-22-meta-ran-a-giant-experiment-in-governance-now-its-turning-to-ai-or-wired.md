@@ -8,7 +8,7 @@ slug: >-
   2023-08-22-meta-ran-a-giant-experiment-in-governance-now-its-turning-to-ai-or-wired
 tags:
   - governance
-  - tech
+  - Tech
 title: Meta Ran a Giant Experiment in Governance. Now It's Turning to AI | WIRED
 ---
 

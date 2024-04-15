@@ -4,7 +4,7 @@ isBasedOn: 'https://www.nytimes.com/2023/08/01/us/twitter-x-logo-sf-headquarters
 link: 'https://www.nytimes.com/2023/08/01/us/twitter-x-logo-sf-headquarters.html'
 slug: 2023-08-01-httpswwwnytimescom20230801ustwitter-x-logo-sf-headquartershtml
 tags:
-  - tech
+  - Tech
 title: 'https://www.nytimes.com/2023/08/01/us/twitter-x-logo-sf-headquarters.html'
 ---
 

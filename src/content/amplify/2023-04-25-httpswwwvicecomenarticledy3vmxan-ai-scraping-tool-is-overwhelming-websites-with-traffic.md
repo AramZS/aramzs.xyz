@@ -8,7 +8,7 @@ slug: >-
   2023-04-25-httpswwwvicecomenarticledy3vmxan-ai-scraping-tool-is-overwhelming-websites-with-traffic
 tags:
   - ai
-  - tech
+  - Tech
 title: >-
   https://www.vice.com/en/article/dy3vmx/an-ai-scraping-tool-is-overwhelming-websites-with-traffic
 ---

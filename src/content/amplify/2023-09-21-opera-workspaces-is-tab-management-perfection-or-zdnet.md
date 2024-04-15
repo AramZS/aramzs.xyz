@@ -6,7 +6,7 @@ link: >-
   https://www.zdnet.com/home-and-office/work-life/opera-workspaces-is-tab-management-perfection/
 slug: 2023-09-21-opera-workspaces-is-tab-management-perfection-or-zdnet
 tags:
-  - tech
+  - Tech
 title: Opera Workspaces is tab management perfection | ZDNET
 ---
 

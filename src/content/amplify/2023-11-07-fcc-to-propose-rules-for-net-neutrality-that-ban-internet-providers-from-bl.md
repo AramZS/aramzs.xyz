@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-07-fcc-to-propose-rules-for-net-neutrality-that-ban-internet-providers-from-bl
 tags:
-  - tech
+  - Tech
 title: FCC to propose rules for net neutrality that ban internet providers from bl
 ---
 

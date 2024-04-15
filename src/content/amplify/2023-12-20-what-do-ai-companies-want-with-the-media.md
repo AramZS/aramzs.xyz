@@ -7,7 +7,7 @@ link: >-
 slug: 2023-12-20-what-do-ai-companies-want-with-the-media
 tags:
   - media
-  - tech
+  - Tech
 title: What Do AI Companies Want With the Media?
 ---
 

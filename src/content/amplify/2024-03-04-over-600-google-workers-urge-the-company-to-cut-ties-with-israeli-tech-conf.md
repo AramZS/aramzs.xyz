@@ -8,7 +8,7 @@ slug: >-
   2024-03-04-over-600-google-workers-urge-the-company-to-cut-ties-with-israeli-tech-conf
 tags:
   - israel
-  - tech
+  - Tech
 title: Over 600 Google Workers Urge the Company to Cut Ties With Israeli Tech Conf
 ---
 

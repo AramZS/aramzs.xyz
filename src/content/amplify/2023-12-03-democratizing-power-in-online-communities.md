@@ -5,7 +5,7 @@ link: 'https://newpublic.substack.com/p/democratizing-power-in-online-communitie
 slug: 2023-12-03-democratizing-power-in-online-communities
 tags:
   - decentralization
-  - tech
+  - Tech
 title: '??‍♀️????‍♂️ Democratizing power in online communities'
 ---
 

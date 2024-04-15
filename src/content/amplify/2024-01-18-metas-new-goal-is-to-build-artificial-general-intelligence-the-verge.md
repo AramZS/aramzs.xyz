@@ -8,7 +8,7 @@ slug: >-
   2024-01-18-metas-new-goal-is-to-build-artificial-general-intelligence-the-verge
 tags:
   - ai
-  - tech
+  - Tech
 title: Meta’s new goal is to build artificial general intelligence - The Verge
 ---
 

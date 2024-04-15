@@ -6,7 +6,7 @@ slug: >-
   2024-02-15-i-saw-the-future-of-climate-technologyand-its-big-oil-investors-or-the-nati
 tags:
   - climate
-  - tech
+  - Tech
 title: I Saw the Future of Climate Technology—and Its Big-Oil Investors | The Nati
 ---
 

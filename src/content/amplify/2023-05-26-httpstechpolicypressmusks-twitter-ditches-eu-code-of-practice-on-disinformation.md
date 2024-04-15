@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ethics
   - eu
-  - tech
+  - Tech
 title: >-
   https://techpolicy.press/musks-twitter-ditches-eu-code-of-practice-on-disinformation/
 ---

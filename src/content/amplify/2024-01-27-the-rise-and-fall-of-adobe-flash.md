@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-27-the-rise-and-fall-of-adobe-flash
 tags:
   - History
-  - tech
+  - Tech
 title: The Rise and Fall of Adobe Flash
 ---
 

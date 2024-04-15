@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - journalism
-  - tech
+  - Tech
 title: >-
   https://www.niemanlab.org/2023/06/ai-will-soon-be-able-to-cover-public-meetings-but-should-it/
 ---

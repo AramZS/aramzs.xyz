@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-01-httpswwwbloombergcomnewsarticles2023-08-31ai-startups-create-digital-demand-for-anguilla-s-website-domain-name
 tags:
-  - tech
+  - Tech
 title: >-
   https://www.bloomberg.com/news/articles/2023-08-31/ai-startups-create-digital-demand-for-anguilla-s-website-domain-name
 ---

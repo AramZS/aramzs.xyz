@@ -9,7 +9,7 @@ slug: >-
 tags:
   - media
   - seo
-  - tech
+  - Tech
 title: A ‘Law Firm’ of AI Generated Lawyers Is Sending Fake Threats as an SEO Scam
 ---
 

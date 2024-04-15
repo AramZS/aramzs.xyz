@@ -7,7 +7,7 @@ link: >-
 slug: 2023-11-20-how-chatgpt-fractured-openai-the-atlantic
 tags:
   - ai
-  - tech
+  - Tech
 title: How ChatGPT Fractured OpenAI - The Atlantic
 ---
 

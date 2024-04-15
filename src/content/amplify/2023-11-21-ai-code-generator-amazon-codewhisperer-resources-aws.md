@@ -5,7 +5,7 @@ link: 'https://aws.amazon.com/codewhisperer/resources/'
 slug: 2023-11-21-ai-code-generator-amazon-codewhisperer-resources-aws
 tags:
   - ai
-  - tech
+  - Tech
 title: AI Code Generator - Amazon CodeWhisperer Resources - AWS
 ---
 

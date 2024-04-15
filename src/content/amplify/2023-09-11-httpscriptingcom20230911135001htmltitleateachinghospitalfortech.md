@@ -4,7 +4,7 @@ isBasedOn: 'http://scripting.com/2023/09/11/135001.html?title=aTeachingHospitalF
 link: 'http://scripting.com/2023/09/11/135001.html?title=aTeachingHospitalForTech'
 slug: 2023-09-11-httpscriptingcom20230911135001htmltitleateachinghospitalfortech
 tags:
-  - tech
+  - Tech
 title: 'http://scripting.com/2023/09/11/135001.html?title=aTeachingHospitalForTech'
 ---
 
