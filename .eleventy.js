@@ -157,7 +157,7 @@ module.exports = function (eleventyConfig) {
   Object.keys(asyncFilters).forEach((filterName) => {
     eleventyConfig.addAsyncFilter(filterName, asyncFilters[filterName]);
   });
-  
+
 	for (const [name, collection] of Object.entries(
 		collections(eleventyConfig)
 	)) {
@@ -173,6 +173,11 @@ module.exports = function (eleventyConfig) {
 	});
 
 	// Webmanifest stuff
+
+  /**
+   * removing this from active build process for now 
+   * as canvas and sharp have some sort of weird error.
+   * 
 	var sharp = require("sharp");
 	var promiseSet = [];
 	[
@@ -201,7 +206,7 @@ module.exports = function (eleventyConfig) {
 			);
 		}
 	});
-
+ */
 	//
 	// Pass through
 	//
