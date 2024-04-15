@@ -26,7 +26,9 @@
                     {% if titlePrefix %}<small><span>{{ titlePrefix | safe }}</span></small>{% endif %}
                 {% endblock %}
                 {% if annotationType == "Highlight" and sourceTitle %}<h1><em>{{sourceTitle}}</em> Highlight</h1>
-                {% elseif title or headerTitle %}<h1>{{ (title or headerTitle) }}</h1>{% endif %}
+                {% elseif title or headerTitle %}
+                <h1>{{ (title or headerTitle) | safe }}</h1>
+                {% endif %}
                 {% if subTitle %}<h2>{{ subTitle | safe }}</h2>{% endif %}
             </div>
             {% block pageHeaderAfter %}{% endblock %}

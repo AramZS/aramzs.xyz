@@ -15,7 +15,7 @@
       <!-- Webmentions -->
     <link rel="webmention" href="https://webmention.io/aramzs.xyz/webmention" />
     <!-- SEO -->
-    <title>{{ title or metadata.title }}</title>
+    <title>{{ title or metadata.title | safe }}</title>
     <meta name="description" content="{{ description or metadata.description }}"/>
     <link rel="canonical" href="{{ canonical or isBasedOn or page.url }}"/><!-- @TODO: Add canonical URL with domain for internal links -->
     {% if isBasedOn %}
@@ -27,8 +27,8 @@
 
     <!-- Open Graph -->
     <meta property="og:locale" content="en_US"/>
-    <meta property="og:site_name" content="{{ metadata.title }}"/>
-    <meta property="og:title" content="{{ title or metadata.title }}"/>
+    <meta property="og:site_name" content="{{ metadata.title | safe }}"/>
+    <meta property="og:title" content="{{ title or metadata.title | safe }}"/>
     <meta property="og:type" content="{{ ogtype or 'website' }}"/>
     <meta property="og:url" content="{{ metadata.url }}{{ page.url }}"/>
     {% if ogImageHref %}
@@ -40,7 +40,7 @@
 
     <meta name="twitter:site" content="@Chronotope"/>
     <meta name="twitter:creator" content="@Chronotope"/>
-    <meta name="twitter:title" content="{{ title or metadata.title }}"/>
+    <meta name="twitter:title" content="{{ title or metadata.title | safe }}"/>
 
     {% if ogtype === 'article' %}
         <meta name="twitter:label1" content="Words"/>
