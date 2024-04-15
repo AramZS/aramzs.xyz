@@ -1,11 +1,12 @@
-{% extends "./page.njk" %}
+{%- set mainClass = "content-grid" -%}
+{%- extends "./page.njk" -%}
 
-{% block head %}
+{%- block head -%}
 <script type="module" src="/scripts/contrast-ratio.js" async></script>
 <script src="/scripts/contrast-checker.js" defer></script>
-{% endblock %}
+{%- endblock -%}
 
-{% block content %}
+{%- block content -%}
 <section data-source="src/_includes/layouts/list-contrasts.njk">
     <div id="compare">
       <div class="color-item" id="background-contraster">
@@ -16,17 +17,17 @@
       </div>
     </div>
         <ul id="color-contrast-list">
-            {% for colorSet in contrasts.colorSets %}
+            {%- for colorSet in contrasts.colorSets -%}
                 <li class="color-item">
                     <div class="color-set" style="background-color: {{ colorSet[0] }}">
-                        {% for colorHex in colorSet %}
+                        {%- for colorHex in colorSet -%}
                         <div class="color-set__swatch-container" style="background-color: {{ colorHex }}80">
                             <div class="color-set__swatch compare-ready-color" style="background-color: {{ colorHex }}"></div>
                         </div>
-                        {% endfor %}
+                        {%- endfor -%}
                     </div>
                 </li>
-            {% endfor %}
+            {%- endfor -%}
         </ul>
 </section>        
-{% endblock %}
+{%- endblock -%}

@@ -2,23 +2,23 @@
 title: 'About'
 isBasedOn: "https://aramzs.github.io/aramzs/"
 ---
-{% extends "layouts/page.njk" %}
+{%- extends "layouts/page.njk" -%}
 
-{% block content %}
+{%- block content -%}
 <script src="/htmx.min.js"></script>
-<article>
+<article class="content-grid">
     <h1>Who is Aram Zucker-Scharff?</h1>
 
-    <section id="shared-about" class="breakout" hx-get="https://aramzs.github.io/aramzs/" hx-trigger="load" hx-target="this">
+    <section id="shared-about" class="full-width breakout" hx-get="https://aramzs.github.io/aramzs/" hx-trigger="load" hx-target="this">
 		  Read more about Aram in his main <a href="https://aramzs.github.io/aramzs/">about page</a>.
     </section>
 
-    <section class="two-columns two-columns__paragraph breakout">
+    <section class="full-width breakout">
         <a id="inspiration"></a>
-        <h2>Inspiration and resources the formed this site</h2>
+        <h2>Inspiration and resources that formed this site</h2>
         <ul>
             <li>This blog uses the code from and is heavily based on the work of <a href="https://photogabble.co.uk/about/" target="_blank">Simon Dann</a> <small>(<a target="_blank" href="https://notacult.social/@carbontwelve" target="_blank">@carbontwelve@notacult.social</a>)</small></li>
         </ul>
     </section>
 </article>
-{% endblock %}
+{%- endblock -%}
