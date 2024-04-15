@@ -1,10 +1,9 @@
 ---
-date: '2023-11-07T14:03:49.000Z'
-isBasedOn: 'https://mattrbld.com/'
-link: 'https://mattrbld.com/'
+date: "2023-11-07T14:03:49.000Z"
+isBasedOn: "https://mattrbld.com/"
+link: "https://mattrbld.com/"
 slug: 2023-11-07-httpsmattrbldcom
 tags:
-  - Tech
-title: 'https://mattrbld.com/'
+    - Tech
+title: "https://mattrbld.com/"
 ---
-
