@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - journalism
-  - media
+  - Media
 title: >-
   https://www.journalism.co.uk/news/nctj-ai-helps-journalists-and-audiences/s2/a1096902/
 ---

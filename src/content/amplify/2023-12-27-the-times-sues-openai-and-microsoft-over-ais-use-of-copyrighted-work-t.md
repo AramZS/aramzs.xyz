@@ -8,7 +8,7 @@ slug: >-
   2023-12-27-the-times-sues-openai-and-microsoft-over-ais-use-of-copyrighted-work-t
 tags:
   - ai
-  - media
+  - Media
 title: The Times Sues OpenAI and Microsoft Over A.I.’s Use of Copyrighted Work - T
 ---
 

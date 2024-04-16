@@ -4,7 +4,7 @@ isBasedOn: 'https://www.platformer.news/p/why-journalists-cant-quit-twitter?r=4i
 link: 'https://www.platformer.news/p/why-journalists-cant-quit-twitter?r=4iar'
 slug: 2023-04-05-httpswwwplatformernewspwhy-journalists-cant-quit-twitterr4iar
 tags:
-  - media
+  - Media
   - social media
 title: 'https://www.platformer.news/p/why-journalists-cant-quit-twitter?r=4iar'
 ---

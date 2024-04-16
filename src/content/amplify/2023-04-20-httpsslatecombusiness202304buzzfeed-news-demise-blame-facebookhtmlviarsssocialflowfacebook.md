@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-20-httpsslatecombusiness202304buzzfeed-news-demise-blame-facebookhtmlviarsssocialflowfacebook
 tags:
-  - media
+  - Media
 title: >-
   https://slate.com/business/2023/04/buzzfeed-news-demise-blame-facebook.html?via=rss_socialflow_facebook
 ---

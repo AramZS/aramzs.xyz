@@ -7,7 +7,7 @@ link: >-
 slug: 2023-11-04-social-media-broke-up-with-news-so-did-readers-the-atlantic
 tags:
   - ad tech
-  - media
+  - Media
   - Tech
 title: Social Media Broke Up With News. So Did Readers. - The Atlantic
 ---

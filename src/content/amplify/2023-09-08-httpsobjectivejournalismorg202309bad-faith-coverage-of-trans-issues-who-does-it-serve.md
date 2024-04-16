@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-08-httpsobjectivejournalismorg202309bad-faith-coverage-of-trans-issues-who-does-it-serve
 tags:
-  - media
+  - Media
   - trans rights
 title: >-
   https://objectivejournalism.org/2023/09/bad-faith-coverage-of-trans-issues-who-does-it-serve/

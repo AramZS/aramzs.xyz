@@ -4,7 +4,7 @@ isBasedOn: 'https://www.hamiltonnolan.com/p/nihilistic-poll-brained-celebration'
 link: 'https://www.hamiltonnolan.com/p/nihilistic-poll-brained-celebration'
 slug: 2023-09-07-httpswwwhamiltonnolancompnihilistic-poll-brained-celebration
 tags:
-  - media
+  - Media
 title: 'https://www.hamiltonnolan.com/p/nihilistic-poll-brained-celebration'
 ---
 

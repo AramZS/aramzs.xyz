@@ -4,7 +4,7 @@ isBasedOn: 'https://tedium.co/2023/11/09/digital-media-downsizing-jezebel-vice-t
 link: 'https://tedium.co/2023/11/09/digital-media-downsizing-jezebel-vice-tumblr/'
 slug: 2023-11-10-httpstediumco20231109digital-media-downsizing-jezebel-vice-tumblr
 tags:
-  - media
+  - Media
   - social media
 title: 'https://tedium.co/2023/11/09/digital-media-downsizing-jezebel-vice-tumblr/'
 ---

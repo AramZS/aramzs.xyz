@@ -4,7 +4,7 @@ isBasedOn: 'https://www.texastribune.org/2023/03/29/texas-observer-keep-publishi
 link: 'https://www.texastribune.org/2023/03/29/texas-observer-keep-publishing/'
 slug: 2023-03-29-httpswwwtexastribuneorg20230329texas-observer-keep-publishing
 tags:
-  - media
+  - Media
 title: 'https://www.texastribune.org/2023/03/29/texas-observer-keep-publishing/'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-14-httpskotakucomkotaku-luke-plunkett-leave-too-damn-long-goodbye-rip-1850630211rev1689289340994
 tags:
-  - media
+  - Media
 title: >-
   https://kotaku.com/kotaku-luke-plunkett-leave-too-damn-long-goodbye-rip-1850630211?rev=1689289340994
 ---

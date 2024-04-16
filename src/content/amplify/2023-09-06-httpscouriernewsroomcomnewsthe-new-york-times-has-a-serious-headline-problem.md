@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-06-httpscouriernewsroomcomnewsthe-new-york-times-has-a-serious-headline-problem
 tags:
-  - media
+  - Media
 title: >-
   https://couriernewsroom.com/news/the-new-york-times-has-a-serious-headline-problem/
 ---

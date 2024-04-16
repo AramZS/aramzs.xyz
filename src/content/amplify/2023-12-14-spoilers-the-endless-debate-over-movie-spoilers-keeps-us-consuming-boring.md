@@ -6,7 +6,7 @@ slug: >-
   2023-12-14-spoilers-the-endless-debate-over-movie-spoilers-keeps-us-consuming-boring
 tags:
   - entertainment
-  - media
+  - Media
 title: 'Spoilers: The endless debate over movie spoilers keeps us consuming boring '
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2024-01-19-dr-phil-teams-up-with-christian-media-to-promote-leaker-who-exposed-trans
 tags:
   - lgbtq+
-  - media
+  - Media
 title: 'Dr. Phil Teams Up With Christian Media to Promote Leaker Who Exposed Trans '
 ---
 

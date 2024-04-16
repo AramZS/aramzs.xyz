@@ -8,7 +8,7 @@ slug: >-
   2023-06-04-gannett-journalists-across-the-us-will-strike-on-june-5-or-nieman-journali
 tags:
   - labor
-  - media
+  - Media
 title: Gannett journalists across the U.S. will strike on June 5 | Nieman Journali
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-11-22-everybodys-sense-of-emotion-and-devastation-is-heightened-how-jewish-cu
 tags:
   - jewish
-  - media
+  - Media
 title: '“Everybody’s sense of emotion and devastation is heightened”: How Jewish Cu'
 ---
 

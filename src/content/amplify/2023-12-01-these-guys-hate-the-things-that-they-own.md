@@ -4,7 +4,7 @@ isBasedOn: 'https://www.welcometohellworld.com/these-guys-hate-the-things-that-t
 link: 'https://www.welcometohellworld.com/these-guys-hate-the-things-that-they-own/'
 slug: 2023-12-01-these-guys-hate-the-things-that-they-own
 tags:
-  - media
+  - Media
 title: These guys hate the things that they own
 ---
 

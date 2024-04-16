@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-15-httpstheaudiencerscomdecisionsthe-new-york-times-dynamic-paywall-model-analyzed
 tags:
-  - media
+  - Media
 title: >-
   https://theaudiencers.com/decisions/the-new-york-times-dynamic-paywall-model-analyzed/
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-17-new-baltimore-sun-owner-insults-staff-says-paper-should-mimic-fox45-the
 tags:
-  - media
+  - Media
 title: 'New Baltimore Sun owner insults staff, says paper should mimic Fox45 - The '
 ---
 

@@ -5,7 +5,7 @@ link: 'https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/'
 slug: 2024-02-27-httpswwwadweekcommediagoogle-paying-publishers-unreleased-gen-ai
 tags:
   - ai
-  - media
+  - Media
   - Tech
 title: 'https://www.adweek.com/media/google-paying-publishers-unreleased-gen-ai/'
 ---

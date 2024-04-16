@@ -9,7 +9,7 @@ slug: >-
 tags:
   - israel
   - journalism
-  - media
+  - Media
 title: The New York Times offers a limited mea culpa for how it initially presente
 ---
 

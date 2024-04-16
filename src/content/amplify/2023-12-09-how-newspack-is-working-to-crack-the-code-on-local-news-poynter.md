@@ -8,7 +8,7 @@ slug: 2023-12-09-how-newspack-is-working-to-crack-the-code-on-local-news-poynter
 tags:
   - code
   - journalism
-  - media
+  - Media
 title: How Newspack is working to crack the code on local news - Poynter
 ---
 

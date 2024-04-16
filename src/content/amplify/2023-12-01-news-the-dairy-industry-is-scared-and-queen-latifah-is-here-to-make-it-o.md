@@ -6,7 +6,7 @@ slug: >-
   2023-12-01-news-the-dairy-industry-is-scared-and-queen-latifah-is-here-to-make-it-o
 tags:
   - climate
-  - media
+  - Media
 title: 'News - The Dairy Industry Is Scared, and Queen Latifah Is Here to Make It O'
 ---
 

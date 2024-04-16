@@ -4,7 +4,7 @@ isBasedOn: 'https://www.nytimes.com/2023/02/17/business/media/cnn-don-lemon-apol
 link: 'https://www.nytimes.com/2023/02/17/business/media/cnn-don-lemon-apology.html'
 slug: 2023-02-17-httpswwwnytimescom20230217businessmediacnn-don-lemon-apologyhtml
 tags:
-  - media
+  - Media
   - women
 title: 'https://www.nytimes.com/2023/02/17/business/media/cnn-don-lemon-apology.html'
 ---

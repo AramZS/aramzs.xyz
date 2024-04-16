@@ -8,7 +8,7 @@ slug: >-
   2023-10-25-httpsdefectorcomthe-messenger-is-speedrunning-the-media-startup-life-cycle
 tags:
   - business
-  - media
+  - Media
 title: >-
   https://defector.com/the-messenger-is-speedrunning-the-media-startup-life-cycle
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-22-we-just-bought-dollar78-worth-of-food-at-reagan-national-airport-washingtonian
 tags:
-  - media
+  - Media
 title: We Just Bought $78 Worth of Food at Reagan National Airport - Washingtonian
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://www.poynter.org/business-work/2023/texas-tribune-layoffs-fir
 link: 'https://www.poynter.org/business-work/2023/texas-tribune-layoffs-first-ever/'
 slug: 2023-08-24-httpswwwpoynterorgbusiness-work2023texas-tribune-layoffs-first-ever
 tags:
-  - media
+  - Media
 title: 'https://www.poynter.org/business-work/2023/texas-tribune-layoffs-first-ever/'
 ---
 

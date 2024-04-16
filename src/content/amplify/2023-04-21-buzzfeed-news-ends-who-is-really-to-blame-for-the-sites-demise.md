@@ -5,7 +5,7 @@ link: 'https://slate.com/business/2023/04/buzzfeed-news-demise-blame-facebook.ht
 slug: 2023-04-21-buzzfeed-news-ends-who-is-really-to-blame-for-the-sites-demise
 tags:
   - journalism
-  - media
+  - Media
 title: 'BuzzFeed News ends: Who is really to blame for the site’s demise?'
 ---
 

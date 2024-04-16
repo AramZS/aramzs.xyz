@@ -4,7 +4,7 @@ isBasedOn: 'https://www.adweek.com/media/usa-today-tiktok-humankind-problem-solv
 link: 'https://www.adweek.com/media/usa-today-tiktok-humankind-problem-solved/'
 slug: 2023-03-22-on-tiktok-usa-today-finds-traction-without-news
 tags:
-  - media
+  - Media
 title: 'On TikTok, USA Today Finds Traction Without News'
 ---
 

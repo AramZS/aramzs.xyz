@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-02-21-httpsreutersinstitutepoliticsoxacuknewshow-first-impartial-lgbtq-news-brand-gathered-almost-140000-followers-tiktok
 tags:
-  - media
+  - Media
 title: >-
   https://reutersinstitute.politics.ox.ac.uk/news/how-first-impartial-lgbtq-news-brand-gathered-almost-140000-followers-tiktok
 ---

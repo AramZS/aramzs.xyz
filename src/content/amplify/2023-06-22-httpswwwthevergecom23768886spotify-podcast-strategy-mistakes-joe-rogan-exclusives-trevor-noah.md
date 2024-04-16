@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-22-httpswwwthevergecom23768886spotify-podcast-strategy-mistakes-joe-rogan-exclusives-trevor-noah
 tags:
-  - media
+  - Media
   - Tech
 title: >-
   https://www.theverge.com/23768886/spotify-podcast-strategy-mistakes-joe-rogan-exclusives-trevor-noah

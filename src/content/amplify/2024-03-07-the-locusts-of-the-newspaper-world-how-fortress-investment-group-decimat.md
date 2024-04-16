@@ -8,7 +8,7 @@ slug: >-
   2024-03-07-the-locusts-of-the-newspaper-world-how-fortress-investment-group-decimat
 tags:
   - business
-  - media
+  - Media
 title: '"The Locusts Of The Newspaper World": How Fortress Investment Group Decimat'
 ---
 

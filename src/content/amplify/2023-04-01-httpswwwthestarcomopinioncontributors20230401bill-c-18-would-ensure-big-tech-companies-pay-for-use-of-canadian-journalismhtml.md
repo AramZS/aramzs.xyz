@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-01-httpswwwthestarcomopinioncontributors20230401bill-c-18-would-ensure-big-tech-companies-pay-for-use-of-canadian-journalismhtml
 tags:
-  - media
+  - Media
 title: >-
   https://www.thestar.com/opinion/contributors/2023/04/01/bill-c-18-would-ensure-big-tech-companies-pay-for-use-of-canadian-journalism.html
 ---

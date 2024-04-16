@@ -5,7 +5,7 @@ link: 'https://thewalrus.ca/how-connie-walker-got-us-listening/'
 slug: 2024-01-30-how-connie-walker-got-us-listening-or-the-walrus
 tags:
   - journalism
-  - media
+  - Media
   - podcasting
 title: How Connie Walker Got Us Listening | The Walrus
 ---

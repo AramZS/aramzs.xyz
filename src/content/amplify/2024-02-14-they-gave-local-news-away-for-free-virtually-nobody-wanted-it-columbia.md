@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-14-they-gave-local-news-away-for-free-virtually-nobody-wanted-it-columbia
 tags:
-  - media
+  - Media
 title: "They gave local news away for free. Virtually nobody wanted it.\_ - Columbia"
 ---
 

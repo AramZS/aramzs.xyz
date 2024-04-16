@@ -8,7 +8,7 @@ slug: >-
   2023-08-22-httpswwwftcgovbusiness-guidanceblog202308cant-lose-what-you-never-had-claims-about-digital-ownership-creation-age-generative-ai
 tags:
   - ai
-  - media
+  - Media
 title: >-
   https://www.ftc.gov/business-guidance/blog/2023/08/cant-lose-what-you-never-had-claims-about-digital-ownership-creation-age-generative-ai
 ---

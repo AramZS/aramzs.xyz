@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-14-httpswwwtexastribuneorg20230814influenceable-texas-politics-ken-paxton
 tags:
-  - media
+  - Media
   - politics
   - social media
 title: >-

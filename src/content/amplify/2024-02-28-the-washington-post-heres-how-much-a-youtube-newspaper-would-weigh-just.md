@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-28-the-washington-post-heres-how-much-a-youtube-newspaper-would-weigh-just
 tags:
-  - media
+  - Media
   - social media
 title: '[The Washington Post] Here’s how much a YouTube newspaper would weigh, Just'
 ---

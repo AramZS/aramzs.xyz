@@ -6,7 +6,7 @@ link: >-
   https://www.thecut.com/article/how-normal-gossip-host-kelsey-mckinney-gets-it-done.html
 slug: 2023-12-12-how-normal-gossip-host-kelsey-mckinney-gets-it-done
 tags:
-  - media
+  - Media
 title: How ‘Normal Gossip’ Host Kelsey McKinney Gets It Done
 ---
 

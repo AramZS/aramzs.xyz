@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-27-httpswwwnytimescom20230426businessmediatucker-carlson-dominion-fox-newshtml
 tags:
-  - media
+  - Media
 title: >-
   https://www.nytimes.com/2023/04/26/business/media/tucker-carlson-dominion-fox-news.html
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-29-sports-illustrated-union-files-nlrb-complaint-against-arena-group-the-was
 tags:
-  - media
+  - Media
 title: Sports Illustrated union files NLRB complaint against Arena Group - The Was
 ---
 

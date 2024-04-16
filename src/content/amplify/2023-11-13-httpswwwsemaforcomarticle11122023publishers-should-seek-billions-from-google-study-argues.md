@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-13-httpswwwsemaforcomarticle11122023publishers-should-seek-billions-from-google-study-argues
 tags:
-  - media
+  - Media
 title: >-
   https://www.semafor.com/article/11/12/2023/publishers-should-seek-billions-from-google-study-argues
 ---

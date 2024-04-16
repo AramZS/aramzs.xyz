@@ -4,7 +4,7 @@ isBasedOn: 'https://nymag.com/intelligencer/2023/06/can-chris-licht-survive-at-c
 link: 'https://nymag.com/intelligencer/2023/06/can-chris-licht-survive-at-cnn.html'
 slug: 2023-06-05-httpsnymagcomintelligencer202306can-chris-licht-survive-at-cnnhtml
 tags:
-  - media
+  - Media
 title: 'https://nymag.com/intelligencer/2023/06/can-chris-licht-survive-at-cnn.html'
 ---
 

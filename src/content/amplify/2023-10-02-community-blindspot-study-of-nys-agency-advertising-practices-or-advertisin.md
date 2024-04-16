@@ -6,7 +6,7 @@ slug: >-
   2023-10-02-community-blindspot-study-of-nys-agency-advertising-practices-or-advertisin
 tags:
   - ad tech
-  - media
+  - Media
 title: 'Community Blindspot: Study of NYS Agency Advertising Practices | Advertisin'
 ---
 

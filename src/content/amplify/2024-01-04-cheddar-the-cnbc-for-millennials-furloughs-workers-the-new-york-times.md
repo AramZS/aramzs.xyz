@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2024/01/02/business/media/cheddar-cnbc-furloughs.
 slug: >-
   2024-01-04-cheddar-the-cnbc-for-millennials-furloughs-workers-the-new-york-times
 tags:
-  - media
+  - Media
 title: 'Cheddar, the ‘CNBC for Millennials,’ Furloughs Workers - The New York Times'
 ---
 

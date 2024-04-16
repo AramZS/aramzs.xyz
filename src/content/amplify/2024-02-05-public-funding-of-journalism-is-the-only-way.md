@@ -5,7 +5,7 @@ link: 'https://www.hamiltonnolan.com/p/public-funding-of-journalism-is-the'
 slug: 2024-02-05-public-funding-of-journalism-is-the-only-way
 tags:
   - journalism
-  - media
+  - Media
 title: Public Funding of Journalism Is the Only Way
 ---
 

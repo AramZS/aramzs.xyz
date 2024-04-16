@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-25-httpswwwvanityfaircomnews202304tucker-carlson-fox-news-rupert-murdochmbidsocialtwitterandutmsocial-typeownedandutmbrandvf
 tags:
-  - media
+  - Media
 title: >-
   https://www.vanityfair.com/news/2023/04/tucker-carlson-fox-news-rupert-murdoch?mbid=social_twitter&utm_social-type=owned&utm_brand=vf
 ---

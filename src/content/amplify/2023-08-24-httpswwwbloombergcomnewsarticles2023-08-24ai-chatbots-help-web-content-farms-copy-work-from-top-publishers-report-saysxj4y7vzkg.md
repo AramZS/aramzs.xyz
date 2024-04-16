@@ -8,7 +8,7 @@ slug: >-
   2023-08-24-httpswwwbloombergcomnewsarticles2023-08-24ai-chatbots-help-web-content-farms-copy-work-from-top-publishers-report-saysxj4y7vzkg
 tags:
   - ai
-  - media
+  - Media
 title: >-
   https://www.bloomberg.com/news/articles/2023-08-24/ai-chatbots-help-web-content-farms-copy-work-from-top-publishers-report-says#xj4y7vzkg
 ---

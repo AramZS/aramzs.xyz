@@ -6,7 +6,7 @@ link: >-
   https://news.bloomberglaw.com/litigation/consumers-advance-hearst-tv-suit-over-info-sharing-with-google
 slug: 2024-01-18-consumers-advance-hearst-tv-suit-over-info-sharing-with-google
 tags:
-  - media
+  - Media
 title: Consumers Advance Hearst TV Suit Over Info Sharing With Google
 ---
 

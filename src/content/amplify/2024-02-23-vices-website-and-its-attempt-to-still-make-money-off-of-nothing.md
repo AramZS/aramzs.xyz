@@ -4,7 +4,7 @@ isBasedOn: 'https://slate.com/business/2024/02/vice-website-dissolution-money-no
 link: 'https://slate.com/business/2024/02/vice-website-dissolution-money-now.html'
 slug: 2024-02-23-vices-website-and-its-attempt-to-still-make-money-off-of-nothing
 tags:
-  - media
+  - Media
 title: Vice’s website and its attempt to still make money off of nothing.
 ---
 

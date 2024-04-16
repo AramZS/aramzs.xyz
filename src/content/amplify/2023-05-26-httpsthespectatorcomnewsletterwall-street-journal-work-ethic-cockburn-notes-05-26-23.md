@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-26-httpsthespectatorcomnewsletterwall-street-journal-work-ethic-cockburn-notes-05-26-23
 tags:
-  - media
+  - Media
 title: >-
   https://thespectator.com/newsletter/wall-street-journal-work-ethic-cockburn-notes-05-26-23/
 ---

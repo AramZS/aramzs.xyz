@@ -6,7 +6,7 @@ link: >-
   https://www.nytimes.com/2023/04/11/business/media/max-streaming-warner-hbo.html
 slug: 2023-04-12-httpswwwnytimescom20230411businessmediamax-streaming-warner-hbohtml
 tags:
-  - media
+  - Media
 title: >-
   https://www.nytimes.com/2023/04/11/business/media/max-streaming-warner-hbo.html
 ---

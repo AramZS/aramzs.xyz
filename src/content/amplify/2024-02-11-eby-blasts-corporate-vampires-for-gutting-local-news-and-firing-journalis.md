@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-11-eby-blasts-corporate-vampires-for-gutting-local-news-and-firing-journalis
 tags:
-  - media
+  - Media
 title: Eby Blasts ‘Corporate Vampires’ for Gutting Local News and Firing Journalis
 ---
 

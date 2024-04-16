@@ -4,7 +4,7 @@ isBasedOn: 'https://morganstephens.substack.com/p/news-colleagues-were-failing'
 link: 'https://morganstephens.substack.com/p/news-colleagues-were-failing'
 slug: 2023-03-06-httpsmorganstephenssubstackcompnews-colleagues-were-failing
 tags:
-  - media
+  - Media
 title: 'https://morganstephens.substack.com/p/news-colleagues-were-failing'
 ---
 

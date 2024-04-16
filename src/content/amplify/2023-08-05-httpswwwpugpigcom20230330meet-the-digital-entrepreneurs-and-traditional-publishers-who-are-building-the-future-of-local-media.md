@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-05-httpswwwpugpigcom20230330meet-the-digital-entrepreneurs-and-traditional-publishers-who-are-building-the-future-of-local-media
 tags:
-  - media
+  - Media
 title: >-
   https://www.pugpig.com/2023/03/30/meet-the-digital-entrepreneurs-and-traditional-publishers-who-are-building-the-future-of-local-media/
 ---

@@ -4,7 +4,7 @@ isBasedOn: 'https://www.thecurrent.com/npr-twitter-news-publishing-social'
 link: 'https://www.thecurrent.com/npr-twitter-news-publishing-social'
 slug: 2023-04-25-httpswwwthecurrentcomnpr-twitter-news-publishing-social
 tags:
-  - media
+  - Media
 title: 'https://www.thecurrent.com/npr-twitter-news-publishing-social'
 ---
 

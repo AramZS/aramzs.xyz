@@ -8,7 +8,7 @@ slug: >-
   2023-03-13-httpsgizmodocomrupert-murdoch-news-corp-hiring-director-sustainability-1850214129
 tags:
   - environment
-  - media
+  - Media
 title: >-
   https://gizmodo.com/rupert-murdoch-news-corp-hiring-director-sustainability-1850214129
 ---

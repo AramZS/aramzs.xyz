@@ -4,7 +4,7 @@ isBasedOn: 'https://www.vanityfair.com/news/2023/05/elizabeth-holmes-new-york-ti
 link: 'https://www.vanityfair.com/news/2023/05/elizabeth-holmes-new-york-times'
 slug: 2023-06-01-httpswwwvanityfaircomnews202305elizabeth-holmes-new-york-times
 tags:
-  - media
+  - Media
 title: 'https://www.vanityfair.com/news/2023/05/elizabeth-holmes-new-york-times'
 ---
 

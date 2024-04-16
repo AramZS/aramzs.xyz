@@ -9,7 +9,7 @@ slug: >-
 tags:
   - economy
   - labor
-  - media
+  - Media
 title: '‘Don’t Mess With Us’: WebMD Parent Company Demands Return to Office in Biza'
 ---
 

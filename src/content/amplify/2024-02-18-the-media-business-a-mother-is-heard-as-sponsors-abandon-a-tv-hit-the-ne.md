@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-18-the-media-business-a-mother-is-heard-as-sponsors-abandon-a-tv-hit-the-ne
 tags:
-  - media
+  - Media
 title: THE MEDIA BUSINESS; A Mother Is Heard as Sponsors Abandon a TV Hit - The Ne
 ---
 

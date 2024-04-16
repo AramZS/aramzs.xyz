@@ -8,7 +8,7 @@ slug: >-
   2024-02-03-the-spectacular-collapse-of-the-messenger-is-a-lesson-on-how-not-to-do-jour
 tags:
   - journalism
-  - media
+  - Media
 title: The spectacular collapse of the Messenger is a lesson on how not to do jour
 ---
 

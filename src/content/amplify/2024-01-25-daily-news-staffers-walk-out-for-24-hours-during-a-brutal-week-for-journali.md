@@ -7,7 +7,7 @@ slug: >-
 tags:
   - journalism
   - labor
-  - media
+  - Media
 title: Daily News Staffers Walk Out for 24 Hours During a Brutal Week for Journali
 ---
 

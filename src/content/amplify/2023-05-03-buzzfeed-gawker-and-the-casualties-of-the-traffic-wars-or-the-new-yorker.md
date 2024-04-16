@@ -5,7 +5,7 @@ link: 'https://www.newyorker.com/magazine/2023/05/15/traffic-ben-smith-book-revi
 slug: >-
   2023-05-03-buzzfeed-gawker-and-the-casualties-of-the-traffic-wars-or-the-new-yorker
 tags:
-  - media
+  - Media
   - social media
 title: 'BuzzFeed, Gawker, and the Casualties of the Traffic Wars | The New Yorker'
 ---

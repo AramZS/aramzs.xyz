@@ -7,7 +7,7 @@ link: >-
 slug: 2023-09-19-local-news-consumers-are-hungry-for-more-digital-content-next
 tags:
   - journalism
-  - media
+  - Media
 title: Local news consumers are hungry for more - Digital Content Next
 ---
 

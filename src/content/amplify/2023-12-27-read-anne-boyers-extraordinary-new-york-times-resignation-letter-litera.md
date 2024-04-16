@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-12-27-read-anne-boyers-extraordinary-new-york-times-resignation-letter-litera
 tags:
-  - media
+  - Media
 title: Read Anne Boyer’s extraordinary New York Times resignation letter. ‹ Litera
 ---
 

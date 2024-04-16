@@ -6,7 +6,7 @@ slug: 2023-02-17-httpsroversubstackcompknives-out-at-the-montreal-gazette
 tags:
   - business
   - canada
-  - media
+  - Media
 title: 'https://rover.substack.com/p/knives-out-at-the-montreal-gazette'
 ---
 

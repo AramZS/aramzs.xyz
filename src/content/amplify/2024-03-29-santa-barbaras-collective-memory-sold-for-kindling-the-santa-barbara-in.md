@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-29-santa-barbaras-collective-memory-sold-for-kindling-the-santa-barbara-in
 tags:
-  - media
+  - Media
 title: 'Santa Barbara’s Collective Memory, Sold for Kindling - The Santa Barbara In'
 ---
 

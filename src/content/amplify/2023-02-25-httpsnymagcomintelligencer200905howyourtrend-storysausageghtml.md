@@ -4,7 +4,7 @@ isBasedOn: 'https://nymag.com/intelligencer/2009/05/how_your_trend-story_sausage
 link: 'https://nymag.com/intelligencer/2009/05/how_your_trend-story_sausage_g.html'
 slug: 2023-02-25-httpsnymagcomintelligencer200905howyourtrend-storysausageghtml
 tags:
-  - media
+  - Media
 title: 'https://nymag.com/intelligencer/2009/05/how_your_trend-story_sausage_g.html'
 ---
 

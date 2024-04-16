@@ -5,7 +5,7 @@ link: 'https://www.splinter.com/splinter-is-back'
 slug: 2024-04-01-splinter-is-back-splinter
 tags:
   - journalism
-  - media
+  - Media
 title: Splinter Is Back! - Splinter
 ---
 

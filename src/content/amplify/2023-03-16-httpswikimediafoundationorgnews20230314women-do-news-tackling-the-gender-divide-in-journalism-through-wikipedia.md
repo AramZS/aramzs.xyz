@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-16-httpswikimediafoundationorgnews20230314women-do-news-tackling-the-gender-divide-in-journalism-through-wikipedia
 tags:
-  - media
+  - Media
   - sex and gender
 title: >-
   https://wikimediafoundation.org/news/2023/03/14/women-do-news-tackling-the-gender-divide-in-journalism-through-wikipedia/

@@ -7,7 +7,7 @@ link: >-
 slug: >-
     2024-04-04-a-law-firm-of-ai-generated-lawyers-is-sending-fake-threats-as-an-seo-scam
 tags:
-    - media
+    - Media
     - seo
     - Tech
 title: A ‘Law Firm’ of AI Generated Lawyers Is Sending Fake Threats as an SEO Scam

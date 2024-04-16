@@ -4,7 +4,7 @@ isBasedOn: 'https://puck.news/lichts-dispassion-punch/'
 link: 'https://puck.news/lichts-dispassion-punch/'
 slug: 2023-05-12-lichts-dispassion-punch-puck
 tags:
-  - media
+  - Media
 title: Licht’s Dispassion Punch - Puck
 ---
 

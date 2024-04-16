@@ -4,7 +4,7 @@ isBasedOn: 'https://simonowens.substack.com/p/is-the-morning-brew-model-crumblin
 link: 'https://simonowens.substack.com/p/is-the-morning-brew-model-crumbling'
 slug: 2023-03-15-httpssimonowenssubstackcompis-the-morning-brew-model-crumbling
 tags:
-  - media
+  - Media
 title: 'https://simonowens.substack.com/p/is-the-morning-brew-model-crumbling'
 ---
 

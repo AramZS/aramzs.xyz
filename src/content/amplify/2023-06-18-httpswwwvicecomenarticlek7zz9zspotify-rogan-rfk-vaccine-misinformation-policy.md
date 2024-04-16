@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-18-httpswwwvicecomenarticlek7zz9zspotify-rogan-rfk-vaccine-misinformation-policy
 tags:
-  - media
+  - Media
   - social media
 title: >-
   https://www.vice.com/en/article/k7zz9z/spotify-rogan-rfk-vaccine-misinformation-policy

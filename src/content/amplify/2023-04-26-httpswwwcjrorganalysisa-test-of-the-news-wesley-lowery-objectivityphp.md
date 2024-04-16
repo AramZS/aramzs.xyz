@@ -5,7 +5,7 @@ link: 'https://www.cjr.org/analysis/a-test-of-the-news-wesley-lowery-objectivity
 slug: >-
   2023-04-26-httpswwwcjrorganalysisa-test-of-the-news-wesley-lowery-objectivityphp
 tags:
-  - media
+  - Media
 title: 'https://www.cjr.org/analysis/a-test-of-the-news-wesley-lowery-objectivity.php'
 ---
 

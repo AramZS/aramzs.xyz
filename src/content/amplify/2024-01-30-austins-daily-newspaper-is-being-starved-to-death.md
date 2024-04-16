@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-30-austins-daily-newspaper-is-being-starved-to-death
 tags:
   - journalism
-  - media
+  - Media
 title: Austin’s Daily Newspaper Is Being Starved to Death
 ---
 

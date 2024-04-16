@@ -6,7 +6,7 @@ link: >-
   https://www.washingtonian.com/2023/11/28/the-washington-post-will-pause-its-advertising-on-x/
 slug: 2023-11-28-the-washington-post-will-pause-its-advertising-on-x-washingtonian
 tags:
-  - media
+  - Media
 title: The Washington Post Will Pause Its Advertising on X - Washingtonian
 ---
 

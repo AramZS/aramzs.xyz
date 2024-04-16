@@ -8,7 +8,7 @@ slug: >-
   2023-07-07-httpswwwthevergecom20237623785645go-media-ai-generated-articles-gizmodo-av-club-artificial-intelligence-bots
 tags:
   - ai
-  - media
+  - Media
 title: >-
   https://www.theverge.com/2023/7/6/23785645/go-media-ai-generated-articles-gizmodo-av-club-artificial-intelligence-bots
 ---

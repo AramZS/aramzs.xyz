@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-26-new-york-times-reviewing-reporter-anat-schwartz-for-liking-gaza-slaughte
 tags:
-  - media
+  - Media
 title: New York Times ‘Reviewing’ Reporter Anat Schwartz for Liking Gaza ‘Slaughte
 ---
 

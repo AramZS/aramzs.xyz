@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-18-the-washington-post-for-cable-news-ufo-story-has-ratings-payoff-and-re
 tags:
-  - media
+  - Media
 title: '[The Washington Post] For cable news, UFO story has ratings payoff — and re'
 ---
 

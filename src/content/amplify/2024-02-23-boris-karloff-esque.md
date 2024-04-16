@@ -6,7 +6,7 @@ link: >-
   https://nymag.com/intelligencer/2024/02/killing-the-messenger-my-final-days-working-at-a-disaster.html
 slug: 2024-02-23-boris-karloff-esque
 tags:
-  - media
+  - Media
 title: Boris Karloff–esque
 ---
 

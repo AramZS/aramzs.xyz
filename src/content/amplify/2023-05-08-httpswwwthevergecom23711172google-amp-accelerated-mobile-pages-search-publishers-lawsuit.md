@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-08-httpswwwthevergecom23711172google-amp-accelerated-mobile-pages-search-publishers-lawsuit
 tags:
-  - media
+  - Media
 title: >-
   https://www.theverge.com/23711172/google-amp-accelerated-mobile-pages-search-publishers-lawsuit
 ---

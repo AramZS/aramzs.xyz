@@ -8,7 +8,7 @@ slug: >-
   2023-07-08-the-washington-post-how-an-ai-written-star-wars-story-created-chaos-at-gi
 tags:
   - ai
-  - media
+  - Media
 title: '[The Washington Post] How an AI-written Star Wars story created chaos at Gi'
 ---
 

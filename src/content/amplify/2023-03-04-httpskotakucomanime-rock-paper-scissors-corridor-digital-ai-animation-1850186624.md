@@ -8,7 +8,7 @@ slug: >-
   2023-03-04-httpskotakucomanime-rock-paper-scissors-corridor-digital-ai-animation-1850186624
 tags:
   - entertainment
-  - media
+  - Media
   - Tech
 title: >-
   https://kotaku.com/anime-rock-paper-scissors-corridor-digital-ai-animation-1850186624

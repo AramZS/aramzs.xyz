@@ -6,7 +6,7 @@ link: >-
   https://www.journalism.co.uk/news/-news-companies-need-survival-strategies-and-culture-change-/s2/a1080656/
 slug: 2023-10-20-news-companies-need-survival-strategies-and-culture-change
 tags:
-  - media
+  - Media
 title: '''News companies need survival strategies and culture change'''
 ---
 

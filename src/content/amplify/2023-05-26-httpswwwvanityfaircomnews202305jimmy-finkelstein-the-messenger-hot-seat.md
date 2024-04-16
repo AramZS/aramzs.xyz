@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-26-httpswwwvanityfaircomnews202305jimmy-finkelstein-the-messenger-hot-seat
 tags:
-  - media
+  - Media
 title: >-
   https://www.vanityfair.com/news/2023/05/jimmy-finkelstein-the-messenger-hot-seat
 ---

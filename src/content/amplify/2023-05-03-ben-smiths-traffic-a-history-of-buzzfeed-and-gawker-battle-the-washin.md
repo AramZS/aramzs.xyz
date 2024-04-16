@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-03-ben-smiths-traffic-a-history-of-buzzfeed-and-gawker-battle-the-washin
 tags:
-  - media
+  - Media
 title: 'Ben Smith''s ''Traffic,'' a history of BuzzFeed and Gawker battle - The Washin'
 ---
 

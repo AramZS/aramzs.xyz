@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2023/02/16/world/canada/lisa-laflamme-ctv-anchor.
 slug: 2023-02-17-httpswwwnytimescom20230216worldcanadalisa-laflamme-ctv-anchorhtml
 tags:
   - canada
-  - media
+  - Media
 title: 'https://www.nytimes.com/2023/02/16/world/canada/lisa-laflamme-ctv-anchor.html'
 ---
 

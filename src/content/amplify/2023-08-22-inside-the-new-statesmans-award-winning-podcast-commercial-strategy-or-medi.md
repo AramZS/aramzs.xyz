@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-22-inside-the-new-statesmans-award-winning-podcast-commercial-strategy-or-medi
 tags:
-  - media
+  - Media
 title: Inside the New Statesman’s award-winning podcast commercial strategy | Medi
 ---
 

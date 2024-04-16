@@ -4,7 +4,7 @@ isBasedOn: 'https://www.vanityfair.com/news/inside-the-new-york-times-big-bet-on
 link: 'https://www.vanityfair.com/news/inside-the-new-york-times-big-bet-on-games'
 slug: 2023-12-19-inside-the-new-york-times-big-bet-on-games-or-vanity-fair
 tags:
-  - media
+  - Media
 title: Inside the New York Times’ Big Bet on Games | Vanity Fair
 ---
 

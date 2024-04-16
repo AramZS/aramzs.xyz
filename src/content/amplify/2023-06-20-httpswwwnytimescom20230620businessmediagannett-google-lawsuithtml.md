@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2023/06/20/business/media/gannett-google-lawsuit.
 slug: 2023-06-20-httpswwwnytimescom20230620businessmediagannett-google-lawsuithtml
 tags:
   - ad tech
-  - media
+  - Media
 title: 'https://www.nytimes.com/2023/06/20/business/media/gannett-google-lawsuit.html'
 ---
 

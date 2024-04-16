@@ -8,7 +8,7 @@ slug: >-
   2023-03-15-httpspublicknowledgeorgpolicystreaming-in-the-dark-where-music-listeners-money-goes-and-doesnt
 tags:
   - business
-  - media
+  - Media
 title: >-
   https://publicknowledge.org/policy/streaming-in-the-dark-where-music-listeners-money-goes-and-doesnt/
 ---

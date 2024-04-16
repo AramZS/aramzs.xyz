@@ -5,7 +5,7 @@ link: 'https://medialyter.substack.com/p/the-death-of-the-long-tail'
 slug: 2024-01-30-the-death-of-the-long-tail-by-mark-stenberg-medialyte
 tags:
   - ad tech
-  - media
+  - Media
 title: The death of the long tail - by Mark Stenberg - Medialyte
 ---
 

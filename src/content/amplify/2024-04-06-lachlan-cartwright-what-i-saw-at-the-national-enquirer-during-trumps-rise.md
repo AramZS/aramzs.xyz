@@ -8,7 +8,7 @@ slug: >-
   2024-04-06-lachlan-cartwright-what-i-saw-at-the-national-enquirer-during-trumps-rise
 tags:
   - journalism
-  - media
+  - Media
   - politics
 title: 'Lachlan Cartwright: What I Saw at the National Enquirer During Trump’s Rise'
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-28-mehdi-hasan-launches-his-own-media-company-after-leaving-msnbc-the-washin
 tags:
-  - media
+  - Media
 title: Mehdi Hasan launches his own media company after leaving MSNBC - The Washin
 ---
 

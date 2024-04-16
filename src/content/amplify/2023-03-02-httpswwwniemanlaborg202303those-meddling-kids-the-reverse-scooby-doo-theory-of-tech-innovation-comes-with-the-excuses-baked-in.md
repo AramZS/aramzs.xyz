@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-02-httpswwwniemanlaborg202303those-meddling-kids-the-reverse-scooby-doo-theory-of-tech-innovation-comes-with-the-excuses-baked-in
 tags:
-  - media
+  - Media
 title: >-
   https://www.niemanlab.org/2023/03/those-meddling-kids-the-reverse-scooby-doo-theory-of-tech-innovation-comes-with-the-excuses-baked-in/
 ---

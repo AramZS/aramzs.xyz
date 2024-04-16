@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-10-httpsmargaretsullivansubstackcompmedia-maelstrom-enough-already-mainstream
 tags:
-  - media
+  - Media
 title: >-
   https://margaretsullivan.substack.com/p/media-maelstrom-enough-already-mainstream
 ---

@@ -8,7 +8,7 @@ slug: >-
   2024-01-26-the-story-behind-wsjs-new-data-pipeline-for-audience-analytics-or-by-louise
 tags:
   - ad tech
-  - media
+  - Media
 title: The Story Behind WSJ’s New Data Pipeline for Audience Analytics | by Louise
 ---
 

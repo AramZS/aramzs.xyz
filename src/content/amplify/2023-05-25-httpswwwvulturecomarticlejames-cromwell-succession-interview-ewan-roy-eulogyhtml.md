@@ -8,7 +8,7 @@ slug: >-
   2023-05-25-httpswwwvulturecomarticlejames-cromwell-succession-interview-ewan-roy-eulogyhtml
 tags:
   - entertainment
-  - media
+  - Media
 title: >-
   https://www.vulture.com/article/james-cromwell-succession-interview-ewan-roy-eulogy.html
 ---

@@ -6,7 +6,7 @@ link: >-
   https://www.nytimes.com/2023/11/29/business/media/jezebel-resurrected-paste-magazine.html
 slug: 2023-11-29-jezebel-to-be-resurrected-by-paste-magazine-the-new-york-times
 tags:
-  - media
+  - Media
 title: Jezebel to Be Resurrected by Paste Magazine - The New York Times
 ---
 

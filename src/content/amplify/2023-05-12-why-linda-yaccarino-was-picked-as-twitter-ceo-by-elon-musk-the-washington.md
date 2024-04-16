@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-12-why-linda-yaccarino-was-picked-as-twitter-ceo-by-elon-musk-the-washington
 tags:
-  - media
+  - Media
   - social media
 title: Why Linda Yaccarino was picked as Twitter CEO by Elon Musk - The Washington
 ---

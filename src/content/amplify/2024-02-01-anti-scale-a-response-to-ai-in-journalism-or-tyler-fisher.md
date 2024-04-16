@@ -7,7 +7,7 @@ link: >-
 slug: 2024-02-01-anti-scale-a-response-to-ai-in-journalism-or-tyler-fisher
 tags:
   - journalism
-  - media
+  - Media
 title: 'Anti-scale: a response to AI in journalism | Tyler Fisher'
 ---
 

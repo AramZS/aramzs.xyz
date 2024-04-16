@@ -6,7 +6,7 @@ slug: 2024-01-03-ai-is-coming-for-the-influencers
 tags:
   - ai
   - entertainment
-  - media
+  - Media
 title: AI Is Coming for the Influencers
 ---
 

@@ -6,7 +6,7 @@ link: >-
   https://taxpolicy.org.uk/2024/02/17/the-invisible-campaign-to-censor-the-internet/
 slug: 2024-02-18-the-epidemic-of-fraudulent-dmca-takedowns
 tags:
-  - media
+  - Media
   - seo
 title: The epidemic of fraudulent DMCA takedowns
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-12-npr-quits-twitter-after-being-falsely-labeled-as-state-affiliated-media
 tags:
-  - media
+  - Media
   - social media
 title: 'NPR quits Twitter after being falsely labeled as ''state-affiliated media'' :'
 ---

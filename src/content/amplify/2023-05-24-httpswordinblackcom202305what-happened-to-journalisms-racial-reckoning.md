@@ -5,7 +5,7 @@ link: 'https://wordinblack.com/2023/05/what-happened-to-journalisms-racial-recko
 slug: >-
   2023-05-24-httpswordinblackcom202305what-happened-to-journalisms-racial-reckoning
 tags:
-  - media
+  - Media
   - race
 title: 'https://wordinblack.com/2023/05/what-happened-to-journalisms-racial-reckoning/'
 ---

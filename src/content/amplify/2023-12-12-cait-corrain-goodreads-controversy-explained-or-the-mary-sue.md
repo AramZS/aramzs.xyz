@@ -5,7 +5,7 @@ link: 'https://www.themarysue.com/cait-corrain-goodreads-controversy-explained/'
 slug: 2023-12-12-cait-corrain-goodreads-controversy-explained-or-the-mary-sue
 tags:
   - books
-  - media
+  - Media
 title: 'Cait Corrain Goodreads Controversy, Explained | The Mary Sue'
 ---
 

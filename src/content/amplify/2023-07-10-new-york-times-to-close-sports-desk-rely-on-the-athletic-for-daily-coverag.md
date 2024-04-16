@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-10-new-york-times-to-close-sports-desk-rely-on-the-athletic-for-daily-coverag
 tags:
-  - media
+  - Media
 title: 'New York Times to Close Sports Desk, Rely on the Athletic for Daily Coverag'
 ---
 

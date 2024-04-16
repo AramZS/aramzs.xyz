@@ -8,7 +8,7 @@ slug: 2023-11-02-ai-chatbots-rely-heavily-on-copyrighted-news-media-say-publishe
 tags:
   - ai
   - journalism
-  - media
+  - Media
 title: 'AI chatbots rely heavily on copyrighted news media, say publishers'
 ---
 

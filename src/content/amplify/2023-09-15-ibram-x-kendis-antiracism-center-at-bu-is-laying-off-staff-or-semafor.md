@@ -8,7 +8,7 @@ slug: >-
   2023-09-15-ibram-x-kendis-antiracism-center-at-bu-is-laying-off-staff-or-semafor
 tags:
   - academia
-  - media
+  - Media
   - race
 title: Ibram X. Kendi’s antiracism center at BU is laying off staff | Semafor
 ---

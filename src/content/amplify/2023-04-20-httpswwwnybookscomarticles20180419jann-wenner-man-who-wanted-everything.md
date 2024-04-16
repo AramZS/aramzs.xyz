@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-20-httpswwwnybookscomarticles20180419jann-wenner-man-who-wanted-everything
 tags:
-  - media
+  - Media
 title: >-
   https://www.nybooks.com/articles/2018/04/19/jann-wenner-man-who-wanted-everything/
 ---

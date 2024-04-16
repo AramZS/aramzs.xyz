@@ -6,7 +6,7 @@ link: >-
   https://studyhall.xyz/scoop-paper-magazine-resurrected-by-controversial-media-publisher/
 slug: 2023-06-28-scoop-paper-magazine-resurrected-by-controversial-media-publisher
 tags:
-  - media
+  - Media
 title: '» SCOOP: Paper Magazine Resurrected By Controversial Media Publisher'
 ---
 

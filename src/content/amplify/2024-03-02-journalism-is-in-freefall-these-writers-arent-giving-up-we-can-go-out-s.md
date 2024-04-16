@@ -8,7 +8,7 @@ slug: >-
   2024-03-02-journalism-is-in-freefall-these-writers-arent-giving-up-we-can-go-out-s
 tags:
   - journalism
-  - media
+  - Media
 title: 'Journalism is in freefall. These writers aren’t giving up: ‘We can go out s'
 ---
 

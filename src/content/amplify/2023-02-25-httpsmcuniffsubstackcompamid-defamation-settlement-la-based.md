@@ -5,7 +5,7 @@ link: 'https://mcuniff.substack.com/p/amid-defamation-settlement-la-based'
 slug: 2023-02-25-httpsmcuniffsubstackcompamid-defamation-settlement-la-based
 tags:
   - law and order
-  - media
+  - Media
 title: 'https://mcuniff.substack.com/p/amid-defamation-settlement-la-based'
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-12-12-new-york-times-hires-first-newsroom-leader-focused-on-artificial-intelligen
 tags:
   - ai
-  - media
+  - Media
 title: New York Times Hires First Newsroom Leader Focused on Artificial Intelligen
 ---
 

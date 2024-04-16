@@ -6,7 +6,7 @@ slug: 2024-01-25-forbes-union-to-stage-walkout-protest
 tags:
   - journalism
   - labor
-  - media
+  - Media
 title: Forbes union to stage walkout protest
 ---
 

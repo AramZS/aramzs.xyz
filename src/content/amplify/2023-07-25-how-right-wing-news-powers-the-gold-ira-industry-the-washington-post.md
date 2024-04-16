@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-25-how-right-wing-news-powers-the-gold-ira-industry-the-washington-post
 tags:
-  - media
+  - Media
   - misinformation
   - politics
 title: How right-wing news powers the ‘gold IRA’ industry - The Washington Post

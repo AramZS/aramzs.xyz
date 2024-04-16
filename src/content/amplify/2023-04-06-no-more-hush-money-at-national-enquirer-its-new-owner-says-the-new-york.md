@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-06-no-more-hush-money-at-national-enquirer-its-new-owner-says-the-new-york
 tags:
-  - media
+  - Media
 title: 'No More Hush Money at National Enquirer, Its New Owner Says - The New York '
 ---
 

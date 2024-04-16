@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-09-httpswwwniemanlaborg202311jezebel-the-pioneering-womens-site-is-suspended-by-g-o-media
 tags:
-  - media
+  - Media
 title: >-
   https://www.niemanlab.org/2023/11/jezebel-the-pioneering-womens-site-is-suspended-by-g-o-media/
 ---

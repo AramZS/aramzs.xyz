@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2023/03/31/business/fox-dominion-defamation-case.
 slug: 2023-04-01-httpswwwnytimescom20230331businessfox-dominion-defamation-casehtml
 tags:
   - law and order
-  - media
+  - Media
 title: 'https://www.nytimes.com/2023/03/31/business/fox-dominion-defamation-case.html'
 ---
 

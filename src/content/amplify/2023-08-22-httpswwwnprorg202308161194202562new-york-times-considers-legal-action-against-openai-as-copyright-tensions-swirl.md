@@ -8,7 +8,7 @@ slug: >-
   2023-08-22-httpswwwnprorg202308161194202562new-york-times-considers-legal-action-against-openai-as-copyright-tensions-swirl
 tags:
   - ai
-  - media
+  - Media
 title: >-
   https://www.npr.org/2023/08/16/1194202562/new-york-times-considers-legal-action-against-openai-as-copyright-tensions-swirl
 ---

@@ -4,7 +4,7 @@ isBasedOn: 'https://www.adweek.com/media/buzzfeed-strategic-shift-jessica-probus
 link: 'https://www.adweek.com/media/buzzfeed-strategic-shift-jessica-probus/'
 slug: 2023-11-16-exclusive-buzzfeed-inc-will-undergo-a-strategic-shift
 tags:
-  - media
+  - Media
 title: 'Exclusive: BuzzFeed Inc. Will Undergo a Strategic Shift'
 ---
 

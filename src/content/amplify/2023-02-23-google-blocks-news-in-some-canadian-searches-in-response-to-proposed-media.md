@@ -8,7 +8,7 @@ slug: >-
   2023-02-23-google-blocks-news-in-some-canadian-searches-in-response-to-proposed-media
 tags:
   - journalism
-  - media
+  - Media
 title: 'Google blocks news in some Canadian searches, in response to proposed media'
 ---
 

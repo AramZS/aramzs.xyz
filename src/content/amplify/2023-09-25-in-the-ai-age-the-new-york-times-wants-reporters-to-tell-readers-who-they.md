@@ -6,7 +6,7 @@ slug: >-
   2023-09-25-in-the-ai-age-the-new-york-times-wants-reporters-to-tell-readers-who-they
 tags:
   - ai
-  - media
+  - Media
 title: 'In the AI Age, The New York Times Wants Reporters to Tell Readers Who They '
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-12-13-to-build-trust-news-outlets-prioritize-transparency-nieman-journalism-la
 tags:
   - ad tech
-  - media
+  - Media
 title: 'To build trust, news outlets prioritize transparency » Nieman Journalism La'
 ---
 

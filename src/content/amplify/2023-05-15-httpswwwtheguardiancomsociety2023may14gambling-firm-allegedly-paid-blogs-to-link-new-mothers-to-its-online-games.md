@@ -8,7 +8,7 @@ slug: >-
   2023-05-15-httpswwwtheguardiancomsociety2023may14gambling-firm-allegedly-paid-blogs-to-link-new-mothers-to-its-online-games
 tags:
   - ad tech
-  - media
+  - Media
 title: >-
   https://www.theguardian.com/society/2023/may/14/gambling-firm-allegedly-paid-blogs-to-link-new-mothers-to-its-online-games
 ---

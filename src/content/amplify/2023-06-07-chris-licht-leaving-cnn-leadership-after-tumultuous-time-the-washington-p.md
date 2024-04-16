@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-07-chris-licht-leaving-cnn-leadership-after-tumultuous-time-the-washington-p
 tags:
-  - media
+  - Media
 title: Chris Licht leaving CNN leadership after tumultuous time - The Washington P
 ---
 

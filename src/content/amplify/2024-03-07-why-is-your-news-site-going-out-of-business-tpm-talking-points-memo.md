@@ -7,7 +7,7 @@ link: >-
 slug: 2024-03-07-why-is-your-news-site-going-out-of-business-tpm-talking-points-memo
 tags:
   - ad tech
-  - media
+  - Media
 title: Why Is Your News Site Going Out of Business? - TPM – Talking Points Memo
 ---
 

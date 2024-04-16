@@ -5,7 +5,7 @@ link: 'https://www.semafor.com/article/10/13/2023/inside-msnbcs-middle-east-conf
 slug: 2023-10-13-httpswwwsemaforcomarticle10132023inside-msnbcs-middle-east-conflict
 tags:
   - israel
-  - media
+  - Media
 title: 'https://www.semafor.com/article/10/13/2023/inside-msnbcs-middle-east-conflict'
 ---
 

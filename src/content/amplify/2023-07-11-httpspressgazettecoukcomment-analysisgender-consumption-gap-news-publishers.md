@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-11-httpspressgazettecoukcomment-analysisgender-consumption-gap-news-publishers
 tags:
-  - media
+  - Media
 title: >-
   https://pressgazette.co.uk/comment-analysis/gender-consumption-gap-news-publishers/
 ---

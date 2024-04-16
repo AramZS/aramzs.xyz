@@ -4,7 +4,7 @@ isBasedOn: 'https://www.axios.com/2023/05/15/vice-media-files-for-chapter-11-ban
 link: 'https://www.axios.com/2023/05/15/vice-media-files-for-chapter-11-bankruptcy'
 slug: 2023-05-15-httpswwwaxioscom20230515vice-media-files-for-chapter-11-bankruptcy
 tags:
-  - media
+  - Media
 title: 'https://www.axios.com/2023/05/15/vice-media-files-for-chapter-11-bankruptcy'
 ---
 

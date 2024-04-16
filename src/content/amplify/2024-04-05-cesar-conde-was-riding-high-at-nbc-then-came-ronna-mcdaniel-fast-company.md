@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-05-cesar-conde-was-riding-high-at-nbc-then-came-ronna-mcdaniel-fast-company
 tags:
-  - media
+  - Media
 title: Cesar Conde was riding high at NBC. Then came Ronna McDaniel - Fast Company
 ---
 

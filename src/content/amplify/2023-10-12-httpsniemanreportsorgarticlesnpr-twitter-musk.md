@@ -4,7 +4,7 @@ isBasedOn: 'https://niemanreports.org/articles/npr-twitter-musk/'
 link: 'https://niemanreports.org/articles/npr-twitter-musk/'
 slug: 2023-10-12-httpsniemanreportsorgarticlesnpr-twitter-musk
 tags:
-  - media
+  - Media
   - social media
 title: 'https://niemanreports.org/articles/npr-twitter-musk/'
 ---

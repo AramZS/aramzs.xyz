@@ -8,7 +8,7 @@ slug: >-
   2023-08-29-the-washington-post-how-a-small-town-feud-in-kansas-sent-a-shock-through
 tags:
   - journalism
-  - media
+  - Media
 title: '[The Washington Post] How a small-town feud in Kansas sent a shock through '
 ---
 

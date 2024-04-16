@@ -8,7 +8,7 @@ slug: >-
   2023-02-19-httpsgizmodocomohio-toxic-train-derailment-misinformation-conspiracies-1850119412
 tags:
   - environment
-  - media
+  - Media
 title: >-
   https://gizmodo.com/ohio-toxic-train-derailment-misinformation-conspiracies-1850119412
 ---

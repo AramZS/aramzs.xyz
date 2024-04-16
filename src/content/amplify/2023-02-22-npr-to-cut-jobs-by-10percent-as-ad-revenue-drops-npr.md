@@ -5,7 +5,7 @@ link: 'https://www.npr.org/2023/02/22/1158710498/npr-layoffs-2023'
 slug: 2023-02-22-npr-to-cut-jobs-by-10percent-as-ad-revenue-drops-npr
 tags:
   - business
-  - media
+  - Media
 title: 'NPR to cut jobs by 10% as ad revenue drops : NPR'
 ---
 

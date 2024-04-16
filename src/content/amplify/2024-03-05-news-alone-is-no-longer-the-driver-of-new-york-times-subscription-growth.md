@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-05-news-alone-is-no-longer-the-driver-of-new-york-times-subscription-growth
 tags:
-  - media
+  - Media
 title: 'News alone is no longer the driver of New York Times subscription growth - '
 ---
 

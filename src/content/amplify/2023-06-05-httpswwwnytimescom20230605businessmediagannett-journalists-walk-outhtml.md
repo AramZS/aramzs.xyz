@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-05-httpswwwnytimescom20230605businessmediagannett-journalists-walk-outhtml
 tags:
-  - media
+  - Media
 title: >-
   https://www.nytimes.com/2023/06/05/business/media/gannett-journalists-walk-out.html
 ---

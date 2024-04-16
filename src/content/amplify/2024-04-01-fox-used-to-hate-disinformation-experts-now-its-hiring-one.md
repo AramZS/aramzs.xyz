@@ -4,7 +4,7 @@ isBasedOn: 'https://theintercept.com/2024/04/01/fox-disinformation-misinformatio
 link: 'https://theintercept.com/2024/04/01/fox-disinformation-misinformation/'
 slug: 2024-04-01-fox-used-to-hate-disinformation-experts-now-its-hiring-one
 tags:
-  - media
+  - Media
 title: Fox Used to Hate Disinformation Experts. Now It’s Hiring One.
 ---
 

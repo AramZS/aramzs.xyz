@@ -6,7 +6,7 @@ link: >-
   https://awfulannouncing.com/arena-group/former-arena-group-ceo-ross-levinsohn-resigns-board-seat-bemoans-destruction-of-sports-illustrated.html
 slug: 2024-01-19-former-arena-group-ceo-ross-levinsohn-resigns-board-seat
 tags:
-  - media
+  - Media
 title: Former Arena Group CEO Ross Levinsohn resigns board seat
 ---
 

@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2024/02/22/business/vices-new-layoffs.html'
 slug: >-
   2024-02-22-vices-new-owners-prepare-to-slash-whats-left-of-its-work-force-the-new
 tags:
-  - media
+  - Media
 title: 'Vice’s New Owners Prepare to Slash What’s Left of Its Work Force - The New '
 ---
 

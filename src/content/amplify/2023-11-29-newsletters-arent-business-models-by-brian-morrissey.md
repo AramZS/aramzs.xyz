@@ -7,7 +7,7 @@ link: >-
 slug: 2023-11-29-newsletters-arent-business-models-by-brian-morrissey
 tags:
   - business
-  - media
+  - Media
 title: Newsletters aren’t business models - by Brian Morrissey
 ---
 

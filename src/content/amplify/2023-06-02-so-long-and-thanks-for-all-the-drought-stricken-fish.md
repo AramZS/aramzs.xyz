@@ -7,7 +7,7 @@ link: >-
 slug: 2023-06-02-so-long-and-thanks-for-all-the-drought-stricken-fish
 tags:
   - climate
-  - media
+  - Media
 title: 'So Long, and Thanks for All the (Drought-Stricken) Fish'
 ---
 

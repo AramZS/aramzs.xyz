@@ -8,7 +8,7 @@ slug: >-
   2023-12-16-mailchimp-cancels-pineapple-street-studios-podcast-after-refusing-to-work-w
 tags:
   - entertainment
-  - media
+  - Media
 title: Mailchimp cancels Pineapple Street Studios podcast after refusing to work w
 ---
 

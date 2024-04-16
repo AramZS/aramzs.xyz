@@ -4,7 +4,7 @@ isBasedOn: 'https://www.axios.com/2023/05/26/future-of-media'
 link: 'https://www.axios.com/2023/05/26/future-of-media'
 slug: 2023-05-26-httpswwwaxioscom20230526future-of-media
 tags:
-  - media
+  - Media
 title: 'https://www.axios.com/2023/05/26/future-of-media'
 ---
 

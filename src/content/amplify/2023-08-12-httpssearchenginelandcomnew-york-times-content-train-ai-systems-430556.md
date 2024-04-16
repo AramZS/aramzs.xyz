@@ -6,7 +6,7 @@ slug: >-
   2023-08-12-httpssearchenginelandcomnew-york-times-content-train-ai-systems-430556
 tags:
   - ai
-  - media
+  - Media
 title: 'https://searchengineland.com/new-york-times-content-train-ai-systems-430556'
 ---
 

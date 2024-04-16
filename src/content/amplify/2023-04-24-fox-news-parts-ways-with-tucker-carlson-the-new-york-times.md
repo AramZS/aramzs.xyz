@@ -7,7 +7,7 @@ link: >-
 slug: 2023-04-24-fox-news-parts-ways-with-tucker-carlson-the-new-york-times
 tags:
   - journalism
-  - media
+  - Media
 title: Fox News Parts Ways With Tucker Carlson - The New York Times
 ---
 

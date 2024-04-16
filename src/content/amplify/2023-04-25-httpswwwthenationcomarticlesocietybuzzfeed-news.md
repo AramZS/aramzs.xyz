@@ -4,7 +4,7 @@ isBasedOn: 'https://www.thenation.com/article/society/buzzfeed-news/'
 link: 'https://www.thenation.com/article/society/buzzfeed-news/'
 slug: 2023-04-25-httpswwwthenationcomarticlesocietybuzzfeed-news
 tags:
-  - media
+  - Media
 title: 'https://www.thenation.com/article/society/buzzfeed-news/'
 ---
 

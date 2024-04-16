@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-01-the-messenger-shuts-downand-some-thoughts-about-why-it-ever-happened-tpm
 tags:
-  - media
+  - Media
 title: The Messenger Shuts Down—And Some Thoughts About Why It Ever Happened - TPM
 ---
 

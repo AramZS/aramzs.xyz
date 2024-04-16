@@ -8,7 +8,7 @@ slug: >-
   2023-12-14-the-washington-post-meet-the-woman-working-to-stop-the-far-right-creator
 tags:
   - ad tech
-  - media
+  - Media
   - misinformation
 title: '[The Washington Post] Meet the woman working to stop the far-right creator '
 ---

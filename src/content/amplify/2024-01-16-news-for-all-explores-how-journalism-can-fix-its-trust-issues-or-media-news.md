@@ -8,7 +8,7 @@ slug: >-
   2024-01-16-news-for-all-explores-how-journalism-can-fix-its-trust-issues-or-media-news
 tags:
   - journalism
-  - media
+  - Media
 title: News for All explores how journalism can fix its trust issues | Media news
 ---
 

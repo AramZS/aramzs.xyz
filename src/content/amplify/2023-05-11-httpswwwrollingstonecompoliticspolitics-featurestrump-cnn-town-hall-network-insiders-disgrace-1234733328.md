@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-11-httpswwwrollingstonecompoliticspolitics-featurestrump-cnn-town-hall-network-insiders-disgrace-1234733328
 tags:
-  - media
+  - Media
   - politics
 title: >-
   https://www.rollingstone.com/politics/politics-features/trump-cnn-town-hall-network-insiders-disgrace-1234733328/

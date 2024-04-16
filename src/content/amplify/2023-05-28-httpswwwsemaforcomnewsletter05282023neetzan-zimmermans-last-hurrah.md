@@ -4,7 +4,7 @@ isBasedOn: 'https://www.semafor.com/newsletter/05/28/2023/neetzan-zimmermans-las
 link: 'https://www.semafor.com/newsletter/05/28/2023/neetzan-zimmermans-last-hurrah'
 slug: 2023-05-28-httpswwwsemaforcomnewsletter05282023neetzan-zimmermans-last-hurrah
 tags:
-  - media
+  - Media
 title: 'https://www.semafor.com/newsletter/05/28/2023/neetzan-zimmermans-last-hurrah'
 ---
 

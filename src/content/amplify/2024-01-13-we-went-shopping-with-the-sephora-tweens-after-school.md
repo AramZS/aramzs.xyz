@@ -5,7 +5,7 @@ link: 'https://www.thecut.com/2024/01/ephora-tweens-shopping-drunk-elephant.html
 slug: 2024-01-13-we-went-shopping-with-the-sephora-tweens-after-school
 tags:
   - entertainment
-  - media
+  - Media
 title: We Went Shopping With the Sephora Tweens After School
 ---
 

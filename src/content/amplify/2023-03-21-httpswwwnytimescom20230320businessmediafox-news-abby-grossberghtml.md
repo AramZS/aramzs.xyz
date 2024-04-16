@@ -4,7 +4,7 @@ isBasedOn: 'https://www.nytimes.com/2023/03/20/business/media/fox-news-abby-gros
 link: 'https://www.nytimes.com/2023/03/20/business/media/fox-news-abby-grossberg.html'
 slug: 2023-03-21-httpswwwnytimescom20230320businessmediafox-news-abby-grossberghtml
 tags:
-  - media
+  - Media
 title: 'https://www.nytimes.com/2023/03/20/business/media/fox-news-abby-grossberg.html'
 ---
 

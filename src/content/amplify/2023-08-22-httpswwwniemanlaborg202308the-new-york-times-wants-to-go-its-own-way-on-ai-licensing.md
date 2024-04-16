@@ -8,7 +8,7 @@ slug: >-
   2023-08-22-httpswwwniemanlaborg202308the-new-york-times-wants-to-go-its-own-way-on-ai-licensing
 tags:
   - ai
-  - media
+  - Media
 title: >-
   https://www.niemanlab.org/2023/08/the-new-york-times-wants-to-go-its-own-way-on-ai-licensing/
 ---

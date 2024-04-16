@@ -4,7 +4,7 @@ isBasedOn: 'https://www.bustle.com/entertainment/depp-v-heard-netflix-documentar
 link: 'https://www.bustle.com/entertainment/depp-v-heard-netflix-documentary-review'
 slug: 2023-08-17-skip-depp-v-heard-on-netflix-and-read-this-instead
 tags:
-  - media
+  - Media
 title: Skip 'Depp v. Heard' On Netflix & Read This Instead
 ---
 

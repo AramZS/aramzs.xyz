@@ -4,7 +4,7 @@ isBasedOn: 'https://www.motherjones.com/media/2024/02/its-not-just-the-end-for-j
 link: 'https://www.motherjones.com/media/2024/02/its-not-just-the-end-for-journalism/'
 slug: 2024-02-25-its-not-just-the-end-for-journalism-its-a-beginning-mother-jones
 tags:
-  - media
+  - Media
 title: It’s Not Just the End for Journalism. It’s a Beginning. – Mother Jones
 ---
 

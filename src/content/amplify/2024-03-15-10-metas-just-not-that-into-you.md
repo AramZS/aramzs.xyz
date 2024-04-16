@@ -4,7 +4,7 @@ isBasedOn: 'https://simonowens.substack.com/p/metas-just-not-that-into-you'
 link: 'https://simonowens.substack.com/p/metas-just-not-that-into-you'
 slug: 2024-03-15-10-metas-just-not-that-into-you
 tags:
-  - media
+  - Media
 title: (10) Meta's just not that into you
 ---
 

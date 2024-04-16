@@ -7,7 +7,7 @@ link: >-
 slug: 2023-10-20-american-trust-in-media-is-near-a-record-low-study-finds-poynter
 tags:
   - journalism
-  - media
+  - Media
 title: 'American trust in media is near a record low, study finds - Poynter'
 ---
 

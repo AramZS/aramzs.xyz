@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-03-a-stately-pleasure-barge-of-a-site-for-people-who-miss-websites-theres
 tags:
-  - media
+  - Media
 title: '“A stately pleasure barge of a site”: For people who miss websites, there’s'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-20-httpswwwniemanlaborg202403from-zines-to-paying-every-staffer-84k-how-the-la-public-press-is-trying-to-do-local-news-differently
 tags:
-  - media
+  - Media
 title: >-
   https://www.niemanlab.org/2024/03/from-zines-to-paying-every-staffer-84k-how-the-la-public-press-is-trying-to-do-local-news-differently/
 ---

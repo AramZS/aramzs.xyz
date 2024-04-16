@@ -7,7 +7,7 @@ link: >-
 slug: 2023-05-26-fandom-purity-culture-and-the-rise-of-the-anti-fan-vox
 tags:
   - entertainment
-  - media
+  - Media
 title: 'Fandom, purity culture, and the rise of the anti-fan - Vox'
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2024-04-03-the-listening-post-collective-offers-a-free-road-map-and-microgrants-for
 tags:
   - journalism
-  - media
+  - Media
 title: 'The Listening Post Collective offers a free road map (and microgrants) for '
 ---
 

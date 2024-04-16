@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-16-httpswwwthedailybeastcomformer-people-magazine-boss-dan-wakeford-set-to-run-new-wapo-daily-mail-hybrid
 tags:
-  - media
+  - Media
 title: >-
   https://www.thedailybeast.com/former-people-magazine-boss-dan-wakeford-set-to-run-new-wapo-daily-mail-hybrid
 ---

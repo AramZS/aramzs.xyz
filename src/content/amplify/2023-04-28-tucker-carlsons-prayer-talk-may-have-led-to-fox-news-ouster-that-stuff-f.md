@@ -5,7 +5,7 @@ link: 'https://www.vanityfair.com/news/2023/04/tucker-carlson-fox-news-rupert-mu
 slug: >-
   2023-04-28-tucker-carlsons-prayer-talk-may-have-led-to-fox-news-ouster-that-stuff-f
 tags:
-  - media
+  - Media
 title: 'Tucker Carlson’s Prayer Talk May Have Led to Fox News Ouster: “That Stuff F'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-12-how-dave-portnoys-barstool-built-an-empire-by-swiping-sports-highlights
 tags:
-  - media
+  - Media
   - social media
   - sports
 title: How Dave Portnoy’s Barstool Built an Empire by Swiping Sports Highlights

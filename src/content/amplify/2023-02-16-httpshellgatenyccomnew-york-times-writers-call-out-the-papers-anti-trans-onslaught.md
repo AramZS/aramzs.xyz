@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-02-16-httpshellgatenyccomnew-york-times-writers-call-out-the-papers-anti-trans-onslaught
 tags:
-  - media
+  - Media
   - nyc
   - trans rights
 title: >-

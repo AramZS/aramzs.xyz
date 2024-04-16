@@ -4,7 +4,7 @@ isBasedOn: 'https://jezebel.com/hey-were-back-1851088809'
 link: 'https://jezebel.com/hey-were-back-1851088809'
 slug: 2023-12-11-hey-were-back
 tags:
-  - media
+  - Media
 title: Hey. We're Back.
 ---
 

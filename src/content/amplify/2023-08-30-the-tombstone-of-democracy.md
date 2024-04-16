@@ -5,7 +5,7 @@ link: 'https://kottke.org/23/08/the-tombstone-of-democracy'
 slug: 2023-08-30-the-tombstone-of-democracy
 tags:
   - guns
-  - media
+  - Media
 title: “The Tombstone of Democracy”
 ---
 

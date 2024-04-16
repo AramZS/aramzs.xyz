@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-02-17-new-york-times-contributors-politely-request-paper-unfk-its-coverage-of-t
 tags:
-  - media
+  - Media
   - trans rights
 title: New York Times Contributors Politely Request Paper Unf**k Its Coverage Of T
 ---

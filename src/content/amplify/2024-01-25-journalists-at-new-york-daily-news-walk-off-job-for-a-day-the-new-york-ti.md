@@ -9,7 +9,7 @@ slug: >-
 tags:
   - journalism
   - labor
-  - media
+  - Media
 title: Journalists at New York Daily News Walk Off Job for a Day - The New York Ti
 ---
 

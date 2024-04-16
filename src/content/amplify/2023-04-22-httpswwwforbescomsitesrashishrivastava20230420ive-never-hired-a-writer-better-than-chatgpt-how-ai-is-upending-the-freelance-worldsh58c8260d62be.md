@@ -8,7 +8,7 @@ slug: >-
   2023-04-22-httpswwwforbescomsitesrashishrivastava20230420ive-never-hired-a-writer-better-than-chatgpt-how-ai-is-upending-the-freelance-worldsh58c8260d62be
 tags:
   - ai
-  - media
+  - Media
 title: >-
   https://www.forbes.com/sites/rashishrivastava/2023/04/20/ive-never-hired-a-writer-better-than-chatgpt-how-ai-is-upending-the-freelance-world/?sh=58c8260d62be
 ---

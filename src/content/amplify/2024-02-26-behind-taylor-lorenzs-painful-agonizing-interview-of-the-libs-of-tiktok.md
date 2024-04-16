@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-26-behind-taylor-lorenzs-painful-agonizing-interview-of-the-libs-of-tiktok
 tags:
-  - media
+  - Media
 title: 'Behind Taylor Lorenz’s ‘painful, agonizing’ interview of the Libs of TikTok'
 ---
 

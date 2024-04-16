@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-17-empowering-local-newsrooms-with-comprehensive-community-dashboards-rji
 tags:
-  - media
+  - Media
 title: Empowering local newsrooms with comprehensive community dashboards – RJI
 ---
 

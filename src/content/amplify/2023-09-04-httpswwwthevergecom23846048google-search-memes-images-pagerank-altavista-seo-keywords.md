@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-04-httpswwwthevergecom23846048google-search-memes-images-pagerank-altavista-seo-keywords
 tags:
-  - media
+  - Media
   - Tech
 title: >-
   https://www.theverge.com/23846048/google-search-memes-images-pagerank-altavista-seo-keywords

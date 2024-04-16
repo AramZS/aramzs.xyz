@@ -6,7 +6,7 @@ slug: >-
   2023-12-27-voa-faces-internal-backlash-over-newsroom-guidance-on-use-of-generative-ai
 tags:
   - ai
-  - media
+  - Media
 title: 'VOA faces internal backlash over newsroom guidance on use of generative AI '
 ---
 

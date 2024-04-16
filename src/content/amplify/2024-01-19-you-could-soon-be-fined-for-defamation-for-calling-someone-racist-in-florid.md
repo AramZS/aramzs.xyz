@@ -8,7 +8,7 @@ slug: >-
   2024-01-19-you-could-soon-be-fined-for-defamation-for-calling-someone-racist-in-florid
 tags:
   - florida
-  - media
+  - Media
 title: You Could Soon Be Fined for Defamation for Calling Someone Racist in Florid
 ---
 

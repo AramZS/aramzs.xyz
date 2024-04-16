@@ -5,7 +5,7 @@ link: 'https://pluralistic.net/2023/11/11/ad-jacency/#brand-safety'
 slug: 2023-11-13-pluralistic-brand-safety-killed-jezebel-11-nov-2023-pluralistic-dai
 tags:
   - ad tech
-  - media
+  - Media
 title: 'Pluralistic: “Brand safety” killed Jezebel (11 Nov 2023) – Pluralistic: Dai'
 ---
 

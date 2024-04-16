@@ -4,7 +4,7 @@ isBasedOn: 'https://oliverwillis.substack.com/p/the-nazi-forefather-of-fox-news-
 link: 'https://oliverwillis.substack.com/p/the-nazi-forefather-of-fox-news-and'
 slug: 2023-03-31-httpsoliverwillissubstackcompthe-nazi-forefather-of-fox-news-and
 tags:
-  - media
+  - Media
 title: 'https://oliverwillis.substack.com/p/the-nazi-forefather-of-fox-news-and'
 ---
 

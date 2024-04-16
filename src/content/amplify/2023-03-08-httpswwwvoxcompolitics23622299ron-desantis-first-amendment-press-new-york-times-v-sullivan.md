@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-08-httpswwwvoxcompolitics23622299ron-desantis-first-amendment-press-new-york-times-v-sullivan
 tags:
-  - media
+  - Media
   - politics
 title: >-
   https://www.vox.com/politics/23622299/ron-desantis-first-amendment-press-new-york-times-v-sullivan

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-18-httpswwwcnncom20230518mediachristiane-amanpour-trump-town-hall-reliable-sourcesindexhtml
 tags:
-  - media
+  - Media
 title: >-
   https://www.cnn.com/2023/05/18/media/christiane-amanpour-trump-town-hall-reliable-sources/index.html
 ---

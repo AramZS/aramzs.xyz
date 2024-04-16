@@ -7,7 +7,7 @@ link: >-
 slug: 2024-03-13-the-collapse-of-us-media-is-accelerating-our-political-crisis
 tags:
   - journalism
-  - media
+  - Media
 title: The collapse of US media is accelerating our political crisis
 ---
 

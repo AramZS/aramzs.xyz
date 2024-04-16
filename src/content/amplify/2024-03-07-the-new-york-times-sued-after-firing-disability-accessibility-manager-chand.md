@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-07-the-new-york-times-sued-after-firing-disability-accessibility-manager-chand
 tags:
-  - media
+  - Media
 title: The New York Times Sued After Firing Disability Accessibility Manager Chand
 ---
 

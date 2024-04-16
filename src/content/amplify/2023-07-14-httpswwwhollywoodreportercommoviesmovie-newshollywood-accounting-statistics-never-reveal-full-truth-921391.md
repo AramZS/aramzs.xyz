@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-14-httpswwwhollywoodreportercommoviesmovie-newshollywood-accounting-statistics-never-reveal-full-truth-921391
 tags:
-  - media
+  - Media
 title: >-
   https://www.hollywoodreporter.com/movies/movie-news/hollywood-accounting-statistics-never-reveal-full-truth-921391/
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-16-don-lemon-demanded-tesla-cybertruck-dollar5m-advance-equity-in-x-before-elon-m
 tags:
-  - media
+  - Media
   - social media
 title: 'Don Lemon demanded Tesla Cybertruck, $5M advance, equity in X before Elon M'
 ---

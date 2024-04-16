@@ -4,7 +4,7 @@ isBasedOn: 'https://craigmod.com/essays/popup_newsletters/'
 link: 'https://craigmod.com/essays/popup_newsletters/'
 slug: 2023-08-19-httpscraigmodcomessayspopupnewsletters
 tags:
-  - media
+  - Media
 title: 'https://craigmod.com/essays/popup_newsletters/'
 ---
 

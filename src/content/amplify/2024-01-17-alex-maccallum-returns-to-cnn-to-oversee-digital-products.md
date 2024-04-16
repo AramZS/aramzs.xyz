@@ -6,7 +6,7 @@ link: >-
   https://variety.com/2024/tv/news/alex-maccallum-cnn-return-digital-media-1235875303/
 slug: 2024-01-17-alex-maccallum-returns-to-cnn-to-oversee-digital-products
 tags:
-  - media
+  - Media
 title: Alex MacCallum Returns To CNN To Oversee Digital Products
 ---
 

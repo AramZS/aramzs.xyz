@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-02-the-messenger-news-site-jimmy-finkelsteins-failure-doesnt-tell-us-much-a
 tags:
-  - media
+  - Media
 title: 'The Messenger news site: Jimmy Finkelstein''s failure doesn''t tell us much a'
 ---
 

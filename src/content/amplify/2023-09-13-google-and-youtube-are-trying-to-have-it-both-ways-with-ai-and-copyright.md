@@ -8,7 +8,7 @@ slug: >-
   2023-09-13-google-and-youtube-are-trying-to-have-it-both-ways-with-ai-and-copyright
 tags:
   - ai
-  - media
+  - Media
   - Tech
 title: 'Google and YouTube are trying to have it both ways with AI and copyright - '
 ---

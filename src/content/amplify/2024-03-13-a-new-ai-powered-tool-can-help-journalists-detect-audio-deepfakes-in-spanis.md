@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - journalism
-  - media
+  - Media
 title: A new AI-powered tool can help journalists detect audio deepfakes in Spanis
 ---
 

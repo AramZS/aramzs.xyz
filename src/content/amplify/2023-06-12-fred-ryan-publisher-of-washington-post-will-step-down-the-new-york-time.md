@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-12-fred-ryan-publisher-of-washington-post-will-step-down-the-new-york-time
 tags:
-  - media
+  - Media
 title: 'Fred Ryan, Publisher of Washington Post, Will Step Down - The New York Time'
 ---
 

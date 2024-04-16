@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-10-httpswwwnytimescom20230510businessnew-york-times-1q-2023-earningshtml
 tags:
-  - media
+  - Media
 title: >-
   https://www.nytimes.com/2023/05/10/business/new-york-times-1q-2023-earnings.html
 ---

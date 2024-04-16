@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-24-httpswwwnytimescom20230523businessmedianew-york-times-news-guild-contracthtml
 tags:
-  - media
+  - Media
 title: >-
   https://www.nytimes.com/2023/05/23/business/media/new-york-times-news-guild-contract.html
 ---

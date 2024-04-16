@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-28-httpsnotesfrompolandcom20230628dozens-of-polish-media-outlets-jointly-condemn-attempts-by-authorities-restrict-journalistic-freedom
 tags:
-  - media
+  - Media
 title: >-
   https://notesfrompoland.com/2023/06/28/dozens-of-polish-media-outlets-jointly-condemn-attempts-by-authorities-restrict-journalistic-freedom/
 ---

@@ -8,7 +8,7 @@ slug: >-
   2024-03-14-googles-gen-ai-search-threatens-publishers-with-dollar2b-annual-ad-revenue-loss
 tags:
   - ai
-  - media
+  - Media
   - Tech
 title: Google's Gen AI Search Threatens Publishers With $2B Annual Ad Revenue Loss
 ---

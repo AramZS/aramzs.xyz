@@ -4,7 +4,7 @@ isBasedOn: 'https://dirt.fyi/article/2023/04/death-of-the-podcast'
 link: 'https://dirt.fyi/article/2023/04/death-of-the-podcast'
 slug: 2023-04-05-httpsdirtfyiarticle202304death-of-the-podcast
 tags:
-  - media
+  - Media
   - Tech
 title: 'https://dirt.fyi/article/2023/04/death-of-the-podcast'
 ---

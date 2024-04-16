@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-03-httpswwwnewyorkercomnewsannals-of-communicationscnns-new-white-knight-mark-thompson
 tags:
-  - media
+  - Media
 title: >-
   https://www.newyorker.com/news/annals-of-communications/cnns-new-white-knight-mark-thompson
 ---

@@ -5,7 +5,7 @@ link: 'https://www.adweek.com/media/recurrent-ventures-blackstone/'
 slug: >-
   2024-01-26-exclusive-recurrent-ventures-raised-dollar300-million-where-did-it-go
 tags:
-  - media
+  - Media
 title: 'Exclusive: Recurrent Ventures Raised $300 Million. Where Did It Go?'
 ---
 

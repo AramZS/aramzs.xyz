@@ -4,7 +4,7 @@ isBasedOn: 'https://www.axios.com/2023/05/02/messenger-launch-may-150-journalist
 link: 'https://www.axios.com/2023/05/02/messenger-launch-may-150-journalists'
 slug: 2023-05-02-httpswwwaxioscom20230502messenger-launch-may-150-journalists
 tags:
-  - media
+  - Media
 title: 'https://www.axios.com/2023/05/02/messenger-launch-may-150-journalists'
 ---
 

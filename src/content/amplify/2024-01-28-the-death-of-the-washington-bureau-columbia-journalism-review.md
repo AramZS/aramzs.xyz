@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-28-the-death-of-the-washington-bureau-columbia-journalism-review
 tags:
   - journalism
-  - media
+  - Media
 title: The Death of the Washington Bureau - Columbia Journalism Review
 ---
 

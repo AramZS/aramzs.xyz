@@ -6,7 +6,7 @@ slug: >-
   2023-10-19-silicon-valley-ditches-news-shaking-an-unstable-industry-the-new-york-ti
 tags:
   - journalism
-  - media
+  - Media
   - Tech
 title: 'Silicon Valley Ditches News, Shaking an Unstable Industry - The New York Ti'
 ---

@@ -8,7 +8,7 @@ slug: >-
   2023-10-06-the-washington-post-trumps-violent-rhetoric-is-getting-muted-coverage-by
 tags:
   - journalism
-  - media
+  - Media
   - politics
 title: '[The Washington Post] Trump’s violent rhetoric is getting muted coverage by'
 ---

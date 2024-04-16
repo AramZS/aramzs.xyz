@@ -8,7 +8,7 @@ slug: >-
   2023-03-28-httpsthe-media-leadercommade-for-advertising-ticks-the-right-boxes-but-is-it-just-unhelpful-clutter
 tags:
   - ad tech
-  - media
+  - Media
 title: >-
   https://the-media-leader.com/made-for-advertising-ticks-the-right-boxes-but-is-it-just-unhelpful-clutter/
 ---

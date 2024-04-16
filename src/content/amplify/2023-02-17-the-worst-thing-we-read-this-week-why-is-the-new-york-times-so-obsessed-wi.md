@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-02-17-the-worst-thing-we-read-this-week-why-is-the-new-york-times-so-obsessed-wi
 tags:
-  - media
+  - Media
   - trans rights
 title: "THE WORST THING WE READ THIS WEEK:\_Why Is the New York Times So Obsessed Wi"
 ---

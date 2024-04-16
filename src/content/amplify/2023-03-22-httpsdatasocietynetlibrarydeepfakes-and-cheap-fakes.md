@@ -5,7 +5,7 @@ link: 'https://datasociety.net/library/deepfakes-and-cheap-fakes/'
 slug: 2023-03-22-httpsdatasocietynetlibrarydeepfakes-and-cheap-fakes
 tags:
   - ai
-  - media
+  - Media
 title: 'https://datasociety.net/library/deepfakes-and-cheap-fakes/'
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-03-03-httpscbldforg202210watch-now-gender-queer-in-virginia-beach-a-case-study
 tags:
   - law and order
-  - media
+  - Media
   - politics
 title: >-
   https://cbldf.org/2022/10/watch-now-gender-queer-in-virginia-beach-a-case-study/

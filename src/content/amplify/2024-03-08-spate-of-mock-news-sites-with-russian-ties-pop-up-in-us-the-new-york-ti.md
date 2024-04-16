@@ -8,7 +8,7 @@ slug: >-
   2024-03-08-spate-of-mock-news-sites-with-russian-ties-pop-up-in-us-the-new-york-ti
 tags:
   - journalism
-  - media
+  - Media
 title: Spate of Mock News Sites With Russian Ties Pop Up in U.S. - The New York Ti
 ---
 

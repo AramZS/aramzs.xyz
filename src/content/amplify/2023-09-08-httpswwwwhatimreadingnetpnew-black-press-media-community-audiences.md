@@ -4,7 +4,7 @@ isBasedOn: 'https://www.whatimreading.net/p/new-black-press-media-community-audi
 link: 'https://www.whatimreading.net/p/new-black-press-media-community-audiences'
 slug: 2023-09-08-httpswwwwhatimreadingnetpnew-black-press-media-community-audiences
 tags:
-  - media
+  - Media
 title: 'https://www.whatimreading.net/p/new-black-press-media-community-audiences'
 ---
 

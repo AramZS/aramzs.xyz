@@ -8,7 +8,7 @@ slug: >-
   2023-08-30-scoop-nyt-unions-file-cease-and-desist-letters-to-management-over-return-t
 tags:
   - labor
-  - media
+  - Media
 title: 'Scoop: NYT unions file cease-and-desist letters to management over return-t'
 ---
 

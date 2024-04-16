@@ -8,7 +8,7 @@ slug: >-
   2023-11-21-us-lost-more-than-two-local-newspapers-a-week-this-year-new-medill-report
 tags:
   - journalism
-  - media
+  - Media
 title: 'US lost more than two local newspapers a week this year, new Medill report '
 ---
 

@@ -6,7 +6,7 @@ slug: >-
   2023-08-17-inside-countercloud-a-fully-autonomous-ai-disinformation-system-the-debr
 tags:
   - ai
-  - media
+  - Media
 title: 'Inside CounterCloud: A Fully Autonomous AI Disinformation System - The Debr'
 ---
 

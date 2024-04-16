@@ -8,7 +8,7 @@ slug: >-
   2023-06-21-httpswwwtheguardiancomworld2023jun20german-tabloid-bild-to-replace-range-of-editorial-jobs-with-ai
 tags:
   - ai
-  - media
+  - Media
 title: >-
   https://www.theguardian.com/world/2023/jun/20/german-tabloid-bild-to-replace-range-of-editorial-jobs-with-ai
 ---

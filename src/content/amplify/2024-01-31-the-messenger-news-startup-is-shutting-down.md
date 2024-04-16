@@ -6,7 +6,7 @@ link: >-
   https://www.axios.com/2024/01/31/messenger-shut-down-closes-jimmy-finkelstein-fundraising
 slug: 2024-01-31-the-messenger-news-startup-is-shutting-down
 tags:
-  - media
+  - Media
 title: The Messenger news startup is shutting down
 ---
 

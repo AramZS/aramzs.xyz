@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-08-httpswwwniemanlaborg202403this-is-just-weird-buzzfeed-news-former-royals-reporter-on-kate-middleton-palace-press-and-distrust-in-the-media
 tags:
-  - media
+  - Media
 title: >-
   https://www.niemanlab.org/2024/03/this-is-just-weird-buzzfeed-news-former-royals-reporter-on-kate-middleton-palace-press-and-distrust-in-the-media/
 ---

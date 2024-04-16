@@ -6,7 +6,7 @@ link: >-
   https://www.semafor.com/article/01/26/2024/semafor-interview-with-washington-post-ceo-will-lewis
 slug: 2024-01-31-good-interview
 tags:
-  - media
+  - Media
 title: good interview
 ---
 

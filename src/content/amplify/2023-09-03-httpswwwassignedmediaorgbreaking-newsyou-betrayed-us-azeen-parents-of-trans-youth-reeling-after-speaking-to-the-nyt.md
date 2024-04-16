@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-03-httpswwwassignedmediaorgbreaking-newsyou-betrayed-us-azeen-parents-of-trans-youth-reeling-after-speaking-to-the-nyt
 tags:
-  - media
+  - Media
 title: >-
   https://www.assignedmedia.org/breaking-news/you-betrayed-us-azeen-parents-of-trans-youth-reeling-after-speaking-to-the-nyt
 ---

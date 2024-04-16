@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-25-the-washington-post-jesse-watters-smirked-his-way-to-the-top-fox-needs-h
 tags:
-  - media
+  - Media
 title: '[The Washington Post] Jesse Watters smirked his way to the top. Fox needs h'
 ---
 

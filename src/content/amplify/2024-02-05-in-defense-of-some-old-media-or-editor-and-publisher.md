@@ -4,7 +4,7 @@ isBasedOn: 'https://www.editorandpublisher.com/stories/in-defense-of-some-old-me
 link: 'https://www.editorandpublisher.com/stories/in-defense-of-some-old-media,248008'
 slug: 2024-02-05-in-defense-of-some-old-media-or-editor-and-publisher
 tags:
-  - media
+  - Media
 title: In defense of (some) old media | Editor and Publisher
 ---
 

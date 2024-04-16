@@ -8,7 +8,7 @@ slug: >-
   2023-03-11-httpswwwassignedmediaorgbreaking-newsjamie-reeds-misinfo-exposed-by-jesse-singal
 tags:
   - lgbtq+
-  - media
+  - Media
 title: >-
   https://www.assignedmedia.org/breaking-news/jamie-reeds-misinfo-exposed-by-jesse-singal
 ---

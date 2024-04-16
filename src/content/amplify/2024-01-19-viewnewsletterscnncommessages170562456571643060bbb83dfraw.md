@@ -4,7 +4,7 @@ isBasedOn: 'https://view.newsletters.cnn.com/messages/170562456571643060bbb83df/
 link: 'https://view.newsletters.cnn.com/messages/170562456571643060bbb83df/raw'
 slug: 2024-01-19-viewnewsletterscnncommessages170562456571643060bbb83dfraw
 tags:
-  - media
+  - Media
 title: view.newsletters.cnn.com/messages/170562456571643060bbb83df/raw
 ---
 

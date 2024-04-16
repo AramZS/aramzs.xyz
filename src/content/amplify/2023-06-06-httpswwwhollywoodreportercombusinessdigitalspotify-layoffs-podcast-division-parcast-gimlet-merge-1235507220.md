@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-06-httpswwwhollywoodreportercombusinessdigitalspotify-layoffs-podcast-division-parcast-gimlet-merge-1235507220
 tags:
-  - media
+  - Media
 title: >-
   https://www.hollywoodreporter.com/business/digital/spotify-layoffs-podcast-division-parcast-gimlet-merge-1235507220/
 ---

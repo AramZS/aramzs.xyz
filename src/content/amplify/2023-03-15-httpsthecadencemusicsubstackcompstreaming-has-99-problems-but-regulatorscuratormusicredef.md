@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-15-httpsthecadencemusicsubstackcompstreaming-has-99-problems-but-regulatorscuratormusicredef
 tags:
-  - media
+  - Media
 title: >-
   https://thecadencemusic.substack.com/p/streaming-has-99-problems-but-regulators?curator=MusicREDEF
 ---

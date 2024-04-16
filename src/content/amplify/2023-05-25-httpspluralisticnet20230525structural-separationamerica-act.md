@@ -4,7 +4,7 @@ isBasedOn: 'https://pluralistic.net/2023/05/25/structural-separation/#america-ac
 link: 'https://pluralistic.net/2023/05/25/structural-separation/#america-act'
 slug: 2023-05-25-httpspluralisticnet20230525structural-separationamerica-act
 tags:
-  - media
+  - Media
   - social media
 title: 'https://pluralistic.net/2023/05/25/structural-separation/#america-act'
 ---

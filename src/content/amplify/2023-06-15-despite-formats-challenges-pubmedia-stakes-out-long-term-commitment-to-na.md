@@ -9,7 +9,7 @@ slug: >-
 tags:
   - audio
   - journalism
-  - media
+  - Media
 title: 'Despite format''s challenges, pubmedia stakes out long-term commitment to na'
 ---
 

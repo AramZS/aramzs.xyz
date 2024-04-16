@@ -8,7 +8,7 @@ slug: >-
   2023-07-06-httpsdefectorcomgo-media-bot-blogs-may-be-unreadable-but-at-least-theyre-incorrect
 tags:
   - ai
-  - media
+  - Media
 title: >-
   https://defector.com/go-media-bot-blogs-may-be-unreadable-but-at-least-theyre-incorrect
 ---

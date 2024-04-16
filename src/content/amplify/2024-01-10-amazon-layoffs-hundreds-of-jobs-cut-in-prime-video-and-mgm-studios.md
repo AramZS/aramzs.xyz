@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-10-amazon-layoffs-hundreds-of-jobs-cut-in-prime-video-and-mgm-studios
 tags:
   - entertainment
-  - media
+  - Media
 title: 'Amazon layoffs: Hundreds of jobs cut in Prime Video and MGM Studios'
 ---
 

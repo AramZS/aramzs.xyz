@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-02-vice-medias-shane-smith-sells-santa-monica-estate-for-nearly-dollar49m-the-ho
 tags:
-  - media
+  - Media
 title: Vice Media’s Shane Smith Sells Santa Monica Estate for Nearly $49M – The Ho
 ---
 

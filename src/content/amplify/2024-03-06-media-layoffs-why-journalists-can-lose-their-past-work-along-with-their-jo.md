@@ -9,7 +9,7 @@ slug: >-
 tags:
   - Archiving
   - History
-  - media
+  - Media
 title: 'Media layoffs: Why journalists can lose their past work along with their jo'
 ---
 

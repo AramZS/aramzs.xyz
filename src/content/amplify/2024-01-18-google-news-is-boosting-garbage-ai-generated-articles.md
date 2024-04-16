@@ -6,7 +6,7 @@ slug: 2024-01-18-google-news-is-boosting-garbage-ai-generated-articles
 tags:
     - ad tech
     - journalism
-    - media
+    - Media
     - Tech
 title: Google News Is Boosting Garbage AI-Generated Articles
 ---

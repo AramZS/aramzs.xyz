@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-24-httpswwwrollingstonecompoliticspolitics-featurescharlie-kirk-turning-point-usa-pivots-to-christian-nationalism-1234740083
 tags:
-  - media
+  - Media
 title: >-
   https://www.rollingstone.com/politics/politics-features/charlie-kirk-turning-point-usa-pivots-to-christian-nationalism-1234740083/
 ---

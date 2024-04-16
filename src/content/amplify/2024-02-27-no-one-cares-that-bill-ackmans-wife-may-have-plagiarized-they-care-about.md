@@ -8,7 +8,7 @@ slug: >-
   2024-02-27-no-one-cares-that-bill-ackmans-wife-may-have-plagiarized-they-care-about
 tags:
   - journalism
-  - media
+  - Media
 title: 'No One Cares That Bill Ackman’s Wife May Have Plagiarized; They Care About '
 ---
 

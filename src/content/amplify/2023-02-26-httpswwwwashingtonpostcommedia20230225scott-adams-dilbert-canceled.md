@@ -4,7 +4,7 @@ isBasedOn: 'https://www.washingtonpost.com/media/2023/02/25/scott-adams-dilbert-
 link: 'https://www.washingtonpost.com/media/2023/02/25/scott-adams-dilbert-canceled/'
 slug: 2023-02-26-httpswwwwashingtonpostcommedia20230225scott-adams-dilbert-canceled
 tags:
-  - media
+  - Media
   - politics
 title: 'https://www.washingtonpost.com/media/2023/02/25/scott-adams-dilbert-canceled/'
 ---

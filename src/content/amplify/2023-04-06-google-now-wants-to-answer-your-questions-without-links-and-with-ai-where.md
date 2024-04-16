@@ -8,7 +8,7 @@ slug: >-
     2023-04-06-google-now-wants-to-answer-your-questions-without-links-and-with-ai-where
 tags:
     - ai
-    - media
+    - Media
     - Tech
 title: "Google now wants to answer your questions without links and with AI. Where "
 ---

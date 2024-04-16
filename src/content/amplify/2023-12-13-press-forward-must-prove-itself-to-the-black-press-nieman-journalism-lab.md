@@ -9,7 +9,7 @@ slug: >-
 tags:
   - black
   - journalism
-  - media
+  - Media
 title: Press Forward must prove itself to the Black press » Nieman Journalism Lab
 ---
 

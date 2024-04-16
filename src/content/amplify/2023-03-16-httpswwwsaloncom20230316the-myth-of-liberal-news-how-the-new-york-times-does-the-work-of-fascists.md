@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-16-httpswwwsaloncom20230316the-myth-of-liberal-news-how-the-new-york-times-does-the-work-of-fascists
 tags:
-  - media
+  - Media
 title: >-
   https://www.salon.com/2023/03/16/the-myth-of-liberal-news-how-the-new-york-times-does-the-work-of-fascists/
 ---

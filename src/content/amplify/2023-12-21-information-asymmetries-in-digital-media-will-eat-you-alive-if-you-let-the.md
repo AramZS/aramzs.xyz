@@ -8,7 +8,7 @@ slug: >-
   2023-12-21-information-asymmetries-in-digital-media-will-eat-you-alive-if-you-let-the
 tags:
   - ad tech
-  - media
+  - Media
 title: Information Asymmetries in Digital Media Will Eat You Alive. If You Let The
 ---
 

@@ -5,7 +5,7 @@ link: 'https://www.niemanlab.org/2023/12/returning-to-a-contextual-focus/'
 slug: 2023-12-12-returning-to-a-contextual-focus
 tags:
   - ad tech
-  - media
+  - Media
 title: Returning to a contextual focus
 ---
 

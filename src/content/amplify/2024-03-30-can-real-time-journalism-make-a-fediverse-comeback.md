@@ -4,7 +4,7 @@ isBasedOn: 'https://tedium.co/2024/03/30/real-time-journalism-fediverse-newsmast
 link: 'https://tedium.co/2024/03/30/real-time-journalism-fediverse-newsmast/'
 slug: 2024-03-30-can-real-time-journalism-make-a-fediverse-comeback
 tags:
-  - media
+  - Media
 title: Can Real-Time Journalism Make A Fediverse Comeback?
 ---
 

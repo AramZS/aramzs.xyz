@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-03-the-messengers-board-weighed-shutting-it-down-over-cash-shortfalls-source
 tags:
-  - media
+  - Media
 title: 'The Messenger''s board weighed shutting it down over cash shortfalls: source'
 ---
 

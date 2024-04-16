@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-25-httpswwwniemanlaborg202303hey-local-news-publishers-give-the-people-a-calendar
 tags:
-  - media
+  - Media
 title: >-
   https://www.niemanlab.org/2023/03/hey-local-news-publishers-give-the-people-a-calendar/
 ---

@@ -5,7 +5,7 @@ link: 'https://defector.com/the-hollywood-strike-forces-a-reckoning-for-the-trad
 slug: >-
   2023-08-26-httpsdefectorcomthe-hollywood-strike-forces-a-reckoning-for-the-trades
 tags:
-  - media
+  - Media
 title: 'https://defector.com/the-hollywood-strike-forces-a-reckoning-for-the-trades'
 ---
 

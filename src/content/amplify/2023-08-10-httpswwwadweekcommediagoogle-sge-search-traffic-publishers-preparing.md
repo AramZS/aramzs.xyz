@@ -6,7 +6,7 @@ slug: >-
   2023-08-10-httpswwwadweekcommediagoogle-sge-search-traffic-publishers-preparing
 tags:
   - ai
-  - media
+  - Media
 title: 'https://www.adweek.com/media/google-sge-search-traffic-publishers-preparing/'
 ---
 

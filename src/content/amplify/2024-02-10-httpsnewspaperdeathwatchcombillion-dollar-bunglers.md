@@ -4,7 +4,7 @@ isBasedOn: 'https://newspaperdeathwatch.com/billion-dollar-bunglers/'
 link: 'https://newspaperdeathwatch.com/billion-dollar-bunglers/'
 slug: 2024-02-10-httpsnewspaperdeathwatchcombillion-dollar-bunglers
 tags:
-  - media
+  - Media
 title: 'https://newspaperdeathwatch.com/billion-dollar-bunglers/'
 ---
 

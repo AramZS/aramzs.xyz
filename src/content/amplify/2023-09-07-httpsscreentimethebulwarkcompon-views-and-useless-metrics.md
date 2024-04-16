@@ -5,7 +5,7 @@ link: 'https://screentime.thebulwark.com/p/on-views-and-useless-metrics'
 slug: 2023-09-07-httpsscreentimethebulwarkcompon-views-and-useless-metrics
 tags:
   - entertainment
-  - media
+  - Media
 title: 'https://screentime.thebulwark.com/p/on-views-and-useless-metrics'
 ---
 

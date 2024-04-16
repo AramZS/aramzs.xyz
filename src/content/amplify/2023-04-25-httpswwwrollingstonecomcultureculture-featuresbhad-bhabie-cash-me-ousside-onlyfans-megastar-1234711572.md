@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-25-httpswwwrollingstonecomcultureculture-featuresbhad-bhabie-cash-me-ousside-onlyfans-megastar-1234711572
 tags:
-  - media
+  - Media
 title: >-
   https://www.rollingstone.com/culture/culture-features/bhad-bhabie-cash-me-ousside-onlyfans-megastar-1234711572/
 ---

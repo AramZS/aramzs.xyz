@@ -8,7 +8,7 @@ slug: >-
   2023-09-08-richard-linklater-on-hit-man-why-indie-movies-might-be-gone-with-the-al
 tags:
   - entertainment
-  - media
+  - Media
 title: 'Richard Linklater on ‘Hit Man,’ Why Indie Movies Might Be “Gone With the Al'
 ---
 

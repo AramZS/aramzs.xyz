@@ -8,7 +8,7 @@ slug: >-
   2024-04-03-study-reveals-how-audio-can-resonate-with-diverse-audiences-or-story-or-insi
 tags:
   - audio
-  - media
+  - Media
 title: Study Reveals How Audio Can Resonate With Diverse Audiences. | Story | insi
 ---
 

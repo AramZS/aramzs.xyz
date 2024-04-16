@@ -4,7 +4,7 @@ isBasedOn: 'https://www.salon.com/2024/03/05/there-is-something-at-the-new-york-
 link: 'https://www.salon.com/2024/03/05/there-is-something-at-the-new-york-times/'
 slug: 2024-03-15-there-is-something-wrong-at-the-new-york-times-or-saloncom
 tags:
-  - media
+  - Media
 title: There is something wrong at the New York Times | Salon.com
 ---
 

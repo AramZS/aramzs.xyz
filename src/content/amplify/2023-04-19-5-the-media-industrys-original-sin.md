@@ -5,7 +5,7 @@ link: 'https://simonowens.substack.com/p/the-media-industrys-original-sin'
 slug: 2023-04-19-5-the-media-industrys-original-sin
 tags:
   - ad tech
-  - media
+  - Media
 title: (5) The media industry’s original sin
 ---
 

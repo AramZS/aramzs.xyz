@@ -6,7 +6,7 @@ link: >-
   https://www.theatlantic.com/technology/archive/2023/04/buzzfeed-news-end-political-influence-cultural-impact/673803/
 slug: 2023-04-20-buzzfeed-news-defined-the-2010s-the-atlantic
 tags:
-  - media
+  - Media
   - politics
 title: BuzzFeed News Defined the 2010s - The Atlantic
 ---

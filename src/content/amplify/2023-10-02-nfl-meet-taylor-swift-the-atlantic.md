@@ -6,7 +6,7 @@ link: >-
   https://www.theatlantic.com/ideas/archive/2023/10/taylor-swift-travis-kelce-kansas-city-chiefs-football/675506/
 slug: 2023-10-02-nfl-meet-taylor-swift-the-atlantic
 tags:
-  - media
+  - Media
 title: 'NFL, Meet Taylor Swift - The Atlantic'
 ---
 

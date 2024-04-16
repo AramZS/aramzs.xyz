@@ -7,7 +7,7 @@ link: >-
 slug: 2023-06-07-tvs-streaming-model-is-broken-its-also-not-going-away
 tags:
   - entertainment
-  - media
+  - Media
 title: TV’s Streaming Model Is Broken. It’s Also Not Going Away.
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://oliverwillis.substack.com/p/rupert-murdoch-is-a-cancer-on-am
 link: 'https://oliverwillis.substack.com/p/rupert-murdoch-is-a-cancer-on-america'
 slug: 2023-03-28-httpsoliverwillissubstackcomprupert-murdoch-is-a-cancer-on-america
 tags:
-  - media
+  - Media
 title: 'https://oliverwillis.substack.com/p/rupert-murdoch-is-a-cancer-on-america'
 ---
 

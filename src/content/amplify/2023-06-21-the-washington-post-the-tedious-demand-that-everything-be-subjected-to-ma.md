@@ -5,7 +5,7 @@ link: 'https://www.washingtonpost.com/politics/2023/06/20/debates-analysis-rogan
 slug: >-
   2023-06-21-the-washington-post-the-tedious-demand-that-everything-be-subjected-to-ma
 tags:
-  - media
+  - Media
   - politics
   - science
 title: '[The Washington Post] The tedious demand that everything be subjected to ma'

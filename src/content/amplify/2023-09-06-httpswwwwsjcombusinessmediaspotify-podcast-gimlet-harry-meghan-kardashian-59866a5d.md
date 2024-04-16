@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-06-httpswwwwsjcombusinessmediaspotify-podcast-gimlet-harry-meghan-kardashian-59866a5d
 tags:
-  - media
+  - Media
 title: >-
   https://www.wsj.com/business/media/spotify-podcast-gimlet-harry-meghan-kardashian-59866a5d
 ---

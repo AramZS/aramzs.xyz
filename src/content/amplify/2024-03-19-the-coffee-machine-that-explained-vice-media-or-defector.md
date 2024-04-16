@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/the-coffee-machine-that-explained-vice-media'
 link: 'https://defector.com/the-coffee-machine-that-explained-vice-media'
 slug: 2024-03-19-the-coffee-machine-that-explained-vice-media-or-defector
 tags:
-  - media
+  - Media
 title: The Coffee Machine That Explained Vice Media | Defector
 ---
 

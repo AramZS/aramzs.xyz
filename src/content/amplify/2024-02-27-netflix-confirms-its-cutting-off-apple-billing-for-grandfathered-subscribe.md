@@ -5,7 +5,7 @@ link: 'https://www.theverge.com/24084173/netflix-refusing-apple-itunes-subscript
 slug: >-
   2024-02-27-netflix-confirms-its-cutting-off-apple-billing-for-grandfathered-subscribe
 tags:
-  - media
+  - Media
 title: Netflix confirms it’s cutting off Apple billing for grandfathered subscribe
 ---
 

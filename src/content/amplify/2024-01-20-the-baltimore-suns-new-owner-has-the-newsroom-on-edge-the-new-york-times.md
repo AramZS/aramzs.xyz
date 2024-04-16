@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-20-the-baltimore-suns-new-owner-has-the-newsroom-on-edge-the-new-york-times
 tags:
-  - media
+  - Media
 title: The Baltimore Sun’s New Owner Has the Newsroom on Edge - The New York Times
 ---
 

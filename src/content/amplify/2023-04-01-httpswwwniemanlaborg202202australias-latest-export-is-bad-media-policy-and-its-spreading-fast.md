@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-01-httpswwwniemanlaborg202202australias-latest-export-is-bad-media-policy-and-its-spreading-fast
 tags:
-  - media
+  - Media
 title: >-
   https://www.niemanlab.org/2022/02/australias-latest-export-is-bad-media-policy-and-its-spreading-fast/
 ---

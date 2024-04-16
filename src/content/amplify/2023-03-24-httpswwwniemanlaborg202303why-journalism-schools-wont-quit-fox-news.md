@@ -4,7 +4,7 @@ isBasedOn: 'https://www.niemanlab.org/2023/03/why-journalism-schools-wont-quit-f
 link: 'https://www.niemanlab.org/2023/03/why-journalism-schools-wont-quit-fox-news/'
 slug: 2023-03-24-httpswwwniemanlaborg202303why-journalism-schools-wont-quit-fox-news
 tags:
-  - media
+  - Media
 title: 'https://www.niemanlab.org/2023/03/why-journalism-schools-wont-quit-fox-news/'
 ---
 

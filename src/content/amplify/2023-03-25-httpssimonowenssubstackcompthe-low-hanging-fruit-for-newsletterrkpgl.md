@@ -5,7 +5,7 @@ link: 'https://simonowens.substack.com/p/the-low-hanging-fruit-for-newsletter?r=
 slug: >-
   2023-03-25-httpssimonowenssubstackcompthe-low-hanging-fruit-for-newsletterrkpgl
 tags:
-  - media
+  - Media
 title: 'https://simonowens.substack.com/p/the-low-hanging-fruit-for-newsletter?r=kpgl'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-11-httpswwwniemanlaborg202307a-different-kind-of-both-sides-the-l-a-times-new-section-de-los-aims-to-draw-latino-readers-without-the-paywall
 tags:
-  - media
+  - Media
 title: >-
   https://www.niemanlab.org/2023/07/a-different-kind-of-both-sides-the-l-a-times-new-section-de-los-aims-to-draw-latino-readers-without-the-paywall/
 ---

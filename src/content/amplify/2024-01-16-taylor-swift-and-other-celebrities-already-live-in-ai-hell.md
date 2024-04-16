@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-16-taylor-swift-and-other-celebrities-already-live-in-ai-hell
 tags:
   - ai
-  - media
+  - Media
 title: Taylor Swift and Other Celebrities Already Live in AI Hell
 ---
 

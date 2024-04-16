@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-03-ben-smiths-traffic-dishy-book-about-buzzfeed-gawker-leaves-out-half-the
 tags:
-  - media
+  - Media
 title: 'Ben Smith’s Traffic: Dishy book about BuzzFeed, Gawker leaves out half the '
 ---
 

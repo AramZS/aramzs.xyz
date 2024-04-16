@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-02-17-brian-stelter-i-never-truly-understood-fox-news-until-now-the-atlantic
 tags:
-  - media
+  - Media
   - politics
 title: 'Brian Stelter: I Never Truly Understood Fox News Until Now - The Atlantic'
 ---

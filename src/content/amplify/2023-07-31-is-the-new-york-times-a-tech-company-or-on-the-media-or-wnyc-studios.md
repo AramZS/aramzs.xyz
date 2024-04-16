@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-31-is-the-new-york-times-a-tech-company-or-on-the-media-or-wnyc-studios
 tags:
-  - media
+  - Media
   - Tech
 title: Is The New York Times A Tech Company? | On the Media | WNYC Studios
 ---

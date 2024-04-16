@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ad tech
   - journalism
-  - media
+  - Media
 title: How new tech publication 404 Media is pitching itself to advertisers
 ---
 

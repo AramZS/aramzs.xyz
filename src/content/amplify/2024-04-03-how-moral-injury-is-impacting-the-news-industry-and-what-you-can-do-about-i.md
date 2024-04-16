@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-03-how-moral-injury-is-impacting-the-news-industry-and-what-you-can-do-about-i
 tags:
-  - media
+  - Media
 title: How moral injury is impacting the news industry and what you can do about i
 ---
 

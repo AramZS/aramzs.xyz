@@ -5,7 +5,7 @@ link: 'https://www.economist.com/1843/2023/12/14/when-the-new-york-times-lost-it
 slug: 2024-01-07-when-the-new-york-times-lost-its-way
 tags:
   - journalism
-  - media
+  - Media
 title: When the New York Times lost its way
 ---
 

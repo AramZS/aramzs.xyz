@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-07-article-gifting-proves-surprisingly-successful-for-hearst-newspapers
 tags:
-  - media
+  - Media
 title: “Article gifting” proves surprisingly successful for Hearst Newspapers
 ---
 

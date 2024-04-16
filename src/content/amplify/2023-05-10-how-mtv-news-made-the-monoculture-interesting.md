@@ -6,7 +6,7 @@ slug: 2023-05-10-how-mtv-news-made-the-monoculture-interesting
 tags:
   - entertainment
   - History
-  - media
+  - Media
 title: How MTV News Made the Monoculture Interesting
 ---
 

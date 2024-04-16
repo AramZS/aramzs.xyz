@@ -4,7 +4,7 @@ isBasedOn: 'https://www.adweek.com/media/paper-magazine-lays-off-staff/'
 link: 'https://www.adweek.com/media/paper-magazine-lays-off-staff/'
 slug: 2023-04-27-httpswwwadweekcommediapaper-magazine-lays-off-staff
 tags:
-  - media
+  - Media
 title: 'https://www.adweek.com/media/paper-magazine-lays-off-staff/'
 ---
 

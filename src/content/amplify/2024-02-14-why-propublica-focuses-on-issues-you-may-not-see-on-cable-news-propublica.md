@@ -6,7 +6,7 @@ slug: >-
   2024-02-14-why-propublica-focuses-on-issues-you-may-not-see-on-cable-news-propublica
 tags:
   - journalism
-  - media
+  - Media
 title: Why ProPublica Focuses on Issues You May Not See on Cable News — ProPublica
 ---
 

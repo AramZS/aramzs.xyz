@@ -7,7 +7,7 @@ link: >-
 slug: 2023-11-14-fake-news-isnt-as-dangerous-as-selective-facts
 tags:
   - journalism
-  - media
+  - Media
 title: Fake news isn't as dangerous as selective facts
 ---
 

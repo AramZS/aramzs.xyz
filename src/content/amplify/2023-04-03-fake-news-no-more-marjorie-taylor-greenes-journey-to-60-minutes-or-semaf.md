@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-03-fake-news-no-more-marjorie-taylor-greenes-journey-to-60-minutes-or-semaf
 tags:
-  - media
+  - Media
   - politics
 title: '‘Fake news’ no more: Marjorie Taylor Greene’s journey to 60 Minutes | Semaf'
 ---

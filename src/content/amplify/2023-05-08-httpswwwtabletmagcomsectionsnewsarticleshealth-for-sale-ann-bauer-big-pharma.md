@@ -10,7 +10,7 @@ tags:
   - economy
   - health
   - marketing
-  - media
+  - Media
 title: >-
   https://www.tabletmag.com/sections/news/articles/health-for-sale-ann-bauer-big-pharma
 ---

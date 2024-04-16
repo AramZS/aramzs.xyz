@@ -8,7 +8,7 @@ slug: >-
   2023-08-24-the-columbia-j-school-wants-to-help-its-alums-in-nonprofit-news-pay-back-th
 tags:
   - academia
-  - media
+  - Media
 title: The Columbia J-School wants to help its alums in nonprofit news pay back th
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-29-httpswwwfastcompanycom90940777no-advertising-no-website-and-a-70-magazine-is-this-the-future-of-media
 tags:
-  - media
+  - Media
 title: >-
   https://www.fastcompany.com/90940777/no-advertising-no-website-and-a-70-magazine-is-this-the-future-of-media
 ---

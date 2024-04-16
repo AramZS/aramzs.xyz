@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-08-httpswwwrollingstonecompoliticspolitics-featurestucker-carlson-fox-news-power-struggle-text-messages-1234731076
 tags:
-  - media
+  - Media
 title: >-
   https://www.rollingstone.com/politics/politics-features/tucker-carlson-fox-news-power-struggle-text-messages-1234731076/
 ---

@@ -6,7 +6,7 @@ slug: 2024-04-01-how-vice-became-a-fucking-clown-show-the-verge
 tags:
   - business
   - journalism
-  - media
+  - Media
 title: How Vice became ‘a fucking clown show’ - The Verge
 ---
 

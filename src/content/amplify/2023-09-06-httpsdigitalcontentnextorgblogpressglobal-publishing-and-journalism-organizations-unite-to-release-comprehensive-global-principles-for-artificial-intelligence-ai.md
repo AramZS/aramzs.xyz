@@ -8,7 +8,7 @@ slug: >-
   2023-09-06-httpsdigitalcontentnextorgblogpressglobal-publishing-and-journalism-organizations-unite-to-release-comprehensive-global-principles-for-artificial-intelligence-ai
 tags:
   - ai
-  - media
+  - Media
 title: >-
   https://digitalcontentnext.org/blog/press/global-publishing-and-journalism-organizations-unite-to-release-comprehensive-global-principles-for-artificial-intelligence-ai/
 ---

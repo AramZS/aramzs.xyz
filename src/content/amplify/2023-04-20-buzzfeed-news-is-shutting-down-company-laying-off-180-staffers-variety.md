@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-20-buzzfeed-news-is-shutting-down-company-laying-off-180-staffers-variety
 tags:
-  - media
+  - Media
 title: 'BuzzFeed News Is Shutting Down, Company Laying Off 180 Staffers - Variety'
 ---
 

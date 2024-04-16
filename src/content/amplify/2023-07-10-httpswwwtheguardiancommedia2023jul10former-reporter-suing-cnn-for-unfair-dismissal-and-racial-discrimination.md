@@ -8,7 +8,7 @@ slug: >-
   2023-07-10-httpswwwtheguardiancommedia2023jul10former-reporter-suing-cnn-for-unfair-dismissal-and-racial-discrimination
 tags:
   - labor
-  - media
+  - Media
 title: >-
   https://www.theguardian.com/media/2023/jul/10/former-reporter-suing-cnn-for-unfair-dismissal-and-racial-discrimination
 ---

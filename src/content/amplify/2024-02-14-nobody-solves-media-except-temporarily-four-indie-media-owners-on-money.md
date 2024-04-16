@@ -8,7 +8,7 @@ slug: >-
   2024-02-14-nobody-solves-media-except-temporarily-four-indie-media-owners-on-money
 tags:
   - Blogging
-  - media
+  - Media
 title: '“Nobody solves media except temporarily”: Four indie media owners on money,'
 ---
 

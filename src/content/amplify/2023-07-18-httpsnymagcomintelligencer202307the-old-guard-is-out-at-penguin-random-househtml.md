@@ -8,7 +8,7 @@ slug: >-
   2023-07-18-httpsnymagcomintelligencer202307the-old-guard-is-out-at-penguin-random-househtml
 tags:
   - generational
-  - media
+  - Media
 title: >-
   https://nymag.com/intelligencer/2023/07/the-old-guard-is-out-at-penguin-random-house.html
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-03-httpswwwnytimescom20230503opinionjezebel-gawker-buzzfeed-ben-smithhtml
 tags:
-  - media
+  - Media
 title: >-
   https://www.nytimes.com/2023/05/03/opinion/jezebel-gawker-buzzfeed-ben-smith.html
 ---

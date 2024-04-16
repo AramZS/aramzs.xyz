@@ -4,7 +4,7 @@ isBasedOn: 'https://www.therebooting.com/bill-ackman-bias/'
 link: 'https://www.therebooting.com/bill-ackman-bias/'
 slug: 2024-02-27-does-bill-ackman-have-a-point
 tags:
-  - media
+  - Media
 title: Does Bill Ackman have a point?
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-30-the-washington-post-a-crackdown-on-woke-coverage-is-tearing-atlanta-mag
 tags:
-  - media
+  - Media
 title: '[The Washington Post] A crackdown on ‘woke’ coverage is tearing Atlanta mag'
 ---
 

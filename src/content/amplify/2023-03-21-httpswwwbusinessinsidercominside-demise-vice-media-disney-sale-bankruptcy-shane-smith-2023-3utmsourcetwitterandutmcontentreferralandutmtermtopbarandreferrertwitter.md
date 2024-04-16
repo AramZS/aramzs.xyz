@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-21-httpswwwbusinessinsidercominside-demise-vice-media-disney-sale-bankruptcy-shane-smith-2023-3utmsourcetwitterandutmcontentreferralandutmtermtopbarandreferrertwitter
 tags:
-  - media
+  - Media
 title: >-
   https://www.businessinsider.com/inside-demise-vice-media-disney-sale-bankruptcy-shane-smith-2023-3?utmSource=twitter&utmContent=referral&utmTerm=topbar&referrer=twitter
 ---

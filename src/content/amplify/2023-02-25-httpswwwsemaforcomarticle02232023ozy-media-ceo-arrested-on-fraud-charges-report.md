@@ -8,7 +8,7 @@ slug: >-
   2023-02-25-httpswwwsemaforcomarticle02232023ozy-media-ceo-arrested-on-fraud-charges-report
 tags:
   - law and order
-  - media
+  - Media
 title: >-
   https://www.semafor.com/article/02/23/2023/ozy-media-ceo-arrested-on-fraud-charges-report
 ---

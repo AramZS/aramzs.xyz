@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-14-insider-co-founder-henry-blodget-steps-down-as-ceo-amid-strategy-shift-ws
 tags:
-  - media
+  - Media
 title: Insider Co-Founder Henry Blodget Steps Down as CEO Amid Strategy Shift - WS
 ---
 

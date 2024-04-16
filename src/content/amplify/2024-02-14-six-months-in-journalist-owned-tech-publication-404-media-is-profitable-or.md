@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-14-six-months-in-journalist-owned-tech-publication-404-media-is-profitable-or
 tags:
-  - media
+  - Media
 title: 'Six months in, journalist-owned tech publication 404 Media is profitable | '
 ---
 

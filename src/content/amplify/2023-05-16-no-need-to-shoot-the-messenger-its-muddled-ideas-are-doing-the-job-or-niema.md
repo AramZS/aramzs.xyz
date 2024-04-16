@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-16-no-need-to-shoot-the-messenger-its-muddled-ideas-are-doing-the-job-or-niema
 tags:
-  - media
+  - Media
 title: 'No need to shoot The Messenger: Its muddled ideas are doing the job | Niema'
 ---
 

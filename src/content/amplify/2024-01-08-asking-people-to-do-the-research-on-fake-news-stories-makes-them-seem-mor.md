@@ -8,7 +8,7 @@ slug: >-
   2024-01-08-asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-mor
 tags:
   - journalism
-  - media
+  - Media
 title: Asking people to “do the research” on fake news stories makes them seem mor
 ---
 

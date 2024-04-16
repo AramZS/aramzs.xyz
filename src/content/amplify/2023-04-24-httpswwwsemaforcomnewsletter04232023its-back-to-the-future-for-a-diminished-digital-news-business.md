@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-24-httpswwwsemaforcomnewsletter04232023its-back-to-the-future-for-a-diminished-digital-news-business
 tags:
-  - media
+  - Media
 title: >-
   https://www.semafor.com/newsletter/04/23/2023/its-back-to-the-future-for-a-diminished-digital-news-business
 ---

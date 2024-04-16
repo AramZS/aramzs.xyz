@@ -4,7 +4,7 @@ isBasedOn: 'https://nymag.com/intelligencer/2023/04/how-buzzfeed-news-went-bust.
 link: 'https://nymag.com/intelligencer/2023/04/how-buzzfeed-news-went-bust.html'
 slug: 2023-04-28-how-buzzfeed-news-went-bust
 tags:
-  - media
+  - Media
 title: How Buzzfeed News Went Bust
 ---
 

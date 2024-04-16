@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-23-httpswwwbloombergcomnewsarticles2023-06-22canada-passes-law-forcing-meta-alphabet-to-pay-news-publishers
 tags:
-  - media
+  - Media
   - social media
 title: >-
   https://www.bloomberg.com/news/articles/2023-06-22/canada-passes-law-forcing-meta-alphabet-to-pay-news-publishers

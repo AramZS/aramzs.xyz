@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-04-how-under-35s-interest-in-news-has-collapsed-and-what-we-can-do-about-it
 tags:
-  - media
+  - Media
 title: How under-35s’ interest in news has collapsed and what we can do about it -
 ---
 

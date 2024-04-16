@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-28-good-luck-media-wants-to-tell-a-different-kind-of-climate-change-story
 tags:
-  - media
+  - Media
 title: » Good Luck Media Wants To Tell A Different Kind Of Climate Change Story
 ---
 

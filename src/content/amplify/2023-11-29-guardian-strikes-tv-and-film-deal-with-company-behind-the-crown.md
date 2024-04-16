@@ -6,7 +6,7 @@ link: >-
   https://www.theguardian.com/uk-news/2023/nov/29/guardian-strikes-tv-and-film-deal-with-company-behind-the-crown?CMP=Share_AndroidApp_Other
 slug: 2023-11-29-guardian-strikes-tv-and-film-deal-with-company-behind-the-crown
 tags:
-  - media
+  - Media
 title: Guardian strikes TV and film deal with company behind The Crown
 ---
 

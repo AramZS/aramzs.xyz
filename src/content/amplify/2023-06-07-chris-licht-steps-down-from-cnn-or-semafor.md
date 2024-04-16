@@ -4,7 +4,7 @@ isBasedOn: 'https://www.semafor.com/article/06/07/2023/cnn-christ-licht-steps-do
 link: 'https://www.semafor.com/article/06/07/2023/cnn-christ-licht-steps-down'
 slug: 2023-06-07-chris-licht-steps-down-from-cnn-or-semafor
 tags:
-  - media
+  - Media
 title: Chris Licht steps down from CNN | Semafor
 ---
 

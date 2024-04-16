@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-03-httpsobjectivejournalismorg202307after-pledging-accountability-reveal-laid-off-all-black-unionized-staff
 tags:
-  - media
+  - Media
 title: >-
   https://objectivejournalism.org/2023/07/after-pledging-accountability-reveal-laid-off-all-black-unionized-staff/
 ---

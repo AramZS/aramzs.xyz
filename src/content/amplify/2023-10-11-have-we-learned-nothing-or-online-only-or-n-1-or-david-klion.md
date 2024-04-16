@@ -4,7 +4,7 @@ isBasedOn: 'https://www.nplusonemag.com/online-only/online-only/have-we-learned-
 link: 'https://www.nplusonemag.com/online-only/online-only/have-we-learned-nothing/'
 slug: 2023-10-11-have-we-learned-nothing-or-online-only-or-n-1-or-david-klion
 tags:
-  - media
+  - Media
 title: Have We Learned Nothing? | Online Only | n 1 | David Klion
 ---
 

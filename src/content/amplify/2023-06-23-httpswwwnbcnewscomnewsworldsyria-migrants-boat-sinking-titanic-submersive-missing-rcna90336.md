@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-23-httpswwwnbcnewscomnewsworldsyria-migrants-boat-sinking-titanic-submersive-missing-rcna90336
 tags:
-  - media
+  - Media
 title: >-
   https://www.nbcnews.com/news/world/syria-migrants-boat-sinking-titanic-submersive-missing-rcna90336
 ---

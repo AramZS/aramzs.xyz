@@ -7,7 +7,7 @@ link: >-
 slug: >-
     2024-03-15-a-company-linked-to-a-large-pink-slime-network-is-being-hired-by-big-publ
 tags:
-    - media
+    - Media
     - Tech
 title: A company linked to a large “pink slime” network is being hired by big publ
 ---

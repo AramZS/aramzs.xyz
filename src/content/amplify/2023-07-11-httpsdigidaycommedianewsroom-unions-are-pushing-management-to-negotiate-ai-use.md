@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-11-httpsdigidaycommedianewsroom-unions-are-pushing-management-to-negotiate-ai-use
 tags:
-  - media
+  - Media
 title: >-
   https://digiday.com/media/newsroom-unions-are-pushing-management-to-negotiate-ai-use/
 ---

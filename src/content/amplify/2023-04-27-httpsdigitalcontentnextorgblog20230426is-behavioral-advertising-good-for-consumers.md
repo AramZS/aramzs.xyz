@@ -8,7 +8,7 @@ slug: >-
   2023-04-27-httpsdigitalcontentnextorgblog20230426is-behavioral-advertising-good-for-consumers
 tags:
   - ad tech
-  - media
+  - Media
 title: >-
   https://digitalcontentnext.org/blog/2023/04/26/is-behavioral-advertising-good-for-consumers/
 ---

@@ -10,7 +10,7 @@ tags:
   - ai
   - business
   - journalism
-  - media
+  - Media
 title: 'The Messenger Is ‘Out of Money,’ President Richard Beckman Tells Fed-Up Jou'
 ---
 

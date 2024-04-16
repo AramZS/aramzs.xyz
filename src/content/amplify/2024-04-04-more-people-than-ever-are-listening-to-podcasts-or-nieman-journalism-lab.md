@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-04-more-people-than-ever-are-listening-to-podcasts-or-nieman-journalism-lab
 tags:
-  - media
+  - Media
 title: More people than ever are listening to podcasts | Nieman Journalism Lab
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/scorn-illustrated'
 link: 'https://defector.com/scorn-illustrated'
 slug: 2023-11-29-scorn-illustrated-or-defector
 tags:
-  - media
+  - Media
 title: Scorn Illustrated | Defector
 ---
 

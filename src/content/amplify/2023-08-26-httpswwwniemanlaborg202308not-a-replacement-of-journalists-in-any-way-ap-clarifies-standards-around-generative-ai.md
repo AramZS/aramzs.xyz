@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - journalism
-  - media
+  - Media
 title: >-
   https://www.niemanlab.org/2023/08/not-a-replacement-of-journalists-in-any-way-ap-clarifies-standards-around-generative-ai/
 ---

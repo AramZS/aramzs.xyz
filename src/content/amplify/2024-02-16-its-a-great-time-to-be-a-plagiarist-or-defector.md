@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/its-a-great-time-to-be-a-plagiarist'
 link: 'https://defector.com/its-a-great-time-to-be-a-plagiarist'
 slug: 2024-02-16-its-a-great-time-to-be-a-plagiarist-or-defector
 tags:
-  - media
+  - Media
 title: It's A Great Time To Be A Plagiarist | Defector
 ---
 

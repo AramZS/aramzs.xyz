@@ -4,7 +4,7 @@ isBasedOn: 'https://www.campaignlive.com/article/marketers-bet-big-metaverse/181
 link: 'https://www.campaignlive.com/article/marketers-bet-big-metaverse/1818408'
 slug: 2023-03-31-marketers-bet-too-big-on-the-metaverse-or-campaign-us
 tags:
-  - media
+  - Media
   - Tech
 title: Marketers bet too big on the metaverse | Campaign US
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-03-the-messenger-implosion-once-again-shows-the-real-problem-with-us-journ
 tags:
-  - media
+  - Media
 title: ‘The Messenger’ Implosion Once Again Shows The Real Problem With U.S. Journ
 ---
 

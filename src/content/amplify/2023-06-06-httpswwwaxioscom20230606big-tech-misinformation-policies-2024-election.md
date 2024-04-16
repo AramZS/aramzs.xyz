@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-06-httpswwwaxioscom20230606big-tech-misinformation-policies-2024-election
 tags:
-  - media
+  - Media
   - misinformation
   - Tech
 title: >-

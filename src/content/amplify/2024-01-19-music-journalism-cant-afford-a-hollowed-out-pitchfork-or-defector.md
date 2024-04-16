@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/music-journalism-cant-afford-a-hollowed-out-pit
 link: 'https://defector.com/music-journalism-cant-afford-a-hollowed-out-pitchfork'
 slug: 2024-01-19-music-journalism-cant-afford-a-hollowed-out-pitchfork-or-defector
 tags:
-  - media
+  - Media
 title: Music Journalism Can't Afford A Hollowed-Out Pitchfork | Defector
 ---
 

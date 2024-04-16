@@ -8,7 +8,7 @@ slug: >-
   2023-08-28-httpswwwinquirercomopinioncommentarymedia-2020-election-trump-authoritarianism-20230827html
 tags:
   - journalism
-  - media
+  - Media
 title: >-
   https://www.inquirer.com/opinion/commentary/media-2020-election-trump-authoritarianism-20230827.html
 ---

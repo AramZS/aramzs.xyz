@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-18-httpswwwsemaforcomarticle06182023liberal-activists-want-to-buy-your-local-tv-station
 tags:
-  - media
+  - Media
 title: >-
   https://www.semafor.com/article/06/18/2023/liberal-activists-want-to-buy-your-local-tv-station
 ---

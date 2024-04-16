@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-25-httpswwwhollywoodreportercombusinessdigitalnate-silver-leaves-538-abc-news-disney-layoffs-1235401689
 tags:
-  - media
+  - Media
 title: >-
   https://www.hollywoodreporter.com/business/digital/nate-silver-leaves-538-abc-news-disney-layoffs-1235401689/
 ---

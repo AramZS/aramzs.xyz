@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-12-27-amazon-prime-video-adding-commercials-extra-fee-for-ad-free-or-entrepreneur
 tags:
-  - media
+  - Media
 title: 'Amazon Prime Video Adding Commercials, Extra Fee for Ad-Free | Entrepreneur'
 ---
 

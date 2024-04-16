@@ -8,7 +8,7 @@ slug: >-
   2023-07-18-httpswwwvoxcomtechnology202371823798164gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column
 tags:
   - ai
-  - media
+  - Media
 title: >-
   https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column
 ---

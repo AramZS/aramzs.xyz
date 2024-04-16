@@ -5,7 +5,7 @@ link: 'https://www.axios.com/2023/12/13/openai-chatgpt-axel-springer-news-deal'
 slug: 2023-12-13-axel-springer-openai-strike-real-time-news-deal-for-chatgpt
 tags:
   - ai
-  - media
+  - Media
 title: 'Axel Springer, OpenAI strike "real-time news" deal for ChatGPT'
 ---
 

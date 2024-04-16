@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-04-httpswwwnytimescom20230304uspoliticspanic-fox-news-2020-electionhtmlsmidnytcore-ios-shareandreferringsourcearticleshare
 tags:
-  - media
+  - Media
 title: >-
   https://www.nytimes.com/2023/03/04/us/politics/panic-fox-news-2020-election.html?smid=nytcore-ios-share&referringSource=articleShare
 ---

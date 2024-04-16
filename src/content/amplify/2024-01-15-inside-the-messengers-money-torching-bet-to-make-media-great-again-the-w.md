@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-15-inside-the-messengers-money-torching-bet-to-make-media-great-again-the-w
 tags:
-  - media
+  - Media
 title: Inside the Messenger’s money-torching bet to make media great again - The W
 ---
 

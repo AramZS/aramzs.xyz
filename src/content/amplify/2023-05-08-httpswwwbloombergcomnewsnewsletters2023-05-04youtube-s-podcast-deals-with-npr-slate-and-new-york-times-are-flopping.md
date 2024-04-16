@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-08-httpswwwbloombergcomnewsnewsletters2023-05-04youtube-s-podcast-deals-with-npr-slate-and-new-york-times-are-flopping
 tags:
-  - media
+  - Media
 title: >-
   https://www.bloomberg.com/news/newsletters/2023-05-04/youtube-s-podcast-deals-with-npr-slate-and-new-york-times-are-flopping
 ---

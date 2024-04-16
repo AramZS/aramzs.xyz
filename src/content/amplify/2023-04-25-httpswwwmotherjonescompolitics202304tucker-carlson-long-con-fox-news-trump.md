@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-25-httpswwwmotherjonescompolitics202304tucker-carlson-long-con-fox-news-trump
 tags:
-  - media
+  - Media
 title: >-
   https://www.motherjones.com/politics/2023/04/tucker-carlson-long-con-fox-news-trump/
 ---

@@ -8,7 +8,7 @@ slug: >-
   2023-11-22-the-public-doesnt-understand-the-risks-of-a-trump-victory-thats-the-medi
 tags:
   - journalism
-  - media
+  - Media
   - politics
 title: The public doesn’t understand the risks of a Trump victory. That’s the medi
 ---

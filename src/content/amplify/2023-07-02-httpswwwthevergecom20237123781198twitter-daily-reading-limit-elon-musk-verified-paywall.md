@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-02-httpswwwthevergecom20237123781198twitter-daily-reading-limit-elon-musk-verified-paywall
 tags:
-  - media
+  - Media
 title: >-
   https://www.theverge.com/2023/7/1/23781198/twitter-daily-reading-limit-elon-musk-verified-paywall
 ---

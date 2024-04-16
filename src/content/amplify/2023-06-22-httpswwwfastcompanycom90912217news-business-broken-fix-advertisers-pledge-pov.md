@@ -8,7 +8,7 @@ slug: >-
   2023-06-22-httpswwwfastcompanycom90912217news-business-broken-fix-advertisers-pledge-pov
 tags:
   - journalism
-  - media
+  - Media
 title: >-
   https://www.fastcompany.com/90912217/news-business-broken-fix-advertisers-pledge-pov
 ---

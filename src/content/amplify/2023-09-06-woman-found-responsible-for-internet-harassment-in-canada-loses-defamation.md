@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-06-woman-found-responsible-for-internet-harassment-in-canada-loses-defamation
 tags:
-  - media
+  - Media
 title: 'Woman Found Responsible for Internet Harassment in Canada Loses Defamation '
 ---
 

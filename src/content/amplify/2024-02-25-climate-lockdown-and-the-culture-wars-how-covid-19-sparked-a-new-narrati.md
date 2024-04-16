@@ -8,7 +8,7 @@ slug: >-
   2024-02-25-climate-lockdown-and-the-culture-wars-how-covid-19-sparked-a-new-narrati
 tags:
   - climate
-  - media
+  - Media
 title: '‘Climate Lockdown’ and the Culture Wars: How COVID-19 Sparked a New Narrati'
 ---
 

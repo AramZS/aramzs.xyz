@@ -6,7 +6,7 @@ link: >-
   https://www.reuters.com/business/media-telecom/news-junkies-turn-tiktok-chart-new-paths-media-2023-06-15/
 slug: 2023-06-15-news-junkies-turn-to-tiktok-to-chart-new-paths-in-media-or-reuters
 tags:
-  - media
+  - Media
 title: News junkies turn to TikTok to chart new paths in media | Reuters
 ---
 

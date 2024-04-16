@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-21-httpswwwthedailybeastcomjezebel-boss-quits-as-go-media-dumpster-fire-burns-on
 tags:
-  - media
+  - Media
 title: >-
   https://www.thedailybeast.com/jezebel-boss-quits-as-go-media-dumpster-fire-burns-on
 ---

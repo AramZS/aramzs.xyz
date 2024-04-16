@@ -6,7 +6,7 @@ link: >-
   https://kottke.org/23/10/all-of-the-whole-earth-catalog-is-now-available-online-for-free
 slug: 2023-10-20-all-of-the-whole-earth-catalog-is-now-available-online-for-free
 tags:
-  - media
+  - Media
 title: All of the Whole Earth Catalog Is Now Available Online for Free
 ---
 

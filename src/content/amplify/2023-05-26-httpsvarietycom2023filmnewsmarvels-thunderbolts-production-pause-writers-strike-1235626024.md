@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-26-httpsvarietycom2023filmnewsmarvels-thunderbolts-production-pause-writers-strike-1235626024
 tags:
-  - media
+  - Media
 title: >-
   https://variety.com/2023/film/news/marvels-thunderbolts-production-pause-writers-strike-1235626024/
 ---

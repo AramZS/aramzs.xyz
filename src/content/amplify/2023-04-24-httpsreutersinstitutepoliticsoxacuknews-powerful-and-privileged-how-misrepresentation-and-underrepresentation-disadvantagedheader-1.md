@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-24-httpsreutersinstitutepoliticsoxacuknews-powerful-and-privileged-how-misrepresentation-and-underrepresentation-disadvantagedheader-1
 tags:
-  - media
+  - Media
 title: >-
   https://reutersinstitute.politics.ox.ac.uk/news-powerful-and-privileged-how-misrepresentation-and-underrepresentation-disadvantaged#header--1
 ---

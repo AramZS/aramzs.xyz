@@ -5,7 +5,7 @@ link: 'https://gizmodo.com/facebook-traffic-down-algorithm-change-1850549012'
 slug: 2023-06-18-websites-say-traffic-plummeted-after-facebook-algorithm-change
 tags:
   - journalism
-  - media
+  - Media
   - social media
 title: Websites Say Traffic Plummeted After Facebook Algorithm Change
 ---

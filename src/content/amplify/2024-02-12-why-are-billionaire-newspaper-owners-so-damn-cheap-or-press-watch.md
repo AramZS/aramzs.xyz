@@ -6,7 +6,7 @@ link: >-
   https://presswatchers.org/2024/02/why-are-billionaire-newspaper-owners-so-damn-cheap/
 slug: 2024-02-12-why-are-billionaire-newspaper-owners-so-damn-cheap-or-press-watch
 tags:
-  - media
+  - Media
 title: Why are billionaire newspaper owners so damn cheap? | Press Watch
 ---
 

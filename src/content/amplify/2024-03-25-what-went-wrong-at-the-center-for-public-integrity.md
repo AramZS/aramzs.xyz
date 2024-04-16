@@ -4,7 +4,7 @@ isBasedOn: 'https://dicktofel.substack.com/p/what-went-wrong-at-the-center-for'
 link: 'https://dicktofel.substack.com/p/what-went-wrong-at-the-center-for'
 slug: 2024-03-25-what-went-wrong-at-the-center-for-public-integrity
 tags:
-  - media
+  - Media
 title: What Went Wrong at the Center for Public Integrity?
 ---
 

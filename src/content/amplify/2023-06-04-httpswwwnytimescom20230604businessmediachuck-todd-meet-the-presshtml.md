@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-04-httpswwwnytimescom20230604businessmediachuck-todd-meet-the-presshtml
 tags:
-  - media
+  - Media
 title: >-
   https://www.nytimes.com/2023/06/04/business/media/chuck-todd-meet-the-press.html
 ---

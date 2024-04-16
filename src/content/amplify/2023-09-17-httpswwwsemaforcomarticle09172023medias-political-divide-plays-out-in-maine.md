@@ -8,7 +8,7 @@ slug: >-
   2023-09-17-httpswwwsemaforcomarticle09172023medias-political-divide-plays-out-in-maine
 tags:
   - journalism
-  - media
+  - Media
 title: >-
   https://www.semafor.com/article/09/17/2023/medias-political-divide-plays-out-in-maine
 ---

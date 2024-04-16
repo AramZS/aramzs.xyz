@@ -8,7 +8,7 @@ slug: >-
   2023-08-17-httpswwwadweekcomprogrammaticpublisher-salon-grows-revenue-after-cutting-resellers
 tags:
   - ad tech
-  - media
+  - Media
 title: >-
   https://www.adweek.com/programmatic/publisher-salon-grows-revenue-after-cutting-resellers/?#
 ---

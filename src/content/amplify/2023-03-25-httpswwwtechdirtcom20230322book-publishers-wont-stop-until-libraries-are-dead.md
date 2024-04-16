@@ -8,7 +8,7 @@ slug: >-
   2023-03-25-httpswwwtechdirtcom20230322book-publishers-wont-stop-until-libraries-are-dead
 tags:
   - law and order
-  - media
+  - Media
   - Tech
 title: >-
   https://www.techdirt.com/2023/03/22/book-publishers-wont-stop-until-libraries-are-dead/

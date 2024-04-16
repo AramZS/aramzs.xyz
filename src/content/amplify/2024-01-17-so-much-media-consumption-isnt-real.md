@@ -6,7 +6,7 @@ link: >-
   https://simonowens.substack.com/p/so-much-media-consumption-isnt-real?utm_campaign=post
 slug: 2024-01-17-so-much-media-consumption-isnt-real
 tags:
-  - media
+  - Media
 title: So much media consumption isn't real
 ---
 

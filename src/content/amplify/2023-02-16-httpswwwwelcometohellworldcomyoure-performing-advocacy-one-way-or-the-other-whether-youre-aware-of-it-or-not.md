@@ -8,7 +8,7 @@ slug: >-
   2023-02-16-httpswwwwelcometohellworldcomyoure-performing-advocacy-one-way-or-the-other-whether-youre-aware-of-it-or-not
 tags:
   - journalism
-  - media
+  - Media
 title: >-
   https://www.welcometohellworld.com/youre-performing-advocacy-one-way-or-the-other-whether-youre-aware-of-it-or-not/
 ---

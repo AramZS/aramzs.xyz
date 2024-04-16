@@ -8,7 +8,7 @@ slug: >-
   2023-04-10-httpswwwnbcnewscomtechmisinformationtiffany-dover-conspiracy-theorists-silence-rcna69401
 tags:
   - health
-  - media
+  - Media
   - misinformation
 title: >-
   https://www.nbcnews.com/tech/misinformation/tiffany-dover-conspiracy-theorists-silence-rcna69401

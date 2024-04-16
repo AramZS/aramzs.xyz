@@ -7,7 +7,7 @@ link: >-
 slug: 2024-02-22-kara-swisher-how-silicon-valley-tech-bros-ruined-media
 tags:
   - journalism
-  - media
+  - Media
   - Tech
 title: 'Kara Swisher: How Silicon Valley Tech Bros Ruined Media'
 ---

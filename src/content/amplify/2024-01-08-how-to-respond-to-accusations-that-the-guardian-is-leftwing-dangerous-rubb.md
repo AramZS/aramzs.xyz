@@ -8,7 +8,7 @@ slug: >-
   2024-01-08-how-to-respond-to-accusations-that-the-guardian-is-leftwing-dangerous-rubb
 tags:
   - journalism
-  - media
+  - Media
 title: How to respond to accusations that the Guardian is ‘leftwing dangerous rubb
 ---
 

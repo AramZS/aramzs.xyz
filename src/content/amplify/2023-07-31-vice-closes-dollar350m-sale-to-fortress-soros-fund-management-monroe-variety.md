@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-31-vice-closes-dollar350m-sale-to-fortress-soros-fund-management-monroe-variety
 tags:
-  - media
+  - Media
 title: 'Vice Closes $350M Sale to Fortress, Soros Fund Management, Monroe - Variety'
 ---
 

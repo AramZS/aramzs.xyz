@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-09-i-just-bought-the-only-physical-encyclopedia-still-in-print-and-i-regret-n
 tags:
-  - media
+  - Media
 title: 'I just bought the only physical encyclopedia still in print, and I regret n'
 ---
 

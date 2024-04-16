@@ -8,7 +8,7 @@ slug: >-
   2023-12-27-new-york-times-sues-openai-microsoft-over-copyright-infringement-or-semafor
 tags:
   - ai
-  - media
+  - Media
 title: 'New York Times sues OpenAI, Microsoft over copyright infringement | Semafor'
 ---
 

@@ -5,7 +5,7 @@ link: 'https://davekarpf.substack.com/p/on-substack-nazis-laissez-faire-tech'
 slug: >-
   2023-12-14-on-substack-nazis-laissez-faire-tech-regulation-and-mouse-poop-in-cereal
 tags:
-  - media
+  - Media
   - social media
 title: 'On Substack Nazis, laissez-faire tech regulation, and mouse-poop-in-cereal-'
 ---

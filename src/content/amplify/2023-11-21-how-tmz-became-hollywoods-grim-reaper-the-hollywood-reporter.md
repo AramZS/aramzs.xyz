@@ -8,7 +8,7 @@ slug: 2023-11-21-how-tmz-became-hollywoods-grim-reaper-the-hollywood-reporter
 tags:
   - entertainment
   - journalism
-  - media
+  - Media
 title: How TMZ Became Hollywood’s Grim Reaper – The Hollywood Reporter
 ---
 

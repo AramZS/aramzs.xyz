@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-04-inma-news-publishers-maximise-ad-monitisation-with-mobile-strategies
 tags:
-  - media
+  - Media
 title: 'INMA: News publishers maximise ad monitisation with mobile strategies'
 ---
 

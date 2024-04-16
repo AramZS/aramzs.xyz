@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-11-httpswwwvanityfaircomnews202303rod-dreher-blog-weird-american-conservative
 tags:
-  - media
+  - Media
 title: >-
   https://www.vanityfair.com/news/2023/03/rod-dreher-blog-weird-american-conservative
 ---

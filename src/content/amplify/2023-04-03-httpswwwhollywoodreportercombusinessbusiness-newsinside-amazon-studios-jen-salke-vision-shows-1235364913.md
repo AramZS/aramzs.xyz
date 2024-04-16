@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-03-httpswwwhollywoodreportercombusinessbusiness-newsinside-amazon-studios-jen-salke-vision-shows-1235364913
 tags:
-  - media
+  - Media
 title: >-
   https://www.hollywoodreporter.com/business/business-news/inside-amazon-studios-jen-salke-vision-shows-1235364913/
 ---

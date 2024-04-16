@@ -4,7 +4,7 @@ isBasedOn: 'https://www.vanityfair.com/news/2023/03/grid-news-the-messenger-star
 link: 'https://www.vanityfair.com/news/2023/03/grid-news-the-messenger-startup'
 slug: 2023-03-29-httpswwwvanityfaircomnews202303grid-news-the-messenger-startup
 tags:
-  - media
+  - Media
 title: 'https://www.vanityfair.com/news/2023/03/grid-news-the-messenger-startup'
 ---
 

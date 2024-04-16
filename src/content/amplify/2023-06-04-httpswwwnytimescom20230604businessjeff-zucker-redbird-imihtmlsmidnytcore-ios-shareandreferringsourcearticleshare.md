@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-04-httpswwwnytimescom20230604businessjeff-zucker-redbird-imihtmlsmidnytcore-ios-shareandreferringsourcearticleshare
 tags:
-  - media
+  - Media
 title: >-
   https://www.nytimes.com/2023/06/04/business/jeff-zucker-redbird-imi.html?smid=nytcore-ios-share&referringSource=articleShare
 ---

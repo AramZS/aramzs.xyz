@@ -4,7 +4,7 @@ isBasedOn: 'https://www.therebooting.com/p/the-publisher-doom-loop'
 link: 'https://www.therebooting.com/p/the-publisher-doom-loop'
 slug: 2023-09-19-the-publisher-doom-loop-by-brian-morrissey
 tags:
-  - media
+  - Media
 title: The publisher doom loop - by Brian Morrissey
 ---
 

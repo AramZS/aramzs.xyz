@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/three-newsrooms-imploded-around-me-in-under-a-y
 link: 'https://defector.com/three-newsrooms-imploded-around-me-in-under-a-year'
 slug: 2024-02-10-three-newsrooms-imploded-around-me-in-under-a-year-or-defector
 tags:
-  - media
+  - Media
 title: Three Newsrooms Imploded Around Me In Under A Year | Defector
 ---
 

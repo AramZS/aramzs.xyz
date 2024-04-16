@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-28-httpswwwthedailybeastcomny-times-fires-off-warning-to-staffers-after-trans-coverage-brouhahasourcetwitterandviadesktop
 tags:
-  - media
+  - Media
 title: >-
   https://www.thedailybeast.com/ny-times-fires-off-warning-to-staffers-after-trans-coverage-brouhaha?source=twitter&via=desktop
 ---

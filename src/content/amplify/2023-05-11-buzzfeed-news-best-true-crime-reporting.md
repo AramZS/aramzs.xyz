@@ -6,7 +6,7 @@ link: >-
   https://www.buzzfeed.com/drumoorhouse/buzzfeed-news-true-crime-reporting-injustice
 slug: 2023-05-11-buzzfeed-news-best-true-crime-reporting
 tags:
-  - media
+  - Media
 title: BuzzFeed News’ Best True Crime Reporting
 ---
 

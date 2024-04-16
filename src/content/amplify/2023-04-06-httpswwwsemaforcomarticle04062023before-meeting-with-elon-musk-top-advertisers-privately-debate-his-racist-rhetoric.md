@@ -8,7 +8,7 @@ slug: >-
   2023-04-06-httpswwwsemaforcomarticle04062023before-meeting-with-elon-musk-top-advertisers-privately-debate-his-racist-rhetoric
 tags:
   - business
-  - media
+  - Media
 title: >-
   https://www.semafor.com/article/04/06/2023/before-meeting-with-elon-musk-top-advertisers-privately-debate-his-racist-rhetoric
 ---

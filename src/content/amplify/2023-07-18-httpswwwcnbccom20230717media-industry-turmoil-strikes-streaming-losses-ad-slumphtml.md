@@ -8,7 +8,7 @@ slug: >-
   2023-07-18-httpswwwcnbccom20230717media-industry-turmoil-strikes-streaming-losses-ad-slumphtml
 tags:
   - entertainment
-  - media
+  - Media
 title: >-
   https://www.cnbc.com/2023/07/17/media-industry-turmoil-strikes-streaming-losses-ad-slump.html
 ---

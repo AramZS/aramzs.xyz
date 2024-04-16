@@ -5,7 +5,7 @@ link: 'https://baekdal.com/newsletter/the-problem-with-ai-content-wrappers/'
 slug: 2023-08-14-httpsbaekdalcomnewsletterthe-problem-with-ai-content-wrappers
 tags:
   - ai
-  - media
+  - Media
 title: 'https://baekdal.com/newsletter/the-problem-with-ai-content-wrappers/'
 ---
 

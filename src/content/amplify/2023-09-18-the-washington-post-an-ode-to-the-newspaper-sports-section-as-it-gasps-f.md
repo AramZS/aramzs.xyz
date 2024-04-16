@@ -6,7 +6,7 @@ slug: >-
   2023-09-18-the-washington-post-an-ode-to-the-newspaper-sports-section-as-it-gasps-f
 tags:
   - journalism
-  - media
+  - Media
 title: '[The Washington Post] An ode to the newspaper sports section, as it gasps f'
 ---
 

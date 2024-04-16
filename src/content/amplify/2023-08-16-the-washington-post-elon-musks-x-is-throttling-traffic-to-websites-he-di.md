@@ -5,7 +5,7 @@ link: 'https://www.washingtonpost.com/technology/2023/08/15/twitter-x-links-dela
 slug: >-
   2023-08-16-the-washington-post-elon-musks-x-is-throttling-traffic-to-websites-he-di
 tags:
-  - media
+  - Media
   - social media
 title: '[The Washington Post] Elon Musk’s X is throttling traffic to websites he di'
 ---

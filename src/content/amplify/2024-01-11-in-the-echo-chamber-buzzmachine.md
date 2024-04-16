@@ -6,7 +6,7 @@ slug: 2024-01-11-in-the-echo-chamber-buzzmachine
 tags:
   - ai
   - journalism
-  - media
+  - Media
 title: In the echo chamber — BuzzMachine
 ---
 

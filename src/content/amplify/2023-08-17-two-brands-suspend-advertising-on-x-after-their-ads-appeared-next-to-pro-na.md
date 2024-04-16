@@ -8,7 +8,7 @@ slug: >-
   2023-08-17-two-brands-suspend-advertising-on-x-after-their-ads-appeared-next-to-pro-na
 tags:
   - ad tech
-  - media
+  - Media
   - social media
 title: Two brands suspend advertising on X after their ads appeared next to pro-Na
 ---

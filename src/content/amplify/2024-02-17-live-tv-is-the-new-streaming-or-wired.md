@@ -5,7 +5,7 @@ link: 'https://www.wired.com/story/super-bowl-123-million-viewers-live-tv-stream
 slug: 2024-02-17-live-tv-is-the-new-streaming-or-wired
 tags:
   - entertainment
-  - media
+  - Media
   - tv
 title: Live TV Is the New Streaming | WIRED
 ---

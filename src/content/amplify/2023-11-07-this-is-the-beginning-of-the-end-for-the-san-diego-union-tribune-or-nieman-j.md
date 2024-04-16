@@ -8,7 +8,7 @@ slug: >-
   2023-11-07-this-is-the-beginning-of-the-end-for-the-san-diego-union-tribune-or-nieman-j
 tags:
   - journalism
-  - media
+  - Media
 title: This is the beginning of the end for The San Diego Union-Tribune | Nieman J
 ---
 

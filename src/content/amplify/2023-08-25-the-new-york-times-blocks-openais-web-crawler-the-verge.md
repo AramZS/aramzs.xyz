@@ -7,7 +7,7 @@ link: >-
 slug: 2023-08-25-the-new-york-times-blocks-openais-web-crawler-the-verge
 tags:
   - ai
-  - media
+  - Media
 title: The New York Times blocks OpenAI’s web crawler - The Verge
 ---
 

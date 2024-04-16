@@ -5,7 +5,7 @@ link: 'https://www.axios.com/2023/07/18/openai-local-news-deal'
 slug: 2023-07-18-openai-strikes-dollar5-million-plus-local-news-deal
 tags:
   - ai
-  - media
+  - Media
 title: OpenAI strikes $5 million-plus local news deal
 ---
 

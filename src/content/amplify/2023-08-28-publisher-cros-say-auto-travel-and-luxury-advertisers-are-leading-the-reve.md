@@ -8,7 +8,7 @@ slug: >-
   2023-08-28-publisher-cros-say-auto-travel-and-luxury-advertisers-are-leading-the-reve
 tags:
   - ad tech
-  - media
+  - Media
 title: 'Publisher CROs say auto, travel and luxury advertisers are leading the reve'
 ---
 

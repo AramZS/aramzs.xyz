@@ -5,7 +5,7 @@ link: 'https://flowingdata.com/2024/01/10/nyt-flash-based-visualizations-work-ag
 slug: 2024-01-10-nyt-flash-based-visualizations-work-again
 tags:
   - journalism
-  - media
+  - Media
 title: NYT Flash-based visualizations work again
 ---
 

@@ -7,7 +7,7 @@ slug: >-
 tags:
   - ai
   - journalism
-  - media
+  - Media
 title: Hundreds of Machine Generated ‘News’ Sites Clash With the Online News Act –
 ---
 

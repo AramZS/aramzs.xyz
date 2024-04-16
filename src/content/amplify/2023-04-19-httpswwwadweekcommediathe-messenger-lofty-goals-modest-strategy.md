@@ -4,7 +4,7 @@ isBasedOn: 'https://www.adweek.com/media/the-messenger-lofty-goals-modest-strate
 link: 'https://www.adweek.com/media/the-messenger-lofty-goals-modest-strategy/'
 slug: 2023-04-19-httpswwwadweekcommediathe-messenger-lofty-goals-modest-strategy
 tags:
-  - media
+  - Media
 title: 'https://www.adweek.com/media/the-messenger-lofty-goals-modest-strategy/'
 ---
 

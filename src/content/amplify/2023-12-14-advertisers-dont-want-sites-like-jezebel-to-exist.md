@@ -5,7 +5,7 @@ link: 'https://www.404media.co/advertisers-dont-want-sites-like-jezebel-to-exist
 slug: 2023-12-14-advertisers-dont-want-sites-like-jezebel-to-exist
 tags:
   - ad tech
-  - media
+  - Media
   - politics
 title: Advertisers Don’t Want Sites Like Jezebel to Exist
 ---

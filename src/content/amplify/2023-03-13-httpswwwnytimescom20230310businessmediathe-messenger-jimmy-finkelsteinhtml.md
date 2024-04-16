@@ -8,7 +8,7 @@ slug: >-
   2023-03-13-httpswwwnytimescom20230310businessmediathe-messenger-jimmy-finkelsteinhtml
 tags:
   - business
-  - media
+  - Media
 title: >-
   https://www.nytimes.com/2023/03/10/business/media/the-messenger-jimmy-finkelstein.html
 ---

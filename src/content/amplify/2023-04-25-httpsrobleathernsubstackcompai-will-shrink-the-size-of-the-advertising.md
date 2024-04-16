@@ -6,7 +6,7 @@ slug: >-
   2023-04-25-httpsrobleathernsubstackcompai-will-shrink-the-size-of-the-advertising
 tags:
   - ai
-  - media
+  - Media
 title: 'https://robleathern.substack.com/p/ai-will-shrink-the-size-of-the-advertising'
 ---
 

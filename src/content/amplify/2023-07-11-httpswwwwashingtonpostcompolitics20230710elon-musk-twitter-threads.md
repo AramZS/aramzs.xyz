@@ -4,7 +4,7 @@ isBasedOn: 'https://www.washingtonpost.com/politics/2023/07/10/elon-musk-twitter
 link: 'https://www.washingtonpost.com/politics/2023/07/10/elon-musk-twitter-threads/'
 slug: 2023-07-11-httpswwwwashingtonpostcompolitics20230710elon-musk-twitter-threads
 tags:
-  - media
+  - Media
 title: 'https://www.washingtonpost.com/politics/2023/07/10/elon-musk-twitter-threads/'
 ---
 

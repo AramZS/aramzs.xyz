@@ -8,7 +8,7 @@ slug: >-
   2023-06-21-httpswwwvanityfaircomnews202306margaret-sullivan-podcast-american-crisis
 tags:
   - journalism
-  - media
+  - Media
 title: >-
   https://www.vanityfair.com/news/2023/06/margaret-sullivan-podcast-american-crisis
 ---

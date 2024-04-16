@@ -8,7 +8,7 @@ slug: >-
   2023-03-15-httpswwwnexttvcomnewseven-bob-iger-thinks-its-getting-tricky-out-there-bloom
 tags:
   - entertainment
-  - media
+  - Media
 title: >-
   https://www.nexttv.com/news/even-bob-iger-thinks-its-getting-tricky-out-there-bloom
 ---

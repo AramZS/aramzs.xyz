@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-12-12-the-post-has-asked-me-to-volunteer-to-leave-i-will-the-washington-post
 tags:
-  - media
+  - Media
 title: The Post has asked me to volunteer to leave. I will. - The Washington Post
 ---
 

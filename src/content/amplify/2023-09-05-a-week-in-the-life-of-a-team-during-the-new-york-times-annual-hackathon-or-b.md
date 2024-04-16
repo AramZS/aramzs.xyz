@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-05-a-week-in-the-life-of-a-team-during-the-new-york-times-annual-hackathon-or-b
 tags:
-  - media
+  - Media
   - product
   - Tech
 title: A Week in the Life of a Team during The New York Times Annual Hackathon | b

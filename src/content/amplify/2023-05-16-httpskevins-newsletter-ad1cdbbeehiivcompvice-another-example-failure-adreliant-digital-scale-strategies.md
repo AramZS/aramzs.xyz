@@ -8,7 +8,7 @@ slug: >-
   2023-05-16-httpskevins-newsletter-ad1cdbbeehiivcompvice-another-example-failure-adreliant-digital-scale-strategies
 tags:
   - ad tech
-  - media
+  - Media
 title: >-
   https://kevins-newsletter-ad1cdb.beehiiv.com/p/vice-another-example-failure-adreliant-digital-scale-strategies
 ---

@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/how-gary-lineker-brought-the-bbc-to-its-knees'
 link: 'https://defector.com/how-gary-lineker-brought-the-bbc-to-its-knees'
 slug: 2023-03-11-httpsdefectorcomhow-gary-lineker-brought-the-bbc-to-its-knees
 tags:
-  - media
+  - Media
 title: 'https://defector.com/how-gary-lineker-brought-the-bbc-to-its-knees'
 ---
 

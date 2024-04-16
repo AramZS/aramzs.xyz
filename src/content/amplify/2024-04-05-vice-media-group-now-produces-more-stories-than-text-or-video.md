@@ -7,7 +7,7 @@ link: >-
 slug: 2024-04-05-vice-media-group-now-produces-more-stories-than-text-or-video
 tags:
   - journalism
-  - media
+  - Media
 title: Vice Media Group now produces more Stories than text or video
 ---
 

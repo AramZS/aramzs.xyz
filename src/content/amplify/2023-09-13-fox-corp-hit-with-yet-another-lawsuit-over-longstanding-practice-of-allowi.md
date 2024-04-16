@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-13-fox-corp-hit-with-yet-another-lawsuit-over-longstanding-practice-of-allowi
 tags:
-  - media
+  - Media
   - misinformation
 title: Fox Corp Hit With Yet Another Lawsuit Over ‘Longstanding Practice of Allowi
 ---

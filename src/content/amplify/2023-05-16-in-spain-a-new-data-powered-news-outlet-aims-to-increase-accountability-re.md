@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-16-in-spain-a-new-data-powered-news-outlet-aims-to-increase-accountability-re
 tags:
-  - media
+  - Media
 title: 'In Spain, a new data-powered news outlet aims to increase accountability re'
 ---
 

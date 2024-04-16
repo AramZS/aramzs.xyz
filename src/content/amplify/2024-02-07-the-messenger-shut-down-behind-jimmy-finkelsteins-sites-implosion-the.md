@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-07-the-messenger-shut-down-behind-jimmy-finkelsteins-sites-implosion-the
 tags:
-  - media
+  - Media
 title: 'The Messenger Shut Down: Behind Jimmy Finkelstein’s Site’s Implosion – The '
 ---
 

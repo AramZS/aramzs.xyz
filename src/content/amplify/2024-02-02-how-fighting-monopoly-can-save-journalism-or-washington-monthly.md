@@ -6,7 +6,7 @@ link: >-
   https://washingtonmonthly.com/2024/01/16/how-fighting-monopoly-can-save-journalism/
 slug: 2024-02-02-how-fighting-monopoly-can-save-journalism-or-washington-monthly
 tags:
-  - media
+  - Media
 title: How Fighting Monopoly Can Save Journalism | Washington Monthly
 ---
 

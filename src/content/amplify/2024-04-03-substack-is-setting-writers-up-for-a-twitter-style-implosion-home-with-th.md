@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-03-substack-is-setting-writers-up-for-a-twitter-style-implosion-home-with-th
 tags:
-  - media
+  - Media
   - social media
 title: Substack Is Setting Writers Up For A Twitter-Style Implosion – Home With Th
 ---

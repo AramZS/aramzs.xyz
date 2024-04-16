@@ -5,7 +5,7 @@ link: 'https://www.therebooting.com/p/media-is-much-harder-than-it-looks#details
 slug: >-
   2023-07-18-media-is-much-harder-than-it-looks-a-conversation-with-hearsts-david-ca
 tags:
-  - media
+  - Media
 title: '‘Media is much harder than it looks’: A conversation with Hearst’s David Ca'
 ---
 

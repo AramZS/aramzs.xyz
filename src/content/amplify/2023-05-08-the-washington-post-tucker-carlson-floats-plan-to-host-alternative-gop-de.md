@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-08-the-washington-post-tucker-carlson-floats-plan-to-host-alternative-gop-de
 tags:
-  - media
+  - Media
 title: '[The Washington Post] Tucker Carlson floats plan to host alternative GOP de'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-10-httpswwwniemanlaborg202311how-13-news-publishers-are-using-whatsapp-channels
 tags:
-  - media
+  - Media
   - social media
 title: >-
   https://www.niemanlab.org/2023/11/how-13-news-publishers-are-using-whatsapp-channels/

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-21-google-promotes-sketchy-product-reviews-from-big-publishers-at-the-expens
 tags:
-  - media
+  - Media
 title: Google promotes sketchy product “reviews” from big publishers at the expens
 ---
 

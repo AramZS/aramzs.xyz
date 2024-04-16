@@ -8,7 +8,7 @@ slug: 2023-04-28-rip-waypoint-a-good-website-about-video-games
 tags:
   - business
   - gaming
-  - media
+  - Media
 title: 'RIP Waypoint, A Good Website About Video Games'
 ---
 

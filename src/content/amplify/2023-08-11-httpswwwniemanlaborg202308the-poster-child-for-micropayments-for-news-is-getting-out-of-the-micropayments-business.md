@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-11-httpswwwniemanlaborg202308the-poster-child-for-micropayments-for-news-is-getting-out-of-the-micropayments-business
 tags:
-  - media
+  - Media
 title: >-
   https://www.niemanlab.org/2023/08/the-poster-child-for-micropayments-for-news-is-getting-out-of-the-micropayments-business/
 ---

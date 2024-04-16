@@ -8,7 +8,7 @@ slug: >-
   2023-08-04-httpswwwbloombergcomnewsnewsletters2023-08-03x-formerly-twitter-is-no-longer-the-place-to-start-news-careerssrefybatdxlg
 tags:
   - journalism
-  - media
+  - Media
   - social media
 title: >-
   https://www.bloomberg.com/news/newsletters/2023-08-03/x-formerly-twitter-is-no-longer-the-place-to-start-news-careers?sref=yBaTdxlg

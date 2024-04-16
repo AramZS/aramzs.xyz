@@ -6,7 +6,7 @@ slug: >-
   2023-07-28-httpsnewrepubliccompost174647twitter-death-climate-disaster-information
 tags:
   - climate
-  - media
+  - Media
 title: 'https://newrepublic.com/post/174647/twitter-death-climate-disaster-information'
 ---
 

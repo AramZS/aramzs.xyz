@@ -6,7 +6,7 @@ link: >-
   https://www.semafor.com/article/01/14/2024/the-incredible-shrinking-podcast-industry
 slug: 2024-01-15-the-incredible-shrinking-podcast-industry-or-semafor
 tags:
-  - media
+  - Media
 title: The incredible shrinking podcast industry | Semafor
 ---
 

@@ -6,7 +6,7 @@ link: >-
   https://www.theatlantic.com/politics/archive/2023/06/cnn-ratings-chris-licht-trump/674255/
 slug: 2023-06-05-inside-the-meltdown-at-cnn-the-atlantic
 tags:
-  - media
+  - Media
 title: Inside the Meltdown at CNN - The Atlantic
 ---
 

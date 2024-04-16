@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-29-nearly-1-in-3-advertisers-have-banned-their-ads-from-appearing-on-news-alto
 tags:
-  - media
+  - Media
 title: nearly 1 in 3 advertisers have banned their ads from appearing on news alto
 ---
 

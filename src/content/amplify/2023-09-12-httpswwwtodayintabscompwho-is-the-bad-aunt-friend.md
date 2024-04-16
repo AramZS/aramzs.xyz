@@ -4,7 +4,7 @@ isBasedOn: 'https://www.todayintabs.com/p/who-is-the-bad-aunt-friend'
 link: 'https://www.todayintabs.com/p/who-is-the-bad-aunt-friend'
 slug: 2023-09-12-httpswwwtodayintabscompwho-is-the-bad-aunt-friend
 tags:
-  - media
+  - Media
 title: 'https://www.todayintabs.com/p/who-is-the-bad-aunt-friend'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-17-httpsmastersofprivacycommattia-fosci-the-publishers-dilemma-in-a-first-party-data-world
 tags:
-  - media
+  - Media
   - Privacy
 title: >-
   https://mastersofprivacy.com/mattia-fosci-the-publishers-dilemma-in-a-first-party-data-world/

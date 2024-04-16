@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-23-pentagon-explosion-tweet-was-a-hoax-still-it-went-viral-the-washington
 tags:
-  - media
+  - Media
 title: 'Pentagon explosion tweet was a hoax. Still, it went viral. - The Washington'
 ---
 

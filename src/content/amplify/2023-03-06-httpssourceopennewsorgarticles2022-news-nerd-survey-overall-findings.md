@@ -5,7 +5,7 @@ link: 'https://source.opennews.org/articles/2022-news-nerd-survey-overall-findin
 slug: >-
   2023-03-06-httpssourceopennewsorgarticles2022-news-nerd-survey-overall-findings
 tags:
-  - media
+  - Media
 title: 'https://source.opennews.org/articles/2022-news-nerd-survey-overall-findings/'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-12-20-new-washington-post-ceo-accused-of-murdoch-tabloid-hacking-cover-up-npr
 tags:
-  - media
+  - Media
 title: 'New ''Washington Post'' CEO accused of Murdoch tabloid hacking cover-up : NPR'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-11-httpswwwsaloncom20230510geyser-of-disinformation-cnn-gives-town-hall-to-mock-his-victim-spread-denial
 tags:
-  - media
+  - Media
 title: >-
   https://www.salon.com/2023/05/10/geyser-of-disinformation-cnn-gives-town-hall-to-mock-his-victim-spread-denial/
 ---

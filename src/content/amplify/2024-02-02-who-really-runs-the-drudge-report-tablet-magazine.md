@@ -4,7 +4,7 @@ isBasedOn: 'https://www.tabletmag.com/sections/news/articles/matt-drudge-logs-of
 link: 'https://www.tabletmag.com/sections/news/articles/matt-drudge-logs-off'
 slug: 2024-02-02-who-really-runs-the-drudge-report-tablet-magazine
 tags:
-  - media
+  - Media
 title: Who Really Runs The Drudge Report? - Tablet Magazine
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-17-httpswwwwsjcombusinessmediabehind-the-breakup-of-elon-musk-and-don-lemon-8500320e
 tags:
-  - media
+  - Media
 title: >-
   https://www.wsj.com/business/media/behind-the-breakup-of-elon-musk-and-don-lemon-8500320e
 ---

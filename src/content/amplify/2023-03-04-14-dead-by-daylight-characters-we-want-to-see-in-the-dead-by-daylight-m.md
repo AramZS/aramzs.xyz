@@ -9,7 +9,7 @@ slug: >-
 tags:
   - entertainment
   - gaming
-  - media
+  - Media
 title: 14 ‘Dead By Daylight’ Characters We Want to See in the ‘Dead by Daylight’ M
 ---
 

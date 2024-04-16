@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-25-center-for-public-integrity-weighs-merger-or-shutdown-amid-dire-financial-s
 tags:
-  - media
+  - Media
 title: Center for Public Integrity Weighs Merger or Shutdown Amid Dire Financial S
 ---
 

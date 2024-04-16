@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-10-how-much-would-it-take-for-you-to-shill-like-tucker-carlson-mother-jones
 tags:
-  - media
+  - Media
 title: How Much Would It Take For You to Shill Like Tucker Carlson? – Mother Jones
 ---
 

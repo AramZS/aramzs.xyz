@@ -4,7 +4,7 @@ isBasedOn: 'https://www.vanityfair.com/news/2023/08/msnbc-ratings-trump-indictme
 link: 'https://www.vanityfair.com/news/2023/08/msnbc-ratings-trump-indictments'
 slug: 2023-08-29-httpswwwvanityfaircomnews202308msnbc-ratings-trump-indictments
 tags:
-  - media
+  - Media
 title: 'https://www.vanityfair.com/news/2023/08/msnbc-ratings-trump-indictments'
 ---
 

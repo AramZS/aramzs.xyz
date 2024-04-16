@@ -4,7 +4,7 @@ isBasedOn: 'https://www.cnn.com/2023/04/27/media/vice-news-tonight-canceled/inde
 link: 'https://www.cnn.com/2023/04/27/media/vice-news-tonight-canceled/index.html'
 slug: 2023-04-27-httpswwwcnncom20230427mediavice-news-tonight-canceledindexhtml
 tags:
-  - media
+  - Media
 title: 'https://www.cnn.com/2023/04/27/media/vice-news-tonight-canceled/index.html'
 ---
 

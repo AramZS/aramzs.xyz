@@ -5,7 +5,7 @@ link: 'https://www.vox.com/the-highlight/23584874/public-school-funding-supreme-
 slug: >-
   2023-02-22-httpswwwvoxcomthe-highlight23584874public-school-funding-supreme-court
 tags:
-  - media
+  - Media
   - race
 title: 'https://www.vox.com/the-highlight/23584874/public-school-funding-supreme-court'
 ---

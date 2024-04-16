@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-11-amazon-is-about-to-eat-the-tv-universe-the-hollywood-reporter
 tags:
   - ad tech
-  - media
+  - Media
 title: Amazon Is About to Eat the TV Universe – The Hollywood Reporter
 ---
 

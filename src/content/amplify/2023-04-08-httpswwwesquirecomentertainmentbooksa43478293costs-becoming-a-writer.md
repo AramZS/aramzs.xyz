@@ -7,7 +7,7 @@ slug: >-
 tags:
   - class
   - economic inequality
-  - media
+  - Media
 title: 'https://www.esquire.com/entertainment/books/a43478293/costs-becoming-a-writer/'
 ---
 

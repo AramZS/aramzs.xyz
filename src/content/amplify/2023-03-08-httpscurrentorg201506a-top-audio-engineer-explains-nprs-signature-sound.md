@@ -8,7 +8,7 @@ slug: >-
   2023-03-08-httpscurrentorg201506a-top-audio-engineer-explains-nprs-signature-sound
 tags:
   - audio
-  - media
+  - Media
 title: >-
   https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/
 ---

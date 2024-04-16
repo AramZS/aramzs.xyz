@@ -8,7 +8,7 @@ slug: >-
   2023-06-27-shein-influencers-slammed-for-praising-china-factory-conditions-or-the-star
 tags:
   - ad tech
-  - media
+  - Media
 title: Shein influencers slammed for praising China factory conditions | The Star
 ---
 

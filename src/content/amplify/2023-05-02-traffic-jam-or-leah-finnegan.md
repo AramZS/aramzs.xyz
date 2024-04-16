@@ -5,7 +5,7 @@ link: 'https://thebaffler.com/latest/traffic-jam-finnegan'
 slug: 2023-05-02-traffic-jam-or-leah-finnegan
 tags:
   - ad tech
-  - media
+  - Media
 title: Traffic Jam | Leah Finnegan
 ---
 

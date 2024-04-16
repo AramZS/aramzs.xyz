@@ -4,7 +4,7 @@ isBasedOn: 'https://www.buzzfeed.com/buzzfeednews/buzzfeed-news-oral-history-201
 link: 'https://www.buzzfeed.com/buzzfeednews/buzzfeed-news-oral-history-2012-2023'
 slug: 2023-05-11-definitive-oral-history-of-buzzfeed-news-2012-2023
 tags:
-  - media
+  - Media
 title: Definitive Oral History Of BuzzFeed News 2012–2023
 ---
 

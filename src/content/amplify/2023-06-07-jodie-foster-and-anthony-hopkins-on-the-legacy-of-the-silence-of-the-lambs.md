@@ -8,7 +8,7 @@ slug: >-
   2023-06-07-jodie-foster-and-anthony-hopkins-on-the-legacy-of-the-silence-of-the-lambs
 tags:
   - culture
-  - media
+  - Media
 title: Jodie Foster and Anthony Hopkins on the Legacy of ‘The Silence of the Lambs
 ---
 

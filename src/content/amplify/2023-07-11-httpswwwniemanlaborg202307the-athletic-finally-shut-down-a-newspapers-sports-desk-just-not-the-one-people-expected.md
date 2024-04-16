@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-11-httpswwwniemanlaborg202307the-athletic-finally-shut-down-a-newspapers-sports-desk-just-not-the-one-people-expected
 tags:
-  - media
+  - Media
 title: >-
   https://www.niemanlab.org/2023/07/the-athletic-finally-shut-down-a-newspapers-sports-desk-just-not-the-one-people-expected/
 ---

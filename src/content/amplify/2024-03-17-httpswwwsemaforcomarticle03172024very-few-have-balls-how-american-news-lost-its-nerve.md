@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-17-httpswwwsemaforcomarticle03172024very-few-have-balls-how-american-news-lost-its-nerve
 tags:
-  - media
+  - Media
 title: >-
   https://www.semafor.com/article/03/17/2024/very-few-have-balls-how-american-news-lost-its-nerve
 ---

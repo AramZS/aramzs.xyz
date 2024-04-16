@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/this-blog-has-gone-woke'
 link: 'https://defector.com/this-blog-has-gone-woke'
 slug: 2023-06-15-httpsdefectorcomthis-blog-has-gone-woke
 tags:
-  - media
+  - Media
 title: 'https://defector.com/this-blog-has-gone-woke'
 ---
 

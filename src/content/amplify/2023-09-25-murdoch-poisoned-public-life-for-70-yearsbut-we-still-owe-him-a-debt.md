@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-25-murdoch-poisoned-public-life-for-70-yearsbut-we-still-owe-him-a-debt
 tags:
-  - media
+  - Media
 title: Murdoch poisoned public life for 70 years—but we still owe him a debt
 ---
 
