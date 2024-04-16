@@ -1,14 +1,15 @@
 ---
-date: "2023-03-03T16:42:49.000Z"
+date: '2023-03-03T16:42:49.000Z'
 isBasedOn: >-
-    https://techpolicy.press/stopping-bluetooth-location-trackers-from-becoming-people-trackers/
+  https://techpolicy.press/stopping-bluetooth-location-trackers-from-becoming-people-trackers/
 link: >-
-    https://techpolicy.press/stopping-bluetooth-location-trackers-from-becoming-people-trackers/
+  https://techpolicy.press/stopping-bluetooth-location-trackers-from-becoming-people-trackers/
 slug: >-
-    2023-03-03-httpstechpolicypressstopping-bluetooth-location-trackers-from-becoming-people-trackers
+  2023-03-03-httpstechpolicypressstopping-bluetooth-location-trackers-from-becoming-people-trackers
 tags:
-    - Privacy
-    - Tech
+  - Privacy
+  - Tech
 title: >-
-    https://techpolicy.press/stopping-bluetooth-location-trackers-from-becoming-people-trackers/
+  https://techpolicy.press/stopping-bluetooth-location-trackers-from-becoming-people-trackers/
 ---
+
