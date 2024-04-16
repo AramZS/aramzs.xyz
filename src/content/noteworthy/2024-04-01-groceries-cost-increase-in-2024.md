@@ -1,7 +1,7 @@
 ---
 title: "The state of groceries' cost increase in 2024"
 tags: [economy, news, "series:2024 Elections Economics"]
-growthStage: stub
+growthStage: seedling
 series: 2024 Elections Economics
 group: Economics
 cite:
