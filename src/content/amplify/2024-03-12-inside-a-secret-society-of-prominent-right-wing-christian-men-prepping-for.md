@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-12-inside-a-secret-society-of-prominent-right-wing-christian-men-prepping-for
 tags:
-  - politics
+  - Politics
 title: 'Inside A Secret Society Of Prominent Right-Wing Christian Men Prepping For '
 ---
 

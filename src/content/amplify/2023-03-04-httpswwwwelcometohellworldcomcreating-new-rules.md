@@ -4,7 +4,7 @@ isBasedOn: 'https://www.welcometohellworld.com/creating-new-rules/'
 link: 'https://www.welcometohellworld.com/creating-new-rules/'
 slug: 2023-03-04-httpswwwwelcometohellworldcomcreating-new-rules
 tags:
-  - politics
+  - Politics
 title: 'https://www.welcometohellworld.com/creating-new-rules/'
 ---
 

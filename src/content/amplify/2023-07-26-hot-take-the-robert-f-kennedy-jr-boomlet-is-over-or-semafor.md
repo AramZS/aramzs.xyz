@@ -6,7 +6,7 @@ link: >-
   https://www.semafor.com/article/07/20/2023/hot-take-the-robert-f-kennedy-jr-boomlet-is-over
 slug: 2023-07-26-hot-take-the-robert-f-kennedy-jr-boomlet-is-over-or-semafor
 tags:
-  - politics
+  - Politics
 title: 'Hot Take: The Robert F. Kennedy Jr. boomlet is over | Semafor'
 ---
 

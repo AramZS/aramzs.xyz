@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-22-its-embarrassing-republicans-worry-they-have-no-achievements-to-run-on
 tags:
-  - politics
+  - Politics
 title: '‘It’s embarrassing’: Republicans worry they have no achievements to run on '
 ---
 

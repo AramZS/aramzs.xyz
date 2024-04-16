@@ -8,7 +8,7 @@ slug: >-
   2023-10-06-httpswwwnytimescom20231005usbiden-border-wall-waiverhtmlsmtypcurandsmidbsky-nytimes
 tags:
   - immigration
-  - politics
+  - Politics
 title: >-
   https://www.nytimes.com/2023/10/05/us/biden-border-wall-waiver.html?smtyp=cur&smid=bsky-nytimes
 ---

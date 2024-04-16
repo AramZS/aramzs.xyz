@@ -8,7 +8,7 @@ slug: >-
   2024-01-26-border-standoff-between-texas-feds-intensifies-as-governor-defies-supreme
 tags:
   - law and order
-  - politics
+  - Politics
 title: 'Border standoff between Texas, feds intensifies as governor defies Supreme '
 ---
 

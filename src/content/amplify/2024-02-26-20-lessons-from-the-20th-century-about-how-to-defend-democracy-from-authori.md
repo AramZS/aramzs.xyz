@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-26-20-lessons-from-the-20th-century-about-how-to-defend-democracy-from-authori
 tags:
-  - politics
+  - Politics
 title: 20 Lessons from the 20th Century About How to Defend Democracy from Authori
 ---
 

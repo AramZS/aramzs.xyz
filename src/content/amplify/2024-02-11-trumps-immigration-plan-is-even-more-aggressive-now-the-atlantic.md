@@ -6,7 +6,7 @@ link: >-
   https://www.theatlantic.com/politics/archive/2024/02/trumps-immigration-plan-is-even-more-aggressive-now/677385/
 slug: 2024-02-11-trumps-immigration-plan-is-even-more-aggressive-now-the-atlantic
 tags:
-  - politics
+  - Politics
 title: Trump’s Immigration Plan Is Even More Aggressive Now - The Atlantic
 ---
 

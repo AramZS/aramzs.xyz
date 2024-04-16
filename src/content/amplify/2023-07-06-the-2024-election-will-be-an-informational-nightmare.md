@@ -7,7 +7,7 @@ link: >-
 slug: 2023-07-06-the-2024-election-will-be-an-informational-nightmare
 tags:
   - Media
-  - politics
+  - Politics
 title: The 2024 Election Will Be an Informational Nightmare
 ---
 

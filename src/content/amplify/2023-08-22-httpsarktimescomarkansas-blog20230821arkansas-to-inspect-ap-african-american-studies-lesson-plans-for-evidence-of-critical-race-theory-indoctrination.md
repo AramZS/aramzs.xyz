@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-22-httpsarktimescomarkansas-blog20230821arkansas-to-inspect-ap-african-american-studies-lesson-plans-for-evidence-of-critical-race-theory-indoctrination
 tags:
-  - politics
+  - Politics
   - race
 title: >-
   https://arktimes.com/arkansas-blog/2023/08/21/arkansas-to-inspect-ap-african-american-studies-lesson-plans-for-evidence-of-critical-race-theory-indoctrination

@@ -4,7 +4,7 @@ isBasedOn: "https://www.anildash.com/2023/02/27/tycoon-martyrdom-charade/"
 link: "https://www.anildash.com/2023/02/27/tycoon-martyrdom-charade/"
 slug: 2023-07-05-httpswwwanildashcom20230227tycoon-martyrdom-charade
 tags:
-    - politics
+    - Politics
     - Tech
 title: "https://www.anildash.com/2023/02/27/tycoon-martyrdom-charade/"
 ---

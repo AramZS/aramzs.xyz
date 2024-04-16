@@ -4,7 +4,7 @@ isBasedOn: 'https://thebaffler.com/latest/keystone-race-hogan'
 link: 'https://thebaffler.com/latest/keystone-race-hogan'
 slug: 2023-05-11-keystone-race-or-dennis-hogan
 tags:
-  - politics
+  - Politics
 title: Keystone Race | Dennis Hogan
 ---
 

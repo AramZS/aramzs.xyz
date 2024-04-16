@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-06-amid-polarization-minority-party-lawmakers-face-penalties-or-ap-news
 tags:
-  - politics
+  - Politics
 title: 'Amid polarization, minority party lawmakers face penalties | AP News'
 ---
 

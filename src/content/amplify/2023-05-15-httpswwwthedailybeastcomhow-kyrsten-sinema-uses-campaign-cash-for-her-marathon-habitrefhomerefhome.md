@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-15-httpswwwthedailybeastcomhow-kyrsten-sinema-uses-campaign-cash-for-her-marathon-habitrefhomerefhome
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.thedailybeast.com/how-kyrsten-sinema-uses-campaign-cash-for-her-marathon-habit?ref=home?ref=home
 ---

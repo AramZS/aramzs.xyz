@@ -4,7 +4,7 @@ isBasedOn: 'https://www.publicnotice.co/p/white-maga-rural-rage-how-to-counter-i
 link: 'https://www.publicnotice.co/p/white-maga-rural-rage-how-to-counter-it'
 slug: 2024-04-02-manufacturing-discontent
 tags:
-  - politics
+  - Politics
 title: Manufacturing discontent
 ---
 

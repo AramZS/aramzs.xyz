@@ -4,7 +4,7 @@ isBasedOn: 'https://www.slowboring.com/p/public-pools-need-an-abundance-agenda'
 link: 'https://www.slowboring.com/p/public-pools-need-an-abundance-agenda'
 slug: 2023-08-22-httpswwwslowboringcomppublic-pools-need-an-abundance-agenda
 tags:
-  - politics
+  - Politics
 title: 'https://www.slowboring.com/p/public-pools-need-an-abundance-agenda'
 ---
 

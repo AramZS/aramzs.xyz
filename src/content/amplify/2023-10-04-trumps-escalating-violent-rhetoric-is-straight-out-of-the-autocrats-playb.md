@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-04-trumps-escalating-violent-rhetoric-is-straight-out-of-the-autocrats-playb
 tags:
-  - politics
+  - Politics
 title: Trump’s escalating violent rhetoric is straight out of the autocrat’s playb
 ---
 

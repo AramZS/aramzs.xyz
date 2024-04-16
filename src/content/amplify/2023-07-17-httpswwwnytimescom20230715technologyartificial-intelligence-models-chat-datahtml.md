@@ -9,7 +9,7 @@ slug: >-
 tags:
     - ai
     - labor
-    - politics
+    - Politics
     - Tech
 title: >-
     https://www.nytimes.com/2023/07/15/technology/artificial-intelligence-models-chat-data.html

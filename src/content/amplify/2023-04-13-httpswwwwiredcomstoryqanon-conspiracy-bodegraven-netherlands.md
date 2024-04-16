@@ -4,7 +4,7 @@ isBasedOn: 'https://www.wired.com/story/qanon-conspiracy-bodegraven-netherlands/
 link: 'https://www.wired.com/story/qanon-conspiracy-bodegraven-netherlands/'
 slug: 2023-04-13-httpswwwwiredcomstoryqanon-conspiracy-bodegraven-netherlands
 tags:
-  - politics
+  - Politics
 title: 'https://www.wired.com/story/qanon-conspiracy-bodegraven-netherlands/'
 ---
 

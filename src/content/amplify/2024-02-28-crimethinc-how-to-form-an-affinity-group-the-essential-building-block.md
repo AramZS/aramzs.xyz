@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-28-crimethinc-how-to-form-an-affinity-group-the-essential-building-block
 tags:
-  - politics
+  - Politics
 title: 'CrimethInc. : How to Form an Affinity Group : The Essential Building Block '
 ---
 

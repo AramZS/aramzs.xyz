@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-07-nctc-director-used-hamas-to-justify-renewing-mass-surveillance-program
 tags:
-  - politics
+  - Politics
 title: NCTC Director Used Hamas to Justify Renewing Mass Surveillance Program
 ---
 

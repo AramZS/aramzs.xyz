@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-11-httpswwwsaloncom20230711women-learn-the-hard-way-complicity-will-not-protect-you
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.salon.com/2023/07/11/women-learn-the-hard-way-complicity-will-not-protect-you/
 ---

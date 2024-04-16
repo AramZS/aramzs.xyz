@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-08-michael-benz-a-conservative-crusader-against-online-censorship-appears-to
 tags:
-  - politics
+  - Politics
 title: 'Michael Benz, a conservative crusader against online censorship, appears to'
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-08-22-httpstechcrunchcom20230822mrbeast-olympics-every-country-youtube-geopolitical-nightmare
 tags:
   - Media
-  - politics
+  - Politics
 title: >-
   https://techcrunch.com/2023/08/22/mrbeast-olympics-every-country-youtube-geopolitical-nightmare/
 ---

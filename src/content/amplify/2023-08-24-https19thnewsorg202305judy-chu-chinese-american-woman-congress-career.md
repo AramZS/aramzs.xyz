@@ -5,7 +5,7 @@ link: 'https://19thnews.org/2023/05/judy-chu-chinese-american-woman-congress-car
 slug: >-
   2023-08-24-https19thnewsorg202305judy-chu-chinese-american-woman-congress-career
 tags:
-  - politics
+  - Politics
 title: 'https://19thnews.org/2023/05/judy-chu-chinese-american-woman-congress-career/'
 ---
 

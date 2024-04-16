@@ -7,7 +7,7 @@ link: >-
 slug: 2024-03-17-the-battle-over-california-squatters-rights-in-beverly-hills
 tags:
   - economic inequality
-  - politics
+  - Politics
   - real estate
 title: The Battle Over California Squatters Rights in Beverly Hills
 ---

@@ -8,7 +8,7 @@ slug: >-
   2023-09-11-why-its-impossible-to-build-an-unbiased-ai-language-model-or-mit-technology
 tags:
   - ai
-  - politics
+  - Politics
   - race
   - Tech
 title: Why it’s impossible to build an unbiased AI language model | MIT Technology

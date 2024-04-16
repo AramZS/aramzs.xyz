@@ -5,7 +5,7 @@ link: 'https://www.dissentmagazine.org/online_articles/toward-a-humane-left/'
 slug: 2023-10-12-toward-a-humane-left-dissent-magazine
 tags:
   - jewish
-  - politics
+  - Politics
 title: Toward a Humane Left - Dissent Magazine
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://www.hamiltonnolan.com/p/the-real-immigration-problem-is-capi
 link: 'https://www.hamiltonnolan.com/p/the-real-immigration-problem-is-capital'
 slug: 2024-02-11-the-real-immigration-problem-is-capital-not-labor
 tags:
-  - politics
+  - Politics
 title: 'The Real Immigration Problem Is Capital, Not Labor'
 ---
 

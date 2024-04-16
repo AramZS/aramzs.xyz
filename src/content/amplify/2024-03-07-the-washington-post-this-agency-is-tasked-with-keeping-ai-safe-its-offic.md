@@ -8,7 +8,7 @@ slug: >-
   2024-03-07-the-washington-post-this-agency-is-tasked-with-keeping-ai-safe-its-offic
 tags:
   - ai
-  - politics
+  - Politics
   - Tech
 title: '[The Washington Post] This agency is tasked with keeping AI safe. Its offic'
 ---

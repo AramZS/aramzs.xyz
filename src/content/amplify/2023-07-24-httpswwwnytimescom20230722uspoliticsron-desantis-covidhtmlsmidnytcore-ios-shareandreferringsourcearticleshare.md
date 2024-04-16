@@ -8,7 +8,7 @@ slug: >-
   2023-07-24-httpswwwnytimescom20230722uspoliticsron-desantis-covidhtmlsmidnytcore-ios-shareandreferringsourcearticleshare
 tags:
   - health
-  - politics
+  - Politics
 title: >-
   https://www.nytimes.com/2023/07/22/us/politics/ron-desantis-covid.html?smid=nytcore-ios-share&referringSource=articleShare
 ---

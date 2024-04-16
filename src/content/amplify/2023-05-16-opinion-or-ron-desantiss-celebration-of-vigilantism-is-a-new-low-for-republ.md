@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-16-opinion-or-ron-desantiss-celebration-of-vigilantism-is-a-new-low-for-republ
 tags:
-  - politics
+  - Politics
 title: Opinion | Ron DeSantis’s celebration of vigilantism is a new low for Republ
 ---
 

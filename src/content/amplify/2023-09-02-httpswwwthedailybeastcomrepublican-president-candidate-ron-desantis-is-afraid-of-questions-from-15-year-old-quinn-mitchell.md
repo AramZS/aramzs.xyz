@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-02-httpswwwthedailybeastcomrepublican-president-candidate-ron-desantis-is-afraid-of-questions-from-15-year-old-quinn-mitchell
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.thedailybeast.com/republican-president-candidate-ron-desantis-is-afraid-of-questions-from-15-year-old-quinn-mitchell
 ---

@@ -5,7 +5,7 @@ link: 'https://www.wired.com/story/meta-prageru-advertising/'
 slug: 2023-09-02-httpswwwwiredcomstorymeta-prageru-advertising
 tags:
   - ad tech
-  - politics
+  - Politics
   - social media
 title: 'https://www.wired.com/story/meta-prageru-advertising/'
 ---

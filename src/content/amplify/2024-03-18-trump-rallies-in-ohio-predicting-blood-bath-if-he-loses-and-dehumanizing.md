@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2024/03/16/us/politics/trump-speech-ohio.html'
 slug: >-
   2024-03-18-trump-rallies-in-ohio-predicting-blood-bath-if-he-loses-and-dehumanizing
 tags:
-  - politics
+  - Politics
 title: 'Trump Rallies in Ohio, Predicting ‘Blood Bath’ if He Loses and Dehumanizing'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-04-httpswwwpropublicaorgarticleclarence-thomas-harlan-crow-private-school-tuition-scotus
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.propublica.org/article/clarence-thomas-harlan-crow-private-school-tuition-scotus
 ---

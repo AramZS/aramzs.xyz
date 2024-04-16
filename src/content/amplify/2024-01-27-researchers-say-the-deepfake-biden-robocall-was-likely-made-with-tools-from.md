@@ -6,7 +6,7 @@ slug: >-
   2024-01-27-researchers-say-the-deepfake-biden-robocall-was-likely-made-with-tools-from
 tags:
   - ai
-  - politics
+  - Politics
 title: Researchers Say the Deepfake Biden Robocall Was Likely Made With Tools From
 ---
 

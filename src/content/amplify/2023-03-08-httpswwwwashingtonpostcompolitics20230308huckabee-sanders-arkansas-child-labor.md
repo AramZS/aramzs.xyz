@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-08-httpswwwwashingtonpostcompolitics20230308huckabee-sanders-arkansas-child-labor
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.washingtonpost.com/politics/2023/03/08/huckabee-sanders-arkansas-child-labor/
 ---

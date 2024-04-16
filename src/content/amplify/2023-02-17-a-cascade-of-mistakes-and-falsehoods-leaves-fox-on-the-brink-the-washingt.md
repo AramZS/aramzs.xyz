@@ -6,7 +6,7 @@ slug: >-
   2023-02-17-a-cascade-of-mistakes-and-falsehoods-leaves-fox-on-the-brink-the-washingt
 tags:
   - Media
-  - politics
+  - Politics
 title: A cascade of mistakes and falsehoods leaves Fox on the brink - The Washingt
 ---
 

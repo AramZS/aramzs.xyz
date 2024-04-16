@@ -7,7 +7,7 @@ link: >-
 slug: 2023-12-01-1-in-8-us-households-struggle-with-food-insecurity-usda
 tags:
   - health
-  - politics
+  - Politics
   - usa
 title: '1 in 8 U.S. households struggle with food insecurity: USDA'
 ---

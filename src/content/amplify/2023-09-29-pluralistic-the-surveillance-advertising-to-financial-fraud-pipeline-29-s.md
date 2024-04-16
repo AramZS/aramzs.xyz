@@ -6,7 +6,7 @@ slug: >-
   2023-09-29-pluralistic-the-surveillance-advertising-to-financial-fraud-pipeline-29-s
 tags:
   - ad tech
-  - politics
+  - Politics
 title: 'Pluralistic: The surveillance advertising to financial fraud pipeline (29 S'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-30-billionaires-are-out-of-touch-and-much-too-powerful-the-planet-is-in-troub
 tags:
-  - politics
+  - Politics
 title: Billionaires are out of touch and much too powerful. The planet is in troub
 ---
 

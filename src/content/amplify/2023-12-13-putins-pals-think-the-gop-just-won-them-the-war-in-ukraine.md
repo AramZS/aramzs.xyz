@@ -6,7 +6,7 @@ link: >-
   https://www.thedailybeast.com/putins-pals-think-the-gop-just-won-them-the-war-in-ukraine
 slug: 2023-12-13-putins-pals-think-the-gop-just-won-them-the-war-in-ukraine
 tags:
-  - politics
+  - Politics
 title: Putin’s Pals Think the GOP Just Won Them the War in Ukraine
 ---
 

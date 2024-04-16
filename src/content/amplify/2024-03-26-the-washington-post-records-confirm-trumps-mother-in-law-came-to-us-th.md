@@ -8,7 +8,7 @@ slug: >-
   2024-03-26-the-washington-post-records-confirm-trumps-mother-in-law-came-to-us-th
 tags:
   - immigration
-  - politics
+  - Politics
 title: '[The Washington Post] Records confirm Trump’s mother-in-law came to U.S. th'
 ---
 

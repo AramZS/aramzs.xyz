@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-26-nazis-mingle-openly-at-cpac-spreading-antisemitic-conspiracy-theories-and
 tags:
-  - politics
+  - Politics
 title: 'Nazis mingle openly at CPAC, spreading antisemitic conspiracy theories and '
 ---
 

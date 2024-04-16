@@ -8,7 +8,7 @@ slug: >-
   2023-03-04-httpsjezebelcomconservative-pundit-calls-for-trans-people-to-be-eradic-1850188639
 tags:
   - lgbtq+
-  - politics
+  - Politics
 title: >-
   https://jezebel.com/conservative-pundit-calls-for-trans-people-to-be-eradic-1850188639
 ---

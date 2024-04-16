@@ -5,7 +5,7 @@ link: 'https://newrepublic.com/article/173403/rights-campus-culture-war-machine'
 slug: 2023-06-29-httpsnewrepubliccomarticle173403rights-campus-culture-war-machine
 tags:
   - Media
-  - politics
+  - Politics
 title: 'https://newrepublic.com/article/173403/rights-campus-culture-war-machine'
 ---
 

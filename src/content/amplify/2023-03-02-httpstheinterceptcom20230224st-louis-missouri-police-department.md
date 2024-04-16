@@ -4,7 +4,7 @@ isBasedOn: 'https://theintercept.com/2023/02/24/st-louis-missouri-police-departm
 link: 'https://theintercept.com/2023/02/24/st-louis-missouri-police-department/'
 slug: 2023-03-02-httpstheinterceptcom20230224st-louis-missouri-police-department
 tags:
-  - politics
+  - Politics
 title: 'https://theintercept.com/2023/02/24/st-louis-missouri-police-department/'
 ---
 

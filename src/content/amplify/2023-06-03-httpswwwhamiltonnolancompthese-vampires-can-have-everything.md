@@ -4,7 +4,7 @@ isBasedOn: 'https://www.hamiltonnolan.com/p/these-vampires-can-have-everything'
 link: 'https://www.hamiltonnolan.com/p/these-vampires-can-have-everything'
 slug: 2023-06-03-httpswwwhamiltonnolancompthese-vampires-can-have-everything
 tags:
-  - politics
+  - Politics
 title: 'https://www.hamiltonnolan.com/p/these-vampires-can-have-everything'
 ---
 

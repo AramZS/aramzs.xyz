@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-23-httpswwwinquirercomopinioncommentarytexas-troops-abbott-rio-grande-abuses-20230723html
 tags:
-  - politics
+  - Politics
   - the south
 title: >-
   https://www.inquirer.com/opinion/commentary/texas-troops-abbott-rio-grande-abuses-20230723.html

@@ -5,7 +5,7 @@ link: 'https://l.smartnews.com/j8hzh/ZRSZKm'
 slug: 2023-03-02-httpslsmartnewscomj8hzhzrszkm
 tags:
   - florida
-  - politics
+  - Politics
 title: 'https://l.smartnews.com/j8hzh/ZRSZKm'
 ---
 

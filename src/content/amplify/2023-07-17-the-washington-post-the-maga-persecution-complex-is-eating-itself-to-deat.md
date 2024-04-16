@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-17-the-washington-post-the-maga-persecution-complex-is-eating-itself-to-deat
 tags:
-  - politics
+  - Politics
 title: '[The Washington Post] The MAGA persecution complex is eating itself to deat'
 ---
 

@@ -6,7 +6,7 @@ slug: 2023-08-23-httpsslatecomtechnology202308crypto-sex-work-banking-accesshtml
 tags:
   - crypto currency
   - economy
-  - politics
+  - Politics
 title: 'https://slate.com/technology/2023/08/crypto-sex-work-banking-access.html'
 ---
 

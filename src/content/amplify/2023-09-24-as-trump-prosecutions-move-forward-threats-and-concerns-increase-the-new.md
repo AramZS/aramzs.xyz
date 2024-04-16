@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-24-as-trump-prosecutions-move-forward-threats-and-concerns-increase-the-new
 tags:
-  - politics
+  - Politics
 title: 'As Trump Prosecutions Move Forward, Threats and Concerns Increase - The New'
 ---
 

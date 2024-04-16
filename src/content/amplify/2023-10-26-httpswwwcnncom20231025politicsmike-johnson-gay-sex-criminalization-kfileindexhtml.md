@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-26-httpswwwcnncom20231025politicsmike-johnson-gay-sex-criminalization-kfileindexhtml
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.cnn.com/2023/10/25/politics/mike-johnson-gay-sex-criminalization-kfile/index.html
 ---

@@ -7,7 +7,7 @@ slug: >-
 tags:
   - men
   - Music
-  - politics
+  - Politics
 title: GOP dudes are big mad at Taylor Swift for reminding them that the ladies do
 ---
 

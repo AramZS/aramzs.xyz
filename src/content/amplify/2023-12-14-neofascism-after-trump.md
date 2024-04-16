@@ -4,7 +4,7 @@ isBasedOn: 'https://jewishcurrents.org/neofascism-after-trump'
 link: 'https://jewishcurrents.org/neofascism-after-trump'
 slug: 2023-12-14-neofascism-after-trump
 tags:
-  - politics
+  - Politics
 title: Neofascism After Trump
 ---
 

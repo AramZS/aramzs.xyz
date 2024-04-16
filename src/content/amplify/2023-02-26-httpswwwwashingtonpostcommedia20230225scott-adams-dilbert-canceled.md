@@ -5,7 +5,7 @@ link: 'https://www.washingtonpost.com/media/2023/02/25/scott-adams-dilbert-cance
 slug: 2023-02-26-httpswwwwashingtonpostcommedia20230225scott-adams-dilbert-canceled
 tags:
   - Media
-  - politics
+  - Politics
 title: 'https://www.washingtonpost.com/media/2023/02/25/scott-adams-dilbert-canceled/'
 ---
 

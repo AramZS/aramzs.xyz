@@ -8,7 +8,7 @@ slug: >-
   2023-09-28-local-labs-paid-by-a-gop-group-requests-voter-data-claiming-its-for-pol
 tags:
   - journalism
-  - politics
+  - Politics
 title: 'Local Labs, paid by a GOP group, requests voter data, claiming it’s for pol'
 ---
 

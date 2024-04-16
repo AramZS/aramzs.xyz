@@ -9,7 +9,7 @@ slug: >-
 tags:
   - Media
   - misinformation
-  - politics
+  - Politics
 title: How right-wing news powers the ‘gold IRA’ industry - The Washington Post
 ---
 

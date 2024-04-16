@@ -5,7 +5,7 @@ link: 'https://www.fastcompany.com/91056733/murthy-v-missouri-supreme-court-jawb
 slug: >-
   2024-03-13-supreme-court-to-decide-if-government-can-tell-big-tech-to-police-thei
 tags:
-  - politics
+  - Politics
   - social media
 title: Supreme Court to decide if government can tell Big Tech to police thei
 ---

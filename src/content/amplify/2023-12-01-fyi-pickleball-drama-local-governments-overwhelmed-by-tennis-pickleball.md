@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-12-01-fyi-pickleball-drama-local-governments-overwhelmed-by-tennis-pickleball
 tags:
-  - politics
+  - Politics
   - sports
 title: '''FYI Pickleball DRAMA'': Local Governments Overwhelmed By Tennis-Pickleball '
 ---

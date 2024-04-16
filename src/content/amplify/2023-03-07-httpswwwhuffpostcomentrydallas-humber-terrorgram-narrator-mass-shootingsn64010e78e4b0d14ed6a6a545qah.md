@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-07-httpswwwhuffpostcomentrydallas-humber-terrorgram-narrator-mass-shootingsn64010e78e4b0d14ed6a6a545qah
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.huffpost.com/entry/dallas-humber-terrorgram-narrator-mass-shootings_n_64010e78e4b0d14ed6a6a545?qah
 ---

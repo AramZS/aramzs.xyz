@@ -8,7 +8,7 @@ slug: >-
   2023-12-13-special-counsel-jack-smith-made-a-gutsy-momentous-decision-in-his-prosecut
 tags:
   - law and order
-  - politics
+  - Politics
 title: 'Special counsel Jack Smith made a gutsy, momentous decision in his prosecut'
 ---
 

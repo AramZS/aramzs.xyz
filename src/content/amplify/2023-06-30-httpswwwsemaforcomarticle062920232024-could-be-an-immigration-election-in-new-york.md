@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-30-httpswwwsemaforcomarticle062920232024-could-be-an-immigration-election-in-new-york
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.semafor.com/article/06/29/2023/2024-could-be-an-immigration-election-in-new-york
 ---

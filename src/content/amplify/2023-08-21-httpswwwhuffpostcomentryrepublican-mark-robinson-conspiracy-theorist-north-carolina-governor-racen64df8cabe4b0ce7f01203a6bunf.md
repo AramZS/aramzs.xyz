@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-21-httpswwwhuffpostcomentryrepublican-mark-robinson-conspiracy-theorist-north-carolina-governor-racen64df8cabe4b0ce7f01203a6bunf
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.huffpost.com/entry/republican-mark-robinson-conspiracy-theorist-north-carolina-governor-race_n_64df8cabe4b0ce7f01203a6b?unf
 ---

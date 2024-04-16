@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-10-httpswwwwashingtonpostcomnation20220417public-libraries-books-censorship
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.washingtonpost.com/nation/2022/04/17/public-libraries-books-censorship/
 ---

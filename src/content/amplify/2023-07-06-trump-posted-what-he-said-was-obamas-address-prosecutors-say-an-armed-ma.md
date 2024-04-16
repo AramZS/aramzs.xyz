@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-06-trump-posted-what-he-said-was-obamas-address-prosecutors-say-an-armed-ma
 tags:
-  - politics
+  - Politics
 title: 'Trump posted what he said was Obama''s address, prosecutors say. An armed ma'
 ---
 

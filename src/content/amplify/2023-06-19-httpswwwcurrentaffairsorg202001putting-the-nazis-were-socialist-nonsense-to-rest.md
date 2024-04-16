@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-19-httpswwwcurrentaffairsorg202001putting-the-nazis-were-socialist-nonsense-to-rest
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.currentaffairs.org/2020/01/putting-the-nazis-were-socialist-nonsense-to-rest/
 ---

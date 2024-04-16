@@ -8,7 +8,7 @@ slug: >-
   2023-08-31-httpswwwvoxcommoney23851108bud-light-target-boycott-success-trans-issues-woke-capitalism
 tags:
   - business
-  - politics
+  - Politics
 title: >-
   https://www.vox.com/money/23851108/bud-light-target-boycott-success-trans-issues-woke-capitalism
 ---

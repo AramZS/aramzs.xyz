@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-22-httpswwwnbcnewscomnewsus-newsflorida-may-ban-elementary-school-students-learning-periods-class-rcna75911
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.nbcnews.com/news/us-news/florida-may-ban-elementary-school-students-learning-periods-class-rcna75911
 ---

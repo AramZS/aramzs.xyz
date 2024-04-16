@@ -8,7 +8,7 @@ slug: >-
   2024-04-03-why-the-federal-government-is-paying-upfront-to-fix-the-baltimore-bridge
 tags:
   - infrastructure
-  - politics
+  - Politics
 title: 'Why the federal government is paying upfront to fix the Baltimore bridge - '
 ---
 

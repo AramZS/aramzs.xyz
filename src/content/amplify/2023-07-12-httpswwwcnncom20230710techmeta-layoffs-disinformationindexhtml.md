@@ -4,7 +4,7 @@ isBasedOn: 'https://www.cnn.com/2023/07/10/tech/meta-layoffs-disinformation/inde
 link: 'https://www.cnn.com/2023/07/10/tech/meta-layoffs-disinformation/index.html'
 slug: 2023-07-12-httpswwwcnncom20230710techmeta-layoffs-disinformationindexhtml
 tags:
-  - politics
+  - Politics
   - social media
 title: 'https://www.cnn.com/2023/07/10/tech/meta-layoffs-disinformation/index.html'
 ---

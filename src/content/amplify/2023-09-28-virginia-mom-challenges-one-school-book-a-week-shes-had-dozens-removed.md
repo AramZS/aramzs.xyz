@@ -9,7 +9,7 @@ slug: >-
 tags:
   - education
   - lgbtq+
-  - politics
+  - Politics
 title: Virginia mom challenges one school book a week. She’s had dozens removed. -
 ---
 

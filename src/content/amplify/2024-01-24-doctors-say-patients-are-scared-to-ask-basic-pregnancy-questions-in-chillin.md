@@ -8,7 +8,7 @@ slug: >-
   2024-01-24-doctors-say-patients-are-scared-to-ask-basic-pregnancy-questions-in-chillin
 tags:
   - abortion
-  - politics
+  - Politics
   - women
 title: Doctors Say Patients Are Scared to Ask Basic Pregnancy Questions in Chillin
 ---

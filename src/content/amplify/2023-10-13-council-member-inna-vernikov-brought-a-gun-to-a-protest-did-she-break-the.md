@@ -8,7 +8,7 @@ slug: >-
   2023-10-13-council-member-inna-vernikov-brought-a-gun-to-a-protest-did-she-break-the
 tags:
   - nyc
-  - politics
+  - Politics
 title: 'Council Member Inna Vernikov brought a gun to a protest. Did she break the '
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-03-opinion-or-heres-how-an-open-democratic-convention-would-work-the-new-yor
 tags:
-  - politics
+  - Politics
 title: Opinion | Here’s How an Open Democratic Convention Would Work - The New Yor
 ---
 

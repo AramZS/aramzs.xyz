@@ -8,7 +8,7 @@ slug: >-
   2023-11-27-some-republicans-were-willing-to-compromise-on-abortion-ban-exceptions-act
 tags:
   - abortion
-  - politics
+  - Politics
 title: Some Republicans Were Willing to Compromise on Abortion Ban Exceptions. Act
 ---
 

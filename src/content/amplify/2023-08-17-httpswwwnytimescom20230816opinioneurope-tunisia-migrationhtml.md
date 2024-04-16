@@ -6,7 +6,7 @@ slug: 2023-08-17-httpswwwnytimescom20230816opinioneurope-tunisia-migrationhtml
 tags:
   - eu
   - immigration
-  - politics
+  - Politics
 title: 'https://www.nytimes.com/2023/08/16/opinion/europe-tunisia-migration.html'
 ---
 

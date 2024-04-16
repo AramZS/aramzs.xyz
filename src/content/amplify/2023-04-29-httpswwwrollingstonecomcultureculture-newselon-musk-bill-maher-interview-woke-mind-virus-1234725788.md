@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-29-httpswwwrollingstonecomcultureculture-newselon-musk-bill-maher-interview-woke-mind-virus-1234725788
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.rollingstone.com/culture/culture-news/elon-musk-bill-maher-interview-woke-mind-virus-1234725788/
 ---

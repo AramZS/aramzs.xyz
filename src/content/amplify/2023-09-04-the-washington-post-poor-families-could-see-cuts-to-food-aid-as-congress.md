@@ -8,7 +8,7 @@ slug: >-
   2023-09-04-the-washington-post-poor-families-could-see-cuts-to-food-aid-as-congress
 tags:
   - economic inequality
-  - politics
+  - Politics
 title: '[The Washington Post] Poor families could see cuts to food aid as Congress '
 ---
 

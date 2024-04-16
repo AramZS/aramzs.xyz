@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-26-justice-thomass-rv-loan-was-forgiven-senate-inquiry-finds-the-new-yor
 tags:
-  - politics
+  - Politics
 title: 'Justice Thomas’s R.V. Loan Was Forgiven, Senate Inquiry Finds - The New Yor'
 ---
 

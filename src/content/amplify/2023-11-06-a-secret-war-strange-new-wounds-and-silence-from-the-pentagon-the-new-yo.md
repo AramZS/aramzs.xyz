@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-06-a-secret-war-strange-new-wounds-and-silence-from-the-pentagon-the-new-yo
 tags:
-  - politics
+  - Politics
 title: 'A Secret War, Strange New Wounds and Silence From the Pentagon - The New Yo'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: 2023-11-09-elon-musks-grok-ai-bot-is-anti-woke-what-does-that-mean
 tags:
     - ai
-    - politics
+    - Politics
     - Tech
 title: Elon Musk’s Grok AI Bot Is ‘Anti-Woke.’ What Does That Mean?
 ---

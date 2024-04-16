@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-21-the-washington-post-white-house-is-torn-over-joe-manchins-fury-at-climat
 tags:
-  - politics
+  - Politics
 title: '[The Washington Post] White House is torn over Joe Manchin’s fury at climat'
 ---
 

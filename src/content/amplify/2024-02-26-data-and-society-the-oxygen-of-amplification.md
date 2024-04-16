@@ -4,7 +4,7 @@ isBasedOn: 'https://datasociety.net/library/oxygen-of-amplification/'
 link: 'https://datasociety.net/library/oxygen-of-amplification/'
 slug: 2024-02-26-data-and-society-the-oxygen-of-amplification
 tags:
-  - politics
+  - Politics
   - social media
 title: Data & Society — The Oxygen of Amplification
 ---

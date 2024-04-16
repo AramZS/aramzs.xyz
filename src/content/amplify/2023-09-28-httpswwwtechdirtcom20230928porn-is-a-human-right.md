@@ -4,7 +4,7 @@ isBasedOn: 'https://www.techdirt.com/2023/09/28/porn-is-a-human-right/'
 link: 'https://www.techdirt.com/2023/09/28/porn-is-a-human-right/'
 slug: 2023-09-28-httpswwwtechdirtcom20230928porn-is-a-human-right
 tags:
-  - politics
+  - Politics
 title: 'https://www.techdirt.com/2023/09/28/porn-is-a-human-right/'
 ---
 

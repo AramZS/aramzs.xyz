@@ -4,7 +4,7 @@ isBasedOn: 'https://nymag.com/intelligencer/article/joe-biden-tiktok-troubles.ht
 link: 'https://nymag.com/intelligencer/article/joe-biden-tiktok-troubles.html'
 slug: 2024-02-15-joe-bidens-tiktok-troubles
 tags:
-  - politics
+  - Politics
   - social media
 title: Joe Biden’s TikTok Troubles
 ---

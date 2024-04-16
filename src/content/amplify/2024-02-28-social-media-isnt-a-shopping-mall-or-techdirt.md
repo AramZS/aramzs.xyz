@@ -4,7 +4,7 @@ isBasedOn: 'https://www.techdirt.com/2024/02/22/social-media-isnt-a-shopping-mal
 link: 'https://www.techdirt.com/2024/02/22/social-media-isnt-a-shopping-mall/'
 slug: 2024-02-28-social-media-isnt-a-shopping-mall-or-techdirt
 tags:
-  - politics
+  - Politics
   - social media
 title: Social Media Isn’t A Shopping Mall | Techdirt
 ---

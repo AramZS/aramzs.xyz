@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-03-httpswwwthedailybeastcomemails-reveal-jaw-dropping-herschel-walker-money-scandalrefwrap
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.thedailybeast.com/emails-reveal-jaw-dropping-herschel-walker-money-scandal?ref=wrap
 ---

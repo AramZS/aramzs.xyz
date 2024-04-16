@@ -8,7 +8,7 @@ slug: >-
   2023-07-09-httpswwwnytimescom20230709usclarence-thomas-horatio-alger-associationhtml
 tags:
   - law and order
-  - politics
+  - Politics
 title: >-
   https://www.nytimes.com/2023/07/09/us/clarence-thomas-horatio-alger-association.html
 ---

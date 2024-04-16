@@ -5,7 +5,7 @@ link: 'https://19thnews.org/2023/08/lgbtq-issues-curriculum-bans-schools-survey/
 slug: 2023-08-18-https19thnewsorg202308lgbtq-issues-curriculum-bans-schools-survey
 tags:
   - lgbtq+
-  - politics
+  - Politics
 title: 'https://19thnews.org/2023/08/lgbtq-issues-curriculum-bans-schools-survey/'
 ---
 

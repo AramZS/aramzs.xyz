@@ -5,7 +5,7 @@ link: 'https://boltsmag.org/georgia-utility-commission-canceled-elections/'
 slug: 2023-07-10-httpsboltsmagorggeorgia-utility-commission-canceled-elections
 tags:
   - georgia
-  - politics
+  - Politics
 title: 'https://boltsmag.org/georgia-utility-commission-canceled-elections/'
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-10-02-white-nationalist-active-clubs-are-who-proud-boys-wanted-to-be-rollin
 tags:
   - alt-right
-  - politics
+  - Politics
 title: White Nationalist ‘Active Clubs’ Are Who ‘Proud Boys Wanted to Be’ – Rollin
 ---
 

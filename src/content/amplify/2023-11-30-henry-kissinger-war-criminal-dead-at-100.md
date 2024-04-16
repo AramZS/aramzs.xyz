@@ -7,7 +7,7 @@ link: >-
 slug: 2023-11-30-henry-kissinger-war-criminal-dead-at-100
 tags:
   - History
-  - politics
+  - Politics
 title: 'Henry Kissinger, War Criminal, Dead at 100'
 ---
 

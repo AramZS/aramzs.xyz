@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2023/03/27/us/politics/chicago-mayor-race.html'
 slug: 2023-03-28-httpswwwnytimescom20230327uspoliticschicago-mayor-racehtml
 tags:
   - chicago
-  - politics
+  - Politics
 title: 'https://www.nytimes.com/2023/03/27/us/politics/chicago-mayor-race.html'
 ---
 

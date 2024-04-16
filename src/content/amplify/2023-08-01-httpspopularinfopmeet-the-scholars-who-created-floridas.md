@@ -6,7 +6,7 @@ slug: 2023-08-01-httpspopularinfopmeet-the-scholars-who-created-floridas
 tags:
   - education
   - florida
-  - politics
+  - Politics
 title: 'https://popular.info/p/meet-the-scholars-who-created-floridas'
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://www.semafor.com/article/04/23/2023/why-is-jamaal-bowman-so-a
 link: 'https://www.semafor.com/article/04/23/2023/why-is-jamaal-bowman-so-angry'
 slug: 2023-04-24-httpswwwsemaforcomarticle04232023why-is-jamaal-bowman-so-angry
 tags:
-  - politics
+  - Politics
 title: 'https://www.semafor.com/article/04/23/2023/why-is-jamaal-bowman-so-angry'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-16-lauren-boebert-apologizes-for-vaping-in-a-denver-theater-the-new-york-tim
 tags:
-  - politics
+  - Politics
 title: Lauren Boebert Apologizes for Vaping in a Denver Theater - The New York Tim
 ---
 

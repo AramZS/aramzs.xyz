@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-02-20-the-washington-post-our-system-doesnt-act-even-when-we-agree-thats-kil
 tags:
-  - politics
+  - Politics
   - usa
 title: '[The Washington Post] Our system doesn’t act even when we agree. That’s kil'
 ---

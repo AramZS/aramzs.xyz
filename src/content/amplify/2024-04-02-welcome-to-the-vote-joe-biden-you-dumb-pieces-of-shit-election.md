@@ -4,7 +4,7 @@ isBasedOn: 'https://www.discourseblog.com/p/welcome-to-the-vote-joe-biden-you'
 link: 'https://www.discourseblog.com/p/welcome-to-the-vote-joe-biden-you'
 slug: 2024-04-02-welcome-to-the-vote-joe-biden-you-dumb-pieces-of-shit-election
 tags:
-  - politics
+  - Politics
 title: Welcome to the 'Vote Joe Biden You Dumb Pieces of Shit' Election
 ---
 

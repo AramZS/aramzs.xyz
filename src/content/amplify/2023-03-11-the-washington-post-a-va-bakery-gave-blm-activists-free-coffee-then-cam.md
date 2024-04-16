@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-11-the-washington-post-a-va-bakery-gave-blm-activists-free-coffee-then-cam
 tags:
-  - politics
+  - Politics
   - race
 title: '[The Washington Post] A Va. bakery gave BLM activists free coffee. Then cam'
 ---

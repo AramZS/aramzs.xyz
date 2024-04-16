@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-21-the-biggest-online-threat-to-2024-elections-isnt-ai-the-washington-post
 tags:
-  - politics
+  - Politics
   - Tech
 title: The biggest online threat to 2024 elections isn’t AI - The Washington Post
 ---

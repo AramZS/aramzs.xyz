@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-10-httpscrosscutcomnews202308forget-banning-books-rural-wa-county-may-close-its-library
 tags:
-  - politics
+  - Politics
   - washington state
 title: >-
   https://crosscut.com/news/2023/08/forget-banning-books-rural-wa-county-may-close-its-library

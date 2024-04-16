@@ -5,7 +5,7 @@ link: 'https://thegauntlet.substack.com/p/the-revolution-will-not-be-ableist?r=a
 slug: 2023-02-25-httpsthegauntletsubstackcompthe-revolution-will-not-be-ableistra93
 tags:
   - culture
-  - politics
+  - Politics
 title: 'https://thegauntlet.substack.com/p/the-revolution-will-not-be-ableist?r=a93'
 ---
 

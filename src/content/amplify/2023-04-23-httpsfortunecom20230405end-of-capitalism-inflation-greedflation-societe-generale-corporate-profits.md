@@ -9,7 +9,7 @@ slug: >-
 tags:
   - economic inequality
   - economy
-  - politics
+  - Politics
 title: >-
   https://fortune.com/2023/04/05/end-of-capitalism-inflation-greedflation-societe-generale-corporate-profits/
 ---

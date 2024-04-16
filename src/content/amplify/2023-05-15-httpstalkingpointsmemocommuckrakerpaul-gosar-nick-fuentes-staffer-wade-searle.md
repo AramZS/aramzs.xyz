@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-15-httpstalkingpointsmemocommuckrakerpaul-gosar-nick-fuentes-staffer-wade-searle
 tags:
-  - politics
+  - Politics
 title: >-
   https://talkingpointsmemo.com/muckraker/paul-gosar-nick-fuentes-staffer-wade-searle
 ---

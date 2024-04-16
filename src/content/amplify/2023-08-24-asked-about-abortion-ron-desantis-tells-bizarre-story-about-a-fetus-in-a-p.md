@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-24-asked-about-abortion-ron-desantis-tells-bizarre-story-about-a-fetus-in-a-p
 tags:
-  - politics
+  - Politics
 title: 'Asked About Abortion, Ron DeSantis Tells Bizarre Story About a Fetus in a P'
 ---
 

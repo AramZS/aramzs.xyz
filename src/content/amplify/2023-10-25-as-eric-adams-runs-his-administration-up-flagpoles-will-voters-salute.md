@@ -8,7 +8,7 @@ slug: >-
   2023-10-25-as-eric-adams-runs-his-administration-up-flagpoles-will-voters-salute
 tags:
   - nyc
-  - politics
+  - Politics
 title: "As Eric Adams Runs His Administration Up Flagpoles, Will Voters Salute?\_ - "
 ---
 

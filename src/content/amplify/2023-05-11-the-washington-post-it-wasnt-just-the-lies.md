@@ -4,7 +4,7 @@ isBasedOn: 'https://www.washingtonpost.com/politics/2023/05/11/trump-town-hall-r
 link: 'https://www.washingtonpost.com/politics/2023/05/11/trump-town-hall-republicans'
 slug: 2023-05-11-the-washington-post-it-wasnt-just-the-lies
 tags:
-  - politics
+  - Politics
 title: '[The Washington Post] It wasn’t just the lies'
 ---
 

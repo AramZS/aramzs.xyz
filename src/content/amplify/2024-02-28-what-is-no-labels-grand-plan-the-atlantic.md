@@ -6,7 +6,7 @@ link: >-
   https://www.theatlantic.com/politics/archive/2024/02/no-labels-2024-election/677570/
 slug: 2024-02-28-what-is-no-labels-grand-plan-the-atlantic
 tags:
-  - politics
+  - Politics
 title: What Is No Labels’ Grand Plan? - The Atlantic
 ---
 

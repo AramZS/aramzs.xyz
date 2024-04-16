@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-16-httpsnymagcomintelligencer202305daniel-penny-and-the-sheepdog-defensehtml
 tags:
-  - politics
+  - Politics
 title: >-
   https://nymag.com/intelligencer/2023/05/daniel-penny-and-the-sheepdog-defense.html
 ---

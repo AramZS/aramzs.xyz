@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2024/03/14/opinion/tiktok-ban-house-vote.html'
 slug: >-
   2024-03-14-opinion-or-the-house-vote-to-force-tik-toks-sale-is-a-mistake-the-new-yor
 tags:
-  - politics
+  - Politics
   - Privacy
   - social media
   - Tech

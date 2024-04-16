@@ -4,7 +4,7 @@ isBasedOn: 'https://restofworld.org/2023/indian-politician-leaked-audio-ai-deepf
 link: 'https://restofworld.org/2023/indian-politician-leaked-audio-ai-deepfake/'
 slug: 2023-07-05-httpsrestofworldorg2023indian-politician-leaked-audio-ai-deepfake
 tags:
-  - politics
+  - Politics
   - Tech
 title: 'https://restofworld.org/2023/indian-politician-leaked-audio-ai-deepfake/'
 ---

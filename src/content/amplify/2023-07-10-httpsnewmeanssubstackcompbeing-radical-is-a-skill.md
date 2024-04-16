@@ -4,7 +4,7 @@ isBasedOn: 'https://newmeans.substack.com/p/being-radical-is-a-skill'
 link: 'https://newmeans.substack.com/p/being-radical-is-a-skill'
 slug: 2023-07-10-httpsnewmeanssubstackcompbeing-radical-is-a-skill
 tags:
-  - politics
+  - Politics
 title: 'https://newmeans.substack.com/p/being-radical-is-a-skill'
 ---
 

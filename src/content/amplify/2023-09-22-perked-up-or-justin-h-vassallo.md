@@ -6,7 +6,7 @@ slug: 2023-09-22-perked-up-or-justin-h-vassallo
 tags:
   - economic inequality
   - economy
-  - politics
+  - Politics
 title: Perked Up | Justin H. Vassallo
 ---
 

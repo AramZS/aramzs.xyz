@@ -5,7 +5,7 @@ link: 'https://lux-magazine.com/article/ozempic-fashion/'
 slug: 2023-10-03-let-them-not-eat-cake-lux-magazine
 tags:
   - economic inequality
-  - politics
+  - Politics
 title: Let Them Not Eat Cake - Lux Magazine
 ---
 

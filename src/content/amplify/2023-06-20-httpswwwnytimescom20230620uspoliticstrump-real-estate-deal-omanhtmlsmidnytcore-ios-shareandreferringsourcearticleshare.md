@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-20-httpswwwnytimescom20230620uspoliticstrump-real-estate-deal-omanhtmlsmidnytcore-ios-shareandreferringsourcearticleshare
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.nytimes.com/2023/06/20/us/politics/trump-real-estate-deal-oman.html?smid=nytcore-ios-share&referringSource=articleShare
 ---

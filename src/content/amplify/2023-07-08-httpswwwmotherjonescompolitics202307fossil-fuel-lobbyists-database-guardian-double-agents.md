@@ -8,7 +8,7 @@ slug: >-
   2023-07-08-httpswwwmotherjonescompolitics202307fossil-fuel-lobbyists-database-guardian-double-agents
 tags:
   - climate
-  - politics
+  - Politics
 title: >-
   https://www.motherjones.com/politics/2023/07/fossil-fuel-lobbyists-database-guardian-double-agents/
 ---

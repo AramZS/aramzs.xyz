@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-05-yuengling-wants-trump-to-win-which-is-weird-unless-you-know-anything-abou
 tags:
-  - politics
+  - Politics
 title: 'Yuengling Wants Trump to Win. Which is Weird, Unless You Know Anything Abou'
 ---
 

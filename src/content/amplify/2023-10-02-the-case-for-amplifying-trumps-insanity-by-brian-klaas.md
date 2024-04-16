@@ -5,7 +5,7 @@ link: 'https://www.forkingpaths.co/p/the-case-for-amplifying-trumps-insanity'
 slug: 2023-10-02-the-case-for-amplifying-trumps-insanity-by-brian-klaas
 tags:
   - Media
-  - politics
+  - Politics
 title: The Case for Amplifying Trump's Insanity - by Brian Klaas
 ---
 

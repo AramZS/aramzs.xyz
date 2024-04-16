@@ -7,7 +7,7 @@ slug: >-
 tags:
   - health
   - medical
-  - politics
+  - Politics
 title: 'As Medicaid Shrinks, Clinics for the Poor Are Trying to Survive - The New Y'
 ---
 

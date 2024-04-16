@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-30-httpsslatecomnews-and-politics202305rich-republicans-party-car-dealers-2024-desantishtml
 tags:
-  - politics
+  - Politics
 title: >-
   https://slate.com/news-and-politics/2023/05/rich-republicans-party-car-dealers-2024-desantis.html
 ---

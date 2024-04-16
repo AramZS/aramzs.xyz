@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-28-httpswwwrollingstonecomcultureculture-newstwitter-elon-musk-fires-safety-team-2024-elections-1234832199
 tags:
-  - politics
+  - Politics
   - social media
 title: >-
   https://www.rollingstone.com/culture/culture-news/twitter-elon-musk-fires-safety-team-2024-elections-1234832199/

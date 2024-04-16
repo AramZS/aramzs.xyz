@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-28-httpswwwtechdirtcom20230928elon-fires-half-of-extwitters-election-integrity-team-because-a-manager-liked-a-tweet-calling-him-a-fucking-dipshit
 tags:
-  - politics
+  - Politics
   - social media
 title: >-
   https://www.techdirt.com/2023/09/28/elon-fires-half-of-extwitters-election-integrity-team-because-a-manager-liked-a-tweet-calling-him-a-fucking-dipshit/

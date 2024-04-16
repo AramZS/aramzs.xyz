@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-03-how-wisconsin-democrats-learned-to-play-hardball-in-the-countrys-biggest-j
 tags:
-  - politics
+  - Politics
   - wisconsin
 title: How Wisconsin Democrats learned to play hardball in the country's biggest j
 ---

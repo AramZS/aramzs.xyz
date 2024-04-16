@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-30-why-we-should-never-debate-fascists-racists-and-other-reactionaries-or-by-a
 tags:
-  - politics
+  - Politics
 title: 'Why we should never debate fascists, racists and other reactionaries | by A'
 ---
 

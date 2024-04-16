@@ -4,7 +4,7 @@ isBasedOn: 'https://longreads.com/2018/09/18/no-i-will-not-debate-you/'
 link: 'https://longreads.com/2018/09/18/no-i-will-not-debate-you/'
 slug: 2024-01-30-no-i-will-not-debate-you-longreads
 tags:
-  - politics
+  - Politics
 title: 'No, I Will Not Debate You - Longreads'
 ---
 

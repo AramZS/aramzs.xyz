@@ -4,7 +4,7 @@ isBasedOn: 'https://www.publicnotice.co/p/trump-employee-5-brian-butler-cnn-inte
 link: 'https://www.publicnotice.co/p/trump-employee-5-brian-butler-cnn-interview'
 slug: 2024-03-15-10-trump-employee-5-details-trumps-mob-like-management-style
 tags:
-  - politics
+  - Politics
 title: (10) "Trump Employee 5" details Trump's mob-like management style
 ---
 

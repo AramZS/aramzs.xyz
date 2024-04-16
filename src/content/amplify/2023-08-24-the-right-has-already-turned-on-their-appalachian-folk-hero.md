@@ -7,7 +7,7 @@ link: >-
 slug: 2023-08-24-the-right-has-already-turned-on-their-appalachian-folk-hero
 tags:
   - Music
-  - politics
+  - Politics
 title: The Right Has Already Turned on Their Appalachian Folk Hero
 ---
 

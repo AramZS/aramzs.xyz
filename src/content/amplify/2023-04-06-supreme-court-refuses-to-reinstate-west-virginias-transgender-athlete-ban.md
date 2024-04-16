@@ -8,7 +8,7 @@ slug: >-
   2023-04-06-supreme-court-refuses-to-reinstate-west-virginias-transgender-athlete-ban
 tags:
   - lgbtq+
-  - politics
+  - Politics
 title: 'Supreme Court refuses to reinstate West Virginia’s transgender athlete ban '
 ---
 

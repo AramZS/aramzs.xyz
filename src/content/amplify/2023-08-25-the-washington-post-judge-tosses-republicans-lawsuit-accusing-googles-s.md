@@ -8,7 +8,7 @@ slug: >-
   2023-08-25-the-washington-post-judge-tosses-republicans-lawsuit-accusing-googles-s
 tags:
   - law and order
-  - politics
+  - Politics
   - Tech
 title: '[The Washington Post] Judge tosses Republicans’ lawsuit accusing Google’s s'
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-17-httpswwwmotherjonescompolitics202303steve-bannon-is-neck-deep-in-guo-wenguis-allegedly-fraudulent-business-empire
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.motherjones.com/politics/2023/03/steve-bannon-is-neck-deep-in-guo-wenguis-allegedly-fraudulent-business-empire/
 ---

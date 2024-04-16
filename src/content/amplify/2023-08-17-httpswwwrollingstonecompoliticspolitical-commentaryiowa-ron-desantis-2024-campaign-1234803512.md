@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-17-httpswwwrollingstonecompoliticspolitical-commentaryiowa-ron-desantis-2024-campaign-1234803512
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.rollingstone.com/politics/political-commentary/iowa-ron-desantis-2024-campaign-1234803512/
 ---

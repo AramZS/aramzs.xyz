@@ -8,7 +8,7 @@ slug: >-
   2024-03-26-european-commissions-use-of-microsoft-365-infringes-data-protection-law-fo
 tags:
   - eu
-  - politics
+  - Politics
 title: European Commission’s use of Microsoft 365 infringes data protection law fo
 ---
 

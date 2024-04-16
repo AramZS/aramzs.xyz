@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-08-business-insiders-owners-clash-over-plagiarism-story-or-semafor
 tags:
   - Media
-  - politics
+  - Politics
 title: Business Insider's owners clash over plagiarism story | Semafor
 ---
 

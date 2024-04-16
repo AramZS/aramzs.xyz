@@ -4,7 +4,7 @@ isBasedOn: 'https://pluralistic.net/2023/03/15/mon-dieu-les-guillotines/'
 link: 'https://pluralistic.net/2023/03/15/mon-dieu-les-guillotines/'
 slug: 2023-03-16-httpspluralisticnet20230315mon-dieu-les-guillotines
 tags:
-  - politics
+  - Politics
 title: 'https://pluralistic.net/2023/03/15/mon-dieu-les-guillotines/'
 ---
 

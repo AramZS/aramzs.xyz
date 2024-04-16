@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-16-httpswwwnytimescom20230316usflorida-textbooks-african-american-historyhtml
 tags:
-  - politics
+  - Politics
   - race
 title: >-
   https://www.nytimes.com/2023/03/16/us/florida-textbooks-african-american-history.html

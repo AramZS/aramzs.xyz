@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ai
   - journalism
-  - politics
+  - Politics
 title: 'Microsoft’s Bing AI gives false election info in Europe, study finds - The '
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-01-meet-susie-wiles-the-operative-trying-to-guide-trump-through-four-indictme
 tags:
-  - politics
+  - Politics
 title: 'Meet Susie Wiles, the operative trying to guide Trump through four indictme'
 ---
 

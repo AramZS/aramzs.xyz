@@ -6,7 +6,7 @@ link: >-
   https://www.washingtonpost.com/opinions/2023/07/17/interstate-95-repair-infrastructure-shapiro-pennsylvania
 slug: 2023-07-17-the-washington-post
 tags:
-  - politics
+  - Politics
 title: '[The Washington Post] '
 ---
 

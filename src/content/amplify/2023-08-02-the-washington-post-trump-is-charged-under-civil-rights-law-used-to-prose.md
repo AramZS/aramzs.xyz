@@ -8,7 +8,7 @@ slug: >-
   2023-08-02-the-washington-post-trump-is-charged-under-civil-rights-law-used-to-prose
 tags:
   - law and order
-  - politics
+  - Politics
 title: '[The Washington Post] Trump is charged under civil rights law used to prose'
 ---
 

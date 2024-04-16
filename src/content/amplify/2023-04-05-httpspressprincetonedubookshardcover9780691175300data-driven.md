@@ -5,7 +5,7 @@ link: 'https://press.princeton.edu/books/hardcover/9780691175300/data-driven'
 slug: 2023-04-05-httpspressprincetonedubookshardcover9780691175300data-driven
 tags:
   - culture
-  - politics
+  - Politics
 title: 'https://press.princeton.edu/books/hardcover/9780691175300/data-driven'
 ---
 

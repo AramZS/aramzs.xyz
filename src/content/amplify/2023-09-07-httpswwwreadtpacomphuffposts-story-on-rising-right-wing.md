@@ -5,7 +5,7 @@ link: 'https://www.readtpa.com/p/huffposts-story-on-rising-right-wing'
 slug: 2023-09-07-httpswwwreadtpacomphuffposts-story-on-rising-right-wing
 tags:
   - culture
-  - politics
+  - Politics
 title: 'https://www.readtpa.com/p/huffposts-story-on-rising-right-wing'
 ---
 

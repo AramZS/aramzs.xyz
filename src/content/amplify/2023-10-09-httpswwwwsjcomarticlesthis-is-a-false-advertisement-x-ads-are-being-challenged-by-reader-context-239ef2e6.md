@@ -8,7 +8,7 @@ slug: >-
   2023-10-09-httpswwwwsjcomarticlesthis-is-a-false-advertisement-x-ads-are-being-challenged-by-reader-context-239ef2e6
 tags:
   - ad tech
-  - politics
+  - Politics
   - social media
 title: >-
   https://www.wsj.com/articles/this-is-a-false-advertisement-x-ads-are-being-challenged-by-reader-context-239ef2e6

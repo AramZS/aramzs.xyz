@@ -6,7 +6,7 @@ slug: 2023-03-31-httpsqueenseaglecomall2023330queens-man-indicted
 tags:
   - law and order
   - nyc
-  - politics
+  - Politics
 title: 'https://queenseagle.com/all/2023/3/30/queens-man-indicted'
 ---
 

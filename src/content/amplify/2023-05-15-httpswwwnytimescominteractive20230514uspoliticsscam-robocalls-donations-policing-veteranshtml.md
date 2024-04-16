@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-15-httpswwwnytimescominteractive20230514uspoliticsscam-robocalls-donations-policing-veteranshtml
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.nytimes.com/interactive/2023/05/14/us/politics/scam-robocalls-donations-policing-veterans.html
 ---

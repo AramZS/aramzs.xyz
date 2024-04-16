@@ -8,7 +8,7 @@ slug: >-
   2023-08-11-millennials-arent-getting-more-rightwing-with-age-i-suspect-i-know-why-or
 tags:
   - millennials
-  - politics
+  - Politics
 title: 'Millennials aren’t getting more rightwing with age. I suspect I know why | '
 ---
 

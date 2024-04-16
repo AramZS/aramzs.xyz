@@ -7,7 +7,7 @@ link: >-
 slug: 2023-02-22-trump-is-using-facebooks-targeting-to-trick-haley-voters
 tags:
   - ad tech
-  - politics
+  - Politics
 title: Trump Is Using Facebook’s Targeting to Trick Haley Voters
 ---
 

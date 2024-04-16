@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-12-httpswwwthedailybeastcomron-desantis-secret-twitter-army-of-far-right-influencersrefhome
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.thedailybeast.com/ron-desantis-secret-twitter-army-of-far-right-influencers?ref=home
 ---

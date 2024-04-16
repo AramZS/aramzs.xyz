@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-12-httpspagesixcom20230712rfk-jr-press-dinner-explodes-in-war-of-words-and-farts
 tags:
-  - politics
+  - Politics
 title: >-
   https://pagesix.com/2023/07/12/rfk-jr-press-dinner-explodes-in-war-of-words-and-farts/
 ---

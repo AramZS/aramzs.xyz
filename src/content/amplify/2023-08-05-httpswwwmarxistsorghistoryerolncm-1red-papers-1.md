@@ -5,7 +5,7 @@ link: 'https://www.marxists.org/history/erol/ncm-1/red-papers-1/'
 slug: 2023-08-05-httpswwwmarxistsorghistoryerolncm-1red-papers-1
 tags:
   - labor
-  - politics
+  - Politics
 title: 'https://www.marxists.org/history/erol/ncm-1/red-papers-1/'
 ---
 

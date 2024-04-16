@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2023/10/01/magazine/economy-illegal-immigration.h
 slug: 2023-10-02-httpswwwnytimescom20231001magazineeconomy-illegal-immigrationhtml
 tags:
   - economy
-  - politics
+  - Politics
 title: 'https://www.nytimes.com/2023/10/01/magazine/economy-illegal-immigration.html'
 ---
 

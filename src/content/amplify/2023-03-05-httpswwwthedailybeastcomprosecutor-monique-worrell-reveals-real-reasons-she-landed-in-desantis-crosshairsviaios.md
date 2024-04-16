@@ -8,7 +8,7 @@ slug: >-
   2023-03-05-httpswwwthedailybeastcomprosecutor-monique-worrell-reveals-real-reasons-she-landed-in-desantis-crosshairsviaios
 tags:
   - florida
-  - politics
+  - Politics
 title: >-
   https://www.thedailybeast.com/prosecutor-monique-worrell-reveals-real-reasons-she-landed-in-desantis-crosshairs?via=ios
 ---

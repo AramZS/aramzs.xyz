@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-23-httpswwwnplusonemagcomonline-onlyonline-onlyj-d-vance-changes-the-subject
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.nplusonemag.com/online-only/online-only/j-d-vance-changes-the-subject/
 ---

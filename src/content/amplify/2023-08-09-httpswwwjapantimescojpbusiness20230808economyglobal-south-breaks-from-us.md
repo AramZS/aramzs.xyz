@@ -8,7 +8,7 @@ slug: >-
   2023-08-09-httpswwwjapantimescojpbusiness20230808economyglobal-south-breaks-from-us
 tags:
   - economy
-  - politics
+  - Politics
 title: >-
   https://www.japantimes.co.jp/business/2023/08/08/economy/global-south-breaks-from-us/
 ---

@@ -8,7 +8,7 @@ slug: >-
   2023-12-01-minimum-wage-workers-cant-afford-rent-anywhere-in-america-or-cnn-business
 tags:
   - housing
-  - politics
+  - Politics
 title: Minimum wage workers can't afford rent anywhere in America | CNN Business
 ---
 

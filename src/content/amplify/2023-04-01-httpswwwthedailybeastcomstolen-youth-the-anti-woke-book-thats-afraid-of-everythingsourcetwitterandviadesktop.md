@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-01-httpswwwthedailybeastcomstolen-youth-the-anti-woke-book-thats-afraid-of-everythingsourcetwitterandviadesktop
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.thedailybeast.com/stolen-youth-the-anti-woke-book-thats-afraid-of-everything?source=twitter&via=desktop
 ---

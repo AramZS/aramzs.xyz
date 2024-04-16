@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-07-httpsharpersorgarchive202303ron-desantis-force-feedings-guantanamo-bay-laughing
 tags:
-  - politics
+  - Politics
 title: >-
   https://harpers.org/archive/2023/03/ron-desantis-force-feedings-guantanamo-bay-laughing/
 ---

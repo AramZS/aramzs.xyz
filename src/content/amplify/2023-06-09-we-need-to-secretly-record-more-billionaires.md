@@ -4,7 +4,7 @@ isBasedOn: 'https://jogblog.substack.com/p/we-need-to-secretly-record-more-billi
 link: 'https://jogblog.substack.com/p/we-need-to-secretly-record-more-billionaires'
 slug: 2023-06-09-we-need-to-secretly-record-more-billionaires
 tags:
-  - politics
+  - Politics
 title: We Need to Secretly Record More Billionaires
 ---
 

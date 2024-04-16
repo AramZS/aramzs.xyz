@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-28-crimethinc-blinding-the-cyclopswrecking-the-panopticon-camera-hunting
 tags:
-  - politics
+  - Politics
   - Privacy
 title: 'CrimethInc. : Blinding the Cyclops—Wrecking the Panopticon : Camera Hunting'
 ---

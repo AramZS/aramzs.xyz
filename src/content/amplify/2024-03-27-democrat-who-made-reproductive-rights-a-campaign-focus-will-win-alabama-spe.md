@@ -8,7 +8,7 @@ slug: >-
   2024-03-27-democrat-who-made-reproductive-rights-a-campaign-focus-will-win-alabama-spe
 tags:
   - abortion
-  - politics
+  - Politics
 title: Democrat who made reproductive rights a campaign focus will win Alabama spe
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: 2023-11-23-israel-hamas-protests-disrupt-life-in-democrats-convention-city
 tags:
   - israel
-  - politics
+  - Politics
 title: Israel-Hamas protests disrupt life in Democrats' convention city
 ---
 

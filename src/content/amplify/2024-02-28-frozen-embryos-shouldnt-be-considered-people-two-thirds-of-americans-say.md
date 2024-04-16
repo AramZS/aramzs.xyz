@@ -6,7 +6,7 @@ slug: >-
   2024-02-28-frozen-embryos-shouldnt-be-considered-people-two-thirds-of-americans-say
 tags:
   - abortion
-  - politics
+  - Politics
 title: 'Frozen embryos shouldn''t be considered people, two-thirds of Americans say'
 ---
 

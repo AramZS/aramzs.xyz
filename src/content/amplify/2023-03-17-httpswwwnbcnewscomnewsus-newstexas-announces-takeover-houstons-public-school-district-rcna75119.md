@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-17-httpswwwnbcnewscomnewsus-newstexas-announces-takeover-houstons-public-school-district-rcna75119
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.nbcnews.com/news/us-news/texas-announces-takeover-houstons-public-school-district-rcna75119
 ---

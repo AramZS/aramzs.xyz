@@ -8,7 +8,7 @@ slug: >-
   2023-08-29-httpswwwhuffpostcomentrybiden-medicare-drug-negotiations-listn64ed0ab8e4b084283f267029
 tags:
   - health
-  - politics
+  - Politics
 title: >-
   https://www.huffpost.com/entry/biden-medicare-drug-negotiations-list_n_64ed0ab8e4b084283f267029
 ---

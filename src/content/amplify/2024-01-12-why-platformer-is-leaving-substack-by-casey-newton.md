@@ -6,7 +6,7 @@ slug: 2024-01-12-why-platformer-is-leaving-substack-by-casey-newton
 tags:
   - jewish
   - Media
-  - politics
+  - Politics
 title: Why Platformer is leaving Substack - by Casey Newton
 ---
 

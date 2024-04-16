@@ -8,7 +8,7 @@ slug: >-
   2023-07-05-httpswwwthenationcomarticleactivismmoms-for-liberty-philadelphia-protests
 tags:
   - lgbtq+
-  - politics
+  - Politics
 title: >-
   https://www.thenation.com/article/activism/moms-for-liberty-philadelphia-protests/
 ---

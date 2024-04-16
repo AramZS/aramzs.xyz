@@ -7,7 +7,7 @@ link: >-
 slug: 2024-02-20-asylum-seekers-didnt-create-the-migrant-crisis-the-atlantic
 tags:
   - immigration
-  - politics
+  - Politics
 title: Asylum Seekers Didn’t Create the ‘Migrant Crisis’ - The Atlantic
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-19-the-world-economic-forum-edges-away-from-the-left-or-semafor
 tags:
   - economy
-  - politics
+  - Politics
   - the rich
 title: The World Economic Forum edges away from the left | Semafor
 ---

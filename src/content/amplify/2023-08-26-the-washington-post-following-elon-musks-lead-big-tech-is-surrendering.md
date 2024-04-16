@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-26-the-washington-post-following-elon-musks-lead-big-tech-is-surrendering
 tags:
-  - politics
+  - Politics
   - social media
   - Tech
 title: '[The Washington Post] Following Elon Musk’s lead, Big Tech is surrendering '

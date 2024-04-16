@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-11-jeff-landry-signs-bill-to-expand-louisiana-death-penalty-or-louisiana-politi
 tags:
-  - politics
+  - Politics
 title: Jeff Landry signs bill to expand Louisiana death penalty | Louisiana Politi
 ---
 

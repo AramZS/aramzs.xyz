@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-12-httpswwwthedailybeastcomhow-florida-gov-ron-desantis-is-taking-a-page-out-of-richard-nixons-playbookrefhome
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.thedailybeast.com/how-florida-gov-ron-desantis-is-taking-a-page-out-of-richard-nixons-playbook?ref=home
 ---

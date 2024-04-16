@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-12-florida-book-bans-take-on-dictionaries-and-encyclopedias
 tags:
   - education
-  - politics
+  - Politics
 title: Florida book bans take on dictionaries and encyclopedias
 ---
 

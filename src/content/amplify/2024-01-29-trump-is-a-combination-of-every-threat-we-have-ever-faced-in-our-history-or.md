@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-29-trump-is-a-combination-of-every-threat-we-have-ever-faced-in-our-history-or
 tags:
-  - politics
+  - Politics
 title: 'Trump Is a Combination of Every Threat We Have Ever Faced in Our History | '
 ---
 

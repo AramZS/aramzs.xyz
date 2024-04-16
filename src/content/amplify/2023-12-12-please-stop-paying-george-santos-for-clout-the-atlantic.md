@@ -6,7 +6,7 @@ link: >-
   https://www.theatlantic.com/technology/archive/2023/12/george-santos-cameo-app-influence/676314/
 slug: 2023-12-12-please-stop-paying-george-santos-for-clout-the-atlantic
 tags:
-  - politics
+  - Politics
   - social media
 title: Please Stop Paying George Santos for Clout - The Atlantic
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-10-httpswwwdemocracydocketcomanalysis60-years-later-alabama-lawmakers-defy-the-u-s-supreme-court-again
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.democracydocket.com/analysis/60-years-later-alabama-lawmakers-defy-the-u-s-supreme-court-again/
 ---

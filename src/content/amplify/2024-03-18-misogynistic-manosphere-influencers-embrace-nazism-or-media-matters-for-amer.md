@@ -8,7 +8,7 @@ slug: >-
   2024-03-18-misogynistic-manosphere-influencers-embrace-nazism-or-media-matters-for-amer
 tags:
   - alt-right
-  - politics
+  - Politics
 title: Misogynistic manosphere influencers embrace Nazism | Media Matters for Amer
 ---
 

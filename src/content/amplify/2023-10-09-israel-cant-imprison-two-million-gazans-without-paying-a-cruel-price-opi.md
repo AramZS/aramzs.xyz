@@ -8,7 +8,7 @@ slug: >-
   2023-10-09-israel-cant-imprison-two-million-gazans-without-paying-a-cruel-price-opi
 tags:
   - israel
-  - politics
+  - Politics
 title: Israel Can’t Imprison Two Million Gazans Without Paying a Cruel Price - Opi
 ---
 

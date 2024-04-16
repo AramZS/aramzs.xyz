@@ -5,7 +5,7 @@ link: 'https://www.publicnotice.co/p/gop-transphobia-eliminationist-rhetoric-gen
 slug: 2023-06-08-an-uncomfortable-truth-about-gop-anti-trans-bigotry
 tags:
   - lgbtq+
-  - politics
+  - Politics
 title: An uncomfortable truth about GOP anti-trans bigotry
 ---
 

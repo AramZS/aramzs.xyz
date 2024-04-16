@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-25-the-washington-post-e-jean-carroll-accused-donald-trump-of-rape-a-civi
 tags:
-  - politics
+  - Politics
 title: '[The Washington Post] E. Jean Carroll accused Donald Trump of rape.  A civi'
 ---
 

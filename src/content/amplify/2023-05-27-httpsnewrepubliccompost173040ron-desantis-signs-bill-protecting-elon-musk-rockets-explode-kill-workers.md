@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-27-httpsnewrepubliccompost173040ron-desantis-signs-bill-protecting-elon-musk-rockets-explode-kill-workers
 tags:
-  - politics
+  - Politics
 title: >-
   https://newrepublic.com/post/173040/ron-desantis-signs-bill-protecting-elon-musk-rockets-explode-kill-workers
 ---

@@ -8,7 +8,7 @@ slug: >-
   2023-05-02-httpswwwthecutcom2023059-trans-missourians-on-losing-gender-affirming-carehtml
 tags:
   - lgbtq+
-  - politics
+  - Politics
 title: >-
   https://www.thecut.com/2023/05/9-trans-missourians-on-losing-gender-affirming-care.html
 ---

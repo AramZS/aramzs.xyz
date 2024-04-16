@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-26-httpsnymagcomintelligencer202305twitter-will-drive-conservatives-mad-and-further-righthtml
 tags:
-  - politics
+  - Politics
   - social media
 title: >-
   https://nymag.com/intelligencer/2023/05/twitter-will-drive-conservatives-mad-and-further-right.html

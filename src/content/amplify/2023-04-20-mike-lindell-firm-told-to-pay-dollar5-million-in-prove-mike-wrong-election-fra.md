@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-20-mike-lindell-firm-told-to-pay-dollar5-million-in-prove-mike-wrong-election-fra
 tags:
-  - politics
+  - Politics
 title: Mike Lindell firm told to pay $5 million in ‘Prove Mike Wrong’ election-fra
 ---
 

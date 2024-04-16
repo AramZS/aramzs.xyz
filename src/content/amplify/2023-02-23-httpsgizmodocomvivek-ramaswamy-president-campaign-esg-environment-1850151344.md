@@ -9,7 +9,7 @@ slug: >-
 tags:
   - culture
   - environment
-  - politics
+  - Politics
 title: >-
   https://gizmodo.com/vivek-ramaswamy-president-campaign-esg-environment-1850151344
 ---

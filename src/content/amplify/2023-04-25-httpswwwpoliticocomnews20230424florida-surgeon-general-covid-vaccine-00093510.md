@@ -9,7 +9,7 @@ slug: >-
 tags:
   - health
   - medical
-  - politics
+  - Politics
 title: >-
   https://www.politico.com/news/2023/04/24/florida-surgeon-general-covid-vaccine-00093510
 ---

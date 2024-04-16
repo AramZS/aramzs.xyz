@@ -8,7 +8,7 @@ slug: >-
   2023-08-18-httpswwwthecitynyc202381723836227brooklyn-judge-democratic-clubhouse-abortion-roe-wade-rachel-freier
 tags:
   - nyc
-  - politics
+  - Politics
 title: >-
   https://www.thecity.nyc/2023/8/17/23836227/brooklyn-judge-democratic-clubhouse-abortion-roe-wade-rachel-freier
 ---

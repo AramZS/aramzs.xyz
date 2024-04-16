@@ -6,7 +6,7 @@ slug: 2023-12-14-advertisers-dont-want-sites-like-jezebel-to-exist
 tags:
   - ad tech
   - Media
-  - politics
+  - Politics
 title: Advertisers Don’t Want Sites Like Jezebel to Exist
 ---
 

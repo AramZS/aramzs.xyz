@@ -8,7 +8,7 @@ slug: >-
   2023-07-21-httpswwwtheatlanticcomideasarchive202307biden-administration-corporate-merger-antitrust-guidelines674779googrewarded
 tags:
   - economy
-  - politics
+  - Politics
 title: >-
   https://www.theatlantic.com/ideas/archive/2023/07/biden-administration-corporate-merger-antitrust-guidelines/674779/#goog_rewarded
 ---

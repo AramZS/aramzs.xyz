@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-18-httpswwwwashingtonpostcombooks20230717obama-banned-books-tiktok-library
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.washingtonpost.com/books/2023/07/17/obama-banned-books-tiktok-library/
 ---

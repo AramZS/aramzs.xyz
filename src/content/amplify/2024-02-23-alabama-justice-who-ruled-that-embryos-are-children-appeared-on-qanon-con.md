@@ -8,7 +8,7 @@ slug: >-
   2024-02-23-alabama-justice-who-ruled-that-embryos-are-children-appeared-on-qanon-con
 tags:
   - abortion
-  - politics
+  - Politics
 title: Alabama Justice Who Ruled That Embryos Are ‘Children’ Appeared On QAnon Con
 ---
 

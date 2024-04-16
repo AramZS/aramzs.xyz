@@ -4,7 +4,7 @@ isBasedOn: 'https://www.learningforjustice.org/magazine/what-is-settlercoloniali
 link: 'https://www.learningforjustice.org/magazine/what-is-settlercolonialism'
 slug: 2024-01-08-what-is-settler-colonialism-or-learning-for-justice
 tags:
-  - politics
+  - Politics
 title: What Is Settler-Colonialism? | Learning for Justice
 ---
 

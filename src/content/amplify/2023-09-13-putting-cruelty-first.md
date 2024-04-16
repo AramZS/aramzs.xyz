@@ -4,7 +4,7 @@ isBasedOn: 'https://www.jstor.org/stable/20024800'
 link: 'https://www.jstor.org/stable/20024800'
 slug: 2023-09-13-putting-cruelty-first
 tags:
-  - politics
+  - Politics
 title: Putting Cruelty First
 ---
 

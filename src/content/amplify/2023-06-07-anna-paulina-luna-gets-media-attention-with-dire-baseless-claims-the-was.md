@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-07-anna-paulina-luna-gets-media-attention-with-dire-baseless-claims-the-was
 tags:
-  - politics
+  - Politics
 title: 'Anna Paulina Luna gets media attention with dire, baseless claims - The Was'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-29-opinion-or-trumps-allies-dont-want-to-destroy-the-deep-state-they-want
 tags:
-  - politics
+  - Politics
 title: 'Opinion | Trump’s Allies Don’t Want to Destroy the ‘Deep State.’ They Want '
 ---
 

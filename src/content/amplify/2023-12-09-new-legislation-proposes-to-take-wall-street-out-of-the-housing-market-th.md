@@ -5,7 +5,7 @@ link: 'https://www.nytimes.com/2023/12/06/realestate/wall-street-housing-market.
 slug: >-
   2023-12-09-new-legislation-proposes-to-take-wall-street-out-of-the-housing-market-th
 tags:
-  - politics
+  - Politics
   - real estate
 title: New Legislation Proposes to Take Wall Street Out of the Housing Market - Th
 ---

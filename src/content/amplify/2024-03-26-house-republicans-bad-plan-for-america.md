@@ -4,7 +4,7 @@ isBasedOn: 'https://www.slowboring.com/p/house-republicans-bad-plan-for-america'
 link: 'https://www.slowboring.com/p/house-republicans-bad-plan-for-america'
 slug: 2024-03-26-house-republicans-bad-plan-for-america
 tags:
-  - politics
+  - Politics
 title: House Republicans' (bad) plan for America
 ---
 

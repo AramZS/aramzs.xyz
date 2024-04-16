@@ -8,7 +8,7 @@ slug: >-
   2023-10-04-republican-state-policies-on-cigarettes-seat-belts-shorten-life-spans-wa
 tags:
   - health
-  - politics
+  - Politics
   - usa
 title: 'Republican state policies on cigarettes, seat belts shorten life spans - Wa'
 ---

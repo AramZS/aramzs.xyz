@@ -6,7 +6,7 @@ slug: >-
   2023-11-06-the-washington-post-millennials-arent-having-kids-here-are-the-reasons
 tags:
   - health
-  - politics
+  - Politics
 title: '[The Washington Post] Millennials aren’t having kids. Here are the reasons '
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-28-rep-derrick-van-orden-reportedly-cursed-senate-pages-from-rotunda-the-wa
 tags:
-  - politics
+  - Politics
 title: Rep. Derrick Van Orden reportedly cursed Senate pages from Rotunda - The Wa
 ---
 

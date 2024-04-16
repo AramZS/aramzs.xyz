@@ -8,7 +8,7 @@ slug: >-
   2023-08-01-httpswwwmediaitecomnewsjoe-rogan-argues-jan-6-might-have-been-false-flag-to-take-down-trump-i-think-they-were-going-to-get-him-in-any-way-they-could
 tags:
   - Media
-  - politics
+  - Politics
 title: >-
   https://www.mediaite.com/news/joe-rogan-argues-jan-6-might-have-been-false-flag-to-take-down-trump-i-think-they-were-going-to-get-him-in-any-way-they-could/
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: 2023-12-12-losing-the-plot-the-leftists-who-turn-right-in-these-times
 tags:
   - Media
-  - politics
+  - Politics
 title: 'Losing the Plot: The “Leftists” Who Turn Right - In These Times'
 ---
 

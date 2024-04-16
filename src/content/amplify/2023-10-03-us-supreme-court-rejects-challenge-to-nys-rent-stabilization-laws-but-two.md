@@ -8,7 +8,7 @@ slug: >-
   2023-10-03-us-supreme-court-rejects-challenge-to-nys-rent-stabilization-laws-but-two
 tags:
   - law and order
-  - politics
+  - Politics
   - real estate
 title: 'US Supreme Court rejects challenge to NY’s rent stabilization laws, but two'
 ---

@@ -5,7 +5,7 @@ link: 'https://wheresyoured.at/p/negative-space'
 slug: 2023-08-12-httpswheresyouredatpnegative-space
 tags:
   - labor
-  - politics
+  - Politics
 title: 'https://wheresyoured.at/p/negative-space'
 ---
 

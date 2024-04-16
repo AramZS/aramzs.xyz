@@ -6,7 +6,7 @@ link: >-
   https://www.economist.com/the-economist-explains/2024/01/16/what-is-the-point-of-coming-second-to-donald-trump
 slug: 2024-01-17-what-is-the-point-of-coming-second-to-donald-trump
 tags:
-  - politics
+  - Politics
 title: What is the point of coming second to Donald Trump?
 ---
 

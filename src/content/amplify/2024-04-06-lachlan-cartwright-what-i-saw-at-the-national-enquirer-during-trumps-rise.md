@@ -9,7 +9,7 @@ slug: >-
 tags:
   - journalism
   - Media
-  - politics
+  - Politics
 title: 'Lachlan Cartwright: What I Saw at the National Enquirer During Trump’s Rise'
 ---
 

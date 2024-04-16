@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-11-httpswwwnytimescom20230311uspoliticsdesantis-andrew-warren-liberal-prosecutorhtml
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.nytimes.com/2023/03/11/us/politics/desantis-andrew-warren-liberal-prosecutor.html
 ---

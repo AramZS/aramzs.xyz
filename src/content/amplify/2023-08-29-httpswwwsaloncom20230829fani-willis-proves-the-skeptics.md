@@ -5,7 +5,7 @@ link: 'https://www.salon.com/2023/08/29/fani-willis-proves-the-skeptics/'
 slug: 2023-08-29-httpswwwsaloncom20230829fani-willis-proves-the-skeptics
 tags:
   - law and order
-  - politics
+  - Politics
 title: 'https://www.salon.com/2023/08/29/fani-willis-proves-the-skeptics/'
 ---
 

@@ -6,7 +6,7 @@ slug: 2024-02-27-seeking-reliable-election-information-dont-trust-ai
 tags:
   - ai
   - journalism
-  - politics
+  - Politics
 title: Seeking Reliable Election Information? Don’t Trust AI
 ---
 

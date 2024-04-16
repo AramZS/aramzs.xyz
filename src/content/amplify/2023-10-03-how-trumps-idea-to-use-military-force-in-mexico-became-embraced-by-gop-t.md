@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-03-how-trumps-idea-to-use-military-force-in-mexico-became-embraced-by-gop-t
 tags:
-  - politics
+  - Politics
 title: How Trump’s Idea to Use Military Force in Mexico Became Embraced by GOP - T
 ---
 

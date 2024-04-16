@@ -8,7 +8,7 @@ slug: >-
   2023-07-24-the-washington-post-states-lose-federal-water-funds-as-lawmakers-redirect
 tags:
   - climate
-  - politics
+  - Politics
 title: '[The Washington Post] States lose federal water funds as lawmakers redirect'
 ---
 

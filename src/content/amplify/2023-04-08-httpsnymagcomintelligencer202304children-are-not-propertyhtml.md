@@ -5,7 +5,7 @@ link: 'https://nymag.com/intelligencer/2023/04/children-are-not-property.html'
 slug: 2023-04-08-httpsnymagcomintelligencer202304children-are-not-propertyhtml
 tags:
   - lgbtq+
-  - politics
+  - Politics
 title: 'https://nymag.com/intelligencer/2023/04/children-are-not-property.html'
 ---
 

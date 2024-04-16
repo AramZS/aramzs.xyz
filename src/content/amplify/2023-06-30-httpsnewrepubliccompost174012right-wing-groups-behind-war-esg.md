@@ -5,7 +5,7 @@ link: 'https://newrepublic.com/post/174012/right-wing-groups-behind-war-esg'
 slug: 2023-06-30-httpsnewrepubliccompost174012right-wing-groups-behind-war-esg
 tags:
   - economy
-  - politics
+  - Politics
 title: 'https://newrepublic.com/post/174012/right-wing-groups-behind-war-esg'
 ---
 

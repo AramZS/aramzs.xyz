@@ -7,7 +7,7 @@ link: >-
 slug: 2023-04-20-buzzfeed-news-defined-the-2010s-the-atlantic
 tags:
   - Media
-  - politics
+  - Politics
 title: BuzzFeed News Defined the 2010s - The Atlantic
 ---
 

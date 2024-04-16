@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-08-httpsslatecomnews-and-politics202304matthew-kacsmaryk-mifepristone-medication-abortion-supreme-courthtml
 tags:
-  - politics
+  - Politics
 title: >-
   https://slate.com/news-and-politics/2023/04/matthew-kacsmaryk-mifepristone-medication-abortion-supreme-court.html
 ---

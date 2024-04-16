@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-21-httpsnewrepubliccompost174478alex-epstein-gop-darling-fossil-fuels-good-humanity
 tags:
-  - politics
+  - Politics
 title: >-
   https://newrepublic.com/post/174478/alex-epstein-gop-darling-fossil-fuels-good-humanity
 ---

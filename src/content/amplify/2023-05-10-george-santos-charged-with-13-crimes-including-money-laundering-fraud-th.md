@@ -8,7 +8,7 @@ slug: >-
   2023-05-10-george-santos-charged-with-13-crimes-including-money-laundering-fraud-th
 tags:
   - law and order
-  - politics
+  - Politics
 title: 'George Santos charged with 13 crimes including money laundering, fraud - Th'
 ---
 

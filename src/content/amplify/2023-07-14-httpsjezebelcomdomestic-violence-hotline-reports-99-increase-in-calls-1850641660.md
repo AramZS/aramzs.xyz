@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-14-httpsjezebelcomdomestic-violence-hotline-reports-99-increase-in-calls-1850641660
 tags:
-  - politics
+  - Politics
   - women
 title: >-
   https://jezebel.com/domestic-violence-hotline-reports-99-increase-in-calls-1850641660

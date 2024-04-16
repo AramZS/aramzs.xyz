@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-07-pence-launches-campaign-with-attacks-on-trump-over-jan-6-riot-abortion
 tags:
-  - politics
+  - Politics
 title: 'Pence launches campaign with attacks on Trump over Jan. 6 riot, abortion - '
 ---
 

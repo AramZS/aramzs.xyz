@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-06-a-woman-was-denied-medication-for-being-of-childbearing-age-she-just-sue
 tags:
-  - politics
+  - Politics
   - women
 title: A Woman Was Denied Medication for Being of ‘Childbearing Age.’ She Just Sue
 ---

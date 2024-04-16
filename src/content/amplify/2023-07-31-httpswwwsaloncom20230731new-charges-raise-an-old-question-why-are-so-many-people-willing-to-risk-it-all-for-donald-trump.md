@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-31-httpswwwsaloncom20230731new-charges-raise-an-old-question-why-are-so-many-people-willing-to-risk-it-all-for-donald-trump
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.salon.com/2023/07/31/new-charges-raise-an-old-question-why-are-so-many-people-willing-to-risk-it-all-for-donald-trump/
 ---

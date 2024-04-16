@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-06-httpswwwnytimescom20230605worldeuropenazi-symbols-ukrainehtmlsmidtw-nytimesandsmtypcur
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.nytimes.com/2023/06/05/world/europe/nazi-symbols-ukraine.html?smid=tw-nytimes&smtyp=cur
 ---

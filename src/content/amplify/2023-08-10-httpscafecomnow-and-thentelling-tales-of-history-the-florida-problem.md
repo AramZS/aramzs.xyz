@@ -6,7 +6,7 @@ slug: >-
   2023-08-10-httpscafecomnow-and-thentelling-tales-of-history-the-florida-problem
 tags:
   - History
-  - politics
+  - Politics
 title: 'https://cafe.com/now-and-then/telling-tales-of-history-the-florida-problem/'
 ---
 

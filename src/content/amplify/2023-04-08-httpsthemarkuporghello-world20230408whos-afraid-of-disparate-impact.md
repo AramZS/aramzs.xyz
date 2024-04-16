@@ -4,7 +4,7 @@ isBasedOn: 'https://themarkup.org/hello-world/2023/04/08/whos-afraid-of-disparat
 link: 'https://themarkup.org/hello-world/2023/04/08/whos-afraid-of-disparate-impact'
 slug: 2023-04-08-httpsthemarkuporghello-world20230408whos-afraid-of-disparate-impact
 tags:
-  - politics
+  - Politics
   - Tech
 title: 'https://themarkup.org/hello-world/2023/04/08/whos-afraid-of-disparate-impact'
 ---

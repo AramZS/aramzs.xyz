@@ -8,7 +8,7 @@ slug: 2023-03-14-how-denmarks-welfare-state-became-a-surveillance-nightmare-or-w
 tags:
   - denmark
   - health
-  - politics
+  - Politics
   - Privacy
 title: How Denmark’s Welfare State Became a Surveillance Nightmare | WIRED
 ---

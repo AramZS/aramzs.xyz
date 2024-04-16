@@ -6,7 +6,7 @@ link: >-
   https://nymag.com/intelligencer/2023/05/dianne-feinsteins-return-is-a-ghoulish-spectacle.html
 slug: 2023-05-12-dianne-feinsteins-return-is-a-ghoulish-spectacle
 tags:
-  - politics
+  - Politics
 title: Dianne Feinstein’s Return Is a Ghoulish Spectacle
 ---
 

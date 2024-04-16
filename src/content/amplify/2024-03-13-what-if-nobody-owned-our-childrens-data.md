@@ -7,7 +7,7 @@ link: >-
 slug: 2024-03-13-what-if-nobody-owned-our-childrens-data
 tags:
   - ad tech
-  - politics
+  - Politics
   - social media
 title: What if nobody owned our children's data?
 ---

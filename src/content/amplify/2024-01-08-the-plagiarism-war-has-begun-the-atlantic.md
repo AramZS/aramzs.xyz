@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-08-the-plagiarism-war-has-begun-the-atlantic
 tags:
   - academia
-  - politics
+  - Politics
 title: The Plagiarism War Has Begun - The Atlantic
 ---
 

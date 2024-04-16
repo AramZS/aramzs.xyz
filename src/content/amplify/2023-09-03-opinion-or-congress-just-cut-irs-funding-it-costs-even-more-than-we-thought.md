@@ -8,7 +8,7 @@ slug: >-
   2023-09-03-opinion-or-congress-just-cut-irs-funding-it-costs-even-more-than-we-thought
 tags:
   - economy
-  - politics
+  - Politics
 title: Opinion | Congress just cut IRS funding. It costs even more than we thought
 ---
 

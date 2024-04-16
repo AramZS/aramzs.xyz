@@ -7,7 +7,7 @@ link: >-
 slug: >-
     2024-03-15-elon-musk-keeps-spreading-a-very-specific-kind-of-racism-mother-jones
 tags:
-    - politics
+    - Politics
     - social media
     - Tech
 title: Elon Musk Keeps Spreading a Very Specific Kind of Racism – Mother Jones

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-16-httpswwwnytimescom20230816uspoliticstrump-chutkan-2020-election-truth-socialhtml
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.nytimes.com/2023/08/16/us/politics/trump-chutkan-2020-election-truth-social.html
 ---

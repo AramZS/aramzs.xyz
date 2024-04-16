@@ -4,7 +4,7 @@ isBasedOn: 'https://popular.info/p/tennessee-speaker-appoints-conspiracy'
 link: 'https://popular.info/p/tennessee-speaker-appoints-conspiracy'
 slug: 2023-05-25-httpspopularinfoptennessee-speaker-appoints-conspiracy
 tags:
-  - politics
+  - Politics
 title: 'https://popular.info/p/tennessee-speaker-appoints-conspiracy'
 ---
 

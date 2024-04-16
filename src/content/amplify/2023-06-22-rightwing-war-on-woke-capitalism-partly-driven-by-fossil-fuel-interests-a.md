@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-22-rightwing-war-on-woke-capitalism-partly-driven-by-fossil-fuel-interests-a
 tags:
-  - politics
+  - Politics
 title: Rightwing war on ‘woke capitalism’ partly driven by fossil fuel interests a
 ---
 

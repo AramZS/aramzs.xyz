@@ -9,7 +9,7 @@ slug: >-
 tags:
   - ad tech
   - Media
-  - politics
+  - Politics
 title: >-
   https://www.propublica.org/article/right-wing-websites-scam-readers-phony-celebrity-pitches?taid=64ab82d59a855900014a2023
 ---

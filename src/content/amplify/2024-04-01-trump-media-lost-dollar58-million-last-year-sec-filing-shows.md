@@ -6,7 +6,7 @@ link: >-
   https://www.cnbc.com/2024/04/01/trump-media-lost-58-million-last-year-sec-filing-shows.html
 slug: 2024-04-01-trump-media-lost-dollar58-million-last-year-sec-filing-shows
 tags:
-  - politics
+  - Politics
   - social media
   - Tech
 title: 'Trump Media lost $58 million last year, SEC filing shows'

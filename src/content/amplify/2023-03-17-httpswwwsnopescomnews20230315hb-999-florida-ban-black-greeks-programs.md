@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-17-httpswwwsnopescomnews20230315hb-999-florida-ban-black-greeks-programs
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.snopes.com/news/2023/03/15/hb-999-florida-ban-black-greeks-programs/
 ---

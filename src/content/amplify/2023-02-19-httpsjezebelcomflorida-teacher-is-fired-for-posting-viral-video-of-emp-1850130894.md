@@ -8,7 +8,7 @@ slug: >-
   2023-02-19-httpsjezebelcomflorida-teacher-is-fired-for-posting-viral-video-of-emp-1850130894
 tags:
   - florida
-  - politics
+  - Politics
 title: >-
   https://jezebel.com/florida-teacher-is-fired-for-posting-viral-video-of-emp-1850130894
 ---

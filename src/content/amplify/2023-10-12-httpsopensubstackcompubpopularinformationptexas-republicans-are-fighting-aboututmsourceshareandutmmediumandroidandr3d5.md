@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-12-httpsopensubstackcompubpopularinformationptexas-republicans-are-fighting-aboututmsourceshareandutmmediumandroidandr3d5
 tags:
-  - politics
+  - Politics
 title: >-
   https://open.substack.com/pub/popularinformation/p/texas-republicans-are-fighting-about?utm_source=share&utm_medium=android&r=3d5
 ---

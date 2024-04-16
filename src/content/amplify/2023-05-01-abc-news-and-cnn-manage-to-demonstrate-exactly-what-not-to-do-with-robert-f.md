@@ -8,7 +8,7 @@ slug: >-
   2023-05-01-abc-news-and-cnn-manage-to-demonstrate-exactly-what-not-to-do-with-robert-f
 tags:
   - health
-  - politics
+  - Politics
 title: ABC News and CNN Manage to Demonstrate Exactly What Not To Do with Robert F
 ---
 

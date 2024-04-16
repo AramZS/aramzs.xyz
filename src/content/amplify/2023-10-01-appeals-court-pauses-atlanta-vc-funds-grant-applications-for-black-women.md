@@ -8,7 +8,7 @@ slug: >-
   2023-10-01-appeals-court-pauses-atlanta-vc-funds-grant-applications-for-black-women
 tags:
   - law and order
-  - politics
+  - Politics
   - race
 title: Appeals court pauses Atlanta VC fund's grant applications for Black women
 ---

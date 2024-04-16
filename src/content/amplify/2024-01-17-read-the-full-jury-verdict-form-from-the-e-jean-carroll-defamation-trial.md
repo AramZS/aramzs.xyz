@@ -8,7 +8,7 @@ slug: >-
   2024-01-17-read-the-full-jury-verdict-form-from-the-e-jean-carroll-defamation-trial
 tags:
   - law and order
-  - politics
+  - Politics
 title: Read the full jury verdict form from the E. Jean Carroll defamation trial -
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: 2024-01-29-mayorkas-impeachment-hearing-smacks-of-antisemitism-the-forward
 tags:
   - jewish
-  - politics
+  - Politics
 title: Mayorkas impeachment hearing smacks of antisemitism – The Forward
 ---
 

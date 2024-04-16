@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-26-in-mike-johnson-far-right-republicans-find-a-speaker-they-can-embrace-th
 tags:
-  - politics
+  - Politics
 title: 'In Mike Johnson, Far-Right Republicans Find a Speaker They Can Embrace - Th'
 ---
 

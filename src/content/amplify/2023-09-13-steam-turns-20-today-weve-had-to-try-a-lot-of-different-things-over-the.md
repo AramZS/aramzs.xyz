@@ -8,7 +8,7 @@ slug: >-
   2023-09-13-steam-turns-20-today-weve-had-to-try-a-lot-of-different-things-over-the
 tags:
   - gaming
-  - politics
+  - Politics
 title: 'Steam turns 20 today: "We''ve had to try a lot of different things over the '
 ---
 

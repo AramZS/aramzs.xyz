@@ -8,7 +8,7 @@ slug: >-
   2023-10-25-httpsmainlymacroblogspotcom202310the-extreme-right-and-austerityhtmlm1
 tags:
   - economy
-  - politics
+  - Politics
 title: >-
   https://mainlymacro.blogspot.com/2023/10/the-extreme-right-and-austerity.html?m=1
 ---

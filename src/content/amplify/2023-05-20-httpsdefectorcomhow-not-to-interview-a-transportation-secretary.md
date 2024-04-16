@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/how-not-to-interview-a-transportation-secretary
 link: 'https://defector.com/how-not-to-interview-a-transportation-secretary'
 slug: 2023-05-20-httpsdefectorcomhow-not-to-interview-a-transportation-secretary
 tags:
-  - politics
+  - Politics
 title: 'https://defector.com/how-not-to-interview-a-transportation-secretary'
 ---
 

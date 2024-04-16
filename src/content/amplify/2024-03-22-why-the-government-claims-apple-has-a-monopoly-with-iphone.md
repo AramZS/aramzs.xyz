@@ -6,7 +6,7 @@ link: >-
   https://nymag.com/intelligencer/article/why-the-government-claims-apple-has-a-monopoly-with-iphone.html
 slug: 2024-03-22-why-the-government-claims-apple-has-a-monopoly-with-iphone
 tags:
-  - politics
+  - Politics
   - Tech
 title: Why the Government Claims Apple Has a Monopoly With iPhone
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: 2023-09-27-the-origins-of-the-socialist-slur-the-atlantic
 tags:
   - economy
-  - politics
+  - Politics
   - race
 title: The Origins of the 'Socialist' Slur - The Atlantic
 ---

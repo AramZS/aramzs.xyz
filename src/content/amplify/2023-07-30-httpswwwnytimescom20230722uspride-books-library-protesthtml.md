@@ -4,7 +4,7 @@ isBasedOn: 'https://www.nytimes.com/2023/07/22/us/pride-books-library-protest.ht
 link: 'https://www.nytimes.com/2023/07/22/us/pride-books-library-protest.html'
 slug: 2023-07-30-httpswwwnytimescom20230722uspride-books-library-protesthtml
 tags:
-  - politics
+  - Politics
 title: 'https://www.nytimes.com/2023/07/22/us/pride-books-library-protest.html'
 ---
 

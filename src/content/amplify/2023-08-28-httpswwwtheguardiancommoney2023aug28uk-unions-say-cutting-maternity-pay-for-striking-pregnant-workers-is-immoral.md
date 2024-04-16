@@ -8,7 +8,7 @@ slug: >-
   2023-08-28-httpswwwtheguardiancommoney2023aug28uk-unions-say-cutting-maternity-pay-for-striking-pregnant-workers-is-immoral
 tags:
   - labor
-  - politics
+  - Politics
 title: >-
   https://www.theguardian.com/money/2023/aug/28/uk-unions-say-cutting-maternity-pay-for-striking-pregnant-workers-is-immoral
 ---

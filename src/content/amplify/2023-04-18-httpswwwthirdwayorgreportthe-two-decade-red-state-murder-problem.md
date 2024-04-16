@@ -4,7 +4,7 @@ isBasedOn: 'https://www.thirdway.org/report/the-two-decade-red-state-murder-prob
 link: 'https://www.thirdway.org/report/the-two-decade-red-state-murder-problem'
 slug: 2023-04-18-httpswwwthirdwayorgreportthe-two-decade-red-state-murder-problem
 tags:
-  - politics
+  - Politics
 title: 'https://www.thirdway.org/report/the-two-decade-red-state-murder-problem'
 ---
 

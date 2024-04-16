@@ -8,7 +8,7 @@ slug: >-
   2023-10-12-trump-says-he-wants-netanyahu-impeached-amid-israel-hamas-war-rolling-s
 tags:
   - israel
-  - politics
+  - Politics
 title: Trump Says He Wants Netanyahu ‘Impeached’ Amid Israel-Hamas War – Rolling S
 ---
 

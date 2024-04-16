@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-13-we-dont-talk-about-leonard-the-man-behind-the-rights-supreme-court-super
 tags:
-  - politics
+  - Politics
 title: 'We Don’t Talk About Leonard: The Man Behind the Right’s Supreme Court Super'
 ---
 

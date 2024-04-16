@@ -6,7 +6,7 @@ link: >-
   https://disconnect.blog/elon-musk-is-building-ties-with-the-global-extreme-right/
 slug: 2024-04-05-elon-musk-is-elevating-the-global-extreme-right
 tags:
-  - politics
+  - Politics
   - social media
 title: Elon Musk is elevating the global extreme right
 ---

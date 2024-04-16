@@ -8,7 +8,7 @@ slug: >-
   2023-03-02-the-washington-post-new-state-bills-restrict-transgender-health-care-fo
 tags:
   - lgbtq+
-  - politics
+  - Politics
 title: '[The Washington Post] New state bills restrict transgender health care — fo'
 ---
 

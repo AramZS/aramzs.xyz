@@ -11,7 +11,7 @@ tags:
   - entertainment
   - film
   - Media
-  - politics
+  - Politics
 title: Opinion | Climate change movies shouldn't be about only disaster and apocal
 ---
 

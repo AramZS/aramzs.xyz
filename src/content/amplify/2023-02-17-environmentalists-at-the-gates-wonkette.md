@@ -6,7 +6,7 @@ slug: 2023-02-17-environmentalists-at-the-gates-wonkette
 tags:
   - environment
   - History
-  - politics
+  - Politics
 title: Environmentalists At The Gates - Wonkette
 ---
 

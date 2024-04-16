@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-19-httpsnewrepubliccompost174455republicans-little-hunter-biden-evidence-shared-nudes-instead
 tags:
-  - politics
+  - Politics
 title: >-
   https://newrepublic.com/post/174455/republicans-little-hunter-biden-evidence-shared-nudes-instead
 ---

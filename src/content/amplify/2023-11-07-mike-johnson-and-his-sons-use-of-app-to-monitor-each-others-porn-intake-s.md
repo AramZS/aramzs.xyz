@@ -7,7 +7,7 @@ link: >-
 slug: >-
     2023-11-07-mike-johnson-and-his-sons-use-of-app-to-monitor-each-others-porn-intake-s
 tags:
-    - politics
+    - Politics
     - Tech
 title: Mike Johnson and his son's use of app to monitor each other’s porn intake s
 ---

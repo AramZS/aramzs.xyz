@@ -6,7 +6,7 @@ slug: >-
   2023-08-28-6-give-me-a-reason-to-write-the-news-media-is-doing-a-great-job-about-i
 tags:
   - Media
-  - politics
+  - Politics
 title: '(6) Give Me a Reason to Write, "The News Media is Doing a Great Job About I'
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2023-09-11-amanda-gormans-inauguration-poem-banned-by-florida-school-or-pbs-newshour
 tags:
   - florida
-  - politics
+  - Politics
 title: Amanda Gorman’s inauguration poem banned by Florida school | PBS NewsHour
 ---
 

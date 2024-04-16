@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-17-the-washington-post-social-security-needs-fixing-fortunately-it-doesnt
 tags:
-  - politics
+  - Politics
 title: '[The Washington Post] Social Security needs fixing. Fortunately, it doesn’t'
 ---
 

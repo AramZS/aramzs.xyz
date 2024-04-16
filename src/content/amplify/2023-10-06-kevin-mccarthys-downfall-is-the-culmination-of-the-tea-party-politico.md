@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-06-kevin-mccarthys-downfall-is-the-culmination-of-the-tea-party-politico
 tags:
-  - politics
+  - Politics
 title: Kevin McCarthy’s Downfall Is the Culmination of the Tea Party - POLITICO
 ---
 

@@ -8,7 +8,7 @@ slug: >-
   2024-03-13-leading-ai-companies-openai-and-anthropic-are-not-keeping-their-election-pr
 tags:
   - ai
-  - politics
+  - Politics
 title: Leading AI Companies OpenAI and Anthropic Are Not Keeping Their Election Pr
 ---
 

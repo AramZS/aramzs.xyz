@@ -8,7 +8,7 @@ slug: >-
   2024-03-07-hochul-says-subway-crime-not-statistically-significant-but-psychologicall
 tags:
   - nyc
-  - politics
+  - Politics
 title: 'Hochul says subway crime ‘not statistically significant, but psychologicall'
 ---
 

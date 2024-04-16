@@ -8,7 +8,7 @@ slug: >-
   2023-10-03-va-public-records-exemption-for-university-presidents-papers-limits-oversi
 tags:
   - academia
-  - politics
+  - Politics
 title: VA Public Records Exemption for University Presidents’ Papers Limits Oversi
 ---
 

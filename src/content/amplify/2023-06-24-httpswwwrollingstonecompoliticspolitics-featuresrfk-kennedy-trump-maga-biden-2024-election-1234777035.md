@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-24-httpswwwrollingstonecompoliticspolitics-featuresrfk-kennedy-trump-maga-biden-2024-election-1234777035
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.rollingstone.com/politics/politics-features/rfk-kennedy-trump-maga-biden-2024-election-1234777035/
 ---

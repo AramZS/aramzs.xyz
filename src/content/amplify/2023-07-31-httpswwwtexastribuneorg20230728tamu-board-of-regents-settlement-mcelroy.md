@@ -8,7 +8,7 @@ slug: >-
   2023-07-31-httpswwwtexastribuneorg20230728tamu-board-of-regents-settlement-mcelroy
 tags:
   - academia
-  - politics
+  - Politics
 title: >-
   https://www.texastribune.org/2023/07/28/tamu-board-of-regents-settlement-mcelroy/
 ---

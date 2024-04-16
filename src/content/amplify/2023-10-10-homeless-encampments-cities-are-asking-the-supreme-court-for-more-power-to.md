@@ -8,7 +8,7 @@ slug: >-
   2023-10-10-homeless-encampments-cities-are-asking-the-supreme-court-for-more-power-to
 tags:
   - housing
-  - politics
+  - Politics
 title: 'Homeless encampments: Cities are asking the Supreme Court for more power to'
 ---
 

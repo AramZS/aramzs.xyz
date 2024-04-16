@@ -8,7 +8,7 @@ slug: >-
   2023-08-24-httpswwwtampabaycomnewseducation20230824florida-school-book-complaints-library-challenges-ban-department-of-education-bruce-friedman-vicki-baggett-parental-rights-sold-patricia-mccormick
 tags:
   - florida
-  - politics
+  - Politics
 title: >-
   https://www.tampabay.com/news/education/2023/08/24/florida-school-book-complaints-library-challenges-ban-department-of-education-bruce-friedman-vicki-baggett-parental-rights-sold-patricia-mccormick/
 ---

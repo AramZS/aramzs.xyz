@@ -8,7 +8,7 @@ slug: >-
   2023-10-13-how-two-planes-nearly-collided-in-austin-almost-killing-131-people-the-n
 tags:
   - business
-  - politics
+  - Politics
   - travel
 title: 'How Two Planes Nearly Collided in Austin, Almost Killing 131 People - The N'
 ---

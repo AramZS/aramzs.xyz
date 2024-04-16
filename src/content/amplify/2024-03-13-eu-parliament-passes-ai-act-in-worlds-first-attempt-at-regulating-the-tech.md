@@ -6,7 +6,7 @@ slug: >-
   2024-03-13-eu-parliament-passes-ai-act-in-worlds-first-attempt-at-regulating-the-tech
 tags:
   - ai
-  - politics
+  - Politics
 title: EU Parliament passes AI Act in world’s first attempt at regulating the tech
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: 2023-02-25-the-washington-post-the-rights-new-culture-war-target-woke-ai
 tags:
   - culture
-  - politics
+  - Politics
   - Tech
 title: '[The Washington Post] The right’s new culture-war target: ‘Woke AI’'
 ---

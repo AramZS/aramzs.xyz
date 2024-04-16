@@ -6,7 +6,7 @@ slug: >-
   2024-01-24-voter-registration-and-election-management-solution-project-or-nevada-secretar
 tags:
   - news
-  - politics
+  - Politics
 title: Voter Registration & Election Management Solution Project | Nevada Secretar
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-26-we-must-start-urgently-talking-about-the-dangers-of-a-second-trump-presiden
 tags:
-  - politics
+  - Politics
 title: We must start urgently talking about the dangers of a second Trump presiden
 ---
 

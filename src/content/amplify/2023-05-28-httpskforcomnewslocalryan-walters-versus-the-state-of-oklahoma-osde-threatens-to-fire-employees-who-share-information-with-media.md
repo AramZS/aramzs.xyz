@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-28-httpskforcomnewslocalryan-walters-versus-the-state-of-oklahoma-osde-threatens-to-fire-employees-who-share-information-with-media
 tags:
-  - politics
+  - Politics
 title: >-
   https://kfor.com/news/local/ryan-walters-versus-the-state-of-oklahoma-osde-threatens-to-fire-employees-who-share-information-with-media/
 ---

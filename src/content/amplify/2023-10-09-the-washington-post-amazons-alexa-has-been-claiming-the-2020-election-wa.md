@@ -8,7 +8,7 @@ slug: >-
   2023-10-09-the-washington-post-amazons-alexa-has-been-claiming-the-2020-election-wa
 tags:
   - misinformation
-  - politics
+  - Politics
   - Tech
 title: '[The Washington Post] Amazon’s Alexa has been claiming the 2020 election wa'
 ---

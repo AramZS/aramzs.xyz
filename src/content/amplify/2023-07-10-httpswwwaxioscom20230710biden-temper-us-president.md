@@ -4,7 +4,7 @@ isBasedOn: 'https://www.axios.com/2023/07/10/biden-temper-us-president'
 link: 'https://www.axios.com/2023/07/10/biden-temper-us-president'
 slug: 2023-07-10-httpswwwaxioscom20230710biden-temper-us-president
 tags:
-  - politics
+  - Politics
 title: 'https://www.axios.com/2023/07/10/biden-temper-us-president'
 ---
 

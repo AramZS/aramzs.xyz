@@ -8,7 +8,7 @@ slug: >-
   2023-11-08-the-supreme-court-appears-poised-to-rein-in-its-worst-decision-on-guns-in
 tags:
   - law and order
-  - politics
+  - Politics
   - women
 title: 'The Supreme Court appears poised to rein in its worst decision on guns, in '
 ---

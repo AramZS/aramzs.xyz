@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-24-httpswwwrollingstonecompoliticspolitics-featuresdonald-trump-campaign-ron-desantis-personal-attacks-explained-1234722045
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.rollingstone.com/politics/politics-features/donald-trump-campaign-ron-desantis-personal-attacks-explained-1234722045/
 ---

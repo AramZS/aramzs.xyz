@@ -6,7 +6,7 @@ link: >-
   https://www.theguardian.com/us-news/2023/nov/22/trump-revenge-game-plan-alarm?CMP=Share_AndroidApp_Other
 slug: 2023-11-22-openly-authoritarian-campaign-trumps-threats-of-revenge-fuel-alarm
 tags:
-  - politics
+  - Politics
 title: '‘Openly authoritarian campaign’: Trump’s threats of revenge fuel alarm'
 ---
 

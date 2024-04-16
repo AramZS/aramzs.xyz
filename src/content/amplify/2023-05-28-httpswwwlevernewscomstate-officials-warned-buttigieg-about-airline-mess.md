@@ -5,7 +5,7 @@ link: 'https://www.levernews.com/state-officials-warned-buttigieg-about-airline-
 slug: >-
   2023-05-28-httpswwwlevernewscomstate-officials-warned-buttigieg-about-airline-mess
 tags:
-  - politics
+  - Politics
 title: 'https://www.levernews.com/state-officials-warned-buttigieg-about-airline-mess/'
 ---
 

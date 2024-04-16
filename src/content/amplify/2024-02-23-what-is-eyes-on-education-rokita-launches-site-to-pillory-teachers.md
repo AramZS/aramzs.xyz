@@ -6,7 +6,7 @@ link: >-
   https://www.rollingstone.com/politics/politics-features/indiana-attorney-general-eyes-on-education-snitch-socialist-teachers-rokita-1234973031/
 slug: 2024-02-23-what-is-eyes-on-education-rokita-launches-site-to-pillory-teachers
 tags:
-  - politics
+  - Politics
 title: What is Eyes on Education? Rokita Launches Site to Pillory Teachers
 ---
 

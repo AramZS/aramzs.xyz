@@ -5,7 +5,7 @@ link: 'https://newrepublic.com/post/175425/biden-offshore-wind-farms-headwinds'
 slug: 2023-09-08-httpsnewrepubliccompost175425biden-offshore-wind-farms-headwinds
 tags:
   - climate
-  - politics
+  - Politics
 title: 'https://newrepublic.com/post/175425/biden-offshore-wind-farms-headwinds'
 ---
 

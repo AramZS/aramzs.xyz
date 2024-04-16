@@ -6,7 +6,7 @@ slug: 2023-11-25-warped-front-pages-columbia-journalism-review
 tags:
   - journalism
   - Media
-  - politics
+  - Politics
 title: Warped Front Pages - Columbia Journalism Review
 ---
 

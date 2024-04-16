@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-09-httpswwwnytimescom20170516worldmiddleeastisrael-trump-classified-intelligence-russiahtml
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.nytimes.com/2017/05/16/world/middleeast/israel-trump-classified-intelligence-russia.html
 ---

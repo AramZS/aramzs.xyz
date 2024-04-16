@@ -8,7 +8,7 @@ slug: >-
   2023-03-03-httpsamptheguardiancomus-news2023mar03us-rail-workers-east-palestine-ohio-train-crash
 tags:
   - infrastructure
-  - politics
+  - Politics
 title: >-
   https://amp.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-ohio-train-crash
 ---

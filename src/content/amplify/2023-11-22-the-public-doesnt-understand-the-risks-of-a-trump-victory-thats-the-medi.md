@@ -9,7 +9,7 @@ slug: >-
 tags:
   - journalism
   - Media
-  - politics
+  - Politics
 title: The public doesn’t understand the risks of a Trump victory. That’s the medi
 ---
 

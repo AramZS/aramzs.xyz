@@ -6,7 +6,7 @@ link: >-
   https://www.axios.com/2023/10/06/televised-speaker-forum-house-republicans-fox-news
 slug: 2023-10-06-televised-gop-speaker-forum-collapses-after-internal-uproar
 tags:
-  - politics
+  - Politics
 title: Televised GOP speaker forum collapses after internal uproar
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-25-httpswwwthenationcomarticlesocietyunhoused-right-rhetoric-homelessness
 tags:
-  - politics
+  - Politics
   - real estate
 title: >-
   https://www.thenation.com/article/society/unhoused-right-rhetoric-homelessness/

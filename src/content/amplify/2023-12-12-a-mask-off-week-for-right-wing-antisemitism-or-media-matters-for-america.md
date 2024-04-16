@@ -5,7 +5,7 @@ link: 'https://www.mediamatters.org/elon-musk/mask-week-right-wing-antisemitism'
 slug: >-
   2023-12-12-a-mask-off-week-for-right-wing-antisemitism-or-media-matters-for-america
 tags:
-  - politics
+  - Politics
   - social media
 title: A mask-off week for right-wing antisemitism | Media Matters for America
 ---

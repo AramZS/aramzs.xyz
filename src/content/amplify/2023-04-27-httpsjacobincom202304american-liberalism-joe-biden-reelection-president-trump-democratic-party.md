@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-27-httpsjacobincom202304american-liberalism-joe-biden-reelection-president-trump-democratic-party
 tags:
-  - politics
+  - Politics
 title: >-
   https://jacobin.com/2023/04/american-liberalism-joe-biden-reelection-president-trump-democratic-party
 ---

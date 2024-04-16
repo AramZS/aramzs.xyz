@@ -6,7 +6,7 @@ slug: >-
   2023-09-30-the-texas-drag-ban-has-been-ruled-unconstitutional-but-the-fight-isnt-ove
 tags:
   - lgbtq+
-  - politics
+  - Politics
 title: The Texas drag ban has been ruled unconstitutional. But the fight isn’t ove
 ---
 

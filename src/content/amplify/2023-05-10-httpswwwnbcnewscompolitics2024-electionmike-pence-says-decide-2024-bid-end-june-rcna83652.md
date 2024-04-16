@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-10-httpswwwnbcnewscompolitics2024-electionmike-pence-says-decide-2024-bid-end-june-rcna83652
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.nbcnews.com/politics/2024-election/mike-pence-says-decide-2024-bid-end-june-rcna83652
 ---

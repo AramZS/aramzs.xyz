@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-06-httpswwwtheatlanticcommagazinearchive202304us-extremism-portland-george-floyd-protests-january-6673088
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.theatlantic.com/magazine/archive/2023/04/us-extremism-portland-george-floyd-protests-january-6/673088/
 ---

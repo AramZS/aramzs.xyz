@@ -8,7 +8,7 @@ slug: >-
   2023-10-17-suspect-in-wadea-al-fayoume-death-was-obsessed-with-israel-hamas-war-prose
 tags:
   - israel
-  - politics
+  - Politics
   - race
 title: 'Suspect in Wadea Al-Fayoume death was obsessed with Israel-Hamas war, prose'
 ---

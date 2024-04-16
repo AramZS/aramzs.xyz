@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-21-mississippi-politician-who-smashed-the-satanic-temple-display-at-the-iowa-c
 tags:
-  - politics
+  - Politics
 title: Mississippi politician who smashed the Satanic Temple display at the Iowa C
 ---
 

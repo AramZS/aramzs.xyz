@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/my-fellow-americans'
 link: 'https://defector.com/my-fellow-americans'
 slug: 2024-03-09-my-fellow-americans-or-defector
 tags:
-  - politics
+  - Politics
 title: My Fellow Americans | Defector
 ---
 

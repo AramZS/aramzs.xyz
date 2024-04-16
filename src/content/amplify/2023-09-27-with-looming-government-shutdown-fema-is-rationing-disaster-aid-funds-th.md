@@ -8,7 +8,7 @@ slug: >-
   2023-09-27-with-looming-government-shutdown-fema-is-rationing-disaster-aid-funds-th
 tags:
   - climate
-  - politics
+  - Politics
 title: 'With looming government shutdown, FEMA is rationing disaster aid funds - Th'
 ---
 

@@ -6,7 +6,7 @@ link: >-
   https://nymag.com/intelligencer/article/bill-ackman-war-harvard-mit-dei-claudine-gay.html
 slug: 2024-02-12-bill-ackmans-war-on-harvard-mit-dei-and-everyone-else
 tags:
-  - politics
+  - Politics
 title: 'Bill Ackman’s War on Harvard, MIT, DEI, and Everyone Else'
 ---
 

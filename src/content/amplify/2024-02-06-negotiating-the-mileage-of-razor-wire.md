@@ -4,7 +4,7 @@ isBasedOn: 'https://www.welcometohellworld.com/negotiating-the-mileage-of-razor-
 link: 'https://www.welcometohellworld.com/negotiating-the-mileage-of-razor-wire/'
 slug: 2024-02-06-negotiating-the-mileage-of-razor-wire
 tags:
-  - politics
+  - Politics
 title: Negotiating the mileage of razor wire
 ---
 

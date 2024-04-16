@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-08-httpswwwwashingtonpostcomhealth20230407texas-abortion-pill-decision-fda
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.washingtonpost.com/health/2023/04/07/texas-abortion-pill-decision-fda/
 ---

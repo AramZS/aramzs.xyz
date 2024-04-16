@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-21-httpswwwsemaforcomarticle03212023did-donald-trump-break-the-koch-machine-for-good
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.semafor.com/article/03/21/2023/did-donald-trump-break-the-koch-machine-for-good
 ---

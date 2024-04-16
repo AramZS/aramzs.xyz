@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-29-veterans-and-extremism-or-middlebury-institute-of-international-studies-at-m
 tags:
-  - politics
+  - Politics
 title: Veterans and Extremism | Middlebury Institute of International Studies at M
 ---
 

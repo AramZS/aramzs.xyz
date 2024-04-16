@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-06-what-is-broken-in-american-politics-is-the-republican-party-politico
 tags:
-  - politics
+  - Politics
 title: ‘What Is Broken in American Politics Is the Republican Party’ - POLITICO
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-01-30-fascism-is-not-an-idea-to-be-debated-its-a-set-of-actions-to-fight-lite
 tags:
-  - politics
+  - Politics
 title: 'Fascism is Not an Idea to Be Debated, It’s a Set of Actions to Fight ‹ Lite'
 ---
 

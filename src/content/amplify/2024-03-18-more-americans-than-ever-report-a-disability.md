@@ -8,7 +8,7 @@ slug: 2024-03-18-more-americans-than-ever-report-a-disability
 tags:
   - covid
   - health
-  - politics
+  - Politics
 title: More Americans than ever report a disability
 ---
 

@@ -4,7 +4,7 @@ isBasedOn: 'https://www.nytimes.com/2023/07/23/us/politics/desantis-campaign-reb
 link: 'https://www.nytimes.com/2023/07/23/us/politics/desantis-campaign-reboot.html'
 slug: 2023-07-24-httpswwwnytimescom20230723uspoliticsdesantis-campaign-reboothtml
 tags:
-  - politics
+  - Politics
 title: 'https://www.nytimes.com/2023/07/23/us/politics/desantis-campaign-reboot.html'
 ---
 

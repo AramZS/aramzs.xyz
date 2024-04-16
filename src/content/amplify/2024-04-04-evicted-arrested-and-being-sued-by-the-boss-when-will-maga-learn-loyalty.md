@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-04-evicted-arrested-and-being-sued-by-the-boss-when-will-maga-learn-loyalty
 tags:
-  - politics
+  - Politics
 title: 'Evicted, arrested and being sued by the boss: When will MAGA learn loyalty '
 ---
 

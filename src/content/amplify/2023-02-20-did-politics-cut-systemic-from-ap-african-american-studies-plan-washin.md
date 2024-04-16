@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-02-20-did-politics-cut-systemic-from-ap-african-american-studies-plan-washin
 tags:
-  - politics
+  - Politics
   - race
   - usa
 title: Did politics cut 'systemic' from AP African American studies plan? - Washin

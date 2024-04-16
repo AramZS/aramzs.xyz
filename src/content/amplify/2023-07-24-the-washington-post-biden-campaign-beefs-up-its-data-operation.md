@@ -4,7 +4,7 @@ isBasedOn: 'https://www.washingtonpost.com/politics/2023/07/24/biden-campaign-da
 link: 'https://www.washingtonpost.com/politics/2023/07/24/biden-campaign-data-hires'
 slug: 2023-07-24-the-washington-post-biden-campaign-beefs-up-its-data-operation
 tags:
-  - politics
+  - Politics
 title: '[The Washington Post] Biden campaign beefs up its data operation'
 ---
 

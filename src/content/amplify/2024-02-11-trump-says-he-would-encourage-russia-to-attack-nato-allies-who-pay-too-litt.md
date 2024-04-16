@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-11-trump-says-he-would-encourage-russia-to-attack-nato-allies-who-pay-too-litt
 tags:
-  - politics
+  - Politics
 title: Trump says he would encourage Russia to attack Nato allies who pay too litt
 ---
 

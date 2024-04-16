@@ -8,7 +8,7 @@ slug: >-
   2023-06-20-the-washington-post-bernie-sanders-launches-senate-investigation-into-ama
 tags:
   - labor
-  - politics
+  - Politics
 title: '[The Washington Post] Bernie Sanders launches Senate investigation into Ama'
 ---
 

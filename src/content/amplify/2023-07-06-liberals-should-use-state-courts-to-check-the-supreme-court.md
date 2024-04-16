@@ -6,7 +6,7 @@ link: >-
   https://nymag.com/intelligencer/2023/07/liberals-should-use-state-courts-to-check-the-supreme-court.html
 slug: 2023-07-06-liberals-should-use-state-courts-to-check-the-supreme-court
 tags:
-  - politics
+  - Politics
 title: Liberals Should Use State Courts to Check the Supreme Court
 ---
 

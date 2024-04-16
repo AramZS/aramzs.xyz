@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-08-httpswwwwashingtoniancom20230407clarence-thomass-billionaire-benefactor-collects-hitler-artifacts
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.washingtonian.com/2023/04/07/clarence-thomass-billionaire-benefactor-collects-hitler-artifacts/
 ---

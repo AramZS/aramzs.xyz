@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-03-14-opinion-or-how-ditching-americas-bootstraps-myth-can-open-up-politics-t
 tags:
-  - politics
+  - Politics
 title: Opinion | How ditching America's 'bootstraps' myth can open up politics - T
 ---
 

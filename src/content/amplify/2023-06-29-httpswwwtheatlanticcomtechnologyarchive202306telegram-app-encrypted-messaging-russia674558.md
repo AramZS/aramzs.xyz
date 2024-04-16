@@ -7,7 +7,7 @@ link: >-
 slug: >-
     2023-06-29-httpswwwtheatlanticcomtechnologyarchive202306telegram-app-encrypted-messaging-russia674558
 tags:
-    - politics
+    - Politics
     - social media
     - Tech
 title: >-

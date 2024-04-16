@@ -8,7 +8,7 @@ slug: >-
   2023-06-11-httpsopensubstackcompubnoahberlatskypa-black-james-bond-would-change-someutmsourceshareandutmmediumandroid
 tags:
   - entertainment
-  - politics
+  - Politics
 title: >-
   https://open.substack.com/pub/noahberlatsky/p/a-black-james-bond-would-change-some?utm_source=share&utm_medium=android
 ---

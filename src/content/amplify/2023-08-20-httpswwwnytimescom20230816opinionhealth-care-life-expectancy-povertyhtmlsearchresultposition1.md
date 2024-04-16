@@ -8,7 +8,7 @@ slug: >-
   2023-08-20-httpswwwnytimescom20230816opinionhealth-care-life-expectancy-povertyhtmlsearchresultposition1
 tags:
   - health
-  - politics
+  - Politics
 title: >-
   https://www.nytimes.com/2023/08/16/opinion/health-care-life-expectancy-poverty.html?searchResultPosition=1
 ---

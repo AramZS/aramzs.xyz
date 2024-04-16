@@ -5,7 +5,7 @@ link: 'https://the.ink/p/rebecca-solnit-wants-a-joyous-inviting'
 slug: >-
   2024-04-04-rebecca-solnit-wants-a-joyous-inviting-left-not-an-angry-puritanical-on
 tags:
-  - politics
+  - Politics
 title: 'Rebecca Solnit wants a joyous, inviting left — not an angry, Puritanical on'
 ---
 

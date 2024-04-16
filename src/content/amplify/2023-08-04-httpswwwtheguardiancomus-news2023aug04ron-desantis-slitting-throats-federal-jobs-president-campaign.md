@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-04-httpswwwtheguardiancomus-news2023aug04ron-desantis-slitting-throats-federal-jobs-president-campaign
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.theguardian.com/us-news/2023/aug/04/ron-desantis-slitting-throats-federal-jobs-president-campaign
 ---

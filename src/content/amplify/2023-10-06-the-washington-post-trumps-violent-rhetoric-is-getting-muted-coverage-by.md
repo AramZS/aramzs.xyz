@@ -9,7 +9,7 @@ slug: >-
 tags:
   - journalism
   - Media
-  - politics
+  - Politics
 title: '[The Washington Post] Trump’s violent rhetoric is getting muted coverage by'
 ---
 

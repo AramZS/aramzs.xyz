@@ -7,7 +7,7 @@ link: >-
 slug: 2023-09-12-ordinary-us-muslims-are-still-being-victimized-by-the-war-on-terror
 tags:
   - law and order
-  - politics
+  - Politics
   - race
 title: Ordinary U.S. Muslims Are Still Being Victimized by the ‘War on Terror’
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-05-httpsbuttondownemailcharliejanearchivethe-internet-is-about-to-get-a-lot-worse
 tags:
-  - politics
+  - Politics
   - Privacy
 title: >-
   https://buttondown.email/charliejane/archive/the-internet-is-about-to-get-a-lot-worse/

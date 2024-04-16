@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-26-elon-musk-and-ron-desantis-fiasco-shows-they-didnt-realize-twitter-needs
 tags:
-  - politics
+  - Politics
   - social media
 title: "Elon Musk\_and Ron DeSantis’ fiasco shows they didn’t realize Twitter needs "
 ---

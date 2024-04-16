@@ -9,7 +9,7 @@ slug: >-
 tags:
   - law and order
   - nyc
-  - politics
+  - Politics
   - real estate
 title: The Supreme Court Could Overrule Rent Control In New York And Across The Na
 ---

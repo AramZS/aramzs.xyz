@@ -9,7 +9,7 @@ slug: >-
 tags:
   - economy
   - health
-  - politics
+  - Politics
 title: 'The Economic Response to the Pandemic Proved We Can Have Nice Things | The '
 ---
 

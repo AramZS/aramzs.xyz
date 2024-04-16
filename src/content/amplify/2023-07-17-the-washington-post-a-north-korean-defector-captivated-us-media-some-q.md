@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-17-the-washington-post-a-north-korean-defector-captivated-us-media-some-q
 tags:
-  - politics
+  - Politics
 title: '[The Washington Post] A North Korean defector captivated U.S. media. Some q'
 ---
 

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-15-httpspenorgpress-releaseoutrageous-government-censorship-says-pen-america-about-removal-of-ta-nehisi-coates-memoir-from-south-carolina-ap-course
 tags:
-  - politics
+  - Politics
 title: >-
   https://pen.org/press-release/outrageous-government-censorship-says-pen-america-about-removal-of-ta-nehisi-coates-memoir-from-south-carolina-ap-course/
 ---

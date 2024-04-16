@@ -8,7 +8,7 @@ slug: >-
   2023-08-24-the-washington-post-gop-states-take-an-ugly-new-turn-in-the-culture-wars
 tags:
   - lgbtq+
-  - politics
+  - Politics
 title: '[The Washington Post] GOP states take an ugly new turn in the culture wars '
 ---
 

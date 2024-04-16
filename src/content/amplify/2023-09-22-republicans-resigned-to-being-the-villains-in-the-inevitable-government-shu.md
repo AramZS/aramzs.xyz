@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-09-22-republicans-resigned-to-being-the-villains-in-the-inevitable-government-shu
 tags:
-  - politics
+  - Politics
 title: Republicans resigned to being the villains in the inevitable government shu
 ---
 

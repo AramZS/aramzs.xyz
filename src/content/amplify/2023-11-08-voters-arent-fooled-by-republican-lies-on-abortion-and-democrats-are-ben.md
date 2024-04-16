@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-08-voters-arent-fooled-by-republican-lies-on-abortion-and-democrats-are-ben
 tags:
-  - politics
+  - Politics
 title: Voters aren't fooled by Republican lies on abortion — and Democrats are ben
 ---
 

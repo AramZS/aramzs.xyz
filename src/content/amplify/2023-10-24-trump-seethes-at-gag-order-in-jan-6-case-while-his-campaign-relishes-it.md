@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-10-24-trump-seethes-at-gag-order-in-jan-6-case-while-his-campaign-relishes-it
 tags:
-  - politics
+  - Politics
 title: 'Trump seethes at gag order in Jan. 6 case while his campaign relishes it - '
 ---
 

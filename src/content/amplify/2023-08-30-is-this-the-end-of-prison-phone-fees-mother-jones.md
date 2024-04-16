@@ -7,7 +7,7 @@ link: >-
 slug: 2023-08-30-is-this-the-end-of-prison-phone-fees-mother-jones
 tags:
   - law and order
-  - politics
+  - Politics
 title: Is This The End of Prison Phone Fees? – Mother Jones
 ---
 

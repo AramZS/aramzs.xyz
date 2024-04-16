@@ -8,7 +8,7 @@ slug: >-
   2023-03-30-httpswwwthenationcomarticlesocietynashville-shooting-conservative-reaction
 tags:
   - guns
-  - politics
+  - Politics
 title: >-
   https://www.thenation.com/article/society/nashville-shooting-conservative-reaction/
 ---

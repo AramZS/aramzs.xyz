@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-02-17-httpswwwvanityfaircomnews202302ron-desantis-2024-election-donald-trump
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.vanityfair.com/news/2023/02/ron-desantis-2024-election-donald-trump
 ---

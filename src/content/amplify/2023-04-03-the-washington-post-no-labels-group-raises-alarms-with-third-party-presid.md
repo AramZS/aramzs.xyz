@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-03-the-washington-post-no-labels-group-raises-alarms-with-third-party-presid
 tags:
-  - politics
+  - Politics
 title: '[The Washington Post] No Labels group raises alarms with third-party presid'
 ---
 

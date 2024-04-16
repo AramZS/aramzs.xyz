@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-27-httpswwwnytimescom20230427opinionfort-lee-renaminghtmlsmidnytcore-ios-shareandreferringsourcearticleshare
 tags:
-  - politics
+  - Politics
   - race
 title: >-
   https://www.nytimes.com/2023/04/27/opinion/fort-lee-renaming.html?smid=nytcore-ios-share&referringSource=articleShare

@@ -5,7 +5,7 @@ link: 'https://rebelliousdata.com/p2p/'
 slug: 2024-01-30-the-decentralized-web-of-hate-rebellious-data
 tags:
   - decentralization
-  - politics
+  - Politics
   - Tech
 title: The Decentralized Web of Hate – Rebellious Data
 ---

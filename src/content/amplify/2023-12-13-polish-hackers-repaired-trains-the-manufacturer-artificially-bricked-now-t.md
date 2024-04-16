@@ -8,7 +8,7 @@ slug: >-
   2023-12-13-polish-hackers-repaired-trains-the-manufacturer-artificially-bricked-now-t
 tags:
   - law and order
-  - politics
+  - Politics
   - Tech
 title: Polish Hackers Repaired Trains the Manufacturer Artificially Bricked. Now T
 ---

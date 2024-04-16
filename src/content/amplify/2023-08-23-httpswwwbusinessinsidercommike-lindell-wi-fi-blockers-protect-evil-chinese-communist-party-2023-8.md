@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-23-httpswwwbusinessinsidercommike-lindell-wi-fi-blockers-protect-evil-chinese-communist-party-2023-8
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.businessinsider.com/mike-lindell-wi-fi-blockers-protect-evil-chinese-communist-party-2023-8
 ---

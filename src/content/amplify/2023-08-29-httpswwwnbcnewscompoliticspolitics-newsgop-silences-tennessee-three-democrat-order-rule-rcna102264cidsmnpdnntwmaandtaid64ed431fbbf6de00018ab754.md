@@ -8,7 +8,7 @@ slug: >-
   2023-08-29-httpswwwnbcnewscompoliticspolitics-newsgop-silences-tennessee-three-democrat-order-rule-rcna102264cidsmnpdnntwmaandtaid64ed431fbbf6de00018ab754
 tags:
   - black
-  - politics
+  - Politics
 title: >-
   https://www.nbcnews.com/politics/politics-news/gop-silences-tennessee-three-democrat-order-rule-rcna102264?cid=sm_npd_nn_tw_ma&taid=64ed431fbbf6de00018ab754
 ---

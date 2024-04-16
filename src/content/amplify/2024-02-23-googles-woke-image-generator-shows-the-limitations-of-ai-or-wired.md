@@ -5,7 +5,7 @@ link: 'https://www.wired.com/story/google-gemini-woke-ai-image-generation/'
 slug: 2024-02-23-googles-woke-image-generator-shows-the-limitations-of-ai-or-wired
 tags:
   - ai
-  - politics
+  - Politics
 title: Google’s ‘Woke’ Image Generator Shows the Limitations of AI | WIRED
 ---
 

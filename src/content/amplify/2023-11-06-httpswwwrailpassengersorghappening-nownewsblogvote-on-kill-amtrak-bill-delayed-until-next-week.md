@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-11-06-httpswwwrailpassengersorghappening-nownewsblogvote-on-kill-amtrak-bill-delayed-until-next-week
 tags:
-  - politics
+  - Politics
   - travel
 title: >-
   https://www.railpassengers.org/happening-now/news/blog/vote-on-kill-amtrak-bill-delayed-until-next-week/

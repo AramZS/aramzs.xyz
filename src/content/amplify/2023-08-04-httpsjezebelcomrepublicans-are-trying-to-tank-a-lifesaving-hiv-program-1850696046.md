@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-08-04-httpsjezebelcomrepublicans-are-trying-to-tank-a-lifesaving-hiv-program-1850696046
 tags:
-  - politics
+  - Politics
   - women
 title: >-
   https://jezebel.com/republicans-are-trying-to-tank-a-lifesaving-hiv-program-1850696046

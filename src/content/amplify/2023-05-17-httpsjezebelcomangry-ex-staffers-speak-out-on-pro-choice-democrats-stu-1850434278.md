@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-05-17-httpsjezebelcomangry-ex-staffers-speak-out-on-pro-choice-democrats-stu-1850434278
 tags:
-  - politics
+  - Politics
   - women
 title: >-
   https://jezebel.com/angry-ex-staffers-speak-out-on-pro-choice-democrats-stu-1850434278

@@ -6,7 +6,7 @@ slug: 2023-04-03-httpstheinterceptcom20230403silicon-valley-bank-bailout-pentago
 tags:
   - economy
   - law and order
-  - politics
+  - Politics
 title: 'https://theintercept.com/2023/04/03/silicon-valley-bank-bailout-pentagon/'
 ---
 

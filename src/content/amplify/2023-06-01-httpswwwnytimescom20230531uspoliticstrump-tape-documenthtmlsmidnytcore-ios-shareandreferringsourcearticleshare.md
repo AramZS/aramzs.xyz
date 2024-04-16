@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-01-httpswwwnytimescom20230531uspoliticstrump-tape-documenthtmlsmidnytcore-ios-shareandreferringsourcearticleshare
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.nytimes.com/2023/05/31/us/politics/trump-tape-document.html?smid=nytcore-ios-share&referringSource=articleShare
 ---

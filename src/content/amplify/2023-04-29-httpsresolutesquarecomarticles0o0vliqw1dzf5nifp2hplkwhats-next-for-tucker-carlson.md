@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-04-29-httpsresolutesquarecomarticles0o0vliqw1dzf5nifp2hplkwhats-next-for-tucker-carlson
 tags:
-  - politics
+  - Politics
 title: >-
   https://resolutesquare.com/articles/0o0Vliqw1dZf5NiFP2Hplk/whats-next-for-tucker-carlson/
 ---

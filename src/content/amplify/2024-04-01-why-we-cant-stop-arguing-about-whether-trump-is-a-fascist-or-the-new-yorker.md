@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-01-why-we-cant-stop-arguing-about-whether-trump-is-a-fascist-or-the-new-yorker
 tags:
-  - politics
+  - Politics
 title: Why We Can’t Stop Arguing About Whether Trump Is a Fascist | The New Yorker
 ---
 

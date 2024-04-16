@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-06-02-httpswwweconomistcomunited-states20230601conservative-americans-are-building-a-parallel-economy
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.economist.com/united-states/2023/06/01/conservative-americans-are-building-a-parallel-economy
 ---

@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-05-the-washington-post-judge-blocks-us-officials-from-tech-contacts-in-fir
 tags:
-  - politics
+  - Politics
   - social media
 title: '[The Washington Post] Judge blocks U.S. officials from tech contacts in Fir'
 ---

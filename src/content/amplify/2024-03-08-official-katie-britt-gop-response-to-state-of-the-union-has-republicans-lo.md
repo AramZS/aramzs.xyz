@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-03-08-official-katie-britt-gop-response-to-state-of-the-union-has-republicans-lo
 tags:
-  - politics
+  - Politics
 title: Official Katie Britt GOP Response to State of the Union Has Republicans ‘Lo
 ---
 

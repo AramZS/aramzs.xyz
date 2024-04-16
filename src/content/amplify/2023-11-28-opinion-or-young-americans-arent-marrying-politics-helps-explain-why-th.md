@@ -8,7 +8,7 @@ slug: >-
   2023-11-28-opinion-or-young-americans-arent-marrying-politics-helps-explain-why-th
 tags:
   - culture
-  - politics
+  - Politics
 title: Opinion | Young Americans aren’t marrying. Politics helps explain why. - Th
 ---
 

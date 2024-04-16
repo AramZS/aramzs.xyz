@@ -8,7 +8,7 @@ slug: >-
   2024-02-27-birth-control-targeted-by-right-wing-influencers-in-wake-of-ivf-ruling
 tags:
   - abortion
-  - politics
+  - Politics
   - women
 title: Birth Control Targeted by Right-Wing Influencers in Wake of IVF Ruling
 ---

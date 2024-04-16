@@ -6,7 +6,7 @@ slug: >-
   2023-08-31-aclu-urge-ftc-to-investigate-mastercards-unavoidable-harms-to-sex-workers
 tags:
   - banking
-  - politics
+  - Politics
   - women
 title: ACLU Urge FTC to Investigate Mastercard’s ‘Unavoidable Harms to Sex Workers
 ---

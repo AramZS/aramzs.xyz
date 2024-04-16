@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/qatar-interest-american-sports-world-cup'
 link: 'https://defector.com/qatar-interest-american-sports-world-cup'
 slug: 2023-06-25-httpsdefectorcomqatar-interest-american-sports-world-cup
 tags:
-  - politics
+  - Politics
   - sports
 title: 'https://defector.com/qatar-interest-american-sports-world-cup'
 ---

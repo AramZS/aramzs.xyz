@@ -4,7 +4,7 @@ isBasedOn: 'https://www.nytimes.com/2023/03/21/world/americas/trump-painting-mis
 link: 'https://www.nytimes.com/2023/03/21/world/americas/trump-painting-missing.html'
 slug: 2023-03-22-httpswwwnytimescom20230321worldamericastrump-painting-missinghtml
 tags:
-  - politics
+  - Politics
 title: 'https://www.nytimes.com/2023/03/21/world/americas/trump-painting-missing.html'
 ---
 

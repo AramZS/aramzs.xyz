@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2023-07-30-httpswwwthedailybeastcomright-wing-prageru-says-florida-is-first-state-to-permit-its-curriculum-in-schoolsrefhomerefhome
 tags:
-  - politics
+  - Politics
 title: >-
   https://www.thedailybeast.com/right-wing-prageru-says-florida-is-first-state-to-permit-its-curriculum-in-schools?ref=home?ref=home
 ---

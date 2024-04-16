@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-02-15-yes-democrats-have-an-age-problem-but-its-not-joe-biden-and-his-memory
 tags:
-  - politics
+  - Politics
 title: 'Yes, Democrats have an age problem. But it’s not Joe Biden and his memory. '
 ---
 

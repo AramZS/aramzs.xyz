@@ -4,7 +4,7 @@ isBasedOn: 'https://boltsmag.org/virginia-governor-youngkin-rights-restoration/'
 link: 'https://boltsmag.org/virginia-governor-youngkin-rights-restoration/'
 slug: 2023-03-29-httpsboltsmagorgvirginia-governor-youngkin-rights-restoration
 tags:
-  - politics
+  - Politics
   - virginia
 title: 'https://boltsmag.org/virginia-governor-youngkin-rights-restoration/'
 ---
