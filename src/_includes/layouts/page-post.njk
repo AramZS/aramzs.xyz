@@ -13,12 +13,12 @@
     {% if modified %}
     modified on <time datetime="{{ modified.toISOString() }}">{{ modified | dateToFormat("DDD") }}</time>
     {% endif %}
-    <br/>{{ readingTime.text if readingTime.words > 0 }}.
+    <br/>{% if readingTime.text and readingTime.words > 0 %}{{ readingTime.text if readingTime.words > 0 }}.{% endif %}
 {% endset %}
 
 {% block pageContent %}
     {% if growthStage === 'stub' %}
-    <section data-source="src/_includes/layouts/page-post.njk">
+    <section>
         <blockquote>
             <p>Note: This is a stub post to be filled out in the future. It has been created for the purpose of interlinking feel free to check out what links here from the list below to find related pages.</p>
         </blockquote>
@@ -35,7 +35,7 @@
         </section>
     {% endif %}
 
-    <section class="full-width">
+    <section class="full-width" data-source="src/_includes/layouts/page-post.njk">
         {{ content | safe }}
     </section>
 
