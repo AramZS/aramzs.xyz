@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960346668,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 10728649
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 48
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.zin8JKuZHKgo3vHSAqd9ug",
+                "title": "The Information: A History, a Theory, a Flood",
+                "title_without_series": "The Information: A History, a Theory, a Flood",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414176516l/10728649._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414176516l/10728649._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/10728649-the-information",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": "Vintage",
+                "publication_day": 1,
+                "publication_year": 2011,
+                "publication_month": 3,
+                "average_rating": 4.01,
+                "ratings_count": 13885,
+                "description": "James Gleick, the author of the best sellers <i>Chaos</i> and <i>Genius,</i> now brings us a work just as astonishing and masterly: a revelatory chronicle and meditation that shows how information has become the modern era’s defining quality—the blood, the fuel, the vital principle of our world. <br /> <br />The story of information begins in a time profoundly unlike our own, when every thought and utterance vanishes as soon as it is born. From the invention of scripts and alphabets to the long-misunderstood talking drums of Africa, Gleick tells the story of information technologies that changed the very nature of human consciousness. He provides portraits of the key figures contributing to the inexorable development of our modern understanding of information: Charles Babbage, the idiosyncratic inventor of the first great mechanical computer; Ada Byron, the brilliant and doomed daughter of the poet, who became the first true programmer; pivotal figures like Samuel Morse and Alan Turing; and Claude Shannon, the creator of information theory itself.<br /> <br />And then the information age arrives. Citizens of this world become experts willy-nilly: aficionados of bits and bytes. And we sometimes feel we are drowning, swept by a deluge of signs and signals, news and images, blogs and tweets. <i>The Information</i> is the story of how we got here and where we are heading.",
+                "authors": {
+                    "author": {
+                        "id": 10401,
+                        "name": "James Gleick",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1304671926p5/10401.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1304671926p2/10401.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10401.James_Gleick",
+                        "average_rating": 4.01,
+                        "ratings_count": 81623,
+                        "text_reviews_count": 4234
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 13574748,
+                    "uri": "kca://work/amzn1.gr.work.v1.vk9oVvPzp8RxdrwwjdEQkA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452288113
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:15:05 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710713998,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:15:05 -0700 2014",
+            "date_updated": "Sat Jun 07 06:15:05 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960346668",
+            "link": "https://www.goodreads.com/review/show/960346668",
+            "owned": 0
+        }
+    }
+}

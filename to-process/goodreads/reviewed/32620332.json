@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629408500,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 32620332
+                },
+                "isbn": 1501139231,
+                "isbn13": 9781501139239,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 20269
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.VTdlz266RwqIl1WDCftFlw",
+                "title": "The Seven Husbands of Evelyn Hugo",
+                "title_without_series": "The Seven Husbands of Evelyn Hugo",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498169036l/32620332._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498169036l/32620332._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo",
+                "num_pages": 391,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Atria Books",
+                "publication_day": 13,
+                "publication_year": 2017,
+                "publication_month": 6,
+                "average_rating": 4.33,
+                "ratings_count": 167057,
+                "description": "Aging and reclusive Hollywood movie icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life.<br /><br />When she chooses unknown magazine reporter Monique Grant for the job, no one in the journalism community is more astounded than Monique herself. Why her? Why now? Monique is not exactly on top of the world. Her husband, David, has left her, and her career has stagnated. Regardless of why Evelyn has chosen her to write her biography, Monique is determined to use this opportunity to jumpstart her career.<br /><br />Summoned to Evelyn’s Upper East Side apartment, Monique listens as Evelyn unfurls her story: from making her way to Los Angeles in the 1950s to her decision to leave show business in the late 80s, and, of course, the seven husbands along the way. As Evelyn’s life unfolds—revealing a ruthless ambition, an unexpected friendship, and a great forbidden love—Monique begins to feel a very a real connection to the actress. But as Evelyn’s story catches up with the present, it becomes clear that her life intersects with Monique’s own in tragic and irreversible ways.",
+                "authors": {
+                    "author": {
+                        "id": 6572605,
+                        "name": "Taylor Jenkins Reid",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1493925431p5/6572605.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1493925431p2/6572605.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6572605.Taylor_Jenkins_Reid",
+                        "average_rating": 4.17,
+                        "ratings_count": 495900,
+                        "text_reviews_count": 73919
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 46885151,
+                    "uri": "kca://work/amzn1.gr.work.v1.2iJGY3VR3KTVITxx0dKXUg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666054615
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:49:24 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274612698,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:49:23 -0800 2018",
+            "date_updated": "Mon Dec 17 07:49:24 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629408500",
+            "link": "https://www.goodreads.com/review/show/2629408500",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 88115455,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 709124
+                },
+                "isbn": 226401227,
+                "isbn13": 9780226401225,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 14
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZNk8iHSdWT60B5tH6G420A",
+                "title": "The Nature of the Book: Print and Knowledge in the Making",
+                "title_without_series": "The Nature of the Book: Print and Knowledge in the Making",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/709124.The_Nature_of_the_Book",
+                "num_pages": 776,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "University of Chicago Press",
+                "publication_day": 15,
+                "publication_year": 2000,
+                "publication_month": 5,
+                "average_rating": 4,
+                "ratings_count": 133,
+                "description": "In <i>The Nature of the Book</i>, a tour de force of cultural history, Adrian Johns constructs an entirely original and vivid picture of print culture and its many arenas—commercial, intellectual, political, and individual.<br /><br />\"A compelling exposition of how authors, printers, booksellers and readers competed for power over the printed page. . . . The richness of Mr. Johns's book lies in the splendid detail he has collected to describe the world of books in the first two centuries after the printing press arrived in England.\"—Alberto Manguel, <i>Washington Times</i><br /><br />\"[A] mammoth and stimulating account of the place of print in the history of knowledge. . . . Johns has written a tremendously learned primer.\"—D. Graham Burnett, <i>New Republic</i><br /><br />\"A detailed, engrossing, and genuinely eye-opening account of the formative stages of the print culture. . . . This is scholarship at its best.\"—Merle Rubin, <i>Christian Science Monitor</i><br /><br />\"The most lucid and persuasive account of the new kind of knowledge produced by print. . . . A work to rank alongside McLuhan.\"—John Sutherland, <i>The Independent</i><br /><br />\"Entertainingly written. . . . The most comprehensive account available . . . well documented and engaging.\"—Ian Maclean, <i>Times Literary Supplement</i>",
+                "authors": {
+                    "author": {
+                        "id": 377914,
+                        "name": "Adrian Johns",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1277836294p5/377914.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1277836294p2/377914.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/377914.Adrian_Johns",
+                        "average_rating": 3.85,
+                        "ratings_count": 395,
+                        "text_reviews_count": 55
+                    }
+                },
+                "published": 2000,
+                "work": {
+                    "id": 695398,
+                    "uri": "kca://work/amzn1.gr.work.v1.Hf2AFnvlpnuvhgaHSC8-7A"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 64172478,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Wed Feb 03 00:00:00 -0800 2010",
+            "read_at": {},
+            "date_added": "Wed Feb 03 17:57:04 -0800 2010",
+            "date_updated": "Wed Jul 21 08:53:04 -0700 2010",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/88115455",
+            "link": "https://www.goodreads.com/review/show/88115455",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1304800791,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23012877
+                },
+                "isbn": 1632150409,
+                "isbn13": 9781632150400,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1595
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.fxwtyyj4ClYoa0Kx_o0sQQ",
+                "title": "The Far Reaching Tentacles of N'rygoth (Rat Queens, #2)",
+                "title_without_series": "The Far Reaching Tentacles of N'rygoth",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431019204l/23012877._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431019204l/23012877._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23012877-the-far-reaching-tentacles-of-n-rygoth",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 6,
+                "publication_year": 2015,
+                "publication_month": 5,
+                "average_rating": 4.14,
+                "ratings_count": 24933,
+                "description": "This booze-soaked second volume of RAT QUEENS reveals a growing menace within the very walls of Palisade. And while Dee may have run from her past, the bloated, blood-feasting sky god N’rygoth never really lets his children stray too far.<br /><br />Collects RAT QUEENS #6-10",
+                "authors": {
+                    "author": {
+                        "id": 5737121,
+                        "name": "Kurtis J. Wiebe",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1360711802p5/5737121.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1360711802p2/5737121.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5737121.Kurtis_J_Wiebe",
+                        "average_rating": 4.04,
+                        "ratings_count": 99393,
+                        "text_reviews_count": 8492
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 42579247,
+                    "uri": "kca://work/amzn1.gr.work.v1.7_Bbins7IBo0wkAcbUDBVA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 892740046
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 10 20:37:01 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813195474,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Wed Jun 10 20:37:00 -0700 2015",
+            "date_updated": "Mon Oct 23 16:31:56 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1304800791",
+            "link": "https://www.goodreads.com/review/show/1304800791",
+            "owned": 0
+        }
+    }
+}

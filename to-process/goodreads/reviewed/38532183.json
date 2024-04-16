@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2694072315,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 38532183
+                },
+                "isbn": 1501178830,
+                "isbn13": 9781501178832,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 608
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.77Xd2oQ6v-eAOKPHlkDxcg",
+                "title": "How to Be Alone: If You Want To, and Even If You Don't",
+                "title_without_series": "How to Be Alone: If You Want To, and Even If You Don't",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538302550l/38532183._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538302550l/38532183._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/38532183-how-to-be-alone",
+                "num_pages": 224,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Atria Books",
+                "publication_day": 6,
+                "publication_year": 2018,
+                "publication_month": 11,
+                "average_rating": 3.82,
+                "ratings_count": 3111,
+                "description": "<b>The former Sex &amp; Relationships Editor for <i>Cosmopolitan </i>and host of the wildly popular comedy show <i>Tinder Live with Lane Moore</i> presents her poignant, funny, and deeply moving first book.</b><br /><br />Lane Moore is a rare performer who is as impressive onstage—whether hosting her iconic show <i>Tinder Live </i>or being the enigmatic front woman of It Was Romance—as she is on the page, as both a former writer for <i>The Onion</i> and an award-winning sex and relationships editor for <i>Cosmopolitan</i>. But her story has had its obstacles, including being her own parent, living in her car as a teenager, and moving to New York City to pursue her dreams. Through it all, she looked to movies, TV, and music as the family and support systems she never had.<br /><br />From spending the holidays alone to having better “stranger luck” than with those closest to her to feeling like the last hopeless romantic on earth, Lane reveals her powerful and entertaining journey in all its candor, anxiety, and ultimate acceptance—with humor always her bolstering force and greatest gift.<br /><br /><i>How to Be Alone</i> is a must-read for anyone whose childhood still feels unresolved, who spends more time pretending to have friends online than feeling close to anyone in real life, who tries to have genuine, deep conversations in a roomful of people who would <i>rather you not</i>. Above all, it’s a book for anyone who desperately wants to feel less alone and a little more connected through reading her words.",
+                "authors": {
+                    "author": {
+                        "id": 17709445,
+                        "name": "Lane Moore",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1535992398p5/17709445.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1535992398p2/17709445.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17709445.Lane_Moore",
+                        "average_rating": 3.82,
+                        "ratings_count": 3111,
+                        "text_reviews_count": 635
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 60165003,
+                    "uri": "kca://work/amzn1.gr.work.v1.1DoMEFpkUXhqDr3xu2O0Rg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2750225652
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Jan 29 08:15:55 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2338299119,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Jan 29 08:15:55 -0800 2019",
+            "date_updated": "Tue Jan 29 08:15:55 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2694072315",
+            "link": "https://www.goodreads.com/review/show/2694072315",
+            "owned": 0
+        }
+    }
+}

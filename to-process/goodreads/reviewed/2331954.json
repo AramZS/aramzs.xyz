@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 29505552,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2331954
+                },
+                "isbn": 307406105,
+                "isbn13": 9780307406101,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1402
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.X4LtNQt55x-mplsOK0pXQg",
+                "title": "Infected (Infected, #1)",
+                "title_without_series": "Infected",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2331954.Infected",
+                "num_pages": 342,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.84,
+                "ratings_count": 18953,
+                "description": "Across America a mysterious disease is turning ordinary people into raving, paranoid murderers who inflict brutal horrors on strangers, themselves, and even their own families. <br /><br />Working under the government’s shroud of secrecy, CIA operative Dew Phillips crisscrosses the country trying in vain to capture a live victim. With only decomposing corpses for clues, CDC epidemiologist Margaret Montoya races to analyze the science behind this deadly contagion. She discovers that these killers all have one thing in common – they’ve been contaminated by a bioengineered parasite, shaped by a complexity far beyond the limits of known science.<br /><br />Meanwhile Perry Dawsey – a hulking former football star now resigned to life as a cubicle-bound desk jockey – awakens one morning to find several mysterious welts growing on his body. Soon Perry finds himself acting and thinking strangely, hearing voices . . . he is infected. <br /> <br />The fate of the human race may well depend on the bloody war Perry must wage with his own body, because the parasites want something from him, something that goes beyond mere murder.",
+                "authors": {
+                    "author": {
+                        "id": 114504,
+                        "name": "Scott Sigler",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1434042056p5/114504.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1434042056p2/114504.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/114504.Scott_Sigler",
+                        "average_rating": 4.02,
+                        "ratings_count": 92269,
+                        "text_reviews_count": 9044
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 2338528,
+                    "uri": "kca://work/amzn1.gr.work.v1.vZ0L5a0RJOmi8hJlVmXJeg"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 12829078,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Aug 07 07:16:39 -0700 2008",
+            "date_updated": "Thu Aug 07 07:16:39 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/29505552",
+            "link": "https://www.goodreads.com/review/show/29505552",
+            "owned": 0
+        }
+    }
+}

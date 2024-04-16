@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1773861962,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 272538
+                },
+                "isbn": 862415969,
+                "isbn13": 9780862415969,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Jyc_ZX_6DlZODxbrSGQDmQ",
+                "title": "The Harlem Cycle: A Rage in Harlem; The Real Cool Killers; The Crazy Kill (Harlem Cycle, #1-3)",
+                "title_without_series": "The Harlem Cycle: A Rage in Harlem; The Real Cool Killers; The Crazy Kill",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/272538.The_Harlem_Cycle",
+                "num_pages": 512,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Payback Press",
+                "publication_day": 1,
+                "publication_year": 1996,
+                "publication_month": 6,
+                "average_rating": 4.27,
+                "ratings_count": 103,
+                "description": "This collection of three novels presents Coffin Ed Johnson and Grave Digger Jones, Harlem's toughest pair of cops. Renowned for their meanness and always armed with their legendary nickel-plated colts, they patrol the streets of Harlem and attempt to keep some semblance of law and order.",
+                "authors": {
+                    "author": {
+                        "id": 4392029,
+                        "name": "Chester Himes",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1311732915p5/4392029.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1311732915p2/4392029.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4392029.Chester_Himes",
+                        "average_rating": 3.9,
+                        "ratings_count": 14195,
+                        "text_reviews_count": 1306
+                    }
+                },
+                "published": 1996,
+                "work": {
+                    "id": 264243,
+                    "uri": "kca://work/amzn1.gr.work.v1.FgbbSUyPZl-P15HjhO7PjA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1530519519
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 02 09:13:46 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1437891762,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Oct 02 09:13:44 -0700 2016",
+            "date_updated": "Sun Oct 02 09:13:46 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1773861962",
+            "link": "https://www.goodreads.com/review/show/1773861962",
+            "owned": 0
+        }
+    }
+}

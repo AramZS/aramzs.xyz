@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3032612639,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 46223708
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 289
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.rK0w9HiiqcyXl4Yw0QP_7A",
+                "title": "Alien III",
+                "title_without_series": "Alien III",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560094362l/46223708._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560094362l/46223708._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/46223708-alien-iii",
+                "num_pages": {},
+                "format": "Audible Audio",
+                "edition_information": {},
+                "publisher": "Audible Studios",
+                "publication_day": 30,
+                "publication_year": 2019,
+                "publication_month": 5,
+                "average_rating": 3.44,
+                "ratings_count": 2209,
+                "description": "Audible is bringing William Gibson’s uncovered Alien III script to life in audio for the first time, to mark the 40th Anniversary of the birth of the Alien franchise. <br /><br />Alongside a full cast, Michael Biehn and Lance Henriksen reprise their iconic roles as Corporal Hicks and Bishop from the 1986 film Aliens. <br /><br />Father of cyberpunk William Gibson’s original script for Alien III, written in 1987 as a sequel to Aliens, never made it to our screens, although it went on to achieve cult status among fans as the third instalment that might have been after being leaked online. <br /><br />This terrifying, cinematic multicast dramatisation - directed by the multi-award-winning Dirk Maggs - is the chance to experience William Gibson’s untold story and its terrifying, claustrophobic and dark encounters between humans and aliens, as a completely immersive audio experience. <br /><br />The story begins with the Sulaco on its return journey from LV-426. On board the military ship are the cryogenically frozen skeleton crew of that film’s survivors: Ripley, Hicks, Newt and Bishop. <br /><br />We travel aboard and hear an alarm blare. Our heroes are no longer alone....<br /><br />Starring: Tom Alexander, Barbara Barnes, Michael Biehn, Cliff Chapman, Samantha Coughlan, Ben Cura, Dar Dash, Harry Ditson, Mairead Doherty, Lance Henriksen, Graham Hoadly, Lorelei King, Laurel Lefkow, Martin McDougall, Sarah Pitard, Michael Roberts, David Seddon, Andrew James Spooner, Siri Steinmo, Dai Tabuchi, Keith Wickham, Rebecca Yeo.<br /><br />©2019 20th Century Fox (P)2019 Audible, Ltd",
+                "authors": {
+                    "author": {
+                        "id": 9226,
+                        "name": "William Gibson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1373826214p5/9226.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1373826214p2/9226.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9226.William_Gibson",
+                        "average_rating": 3.89,
+                        "ratings_count": 578194,
+                        "text_reviews_count": 24344
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 71199376,
+                    "uri": "kca://work/amzn1.gr.work.v1.dfJebIAL9u9zSa4scfK-HQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3202233670
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Nov 02 07:11:12 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3200746364
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Nov 01 06:19:29 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri Nov 01 06:19:28 -0700 2019",
+            "read_at": "Sat Nov 02 07:11:25 -0700 2019",
+            "date_added": "Fri Nov 01 06:19:28 -0700 2019",
+            "date_updated": "Sat Nov 02 07:11:25 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3032612639",
+            "link": "https://www.goodreads.com/review/show/3032612639",
+            "owned": 0
+        }
+    }
+}

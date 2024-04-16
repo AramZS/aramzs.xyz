@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 688625438,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2442
+                },
+                "isbn": 61020613,
+                "isbn13": 9780061020612,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1294
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Lzsv2iXRjlJQbk10eHblew",
+                "title": "Witches Abroad (Discworld, #12; Witches #3)",
+                "title_without_series": "Witches Abroad",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403326937l/2442._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403326937l/2442._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2442.Witches_Abroad",
+                "num_pages": 374,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "HarperTorch",
+                "publication_day": 30,
+                "publication_year": 2002,
+                "publication_month": 7,
+                "average_rating": 4.22,
+                "ratings_count": 69595,
+                "description": "Be careful what you wish for...<br /><br />Once upon a time there was a fairy godmother named Desiderata who had a good heart, a wise head, and poor planning skills—which unfortunately left the Princess Emberella in the care of her <em>other</em> (not quite so good and wise) godmother when DEATH came for Desiderata. So now it's up to Magrat Garlick, Granny Weatherwax, and Nanny Ogg to hop on broomsticks and make for far-distant Genua to ensure the servant girl <em>doesn't</em> marry the Prince.<br /><br />But the road to Genua is bumpy, and along the way the trio of witches encounters the occasional vampire, werewolf, and falling house (well this is a <em>fairy tale</em>, after all). The trouble really begins once these reluctant foster-godmothers arrive in Genua and must outwit their power-hungry counterpart who'll stop at nothing to achieve a proper \"happy ending\"—even if it means destroying a kingdom.",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2002,
+                "work": {
+                    "id": 929672,
+                    "uri": "kca://work/amzn1.gr.work.v1.Xd335ylqnWqpdRHK2LOIhA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 114358701
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Aug 07 11:34:12 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Sep 01 00:00:00 -0700 2013",
+            "date_added": "Wed Aug 07 11:34:12 -0700 2013",
+            "date_updated": "Wed Jan 22 13:23:14 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/688625438",
+            "link": "https://www.goodreads.com/review/show/688625438",
+            "owned": 0
+        }
+    }
+}

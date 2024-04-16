@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 75480775,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6359434
+                },
+                "isbn": 1401323588,
+                "isbn13": 9781401323585,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1289
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.x8YFthDbi3ADEbjNG-qvmw",
+                "title": "And Another Thing... (Hitchhiker's Guide to the Galaxy, #6)",
+                "title_without_series": "And Another Thing...",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327908458l/6359434._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327908458l/6359434._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6359434-and-another-thing",
+                "num_pages": 275,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Hyperion",
+                "publication_day": 12,
+                "publication_year": 2009,
+                "publication_month": 10,
+                "average_rating": 3.55,
+                "ratings_count": 25965,
+                "description": "<b>AN ENGLISHMAN'S CONTINUING SEARCH THROUGH SPACE AND TIME FOR A DECENT CUP OF TEA...</b><br /><br />Arthur Dent's accidental association with that wholly remarkable book <i>The Hitchhiker's Guide to the Galaxy</i> has not been entirely without incident.<br /><br />Arthur has traveled the length, breadth, and depth of known, and unknown, space. He has stumbled forward and backward through time. He has been blown up, reassembled, cruelly imprisoned, horribly released, and colorfully insulted more than is strictly necessary. And of course Arthur Dent has comprehensively failed to grasp the meaning of life, the universe, and everything.<br /><br />Arthur has finally made it home to Earth, but that does not mean he has escaped his fate.<br /><br />Arthur's chances of getting his hands on a decent cuppa have evaporated rapidly, along with all the world's oceans. For no sooner has he touched down on the planet Earth than he finds out that it is about to be blown up...again.<br /><br /><i>And Another Thing</i>...is the rather unexpected, but very welcome, sixth installment of the Hitchhiker's Guide to the Galaxy series. It features a pantheon of unemployed gods, everyone's favorite renegade Galactic President, a lovestruck green alien, an irritating computer, and at least one very large slab of cheese.",
+                "authors": {
+                    "author": {
+                        "id": 10896,
+                        "name": "Eoin Colfer",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1254336426p5/10896.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1254336426p2/10896.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10896.Eoin_Colfer",
+                        "average_rating": 3.94,
+                        "ratings_count": 1359512,
+                        "text_reviews_count": 41234
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 4857805,
+                    "uri": "kca://work/amzn1.gr.work.v1.6hHeH5_JJecVTjE7Ey7AaQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240470098
+                    },
+                    "old_status": "to-read",
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:53:52 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Oct 23 08:21:46 -0700 2009",
+            "date_updated": "Fri Dec 13 08:53:52 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/75480775",
+            "link": "https://www.goodreads.com/review/show/75480775",
+            "owned": 0
+        }
+    }
+}

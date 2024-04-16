@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2186987901,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23546815
+                },
+                "isbn": 785189297,
+                "isbn13": 9780785189299,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 97
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Gdmhyv3KjDzbKOKrtf1P-A",
+                "title": "Bucky Barnes: The Winter Soldier, Volume 1: The Man on the Wall",
+                "title_without_series": "Bucky Barnes: The Winter Soldier, Volume 1: The Man on the Wall",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480294152l/23546815._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480294152l/23546815._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23546815-bucky-barnes",
+                "num_pages": 112,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel Comics",
+                "publication_day": 26,
+                "publication_year": 2015,
+                "publication_month": 5,
+                "average_rating": 3.04,
+                "ratings_count": 552,
+                "description": "After the tragedy of <i>Original Sin</i>, what becomes of Bucky Barnes, the Winter Soldier? Discover the cosmic answer here, as Bucky takes his place as the newest secret protector of Earth! Wounded by a mystery bullet, Bucky traces the evidence to Asgard, where a secret lurks underneath the kingdom. Bucky has the key - but first he must face the Frozen Wolves of Niffleheim! Then, on the planet Mer-z-bow, Bucky meets his match! And as the Winter Soldier comes face to face with Crossbones, we leap 200 years into the future and discover how Bucky's actions will affect the Marvel Universe to come! It's a vision of the future like none you'e ever seen before! But who took a shot at Bucky? Why? And what will be the cost of his action?<br /><br /><b>Collecting</b>: <i>Bucky Barnes: The Winter Soldier</i> 1-5",
+                "authors": {
+                    "author": {
+                        "id": 6451215,
+                        "name": "Aleš Kot",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1437719500p5/6451215.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1437719500p2/6451215.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6451215.Ale_Kot",
+                        "average_rating": 3.69,
+                        "ratings_count": 14278,
+                        "text_reviews_count": 1515
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 42854074,
+                    "uri": "kca://work/amzn1.gr.work.v1.0_bRPMGfAL7PKTt1PrdE0g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2084098919
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Nov 17 06:08:00 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1837522577,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Nov 17 06:08:00 -0800 2017",
+            "date_updated": "Fri Nov 17 06:08:00 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2186987901",
+            "link": "https://www.goodreads.com/review/show/2186987901",
+            "owned": 0
+        }
+    }
+}

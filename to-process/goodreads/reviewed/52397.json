@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785922666,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 52397
+                },
+                "isbn": 446675504,
+                "isbn13": 9780446675505,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4248
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.s-8t2k2-wJs9tGKTWeh86w",
+                "title": "Parable of the Sower (Earthseed, #1)",
+                "title_without_series": "Parable of the Sower",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/52397.Parable_of_the_Sower",
+                "num_pages": 345,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Grand Central Publishing",
+                "publication_day": 1,
+                "publication_year": 2000,
+                "publication_month": 1,
+                "average_rating": 4.16,
+                "ratings_count": 53574,
+                "description": "In 2025, with the world descending into madness and anarchy, one woman begins a fateful journey toward a better future.<br /><br />Lauren Olamina and her family live in one of the only safe neighborhoods remaining on the outskirts of Los Angeles. Behind the walls of their defended enclave, Lauren’s father, a preacher, and a handful of other citizens try to salvage what remains of a culture that has been destroyed by drugs, disease, war, and chronic water shortages. While her father tries to lead people on the righteous path, Lauren struggles with hyperempathy, a condition that makes her extraordinarily sensitive to the pain of others.<br /><br />When fire destroys their compound, Lauren’s family is killed and she is forced out into a world that is fraught with danger. With a handful of other refugees, Lauren must make her way north to safety, along the way conceiving a revolutionary idea that may mean salvation for all mankind.",
+                "authors": {
+                    "author": {
+                        "id": 29535,
+                        "name": "Octavia E. Butler",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1242244143p5/29535.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1242244143p2/29535.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/29535.Octavia_E_Butler",
+                        "average_rating": 4.17,
+                        "ratings_count": 318314,
+                        "text_reviews_count": 32296
+                    }
+                },
+                "published": 2000,
+                "work": {
+                    "id": 59258,
+                    "uri": "kca://work/amzn1.gr.work.v1.CT2gq80wC5cURFXEjEf_7g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546328555
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:16:40 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1449417754,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Oct 16 07:16:39 -0700 2016",
+            "date_updated": "Sun Oct 16 07:16:40 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785922666",
+            "link": "https://www.goodreads.com/review/show/1785922666",
+            "owned": 0
+        }
+    }
+}

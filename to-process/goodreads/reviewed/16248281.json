@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749129264,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16248281
+                },
+                "isbn": 62251678,
+                "isbn13": 9780062251671,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 51
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.3TovR8pTxQUBopgAyvI3pw",
+                "title": "Hercule Poirot: The Complete Short Stories",
+                "title_without_series": "Hercule Poirot: The Complete Short Stories",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373226709l/16248281._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373226709l/16248281._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16248281-hercule-poirot",
+                "num_pages": 896,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "William Morrow Paperbacks",
+                "publication_day": 10,
+                "publication_year": 2013,
+                "publication_month": 9,
+                "average_rating": 4.32,
+                "ratings_count": 6754,
+                "description": "At last, a single volume that gathers together all of the short stories featuring Agatha Christie's most famous creation: Hercule Poirot. The dapper, mustache-twirling little Belgian with the egg-shaped head and curious mannerisms has solved some of the most puzzling crimes of the century—and, in his own humble opinion, is \"probably the greatest detective in the world.\"<br /><br />In this complete collection of stories, ranging from short tales to novellas, Poirot faces violent murders, poisonings, kidnappings, and thefts—all solved with his characteristic panache. Only Agatha Christie could have devised cases worthy of Hercule Poirot's skill and \"little gray cells.\"",
+                "authors": {
+                    "author": {
+                        "id": 123715,
+                        "name": "Agatha Christie",
+                        "role": "Prólogo",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1589991473p5/123715.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1589991473p2/123715.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/123715.Agatha_Christie",
+                        "average_rating": 4,
+                        "ratings_count": 3793286,
+                        "text_reviews_count": 198109
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 526004,
+                    "uri": "kca://work/amzn1.gr.work.v1.AU2XSlJRLieK2yVnaiU0HQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498302447
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:42:21 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414465769,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:42:20 -0700 2016",
+            "date_updated": "Mon Sep 05 07:42:21 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749129264",
+            "link": "https://www.goodreads.com/review/show/1749129264",
+            "owned": 0
+        }
+    }
+}

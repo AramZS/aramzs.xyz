@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967648,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22043062
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 18
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.GIa0g3Pu_4vSoHOKbyHMrQ",
+                "title": "A Slip of the Keyboard: Collected Nonfiction",
+                "title_without_series": "A Slip of the Keyboard: Collected Nonfiction",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22043062-a-slip-of-the-keyboard",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.22,
+                "ratings_count": 4450,
+                "description": "<b>A collection of essays and other non fiction from Terry Pratchett, spanning the whole of his writing career from his early years to the present day.</b> <br />     Terry Pratchett has earned a place in the hearts of readers the world over with his bestselling Discworld series -- but in recent years he has become equally well-known and respected as an outspoken campaigner for causes including Alzheimer's research and animal rights. <i>A Slip of the Keyboard </i>brings together for the first time the finest examples of Pratchett's non fiction writing, both serious and surreal: from musings on mushrooms to what it means to be a writer (and why banana daiquiris are so important); from memories of Granny Pratchett to speculation about Gandalf's love life, and passionate defences of the causes dear to him.<br />     With all the humour and humanity that have made his novels so enduringly popular, this collection brings Pratchett out from behind the scenes of the Discworld to speak for himself -- man and boy, bibliophile and computer geek, champion of hats, orangutans and Dignity in Dying.<br /><br />   <i>Snuff </i>was the bestselling adult hardcover novel of 2011. <i>A Blink of the Screen</i>, Terry's short fiction collection, was also one of the bestselling hardcovers of 2012.<br /><br /><br /><i>From the Hardcover edition.</i>",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 23892773,
+                    "uri": "kca://work/amzn1.gr.work.v1._jJQSZ2sgOrOZdqP0cSD7w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886479216
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:29:24 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1002423635,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:29:23 -0700 2015",
+            "date_updated": "Fri Jun 05 15:29:24 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967648",
+            "link": "https://www.goodreads.com/review/show/1299967648",
+            "owned": 0
+        }
+    }
+}

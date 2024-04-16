@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785916579,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13549352
+                },
+                "isbn": 1940589010,
+                "isbn13": 9781940589015,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.islfqOTaK4znSh0f1r6YuA",
+                "title": "Voyage in Noise: Warren Ellis and the Demise of Western Civilization",
+                "title_without_series": "Voyage in Noise: Warren Ellis and the Demise of Western Civilization",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377755590l/13549352._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377755590l/13549352._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13549352-voyage-in-noise",
+                "num_pages": 168,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Sequart Research & Literacy Organization",
+                "publication_day": 29,
+                "publication_year": 2013,
+                "publication_month": 8,
+                "average_rating": 4.1,
+                "ratings_count": 39,
+                "description": "Through works like TRANSMETROPOLITAN, PLANETARY, and THE AUTHORITY, Warren Ellis has changed the history of comic books. In this book, Kevin Thurman and Julian Darius examine Ellis’s body of work, exploring (among other topics) how his early work for Marvel Comics prefigures the concerns of his later work, how his super-heroes respond to comics history, his use of religion, his use of violence, his fascination with lizards (and what they reveal about the human condition), and how his characters often use anger as a stimulus for revolutionary social action, in defiance of the West’s 21st-century malaise. Topical interviews with Ellis complement several essays, expanding the reader’s understanding of the themes in Ellis’s work.",
+                "authors": {
+                    "author": {
+                        "id": 5364293,
+                        "name": "Kevin Thurman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1325702038p5/5364293.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1325702038p2/5364293.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5364293.Kevin_Thurman",
+                        "average_rating": 4.04,
+                        "ratings_count": 302,
+                        "text_reviews_count": 34
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 19115387,
+                    "uri": "kca://work/amzn1.gr.work.v1.4OFWurjcos3Y3jrKAHpBRw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546320930
+                    },
+                    "old_status": {},
+                    "status": "currently-reading",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:07:54 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 1449412522,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sun Oct 16 07:07:54 -0700 2016",
+            "read_at": {},
+            "date_added": "Sun Oct 16 07:07:54 -0700 2016",
+            "date_updated": "Sun Oct 16 07:07:54 -0700 2016",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785916579",
+            "link": "https://www.goodreads.com/review/show/1785916579",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3309697462,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 43263237
+                },
+                "isbn": 765392100,
+                "isbn13": 9780765392107,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 194
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Il9ccpLz4zEikkqsDPNg8g",
+                "title": "The Future of Another Timeline",
+                "title_without_series": "The Future of Another Timeline",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550000245l/43263237._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550000245l/43263237._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/43263237-the-future-of-another-timeline",
+                "num_pages": 352,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 24,
+                "publication_year": 2019,
+                "publication_month": 9,
+                "average_rating": 3.78,
+                "ratings_count": 2961,
+                "description": "<b>From Annalee Newitz, founding editor of <i>io9</i>, comes a story of time travel, murder, and the lengths we'll go to protect the ones we love.</b><br /><br /><b>1992</b>: After a confrontation at a riot grrl concert, seventeen-year-old Beth finds herself in a car with her friend's abusive boyfriend dead in the backseat, agreeing to help her friends hide the body. This murder sets Beth and her friends on a path of escalating violence and vengeance as they realize many other young women in the world need protecting too.<br /><br /><b>2022</b>: Determined to use time travel to create a safer future, Tess has dedicated her life to visiting key moments in history and fighting for change. But rewriting the timeline isn’t as simple as editing one person or event. And just when Tess believes she's found a way to make an edit that actually sticks, she encounters a group of dangerous travelers bent on stopping her at any cost.<br /><br />Tess and Beth’s lives intertwine as war breaks out across the timeline--a war that threatens to destroy time travel and leave only a small group of elites with the power to shape the past, present, and future. Against the vast and intricate forces of history and humanity, is it possible for a single person’s actions to echo throughout the timeline?",
+                "authors": {
+                    "author": {
+                        "id": 191888,
+                        "name": "Annalee Newitz",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1518708368p5/191888.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1518708368p2/191888.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/191888.Annalee_Newitz",
+                        "average_rating": 3.63,
+                        "ratings_count": 18623,
+                        "text_reviews_count": 3448
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 64154258,
+                    "uri": "kca://work/amzn1.gr.work.v1.qI5PjtkJ7du-mMAfSYu-_A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3565533419
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Apr 29 22:53:27 -0700 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2950445915,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Apr 29 22:53:26 -0700 2020",
+            "date_updated": "Wed Apr 29 22:53:26 -0700 2020",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3309697462",
+            "link": "https://www.goodreads.com/review/show/3309697462",
+            "owned": 0
+        }
+    }
+}

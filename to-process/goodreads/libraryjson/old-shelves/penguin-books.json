@@ -1,0 +1,59 @@
+{
+    "name": "Penguin Books ",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Lord of the Flies",
+            "id": "7624",
+            "author": "William Golding",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213667713000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Lord of the Flies: Rating - 5/5",
+                    "date": 1213667713000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7624",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Penguin Books ",
+            "tags": [
+                "Paperback",
+                "Penguin Books ",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0140283331",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780140283334",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "7624",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

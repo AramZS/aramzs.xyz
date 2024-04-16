@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606738547,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 36373398
+                },
+                "isbn": 1501171925,
+                "isbn13": 9781501171925,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 82
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.G1xvS554o33daZA2ytkjvQ",
+                "title": "The Woman in the Woods (Charlie Parker, #16)",
+                "title_without_series": "The Woman in the Woods",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523875174l/36373398._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523875174l/36373398._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/36373398-the-woman-in-the-woods",
+                "num_pages": 483,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Atria/Emily Bestler Books",
+                "publication_day": 12,
+                "publication_year": 2018,
+                "publication_month": 6,
+                "average_rating": 4.16,
+                "ratings_count": 5526,
+                "description": "When the body of a woman—who apparently died in childbirth—is discovered, Parker is hired to track down both her identity and her missing child.<br /><br />In the beautiful Maine woods, a partly preserved body is discovered. Investigators realize that the dead young woman gave birth shortly before her death. But there is no sign of a baby.<br /><br /> Private detective Charlie Parker is hired by a lawyer to shadow the police investigation and find the infant but Parker is not the only searcher. Someone else is following the trail left by the woman, someone with an interest in much more than a missing child…someone prepared to leave bodies in his wake.<br /><br /> And in a house by the woods, a toy telephone begins to ring and a young boy is about to receive a call from a dead woman.",
+                "authors": {
+                    "author": {
+                        "id": 38951,
+                        "name": "John Connolly",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1201288913p5/38951.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1201288913p2/38951.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/38951.John_Connolly",
+                        "average_rating": 4.03,
+                        "ratings_count": 240086,
+                        "text_reviews_count": 23011
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 57078989,
+                    "uri": "kca://work/amzn1.gr.work.v1.ZhOFKHbnpfuwu2zqTVlStQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636062734
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:23:59 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251644441,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:23:58 -0800 2018",
+            "date_updated": "Mon Nov 26 13:23:59 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606738547",
+            "link": "https://www.goodreads.com/review/show/2606738547",
+            "owned": 0
+        }
+    }
+}

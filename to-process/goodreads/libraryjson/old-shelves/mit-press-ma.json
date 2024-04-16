@@ -1,0 +1,51 @@
+{
+    "name": "MIT Press (MA)",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Unit Operations: An Approach to Videogame Criticism",
+            "id": "68556",
+            "author": "Ian Bogost",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386966561000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/68556",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "MIT Press (MA)",
+            "tags": [
+                "Hardcover",
+                "MIT Press (MA)",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "026202599X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780262025997",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "68556",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

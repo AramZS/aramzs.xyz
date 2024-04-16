@@ -1,0 +1,51 @@
+{
+    "name": "Amistad",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Cooking Gene: A Journey Through African American Culinary History in the Old South",
+            "id": "30844433",
+            "author": "Michael W. Twitty",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1554574169000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30844433",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Amistad",
+            "tags": [
+                "Kindle Edition",
+                "Amistad",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "30844433",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

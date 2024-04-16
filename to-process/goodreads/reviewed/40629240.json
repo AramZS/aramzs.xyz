@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2985190191,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 40629240
+                },
+                "isbn": 1534308725,
+                "isbn13": 9781534308725,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 67
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.58JOZEtwsQtVIVJG0aMnuA",
+                "title": "The New World",
+                "title_without_series": "The New World",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530535663l/40629240._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530535663l/40629240._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/40629240-the-new-world",
+                "num_pages": 176,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 22,
+                "publication_year": 2019,
+                "publication_month": 1,
+                "average_rating": 3.72,
+                "ratings_count": 321,
+                "description": "The United States of America -- after the Second Civil War. Two people meet and fall in love. One, a very orderly vegan hacker ready to make some mess. The other, a chaotic cop with a reality tv show that never stops. Head. Over. Heels. With the entire Republic of New California after them, they run. A ballistic SF action romance mini-series in the vein of MAD MAX and ROMEO AND JULIET by ALES KOT, TRADD MOORE and HEATHER MOORE.",
+                "authors": {
+                    "author": {
+                        "id": 6451215,
+                        "name": "Aleš Kot",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1437719500p5/6451215.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1437719500p2/6451215.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6451215.Ale_Kot",
+                        "average_rating": 3.69,
+                        "ratings_count": 14278,
+                        "text_reviews_count": 1515
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 63131884,
+                    "uri": "kca://work/amzn1.gr.work.v1.C3S7ploz7iyLAxEfAQdPeg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3137239286
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Sep 21 06:50:30 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Sep 21 06:50:30 -0700 2019",
+            "date_updated": "Sat Sep 21 06:51:11 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2985190191",
+            "link": "https://www.goodreads.com/review/show/2985190191",
+            "owned": 0
+        }
+    }
+}

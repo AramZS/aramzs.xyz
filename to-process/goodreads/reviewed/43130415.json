@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999620622,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 43130415
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 142
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.i4_wyabFUd6sPdBqoRYZ9w",
+                "title": "Trick Mirror",
+                "title_without_series": "Trick Mirror",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/43130415-trick-mirror",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.23,
+                "ratings_count": 24899,
+                "description": "A breakout writer at <em>The New Yorker</em> examines the fractures at the center of contemporary culture and identity with verve, deftness, and intellectual ferocity–for readers who’ve wondered what Susan Sontag would have been like if she had brain damage from the internet.<br /><br />Jia Tolentino has become a peerless voice of her generation, tackling the conflicts and contradictions and sea changes that define us and our time. Now, in this dazzling and entirely original collection of nine essays, written with a rare combination of give and sharpness, wit and fearlessness, she delves into the forces that warp our vision, demonstrating a stylistic potency and critical dexterity found nowhere else. <br /><br /><em>Trick Mirror</em> is an enlightening, unforgettable trip through the river of self-delusion that surges just beneath the surface of our lives. This is a book about the incentives that shape us, and about how hard it is to see ourselves clearly in a culture that revolves around the self. In each essay, Jia writes about the cultural prisms that have shaped her: the rise of the nightmare social internet; the American scammer as millennial hero; the literary heroine’s journey from brave to blank to bitter; the mandate that everything, including our bodies, should always be getting more efficient and beautiful until we die. Gleaming with Jia’s sense of humor and capacity to elucidate the impossibly complex in an instant, and marked by her desire to treat the reader with profound honesty, Trick Mirror is an instant classic of the worst decade yet.",
+                "authors": {
+                    "author": {
+                        "id": 17276202,
+                        "name": "Jia Tolentino",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1558457852p5/17276202.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1558457852p2/17276202.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17276202.Jia_Tolentino",
+                        "average_rating": 4.23,
+                        "ratings_count": 24910,
+                        "text_reviews_count": 2985
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 66925717,
+                    "uri": "kca://work/amzn1.gr.work.v1.Vz499rhMc7KnX22ECjuhXA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3156493709
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Oct 03 06:28:00 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2646062538,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Oct 03 06:27:59 -0700 2019",
+            "date_updated": "Thu Oct 03 06:27:59 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999620622",
+            "link": "https://www.goodreads.com/review/show/2999620622",
+            "owned": 0
+        }
+    }
+}

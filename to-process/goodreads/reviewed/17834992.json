@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1079188980,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17834992
+                },
+                "isbn": 804128057,
+                "isbn13": 9780804128056,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 298
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.96l42paq3l12BWdfFujVDg",
+                "title": "The Divide: American Injustice in the Age of the Wealth Gap",
+                "title_without_series": "The Divide: American Injustice in the Age of the Wealth Gap",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397671627l/17834992._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397671627l/17834992._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17834992-the-divide",
+                "num_pages": {},
+                "format": "Audiobook",
+                "edition_information": "Unabridged, 14 hours",
+                "publisher": "Random House Audio",
+                "publication_day": 8,
+                "publication_year": 2014,
+                "publication_month": 4,
+                "average_rating": 4.21,
+                "ratings_count": 6629,
+                "description": "<b><i>NEW YORK TIMES </i>BESTSELLER • NAMED ONE OF THE BEST BOOKS OF THE YEAR BY <i>THE WASHINGTON POST,</i> NPR, AND <i>KIRKUS REVIEWS</i><br /><br />A scathing portrait of an urgent new American crisis</b><br /><b> </b><br /> Over the last two decades, America has been falling deeper and deeper into a statistical mystery:<br />  <br /><i>Poverty goes up. Crime goes down. The prison population doubles.</i><br /><i>Fraud by the rich wipes out 40 percent of the world’s wealth. The rich get massively richer. No one goes to jail.</i><br />  <br /> In search of a solution, journalist Matt Taibbi discovered the Divide, the seam in American life where our two most troubling trends—growing wealth inequality and mass incarceration—come together, driven by a dramatic shift in American citizenship: Our basic rights are now determined by our wealth or poverty. The Divide is what allows massively destructive fraud by the hyperwealthy to go unpunished, while turning poverty itself into a crime—but it’s impossible to see until you look at these two alarming trends side by side.<br />  <br /> In <i>The Divide, </i>Matt Taibbi takes readers on a galvanizing journey through both sides of our new system of justice—the fun-house-mirror worlds of the untouchably wealthy and the criminalized poor. He uncovers the startling looting that preceded the financial collapse; a wild conspiracy of billionaire hedge fund managers to destroy a company through dirty tricks; and the story of a whistleblower who gets in the way of the largest banks in America, only to find herself in the crosshairs. On the other side of the Divide, Taibbi takes us to the front lines of the immigrant dragnet; into the newly punitive welfare system which treats its beneficiaries as thieves; and deep inside the stop-and-frisk world, where standing in front of your own home has become an arrestable offense. As he narrates these incredible stories, he draws out and analyzes their common source: a perverse new standard of justice, based on a radical, disturbing new vision of civil rights.<br />  <br /> Through astonishing—and enraging—accounts of the high-stakes capers of the wealthy and nightmare stories of regular people caught in the Divide’s punishing logic, Taibbi lays bare one of the greatest challenges we face in contemporary American life: surviving a system that devours the lives of the poor, turns a blind eye to the destructive crimes of the wealthy, and implicates us all.<br /><br /><b>Praise for <i>The Divide</i></b><br /><b>\n  <i> </i>\n</b><br />“Ambitious . . . deeply reported, highly compelling . . . impossible to put down.”<b>\n  <i>—The New York Times Book Review</i>\n</b><br />  <br /> “These are the stories that will keep you up at night. . . . <i>The Divide</i> is not just a report from the new America; it is advocacy journalism at its finest.”<b>\n  <i>—Los Angeles Times</i>\n</b><br />  <br /> “Taibbi is a relentless investigative reporter. He takes readers inside not only investment banks, hedge funds and the blood sport of short-sellers, but into the lives of the needy, minorities, street drifters and illegal immigrants. . . . <i>The Divide</i> is an important book. Its documentation is powerful and shocking.”<b>\n  <i>—The Washington Post</i>\n</b><br />  <br />“Captivating . . . <i>The Divide</i> enshrines its author’s position as one of the most important voices in contemporary American journalism.”<b>—<i>The Independent</i> (UK)</b><br />  <br /> “Taibbi [is] perhaps the greatest reporter on Wall Street’s crimes in the modern era.”<b>—<i>Salon</i></b><br /><br /><br /><i>From the Hardcover edition.</i>",
+                "authors": {
+                    "author": {
+                        "id": 34394,
+                        "name": "Matt Taibbi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1283017278p5/34394.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1283017278p2/34394.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/34394.Matt_Taibbi",
+                        "average_rating": 4.14,
+                        "ratings_count": 25791,
+                        "text_reviews_count": 3050
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 24955022,
+                    "uri": "kca://work/amzn1.gr.work.v1.wdTrRc8cgnSC0W3sRI_i6w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 602768976
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 13 09:43:51 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 1063519340,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 1063519280,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Oct 13 09:43:51 -0700 2014",
+            "date_updated": "Tue Aug 18 21:56:12 -0700 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1079188980",
+            "link": "https://www.goodreads.com/review/show/1079188980",
+            "owned": 0
+        }
+    }
+}

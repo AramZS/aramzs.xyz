@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960343471,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6732019
+                },
+                "isbn": 307463745,
+                "isbn13": 9780307463746,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3483
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.fc9hbzORssMD0ka3F9XB0g",
+                "title": "Rework",
+                "title_without_series": "Rework",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6732019-rework",
+                "num_pages": 279,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Crown Business",
+                "publication_day": 9,
+                "publication_year": 2010,
+                "publication_month": 3,
+                "average_rating": 3.95,
+                "ratings_count": 134060,
+                "description": "Most business books give you the same old advice: Write a business plan, study the competition, seek investors, yadda yadda. If you're looking for a book like that, put this one back on the shelf.<br /><br /><i>Rework </i>shows you a better, faster, easier way to succeed in business. Read it and you'll know why plans are actually harmful, why you don't need outside investors, and why you're better off ignoring the competition. The truth is, you need less than you think. You don't need to be a workaholic. You don't need to staff up. You don't need to waste time on paperwork or meetings. You don't even need an office. Those are all just excuses. <br /><br /> What you really need to do is stop talking and start working. This book shows you the way. You'll learn how to be more productive, how to get exposure without breaking the bank, and tons more counterintuitive ideas that will inspire and provoke you.<br /><br />With its straightforward language and easy-is-better approach, <i>Rework </i>is the perfect playbook for anyone who’s ever dreamed of doing it on their own. Hardcore entrepreneurs, small-business owners, people stuck in day jobs they hate, victims of \"downsizing,\" and artists who don’t want to starve anymore will all find valuable guidance in these pages.",
+                "authors": {
+                    "author": {
+                        "id": 60619,
+                        "name": "Jason Fried",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1284934282p5/60619.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1284934282p2/60619.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/60619.Jason_Fried",
+                        "average_rating": 3.95,
+                        "ratings_count": 152861,
+                        "text_reviews_count": 5697
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 6928276,
+                    "uri": "kca://work/amzn1.gr.work.v1.Ak3IXGvyc7KsNqrH00v4RA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452284137
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:09:57 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710711617,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:09:57 -0700 2014",
+            "date_updated": "Sat Jun 07 06:09:57 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960343471",
+            "link": "https://www.goodreads.com/review/show/960343471",
+            "owned": 0
+        }
+    }
+}

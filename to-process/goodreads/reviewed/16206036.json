@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 500055389,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16206036
+                },
+                "isbn": 1613775512,
+                "isbn13": 9781613775516,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 86
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.k4_LUN3sxEFkYm-MXHtqag",
+                "title": "Star Trek: The Next Generation / Doctor Who: Assimilation2, Volume 2",
+                "title_without_series": "Star Trek: The Next Generation / Doctor Who: Assimilation2, Volume 2",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361792996l/16206036._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361792996l/16206036._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16206036-star-trek",
+                "num_pages": 104,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "IDW Publishing",
+                "publication_day": 26,
+                "publication_year": 2013,
+                "publication_month": 2,
+                "average_rating": 3.86,
+                "ratings_count": 946,
+                "description": "The two greatest science fiction properties of all time cross over for the first time in history, in Star Trek: The Next Generation / Doctor Who Assimilation 2! When the Federation's most terrifying enemy strikes an unholy alliance with one of the Doctor's most hated antagonists, the result is devastation on a cosmic scale! Spanning the ends of space and time itself, Captain Jean-Luc Picard and the crew of the USS Enterprise find themselves joining forces with the Doctor and his companions - with the fate of the galaxy hanging in the balance!",
+                "authors": {
+                    "author": {
+                        "id": 189876,
+                        "name": "Scott Tipton",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/189876.Scott_Tipton",
+                        "average_rating": 3.97,
+                        "ratings_count": 15503,
+                        "text_reviews_count": 1662
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 22155262,
+                    "uri": "kca://work/amzn1.gr.work.v1.45z-OfZ5OQjRhlhfaphQrA"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Jan 08 09:28:17 -0800 2013",
+            "date_updated": "Tue Jan 08 09:28:17 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/500055389",
+            "link": "https://www.goodreads.com/review/show/500055389",
+            "owned": 0
+        }
+    }
+}

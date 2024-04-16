@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 462154091,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 88071
+                },
+                "isbn": 765316978,
+                "isbn13": 9780765316974,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1765
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4JzszrQ4MSuHOp81OmydLQ",
+                "title": "The Last Colony (Old Man's War, #3)",
+                "title_without_series": "The Last Colony",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/88071.The_Last_Colony",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.06,
+                "ratings_count": 48832,
+                "description": "Retired from his fighting days, John Perry is now village ombudsman for a human colony on distant Huckleberry. With his wife, former Special Forces warrior Jane Sagan, he farms several acres, adjudicates local disputes, and enjoys watching his adopted daughter grow up.<br /><br />That is, until his and Jane's past reaches out to bring them back into the game--as leaders of a new human colony, to be peopled by settlers from all the major human worlds, for a deep political purpose that will put Perry and Sagan back in the thick of interstellar politics, betrayal, and war.",
+                "authors": {
+                    "author": {
+                        "id": 4763,
+                        "name": "John Scalzi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+                        "average_rating": 4.03,
+                        "ratings_count": 712024,
+                        "text_reviews_count": 57344
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 18279847,
+                    "uri": "kca://work/amzn1.gr.work.v1.axmNRQZRwmprBmHfyPJyRw"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Nov 24 00:00:00 -0800 2012",
+            "read_at": "Sun Nov 25 00:00:00 -0800 2012",
+            "date_added": "Fri Nov 23 19:23:16 -0800 2012",
+            "date_updated": "Sun Nov 25 18:58:43 -0800 2012",
+            "read_count": 1,
+            "body": "A fun read, though a bit more heavy handed in its plotting. Scalzi's third book in the Old Man's War series is not quite as good as the novels before, but worth picking up.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/462154091",
+            "link": "https://www.goodreads.com/review/show/462154091",
+            "owned": 0
+        }
+    }
+}

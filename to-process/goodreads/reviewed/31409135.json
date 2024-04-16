@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2229997986,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 31409135
+                },
+                "isbn": "149264935X",
+                "isbn13": 9781492649359,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7990
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UouSr0QDRxqPaTLE-dvKqw",
+                "title": "The Radium Girls: The Dark Story of America's Shining Women",
+                "title_without_series": "The Radium Girls: The Dark Story of America's Shining Women",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496007867l/31409135._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496007867l/31409135._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/31409135-the-radium-girls",
+                "num_pages": 479,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Sourcebooks",
+                "publication_day": 2,
+                "publication_year": 2017,
+                "publication_month": 5,
+                "average_rating": 4.16,
+                "ratings_count": 66361,
+                "description": "<p>\n  <strong>The incredible true story of the women who fought America's Undark danger</strong>\n</p><p>The Curies' newly discovered element of radium makes gleaming headlines across the nation as the fresh face of beauty, and wonder drug of the medical community. From body lotion to tonic water, the popular new element shines bright in the otherwise dark years of the First World War.</p><p>Meanwhile, hundreds of girls toil amidst the glowing dust of the radium-dial factories. The glittering chemical covers their bodies from head to toe; they light up the night like industrious fireflies. With such a coveted job, these \"shining girls\" are the luckiest alive — until they begin to fall mysteriously ill.</p><p>But the factories that once offered golden opportunities are now ignoring all claims of the gruesome side effects, and the women's cries of corruption. And as the fatal poison of the radium takes hold, the brave shining girls find themselves embroiled in one of the biggest scandals of America's early 20th century, and in a groundbreaking battle for workers' rights that will echo for centuries to come. </p><p>Written with a sparkling voice and breakneck pace, <em>The Radium Girls</em> fully illuminates the inspiring young women exposed to the \"wonder\" substance of radium, and their awe-inspiring strength in the face of almost impossible circumstances. Their courage and tenacity led to life-changing regulations, research into nuclear bombing, and ultimately saved hundreds of thousands of lives...</p>",
+                "authors": {
+                    "author": {
+                        "id": 16150223,
+                        "name": "Kate  Moore",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1481384542p5/16150223.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1481384542p2/16150223.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16150223.Kate_Moore",
+                        "average_rating": 4.16,
+                        "ratings_count": 67140,
+                        "text_reviews_count": 10018
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 47264110,
+                    "uri": "kca://work/amzn1.gr.work.v1.mAPwFAdEigSxlam9aF-g0w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2139559486
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 28 12:12:27 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1879174072,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 28 12:12:26 -0800 2017",
+            "date_updated": "Thu Dec 28 12:12:26 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2229997986",
+            "link": "https://www.goodreads.com/review/show/2229997986",
+            "owned": 0
+        }
+    }
+}

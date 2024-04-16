@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 474535689,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8560639
+                },
+                "isbn": 1401230466,
+                "isbn13": 9781401230463,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 331
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.CqgasbMOC8BAgtdIa_-PVw",
+                "title": "The Unwritten, Vol. 3: Dead Man's Knock",
+                "title_without_series": "The Unwritten, Vol. 3: Dead Man's Knock",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8560639-the-unwritten-vol-3",
+                "num_pages": 160,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 29,
+                "publication_year": 2011,
+                "publication_month": 3,
+                "average_rating": 4.01,
+                "ratings_count": 6903,
+                "description": "The third volume of the critically acclaimed <i>New York Times</i> best selling new series from the <u>Eisner</u>-nominated creative team of Mike Carey and Peter Gross!<br /><br />The fictional adventures of Tommy Taylor are the biggest publishing sensation of the still-young century. And now, years after the last volume, Tommy’s creator Wilson Taylor, long missing and believed dead, is unleashing a brand-new Tommy Taylor book upon the world. There’s just none problem: It’s not a new Tommy Taylor book at all.<br /> <br />Sinister forces have create a fake book in Wilson’s name, a fraud designed to destroy his literary legacy – and coax the reclusive author of hiding so they can destroy him once and or all. But they didn’t count on Wilson’s most powerful creation: his son, the real Tom Taylor. <br /> <br />To unmasks the truth about the new Tommy, Tom must confront some of the darkest secrets that surround him, from the hidden fate of his father to the secret origin of his closest friend to the true nature of his fictional alter ego. Will Tom be able to stop his doppelganger’s return? Or will the publishing event of the decade lead to the end of time?<br /><br /><b>Collecting</b>: <i>The Unwritten</i> 13-18",
+                "authors": {
+                    "author": {
+                        "id": 9018,
+                        "name": "Mike Carey",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334894864p5/9018.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334894864p2/9018.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9018.Mike_Carey",
+                        "average_rating": 4.03,
+                        "ratings_count": 293647,
+                        "text_reviews_count": 12863
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 13429040,
+                    "uri": "kca://work/amzn1.gr.work.v1.x1WCnIA_hmtDclvpS9YmbQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051896022
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:47:39 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813207008,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sun Dec 09 00:00:00 -0800 2012",
+            "read_at": "Sun Dec 09 00:00:00 -0800 2012",
+            "date_added": "Mon Dec 10 09:59:38 -0800 2012",
+            "date_updated": "Mon Oct 23 16:47:39 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/474535689",
+            "link": "https://www.goodreads.com/review/show/474535689",
+            "owned": 1
+        }
+    }
+}

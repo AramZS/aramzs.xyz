@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789420213,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 296900
+                },
+                "isbn": 1401209971,
+                "isbn13": 9781401209971,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 108
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.db1jA9tLyZtpIW0XqX61qw",
+                "title": "Ex Machina, Vol. 4: March to War (Ex Machina, #4)",
+                "title_without_series": "Ex Machina, Vol. 4: March to War",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/296900.Ex_Machina_Vol_4",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "WildStorm",
+                "publication_day": 6,
+                "publication_year": 2006,
+                "publication_month": 12,
+                "average_rating": 4,
+                "ratings_count": 5735,
+                "description": "Ex Machina, the Eisner Award-winning series that Entertainment Weekly voted \"One of the 10 Best Fiction Books of 2005,\" tells the story of Mitchell Hundred, who becomes the Great Machine, America?s first superhero, after a strange accident gives him amazing powers. Eventually tiring of risking his life merely to maintain the status quo, Mitchell retires from masked crime-fighting and becomes the mayor of New York City. In this volume, a shocking tragedy strikes an Iraq War protest in downtown Manhattan, and Mayor Hundred must choose between the liberty of his constituents and the security of his city. Plus, a tale from the past finally reveals the origin of his mysterious archenemy, Jack Pherson. Collects Ex Machina issue #17-20 and Ex Machina Special #1-2",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 288052,
+                    "uri": "kca://work/amzn1.gr.work.v1.EPKNAppkgWE-TATWeJ9oWA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240471454
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:55:33 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813200242,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:55:33 -0800 2013",
+            "date_updated": "Mon Oct 23 16:38:30 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789420213",
+            "link": "https://www.goodreads.com/review/show/789420213",
+            "owned": 0
+        }
+    }
+}

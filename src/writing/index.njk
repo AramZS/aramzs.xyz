@@ -1,16 +1,17 @@
 {% extends "layouts/page.njk" %}
 
-{% set allPosts = collections.post | excludeStubs | excludeTypes(['mirror', 'resource', 'project']) | reverse %}
+{% set allPosts = collections.post | excludeStubs | excludeTypes(['mirror', 'resource', 'project', 'amplify']) | reverse %}
 {% set postsByYear = allPosts | groupByYear %}
 {% set titlePrefix = 'Index' %}
 {% set title = 'Writing Archive' %}
 {% set subTitle = '<strong>' + allPosts.length +'</strong> items published since April 20, 2007' %}
+{% set paginationBase = "writing" %}
 {% set headingClass = 'writing-index' %}
 
 {% block pageContent %}
     {% for year, items in postsByYear %}
         <section>
-            <header>
+            <header class="breakout">
                 <h3>{{ year }}</h3>
                 <nav>
                     {% set postsByMonth = items | groupByMonth %}

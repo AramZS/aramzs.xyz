@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960343496,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 842939
+                },
+                "isbn": 345406141,
+                "isbn13": 9780345406149,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 180
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.yicsNaEV9QxlUsctkNUlHQ",
+                "title": "How Few Remain (Timeline-191, #1)",
+                "title_without_series": "How Few Remain",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/842939.How_Few_Remain",
+                "num_pages": 596,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Del Rey Books",
+                "publication_day": 29,
+                "publication_year": 1998,
+                "publication_month": 4,
+                "average_rating": 3.9,
+                "ratings_count": 4616,
+                "description": "From the master of alternate history comes an epic of the second Civil War. It was an epoch of glory and success, of disaster and despair...<br /><br />1881: A generation after the South won the Civil War, America writhed once more in the bloody throes of battle. Furious over the annexation of key Mexican territory, the United States declared total war against the Confederate States of America once again. <br /><br />But this was a new kind of war, fought on a lawless frontier where the blue and gray battled not only each other but the Apache, the outlaw, the French, and the English. As Confederate General Stonewall Jackson again demonstrated his military expertise, the North struggled to find a leader who could prove his equal. In the Second War Between the States, the times, the stakes, and the battle lines had changed--and so would history...",
+                "authors": {
+                    "author": {
+                        "id": 29479,
+                        "name": "Harry Turtledove",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1333453762p5/29479.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1333453762p2/29479.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/29479.Harry_Turtledove",
+                        "average_rating": 3.78,
+                        "ratings_count": 146580,
+                        "text_reviews_count": 7826
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 828474,
+                    "uri": "kca://work/amzn1.gr.work.v1.id3vHWq0y-U4VVKLEoLThA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452284167
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:10:01 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710711639,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:10:01 -0700 2014",
+            "date_updated": "Sat Jun 07 06:10:01 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960343496",
+            "link": "https://www.goodreads.com/review/show/960343496",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Dell Publishing",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Schrödinger's Cat Trilogy",
+            "id": "62567",
+            "author": "Robert Anton Wilson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402149007000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Schrödinger's Cat Trilogy: Rating - 5/5",
+                    "date": 1402149007000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/62567",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dell Publishing",
+            "tags": [
+                "Paperback",
+                "Dell Publishing",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0440500702",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780440500704",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "62567",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Schrödinger's Cat Trilogy",
+            "id": 62567,
+            "author": "Robert Anton Wilson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/62567",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dell Publishing",
+            "tags": [
+                "Paperback",
+                "Dell Publishing",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 62567,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

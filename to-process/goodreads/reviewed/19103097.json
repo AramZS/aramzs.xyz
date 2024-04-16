@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1099090201,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19103097
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4264
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.NvD8hb8jtD5zSfCpaFuhbA",
+                "title": "The Magician's Land (The Magicians, #3)",
+                "title_without_series": "The Magician's Land",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455089828l/19103097._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455089828l/19103097._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19103097-the-magician-s-land",
+                "num_pages": 402,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Plume",
+                "publication_day": 5,
+                "publication_year": 2014,
+                "publication_month": 8,
+                "average_rating": 4.15,
+                "ratings_count": 62066,
+                "description": "Quentin Coldwater has been cast out of Fillory, the secret magical land of his childhood dreams. With nothing left to lose, he returns to where his story began, the Brakebills Preparatory College of Magic, but he can’t hide from his past, and it’s not long before it comes looking for him.<br /> <br />Along with Plum, a brilliant young undergraduate with a dark secret of her own, Quentin sets out on a crooked path through a magical demimonde of gray magic and desperate characters. But all roads lead back to Fillory, and his new life takes him to old haunts, like Antarctica, and to buried secrets and old friends he thought were lost forever. He uncovers the key to a sorcery masterwork, a spell that could create magical utopia, and a new Fillory--but casting it will set in motion a chain of events that will bring Earth and Fillory crashing together. To save them he will have to risk sacrificing everything.",
+                "authors": {
+                    "author": {
+                        "id": 142270,
+                        "name": "Lev Grossman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1386343699p5/142270.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1386343699p2/142270.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/142270.Lev_Grossman",
+                        "average_rating": 3.7,
+                        "ratings_count": 407653,
+                        "text_reviews_count": 39848
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 24330801,
+                    "uri": "kca://work/amzn1.gr.work.v1.X1wP6syq1BrsDBBDw3Rlog"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 628300668
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 06 09:26:57 -0800 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 06 09:26:56 -0800 2014",
+            "date_updated": "Thu Nov 06 09:26:56 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1099090201",
+            "link": "https://www.goodreads.com/review/show/1099090201",
+            "owned": 0
+        }
+    }
+}

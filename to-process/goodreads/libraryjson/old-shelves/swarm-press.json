@@ -1,0 +1,104 @@
+{
+    "name": "Swarm Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Brave Men Run: A Novel of the Sovereign Era",
+            "id": "3755134",
+            "author": "Matthew Wayne Selznick",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1218118741000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Brave Men Run: A Novel of the Sovereign Era: Rating - 5/5",
+                    "date": 1218118741000,
+                    "type": "short",
+                    "content": "An excellent novel. I really loved Brave Men Run. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3755134",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Swarm Press",
+            "tags": [
+                "Paperback",
+                "Swarm Press",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "193486109X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781934861097",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "3755134",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Brave Men Run: A Novel of the Sovereign Era",
+            "id": 3755134,
+            "author": "Matthew Wayne Selznick",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3755134",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Swarm Press",
+            "tags": [
+                "Paperback",
+                "Swarm Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "193486109X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 3755134,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

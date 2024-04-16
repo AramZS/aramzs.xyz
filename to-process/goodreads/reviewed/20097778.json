@@ -1,0 +1,163 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1972243211,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20097778
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.J1qRuMWuD0qEOY7XEsjzxQ",
+                "title": "The Struggle Within (Star Trek: Typhon Pact #5)",
+                "title_without_series": "The Struggle Within",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20097778-the-struggle-within",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.61,
+                "ratings_count": 557,
+                "description": "An original e-novella in the acclaimed Typhon Pact series! The Enterprise-E is on a diplomatic mission to the Talarian Republic, the last holdout in the Federation’s efforts to expand the Khitomer Accords in response to the emergence of the Typhon Pact. In the wake of Andor’s recent secession, the Federation is more concerned than ever with strengthening its alliances. The Talarians have been a tenuous potential partner at best, given the history of conflict and mistrust between them and the Federation. But the negotiations between Picard and the Talarians are disrupted by a growing public protest of those who are demanding greater rights—and before long, it becomes clear that the dissidents are not limiting themselves to nonviolent means….",
+                "authors": {
+                    "author": {
+                        "id": 58125,
+                        "name": "Christopher L. Bennett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1523976230p5/58125.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1523976230p2/58125.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/58125.Christopher_L_Bennett",
+                        "average_rating": 3.86,
+                        "ratings_count": 12234,
+                        "text_reviews_count": 1187
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 16544010,
+                    "uri": "kca://work/amzn1.gr.work.v1.cz0805Uke2oXpmNsOm_Jng"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1803969646
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Apr 17 07:37:16 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1803969637
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Apr 17 07:37:15 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801166716
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:29:16 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801166707
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:29:15 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Apr 15 07:29:15 -0700 2017",
+            "read_at": "Mon Apr 17 07:37:16 -0700 2017",
+            "date_added": "Sat Apr 15 07:29:15 -0700 2017",
+            "date_updated": "Mon Apr 17 07:37:15 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1972243211",
+            "link": "https://www.goodreads.com/review/show/1972243211",
+            "owned": 0
+        }
+    }
+}

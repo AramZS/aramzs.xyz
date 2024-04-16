@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1503152899,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15783828
+                },
+                "isbn": 62094599,
+                "isbn13": 9780062094599,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 344
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qjy3k2vIGWpqMU5O2y-ulg",
+                "title": "Kill City Blues (Sandman Slim, #5)",
+                "title_without_series": "Kill City Blues",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353098191l/15783828._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353098191l/15783828._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15783828-kill-city-blues",
+                "num_pages": 383,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Harper Voyager",
+                "publication_day": 30,
+                "publication_year": 2013,
+                "publication_month": 7,
+                "average_rating": 4.12,
+                "ratings_count": 9026,
+                "description": "James Stark, aka Sandman Slim, has managed to get out of Hell, renounce his title as the new Lucifer, and settle back into life in LA. But he's not out of trouble yet. Somewhere along the way he misplaced the Qomrama Om Ya, a weapon from the banished older gods who are also searching for their lost power.<br /><br />The hunt leads Stark to an abandoned shopping mall-a multi-story copy of LA-infested with Lurkers and wretched bottomfeeding Sub Rosa families, squatters who have formed tight tribes to guard their tiny patches of this fake LA. Somewhere in the kill zone of the former mall is a dead man with the answers Stark needs. All Stark has to do is find the dead man, get back out alive, and outrun some angry old gods-and a few killers-on his tail.",
+                "authors": {
+                    "author": {
+                        "id": 37557,
+                        "name": "Richard Kadrey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1252945001p5/37557.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1252945001p2/37557.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37557.Richard_Kadrey",
+                        "average_rating": 3.99,
+                        "ratings_count": 130478,
+                        "text_reviews_count": 8935
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21501319,
+                    "uri": "kca://work/amzn1.gr.work.v1.cD1J-jXz2EmzQc2Qa2wACg"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1174107101
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Jan 12 19:36:26 -0800 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1166388602
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Jan 09 16:42:02 -0800 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Jan 09 16:42:01 -0800 2016",
+            "read_at": "Tue Jan 12 19:36:26 -0800 2016",
+            "date_added": "Sat Jan 09 16:42:01 -0800 2016",
+            "date_updated": "Tue Jan 12 19:36:26 -0800 2016",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1503152899",
+            "link": "https://www.goodreads.com/review/show/1503152899",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606738735,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35410511
+                },
+                "isbn": 1250170753,
+                "isbn13": 9781250170750,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5543
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.SJvHHa60-k989fDErcQZEQ",
+                "title": "Baby Teeth",
+                "title_without_series": "Baby Teeth",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528990927l/35410511._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528990927l/35410511._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35410511-baby-teeth",
+                "num_pages": 304,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "St Martin's Press",
+                "publication_day": 17,
+                "publication_year": 2018,
+                "publication_month": 7,
+                "average_rating": 3.62,
+                "ratings_count": 31755,
+                "description": "Meet Hanna.<br /><br />She’s the sweet-but-silent angel in the adoring eyes of her Daddy. He’s the only person who understands her, and all Hanna wants is to live happily ever after with him. But Mommy stands in her way, and she’ll try any trick she can think of to get rid of her. Ideally for good.<br /><br />Meet Suzette.<br /><br />She loves her daughter, really, but after years of expulsions and strained home schooling, her precarious health and sanity are weakening day by day. As Hanna’s tricks become increasingly sophisticated, and Suzette's husband remains blind to the failing family dynamics, Suzette starts to fear that there’s something seriously wrong, and that maybe home isn’t the best place for their baby girl after all.",
+                "authors": {
+                    "author": {
+                        "id": 16943823,
+                        "name": "Zoje Stage",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1505223720p5/16943823.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1505223720p2/16943823.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16943823.Zoje_Stage",
+                        "average_rating": 3.63,
+                        "ratings_count": 31953,
+                        "text_reviews_count": 6546
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 56782041,
+                    "uri": "kca://work/amzn1.gr.work.v1.CUE7H8GfwP7IWiGdc9WBaA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636062976
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:24:09 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251644650,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:24:09 -0800 2018",
+            "date_updated": "Mon Nov 26 13:24:09 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606738735",
+            "link": "https://www.goodreads.com/review/show/2606738735",
+            "owned": 0
+        }
+    }
+}

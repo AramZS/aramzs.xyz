@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785929961,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18853328
+                },
+                "isbn": "160706863X",
+                "isbn13": 9781607068631,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 121
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.vHSA0CBauRJcOBcBHglrjg",
+                "title": "Zero, Vol. 1: An Emergency",
+                "title_without_series": "Zero, Vol. 1: An Emergency",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418058926l/18853328._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418058926l/18853328._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18853328-zero-vol-1",
+                "num_pages": 172,
+                "format": "Paperback",
+                "edition_information": "First",
+                "publisher": "Image Comics",
+                "publication_day": 19,
+                "publication_year": 2014,
+                "publication_month": 2,
+                "average_rating": 3.88,
+                "ratings_count": 1512,
+                "description": "Edward Zero was the best spy the Agency had—and then he realized he was working for the wrong side.<br /><br /><b>Collecting</b>: <i>Zero</i> 1-5<br /><br />\"A first issue is the buy in of the great game, story. This is <i>Zero</i>, and it's where all the action is. Have a seat.\" —Jonathan Hickman (<i>The Manhattan Projects</i>, <i>East of West</i>)<br /><br />\"With <i>Zero</i>, Kot continues to push boundaries of both form and content to stunning and inspiring effect. A new kind of spy thriller written with scope, intelligence and flat out gripping storytelling, <i>Zero</i> is easily one of my favorite reads of the year.\" —Scott Snyder (<i>Severed</i>, <i>Batman</i>)",
+                "authors": {
+                    "author": {
+                        "id": 6451215,
+                        "name": "Aleš Kot",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1437719500p5/6451215.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1437719500p2/6451215.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6451215.Ale_Kot",
+                        "average_rating": 3.69,
+                        "ratings_count": 14278,
+                        "text_reviews_count": 1515
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 26799504,
+                    "uri": "kca://work/amzn1.gr.work.v1.N76Wh8FqxNfa5_oCmOJzMA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546337803
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:26:43 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813191819,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Oct 16 07:26:43 -0700 2016",
+            "date_updated": "Mon Oct 23 16:27:07 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785929961",
+            "link": "https://www.goodreads.com/review/show/1785929961",
+            "owned": 0
+        }
+    }
+}

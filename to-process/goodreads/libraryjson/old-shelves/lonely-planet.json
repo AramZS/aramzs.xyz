@@ -1,0 +1,103 @@
+{
+    "name": "Lonely Planet",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Lonely Planet Europe (Travel Guide)",
+            "id": "19179138",
+            "author": "Lonely Planet",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146396000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Lonely Planet Europe (Travel Guide): Rating - 0/5",
+                    "date": 1402146396000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/19179138",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Lonely Planet",
+            "tags": [
+                "Kindle Edition",
+                "Lonely Planet",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "19179138",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Lonely Planet Europe",
+            "id": 19179138,
+            "author": "Lonely Planet",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/19179138",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Lonely Planet",
+            "tags": [
+                "Lonely Planet",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 19179138,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

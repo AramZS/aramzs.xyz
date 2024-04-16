@@ -1,0 +1,51 @@
+{
+    "name": "Trapdoor Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "It Came from Del Rio",
+            "id": "9510221",
+            "author": "Stephen Graham Jones",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1291564595000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/9510221",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Trapdoor Books",
+            "tags": [
+                "Paperback",
+                "Trapdoor Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1936500019",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781936500017",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "9510221",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

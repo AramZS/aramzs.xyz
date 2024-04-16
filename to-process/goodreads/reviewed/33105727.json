@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1998450467,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 33105727
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Q0YQ3AnkbmnNzYeDnGG6lQ",
+                "title": "Pawn: A Chronicle of the Sibyl's War",
+                "title_without_series": "Pawn: A Chronicle of the Sibyl's War",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/33105727-pawn",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.46,
+                "ratings_count": 435,
+                "description": "Nicole 19 drinks and takes drugs to suppress voices whispering in her head. Bleeding out from a knife wound, thug Bungie waves a gun at her and ER doc Sam. Winged aliens speak to her, and kidnap all three. Content, she is still a pawn aboard Fyrantha, hearing directions from the live spaceship to Sibyls for human repair crews. Human leader Plato warns her explorations endanger Earth. Defiantly, she continues, exposing worlds to the ship's warring factions.",
+                "authors": {
+                    "author": {
+                        "id": 12479,
+                        "name": "Timothy Zahn",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p5/12479.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p2/12479.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12479.Timothy_Zahn",
+                        "average_rating": 4.07,
+                        "ratings_count": 363187,
+                        "text_reviews_count": 15929
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 52384513,
+                    "uri": "kca://work/amzn1.gr.work.v1.S6qbRLo7u7133SEcxg2WQQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2391319338
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Jun 12 07:42:28 -0700 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1837296823
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri May 12 15:21:52 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri May 12 15:21:52 -0700 2017",
+            "read_at": "Tue Jun 12 07:42:32 -0700 2018",
+            "date_added": "Fri May 12 15:21:52 -0700 2017",
+            "date_updated": "Tue Jun 12 07:42:32 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1998450467",
+            "link": "https://www.goodreads.com/review/show/1998450467",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 162067275,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17683
+                },
+                "isbn": "045146091X",
+                "isbn13": 9780451460912,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2821
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.SlZI9LJ27ek0PUz0oywPvA",
+                "title": "Dead Beat (The Dresden Files, #7)",
+                "title_without_series": "Dead Beat",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345667776l/17683._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345667776l/17683._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17683.Dead_Beat",
+                "num_pages": 517,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Roc",
+                "publication_day": 1,
+                "publication_year": 2006,
+                "publication_month": 1,
+                "average_rating": 4.43,
+                "ratings_count": 101590,
+                "description": "Paranormal investigations are Harry Dresden’s business and Chicago is his beat, as he tries to bring law and order to a world of wizards and monsters that exists alongside everyday life. And though most inhabitants of the Windy City don’t believe in magic, the Special Investigations Department of the Chicago PD knows better. <br /> <br />Karrin Murphy is the head of S. I. and Harry’s good friend. So when a killer vampire threatens to destroy Murphy’s reputation unless Harry does her bidding, he has no choice. The vampire wants the Word of Kemmler (whatever that is) and all the power that comes with it. Now, Harry is in a race against time—and six merciless necromancers—to find the Word before Chicago experiences a Halloween night to wake the dead...",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 6614452,
+                    "uri": "kca://work/amzn1.gr.work.v1.9lYBC2NBJkjyzC77dz3fsA"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Apr 19 06:37:19 -0700 2011",
+            "date_updated": "Tue Apr 19 06:37:24 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/162067275",
+            "link": "https://www.goodreads.com/review/show/162067275",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749132560,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8967433
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.hz6vVzbutuHGki0TRZQCFw",
+                "title": "Foundations (Starfleet Corps of Engineers Omnibus, #5)",
+                "title_without_series": "Foundations",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8967433-foundations",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.78,
+                "ratings_count": 166,
+                "description": "In the twenty-fourth century, the USS da Vinci and its S.C.E. team led by Commander Sonya Gomez roam the galaxy, solving the technical problems of the universe in a state-of-the-art ship. But the road to the da Vinci was a difficult one, as the S.C.E. had to go through its share of growing pains back in the twenty-third century...<br /><br />Even as the da Vinci spearheads a dramatic rescue of a runaway vessel, Captain Montgomery Scott recalls his younger days as the chief engineer of the USS Enterprise under Captain Kirk – and his own encounters with a much different Corps of Engineers. From the edge of the Romulan Neutral Zone, to the planet Beta III in the wake of the Landru computer, to the uncharted regions of deep space, Scotty joins forces with the battered old USS Lovell to bring the S.C.E. into the future!",
+                "authors": {
+                    "author": {
+                        "id": 56607,
+                        "name": "Dayton Ward",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206045915p5/56607.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206045915p2/56607.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/56607.Dayton_Ward",
+                        "average_rating": 3.85,
+                        "ratings_count": 15373,
+                        "text_reviews_count": 1593
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 1274800,
+                    "uri": "kca://work/amzn1.gr.work.v1.K-WItufb3MOe1mY2mg2-LQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498306708
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:46:05 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414468935,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:46:04 -0700 2016",
+            "date_updated": "Mon Sep 05 07:46:05 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749132560",
+            "link": "https://www.goodreads.com/review/show/1749132560",
+            "owned": 0
+        }
+    }
+}

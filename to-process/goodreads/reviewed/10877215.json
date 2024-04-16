@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 170775763,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 10877215
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 31
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.hEt1CQpxpyzQJ6xmS5aElg",
+                "title": "2084: An Oral History of the Great Warming",
+                "title_without_series": "2084: An Oral History of the Great Warming",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361270418l/10877215._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361270418l/10877215._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/10877215-2084",
+                "num_pages": 91,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "James L. Powell",
+                "publication_day": 21,
+                "publication_year": 2011,
+                "publication_month": 3,
+                "average_rating": 3.33,
+                "ratings_count": 370,
+                "description": "By 2084, global warming has proven worse than even the worst-case projections of scientists at the turn of the century. No country and no individual has escaped. Through interviews, this book of oral history captures the effects of the Great Warming on various countries and individuals, as reported in the year 2084.",
+                "authors": {
+                    "author": {
+                        "id": 150727,
+                        "name": "James Lawrence Powell",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/150727.James_Lawrence_Powell",
+                        "average_rating": 3.74,
+                        "ratings_count": 1036,
+                        "text_reviews_count": 116
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 15792646,
+                    "uri": "kca://work/amzn1.gr.work.v1.sgft1txxsSY-JTdnbS2cfw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 974838951
+                    },
+                    "old_status": "currently-reading",
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 18 21:51:39 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 2,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Tue May 24 14:08:17 -0700 2011",
+            "read_at": "Tue Aug 18 21:51:38 -0700 2015",
+            "date_added": "Tue May 24 14:08:17 -0700 2011",
+            "date_updated": "Tue Aug 18 21:51:41 -0700 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/170775763",
+            "link": "https://www.goodreads.com/review/show/170775763",
+            "owned": 0
+        }
+    }
+}

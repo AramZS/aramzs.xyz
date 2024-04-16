@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 26522771,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 61182
+                },
+                "isbn": "055356370X",
+                "isbn13": 9780553563702,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 80
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.nMYcnDQylrI6AzZvU_BRRg",
+                "title": "The Hacker Crackdown: Law and Disorder on the Electronic Frontier",
+                "title_without_series": "The Hacker Crackdown: Law and Disorder on the Electronic Frontier",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446384046l/61182._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446384046l/61182._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/61182.The_Hacker_Crackdown",
+                "num_pages": 336,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Bantam",
+                "publication_day": 1,
+                "publication_year": 1993,
+                "publication_month": 11,
+                "average_rating": 3.77,
+                "ratings_count": 3121,
+                "description": "A journalist investigates the past, present, and future of computer crimes, as he attends a hacker convention, documents the extent of the computer crimes, and presents intriguing facts about hackers and their misdoings.",
+                "authors": {
+                    "author": {
+                        "id": 34429,
+                        "name": "Bruce Sterling",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1379306689p5/34429.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1379306689p2/34429.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/34429.Bruce_Sterling",
+                        "average_rating": 3.83,
+                        "ratings_count": 122596,
+                        "text_reviews_count": 6585
+                    }
+                },
+                "published": 1993,
+                "work": {
+                    "id": 962299,
+                    "uri": "kca://work/amzn1.gr.work.v1.db0g0uxu0ZXguzAN0RL_MA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847054790,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 11273360,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jul 07 07:58:46 -0700 2008",
+            "date_updated": "Thu Dec 04 08:42:37 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/26522771",
+            "link": "https://www.goodreads.com/review/show/26522771",
+            "owned": 0
+        }
+    }
+}

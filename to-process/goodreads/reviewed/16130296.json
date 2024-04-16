@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071696751,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16130296
+                },
+                "isbn": "145163899X",
+                "isbn13": 9781451638998,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 13
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.s7ZbTO5oDX3P7R99MKta2A",
+                "title": "Cobra Slave (Cobra Rebellion #1)",
+                "title_without_series": "Cobra Slave",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353621605l/16130296._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353621605l/16130296._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16130296-cobra-slave",
+                "num_pages": 288,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Baen",
+                "publication_day": 4,
+                "publication_year": 2013,
+                "publication_month": 6,
+                "average_rating": 3.98,
+                "ratings_count": 275,
+                "description": "Book One of the Cobra Rebellion Saga, and a new entry in New York Times #1 best seller Timothy Zahn's legendary Cobra series.<br /><br />Cobras: technologically‑enhanced warriors bred to fight an alien menace no ordinary human can withstand. At the center of action on Cobra world Aventine: the legendary Moreau clan. In times of war, the Cobras are necessary, yet in times of peace they are often reviled by those they have saved. Now the Cobras have resisted a second invasion of the alien Troft forces, and forced the Troft to a stalemate ‑‑ and even converted some thoughtful Troft into uneasy allies against their kin.<br /><br />Yet all is not well in the human sector of the galaxy. A supposed sister empire, the Dominion of Man, threatens the Cobra worlds with what is, in effect, enslavement, as it moves to consolidate power over all the Cobra worlds. The plan on Aventine: to extort from the Moreau family the location of the home planet of a mysterious human ally that may be more powerful than the Dominion: the Qasaman empire. <br /><br />Meanwhile, Cobra Merrick Moreau is on a secret mission of his own to a world of humans enslaved by Troft masters. It is a world of barbaric cruelty where human are slave chattel to Troft gamblers. There the Troft force whole villages, even children, into life and death struggles served up for Troft entertainment.<br /><br />But the totalitarian Dominion of Man and the Troft game‑masters are in for a rude surprise: Cobras are not merely technological marvels. They are far more. For within each Cobra, bred by close family ties and hard testing in battle, there beats the heart of a warrior and the burning conviction that a Cobra will be slave to no one. Rebellion is at hand, and once again, Cobras lead the fight for freedom.",
+                "authors": {
+                    "author": {
+                        "id": 12479,
+                        "name": "Timothy Zahn",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p5/12479.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p2/12479.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12479.Timothy_Zahn",
+                        "average_rating": 4.07,
+                        "ratings_count": 363187,
+                        "text_reviews_count": 15929
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21955600,
+                    "uri": "kca://work/amzn1.gr.work.v1.TH5sRUEri6zVC2Zwpjnn1w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593089170
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:19:55 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:19:54 -0700 2014",
+            "date_updated": "Sat Oct 04 07:19:54 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071696751",
+            "link": "https://www.goodreads.com/review/show/1071696751",
+            "owned": 0
+        }
+    }
+}

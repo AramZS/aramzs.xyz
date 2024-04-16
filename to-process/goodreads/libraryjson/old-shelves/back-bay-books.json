@@ -1,0 +1,247 @@
+{
+    "name": "Back Bay Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Infinite Jest",
+            "id": "6759",
+            "author": "David Foster Wallace",
+            "date_finished": 1104537600000,
+            "notes": [],
+            "date_started": 1423084937000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Infinite Jest: Rating - 0/5",
+                    "date": 1104537600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6759",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Back Bay Books",
+            "tags": [
+                "Paperback",
+                "Back Bay Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0316921173",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780316921176",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6759",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Tipping Point: How Little Things Can Make a Big Difference",
+            "id": "2612",
+            "author": "Malcolm Gladwell",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386954122000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2612",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Back Bay Books",
+            "tags": [
+                "Paperback",
+                "Back Bay Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0316346624",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780316346627",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "2612",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Catcher in the Rye",
+            "id": "5107",
+            "author": "J.D. Salinger",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360255060000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Catcher in the Rye: Rating - 3/5",
+                    "date": 1360255060000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/5107",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Back Bay Books",
+            "tags": [
+                "Paperback",
+                "Back Bay Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0316769177",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780316769174",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "5107",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Infinite Jest",
+            "id": 6759,
+            "author": "David Foster Wallace",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6759",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Back Bay Books",
+            "tags": [
+                "Paperback",
+                "Back Bay Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 6759,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Catcher in the Rye",
+            "id": 5107,
+            "author": "J.D. Salinger",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/5107",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Back Bay Books",
+            "tags": [
+                "Paperback",
+                "Back Bay Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 5107,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

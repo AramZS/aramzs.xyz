@@ -1,0 +1,51 @@
+{
+    "name": "Dingle",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Guards (Jack Taylor, #1)",
+            "id": "298920",
+            "author": "Ken Bruen",
+            "date_finished": 1372636800000,
+            "notes": [],
+            "date_started": 1390425870000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/298920",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dingle",
+            "tags": [
+                "Paperback",
+                "Dingle",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0863223230",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780863223235",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "298920",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

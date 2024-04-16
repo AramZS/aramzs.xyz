@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528974381,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 5107
+                },
+                "isbn": 316769177,
+                "isbn13": 9780316769174,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 44467
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.IqM3-G-EAL6pSFPVNq63FQ",
+                "title": "The Catcher in the Rye",
+                "title_without_series": "The Catcher in the Rye",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye",
+                "num_pages": 277,
+                "format": "Paperback",
+                "edition_information": "First Back Bay Paperback Edition (US/CAN)",
+                "publisher": "Back Bay Books",
+                "publication_day": 30,
+                "publication_year": 2001,
+                "publication_month": 1,
+                "average_rating": 3.8,
+                "ratings_count": 2638871,
+                "description": "The hero-narrator of <i>The Catcher in the Rye</i> is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for three days. The boy himself is at once too simple and too complex for us to make any final comment about him or his story. Perhaps the safest thing we can say about Holden is that he was born in the world not just strongly attracted to beauty but, almost, hopelessly impaled on it. There are many voices in this novel: children's voices, adult voices, underground voices-but Holden's voice is the most eloquent of all. Transcending his own vernacular, yet remaining marvelously faithful to it, he issues a perfectly articulated cry of mixed pain and pleasure. However, like most lovers and clowns and poets of the higher orders, he keeps most of the pain to, and for, himself. The pleasure he gives away, or sets aside, with all his heart. It is there for the reader who can handle it to keep. <br /><br />J.D. Salinger's classic novel of teenage angst and rebellion was first published in 1951. The novel was included on <i>Time</i>'s 2005 list of the 100 best English-language novels written since 1923. It was named by Modern Library and its readers as one of the 100 best English-language novels of the 20th century. It has been frequently challenged in the court for its liberal use of profanity and portrayal of sexuality and in the 1950's and 60's it was the novel that every teenage boy wants to read.",
+                "authors": {
+                    "author": {
+                        "id": 819789,
+                        "name": "J.D. Salinger",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1288777679p5/819789.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1288777679p2/819789.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/819789.J_D_Salinger",
+                        "average_rating": 3.84,
+                        "ratings_count": 3018587,
+                        "text_reviews_count": 68691
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 3036731,
+                    "uri": "kca://work/amzn1.gr.work.v1.YHa4gac7IHvOiAUZkxSmsg"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:37:40 -0800 2013",
+            "date_updated": "Thu Feb 07 08:37:40 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528974381",
+            "link": "https://www.goodreads.com/review/show/528974381",
+            "owned": 0
+        }
+    }
+}

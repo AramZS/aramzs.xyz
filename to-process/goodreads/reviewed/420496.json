@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520208476,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 420496
+                },
+                "isbn": 345424646,
+                "isbn13": 9780345424648,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 248
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.A9QJpbbs4DgWCcMxXwEK1g",
+                "title": "A Knight of the Word (Word & Void, #2)",
+                "title_without_series": "A Knight of the Word",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403811542l/420496._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403811542l/420496._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/420496.A_Knight_of_the_Word",
+                "num_pages": 386,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Del Rey Books",
+                "publication_day": {},
+                "publication_year": 1999,
+                "publication_month": 8,
+                "average_rating": 4.05,
+                "ratings_count": 14010,
+                "description": "Eight centuries ago the first Knight of the Word was commissioned to combat the demonic evil of the Void. Now that daunting legacy has passed to John Ross - along with powerful magic and the knowledge that his actions are all that stand between a living hell and humanity's future.<br />Then, after decades of service to the Word, an unspeakable act of violence shatters John Ross's weary faith. Haunted by guilt, he turns his back on his dread gift, settling down to build a normal life, untroubled by demons and nightmares.<br />But a fallen Knight makes a tempting prize for the Void, which could bend the Knight's magic to its own evil ends. And once the demons on Ross's trail track him to Seattle, neither he nor anyone close to him will be safe. His only hope is Nest Freemark, a college student who wields an extraordinary magic all her own. Five years earlier, Ross had aided Nest when the future of humanity rested upon her choice between Word and Void. Now Nest must return the favor. She must restore Ross's faith, or his life - and hers - will be forfeit...",
+                "authors": {
+                    "author": {
+                        "id": 9629,
+                        "name": "Terry Brooks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1280785812p5/9629.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1280785812p2/9629.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9629.Terry_Brooks",
+                        "average_rating": 3.96,
+                        "ratings_count": 775608,
+                        "text_reviews_count": 21501
+                    }
+                },
+                "published": 1999,
+                "work": {
+                    "id": 1936434,
+                    "uri": "kca://work/amzn1.gr.work.v1.JoKwVU1kJU_4pmXQEKk_eA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:46:42 -0800 2013",
+            "date_updated": "Mon Jan 28 19:46:42 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520208476",
+            "link": "https://www.goodreads.com/review/show/520208476",
+            "owned": 0
+        }
+    }
+}

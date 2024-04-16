@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2934513182,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 52381770
+                },
+                "isbn": 1250229863,
+                "isbn13": 9781250229861,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 551
+                },
+                "uri": "kca://book/amzn1.gr.book.v3.jq0mBydDYRHnJKGr",
+                "title": "Network Effect (The Murderbot Diaries, #5)",
+                "title_without_series": "Network Effect",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/52381770-network-effect",
+                "num_pages": 350,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.64,
+                "ratings_count": 4057,
+                "description": "Murderbot returns in its highly-anticipated, first, full-length standalone novel.<br /><br />You know that feeling when you’re at work, and you’ve had enough of people, and then the boss walks in with yet another job that needs to be done right this second or the world will end, but all you want to do is go home and binge your favorite shows? And you're a sentient murder machine programmed for destruction? Congratulations, you're Murderbot.<br /><br />Come for the pew-pew space battles, stay for the most relatable A.I. you’ll read this century.<br /><br />—<br /><br /><i>I’m usually alone in my head, and that’s where 90 plus percent of my problems are.</i><br /><br />When Murderbot's human associates (not friends, never friends) are captured and another not-friend from its past requires urgent assistance, Murderbot must choose between inertia and drastic action.<br /><br />Drastic action it is, then.<br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 87305,
+                        "name": "Martha Wells",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1397566224p5/87305.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1397566224p2/87305.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/87305.Martha_Wells",
+                        "average_rating": 4.21,
+                        "ratings_count": 175090,
+                        "text_reviews_count": 20434
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 63614271,
+                    "uri": "kca://work/amzn1.gr.work.v1.CQtpw9d6V1sdfz1lN6_Sag"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3069686393
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Aug 12 11:37:50 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2580797495,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Aug 12 11:37:49 -0700 2019",
+            "date_updated": "Sat Mar 14 15:48:41 -0700 2020",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2934513182",
+            "link": "https://www.goodreads.com/review/show/2934513182",
+            "owned": 0
+        }
+    }
+}

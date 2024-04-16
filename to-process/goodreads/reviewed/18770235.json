@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1367820049,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18770235
+                },
+                "isbn": 674724933,
+                "isbn13": 9780674724938,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZEw5HO2y2MhKLmCQoYvZ_g",
+                "title": "Graphesis: Visual Forms of Knowledge Production",
+                "title_without_series": "Graphesis: Visual Forms of Knowledge Production",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384019782l/18770235._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384019782l/18770235._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18770235-graphesis",
+                "num_pages": 215,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Harvard University Press",
+                "publication_day": 7,
+                "publication_year": 2014,
+                "publication_month": 7,
+                "average_rating": 3.57,
+                "ratings_count": 74,
+                "description": "In our current screen-saturated culture, we take in more information through visual means than at any point in history. The computers and smart phones that constantly flood us with images do more than simply convey information. They structure our relationship to information through graphical formats. Learning to interpret how visual forms not only present but produce knowledge, says Johanna Drucker, has become an essential contemporary skill.<br /><br /><i>Graphesis</i> provides a descriptive critical language for the analysis of graphical knowledge. In an interdisciplinary study fusing digital humanities with media studies and graphic design history, Drucker outlines the principles by which visual formats organize meaningful content. Among the most significant of these formats is the graphical user interface (GUI)--the dominant feature of the screens of nearly all consumer electronic devices. Because so much of our personal and professional lives is mediated through visual interfaces, it is important to start thinking critically about how they shape knowledge, our behavior, and even our identity.<br /><br />Information graphics bear tell-tale signs of the disciplines in which they originated: statistics, business, and the empirical sciences. Drucker makes the case for studying visuality from a humanistic perspective, exploring how graphic languages can serve fields where qualitative judgments take priority over quantitative statements of fact. <i>Graphesis </i>offers a new epistemology of the ways we process information, embracing the full potential of visual forms and formats of knowledge production.",
+                "authors": {
+                    "author": {
+                        "id": 25037,
+                        "name": "Johanna Drucker",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/25037.Johanna_Drucker",
+                        "average_rating": 3.99,
+                        "ratings_count": 935,
+                        "text_reviews_count": 71
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 26673096,
+                    "uri": "kca://work/amzn1.gr.work.v1.2EZXFZ0FCXdinEtA7Fuz4g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 974784134
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 18 20:43:22 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1063480053,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Aug 18 20:43:21 -0700 2015",
+            "date_updated": "Tue Aug 18 20:43:22 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1367820049",
+            "link": "https://www.goodreads.com/review/show/1367820049",
+            "owned": 0
+        }
+    }
+}

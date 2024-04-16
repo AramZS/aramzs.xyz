@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960348435,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8390211
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 14
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.AA2ists0gvknnxNl-ECy1A",
+                "title": "Q-Squared",
+                "title_without_series": "Q-Squared",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547760554l/8390211._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547760554l/8390211._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8390211-q-squared",
+                "num_pages": 434,
+                "format": {},
+                "edition_information": {},
+                "publisher": "Simon and Schuster Digital Sales Inc",
+                "publication_day": 25,
+                "publication_year": 2005,
+                "publication_month": 10,
+                "average_rating": 4,
+                "ratings_count": 3493,
+                "description": "In all of his travels Captain Jean-Luc Picard has never faced an opponent more powerful that Q, a being from another continuum that Picard encountered on his very first mission as Captain of the <i>Starship Enterprise™.</i> In the years since, Q has returned again and again to harass Picard and his crew. Sometimes dangerous, sometimes merely obnoxious, Q has always been mysterious and seemingly all-powerful. <br /> But this time, when Q appears, he comes to Picard for help. Apparently another member of the Q continuum has tapped into an awesome power source that makes this being more powerful than the combined might of the entire Q continuum. This renegade Q is named Trelane -- also known as the Squire of Gothos, who Captain Kirk and his crew first encountered over one hundred years ago. Q explains that, armed with this incredible power, Trelane has become unspeakably dangerous. <br /> Now Picard must get involved in an awesome struggle between super beings. And this time the stakes are not just Picard's ship, or the galaxy, or even the universe -- this time the stakes are all of creation...",
+                "authors": {
+                    "author": {
+                        "id": 13681,
+                        "name": "Peter David",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p5/13681.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p2/13681.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13681.Peter_David",
+                        "average_rating": 4.02,
+                        "ratings_count": 297991,
+                        "text_reviews_count": 13707
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 700918,
+                    "uri": "kca://work/amzn1.gr.work.v1.uwEg2DVIQHUCKpwXBFC4Ww"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452290258
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:17:56 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:17:56 -0700 2014",
+            "date_updated": "Sat Jun 07 06:17:56 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960348435",
+            "link": "https://www.goodreads.com/review/show/960348435",
+            "owned": 0
+        }
+    }
+}

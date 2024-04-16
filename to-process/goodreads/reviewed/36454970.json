@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629413601,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 36454970
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1207
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.HosZFu7QRxHqgqyRWG7qYw",
+                "title": "White Fragility: Why It’s So Hard for White People to Talk About Racism",
+                "title_without_series": "White Fragility: Why It’s So Hard for White People to Talk About Racism",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514059771l/36454970._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514059771l/36454970._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/36454970-white-fragility",
+                "num_pages": 154,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Beacon Press",
+                "publication_day": 26,
+                "publication_year": 2018,
+                "publication_month": 6,
+                "average_rating": 4.49,
+                "ratings_count": 23133,
+                "description": "<b>The <i>New York Times</i> best-selling book exploring the counterproductive reactions white people have when their assumptions about race are challenged, and how these reactions maintain racial inequality.</b><br /><br />Referring to the defensive moves that white people make when challenged racially, white fragility is characterized by emotions such as anger, fear, and guilt and by behaviors including argumentation and silence. These behaviors, in turn, function to reinstate white racial equilibrium and prevent any meaningful cross-racial dialogue. In this in-depth exploration, anti-racist educator Robin DiAngelo examines how white fragility develops, how it protects racial inequality, and what can be done to engage more constructively.",
+                "authors": {
+                    "author": {
+                        "id": 5283261,
+                        "name": "Robin DiAngelo",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1537729933p5/5283261.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1537729933p2/5283261.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5283261.Robin_DiAngelo",
+                        "average_rating": 4.48,
+                        "ratings_count": 24058,
+                        "text_reviews_count": 3912
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 58159636,
+                    "uri": "kca://work/amzn1.gr.work.v1.UwryW8oDxmY4srFvI3c7gg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666061458
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:55:25 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274617896,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:55:24 -0800 2018",
+            "date_updated": "Mon Dec 17 07:55:25 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629413601",
+            "link": "https://www.goodreads.com/review/show/2629413601",
+            "owned": 0
+        }
+    }
+}

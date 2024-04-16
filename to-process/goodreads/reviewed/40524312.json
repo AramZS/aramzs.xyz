@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065301093,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 40524312
+                },
+                "isbn": 735220174,
+                "isbn13": 9780735220171,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2622
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.mtSGsd_Fr77JGlzCUjDT-w",
+                "title": "Black Leopard, Red Wolf (The Dark Star Trilogy #1)",
+                "title_without_series": "Black Leopard, Red Wolf",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538656386l/40524312._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538656386l/40524312._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/40524312-black-leopard-red-wolf",
+                "num_pages": 620,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Riverhead Books",
+                "publication_day": 5,
+                "publication_year": 2019,
+                "publication_month": 2,
+                "average_rating": 3.45,
+                "ratings_count": 13218,
+                "description": "In the first novel in Marlon James's Dark Star trilogy, myth, fantasy, and history come together to explore what happens when a mercenary is hired to find a missing child. <br /><br />Tracker is known far and wide for his skills as a hunter: \"He has a nose,\" people say. Engaged to track down a mysterious boy who disappeared three years earlier, Tracker breaks his own rule of always working alone when he finds himself part of a group that comes together to search for the boy. The band is a hodgepodge, full of unusual characters with secrets of their own, including a shape-shifting man-animal known as Leopard.<br /><br />Drawing from African history and mythology and his own rich imagination, Marlon James has written an adventure that's also an ambitious, involving read. Defying categorization and full of unforgettable characters, Black Leopard, Red Wolf explores the fundamentals of truths, the limits of power, the excesses of ambition, and our need to understand them all.",
+                "authors": {
+                    "author": {
+                        "id": 56064,
+                        "name": "Marlon James",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1546528568p5/56064.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1546528568p2/56064.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/56064.Marlon_James",
+                        "average_rating": 3.85,
+                        "ratings_count": 50986,
+                        "text_reviews_count": 8865
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 48215793,
+                    "uri": "kca://work/amzn1.gr.work.v1.tJJjadZdAgEAonlAkeyG1Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244213233
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:14:31 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712835078,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:14:30 -0800 2019",
+            "date_updated": "Thu Nov 28 09:14:31 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065301093",
+            "link": "https://www.goodreads.com/review/show/3065301093",
+            "owned": 0
+        }
+    }
+}

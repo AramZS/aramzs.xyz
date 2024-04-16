@@ -1,0 +1,42 @@
+{% extends "./page.njk" %}
+{% set ogtype = 'article' %}
+{% set templateName = 'media' %}
+{% set subTitle %}
+    posted on <time datetime="{{ page.date.toISOString() }}">{{ page.date | dateToFormat("DDD") }}</time> in: {% include "../components/tag-list.njk" %}.
+{% endset %}
+
+{% block pageContent %}
+  {% if cover_image %}
+    <div class="featured-image full-width breakout">
+      <img src="/img/retrieved/{{mediaType}}/{{cover_image}}" />
+    </div>
+  {% endif %}
+    <section class="post-content" data-source="src/_includes/layouts/media-post.njk">
+        {% if rating %}
+          <p>Rating: {{ rating | ratingToStars }}</p>
+        {% endif %}
+        {{ content | safe }}
+        <small>&mdash;  <a href="https://www.themoviedb.org/{{mediaType}}/{{ id }}">TMDB link</a></small>
+    </section>
+    <div class="media-metadata-container">
+      <section class="media-metadata">
+        <div class="poster-image">
+          <img src="/img/retrieved/{{mediaType}}/{{poster}}" />
+        </div>
+        <div class="metadata-text">
+          <h3>Metadata</h3>
+          <dl>
+            {% if first_air_date %}
+            <dt>First Aired on:</dt>
+            <dd>{{ first_air_date }}</dd>
+            {% endif %}
+            {% if overview %}
+            <dt>Overview</dt>
+            <dd>{{ overview }}</dd>
+            {% endif %}
+          </dl>
+        </div>
+      </section>
+    </div>
+    {% include "components/backlinks.njk" %}
+{% endblock %}

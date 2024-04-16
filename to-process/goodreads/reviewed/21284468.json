@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967097,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 21284468
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 12
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.OtGdG7cH5hB6f8p5ry114g",
+                "title": "The Monopolists: Obsession, Fury, and the Scandal Behind the World's Favorite Board Game",
+                "title_without_series": "The Monopolists: Obsession, Fury, and the Scandal Behind the World's Favorite Board Game",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/21284468-the-monopolists",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.67,
+                "ratings_count": 1159,
+                "description": "With its origins rooted in one of the <i>Wall Street Journal</i>’s most emailed stories, <i>The Monopolists</i> is the inside story of how the game of Monopoly came into existence, the heavy embellishment of its provenance by Parker Brothers and multiple media outlets, the lost female originator of the game, and one man’s lifelong obsession to tell the true story about the game’s questionable origins.<br /><br />Most Americans who play Monopoly think it was invented by an unemployed Pennsylvania man who sold his game to Parker Brothers in 1935 and lived happily ever after on royalties. That story, however, is not exactly true.<br /><br />Ralph Anspach, an economist and refugee of Hitler’s Danzig, unearthed the real story and it traces back to Abraham Lincoln, the Quakers, and to a forgotten feminist named Lizzie Magie. <i>The Monopolists</i> is in part Anspach’s David-versus-Goliath tale of his 1970s battle against Parker Brothers, one of the most beloved companies of all time. Anspach was a professor fighting to sell his Anti-Monopoly board game, which hailed those who busted up trusts and monopolies instead of those who took control of all the properties. While he and his lawyers researched previous Parker Brothers lawsuits, he accidentally discovered the true history of the game, which began with Magie’s Landlord’s Game. That game was invented more than thirty years before Parker Brothers sold their version of Monopoly and she waged her own war with Parker Brothers to be credited as the real originator of the game. <br /><br />Ironically, the Landlord’s Game, like Anti-Monopoly, was underpinned by morals that were the exact opposite of what Monopoly represents today. It isn't surprising that Magie's game was embraced by a constellation of left-wingers from the Progressive Era through the Great Depression, including members of Franklin Roosevelt’s famed Brain Trust.<br /><br />More than just a book about board games, <i>The Monopolists</i> illuminates the cutthroat nature of American business over the last century--a social history of American corporate greed that reads like the best detective fiction, told through the real-life winners and losers in the Monopoly wars.",
+                "authors": {
+                    "author": {
+                        "id": 7105260,
+                        "name": "Mary Pilon",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1515685052p5/7105260.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1515685052p2/7105260.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7105260.Mary_Pilon",
+                        "average_rating": 3.74,
+                        "ratings_count": 1912,
+                        "text_reviews_count": 392
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 25206614,
+                    "uri": "kca://work/amzn1.gr.work.v1.o0hdxklvUA21eucGq6iIiw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886478488
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:28:32 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1002423123,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:28:31 -0700 2015",
+            "date_updated": "Fri Jun 05 15:28:32 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967097",
+            "link": "https://www.goodreads.com/review/show/1299967097",
+            "owned": 0
+        }
+    }
+}

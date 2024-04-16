@@ -1,0 +1,194 @@
+{
+    "name": "Forge Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "God Save the Mark",
+            "id": "228004",
+            "author": "Donald E. Westlake",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1299675391000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/228004",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Forge Books",
+            "tags": [
+                "Paperback",
+                "Forge Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "076530919X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780765309198",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "228004",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Tyrannosaur Canyon (Wyman Ford #1)",
+            "id": "136641",
+            "author": "Douglas Preston",
+            "date_finished": 1279670400000,
+            "notes": [],
+            "date_started": 1279727578000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Tyrannosaur Canyon (Wyman Ford #1): Rating - 4/5",
+                    "date": 1279670400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/136641",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Forge Books",
+            "tags": [
+                "Paperback",
+                "Forge Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0765349655",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780765349651",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "136641",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Impact (Wyman Ford #3)",
+            "id": "6735215",
+            "author": "Douglas Preston",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1266476572000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6735215",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Forge Books",
+            "tags": [
+                "Hardcover",
+                "Forge Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0765317680",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780765317681",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6735215",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Tyrannosaur Canyon (Wyman Ford #1)",
+            "id": 136641,
+            "author": "Douglas Preston",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/136641",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Forge Books",
+            "tags": [
+                "Paperback",
+                "Forge Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 136641,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

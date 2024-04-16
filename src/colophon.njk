@@ -8,18 +8,21 @@ folder: 'about'
 {% set postsList = collections.post | onlyTypes(['changelog']) | reverse %}
 
 {% block pageContent %}
-    <p>
-        For many years this website used its <em>colophon</em> as an "about me" page, rather than about PhotoGabble. Today the <a href="/about/">about page</a> takes that role leaving this page to its correct intent as an imprint for the publication that is PhotoGabble.
-    </p>
-
     <section>
         <h2>Changelog</h2>
-        <p>This is a development blog listing key updates to PhotoGabble as and when I find the time.</p>
+        <p>This is a development blog listing key updates when I find the time. You can find changes made upstream from this blog <a href="https://photogabble.co.uk/changelog/" target="_blank">at the changelog there</a>.</p>
         {% include "components/post-list.njk" %}
     </section>
 
     <section>
-        <h2>Design</h2>
+        <h2>Code Source</h2>
+        <p>This blog uses the code from and is heavily based on the work of <a href="https://photogabble.co.uk/about/" target="_blank">Simon Dann</a> <small>(<a target="_blank" href="https://notacult.social/@carbontwelve" target="_blank">@carbontwelve@notacult.social</a>)</small></p>
+    </section>
+    <section>
+        <h2>Original Inspiration</h2>
+        <p>
+          This section lists the inspirations that formed the origional template and are preserved here to maintain that credit. The following has been replicated from <a href="https://photogabble.co.uk/colophon/" target="_blank">PhotoGabble</a>.
+        </p>
         <p>Design inspiration for this website has come from many places. The current minimalist layout was initially using <a href="https://github.com/edwardtufte/tufte-css">Tufte CSS</a> and that design approach has remained.</p>
         <p>A special thanks to:</p>
         <ul>
@@ -88,6 +91,7 @@ folder: 'about'
             <li><a href="https://www.npmjs.com/package/html-minifier">html-minifier</a> <small>MIT</small></li>
             <li><a href="https://moment.github.io/luxon/#/">luxon</a> <small>MIT</small></li>
             <li><a href="https://www.npmjs.com/package/outdent">outdent</a> <small>MIT</small></li>
+            <li><a href="https://github.com/lokesh/color-thief">Color Thief</a> <small>MIT</small></li>
         </ul>
     </section>
 

@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 724623418,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 62530
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1254
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.R8GWdEedhCUMjS1C7HBAyw",
+                "title": "Thud! (Discworld, #34; City Watch #7)",
+                "title_without_series": "Thud!",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320495268l/62530._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320495268l/62530._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/62530.Thud_",
+                "num_pages": 439,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Corgi",
+                "publication_day": 2,
+                "publication_year": 2006,
+                "publication_month": 10,
+                "average_rating": 4.32,
+                "ratings_count": 60637,
+                "description": "Koom Valley? That was where the trolls ambushed the dwarfs, or the dwarfs ambushed the trolls. It was far away. It was a long time ago.<br /><br />But if he doesn't solve the murder of just one dwarf, Commander Sam Vimes of Ankh-Morpork City Watch is going to see it fought again, right outside his office.<br /><br />With his beloved Watch crumbling around him and war-drums sounding, he must unravel every clue, outwit every assassin and brave any darkness to find the solution. And darkness is <i>following</i> him.<br /><br />Oh . . . and at six o'clock every day, without fail, with no excuses, he must go home to read 'Where's My Cow?', with all the right farmyard noises, to his little boy.<br /><br />There are some things you <i>have</i> to do.",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 819104,
+                    "uri": "kca://work/amzn1.gr.work.v1.8QjMz1ux5T1f_UPv1Qlg5g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 159410124
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Sep 20 23:25:07 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Sep 01 00:00:00 -0700 2013",
+            "date_added": "Fri Sep 20 23:25:07 -0700 2013",
+            "date_updated": "Wed Jan 22 13:21:45 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/724623418",
+            "link": "https://www.goodreads.com/review/show/724623418",
+            "owned": 0
+        }
+    }
+}

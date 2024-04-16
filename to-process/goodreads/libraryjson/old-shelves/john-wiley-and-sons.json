@@ -1,0 +1,194 @@
+{
+    "name": "John Wiley & Sons",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Smashing WordPress Themes: Making WordPress Beautiful",
+            "id": "7950047",
+            "author": "Thord Daniel Hedengren",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360254167000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Smashing WordPress Themes: Making WordPress Beautiful: Rating - 4/5",
+                    "date": 1360254167000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7950047",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "John Wiley & Sons",
+            "tags": [
+                "Paperback",
+                "John Wiley & Sons",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "047066990X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780470669907",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "7950047",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "ProBlogger: Secrets for Blogging Your Way to a Six-Figure Income",
+            "id": "3176878",
+            "author": "Darren Rowse, Chris     Garrett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1316206475000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3176878",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "John Wiley & Sons",
+            "tags": [
+                "Paperback",
+                "John Wiley & Sons",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0470246677",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780470246672",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "3176878",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "WordPress Bible",
+            "id": "7710270",
+            "author": "Aaron Brazell",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1266476601000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7710270",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "John Wiley & Sons",
+            "tags": [
+                "Paperback",
+                "John Wiley & Sons",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0470568135",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780470568132",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "7710270",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Smashing WordPress Themes: Making WordPress Beautiful",
+            "id": 7950047,
+            "author": "Thord Daniel Hedengren",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7950047",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "John Wiley & Sons",
+            "tags": [
+                "Paperback",
+                "John Wiley & Sons",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "047066990X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 7950047,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24669983,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4259
+                },
+                "isbn": 1932416595,
+                "isbn13": 9781932416596,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 304
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Oc3FB75TMZc1mi7unm29Ng",
+                "title": "Housekeeping vs. the Dirt",
+                "title_without_series": "Housekeeping vs. the Dirt",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392158746l/4259._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392158746l/4259._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4259.Housekeeping_vs_the_Dirt",
+                "num_pages": 153,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "McSweeney's",
+                "publication_day": 13,
+                "publication_year": 2006,
+                "publication_month": 9,
+                "average_rating": 3.88,
+                "ratings_count": 2664,
+                "description": "In this latest collection of essays following <i>The Polysyllabic Spree,</i> critic and author Nick Hornby continues the feverish survey of his swollen bookshelves, offering a funny, intelligent, and unblinkered account of the stuff he's been reading. Ranging from the middlebrow to the highbrow (with unrepenting dips into the lowbrow), Hornby's dispatches from his nightstand table serve as useful guides to contemporary letters, with revelations on contemporary culture, the intellectual scene, and English football, in equal measure.<br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 2929,
+                        "name": "Nick Hornby",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1422915487p5/2929.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1422915487p2/2929.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2929.Nick_Hornby",
+                        "average_rating": 3.66,
+                        "ratings_count": 596704,
+                        "text_reviews_count": 33047
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 7949,
+                    "uri": "kca://work/amzn1.gr.work.v1.ZJfhVQ960ZxRN35JOcnMuQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:04:39 -0700 2008",
+            "date_updated": "Mon Jun 16 19:04:39 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24669983",
+            "link": "https://www.goodreads.com/review/show/24669983",
+            "owned": 0
+        }
+    }
+}

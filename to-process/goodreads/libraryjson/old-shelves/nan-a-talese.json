@@ -1,0 +1,51 @@
+{
+    "name": "Nan A. Talese",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Nutshell",
+            "id": "30008702",
+            "author": "Ian McEwan",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1498566706000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30008702",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Nan A. Talese",
+            "tags": [
+                "Hardcover",
+                "Nan A. Talese",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "30008702",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

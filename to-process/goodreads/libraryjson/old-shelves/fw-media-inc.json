@@ -1,0 +1,104 @@
+{
+    "name": "F+w Media Inc.",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "World-Building",
+            "id": "302475",
+            "author": "Stephen L. Gillett, Ben Bova",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146996000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of World-Building: Rating - 4/5",
+                    "date": 1402146996000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/302475",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "F+w Media Inc.",
+            "tags": [
+                "Paperback",
+                "F+w Media Inc.",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "158297134X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781582971346",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "302475",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "World-Building",
+            "id": 302475,
+            "author": "Stephen L. Gillett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/302475",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "F+w Media Inc.",
+            "tags": [
+                "Paperback",
+                "F+w Media Inc.",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "158297134X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 302475,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

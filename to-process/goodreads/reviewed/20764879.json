@@ -1,0 +1,145 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1991501294,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20764879
+                },
+                "isbn": 765376474,
+                "isbn13": 9780765376473,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10543
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.0wkzDE8UWSZ1gq-zUIjjMQ",
+                "title": "A Gathering of Shadows (Shades of Magic, #2)",
+                "title_without_series": "A Gathering of Shadows",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429627728l/20764879._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429627728l/20764879._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20764879-a-gathering-of-shadows",
+                "num_pages": 512,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 23,
+                "publication_year": 2016,
+                "publication_month": 2,
+                "average_rating": 4.28,
+                "ratings_count": 95160,
+                "description": "It has been four months since a mysterious obsidian stone fell into Kell's possession. Four months since his path crossed with Delilah Bard. Four months since Prince Rhy was wounded, and since the nefarious Dane twins of White London fell, and four months since the stone was cast with Holland's dying body through the rift--back into Black London.<br /><br />Now, restless after having given up his smuggling habit, Kell is visited by dreams of ominous magical events, waking only to think of Lila, who disappeared from the docks as she always meant to do. As Red London finalizes preparations for the Element Games--an extravagant international competition of magic meant to entertain and keep healthy the ties between neighboring countries--a certain pirate ship draws closer, carrying old friends back into port.<br /><br />And while Red London is caught up in the pageantry and thrills of the Games, another London is coming back to life. After all, a shadow that was gone in the night will reappear in the morning. But the balance of magic is ever perilous, and for one city to flourish, another London must fall.",
+                "authors": {
+                    "author": {
+                        "id": 7168230,
+                        "name": "V.E. Schwab",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1511218938p5/7168230.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1511218938p2/7168230.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7168230.V_E_Schwab",
+                        "average_rating": 4.19,
+                        "ratings_count": 498382,
+                        "text_reviews_count": 75358
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 43242915,
+                    "uri": "kca://work/amzn1.gr.work.v1.H-jq2lQ1myhm-7uQY33_Hg"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2021823929
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Sep 29 20:19:09 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1994393480
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Sep 08 11:18:00 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1828115356
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri May 05 04:28:46 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri Sep 08 11:18:00 -0700 2017",
+            "read_at": "Fri Sep 29 20:19:08 -0700 2017",
+            "date_added": "Fri May 05 04:28:45 -0700 2017",
+            "date_updated": "Fri Sep 29 20:19:08 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1991501294",
+            "link": "https://www.goodreads.com/review/show/1991501294",
+            "owned": 0
+        }
+    }
+}

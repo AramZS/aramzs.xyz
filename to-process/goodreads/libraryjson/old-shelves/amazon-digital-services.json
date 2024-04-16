@@ -1,0 +1,96 @@
+{
+    "name": "Amazon Digital Services",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The King in Yellow",
+            "id": "17211636",
+            "author": "Robert W. Chambers",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1581985268000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/17211636",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Amazon Digital Services",
+            "tags": [
+                "Kindle Edition",
+                "Amazon Digital Services",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "17211636",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Before The Exit: Thought Experiments For Entrepreneurs",
+            "id": "39351528",
+            "author": "Dan   Andrews, Ian Schoen",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1572574317000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/39351528",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Amazon Digital Services",
+            "tags": [
+                "Kindle Edition",
+                "Amazon Digital Services",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "39351528",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

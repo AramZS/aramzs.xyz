@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 174751754,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7094569
+                },
+                "isbn": 316081051,
+                "isbn13": 9780316081054,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5415
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.9N7kvvYf5SJyFlUkVySBiA",
+                "title": "Feed (Newsflesh Trilogy, #1)",
+                "title_without_series": "Feed",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408500437l/7094569._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408500437l/7094569._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7094569-feed",
+                "num_pages": 599,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 1,
+                "publication_year": 2010,
+                "publication_month": 5,
+                "average_rating": 3.85,
+                "ratings_count": 50809,
+                "description": "The year was 2014. We had cured cancer. We had beaten the common cold. But in doing so we created something new, something terrible that no one could stop. <br /><br />The infection spread, virus blocks taking over bodies and minds with one, unstoppable command: <b>FEED</b>. Now, twenty years after the Rising, bloggers Georgia and Shaun Mason are on the trail of the biggest story of their lives—the dark conspiracy behind the infected. <br /><br />The truth will get out, even if it kills them.",
+                "authors": {
+                    "author": {
+                        "id": 3153776,
+                        "name": "Mira Grant",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1380320279p5/3153776.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1380320279p2/3153776.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3153776.Mira_Grant",
+                        "average_rating": 3.94,
+                        "ratings_count": 165609,
+                        "text_reviews_count": 21252
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 7351419,
+                    "uri": "kca://work/amzn1.gr.work.v1.ptCIJ1FrwkMPvfwfVpQXMw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Jun 08 04:37:29 -0700 2011",
+            "date_updated": "Wed Jun 08 04:37:29 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/174751754",
+            "link": "https://www.goodreads.com/review/show/174751754",
+            "owned": 0
+        }
+    }
+}

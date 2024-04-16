@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 490614889,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1857440
+                },
+                "isbn": 978970764,
+                "isbn13": 9780978970765,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4278
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZMxb1bW_2o_P3wIG9fWdeQ",
+                "title": "John Dies at the End (John Dies at the End, #1)",
+                "title_without_series": "John Dies at the End",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1857440.John_Dies_at_the_End",
+                "num_pages": 362,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Permuted Press",
+                "publication_day": 1,
+                "publication_year": 2007,
+                "publication_month": 8,
+                "average_rating": 3.9,
+                "ratings_count": 58525,
+                "description": "<b>STOP. </b>You should not have touched this flyer with your bare hands. NO, don't put it down. It's too late. They're watching you. <b>My name is David Wong.</b> My best friend is John. Those names are fake. You might want to change yours. You may not want to know about the things you'll read on these pages, about <b>the sauce</b>, about <b>Korrok</b>, about the invasion, and the future. But it's too late. You touched the book. You're in the game. You're under <b>the eye</b>. The only defense is knowledge. You need to read this book, to the end. Even the part with the bratwurst. Why? You just have to trust me.<br /><br /><b>The important thing is this: </b>The drug is called <b>Soy Sauce</b> and it gives users a window into another dimension. John and I never had the chance to say no. You still do. I'm sorry to have involved you in this, I really am. But as you read about these terrible events and the very <b>dark epoch</b> the world is about to enter as a result, it is crucial you keep one thing in mind: <b>\n  <i>None of this was my fault.</i>\n</b>",
+                "authors": {
+                    "author": {
+                        "id": 225033,
+                        "name": "David  Wong",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440567087p5/225033.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440567087p2/225033.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/225033.David_Wong",
+                        "average_rating": 4.02,
+                        "ratings_count": 103733,
+                        "text_reviews_count": 10347
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 1858059,
+                    "uri": "kca://work/amzn1.gr.work.v1.aAN03DTvaPA5C6_uZbZCyg"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Dec 31 00:00:00 -0800 2012",
+            "read_at": "Thu Jan 03 09:26:47 -0800 2013",
+            "date_added": "Mon Dec 31 06:52:28 -0800 2012",
+            "date_updated": "Thu Jan 03 09:26:47 -0800 2013",
+            "read_count": 1,
+            "body": "There are many reasons I shouldn't have liked this book. I liked it anyway. That's pretty much all that can be said.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/490614889",
+            "link": "https://www.goodreads.com/review/show/490614889",
+            "owned": 0
+        }
+    }
+}

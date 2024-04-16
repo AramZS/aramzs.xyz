@@ -1,0 +1,103 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528971540,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7190
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3860
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.xZFCBXgbWy6QsTo2TeWL4A",
+                "title": "The Three Musketeers (The D'Artagnan Romances, #1)",
+                "title_without_series": "The Three Musketeers",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320436982l/7190._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320436982l/7190._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7190.The_Three_Musketeers",
+                "num_pages": 625,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Modern Library",
+                "publication_day": 13,
+                "publication_year": 2001,
+                "publication_month": 2,
+                "average_rating": 4.07,
+                "ratings_count": 264143,
+                "description": "Alexandre Dumas’s most famous tale— and possibly the most famous historical novel of all time— in a handsome hardcover volume.<br /><br />This swashbuckling epic of chivalry, honor, and derring-do, set in France during the 1620s, is richly populated with romantic heroes, unattainable heroines, kings, queens, cavaliers, and criminals in a whirl of adventure, espionage, conspiracy, murder, vengeance, love, scandal, and suspense. Dumas transforms minor historical figures into larger- than-life characters: the Comte d’Artagnan, an impetuous young man in pursuit of glory; the beguilingly evil seductress “Milady”; the powerful and devious Cardinal Richelieu; the weak King Louis XIII and his unhappy queen—and, of course, the three musketeers themselves, Athos, Porthos, and Aramis, whose motto “all for one, one for all” has come to epitomize devoted friendship. With a plot that delivers stolen diamonds, masked balls, purloined letters, and, of course, great bouts of swordplay, <i>The Three Musketeers </i>is eternally entertaining.",
+                "authors": {
+                    "author": {
+                        "id": 4785,
+                        "name": "Alexandre Dumas",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1279049943p5/4785.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1279049943p2/4785.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4785.Alexandre_Dumas",
+                        "average_rating": 4.17,
+                        "ratings_count": 1194691,
+                        "text_reviews_count": 34226
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 1263212,
+                    "uri": "kca://work/amzn1.gr.work.v1.W7BsOYv41XP_65N3CZ1t2A"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:34:24 -0800 2013",
+            "date_updated": "Thu Feb 07 08:34:24 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528971540",
+            "link": "https://www.goodreads.com/review/show/528971540",
+            "owned": 0
+        }
+    }
+}

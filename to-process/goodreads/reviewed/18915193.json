@@ -1,0 +1,118 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960344452,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18915193
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9780985143718,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.0L-5NWCDAq2EBhgKBvTcrQ",
+                "title": "Critical Path: How to Review Videogames for a Living",
+                "title_without_series": "Critical Path: How to Review Videogames for a Living",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18915193-critical-path",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.05,
+                "ratings_count": 122,
+                "description": "Critical Path: How to Review Videogames for a Living will tell you what you need to know and what you need to do to make a run at this career, for real. This includes how to write compelling reviews, how to pitch yourself as a writer, how to tackle some tricky ethical quandaries, and yes, even how to get free games. Based on Dan Amrich’s own experience as a game journalist for more than 15 years, it’s advice that can serve you for your entire career, from press start to game over.",
+                "authors": {
+                    "author": {
+                        "id": 5758088,
+                        "name": "Dan Amrich",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1329983042p5/5758088.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1329983042p2/5758088.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5758088.Dan_Amrich",
+                        "average_rating": 4.05,
+                        "ratings_count": 122,
+                        "text_reviews_count": 6
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 19039898,
+                    "uri": "kca://work/amzn1.gr.work.v1.Qm0NgyhTKvsFxdT4pZtBmQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452285363
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:11:29 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710712342,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:11:29 -0700 2014",
+            "date_updated": "Sat Jun 07 06:11:29 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960344452",
+            "link": "https://www.goodreads.com/review/show/960344452",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "name": "tor.com",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Down on the Farm (Laundry Files, #2.5)",
+            "id": "8605343",
+            "author": "Charles Stross",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146922000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Down on the Farm (Laundry Files, #2.5): Rating - 5/5",
+                    "date": 1402146922000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8605343",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "tor.com",
+            "tags": [
+                "Kindle Edition",
+                "tor.com",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "8605343",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Down on the Farm (Laundry Files, #2.5)",
+            "id": 8605343,
+            "author": "Charles Stross",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8605343",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "tor.com",
+            "tags": [
+                "tor.com",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 8605343,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

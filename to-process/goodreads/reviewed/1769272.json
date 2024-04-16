@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960343064,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1769272
+                },
+                "isbn": 1401215564,
+                "isbn13": 9781401215569,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZVuVtbbVrnmwG_R20aLa5Q",
+                "title": "Justice League Elite, Vol. 2",
+                "title_without_series": "Justice League Elite, Vol. 2",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343034726l/1769272._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343034726l/1769272._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1769272.Justice_League_Elite_Vol_2",
+                "num_pages": 192,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "DC Comics",
+                "publication_day": 3,
+                "publication_year": 2007,
+                "publication_month": 10,
+                "average_rating": 3.41,
+                "ratings_count": 128,
+                "description": "In this volume collecting the final 8 issues of the hit miniseries, the JLA splinter team burrows deeper into the inner circle of an alien drug cartel…that is, until their cover is blown! Meanwhile, in the farthest reaches of the galaxy, a new villain has risen from the Source Wall. Her name is Eve, and the only thing she's looking to create is the destruction of the Elite . . . and the world!",
+                "authors": {
+                    "author": {
+                        "id": 18119,
+                        "name": "Joe Kelly",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1544669789p5/18119.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1544669789p2/18119.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/18119.Joe_Kelly",
+                        "average_rating": 3.96,
+                        "ratings_count": 56095,
+                        "text_reviews_count": 4783
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 1767409,
+                    "uri": "kca://work/amzn1.gr.work.v1.p8pfkbiTTlJeZYDi12Ql0Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452283613
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:09:13 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813198543,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:09:13 -0700 2014",
+            "date_updated": "Mon Oct 23 16:36:01 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960343064",
+            "link": "https://www.goodreads.com/review/show/960343064",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,790 @@
+{
+    "name": "47North",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Book of the Unnamed Midwife (The Road to Nowhere, #1)",
+            "id": "29806086",
+            "author": "Meg Elison",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1558702230000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Book of the Unnamed Midwife (The Road to Nowhere, #1): Rating - 4/5",
+                    "date": 1558702230000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/29806086",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Paperback",
+                "47North",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1503939111",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781503939110",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "29806086",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Off to Be the Wizard (Magic 2.0, #1)",
+            "id": "32858845",
+            "author": "Scott  Meyer",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1545062186000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/32858845",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Kindle Edition",
+                "47North",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "32858845",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Fields of Fire (Frontlines, #5)",
+            "id": "30243858",
+            "author": "Marko Kloos",
+            "date_finished": 1489881600000,
+            "notes": [],
+            "date_started": 1495117752000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Fields of Fire (Frontlines, #5): Rating - 4/5",
+                    "date": 1489881600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30243858",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Kindle Edition",
+                "47North",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "30243858",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Lines of Departure (Frontlines, #2)",
+            "id": "18476102",
+            "author": "Marko Kloos",
+            "date_finished": 1484524800000,
+            "notes": [],
+            "date_started": 1486017695000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Lines of Departure (Frontlines, #2): Rating - 3/5",
+                    "date": 1484524800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18476102",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Paperback",
+                "47North",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1477817409",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781477817407",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18476102",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Chains of Command (Frontlines, #4)",
+            "id": "25648897",
+            "author": "Marko Kloos",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1485458864000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Chains of Command (Frontlines, #4): Rating - 4/5",
+                    "date": 1485458864000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25648897",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Kindle Edition",
+                "47North",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25648897",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Angles of Attack (Frontlines, #3)",
+            "id": "24358527",
+            "author": "Marko Kloos",
+            "date_finished": 1484697600000,
+            "notes": [],
+            "date_started": 1484770562000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Angles of Attack (Frontlines, #3): Rating - 4/5",
+                    "date": 1484697600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/24358527",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Kindle Edition",
+                "47North",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "24358527",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Terms of Enlistment (Frontlines #1)",
+            "id": "18800655",
+            "author": "Marko Kloos",
+            "date_finished": 1480723200000,
+            "notes": [],
+            "date_started": 1483468884000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Terms of Enlistment (Frontlines #1): Rating - 2/5",
+                    "date": 1480723200000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18800655",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Kindle Edition",
+                "47North",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18800655",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Lines of Departure (Frontlines, #2)",
+            "id": "20329634",
+            "author": "Marko Kloos",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086510000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/20329634",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Kindle Edition",
+                "47North",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "20329634",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Reflections (Indexing, #2)",
+            "id": "25547096",
+            "author": "Seanan McGuire",
+            "date_finished": 1455494400000,
+            "notes": [],
+            "date_started": 1455587774000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Reflections (Indexing, #2): Rating - 4/5",
+                    "date": 1455494400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25547096",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Kindle Edition",
+                "47North",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25547096",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Harmony Black (Harmony Black, #1)",
+            "id": "26402927",
+            "author": "Craig Schaefer",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1452386455000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/26402927",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Kindle Edition",
+                "47North",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "26402927",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Interrupt",
+            "id": "18800541",
+            "author": "Jeff  Carlson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1415735771000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18800541",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Kindle Edition",
+                "47North",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18800541",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Mongoliad (The Mongoliad Cycle Book 1)",
+            "id": "19438287",
+            "author": "Neal Stephenson, Greg Bear, Mark Teppo, Erik Bear, Joseph Brassey, Cooper Moo, Nicole Galland, Mike Grell",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146330000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/19438287",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Kindle Edition",
+                "47North",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "19438287",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Indexing (Indexing, #1)",
+            "id": "17907054",
+            "author": "Seanan McGuire",
+            "date_finished": 1388534400000,
+            "notes": [],
+            "date_started": 1390425310000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Indexing (Indexing, #1): Rating - 4/5",
+                    "date": 1388534400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/17907054",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Paperback",
+                "47North",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1477809600",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781477809600",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "17907054",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Book of the Unnamed Midwife (The Road to Nowhere, #1)",
+            "id": 29806086,
+            "author": "Meg Elison",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/29806086",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Paperback",
+                "47North",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 29806086,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Lines of Departure (Frontlines, #2)",
+            "id": 18476102,
+            "author": "Marko Kloos",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18476102",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Paperback",
+                "47North",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 18476102,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Indexing (Indexing, #1)",
+            "id": 17907054,
+            "author": "Seanan McGuire",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/17907054",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "47North",
+            "tags": [
+                "Paperback",
+                "47North",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 17907054,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

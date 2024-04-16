@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629408621,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 37168303
+                },
+                "isbn": 399180982,
+                "isbn13": 9780399180989,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1372
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.gNP31475gASibAsomyI_fQ",
+                "title": "Spinning Silver",
+                "title_without_series": "Spinning Silver",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550139278l/37168303._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550139278l/37168303._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/37168303-spinning-silver",
+                "num_pages": 480,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Del Rey Books/Random House",
+                "publication_day": 9,
+                "publication_year": 2018,
+                "publication_month": 7,
+                "average_rating": 4.25,
+                "ratings_count": 63839,
+                "description": "Miryem is the daughter and granddaughter of moneylenders, but her father's inability to collect his debts has left his family on the edge of poverty--until Miryem takes matters into her own hands. Hardening her heart, the young woman sets out to claim what is owed and soon gains a reputation for being able to turn silver into gold. <br /><br />When an ill-advised boast draws the attention of the king of the Staryk--grim fey creatures who seem more ice than flesh--Miryem's fate, and that of two kingdoms, will be forever altered. Set an impossible challenge by the nameless king, Miryem unwittingly spins a web that draws in a peasant girl, Wanda, and the unhappy daughter of a local lord who plots to wed his child to the dashing young tsar. <br /><br />But Tsar Mirnatius is not what he seems. And the secret he hides threatens to consume the lands of humans and Staryk alike. Torn between deadly choices, Miryem and her two unlikely allies embark on a desperate quest that will take them to the limits of sacrifice, power, and love. <br /><br />Channeling the vibrant heart of myth and fairy tale, <i>Spinning Silver</i> weaves a multilayered, magical tapestry that readers will want to return to again and again.",
+                "authors": {
+                    "author": {
+                        "id": 8730,
+                        "name": "Naomi Novik",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206646770p5/8730.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206646770p2/8730.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8730.Naomi_Novik",
+                        "average_rating": 4.04,
+                        "ratings_count": 497160,
+                        "text_reviews_count": 52258
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 58657620,
+                    "uri": "kca://work/amzn1.gr.work.v1.QLWSGtHpDXTv3RbZ12HtXA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666054806
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:49:32 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274612825,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:49:31 -0800 2018",
+            "date_updated": "Mon Dec 17 07:49:31 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629408621",
+            "link": "https://www.goodreads.com/review/show/2629408621",
+            "owned": 0
+        }
+    }
+}

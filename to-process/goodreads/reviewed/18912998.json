@@ -1,0 +1,128 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071694239,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18912998
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.KItHN3CzNulqsovqxGRWeg",
+                "title": "Batman: No Man's Land Vol. 3",
+                "title_without_series": "Batman: No Man's Land Vol. 3",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18912998-batman",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.72,
+                "ratings_count": 523,
+                "description": "After suffering a cataclysmic earthquake, the U.S. government has deemed Gotham City uninhabitable and ordered all citizens to leave. It is now months later and those that have refused to vacate \"No Man's Land\" live amidst a citywide turf war in which the strongest prey on the weak.Batman and his allies continue their fight to save Gotham during its darkest hour. Taking on a new costume and persona as Batgirl, the Huntress joins forces with Barbara Gordon, the former Batgirl, while Nightwing, the former Robin, tries to help the city's remaining citizens in any way he can. But as Batman begins to realize that he is fighting a fight he can't win, he collapses into a state of despair from which he may never recover.<br /><br />This volume collects the issues: <br /><br />Batman #569-571<br />Detective Comics #736-738<br />Azrael: Agent of the Bat #58<br />Batman: Legends of the Dark Knight #122-124<br />Batman: Shadow of the Bat #89-92<br />Robin #68-72<br />Batman: No Man's Land Secret Files #1",
+                "authors": {
+                    "author": {
+                        "id": 28709,
+                        "name": "Chuck Dixon",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1471216340p5/28709.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1471216340p2/28709.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/28709.Chuck_Dixon",
+                        "average_rating": 4.24,
+                        "ratings_count": 312680,
+                        "text_reviews_count": 7297
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 43938385,
+                    "uri": "kca://work/amzn1.gr.work.v1.uVyvc_qCOJ3CNsL8tKplVQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593086048
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:15:53 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813197681,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:15:53 -0700 2014",
+            "date_updated": "Mon Oct 23 16:34:53 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071694239",
+            "link": "https://www.goodreads.com/review/show/1071694239",
+            "owned": 0
+        }
+    }
+}

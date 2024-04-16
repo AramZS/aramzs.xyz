@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 442768341,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1799255
+                },
+                "isbn": 141181621,
+                "isbn13": 9780141181622,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.1WV6FIHs54COKMibet7BUw",
+                "title": "The Death of Virgil",
+                "title_without_series": "The Death of Virgil",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1799255.The_Death_of_Virgil",
+                "num_pages": 516,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Penguin",
+                "publication_day": {},
+                "publication_year": 2000,
+                "publication_month": {},
+                "average_rating": 4.19,
+                "ratings_count": 1104,
+                "description": "It is the reign of the Emperor Augustus, and Publius Vergilius Maro, the poet of the Aeneid and Caesar's enchanter, has been summoned to the palace, where he will shortly die. Out of the last hours of Virgil's life and the final stirrings of his consciousness, the Austrian writer Hermann Broch fashioned one of the great works of twentieth-century modernism, a book that embraces an entire world and renders it with an immediacy that is at once sensual and profound.<br /><br />Begun while Broch was imprisoned in a German concentration camp, <i>The Death of Virgil</i> is part historical novel and part prose poem - and always an intensely musical and immensely evocative meditation on the relation between life and death, the ancient and the modern.",
+                "authors": {
+                    "author": {
+                        "id": 15386,
+                        "name": "Hermann Broch",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1527627907p5/15386.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1527627907p2/15386.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/15386.Hermann_Broch",
+                        "average_rating": 4.05,
+                        "ratings_count": 4017,
+                        "text_reviews_count": 366
+                    }
+                },
+                "published": 2000,
+                "work": {
+                    "id": 1798384,
+                    "uri": "kca://work/amzn1.gr.work.v1.WET4wOdixK0paoegRUAf1g"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 293101423,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 27 07:58:31 -0700 2012",
+            "date_updated": "Sat Oct 27 07:58:31 -0700 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/442768341",
+            "link": "https://www.goodreads.com/review/show/442768341",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Wesleyan University Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Trouble on Triton: An Ambiguous Heterotopia",
+            "id": "85893",
+            "author": "Samuel R. Delany, Kathy Acker",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1476627405000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/85893",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Wesleyan University Press",
+            "tags": [
+                "Paperback",
+                "Wesleyan University Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "081956298X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780819562982",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "85893",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

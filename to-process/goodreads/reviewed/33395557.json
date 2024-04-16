@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2003541022,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 33395557
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1119
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.EDxjHNx70kSGzRyYfd2T_g",
+                "title": "For We Are Many (Bobiverse, #2)",
+                "title_without_series": "For We Are Many",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501817361l/33395557._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501817361l/33395557._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/33395557-for-we-are-many",
+                "num_pages": 9,
+                "format": "Audible Audio",
+                "edition_information": "Unabridged Audiobook",
+                "publisher": "Audible Studios",
+                "publication_day": 18,
+                "publication_year": 2017,
+                "publication_month": 4,
+                "average_rating": 4.38,
+                "ratings_count": 30502,
+                "description": "Bob Johansson didn’t believe in an afterlife, so waking up after being killed in a car accident was a shock. To add to the surprise, he is now a sentient computer and the controlling intelligence for a Von Neumann probe.<br /><br />Bob and his copies have been spreading out from Earth for forty years now, looking for habitable planets. But that’s the only part of the plan that’s still in one piece. A system-wide war has killed off 99.9% of the human race; nuclear winter is slowly making the Earth uninhabitable; a radical group wants to finish the job on the remnants of humanity; the Brazilian space probes are still out there, still trying to blow up the competition; And the Bobs have discovered a spacefaring species that considers all other life as food.<br /><br />Bob left Earth anticipating a life of exploration and blissful solitude. Instead he’s a sky god to a primitive native species, the only hope for getting humanity to a new home, and possibly the only thing that can prevent every species in the local sphere ending up as dinner.",
+                "authors": {
+                    "author": {
+                        "id": 12130438,
+                        "name": "Dennis E. Taylor",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor",
+                        "average_rating": 4.32,
+                        "ratings_count": 117922,
+                        "text_reviews_count": 8247
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 54144664,
+                    "uri": "kca://work/amzn1.gr.work.v1.fJNhYSyFslvT9Qj4f_JeTw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1852496538
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu May 25 08:20:55 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1844038917
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu May 18 07:31:37 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Thu May 18 07:31:37 -0700 2017",
+            "read_at": "Thu May 25 08:20:55 -0700 2017",
+            "date_added": "Thu May 18 07:31:36 -0700 2017",
+            "date_updated": "Thu May 25 08:20:54 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2003541022",
+            "link": "https://www.goodreads.com/review/show/2003541022",
+            "owned": 0
+        }
+    }
+}

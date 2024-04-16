@@ -1,0 +1,104 @@
+{
+    "name": "1979 Semi-Finalist, Inc",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Storykiller",
+            "id": "22353165",
+            "author": "Kelly Thompson",
+            "date_finished": 1402012800000,
+            "notes": [],
+            "date_started": 1402150806000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Storykiller: Rating - 3/5",
+                    "date": 1402012800000,
+                    "type": "long",
+                    "content": "An artifact of the internet's strange and incredibly strong preference for plot over form. Storykiller, like many self-started, self-published, internet-fan-supported novels, displays strong plotting that lays out a good narrative with good drive behind it. <br/><br/>However, the characters are somewhat weak, though they improve by the end of the novel, and the writing style leaves something to be desired. While the plot has clearly been thought out, the mechanics of the writing are still rough. Especially in a few places where the story becomes disjointed, like a record skipping a beat, before it all comes back together. <br/><br/>All said, there's still plenty in the novel to recommend to a reader, especially the fan of meta-fiction or of Buffy and her monster-of-the-week ilk, who are clear progenitors of Storykiller's protagonist. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22353165",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "1979 Semi-Finalist, Inc",
+            "tags": [
+                "Hardcover",
+                "1979 Semi-Finalist, Inc",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0991649249",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780991649242",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "22353165",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Storykiller",
+            "id": 22353165,
+            "author": "Kelly Thompson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22353165",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "1979 Semi-Finalist, Inc",
+            "tags": [
+                "Hardcover",
+                "1979 Semi-Finalist, Inc",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 22353165,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

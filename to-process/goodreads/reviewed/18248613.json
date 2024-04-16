@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2047022030,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18248613
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 779
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.qAfuQLdHhZqzX8Y6EbDkpA",
+                "title": "Warm Up  (Villains, #0.5)",
+                "title_without_series": "Warm Up",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375025858l/18248613._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375025858l/18248613._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18248613-warm-up",
+                "num_pages": 15,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 20,
+                "publication_year": 2013,
+                "publication_month": 8,
+                "average_rating": 3.83,
+                "ratings_count": 5239,
+                "description": "It’s been 297 days since David died–and came back.<br /><br />He may have survived the avalanche, but the aftermath has been far worse. His wife moved out, taking his son with her, and a devastated David hasn’t left his house since, terrified of the mysterious new power that followed him home from the ill-fated expedition.<br /><br />After months in seclusion, David’s ready for a fresh start, and ventures out, determined to keep his power in check. But David’s power isn’t the one he needs to worry about.",
+                "authors": {
+                    "author": {
+                        "id": 7168230,
+                        "name": "V.E. Schwab",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1511218938p5/7168230.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1511218938p2/7168230.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7168230.V_E_Schwab",
+                        "average_rating": 4.19,
+                        "ratings_count": 498382,
+                        "text_reviews_count": 75358
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 25701457,
+                    "uri": "kca://work/amzn1.gr.work.v1.-1MoLVJ3JQxbhiR04cM0Bw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1901052909
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 02 07:12:21 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1700962301,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Jul 02 07:12:21 -0700 2017",
+            "date_updated": "Sun Jul 02 07:12:21 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2047022030",
+            "link": "https://www.goodreads.com/review/show/2047022030",
+            "owned": 0
+        }
+    }
+}

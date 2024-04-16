@@ -1,7 +1,7 @@
 {% extends "./page.njk" %}
 {% set ogtype = 'article' %}
 {% set headingClass = 'book' %}
-{% set title = book.title %}
+{% set title = book.title or title %}
 {% set titlePrefix = 'Book' %}
 {% set subTitle = book.subtitle %}
 
@@ -10,7 +10,7 @@
 {% endblock %}
 
 {% block pageContent %}
-    <section>
+    <section data-source="src/_includes/layouts/book.njk">
         <aside class="margin-note">
             {% if book.cover %}
             <img height="200px" src="{{ book.cover.url }}" alt="{{ book.cover.name }}">

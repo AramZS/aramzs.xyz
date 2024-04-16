@@ -1,0 +1,202 @@
+{
+    "name": "Modern Library",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Complete Works (Modern Library)",
+            "id": "60275",
+            "author": "William Shakespeare, Jonathan Bate, Eric Rasmussen",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1582481919000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Complete Works (Modern Library): Rating - 5/5",
+                    "date": 1582481919000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/60275",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Modern Library",
+            "tags": [
+                "Hardcover",
+                "Modern Library",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0679642951",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780679642954",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "60275",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Three Musketeers (The D'Artagnan Romances, #1)",
+            "id": "7190",
+            "author": "Alexandre Dumas",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360254864000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Three Musketeers (The D'Artagnan Romances, #1): Rating - 4/5",
+                    "date": 1360254864000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7190",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Modern Library",
+            "tags": [
+                "Paperback",
+                "Modern Library",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "7190",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Three Musketeers (The D'Artagnan Romances, #1)",
+            "id": 7190,
+            "author": "Alexandre Dumas",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7190",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Modern Library",
+            "tags": [
+                "Paperback",
+                "Modern Library",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 7190,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Complete Works",
+            "id": 60275,
+            "author": "William Shakespeare",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/60275",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Modern Library",
+            "tags": [
+                "Hardcover",
+                "Modern Library",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 60275,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

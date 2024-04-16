@@ -1,0 +1,202 @@
+{
+    "name": "Wildstorm Signature",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Ex Machina, Vol. 1: The First Hundred Days (Ex Machina, #1)",
+            "id": "296901",
+            "author": "Brian K. Vaughan, Tony Harris, Tom Feister, J.D. Mettler",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508803908000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Ex Machina, Vol. 1: The First Hundred Days (Ex Machina, #1): Rating - 5/5",
+                    "date": 1508803908000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/296901",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Wildstorm Signature",
+            "tags": [
+                "Paperback",
+                "Wildstorm Signature",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1401206123",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781401206123",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "296901",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Ex Machina, Vol. 2: Tag (Ex Machina, #2)",
+            "id": "296902",
+            "author": "Brian K. Vaughan, Tony Harris, Tom Feister, J.D. Mettler",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508801916000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Ex Machina, Vol. 2: Tag (Ex Machina, #2): Rating - 5/5",
+                    "date": 1508801916000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/296902",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Wildstorm Signature",
+            "tags": [
+                "Paperback",
+                "Wildstorm Signature",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1401206263",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781401206260",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "296902",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Ex Machina, Vol. 2: Tag (Ex Machina, #2)",
+            "id": 296902,
+            "author": "Brian K. Vaughan",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/296902",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Wildstorm Signature",
+            "tags": [
+                "Paperback",
+                "Wildstorm Signature",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 296902,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Ex Machina, Vol. 1: The First Hundred Days (Ex Machina, #1)",
+            "id": 296901,
+            "author": "Brian K. Vaughan",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/296901",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Wildstorm Signature",
+            "tags": [
+                "Paperback",
+                "Wildstorm Signature",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 296901,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

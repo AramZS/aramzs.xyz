@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2047028174,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 28746
+                },
+                "isbn": "159448242X",
+                "isbn13": 9781594482427,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 658
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.cNwT9HACU4t9_vaP2kTFJQ",
+                "title": "In Persuasion Nation",
+                "title_without_series": "In Persuasion Nation",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/28746.In_Persuasion_Nation",
+                "num_pages": 228,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Riverhead Books",
+                "publication_day": 6,
+                "publication_year": 2007,
+                "publication_month": 3,
+                "average_rating": 4.11,
+                "ratings_count": 8114,
+                "description": "The stories <i>In Persuasion Nation</i> are easily his best work yet. \"The Red Bow,\"about a town consumed by pet-killing hysteria, won a 2004 National Magazine Award and \"Bohemians,\" the story of two supposed Eastern European widows trying to fit in in suburban USA, is included in The Best American Short Stories 2005. His new book includes both unpublished work, and stories that first appeared in The New Yorker, Harper's, and Esquire. The stories in this volume work together as a whole whose impact far exceeds the simple sum of its parts. Fans of Saunders know and love him for his sharp and hilarious satirical eye. But In Persuasion Nation also includes more personal and poignant pieces that reveal a new kind of emotional conviction in Saunders's writing.<br /><br />Saunders's work in the last six years has come to be recognized as one of the strongest-and most consoling-cries in the wilderness of the millennium's political and cultural malaise. <i>In Persuasion Nation</i>'s sophistication and populism should establish Saunders once and for all as this generation's literary voice of wisdom and humor in a time when we need it most.",
+                "authors": {
+                    "author": {
+                        "id": 8885,
+                        "name": "George Saunders",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1588859347p5/8885.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1588859347p2/8885.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8885.George_Saunders",
+                        "average_rating": 3.9,
+                        "ratings_count": 263210,
+                        "text_reviews_count": 36089
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 1128238,
+                    "uri": "kca://work/amzn1.gr.work.v1.OTPcwIntNh_leqhLrRHItQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1901060882
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 02 07:20:13 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1700968375,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Jul 02 07:20:13 -0700 2017",
+            "date_updated": "Sun Jul 02 07:20:13 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2047028174",
+            "link": "https://www.goodreads.com/review/show/2047028174",
+            "owned": 0
+        }
+    }
+}

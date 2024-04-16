@@ -1,0 +1,51 @@
+{
+    "name": "Black Stone Publishing",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Dreamer Genome",
+            "id": "16179601",
+            "author": "Steve S. Grant",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1359431801000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16179601",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Black Stone Publishing",
+            "tags": [
+                "ebook",
+                "Black Stone Publishing",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780991739301",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16179601",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

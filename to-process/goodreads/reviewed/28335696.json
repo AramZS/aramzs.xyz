@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333632499,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 28335696
+                },
+                "isbn": 316332828,
+                "isbn13": 9780316332828,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1405
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.2iHL4GNS5f2eonTkkhVDkw",
+                "title": "Persepolis Rising (The Expanse, #7)",
+                "title_without_series": "Persepolis Rising",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481562381l/28335696._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481562381l/28335696._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/28335696-persepolis-rising",
+                "num_pages": 608,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Orbit Books",
+                "publication_day": 5,
+                "publication_year": 2017,
+                "publication_month": 12,
+                "average_rating": 4.36,
+                "ratings_count": 31630,
+                "description": "In the thousand-sun network of humanity's expansion, new colony worlds are struggling to find their way. Every new planet lives on a knife edge between collapse and wonder, and the crew of the aging gunship Rocinante have their hands more than full keeping the fragile peace.<br /><br />In the vast space between Earth and Jupiter, the inner planets and belt have formed a tentative and uncertain alliance still haunted by a history of wars and prejudices. On the lost colony world of Laconia, a hidden enemy has a new vision for all of humanity and the power to enforce it.<br /><br />New technologies clash with old as the history of human conflict returns to its ancient patterns of war and subjugation. But human nature is not the only enemy, and the forces being unleashed have their own price. A price that will change the shape of humanity -- and of the Rocinante -- unexpectedly and forever...",
+                "authors": {
+                    "author": {
+                        "id": 4192148,
+                        "name": "James S.A. Corey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573162332p5/4192148.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573162332p2/4192148.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey",
+                        "average_rating": 4.25,
+                        "ratings_count": 603133,
+                        "text_reviews_count": 37691
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 48382887,
+                    "uri": "kca://work/amzn1.gr.work.v1.xlC5tGAEYvyWJ9dIqg-SxA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2274324226
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Mar 20 05:19:35 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Mar 20 05:19:35 -0700 2018",
+            "date_updated": "Tue Mar 20 05:20:02 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333632499",
+            "link": "https://www.goodreads.com/review/show/2333632499",
+            "owned": 0
+        }
+    }
+}

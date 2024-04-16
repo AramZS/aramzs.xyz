@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 688625545,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34529
+                },
+                "isbn": "055215315X",
+                "isbn13": 9780552153157,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 847
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4eWDAhoz-Bu7cPCRFKrYAw",
+                "title": "Lords and Ladies (Discworld, #14; Witches #4)",
+                "title_without_series": "Lords and Ladies",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469186110l/34529._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469186110l/34529._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34529.Lords_and_Ladies",
+                "num_pages": 400,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Corgi",
+                "publication_day": 1,
+                "publication_year": 2005,
+                "publication_month": 8,
+                "average_rating": 4.17,
+                "ratings_count": 64225,
+                "description": "A Discworld Novel. It's a hot Midsummer Night. The crop circles are turning up everywhere-even on the mustard-and-cress of Pewseyy Ogg, aged four. And Magrat Garlick, witch, is going to be married in the morning...Everything ought to be going like a dream. But the Lancre All-Comers Morris Team have got drunk on a fairy mound and the elves have come back, bringing all those things traditionally associated with the magical, glittering realm of Faerie: cruelty, kidnapping, malice and evil, evil murder.* Granny Weatherwax and her tiny argumentative coven have really got their work cut out this time...With full supporting cast of dwarfs, wizards, trolls, Morris Dancers and one orang-utan. And lots. of hey-nonny-nonny and blood all over the place.<br /><br />*But with tons of style.",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 1185086,
+                    "uri": "kca://work/amzn1.gr.work.v1.nVZw5V3GSCZ_18jPHtw-6Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 114358835
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Aug 07 11:34:22 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Aug 01 00:00:00 -0700 2013",
+            "date_added": "Wed Aug 07 11:34:22 -0700 2013",
+            "date_updated": "Wed Jan 22 13:23:07 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/688625545",
+            "link": "https://www.goodreads.com/review/show/688625545",
+            "owned": 0
+        }
+    }
+}

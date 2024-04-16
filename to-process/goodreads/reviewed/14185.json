@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 37376886,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 14185
+                },
+                "isbn": 1407247425,
+                "isbn13": 9781407247427,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 996
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.OpzTWAem4NtuKHtgAonisw",
+                "title": "The Three Stigmata of Palmer Eldritch",
+                "title_without_series": "The Three Stigmata of Palmer Eldritch",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338461946l/14185._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338461946l/14185._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/14185.The_Three_Stigmata_of_Palmer_Eldritch",
+                "num_pages": 231,
+                "format": "Paperback",
+                "edition_information": "SF Masterworks",
+                "publisher": "Gollancz",
+                "publication_day": {},
+                "publication_year": 2010,
+                "publication_month": {},
+                "average_rating": 4.01,
+                "ratings_count": 29632,
+                "description": "<b>Dick at his wildest and strangest - a mystifying but brilliant book</b> - <i>SF: 100 Best Novels</i><br /><br />In the overcrowded world and cramped space colonies of the late 21st century, tedium can be endured through the drug Can-D, which enables users to inhabit a shared illusory world. When industrialist Palmer Eldritch returns from an interstellar trip, he brings with him a new drug, Chew-Z. It is far more potent than Can-D, but threatens to plunge the world into a permanent state of drugged illusion controlled by the mysterious Eldritch.<br /><br />Cover illustration: Chris Moore",
+                "authors": {
+                    "author": {
+                        "id": 4764,
+                        "name": "Philip K. Dick",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1264613853p5/4764.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1264613853p2/4764.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4764.Philip_K_Dick",
+                        "average_rating": 3.93,
+                        "ratings_count": 1031146,
+                        "text_reviews_count": 54360
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 1399376,
+                    "uri": "kca://work/amzn1.gr.work.v1.XmpphA-spj1ywUWXvLqXzg"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Nov 17 00:00:51 -0800 2008",
+            "date_added": "Mon Nov 10 17:49:13 -0800 2008",
+            "date_updated": "Mon Nov 17 00:00:51 -0800 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/37376886",
+            "link": "https://www.goodreads.com/review/show/37376886",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 162067088,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 91476
+                },
+                "isbn": 451458443,
+                "isbn13": 9780451458445,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4157
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.83D-05EoBXdANaC-AksqNg",
+                "title": "Grave Peril (The Dresden Files, #3)",
+                "title_without_series": "Grave Peril",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266470209l/91476._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266470209l/91476._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/91476.Grave_Peril",
+                "num_pages": 378,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Roc",
+                "publication_day": 4,
+                "publication_year": 2001,
+                "publication_month": 9,
+                "average_rating": 4.17,
+                "ratings_count": 130778,
+                "description": "<i>An alternative cover edition with a different page count exists <a href=\"https://www.goodreads.com/book/show/13511897.here\" title=\"here\" rel=\"nofollow\">here</a>.</i><br /><br />Harry Dresden - Wizard<br />Lost Items Found. Paranormal Investigations. Consulting. Advice. Reasonable Rates. No Love Potions, Endless Purses, or Other Entertainment.<br /><br />Harry Dresden has faced some pretty terrifying foes during his career. Giant scorpions. Oversexed vampires. Psychotic werewolves. It comes with the territory when you're the only professional wizard in the Chicago-area phone book.<br /><br />But in all Harry's years of supernatural sleuthing, he's never faced anything like this: The spirit world has gone postal. All over Chicago, ghosts are causing trouble - and not just of the door-slamming, boo-shouting variety. These ghosts are tormented, violent, and deadly. Someone - or <i>something</i> - is purposely stirring them up to wreak unearthly havoc. But why? And why do so many of the victims have ties to Harry? If Harry doesn't figure it out soon, he could wind up a ghost himself....",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364197,
+                        "text_reviews_count": 98043
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 803205,
+                    "uri": "kca://work/amzn1.gr.work.v1.L2jalxiegy_76Yd8gLlsLQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Apr 19 06:36:13 -0700 2011",
+            "date_updated": "Tue Apr 19 06:36:17 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/162067088",
+            "link": "https://www.goodreads.com/review/show/162067088",
+            "owned": 0
+        }
+    }
+}

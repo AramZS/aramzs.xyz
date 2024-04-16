@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999622656,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 36681909
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 430
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.gS7n2nGzHsvj9SqnWpFoeg",
+                "title": "Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue",
+                "title_without_series": "Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/36681909-conspiracy",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4,
+                "ratings_count": 4398,
+                "description": "In 2007, a short blogpost on Valleywag, the Silicon Valley-vertical of Gawker Media, outed PayPal founder and billionaire investor Peter Thiel as gay. Thiel's sexuality had been known to close friends and family, but he didn't consider himself a public figure, and believed the information was private.<br /><br />This post would be the casus belli for a meticulously plotted conspiracy that would end nearly a decade later with a $140 million dollar judgment against Gawker, its bankruptcy and with Nick Denton, Gawker's CEO and founder, out of a job. Only later would the world learn that Gawker's demise was not incidental--it had been masterminded by Thiel.<br /><br />For years, Thiel had searched endlessly for a solution to what he'd come to call the \"Gawker Problem.\" When an unmarked envelope delivered an illegally recorded sex tape of Hogan with his best friend's wife, Gawker had seen the chance for millions of pageviews and to say the things that others were afraid to say. Thiel saw their publication of the tape as the opportunity he was looking for. He would come to pit Hogan against Gawker in a multi-year proxy war through the Florida legal system, while Gawker remained confidently convinced they would prevail as they had over so many other lawsuit--until it was too late.<br /><br />The verdict would stun the world and so would Peter's ultimate unmasking as the man who had set it all in motion. Why had he done this? How had no one discovered it? What would this mean--for the First Amendment? For privacy? For culture?<br /><br />In Holiday's masterful telling of this nearly unbelievable conspiracy, informed by interviews with all the key players, this case transcends the narrative of how one billionaire took down a media empire or the current state of the free press. It's a study in power, strategy, and one of the most wildly ambitious--and successful--secret plots in recent memory.",
+                "authors": {
+                    "author": {
+                        "id": 5775580,
+                        "name": "Ryan Holiday",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1340390663p5/5775580.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1340390663p2/5775580.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5775580.Ryan_Holiday",
+                        "average_rating": 4.13,
+                        "ratings_count": 109111,
+                        "text_reviews_count": 8449
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 58473812,
+                    "uri": "kca://work/amzn1.gr.work.v1.UNTIL3vnJw8mBUNJqzdBng"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3156496307
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Oct 03 06:30:05 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2646064545,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Oct 03 06:30:05 -0700 2019",
+            "date_updated": "Thu Oct 03 06:30:05 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999622656",
+            "link": "https://www.goodreads.com/review/show/2999622656",
+            "owned": 0
+        }
+    }
+}

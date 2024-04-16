@@ -1,0 +1,104 @@
+{
+    "name": "NAL",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Animal Farm",
+            "id": "7613",
+            "author": "George Orwell, Boris Grabnar, Peter Škerl",
+            "date_finished": 883612800000,
+            "notes": [],
+            "date_started": 1351350886000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Animal Farm: Rating - 4/5",
+                    "date": 883612800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7613",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "NAL",
+            "tags": [
+                "Paperback",
+                "NAL",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0452284244",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780452284241",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "7613",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Animal Farm",
+            "id": 7613,
+            "author": "George Orwell",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7613",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "NAL",
+            "tags": [
+                "Paperback",
+                "NAL",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 7613,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

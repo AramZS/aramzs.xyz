@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 522060067,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 10657129
+                },
+                "isbn": "160886071X",
+                "isbn13": 9781608860715,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.pU1wSiXuNExFM8VEeIwLHw",
+                "title": "The Definitive Irredeemable Vol. 1",
+                "title_without_series": "The Definitive Irredeemable Vol. 1",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/10657129-the-definitive-irredeemable-vol-1",
+                "num_pages": 304,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "BOOM! Studios",
+                "publication_day": 20,
+                "publication_year": 2011,
+                "publication_month": 9,
+                "average_rating": 4.23,
+                "ratings_count": 107,
+                "description": "Deluxe collection of the critically acclaimed series by legendary comic writer Mark (KINGDOM COME) Waid.<br /><br />The first three volumes of the Eisner and Harvey nominated series collected together for the first time in one oversized edition in premium hardcover slipcase format. IRREDEEMABLE dares to ask the question: what if the world's greatest hero decided to become the world's greatest villain? A \"twilight of the superheroes\"- style story that examines super-villains from the writer of KINGDOM COME and EMPIRE!",
+                "authors": {
+                    "author": {
+                        "id": 5363,
+                        "name": "Mark Waid",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1281876586p5/5363.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1281876586p2/5363.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5363.Mark_Waid",
+                        "average_rating": 3.97,
+                        "ratings_count": 273535,
+                        "text_reviews_count": 17863
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 15566268,
+                    "uri": "kca://work/amzn1.gr.work.v1.nXhbepeD3a2a1cjwTQJRig"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1508066146
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Sep 13 02:09:41 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 1,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 353269075,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813205225,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Wed Jan 30 00:00:00 -0800 2013",
+            "read_at": "Wed Jan 30 00:00:00 -0800 2013",
+            "date_added": "Wed Jan 30 17:59:04 -0800 2013",
+            "date_updated": "Mon Oct 23 16:45:21 -0700 2017",
+            "read_count": 1,
+            "body": "Mark Waid's Irredeemable is, perhaps, the comic-reader's comic book. Someone with no experience of the comic book world could pick up the series and enjoy it greatly. However, they wouldn't get the full experience of Waid's effort without some knowledge of the superhero genre. <br /><br />If you know anything of Waid's previous work (say, Kingdom Come), you know that he delights in taking heroes to the end of their rope. Irredeemable is no different. It is a book about heroes and their humanity, or lack of. <br /><br />It's impossible to properly tell you about the dark masterpiece that is this narrative without ruining it. Just understand that Waid will take the superhero story and dissect it in a way that few others have succeed in doing. <br /><br />Read it all the way to the end. The conclusion to the story (not in this volume, but available in smaller collections) is one of the most satisfying I've ever read.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/522060067",
+            "link": "https://www.goodreads.com/review/show/522060067",
+            "owned": 0
+        }
+    }
+}

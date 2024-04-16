@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065305554,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 43785830
+                },
+                "isbn": "039365270X",
+                "isbn13": 9780393652703,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2040
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.U8sOQfLYKFK2nfn8quHOUg",
+                "title": "Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals About Death",
+                "title_without_series": "Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals About Death",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554396038l/43785830._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554396038l/43785830._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/43785830-will-my-cat-eat-my-eyeballs-big-questions-from-tiny-mortals-about-death",
+                "num_pages": 222,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "W. W. Norton  Company",
+                "publication_day": 10,
+                "publication_year": 2019,
+                "publication_month": 9,
+                "average_rating": 4.16,
+                "ratings_count": 13459,
+                "description": "<strong>Best-selling author and mortician Caitlin Doughty answers real questions from kids about death, dead bodies, and decomposition.</strong><br /><br />Every day, funeral director Caitlin Doughty receives dozens of questions about death. What would happen to an astronaut’s body if it were pushed out of a space shuttle? Do people poop when they die? Can Grandma have a Viking funeral?<br /><br />In <em>Will My Cat Eat My Eyeballs?</em>, Doughty blends her mortician’s knowledge of the body and the intriguing history behind common misconceptions about corpses to offer factual, hilarious, and candid answers to thirty-five distinctive questions posed by her youngest fans. In her inimitable voice, Doughty details lore and science of what happens to, and inside, our bodies after we die. Why do corpses groan? What causes bodies to turn colors during decomposition? And why do hair and nails appear longer after death? Readers will learn the best soil for mummifying your body, whether you can preserve your best friend’s skull as a keepsake, and what happens when you die on a plane. Beautifully illustrated by Dianné Ruz, <em>Will My Cat Eat My Eyeballs?</em> shows us that death is science and art, and only by asking questions can we begin to embrace it.",
+                "authors": {
+                    "author": {
+                        "id": 7802044,
+                        "name": "Caitlin Doughty",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1586002535p5/7802044.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1586002535p2/7802044.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7802044.Caitlin_Doughty",
+                        "average_rating": 4.21,
+                        "ratings_count": 79958,
+                        "text_reviews_count": 10931
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 68120089,
+                    "uri": "kca://work/amzn1.gr.work.v1.B1Rd3kIkXgNUf-QlMV2bLA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244218969
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:19:49 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712839528,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:19:49 -0800 2019",
+            "date_updated": "Thu Nov 28 09:19:49 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065305554",
+            "link": "https://www.goodreads.com/review/show/3065305554",
+            "owned": 0
+        }
+    }
+}

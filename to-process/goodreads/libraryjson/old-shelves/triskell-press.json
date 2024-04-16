@@ -1,0 +1,51 @@
+{
+    "name": "Triskell Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Very Best of Charles de Lint",
+            "id": "23946812",
+            "author": "Charles de Lint",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086625000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/23946812",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Triskell Press",
+            "tags": [
+                "Kindle Edition",
+                "Triskell Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "23946812",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

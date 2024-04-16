@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606739916,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35754629
+                },
+                "isbn": 1400201659,
+                "isbn13": 9781400201655,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1092
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.KvZPOrK9-KbND78iDC8Cyg",
+                "title": "Girl, Wash Your Face: Stop Believing the Lies About Who You Are so You Can Become Who You Were Meant to Be",
+                "title_without_series": "Girl, Wash Your Face: Stop Believing the Lies About Who You Are so You Can Become Who You Were Meant to Be",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513038496l/35754629._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513038496l/35754629._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35754629-girl-wash-your-face",
+                "num_pages": 220,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Thomas Nelson",
+                "publication_day": 6,
+                "publication_year": 2018,
+                "publication_month": 2,
+                "average_rating": 3.74,
+                "ratings_count": 158957,
+                "description": "<b>Do you ever suspect that everyone else has life figured out and you don’t have a clue? If so, Rachel Hollis has something to tell you: that’s a lie.</b><br /><br />As the founder of the lifestyle website TheChicSite.com and CEO of her own media company, Rachel Hollis developed an immense online community by sharing tips for better living while fearlessly revealing the messiness of her own life. Now, in this challenging and inspiring new book, Rachel exposes the twenty lies and misconceptions that too often hold us back from living joyfully and productively, lies we’ve told ourselves so often we don’t even hear them anymore.<br /><br />With painful honesty and fearless humor, Rachel unpacks and examines the falsehoods that once left her feeling overwhelmed and unworthy, and reveals the specific practical strategies that helped her move past them. In the process, she encourages, entertains, and even kicks a little butt, all to convince you to do whatever it takes to get real and become the joyous, confident woman you were meant to be.<br /><br />With unflinching faith and rock-hard tenacity, <em>Girl, Wash Your Face</em> shows you how to live with passion and hustle--and how to give yourself grace without giving up.",
+                "authors": {
+                    "author": {
+                        "id": 7578129,
+                        "name": "Rachel Hollis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1508038833p5/7578129.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1508038833p2/7578129.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7578129.Rachel_Hollis",
+                        "average_rating": 3.82,
+                        "ratings_count": 224072,
+                        "text_reviews_count": 22414
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 56965748,
+                    "uri": "kca://work/amzn1.gr.work.v1.L_9lgbRKJuzpEFkdGVS99g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636064554
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:25:27 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251645898,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:25:27 -0800 2018",
+            "date_updated": "Mon Nov 26 13:25:27 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606739916",
+            "link": "https://www.goodreads.com/review/show/2606739916",
+            "owned": 0
+        }
+    }
+}

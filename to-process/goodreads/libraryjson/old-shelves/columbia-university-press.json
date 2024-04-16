@@ -1,0 +1,194 @@
+{
+    "name": "Columbia University Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Reductionism in Art and Brain Science: Bridging the Two Cultures",
+            "id": "31823442",
+            "author": "Eric R. Kandel",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1498566488000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/31823442",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Columbia University Press",
+            "tags": [
+                "Kindle Edition",
+                "Columbia University Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "31823442",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Shorter Columbia Anthology of Traditional Chinese Literature",
+            "id": "488021",
+            "author": "Victor H. Mair",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1433543531000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Shorter Columbia Anthology of Traditional Chinese Literature: Rating - 4/5",
+                    "date": 1433543531000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/488021",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Columbia University Press",
+            "tags": [
+                "Paperback",
+                "Columbia University Press",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0231119992",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780231119993",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "488021",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Watchdog That Didn’t Bark: The Financial Crisis and the Disappearance of Investigative Journalism (Columbia Journalism Review Books)",
+            "id": "19834358",
+            "author": "Dean Starkman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146337000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/19834358",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Columbia University Press",
+            "tags": [
+                "Kindle Edition",
+                "Columbia University Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "19834358",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Shorter Columbia Anthology of Traditional Chinese Literature",
+            "id": 488021,
+            "author": "Victor H. Mair",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/488021",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Columbia University Press",
+            "tags": [
+                "Paperback",
+                "Columbia University Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 488021,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606741843,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34506912
+                },
+                "isbn": "162672363X",
+                "isbn13": 9781626723634,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6814
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.eRV50RnjyNpJDz1lSXk17A",
+                "title": "The Prince and the Dressmaker",
+                "title_without_series": "The Prince and the Dressmaker",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494400495l/34506912._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494400495l/34506912._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34506912-the-prince-and-the-dressmaker",
+                "num_pages": 277,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "First Second",
+                "publication_day": 13,
+                "publication_year": 2018,
+                "publication_month": 2,
+                "average_rating": 4.4,
+                "ratings_count": 39181,
+                "description": "Paris, at the dawn of the modern age:<br /><br />Prince Sebastian is looking for a bride―or rather, his parents are looking for one for him. Sebastian is too busy hiding his secret life from everyone. At night he puts on daring dresses and takes Paris by storm as the fabulous Lady Crystallia―the hottest fashion icon in the world capital of fashion!<br /><br />Sebastian’s secret weapon (and best friend) is the brilliant dressmaker Frances―one of only two people who know the truth: sometimes this boy wears dresses. But Frances dreams of greatness, and being someone’s secret weapon means being a secret. Forever. How long can Frances defer her dreams to protect a friend? Jen Wang weaves an exuberantly romantic tale of identity, young love, art, and family. A fairy tale for any age, <i>The Prince and the Dressmaker</i> will steal your heart.",
+                "authors": {
+                    "author": {
+                        "id": 1557381,
+                        "name": "Jen Wang",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1283470701p5/1557381.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1283470701p2/1557381.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1557381.Jen_Wang",
+                        "average_rating": 4.11,
+                        "ratings_count": 94166,
+                        "text_reviews_count": 14379
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 46116413,
+                    "uri": "kca://work/amzn1.gr.work.v1.YUS1VkzqJyjgA2KAn2x91Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636067127
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:27:31 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251647900,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:27:30 -0800 2018",
+            "date_updated": "Mon Nov 26 13:27:31 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606741843",
+            "link": "https://www.goodreads.com/review/show/2606741843",
+            "owned": 0
+        }
+    }
+}

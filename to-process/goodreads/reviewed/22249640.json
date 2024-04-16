@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2073733867,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22249640
+                },
+                "isbn": "035651529X",
+                "isbn13": 9780356515298,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 92
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.n5fPbQu-03jQ3e_dEpW9Pw",
+                "title": "Peace Talks (The Dresden Files, #16)",
+                "title_without_series": "Peace Talks",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585062885l/22249640._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585062885l/22249640._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22249640-peace-talks",
+                "num_pages": 352,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 16,
+                "publication_year": 2020,
+                "publication_month": 7,
+                "average_rating": 4.4,
+                "ratings_count": 1236,
+                "description": "Harry Dresden is back and ready for action, in the new entry in the #1 New York Times bestselling <i>Dresden Files</i> series. When the Supernatural nations of the world meet up to negotiate an end to ongoing hostilities, Harry Dresden, Chicago's only professional wizard, joins the White Council's security team to make sure the talks stay civil. But can he succeed, when dark political manipulations threaten the very existence of Chicago--and all he holds dear?<br /><br /><i>Peace Talks</i> is the sixteenth novel in the Dresden Files series and follows Harry’s adventures after the events of <i>Skin Game</i>.",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2020,
+                "work": {
+                    "id": 40515430,
+                    "uri": "kca://work/amzn1.gr.work.v1.otPdvYvLIm77QsZ3xU-46Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1936139614
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Jul 27 09:33:06 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1726712588,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jul 27 09:33:05 -0700 2017",
+            "date_updated": "Thu Jul 27 09:33:06 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2073733867",
+            "link": "https://www.goodreads.com/review/show/2073733867",
+            "owned": 0
+        }
+    }
+}

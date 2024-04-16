@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749123347,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25955204
+                },
+                "isbn": 1632154730,
+                "isbn13": 9781632154736,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 32
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.bq7LadKh46ldinlrwW9FAA",
+                "title": "Wayward Deluxe Book 1",
+                "title_without_series": "Wayward Deluxe Book 1",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25955204-wayward-deluxe-book-1",
+                "num_pages": 310,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 27,
+                "publication_year": 2015,
+                "publication_month": 10,
+                "average_rating": 3.86,
+                "ratings_count": 196,
+                "description": {},
+                "authors": {
+                    "author": {
+                        "id": 5737122,
+                        "name": "Jim Zub",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1518410451p5/5737122.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1518410451p2/5737122.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5737122.Jim_Zub",
+                        "average_rating": 3.81,
+                        "ratings_count": 29088,
+                        "text_reviews_count": 3658
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 74042666,
+                    "uri": "kca://work/amzn1.gr.work.v2.6f556a11-113c-4867-b7d3-eb7841ed4553"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498294761
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:35:29 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813194799,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Apr 05 00:00:00 -0700 2016",
+            "date_added": "Mon Sep 05 07:35:28 -0700 2016",
+            "date_updated": "Sun Nov 03 14:23:37 -0800 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749123347",
+            "link": "https://www.goodreads.com/review/show/1749123347",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2143552144,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35066651
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 301
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.oaE9r1S-G0VXKhdBWlJbAw",
+                "title": "Taste of Marrow (River of Teeth, #2)",
+                "title_without_series": "Taste of Marrow",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495459319l/35066651._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495459319l/35066651._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35066651-taste-of-marrow",
+                "num_pages": 192,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Tor.com",
+                "publication_day": 12,
+                "publication_year": 2017,
+                "publication_month": 9,
+                "average_rating": 3.82,
+                "ratings_count": 1800,
+                "description": "A few months ago, Winslow Houndstooth put together the damnedest crew of outlaws, assassins, cons, and saboteurs on either side of the Harriet for a history-changing caper. Together they conspired to blow the damn that choked the Mississippi and funnel the hordes of feral hippos contained within downriver, to finally give America back its greatest waterway.<br /><br />Songs are sung of their exploits, many with a haunting refrain: \"And not a soul escaped alive.\"<br /><br />In the aftermath of the Harriet catastrophe, that crew has scattered to the winds. Some hunt the missing lovers they refuse to believe have died. Others band together to protect a precious infant and a peaceful future. All of them struggle with who they've become after a long life of theft, murder, deception, and general disinterest in the strictures of the law.",
+                "authors": {
+                    "author": {
+                        "id": 15045277,
+                        "name": "Sarah Gailey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1523988658p5/15045277.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1523988658p2/15045277.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/15045277.Sarah_Gailey",
+                        "average_rating": 3.68,
+                        "ratings_count": 30077,
+                        "text_reviews_count": 6469
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 56361960,
+                    "uri": "kca://work/amzn1.gr.work.v1.DZDZ5Hz6UMYYIiTZTW_PZw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2084094455
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Nov 17 06:02:24 -0800 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2027592522
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Wed Oct 04 10:47:01 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Oct 04 10:47:00 -0700 2017",
+            "date_updated": "Fri Nov 17 06:02:31 -0800 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2143552144",
+            "link": "https://www.goodreads.com/review/show/2143552144",
+            "owned": 0
+        }
+    }
+}

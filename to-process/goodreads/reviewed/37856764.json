@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629408649,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 37856764
+                },
+                "isbn": 8239800,
+                "isbn13": 9780008239800,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 84
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.DO_q4CxcriaEZkoxThjKSg",
+                "title": "The Poppy War (The Poppy War, #1)",
+                "title_without_series": "The Poppy War",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523371782l/37856764._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523371782l/37856764._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/37856764-the-poppy-war",
+                "num_pages": 544,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Harper Voyager",
+                "publication_day": 3,
+                "publication_year": 2018,
+                "publication_month": 5,
+                "average_rating": 3.98,
+                "ratings_count": 34233,
+                "description": "When Rin aced the Kejuthe Empire-wide test to find the most talented youth to learn at the Academies it was a shock to everyone. That she got into Sinegardthe most elite military school in Nikan was even more surprising.<br /><br />But surprises aren’t always good.<br /><br />Because being a dark-skinned peasant girl from the south is not an easy thing at Sinegard. Targeted from the outset by rival classmates for her color, poverty, and gender, Rin discovers she possesses a lethal, unearthly power an aptitude for the nearly-mythical art of shamanism. Exploring the depths of her gift with the help of a seemingly insane teacher and psychoactive substances, Rin learns that gods long thought dead are very much aliveand that mastering control over those powers could mean more than just surviving school.<br /><br />For while the Nikara Empire is at peace, the Federation of Mugen still lurks across a narrow sea. The militarily advanced Federation occupied Nikan for decades after the First Poppy War, and only barely lost the continent in the Second. And while most of the people are complacent to go about their lives, a few are aware that a Third Poppy War is just a spark away . . .<br /><br />Rin’s shamanic powers may be the only way to save her people. But as she finds out more about the god that has chosen her, the vengeful Phoenix, she fears that winning the war may cost her humanity . . . and that it may already be too late.<br /><br />A powerful epic fantasy novel with roots in the 20th-century history of China.<br /><br />A brilliantly imaginative talent makes her exciting debut with this epic historical military fantasy, inspired by the bloody history of China’s twentieth century and filled with treachery and magic, in the tradition of Ken Liu’s Grace of Kings and N.K. Jemisin’s Inheritance Trilogy.",
+                "authors": {
+                    "author": {
+                        "id": 16820001,
+                        "name": "R.F. Kuang",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563395354p5/16820001.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563395354p2/16820001.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16820001.R_F_Kuang",
+                        "average_rating": 4.05,
+                        "ratings_count": 42907,
+                        "text_reviews_count": 8324
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 56364137,
+                    "uri": "kca://work/amzn1.gr.work.v1.hbuZqVDRcVCyJp9MkSVGdA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666054861
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:49:34 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274612861,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:49:33 -0800 2018",
+            "date_updated": "Mon Dec 17 07:49:34 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629408649",
+            "link": "https://www.goodreads.com/review/show/2629408649",
+            "owned": 0
+        }
+    }
+}

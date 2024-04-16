@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520206981,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 738766
+                },
+                "isbn": 743418581,
+                "isbn13": 9780743418584,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 19
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.dKhu4ZxZPKyb0x23oLVFqw",
+                "title": "Gods Above (Star Trek: New Frontier, #13)",
+                "title_without_series": "Gods Above",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/738766.Gods_Above",
+                "num_pages": 330,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": 1,
+                "publication_year": 2003,
+                "publication_month": 10,
+                "average_rating": 4.06,
+                "ratings_count": 657,
+                "description": "Captain Mackenzie Calhoun has often been accused of playing God, but he has never faced off against real gods – until now. As Captain Kirk did before him, Calhoun has encountered beings of unnatural power and abilities verging on godhood, and who claim to be the very individuals who inspired the Greek, Roman, Norse, and, other pantheons from Earth culture.<br /><br />These beings say that all they want is our worship, and in return for it will provide us with a peaceful galaxy-wide paradise of perfect health and endless pleasure. When the Federation, in the person of Captain Calhoun and the crew of the USS Excalibur, refused their offer, the resulting battle left Morgan Primus dead and Lieutenant Mark McHenry, whose own powers over time and space had proved to be substantial, in a limbo beyond death.<br /><br />Now, with a wounded ship and an injured crew, Captain Calhoun, along with Captain Shelby and the crew of the Trident, must face these god-like beings once again, with the fate of galactic civilization at stake.",
+                "authors": {
+                    "author": {
+                        "id": 13681,
+                        "name": "Peter David",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p5/13681.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p2/13681.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13681.Peter_David",
+                        "average_rating": 4.02,
+                        "ratings_count": 297991,
+                        "text_reviews_count": 13707
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 724940,
+                    "uri": "kca://work/amzn1.gr.work.v1.rX-qPRhbI3p2XEwj0uhmnQ"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:45:49 -0800 2013",
+            "date_updated": "Mon Jan 28 19:45:49 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520206981",
+            "link": "https://www.goodreads.com/review/show/520206981",
+            "owned": 0
+        }
+    }
+}

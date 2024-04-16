@@ -1,0 +1,104 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520217893,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16119240
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.06-dgcKxWNYs6gG7GqxOPA",
+                "title": "Illumini",
+                "title_without_series": "Illumini",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352851011l/16119240._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352851011l/16119240._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16119240-illumini",
+                "num_pages": 460,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": 31,
+                "publication_year": 2012,
+                "publication_month": 10,
+                "average_rating": 3.12,
+                "ratings_count": 8,
+                "description": "Illumini takes you on a wild, fast-paced ride across a dystopian near future world. An action packed sci-fi novel filled with dark government forces, a young couple desperately on the run, sinister corporations run amok, genetic engineering, and a contagious virus that will set us all free.<br /><br />An action-thriller that will keep you turning pages. It draws you in from the very first chapter with an original weave of current events bound by dynamic characters and rapid pace that keeps you enthralled throughout. A lucid and intelligent story that asks the big questions. This is not a story about a virus, but about the decisions we make today and the world that will result tomorrow.",
+                "authors": {
+                    "author": {
+                        "id": 2930439,
+                        "name": "Stephen Perry",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352850507p5/2930439.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352850507p2/2930439.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2930439.Stephen_Perry",
+                        "average_rating": 3.12,
+                        "ratings_count": 8,
+                        "text_reviews_count": 1
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 21938368,
+                    "uri": "kca://work/amzn1.gr.work.v1.5UQbtphcBOka75mB_G_wZA"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 351871977,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:57:46 -0800 2013",
+            "date_updated": "Mon Jan 28 19:57:46 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520217893",
+            "link": "https://www.goodreads.com/review/show/520217893",
+            "owned": 0
+        }
+    }
+}

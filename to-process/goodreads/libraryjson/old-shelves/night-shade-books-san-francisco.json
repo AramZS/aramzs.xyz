@@ -1,0 +1,104 @@
+{
+    "name": "Night Shade Books (San Francisco)",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The State of the Art (Culture, #4)",
+            "id": "129131",
+            "author": "Iain M. Banks",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1303220029000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The State of the Art (Culture, #4): Rating - 5/5",
+                    "date": 1303220029000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/129131",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Night Shade Books (San Francisco)",
+            "tags": [
+                "Paperback",
+                "Night Shade Books (San Francisco)",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1597800740",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781597800747",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "129131",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The State of the Art (Culture, #4)",
+            "id": 129131,
+            "author": "Iain M. Banks",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/129131",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Night Shade Books (San Francisco)",
+            "tags": [
+                "Paperback",
+                "Night Shade Books (San Francisco)",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 129131,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

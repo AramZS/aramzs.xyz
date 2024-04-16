@@ -1,0 +1,24 @@
+---
+pagination:
+  data: collections.amplifiesPaginatedByYearMonth
+  size: 1
+  alias: yearMonth
+permalink: /amplify/{{ yearMonth.slug }}/index.html
+folder: amplify
+titlePrefix: Index
+---
+{% set title = yearMonth.title %}
+{% extends "layouts/page.njk" %}
+{% set collectionVerb = "Amplified" %}
+{% set paginationBase = "amplify" %}
+{% set forward = true %}
+
+{% block pageContent %}
+  <section>
+    {% set displayContentType = true %}
+    {% set postsList = yearMonth.items | reverse %}
+    {% include "components/post-list.njk" %}
+  </section>
+
+  {% include 'components/planting-times.njk' %}
+{% endblock %}

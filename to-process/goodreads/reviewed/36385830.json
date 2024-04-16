@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2539697870,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 36385830
+                },
+                "isbn": "052548048X",
+                "isbn13": 9780525480488,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 937
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.eXoWW8lyO8-U872zDtw3uw",
+                "title": "Thrawn: Alliances (Star Wars: Thrawn, #2)",
+                "title_without_series": "Thrawn: Alliances",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511385584l/36385830._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511385584l/36385830._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/36385830-thrawn",
+                "num_pages": 342,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Del Rey",
+                "publication_day": 24,
+                "publication_year": 2018,
+                "publication_month": 7,
+                "average_rating": 3.9,
+                "ratings_count": 11857,
+                "description": "<b>\"I have sensed a disturbance in the Force.\"</b><br /><br />Ominous words under any circumstances, but all the more so when uttered by Emperor Palpatine. On Batuu, at the edges of the Unknown Regions, a threat to the Empire is taking root—its existence little more than a glimmer, its consequences as yet unknowable. But it is troubling enough to the Imperial leader to warrant investigation by his most powerful agents: ruthless enforcer Lord Darth Vader and brilliant strategist Grand Admiral Thrawn. Fierce rivals for the emperor's favor, and outspoken adversaries on Imperial affairs—including the Death Star project—the formidable pair seem unlikely partners for such a crucial mission. But the Emperor knows it's not the first time Vader and Thrawn have joined forces. And there's more behind his royal command than either man suspects.<br /><br />In what seems like a lifetime ago, General Anakin Skywalker of the Galactic Republic, and Commander Mitth'raw'nuruodo, officer of the Chiss Ascendancy, crossed paths for the first time. One on a desperate personal quest, the other with motives unknown . . . and undisclosed. But facing a gauntlet of dangers on a far-flung world, they forged an uneasy alliance—neither remotely aware of what their futures held in store.<br /><br />Now, thrust together once more, they find themselves bound again for the planet where they once fought side by side. There they will be doubly challenged—by a test of their allegiance to the Empire . . . and an enemy that threatens even their combined might.",
+                "authors": {
+                    "author": {
+                        "id": 12479,
+                        "name": "Timothy Zahn",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p5/12479.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p2/12479.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12479.Timothy_Zahn",
+                        "average_rating": 4.07,
+                        "ratings_count": 363187,
+                        "text_reviews_count": 15929
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 58053416,
+                    "uri": "kca://work/amzn1.gr.work.v1.RkufSSc6ypOl5pxVjJcPWw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2547374575
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Sep 23 10:07:08 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 1,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": "Star Wars and Thrawn fans.",
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Sep 23 10:07:07 -0700 2018",
+            "date_updated": "Sun Sep 23 10:24:34 -0700 2018",
+            "read_count": 1,
+            "body": "I'm a big fan of Zahn's work in general and his Star Wars books have always been great. Thrawn: Alliances, which marks the second Thrawn novel in the rebooted Star Wars post-Disney universe is a good book. Like Zahn's other works it stands out as being way better than the majority of Star Wars novels. But this is also the worst of them. That doesn't make it bad, I still enjoyed it, but it just doesn't stand up to his previous books, even the last Thrawn novel. <br /><br />I don't like Episodes 1-3. I'll put that up front. Clone Wars (the animated series x2) was fine. Rebels is ok. I don't have an irrational hatred for Anakin Skywalker as a character beyond the fact that it's very hard to separate portrayals of him as a hero from the fact that he goes on to just... murder a ton of children. But whatever, that wasn't what bothered me. He just was an irritating character in this novel, in about half of which he unexpectedly stars. <br /><br />Perhaps this impression was compounded by the fact that I listened to the audiobook, which is usually great for Star Wars novels. I do not recommend the experience this time. The narrator does the voices of Anakin and Padme spot on from Episode 2, which means half the book is listening to whiny teen voices. Like it made me want to dive into the book and strangle both characters. It wasn't distracting, because it was spot on from the films, it was just those characters and you were unable to forget that they Like Totally Sounded Like That in the movies and it was the worst. <br /><br />But then on top of that, the characters are exactly like they were in Episode 2, boringly self-interested, overly fraught, acting with little care to the consequences of their actions. I get it... those were the characters... but they were bad characters in the film and Zahn manages to capture their terribleness completely accurately... which just isn't great. <br /><br />Honestly, it was all a little unnecessary. The historical bits didn't feel like they served much of a purpose except to maybe try and patch up some plot holes in the larger universe? It wasn't a particularly interesting B story, precisely because we know exactly what's going to happen to all these characters now and there are no stakes. The 'modern' portions with Vader and Thrawn playing off each other were far more interesting. The tactics are interesting. Trying to track what Thrawn is thinking is interesting. All of it was interesting. That said, even there it didn't quite rise to the level of his previous works. If you like Star Wars or Thrawn, pick this up I guess (but not the audiobook). But don't expect Heir to the Empire, because this ain't that.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2539697870",
+            "link": "https://www.goodreads.com/review/show/2539697870",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Warner Vision",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Roses are Red (Alex Cross, #6)",
+            "id": "79378",
+            "author": "James Patterson",
+            "date_finished": 1255824000000,
+            "notes": [],
+            "date_started": 1256310997000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Roses are Red (Alex Cross, #6): Rating - 3/5",
+                    "date": 1255824000000,
+                    "type": "short",
+                    "content": "This was my first Patterson. I was surprised by just how simplistic the writing style is. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/79378",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Warner Vision",
+            "tags": [
+                "Mass Market Paperback",
+                "Warner Vision",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0446605484",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780446605489",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "79378",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Roses are Red (Alex Cross, #6)",
+            "id": 79378,
+            "author": "James Patterson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/79378",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Warner Vision",
+            "tags": [
+                "Mass Market Paperback",
+                "Warner Vision",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 79378,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

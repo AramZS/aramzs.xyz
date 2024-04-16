@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1757210276,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 28204534
+                },
+                "isbn": 1632156741,
+                "isbn13": 9781632156747,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5310
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.FoGMjEJt7ZgtCJ6LY_GFlg",
+                "title": "Paper Girls, Vol. 1 (Paper Girls, #1)",
+                "title_without_series": "Paper Girls, Vol. 1",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506952499l/28204534._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506952499l/28204534._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/28204534-paper-girls-vol-1",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 5,
+                "publication_year": 2016,
+                "publication_month": 4,
+                "average_rating": 3.87,
+                "ratings_count": 62639,
+                "description": "SAGA writer BRIAN K. VAUGHAN launches a brand-new ONGOING SERIES with superstar Wonder Woman artist CLIFF CHIANG! In the early hours after Halloween of 1988, four 12-year-old newspaper delivery girls uncover the most important story of all time.",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 49449510,
+                    "uri": "kca://work/amzn1.gr.work.v1.Bi5nhv2Eo61bfHcsoP8a8w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1508826544
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Sep 13 15:43:46 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813194101,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 1813222755,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Jun 13 00:00:00 -0700 2016",
+            "date_added": "Tue Sep 13 15:43:45 -0700 2016",
+            "date_updated": "Mon Oct 23 17:09:41 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1757210276",
+            "link": "https://www.goodreads.com/review/show/1757210276",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1304685665,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7778609
+                },
+                "isbn": 61714313,
+                "isbn13": 9780061714313,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 802
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.maDy6ALqlI6f0FpneROziQ",
+                "title": "Kill the Dead (Sandman Slim, #2)",
+                "title_without_series": "Kill the Dead",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275103078l/7778609._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1275103078l/7778609._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7778609-kill-the-dead",
+                "num_pages": 434,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Eos",
+                "publication_day": 5,
+                "publication_year": 2010,
+                "publication_month": 10,
+                "average_rating": 4.07,
+                "ratings_count": 18891,
+                "description": "What do you do after you’ve crawled out of Hell to wreak bloody revenge? If you’re Stark you turn to bounty hunting, tracking and decimating whatever rogue monsters you’re paid to kill. Stark hates the work, but he needs the money, especially the big bucks Lucifer is offering. In town as an adviser on a biopic of his life, Lucifer needs protection, and he wants Stark as his bodyguard. But the gig isn’t all bad; there is the very sexy, very hot French porn star Brigitte Bardo, a friend of Lucifer’s in LA to remake her reputation as a legit actress. While it isn’t love, it’s pretty damn good, and after 11 years of demonic chastity, it’s enough for now. <br /> <br /> Stark has enough trouble juggling a diva devil and a scorching French bombshell without a zombie plague to complicate matters. And just what happens when a human-angel half-breed is bitten by the living dead? His human side begins to die, transforming him into an unstoppable angel of death—a killing machine devoid of emotion or thought, with no regrets or future to worry about. Not a bad way to be when your choices are limited. Now, Stark has to decide . . . if he does finds a cure for the zombie infection, will he take it?",
+                "authors": {
+                    "author": {
+                        "id": 37557,
+                        "name": "Richard Kadrey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1252945001p5/37557.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1252945001p2/37557.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37557.Richard_Kadrey",
+                        "average_rating": 3.99,
+                        "ratings_count": 130478,
+                        "text_reviews_count": 8935
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 10693559,
+                    "uri": "kca://work/amzn1.gr.work.v1.tCplZLYnYHF5xhvOKirn1w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 892591851
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 10 18:14:43 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Wed Jun 10 18:14:43 -0700 2015",
+            "date_updated": "Thu Dec 31 07:41:57 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1304685665",
+            "link": "https://www.goodreads.com/review/show/1304685665",
+            "owned": 0
+        }
+    }
+}

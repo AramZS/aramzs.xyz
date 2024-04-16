@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629408590,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 33590260
+                },
+                "isbn": 1619636107,
+                "isbn13": 9781619636101,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 11386
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Fcxk-nnhTpaB0EGKIYDq8g",
+                "title": "Kingdom of Ash (Throne of Glass, #7)",
+                "title_without_series": "Kingdom of Ash",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531922609l/33590260._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531922609l/33590260._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/33590260-kingdom-of-ash",
+                "num_pages": 984,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Bloomsbury YA",
+                "publication_day": 23,
+                "publication_year": 2018,
+                "publication_month": 10,
+                "average_rating": 4.6,
+                "ratings_count": 109589,
+                "description": "Aelin Galathynius has vowed to save her people ― but at a tremendous cost. Locked within an iron coffin by the Queen of the Fae, Aelin must draw upon her fiery will as she endures months of torture. The knowledge that yielding to Maeve will doom those she loves keeps her from breaking, but her resolve is unraveling with each passing day…<br /><br />With Aelin captured, friends and allies are scattered to different fates. Some bonds will grow even deeper, while others will be severed forever. As destinies weave together at last, all must fight if Erilea is to have any hope of salvation.<br /><br />Years in the making, Sarah J. Maas's <i>New York Times</i> bestselling Throne of Glass series draws to an explosive conclusion as Aelin fights to save herself―and the promise of a better world.",
+                "authors": {
+                    "author": {
+                        "id": 3433047,
+                        "name": "Sarah J. Maas",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1582137198p5/3433047.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1582137198p2/3433047.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3433047.Sarah_J_Maas",
+                        "average_rating": 4.39,
+                        "ratings_count": 3048917,
+                        "text_reviews_count": 304552
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 25272014,
+                    "uri": "kca://work/amzn1.gr.work.v1.sIjmZkQ6lJcMlbzaa093Pg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666054755
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:49:30 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274612792,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:49:29 -0800 2018",
+            "date_updated": "Mon Dec 17 07:49:29 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629408590",
+            "link": "https://www.goodreads.com/review/show/2629408590",
+            "owned": 0
+        }
+    }
+}

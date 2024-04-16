@@ -1,0 +1,51 @@
+{
+    "name": "Random House Audio Publishing Group",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Devil in the White City",
+            "id": "21996",
+            "author": "Erik Larson, Tony Goldwyn",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1444164420000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/21996",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House Audio Publishing Group",
+            "tags": [
+                "Audio Cassette",
+                "Random House Audio Publishing Group",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0739303406",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780739303405",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "21996",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

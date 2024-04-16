@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967722,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12879012
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.yTVMrMVZfYUbHYySMKglfA",
+                "title": "Death Wishing",
+                "title_without_series": "Death Wishing",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12879012-death-wishing",
+                "num_pages": 290,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.79,
+                "ratings_count": 107,
+                "description": "<p>\"This is a terrific story, beautifully written, and completely enthralling.\"—Dorothy Allison</p><p><br />In post-Katrina New Orleans, dying wishes can cure cancer, eliminate cats, bring back Elvis (1968 vintage), and turn the clouds orange. Divorced and disgraced up north, Victor hopes to live a carefree, drunken existence in the French Quarter, making capes and corsets and lusting for the girl who lives across the street—until the hysteria surrounding \"death wishing\" changes his world in ways he never imagined.</p><p><b>Laura Ellen Scott </b>teaches fiction writing at George Mason University. Her work has been selected for The Wigleaf Top Fifty of 2009 and <i>Barrelhouse</i> magazine's \"Futures\" issue. She has twice been nominated for <i>Dzanc's Best of the Web 2010 </i>anthology.</p><p><br />More Praise for Death Wishing:<br />\"I admire the sentences, the clarity of mind, and characters who catch and keep our attention. Bob Dylan sings about a journey \"all the way from New Orleans to Jerusalem...\" as way of apotheizing, scrutinizing, recognizing the world we live in. Laura Scott is on the way.\" Alan Cheuse <br /><br />\"A story as hot, sticky, and dangerous as Midnight in the Garden of Good and Evil, seen through an imagination as kaleidoscopic as Kelly Link's.\" Steve Himmer, The Bee-Loud Glade<br /><br />\"Something hazy is happening in Fat City. Laura Ellen Scott dials up loads of laughs amid the local color and NOLA cuisine in this madcap romp of a novel where last wishes come true, Elvis is back under newly orange clouds, coffee cups are bottomless, and street punks wear capes. Yet the heart of this Barry Hannah plays nice with Walker Percy phenomenon of a novel is a father and son in love with the same girl. Pour some Blackened Voodoo Lager and sit a spell.\" Richard Peabody, editor Gargoyle Magazine</p>",
+                "authors": {
+                    "author": {
+                        "id": 4774467,
+                        "name": "Laura Ellen Scott",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1308683975p5/4774467.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1308683975p2/4774467.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4774467.Laura_Ellen_Scott",
+                        "average_rating": 4.09,
+                        "ratings_count": 211,
+                        "text_reviews_count": 63
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 15964137,
+                    "uri": "kca://work/amzn1.gr.work.v1.euUh4zzndPSqlf8Js92M5Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886479318
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:29:31 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1002423703,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:29:30 -0700 2015",
+            "date_updated": "Fri Jun 05 15:29:31 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967722",
+            "link": "https://www.goodreads.com/review/show/1299967722",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 25296455,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 317474
+                },
+                "isbn": 765349019,
+                "isbn13": 9780765349019,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 36
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.LXplj4zo296CHtsv5Ni7AA",
+                "title": "The Wizard Lord (The Annals of the Chosen, #1)",
+                "title_without_series": "The Wizard Lord",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316728770l/317474._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316728770l/317474._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/317474.The_Wizard_Lord",
+                "num_pages": 384,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Tor Fantasy",
+                "publication_day": 3,
+                "publication_year": 2007,
+                "publication_month": 4,
+                "average_rating": 3.56,
+                "ratings_count": 612,
+                "description": "The Wizard Lord's duty is to keep the world in its delicate balance. He must govern lightly to protect his domain from power-hungry interlopers, such as certain wizards who previously fought to rule the world…But if the Wizard Lord himself strays from the way of the just, then it is up to the Chosen to intercede.<br /><br />The Chosen ones are the Leader, the Seer, the Swordsman, the Beauty, the Thief, the Scholar, the Archer, and the Speaker. Each are magically-infused mortal individuals who, for the term of their service, have only one function--to be available to remove an errant Wizard Lord, whether by persuasion or by stronger means. <br /><br />Breaker, a young man of ambition, has taken the mantle of Swordsman from its former bearer who wished to retire. Never did he realize that he would be called to duty so quickly, or that the balance of power in his world would be so precarious.<br /><br />He had a duty to perform.  A world to save.<br /><br />So why does he still have doubts…not just about himself, but about the entire balance of power?",
+                "authors": {
+                    "author": {
+                        "id": 20331,
+                        "name": "Lawrence Watt-Evans",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1311122102p5/20331.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1311122102p2/20331.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/20331.Lawrence_Watt_Evans",
+                        "average_rating": 3.92,
+                        "ratings_count": 41749,
+                        "text_reviews_count": 1888
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 604629,
+                    "uri": "kca://work/amzn1.gr.work.v1.aOrdazCv0R36HzhHNT-Cxg"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 10653050,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Jun 24 07:21:59 -0700 2008",
+            "date_updated": "Tue Jun 24 07:21:59 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/25296455",
+            "link": "https://www.goodreads.com/review/show/25296455",
+            "owned": 0
+        }
+    }
+}

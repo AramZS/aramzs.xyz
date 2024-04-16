@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 31890659,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2175864
+                },
+                "isbn": 345504348,
+                "isbn13": 9780345504340,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 53
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.opbycvvLdlGFel4y1JPy_g",
+                "title": "The Man with the Iron Heart",
+                "title_without_series": "The Man with the Iron Heart",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2175864.The_Man_with_the_Iron_Heart",
+                "num_pages": 532,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Del Rey Books",
+                "publication_day": 22,
+                "publication_year": 2008,
+                "publication_month": 7,
+                "average_rating": 3.69,
+                "ratings_count": 916,
+                "description": "What if V-E Day didn’t end World War II in Europe? What if, instead, the Allies had to face a potent, even fanatical, postwar Nazi resistance? Such a movement, based in the fabled Alpine Redoubt, was in fact a real threat, ultimately neutralized by Germany’s flagging resources and squabbling officials. But had SS Obergruppenführer Reinhard Heydrich, the notorious Man with the Iron Heart, not been assassinated in 1942, fate might have taken a different turn. We might likely have seen a German guerrilla war launched against the conquerors, presaging by more than half a century the protracted conflict with an unrelenting enemy that now engulfs the United States and its allies in Iraq. How might today’s clash of troops versus terrorists have played out in 1945?<p>In this imagined world, Nazi forces resort to unconventional warfare, using the quick and dirty tactics of terrorism–booby traps, time bombs, mortar and rocket strikes in the night, assassinations, even kamikaze-style suicide attacks–to overturn what seemed to be a decisive Allied victory. In November 1945, a truck bomb blows up the Nuremberg Palace of Justice, where high-ranking Nazi officials are about to stand trial for war crimes. None of the accused are there when the bomb goes off, but their judges, all of them present and accounted for, are annihilated. Worse acts of terrorism follow all over Europe.</p><p>Suddenly the Allies–especially the United States–must battle an invisible enemy and sacrifice countless lives in a long, seemingly pointless, unwinnable conflict. On the home front, patriotism corrodes, political fortunes are made and lost in the face of an antiwar backlash, and a once-proud country wonders how the righteous fight for freedom overseas has collapsed into a hopeless quagmire. At once a novel of thrilling military suspense, intriguing alternate history, and profound insight into contemporary affairs, <i>The Man with the Iron Heart</i> is a tour de force by a storyteller of exceptional imaginative power.</p>",
+                "authors": {
+                    "author": {
+                        "id": 29479,
+                        "name": "Harry Turtledove",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1333453762p5/29479.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1333453762p2/29479.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/29479.Harry_Turtledove",
+                        "average_rating": 3.78,
+                        "ratings_count": 146580,
+                        "text_reviews_count": 7826
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2181535,
+                    "uri": "kca://work/amzn1.gr.work.v1.qrZKl3iwxhJ71OnhcX0Djw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Sep 03 05:12:36 -0700 2008",
+            "date_updated": "Wed Sep 03 05:12:36 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/31890659",
+            "link": "https://www.goodreads.com/review/show/31890659",
+            "owned": 0
+        }
+    }
+}

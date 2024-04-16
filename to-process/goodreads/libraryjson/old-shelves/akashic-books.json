@@ -1,0 +1,51 @@
+{
+    "name": "Akashic Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Copenhagen Noir",
+            "id": "8034668",
+            "author": "Bo Tao Michaelis",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1299675443000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8034668",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Akashic Books",
+            "tags": [
+                "Paperback",
+                "Akashic Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1936070669",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781936070664",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "8034668",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

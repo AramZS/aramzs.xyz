@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2999622093,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 39098329
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 61
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.DPy7KooIMvrnnXIKDH5QbQ",
+                "title": "Boom Town: The Fantastical Saga of Oklahoma City, Its Chaotic Founding, Its Apocalyptic Weather, Its Purloined Basketball Team, and the Dream of Becoming a World-class Metropolis",
+                "title_without_series": "Boom Town: The Fantastical Saga of Oklahoma City, Its Chaotic Founding, Its Apocalyptic Weather, Its Purloined Basketball Team, and the Dream of Becoming a World-class Metropolis",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/39098329-boom-town",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.38,
+                "ratings_count": 4442,
+                "description": "<b>A lively and introspective look into Oklahoma City, where colorful city officials business leaders, artists, and sports fans have turned an unassuming Southwestern city into a thriving metropolis with a dazzling basketball team.</b><br /><br /><br />Sam Anderson--award-winning critic and journalist--makes his long-awaited debut with a stunning, insightful, and raucus portrait of Oklahoma City, an iconoclastic outpost in America's heartland. <br /><br />Anderson reports on the amazing revitalization that has occurred over the course of the last 20 years, starting with Oklahoma City's adoption of the MAPS program; he'll show how the city's colorful leaders--its mayor, police chief, and  a few local celebrities--have built up an unassuming city into a thriving urban center, full of artists, musicians, and, of course, sports fans. Anderson will track the dramatic story of how a consortium of business leaders purchased the NBA's Seattle SuperSonics, brought it to Oklahoma City, and renamed the team the Thunder. Sam Presti, the charismatic young GM of the Thunder, has turned the team--which includes Kevin Durant and Russell Westbrook--from scrappy underdogs to elite champions in less than five years.<br /><br />Anderson also talks to Wayne Coyne, the wild frontman of the Flaming Lips, and Gary England, the longtime beloved meteorologist who becomes a folk hero after the 2013 tornadoes, to paint the fullest picture possible of this one-of-a-kind American city.",
+                "authors": {
+                    "author": {
+                        "id": 6577154,
+                        "name": "Sam Anderson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352643776p5/6577154.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352643776p2/6577154.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6577154.Sam_Anderson",
+                        "average_rating": 4.38,
+                        "ratings_count": 4478,
+                        "text_reviews_count": 680
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 41711648,
+                    "uri": "kca://work/amzn1.gr.work.v1.QL1xkCscDuiVBLLE_iUuqg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3156495592
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Oct 03 06:29:33 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2646064011,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Oct 03 06:29:33 -0700 2019",
+            "date_updated": "Thu Oct 03 06:29:33 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2999622093",
+            "link": "https://www.goodreads.com/review/show/2999622093",
+            "owned": 0
+        }
+    }
+}

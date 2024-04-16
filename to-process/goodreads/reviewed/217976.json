@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520206924,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 217976
+                },
+                "isbn": 671042394,
+                "isbn13": 9780671042394,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 14
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.eTzlxIx-G9WXaksvBb9oYQ",
+                "title": "Renaissance (Star Trek: New Frontier, #10)",
+                "title_without_series": "Renaissance",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/217976.Renaissance",
+                "num_pages": 270,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": 1,
+                "publication_year": 2000,
+                "publication_month": 9,
+                "average_rating": 3.98,
+                "ratings_count": 722,
+                "description": "The ship is only a memory, but the drama unfolds....<br /><br />The USS Excalibur has been obliterated. Its captain, Mackenzie Calhoun is gone. Now the surviving crew members are dispersed throughout the galaxy, seeking to forge new lives in the wake of the Excalibur's destruction. For Dr. Selar, the ship's former medical officer, that means facing a very personal crisis.<br /><br />Following the birth of her child, the Vulcan doctor returned to her homeworld, determined to raise the child exclusively in the way of logic. But the child's father, the Hermat Lieutenant Commander Burgoyne, has hir own views regarding their offspring's future, and s/he intends to fight for hir paternal rights, even if it means appealing to the highest authorities of two worlds!<br /><br />Elsewhere in the Alpha Quadrant, Lieutenant Robin Lefler and her enigmatic mother travel to the pleasure planet Risa where they encounter a genuine Starfleet legend...",
+                "authors": {
+                    "author": {
+                        "id": 13681,
+                        "name": "Peter David",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p5/13681.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p2/13681.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13681.Peter_David",
+                        "average_rating": 4.02,
+                        "ratings_count": 297991,
+                        "text_reviews_count": 13707
+                    }
+                },
+                "published": 2000,
+                "work": {
+                    "id": 211045,
+                    "uri": "kca://work/amzn1.gr.work.v1.IGtuKUthWDrf0q05gorQuQ"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:45:44 -0800 2013",
+            "date_updated": "Mon Jan 28 19:45:44 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520206924",
+            "link": "https://www.goodreads.com/review/show/520206924",
+            "owned": 0
+        }
+    }
+}

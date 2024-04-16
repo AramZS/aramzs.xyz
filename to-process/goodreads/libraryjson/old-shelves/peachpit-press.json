@@ -1,0 +1,104 @@
+{
+    "name": "Peachpit Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Zen of CSS Design: Visual Enlightenment for the Web",
+            "id": "565",
+            "author": "Dave Shea, Molly E. Holzschlag",
+            "date_finished": 1351296000000,
+            "notes": [],
+            "date_started": 1351350644000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Zen of CSS Design: Visual Enlightenment for the Web: Rating - 4/5",
+                    "date": 1351296000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/565",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Peachpit Press",
+            "tags": [
+                "Paperback",
+                "Peachpit Press",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0321303474",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "0785342303476",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "565",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Zen of CSS Design: Visual Enlightenment for the Web",
+            "id": 565,
+            "author": "Dave Shea",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/565",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Peachpit Press",
+            "tags": [
+                "Paperback",
+                "Peachpit Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 565,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

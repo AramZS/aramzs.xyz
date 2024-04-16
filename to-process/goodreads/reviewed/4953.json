@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1123154152,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4953
+                },
+                "isbn": 375725784,
+                "isbn13": 9780375725784,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8516
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-mh3i1FAAT3K-H5bqxNEng",
+                "title": "A Heartbreaking Work of Staggering Genius",
+                "title_without_series": "A Heartbreaking Work of Staggering Genius",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327714834l/4953._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327714834l/4953._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4953.A_Heartbreaking_Work_of_Staggering_Genius",
+                "num_pages": 485,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Vintage",
+                "publication_day": 13,
+                "publication_year": 2001,
+                "publication_month": 2,
+                "average_rating": 3.69,
+                "ratings_count": 164706,
+                "description": "'When you read his extraordinary memoir you don't laugh, then cry, then laugh again; you somehow experience these emotions all at once.'<br /><br />\"Well, this was when Bill was sighing a lot. He had decided that after our parents died he just didn't want any more fighting between what was left of us. He was twenty-four, Beth was twenty-three, I was twenty-one, Toph was eight, and all of us were so tried already, from that winter. So when something would come up, any little thing, some bill to pay or decision to make, he would just sigh, his eyes tired, his mouth in a sorry kind of smile. <br /><br />But Beth and I...Jesus, we were fighting with everyone, anyone, each other, with strangers at bars, anywhere -- we were angry people wanting to exact revenge. We came to California and we wanted everything, would take what was ours, anything within reach. And I decided that little Toph and I, he with his backward hat and long hair, living together in our little house in Berkeley, would be world-destroyers. We inherited each other and, we felt, a responsibility to reinvent everything, to scoff and re-create and drive fast while singing loudly and pounding the windows. It was a hopeless sort of exhilaration, a kind of arrogance born of fatalism, I guess, of the feeling that if you could lose a couple of parents in a month, then basically anything could happen, at any time -- all bullets bear your name, all cars are there to crush you, any balcony could give way; more disaster seemed only logical. <br /><br />And then, as in Dorothy's dream, all these people I grew up with were there, too, some of them orphans also, most but not all of us believing that what we had been given was extraordinary, that it was time to tear or break down, ruin, remake, take and devour. This was San Francisco, you know, and everyone had some dumb idea -- I mean, wicca? -- and no one there would tell you yours was doomed. Thus the public nudity, and this ridiculous magazine, and the Real World tryout, all this need, most of it disguised by sneering, but all driven by a hyper-awareness of this window, I guess, a few years when your muscles are taut, coiled up and vibrating. But what to do with the energy? I mean, when we drive, Toph and I, and we drive past people, standing on top of all these hills, part of me wants to stop the car and turn up the radio and have us all dance in formation, and part of me wants to run them all over.\"",
+                "authors": {
+                    "author": {
+                        "id": 3371,
+                        "name": "Dave Eggers",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1432065054p5/3371.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1432065054p2/3371.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3371.Dave_Eggers",
+                        "average_rating": 3.71,
+                        "ratings_count": 664724,
+                        "text_reviews_count": 66430
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 42857,
+                    "uri": "kca://work/amzn1.gr.work.v1.7Jnf8b37vm0DS_RIcqvgRg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 658855925
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 04 08:54:28 -0800 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847061811,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 04 08:54:27 -0800 2014",
+            "date_updated": "Thu Dec 04 08:54:28 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1123154152",
+            "link": "https://www.goodreads.com/review/show/1123154152",
+            "owned": 0
+        }
+    }
+}

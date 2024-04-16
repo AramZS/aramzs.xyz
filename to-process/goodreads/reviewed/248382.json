@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520216621,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 248382
+                },
+                "isbn": 64473007,
+                "isbn13": 9780064473002,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 32
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.b8dxvFajsIq4ehoQYMljcg",
+                "title": "A Matter of Profit",
+                "title_without_series": "A Matter of Profit",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/248382.A_Matter_of_Profit",
+                "num_pages": 361,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Eos",
+                "publication_day": 15,
+                "publication_year": 2003,
+                "publication_month": 4,
+                "average_rating": 3.92,
+                "ratings_count": 355,
+                "description": "The T'Chin may be plotting<br /> an assassination -- and Ahvren<br /> has to stop them Ahvren is fed up with war, but as a Vivitare soldier he must fight or risk dishonoring his family. His sister, Sabri, who dreams of freedom, is being forced to marry the emperor's loathsome son. The only chance either of them have to escape is if Ahvren can solve the mystery of the T'Chin in time. Why did forty planets of alien races surrender to the Vivitare without a fight? What is their strange preoccupation with matters of \"profit\"? And, most importantly, is there any truth to the rumors that the Vivitare emperor himself may soon be the target of an assassin?",
+                "authors": {
+                    "author": {
+                        "id": 145129,
+                        "name": "Hilari Bell",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1296675577p5/145129.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1296675577p2/145129.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/145129.Hilari_Bell",
+                        "average_rating": 3.9,
+                        "ratings_count": 29011,
+                        "text_reviews_count": 1853
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 1171202,
+                    "uri": "kca://work/amzn1.gr.work.v1.k0VqXwydBltWgTKjVdTQXg"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 351871074,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:56:21 -0800 2013",
+            "date_updated": "Mon Jan 28 19:56:21 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520216621",
+            "link": "https://www.goodreads.com/review/show/520216621",
+            "owned": 0
+        }
+    }
+}

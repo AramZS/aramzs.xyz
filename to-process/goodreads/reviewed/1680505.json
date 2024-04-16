@@ -1,0 +1,125 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528946426,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1680505
+                },
+                "isbn": 785128492,
+                "isbn13": 9780785128496,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 122
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.iGeSYe6ISNzJRMeiz6ZT4Q",
+                "title": "Captain America: The Death of Captain America, Volume 1: The Death of the Dream",
+                "title_without_series": "Captain America: The Death of Captain America, Volume 1: The Death of the Dream",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351512545l/1680505._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351512545l/1680505._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1680505.Captain_America",
+                "num_pages": 160,
+                "format": "Hardcover",
+                "edition_information": "Premiere Edition",
+                "publisher": "Marvel",
+                "publication_day": 5,
+                "publication_year": 2007,
+                "publication_month": 12,
+                "average_rating": 4.2,
+                "ratings_count": 5316,
+                "description": "The death of Captain America Leaping from the final pages of Civil War, this is the biggest Cap story that Ed Brubaker and Steve Epting have yet to tell - guaranteed to stun readers and send shockwaves through the entire Marvel Universe for the next year As repercussions ripple outward, the Winter Soldier finally chooses a side, after the Civil War has ended - his own. But what are the Red Skull and his minions up to behind the scenes?<br /><br /><b>Collecting</b>: <i>Captain America</i> 25-30",
+                "authors": {
+                    "author": {
+                        "id": 37450,
+                        "name": "Ed Brubaker",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1230612199p5/37450.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1230612199p2/37450.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37450.Ed_Brubaker",
+                        "average_rating": 4.06,
+                        "ratings_count": 306082,
+                        "text_reviews_count": 17286
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 2778676,
+                    "uri": "kca://work/amzn1.gr.work.v1.tmptpAXiZ-IMLZypGu5kiQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051892989
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:44:42 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813204693,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": true,
+                        "id": 2635324,
+                        "name": "to-read",
+                        "review_shelf_id": 358512686,
+                        "sortable": true
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:04:12 -0800 2013",
+            "date_updated": "Mon Oct 23 16:44:42 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528946426",
+            "link": "https://www.goodreads.com/review/show/528946426",
+            "owned": 0
+        }
+    }
+}

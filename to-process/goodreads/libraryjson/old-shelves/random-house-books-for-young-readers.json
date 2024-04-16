@@ -1,0 +1,51 @@
+{
+    "name": "Random House Books for Young Readers",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Welcome to Bordertown (Borderland, #8)",
+            "id": "9191899",
+            "author": "Holly Black, Ellen Kushner, Ellen Kushner (Editor), Terri Windling, Cassandra Campbell, Cory Doctorow, MacLeod Andrews, Patricia A. McKillip, Catherynne M. Valente, Amal El-Mohtar, Emma Bull, Dounya El-Mohtar, Steven Brust, Alaya Dawn Johnson, Will Shetterly, Jane Yolen, Janni Lee Simner, Sara Ryan, Dylan Meconis, Tim Pratt, Annette Curtis Klause, Nalo Hopkinson, Delia Sherman, Christopher Barzak, Cassandra Clare, Neil Gaiman, Charles de Lint",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360254470000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/9191899",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House Books for Young Readers",
+            "tags": [
+                "Hardcover",
+                "Random House Books for Young Readers",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0375867058",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780375867057",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "9191899",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

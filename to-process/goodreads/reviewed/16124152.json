@@ -1,0 +1,102 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520216798,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16124152
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9780983446934,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.C177iyDNI75sA4O9AcWEFw",
+                "title": "The Opal",
+                "title_without_series": "The Opal",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354057552l/16124152._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354057552l/16124152._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16124152-the-opal",
+                "num_pages": 375,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Fantome",
+                "publication_day": 30,
+                "publication_year": 2012,
+                "publication_month": 10,
+                "average_rating": 3.69,
+                "ratings_count": 1055,
+                "description": "Matt Turner grew up witnessing first-hand the worst crimes imaginable. At age 9, he discovered his special ability to “read” the emotional imprints people leave on objects. Against better judgment, his police detective father used his son’s talent to help him solve crimes. Now, at 26, Matt tries to keep to himself, but an enemy he thought long gone interrupts his tropical vacation, flying him all over the globe to help track a 3500-year-old Egyptian opal found sealed in a Cuban tree trunk. In Cuba, Matt finds not riches but even deadlier foes, and the secrets of a long-dead explorer who will forever alter Matt’s life.",
+                "authors": {
+                    "author": {
+                        "id": 4502237,
+                        "name": "Michael Siemsen",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1382830389p5/4502237.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1382830389p2/4502237.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4502237.Michael_Siemsen",
+                        "average_rating": 3.76,
+                        "ratings_count": 8951,
+                        "text_reviews_count": 812
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 21946492,
+                    "uri": "kca://work/amzn1.gr.work.v1.wkfpiz7UlA2luWkw9nCDvA"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 351871196,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:56:31 -0800 2013",
+            "date_updated": "Mon Jan 28 19:56:31 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520216798",
+            "link": "https://www.goodreads.com/review/show/520216798",
+            "owned": 0
+        }
+    }
+}

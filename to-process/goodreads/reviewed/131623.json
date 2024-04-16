@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520207188,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 131623
+                },
+                "isbn": 743429591,
+                "isbn13": 9780743429597,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 14
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.DAXxHcXYyNbCQXeoS0mOEg",
+                "title": "Missing in Action (Star Trek: New Frontier, #16)",
+                "title_without_series": "Missing in Action",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/131623.Missing_in_Action",
+                "num_pages": 392,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": 5,
+                "publication_year": 2006,
+                "publication_month": 2,
+                "average_rating": 4.04,
+                "ratings_count": 541,
+                "description": "Peter David's unforgettable novels of Captain Mackenzie Calhoun and the crew of the Starship Excalibur remain one of Star Trek's most popular book series among fans. Now, David continues the thrilling new direction for the New Frontier universe begun in <i>After the Fall</i> with a novel that will shock and delight longtime and brand-new readers of this acclaimed series.<br /><br />Following the dramatic events of <i>After the Fall</i>, Captain Mackenzie Calhoun and the crew of the USS Excalibur find themselves catapulted headlong into another universe, far from the New Thallonian Protectorate and Sector 221-G... a place where an ancient war rages between two powerful alien races. But Calhoun has no intention of staying here for very long and, adopting the time-honored philosophy of \"the enemy of my enemy is my friend,\" takes it upon himself to somehow (and by any means necessary) persuade one side or the other to help him and his crew get back home.<br /><br />Meanwhile, the shadow of war has fallen over the New Thallonian Protectorate, and an embattled Si Cwan faces growing treachery as he attempts to maintain his tenuous hold on power. With Starfleet and the Federation declaring Sector 221-G temporarily off-limits, Admiral Elizabeth Shelby and Captain Kat Mueller decide to take matters into their own hands, ignoring orders by trying to find some way of getting to the Excalibur, presuming there is any Excalibur to get to. But they never count on the most unexpected of allies -- an old friend whose shifting loyalties are about to be put to the ultimate test even as a growing cataclysm looms...",
+                "authors": {
+                    "author": {
+                        "id": 13681,
+                        "name": "Peter David",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p5/13681.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p2/13681.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13681.Peter_David",
+                        "average_rating": 4.02,
+                        "ratings_count": 297991,
+                        "text_reviews_count": 13707
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 126767,
+                    "uri": "kca://work/amzn1.gr.work.v1.Mz9kocm3RmhaihDYyeNPwQ"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:46:03 -0800 2013",
+            "date_updated": "Mon Jan 28 19:46:03 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520207188",
+            "link": "https://www.goodreads.com/review/show/520207188",
+            "owned": 0
+        }
+    }
+}

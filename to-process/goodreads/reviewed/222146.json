@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789546476,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 222146
+                },
+                "isbn": 812972155,
+                "isbn13": 9780812972153,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 856
+                },
+                "uri": "kca://book/amzn1.gr.book.v1._hh9YT85sE7nSfA1E6WFRA",
+                "title": "Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture",
+                "title_without_series": "Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557932856l/222146._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557932856l/222146._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/222146.Masters_of_Doom",
+                "num_pages": 339,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Random House Trade Paperbacks",
+                "publication_day": 11,
+                "publication_year": 2004,
+                "publication_month": 5,
+                "average_rating": 4.27,
+                "ratings_count": 12914,
+                "description": "<b>Masters of Doom</b> is the amazing true story of the Lennon and McCartney of video games: John Carmack and John Romero. Together, they ruled big business. They transformed popular culture. And they provoked a national controversy. More than anything, they lived a unique and rollicking American Dream, escaping the broken homes of their youth to produce the most notoriously successful game franchises in history—<i>Doom</i> and <i>Quake</i>— until the games they made tore them apart. This is a story of friendship and betrayal, commerce and artistry—a powerful and compassionate account of what it's like to be young, driven, and wildly creative.",
+                "authors": {
+                    "author": {
+                        "id": 65730,
+                        "name": "David Kushner",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1566270999p5/65730.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1566270999p2/65730.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/65730.David_Kushner",
+                        "average_rating": 4.1,
+                        "ratings_count": 18695,
+                        "text_reviews_count": 1788
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 215133,
+                    "uri": "kca://work/amzn1.gr.work.v1.zdiYlFvLFruHSMGrL3T7-w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240626397
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 12:29:07 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571768945,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 12:29:07 -0800 2013",
+            "date_updated": "Fri Dec 13 12:29:07 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789546476",
+            "link": "https://www.goodreads.com/review/show/789546476",
+            "owned": 0
+        }
+    }
+}

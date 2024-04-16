@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2141620128,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 92740
+                },
+                "isbn": 1596060832,
+                "isbn13": 9781596060838,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 47
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.sLvyRPeaU98slSzqvqUQpQ",
+                "title": "The Last Unicorn: The Lost Version",
+                "title_without_series": "The Last Unicorn: The Lost Version",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/92740.The_Last_Unicorn",
+                "num_pages": 92,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Subterranean Press",
+                "publication_day": 10,
+                "publication_year": 2007,
+                "publication_month": 1,
+                "average_rating": 3.86,
+                "ratings_count": 246,
+                "description": "Peter S. Beagle's <i>The Last Unicorn</i> has sold at least six million copies around the world since it was published in 1968, and tens of millions of viewers have delighted in the animated film version (for which Peter also wrote the screenplay). But none of the fans of this amazing work have ever known the full story of how <i>The Last Unicorn</i> came to be.<br /><br />In 1962, the 23 year-old Beagle was at a career crossroads. His fantasy novel <i>A Fine and Private Place</i> had been released to great critical acclaim in 1960, but his mainstream second book had been flatly rejected by his publisher. What Peter wrote next was an 80-page fragment about a unicorn, the last of her kind, lost in the modern world of superhighways and Kodak cameras, with only a banished demon from Hell for a traveling companion.<br /><br />This first take on the beloved classic—so much the same, so very different—is now available to readers for the first time, with an introduction and commentary by the author.",
+                "authors": {
+                    "author": {
+                        "id": 1067608,
+                        "name": "Peter S. Beagle",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1360970921p5/1067608.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1360970921p2/1067608.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1067608.Peter_S_Beagle",
+                        "average_rating": 4.06,
+                        "ratings_count": 168550,
+                        "text_reviews_count": 13100
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 9707237,
+                    "uri": "kca://work/amzn1.gr.work.v1.y8tGjkcpLSc64mTh-FW29w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2025081669
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 02 12:01:14 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1792804156,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Oct 02 12:01:14 -0700 2017",
+            "date_updated": "Mon Oct 02 12:01:14 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2141620128",
+            "link": "https://www.goodreads.com/review/show/2141620128",
+            "owned": 0
+        }
+    }
+}

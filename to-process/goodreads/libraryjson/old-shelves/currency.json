@@ -1,0 +1,96 @@
+{
+    "name": "Currency",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Late Bloomers: The Power of Patience in a World Obsessed with Early Achievement",
+            "id": "40696529",
+            "author": "Rich Karlgaard",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1576014358000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/40696529",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Currency",
+            "tags": [
+                "Kindle Edition",
+                "Currency",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "40696529",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "How to Think: A Survival Guide for a World at Odds",
+            "id": "34050965",
+            "author": "Alan Jacobs",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1556373617000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34050965",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Currency",
+            "tags": [
+                "Hardcover",
+                "Currency",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0451499603",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780451499608",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34050965",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

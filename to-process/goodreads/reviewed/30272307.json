@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2021415803,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 30272307
+                },
+                "isbn": 1524100994,
+                "isbn13": 9781524100995,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 91
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.XXD4hmS_NoUXg2aj3hV8Fg",
+                "title": "Jim Butcher's The Dresden Files: Wild Card (Series Omnibus, Signed Limited Edition)",
+                "title_without_series": "Jim Butcher's The Dresden Files: Wild Card",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471510514l/30272307._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471510514l/30272307._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/30272307-jim-butcher-s-the-dresden-files",
+                "num_pages": 152,
+                "format": "Hardcover",
+                "edition_information": "Series Omnibus. Signed, limited edition.",
+                "publisher": "Dynamite Entertainment",
+                "publication_day": 25,
+                "publication_year": 2016,
+                "publication_month": 10,
+                "average_rating": 3.99,
+                "ratings_count": 733,
+                "description": "INSIDE COVER:<br /><br />WILD CARD<br />An uneasy peace has settled over Chicago, where an array of supernatural factions frequently battle for supremacy. Thanks to the city's only Wizard for Hire, Harry Dresden, a plot targeting magical practitioners was stopped, and the White Court of Vampires' part in it exposed. 'Gentleman' Johnny Marcone, the town's most powerful and ruthless mob boss, was made a freeholding Baron under the Unseelie Accords, a set of decrees governing the actions of the magical world's major powers, in return for his help in ending the threat. Son after, Marcone once again aided Harry and his apprentice, Molly Carpenter, this time helping them take down a mad wizard bent on making Chicago his personal playground.<br /><br />However, the gangster remains a dangerous criminal who, whatever his motivations, is wholly focused on cultivating his own power. The White Court, led by Lara Raith, is the dominant supernatural faction and sees the city's citizens as nothing more than a source of sustenance and pleasure.<br /><br />Things are calm now, but tension between these rivals boils beneath the surface...<br /><br /><br />Jim Butcher's The Dresden Files saga continues in this original and in-continuity graphic novel, featuring a never-before-told story set after the bestselling novel White Night and graphic novel Down Town! A bizarre double murder draws the interest of Chicago's only wizard-for-hire. But as Harry Dresden begins his investigation, the clues lead to troubling conclusions about the possible perpetrator, and set him on a path that will place him in the middle of a conflict between the city's three most powerful factions -- a conflict that could engulf all of Chicago! <br /><br />REVIEWS:<br />\"If you re already a fan of Harry and his ragtag band of hooligans and ne'er-do-wells, this latest offering from the folks at Dynamite could very well be a great way to pass the time while you wait for the next book.\" - The Pullbox<br /><br />\"Every panel is exciting to read, and Carlos Gomez really knows his way around a pencil.\" - The Outhousers<br /><br /> \"Dark, gritty, mysterious, and full of magic.\" - AIPT<br /><br />\"Great art and solid writing.\" - Critical Blast<br /><br />\"An interesting premise and well written characters.\" - Project Nerd<br /><br />\"Step into this tale and you will feel richly rewarded.\" - Big Comic Page<br /><br />\"Good amounts of levity and seriousness.\" - Bounding Into Comics",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 50749434,
+                    "uri": "kca://work/amzn1.gr.work.v1.FgJZ7jCz3OwjzlzbP-Umrg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1867527038
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Jun 06 05:40:27 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Jun 06 05:40:39 -0700 2017",
+            "date_added": "Tue Jun 06 05:40:26 -0700 2017",
+            "date_updated": "Tue Jun 06 05:40:39 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2021415803",
+            "link": "https://www.goodreads.com/review/show/2021415803",
+            "owned": 0
+        }
+    }
+}

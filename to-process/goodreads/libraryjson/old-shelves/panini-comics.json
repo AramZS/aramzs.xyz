@@ -1,0 +1,59 @@
+{
+    "name": "Panini Comics",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Amazing Spider-Man Dead No More: The Clone Conspiracy",
+            "id": "36507879",
+            "author": "Dan Slott, Christos Gage, Sean Ryan, Giuseppe Cammuncoli",
+            "date_finished": 1545436800000,
+            "notes": [],
+            "date_started": 1545838445000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Amazing Spider-Man Dead No More: The Clone Conspiracy: Rating - 2/5",
+                    "date": 1545436800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/36507879",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Panini Comics",
+            "tags": [
+                "Paperback",
+                "Panini Comics",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1846537819",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781846537813",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "36507879",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

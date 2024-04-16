@@ -1,0 +1,59 @@
+{
+    "name": "Image",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Die #1",
+            "id": "42612717",
+            "author": "Kieron Gillen, Stephanie Hans, Jamie McKelvie, Clayton Cowles",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1550007804000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Die #1: Rating - 5/5",
+                    "date": 1550007804000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/42612717",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Image",
+            "tags": [
+                "Kindle Edition",
+                "Image",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "42612717",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2638057256,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25066786
+                },
+                "isbn": 785197737,
+                "isbn13": 9780785197737,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 642
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.nI67kGjN7Zb_aEdxVE9JiQ",
+                "title": "Spider-Gwen, Vol. 0: Most Wanted?",
+                "title_without_series": "Spider-Gwen, Vol. 0: Most Wanted?",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447040994l/25066786._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447040994l/25066786._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25066786-spider-gwen-vol-0",
+                "num_pages": 112,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 17,
+                "publication_year": 2015,
+                "publication_month": 11,
+                "average_rating": 3.8,
+                "ratings_count": 5674,
+                "description": "THE BREAKOUT CHARACTER HIT OF THE YEAR IS <b>GWEN STACY: SPIDER-WOMAN!</b><br /><br />IN ONE UNIVERSE, it wasn't Peter Parker who was bitten by the radioactive spider, but Gwen Stacy! She's smart, charming and can lift a car ... just don't tell her father, the police chief. Now, in the wake of Spider-Verse, Gwen swings into her own solo adventures! And she soon finds herself between a rock and a hard place when the Vulture attacks, and NYPD Lieutenant Frank Castle sets his sights on bringing her down. Then, still haunted by Peter's death, Gwen visits his only family: Ben and May Parker. But what really happened the day Peter died? Find out right here as the spectacular Spider-Gwen steals not only the spotlight, but also the hearts of comic fans worldwide!<br /><br />COLLECTING <b>EDGE OF SPIDER-VERSE #2</b> AND <b>SPIDER-GWEN #1-5</b>, WRITTEN BY JASON LATOUR AND ILLUSTRATED BY ROBBIE RODRIGUEZ.",
+                "authors": {
+                    "author": {
+                        "id": 4456310,
+                        "name": "Jason Latour",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1488513529p5/4456310.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1488513529p2/4456310.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4456310.Jason_Latour",
+                        "average_rating": 3.89,
+                        "ratings_count": 55187,
+                        "text_reviews_count": 5288
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 45328462,
+                    "uri": "kca://work/amzn1.gr.work.v1.sCteV6Q8gDrf8FgS48v3uw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2677472474
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Dec 25 08:53:56 -0800 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2677472363
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Dec 25 08:53:51 -0800 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Dec 20 00:00:00 -0800 2018",
+            "date_added": "Tue Dec 25 08:53:50 -0800 2018",
+            "date_updated": "Wed Dec 26 09:27:48 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2638057256",
+            "link": "https://www.goodreads.com/review/show/2638057256",
+            "owned": 0
+        }
+    }
+}

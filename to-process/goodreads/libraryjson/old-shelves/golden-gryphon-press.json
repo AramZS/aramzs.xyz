@@ -1,0 +1,104 @@
+{
+    "name": "Golden Gryphon Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Jennifer Morgue (Laundry Files, #2)",
+            "id": "14150",
+            "author": "Charles Stross",
+            "date_finished": 1299110400000,
+            "notes": [],
+            "date_started": 1299165894000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Jennifer Morgue (Laundry Files, #2): Rating - 4/5",
+                    "date": 1299110400000,
+                    "type": "long",
+                    "content": "While the first novel in the series seemed almost too caught up in its conceit of techno-magical-spies working in heavy bureaucracies (spoiler: the big twist was matrix management), Stross's second Laundry novel gives more words to the actual playing with magical spells and counter-intelligence than he does to the complexities of the British civil services' management structure. The result is a better balanced and driving read. The Jennifer Morgue is well worth picking up. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/14150",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Golden Gryphon Press",
+            "tags": [
+                "Hardcover",
+                "Golden Gryphon Press",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1930846452",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781930846456",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "14150",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Jennifer Morgue (Laundry Files, #2)",
+            "id": 14150,
+            "author": "Charles Stross",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/14150",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Golden Gryphon Press",
+            "tags": [
+                "Hardcover",
+                "Golden Gryphon Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 14150,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

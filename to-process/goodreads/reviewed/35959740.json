@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629415612,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35959740
+                },
+                "isbn": 316556343,
+                "isbn13": 9780316556347,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 26045
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Xb-S30uCLSAfxGVfTehc0A",
+                "title": "Circe",
+                "title_without_series": "Circe",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565909496l/35959740._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565909496l/35959740._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35959740-circe",
+                "num_pages": 393,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Little, Brown and Company",
+                "publication_day": 10,
+                "publication_year": 2018,
+                "publication_month": 4,
+                "average_rating": 4.27,
+                "ratings_count": 272713,
+                "description": "In the house of Helios, god of the sun and mightiest of the Titans, a daughter is born. But Circe is a strange child—not powerful, like her father, nor viciously alluring like her mother. Turning to the world of mortals for companionship, she discovers that she does possess power—the power of witchcraft, which can transform rivals into monsters and menace the gods themselves.<br /><br />Threatened, Zeus banishes her to a deserted island, where she hones her occult craft, tames wild beasts and crosses paths with many of the most famous figures in all of mythology, including the Minotaur, Daedalus and his doomed son Icarus, the murderous Medea, and, of course, wily Odysseus.<br /><br />But there is danger, too, for a woman who stands alone, and Circe unwittingly draws the wrath of both men and gods, ultimately finding herself pitted against one of the most terrifying and vengeful of the Olympians. To protect what she loves most, Circe must summon all her strength and choose, once and for all, whether she belongs with the gods she is born from, or the mortals she has come to love.",
+                "authors": {
+                    "author": {
+                        "id": 176372,
+                        "name": "Madeline Miller",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1322861610p5/176372.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1322861610p2/176372.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/176372.Madeline_Miller",
+                        "average_rating": 4.3,
+                        "ratings_count": 466724,
+                        "text_reviews_count": 56562
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 53043399,
+                    "uri": "kca://work/amzn1.gr.work.v1.KKKqx7sCYz6i4_SKwxjVoA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666064251
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:57:48 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274620297,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:57:48 -0800 2018",
+            "date_updated": "Mon Dec 17 07:57:48 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629415612",
+            "link": "https://www.goodreads.com/review/show/2629415612",
+            "owned": 0
+        }
+    }
+}

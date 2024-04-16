@@ -1,0 +1,51 @@
+{
+    "name": "Simon & Schuster (NYC)",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Wasp Factory",
+            "id": "567678",
+            "author": "Iain Banks",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402147114000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/567678",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Simon & Schuster (NYC)",
+            "tags": [
+                "Paperback",
+                "Simon & Schuster (NYC)",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0684853159",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780684853154",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "567678",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

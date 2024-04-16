@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 151792675,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 101869
+                },
+                "isbn": 441013651,
+                "isbn13": 9780441013654,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1315
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.S39QFnM7kqdNov5ZcykQJg",
+                "title": "The Atrocity Archives (Laundry Files, #1)",
+                "title_without_series": "The Atrocity Archives",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/101869.The_Atrocity_Archives",
+                "num_pages": 345,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Ace",
+                "publication_day": {},
+                "publication_year": 2006,
+                "publication_month": 1,
+                "average_rating": 3.91,
+                "ratings_count": 20431,
+                "description": "NEVER VOLUNTEER FOR ACTIVE DUTY ...Bob Howard is a low-level techie working for a super-secret government agency. While his colleagues are out saving the world, Bob's under a desk restoring lost data. His world was dull and safe - but then he went and got Noticed. Now, Bob is up to his neck in spycraft, parallel universes, dimension-hopping terrorists, monstrous elder gods and the end of the world. Only one thing is certain: it will take more than a full system reboot to sort this mess out ...This is the first novel in the Laundry Files.",
+                "authors": {
+                    "author": {
+                        "id": 8794,
+                        "name": "Charles Stross",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p5/8794.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p2/8794.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8794.Charles_Stross",
+                        "average_rating": 3.9,
+                        "ratings_count": 225995,
+                        "text_reviews_count": 14959
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 322252,
+                    "uri": "kca://work/amzn1.gr.work.v1.BUCEwjwaOAXXJwmJ-z6faQ"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Mar 03 07:19:05 -0800 2011",
+            "date_updated": "Thu Mar 03 07:19:14 -0800 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/151792675",
+            "link": "https://www.goodreads.com/review/show/151792675",
+            "owned": 0
+        }
+    }
+}

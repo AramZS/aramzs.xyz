@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 493461224,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 43612
+                },
+                "isbn": 785114157,
+                "isbn13": 9780785114154,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 347
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ojYUiTWe1DXgdljr-PRbOA",
+                "title": "Runaways, Vol. 2: Teenage Wasteland",
+                "title_without_series": "Runaways, Vol. 2: Teenage Wasteland",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298553286l/43612._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298553286l/43612._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/43612.Runaways_Vol_2",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.03,
+                "ratings_count": 7250,
+                "description": "Still on the run from their super-villain parents, this motley crew of super-powered kids finds a kindred spirit in a daring young stranger and welcomes him into their fold. But will this dashing young man help the teenagers defeat their villainous parents...or tear them apart? One troubled member finds out, as she leaves the group's hideout with their new recruit, who reveals his startling secret, putting the entire team in jeopardy Plus: Who do you send to catch a group of missing, runaway teenage super heroes? Marvel's original teen runaway crimefighters, Cloak and Dagger, making their first major appearance in years.<br /><br /><i>Runaways vol. 1 #7-12<i></i></i>",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 10219503,
+                    "uri": "kca://work/amzn1.gr.work.v1.hD1_kTtdOhOGIUdx0rUl-Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051895518
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:47:09 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813206622,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Jan 02 22:00:28 -0800 2013",
+            "date_updated": "Mon Oct 23 16:47:09 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/493461224",
+            "link": "https://www.goodreads.com/review/show/493461224",
+            "owned": 0
+        }
+    }
+}

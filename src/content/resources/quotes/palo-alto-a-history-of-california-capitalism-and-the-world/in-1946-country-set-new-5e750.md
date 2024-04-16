@@ -1,0 +1,30 @@
+---
+annotationType: Highlight
+blockquote: >-
+  In 1946, the country set new records for corporate profits and number of labor
+  strikes.
+cite:
+  name: Malcolm Harris
+  href: false
+createdDate: '2023-11-25T05:00:00'
+date: '2023-11-25T10:00:00.000Z'
+handedFrom: Kindle
+id: 5e750105a475e5071a07dde26787272d
+location: '4311'
+notes: []
+pageNum: ''
+publish: true
+publishDate: '2024-03-10T17:53:21.203'
+referringUri: false
+slug: in-1946-country-set-new-5e750
+sourceSlug: palo-alto-a-history-of-california-capitalism-and-the-world
+sourceTitle: 'Palo Alto: A History of California, Capitalism, and the World'
+tags:
+  - Quote
+title: >-
+  In 1946, the country set new records for corporate profits... - Palo Alto: A
+  History of California, Capitalism, and the World
+type: quote
+---
+
+> In 1946, the country set new records for corporate profits and number of labor strikes.

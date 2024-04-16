@@ -1,0 +1,96 @@
+{
+    "name": "Alfred A. Knopf",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Exhalation",
+            "id": "52222275",
+            "author": "Ted Chiang",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1583711778000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/52222275",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Alfred A. Knopf",
+            "tags": [
+                "Hardcover",
+                "Alfred A. Knopf",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1101947888",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781101947883",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "52222275",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Americanah",
+            "id": "15796700",
+            "author": "Chimamanda Ngozi Adichie, Jashar Awan",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1545061860000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/15796700",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Alfred A. Knopf",
+            "tags": [
+                "Hardcover",
+                "Alfred A. Knopf",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "15796700",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 442772248,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13055592
+                },
+                "isbn": 765316994,
+                "isbn13": 9780765316998,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8118
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.JJcTWRb36olmdV0fM4pDtg",
+                "title": "Redshirts",
+                "title_without_series": "Redshirts",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13055592-redshirts",
+                "num_pages": 320,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 5,
+                "publication_year": 2012,
+                "publication_month": 6,
+                "average_rating": 3.85,
+                "ratings_count": 82889,
+                "description": "Ensign Andrew Dahl has just been assigned to the Universal Union Capital Ship <i>Intrepid</i>, flagship of the Universal Union since the year 2456. It’s a prestige posting, and Andrew is thrilled all the more to be assigned to the ship’s Xenobiology laboratory.<br /><br />Life couldn’t be better…until Andrew begins to pick up on the fact that: <br />(1) every Away Mission involves some kind of lethal confrontation with alien forces <br />(2) the ship’s captain, its chief science officer, and the handsome Lieutenant Kerensky always survive these confrontations <br />(3) at least one low-ranked crew member is, sadly, always killed.<br /><br />Not surprisingly, a great deal of energy below decks is expended on avoiding, at all costs, being assigned to an Away Mission. Then Andrew stumbles on information that completely transforms his and his colleagues’ understanding of what the starship <i>Intrepid</i> really is…and offers them a crazy, high-risk chance to save their own lives.",
+                "authors": {
+                    "author": {
+                        "id": 4763,
+                        "name": "John Scalzi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+                        "average_rating": 4.03,
+                        "ratings_count": 712031,
+                        "text_reviews_count": 57344
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 18130445,
+                    "uri": "kca://work/amzn1.gr.work.v1.1NXlUf-xSeQjrIZfZBH1gg"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 293107711,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Sep 10 00:00:00 -0700 2012",
+            "date_added": "Sat Oct 27 08:07:09 -0700 2012",
+            "date_updated": "Sat Oct 27 08:15:24 -0700 2012",
+            "read_count": 1,
+            "body": "Redshirts is a clever and funny novel. Anyone who is a fan of metafiction or Star Trek is going to love this book.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/442772248",
+            "link": "https://www.goodreads.com/review/show/442772248",
+            "owned": 0
+        }
+    }
+}

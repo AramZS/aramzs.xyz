@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520206881,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 217974
+                },
+                "isbn": 743410645,
+                "isbn13": 9780743410649,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 21
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.6sCK5jOp7P1At6GT8Ov8HQ",
+                "title": "Restoration (Star Trek: New Frontier, #11)",
+                "title_without_series": "Restoration",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/217974.Restoration",
+                "num_pages": 409,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Star Trek",
+                "publication_day": 30,
+                "publication_year": 2001,
+                "publication_month": 10,
+                "average_rating": 3.97,
+                "ratings_count": 831,
+                "description": "The ever resourceful Captain Mackenzie Calhoun abruptly finds himself at a loss – marooned on the primitive outback world of Yakaba after his ship, Excalibur, is destroyed by deadly sabotage. He is separated from his loyal first officer, Shelby, who has gone on to command the Exeter and is certain that Calhoun has been blasted into oblivion. On Yakaba's dry frontier, Calhoun meets and befriends Rheela, an extraordinary woman beset by enemies trying to control or destroy her and her gift – summoning rain to her parched homeland.<br /><br />Trapped on this hostile world, unable to relay to his people that he survived their ship's cataclysm, Calhoun must stand against countless adversaries who will stop at nothing to gain power or keep it from others. Life and death hang in the balance. Out in the distance, mourning but determined to move on, Shelby must discover what sort of captain she really is.",
+                "authors": {
+                    "author": {
+                        "id": 13681,
+                        "name": "Peter David",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p5/13681.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p2/13681.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13681.Peter_David",
+                        "average_rating": 4.02,
+                        "ratings_count": 297991,
+                        "text_reviews_count": 13707
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 2751914,
+                    "uri": "kca://work/amzn1.gr.work.v1.qvO0nIKT0KFQ3nvVtsXYcA"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:45:42 -0800 2013",
+            "date_updated": "Mon Jan 28 19:45:42 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520206881",
+            "link": "https://www.goodreads.com/review/show/520206881",
+            "owned": 0
+        }
+    }
+}

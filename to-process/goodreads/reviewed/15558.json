@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520213191,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15558
+                },
+                "isbn": 1857239709,
+                "isbn13": 9781857239706,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 217
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.AfJg5CfeuYK_4MHCpobM4w",
+                "title": "Angel Fire East (Word & Void, #3)",
+                "title_without_series": "Angel Fire East",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328162801l/15558._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328162801l/15558._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15558.Angel_Fire_East",
+                "num_pages": 440,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": {},
+                "publication_year": 1999,
+                "publication_month": {},
+                "average_rating": 4.1,
+                "ratings_count": 12037,
+                "description": "<i>Angel Fire East</i> marks the close of Terry Brooks's Word and Void trilogy, which began with 1997's <i>Running with the Demon</i>. In this book, the story returns to Nest's native Hopewell, where once again Nest and John must face off against the Void. This time, the demon is the ancient Findo Gask, along with his sidekicks: a giant albino demon, a shapeless ur'droch who lives only to kill, and a self-destructive psycho named Penny Dreadful. <p> The story begins when John Ross shows up at Nest Freemark's door with a young boy. He reveals that the boy, who he calls Little John, is actually a gypsy morph, a creature born of wild magic and capable of enormous deeds, for good or evil. Both sides have approximately one month to unravel Little John's secrets and recruit him for their cause. Because after one month, the magic that holds him together will tear him apart, and his powers will be lost forever.</p>",
+                "authors": {
+                    "author": {
+                        "id": 9629,
+                        "name": "Terry Brooks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1280785812p5/9629.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1280785812p2/9629.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9629.Terry_Brooks",
+                        "average_rating": 3.96,
+                        "ratings_count": 775609,
+                        "text_reviews_count": 21501
+                    }
+                },
+                "published": 1999,
+                "work": {
+                    "id": 1446217,
+                    "uri": "kca://work/amzn1.gr.work.v1.QXsFJnL_MBPy_lnHhf3x_w"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 351868718,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:52:20 -0800 2013",
+            "date_updated": "Mon Jan 28 19:52:20 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520213191",
+            "link": "https://www.goodreads.com/review/show/520213191",
+            "owned": 0
+        }
+    }
+}

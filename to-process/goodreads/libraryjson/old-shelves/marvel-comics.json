@@ -1,0 +1,390 @@
+{
+    "name": "Marvel Comics",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Black Panther: A Nation Under Our Feet, Book 2",
+            "id": "30621637",
+            "author": "Ta-Nehisi Coates, Chris Sprouse, Don McGregor, Rich Buckler, Brian Stelfreeze",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1571582511000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30621637",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics",
+            "tags": [
+                "Paperback",
+                "Marvel Comics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1302900544",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781302900540",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "30621637",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Spider-Gwen, Vol. 4: Predators",
+            "id": "34670289",
+            "author": "Jason Latour, Robbi Rodriguez, Hannah Blumenreich",
+            "date_finished": 1545264000000,
+            "notes": [],
+            "date_started": 1545845164000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Spider-Gwen, Vol. 4: Predators: Rating - 4/5",
+                    "date": 1545264000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34670289",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics",
+            "tags": [
+                "Paperback",
+                "Marvel Comics",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1302905961",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781302905965",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34670289",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Secret Wars",
+            "id": "25066824",
+            "author": "Jonathan Hickman, Jim Shooter, Esad Ribić, Brian Michael Bendis, Paul Renaud, Hajime Isayama, Gerardo Sandoval, Ive Svorcina, Chris Eliopoulos, Clayton Cowles, Alex Ross, Steve Epting, Mike Zeck, Ryan Stegman, Sara Pichelli, Dale Keown",
+            "date_finished": 1545436800000,
+            "notes": [],
+            "date_started": 1545838461000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Secret Wars: Rating - 4/5",
+                    "date": 1545436800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25066824",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics",
+            "tags": [
+                "Hardcover",
+                "Marvel Comics",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0785198849",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780785198840",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25066824",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Bucky Barnes: The Winter Soldier, Volume 1: The Man on the Wall",
+            "id": "23546815",
+            "author": "Aleš Kot, Marco Rudy, Langdon Foss",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1510927680000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/23546815",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics",
+            "tags": [
+                "Paperback",
+                "Marvel Comics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0785189297",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780785189299",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "23546815",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "X-Men: Messiah CompleX",
+            "id": "2350837",
+            "author": "Ed Brubaker, Mike Carey, Christopher Yost, Craig Kyle, Chris Bachalo, Humberto Ramos, Tim Townsend, Billy Tan, Marc Silvestri, Brian Reber, Cory Petit, David Finch, Morry Hollowell, Jon Sibal, Victor Olazaba, Al Vey, Edgar Delgado",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508801700000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of X-Men: Messiah CompleX: Rating - 4/5",
+                    "date": 1508801700000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2350837",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics",
+            "tags": [
+                "Hardcover",
+                "Marvel Comics",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0785128999",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780785128991",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "2350837",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Spider-Gwen, Vol. 4: Predators",
+            "id": 34670289,
+            "author": "Jason Latour",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34670289",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics",
+            "tags": [
+                "Paperback",
+                "Marvel Comics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 34670289,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Secret Wars",
+            "id": 25066824,
+            "author": "Jonathan Hickman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25066824",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics",
+            "tags": [
+                "Hardcover",
+                "Marvel Comics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 25066824,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "X-Men: Messiah CompleX",
+            "id": 2350837,
+            "author": "Ed Brubaker",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2350837",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics",
+            "tags": [
+                "Hardcover",
+                "Marvel Comics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 2350837,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Yahoo Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "JavaScript: The Good Parts",
+            "id": "6590008",
+            "author": "Douglas Crockford",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086619000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6590008",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Yahoo Press",
+            "tags": [
+                "Kindle Edition",
+                "Yahoo Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6590008",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

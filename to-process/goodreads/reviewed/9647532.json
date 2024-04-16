@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 463614312,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9647532
+                },
+                "isbn": 765328542,
+                "isbn13": 9780765328540,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2026
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.W95cbVBdSto0vmHBZ9yMmg",
+                "title": "Fuzzy Nation (Fuzzy Sapiens #7)",
+                "title_without_series": "Fuzzy Nation",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316132345l/9647532._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316132345l/9647532._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9647532-fuzzy-nation",
+                "num_pages": 303,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.12,
+                "ratings_count": 24712,
+                "description": "Jack Holloway works alone, for reasons he doesn't care to talk about. Hundreds of miles from ZaraCorp's headquarters on planet, 178 light-years from the corporation's headquarters on Earth, Jack is content as an independent contractor, prospecting and surveying at his own pace. As for his past, that's not up for discussion.<br /><br />Then, in the wake of an accidental cliff collapse, Jack discovers a seam of unimaginably valuable jewels, to which he manages to lay legal claim just as ZaraCorp is cancelling their contract with him for his part in causing the collapse. Briefly in the catbird seat, legally speaking, Jack pressures ZaraCorp into recognizing his claim, and cuts them in as partners to help extract the wealth.<br /><br />But there's another wrinkle to ZaraCorp's relationship with the planet Zarathustra. Their entire legal right to exploit the verdant Earth-like planet, the basis of the wealth they derive from extracting its resources, is based on being able to certify to the authorities on Earth that Zarathustra is home to no sentient species.<br /><br />Then a small furry biped—trusting, appealing, and ridiculously cute—shows up at Jack's outback home. Followed by its family. As it dawns on Jack that despite their stature, these are people, he begins to suspect that ZaraCorp's claim to a planet's worth of wealth is very flimsy indeed…and that ZaraCorp may stop at nothing to eliminate the \"fuzzys\" before their existence becomes more widely known.",
+                "authors": {
+                    "author": {
+                        "id": 4763,
+                        "name": "John Scalzi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+                        "average_rating": 4.03,
+                        "ratings_count": 712024,
+                        "text_reviews_count": 57344
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 18280046,
+                    "uri": "kca://work/amzn1.gr.work.v1.XyQmeohMmKB5RCaQ1ZXQYQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 308990477,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Nov 25 18:59:56 -0800 2012",
+            "date_updated": "Sun Nov 25 18:59:56 -0800 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/463614312",
+            "link": "https://www.goodreads.com/review/show/463614312",
+            "owned": 0
+        }
+    }
+}

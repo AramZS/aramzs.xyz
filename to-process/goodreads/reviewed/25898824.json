@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749129424,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25898824
+                },
+                "isbn": "163450657X",
+                "isbn13": 9781634506571,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 16
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.e3Lg_bgytXDy4-XCZql2RQ",
+                "title": "Good Luck Have Fun: The Rise of eSports",
+                "title_without_series": "Good Luck Have Fun: The Rise of eSports",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455172818l/25898824._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455172818l/25898824._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25898824-good-luck-have-fun",
+                "num_pages": 268,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Skyhorse",
+                "publication_day": 7,
+                "publication_year": 2016,
+                "publication_month": 6,
+                "average_rating": 3.64,
+                "ratings_count": 133,
+                "description": "<b>A Close-Up Look at the Global Phenomenon of Competitive Video Gaming</b><br /><br />Esports is one of the fastest growing—and most cutthroat—industries in the world. A confluence of technology, culture, and determination has made this possible. Players around the world compete for millions of dollars in prize money, and companies like Amazon, Coca Cola, and Intel have invested billions. Esports events have sold out Los Angeles’s Staples Center, Seoul’s World Cup Stadium, and Seattle’s KeyArena. Hundreds of people have dedicated their lives to gaming, sacrificing their education, relationships, and even their bodies to compete, committing themselves with the same fervor of any professional athlete. In <i>Good Luck Have Fun</i>, author Roland Li talks to some of the biggest names in the business and explores the players, companies, and games that have made it to the new major leagues.<br /><br />Follow Alexander Garfield as he builds Evil Geniuses, a modest gaming group, in his college dorm into a global, multimillion-dollar eSports empire. Learn how Brandon Beck and Marc Merrill made League of Legends the world’s most successful eSports league and most popular PC game, on track to make over $1 billion a year. See how Twitch pivoted from a video streaming novelty into a $1 billion startup on the back of professional gamers. And dive into eSports’ dark side: drug abuse, labor troubles, and for each success story, hundreds of people who failed to make it big. These are the stories of the rise of an industry and culture that challenge what we know about sports, games, and competition.",
+                "authors": {
+                    "author": {
+                        "id": 14161863,
+                        "name": "Roland Li",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1523430174p5/14161863.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1523430174p2/14161863.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14161863.Roland_Li",
+                        "average_rating": 3.64,
+                        "ratings_count": 133,
+                        "text_reviews_count": 17
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 45781640,
+                    "uri": "kca://work/amzn1.gr.work.v1.HzLamuFiXuJh6pAw6OS18g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498302624
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:42:31 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Jan 01 00:00:00 -0800 2016",
+            "date_added": "Mon Sep 05 07:42:30 -0700 2016",
+            "date_updated": "Tue Sep 13 15:42:23 -0700 2016",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749129424",
+            "link": "https://www.goodreads.com/review/show/1749129424",
+            "owned": 0
+        }
+    }
+}

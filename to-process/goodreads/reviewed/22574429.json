@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749131231,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22574429
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4CINDzrqarKsLcFGHFqNZQ",
+                "title": "935 Lies: The Future of Truth and the Decline of America's Moral Integrity",
+                "title_without_series": "935 Lies: The Future of Truth and the Decline of America's Moral Integrity",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403586455l/22574429._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403586455l/22574429._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22574429-935-lies",
+                "num_pages": {},
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "PublicAffairs",
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.84,
+                "ratings_count": 185,
+                "description": "Facts are and must be the coin of the realm in a democracy, for government “of the people, by the people and for the people,” requires and assumes to some extent an informed citizenry. Unfortunately, for citizens in the United States and throughout the world, distinguishing between fact and fiction has always been a formidable challenge, often with real life and death consequences. But now it is more difficult and confusing than ever. The Internet Age makes comment indistinguishable from fact, and erodes authority. It is liberating but annihilating at the same time. <br /><br />For those wielding power, whether in the private or the public sector, the increasingly sophisticated control of information is regarded as utterly essential to achieving success. Internal information is severely limited, including calendars, memoranda, phone logs and emails. History is sculpted by its absence.<br /><br />Often those in power strictly control the flow of information, corroding and corrupting its content, of course, using newspapers, radio, television and other mass means of communication to carefully consolidate their authority and cover their crimes in a thick veneer of fervent racialism or nationalism. And always with the specter of some kind of imminent public threat, what Hannah Arendt called ‘objective enemies.’”<br /><br />An epiphanic, public comment about the Bush “war on terror” years was made by an unidentified White House official revealing how information is managed and how the news media and the public itself are regarded by those in power: “[You journalists live] “in what we call the reality-based community. [But] that’s not the way the world really works anymore. We’re an empire now, and when we act, we create our own reality . . . we’re history’s actors . . . and you, all of you, will be left to just study what we do.” And yet, as aggressive as the Republican Bush administration was in attempting to define reality, the subsequent, Democratic Obama administration may be more so. <br /><br />Into the battle for truth steps Charles Lewis, a pioneer of journalistic objectivity. His book looks at the various ways in which truth can be manipulated and distorted by governments, corporations, even loan individuals. He shows how truth is often distorted or diminished by delay: truth in time can save terrible erroneous choices. In part a history of communication in America, a cri de couer for the principles and practice of objective reporting, and a journey into several notably labyrinths of deception, 935 Lies is a valorous search for honesty in an age of casual, sometimes malevolent distortion of the facts.",
+                "authors": {
+                    "author": {
+                        "id": 87406,
+                        "name": "Charles Lewis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1403546885p5/87406.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1403546885p2/87406.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/87406.Charles_Lewis",
+                        "average_rating": 3.76,
+                        "ratings_count": 320,
+                        "text_reviews_count": 43
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 21585379,
+                    "uri": "kca://work/amzn1.gr.work.v1.CYZb82N63C1U4FgxaxIFgw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498305021
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:44:31 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414467677,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:44:30 -0700 2016",
+            "date_updated": "Mon Sep 05 07:44:31 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749131231",
+            "link": "https://www.goodreads.com/review/show/1749131231",
+            "owned": 0
+        }
+    }
+}

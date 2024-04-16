@@ -5,3 +5,14 @@ _tmp/
 node_modules/
 .idea
 .cache
+build
+.env
+docs
+.DS_Store
+**/.DS_Store
+build_log.txt
+buildlog.txt
+big-buildlog.txt
+gh-pages
+gh-pages.pub
+testLast.html

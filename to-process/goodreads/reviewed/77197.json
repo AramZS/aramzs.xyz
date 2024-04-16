@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2591749523,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 77197
+                },
+                "isbn": "055357339X",
+                "isbn13": 9780553573398,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2628
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4LJbCBw7mPzIut1Fa7lZQQ",
+                "title": "Assassin's Apprentice (Farseer Trilogy, #1)",
+                "title_without_series": "Assassin's Apprentice",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464570795l/77197._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464570795l/77197._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/77197.Assassin_s_Apprentice",
+                "num_pages": 435,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Spectra Books",
+                "publication_day": 1,
+                "publication_year": 1996,
+                "publication_month": 3,
+                "average_rating": 4.16,
+                "ratings_count": 222570,
+                "description": "In a faraway land where members of the royal family are named for the virtues they embody, one young boy will become a walking enigma.<br /><br />Born on the wrong side of the sheets, Fitz, son of Chivalry Farseer, is a royal bastard, cast out into the world, friendless and lonely. Only his magical link with animals - the old art known as the Wit - gives him solace and companionship. But the Wit, if used too often, is a perilous magic, and one abhorred by the nobility.<br /><br />So when Fitz is finally adopted into the royal household, he must give up his old ways and embrace a new life of weaponry, scribing, courtly manners; and how to kill a man secretly, as he trains to become a royal assassin.",
+                "authors": {
+                    "author": {
+                        "id": 25307,
+                        "name": "Robin Hobb",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1397885202p5/25307.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1397885202p2/25307.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/25307.Robin_Hobb",
+                        "average_rating": 4.2,
+                        "ratings_count": 1171123,
+                        "text_reviews_count": 46512
+                    }
+                },
+                "published": 1996,
+                "work": {
+                    "id": 171715,
+                    "uri": "kca://work/amzn1.gr.work.v1.U7cYzx8g5Tg8GEA9bWxCgw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2677468568
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Dec 25 08:51:11 -0800 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2616214997
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Nov 12 04:55:11 -0800 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Nov 12 04:55:11 -0800 2018",
+            "read_at": "Tue Dec 25 08:51:17 -0800 2018",
+            "date_added": "Mon Nov 12 04:55:11 -0800 2018",
+            "date_updated": "Tue Dec 25 08:51:17 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2591749523",
+            "link": "https://www.goodreads.com/review/show/2591749523",
+            "owned": 0
+        }
+    }
+}

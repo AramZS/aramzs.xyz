@@ -1,0 +1,186 @@
+{
+    "name": "Crown",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Boom Town: The Fantastical Saga of Oklahoma City, Its Chaotic Founding, Its Apocalyptic Weather, Its Purloined Basketball Team, and the Dream of Becoming a World-class Metropolis",
+            "id": "39098329",
+            "author": "Sam Anderson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1570109373000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/39098329",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Crown",
+            "tags": [
+                "Kindle Edition",
+                "Crown",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "39098329",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Social: Why Our Brains Are Wired to Connect",
+            "id": "17237217",
+            "author": "Matthew D. Lieberman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1545062169000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/17237217",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Crown",
+            "tags": [
+                "Hardcover",
+                "Crown",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0307889092",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780307889096",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "17237217",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Contagious (Infected, #2)",
+            "id": "3605324",
+            "author": "Scott Sigler",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1245955856000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3605324",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Crown",
+            "tags": [
+                "Hardcover",
+                "Crown",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0307406318",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780307406316",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "3605324",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Infected (Infected, #1)",
+            "id": "2331954",
+            "author": "Scott Sigler",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1218118599000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2331954",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Crown",
+            "tags": [
+                "Hardcover",
+                "Crown",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0307406105",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780307406101",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "2331954",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

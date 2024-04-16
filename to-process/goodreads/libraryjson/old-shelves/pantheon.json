@@ -1,0 +1,292 @@
+{
+    "name": "Pantheon",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Persepolis: The Story of a Childhood (Persepolis, #1)",
+            "id": "9516",
+            "author": "Marjane Satrapi, Mattias Ripa",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1417713722000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Persepolis: The Story of a Childhood (Persepolis, #1): Rating - 0/5",
+                    "date": 1417713722000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/9516",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pantheon",
+            "tags": [
+                "Paperback",
+                "Pantheon",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "037571457X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780375714573",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "9516",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Asterios Polyp",
+            "id": "4070095",
+            "author": "David Mazzucchelli",
+            "date_finished": 1385856000000,
+            "notes": [],
+            "date_started": 1390425664000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Asterios Polyp: Rating - 5/5",
+                    "date": 1385856000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4070095",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pantheon",
+            "tags": [
+                "Hardcover",
+                "Pantheon",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0307377326",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780307377326",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "4070095",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Limpopo Academy of Private Detection (No. 1 Ladies' Detective Agency #13)",
+            "id": "12405126",
+            "author": "Alexander McCall Smith",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1353727429000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12405126",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pantheon",
+            "tags": [
+                "Hardcover",
+                "Pantheon",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0307378403",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780307378408",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "12405126",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Manufacturing Consent: The Political Economy of the Mass Media",
+            "id": "12617",
+            "author": "Edward S. Herman, Noam Chomsky",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1351350765000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12617",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pantheon",
+            "tags": [
+                "Paperback",
+                "Pantheon",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0375714499",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780375714498",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "12617",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Persepolis: The Story of a Childhood (Persepolis, #1)",
+            "id": 9516,
+            "author": "Marjane Satrapi",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/9516",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pantheon",
+            "tags": [
+                "Paperback",
+                "Pantheon",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "037571457X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 9516,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Asterios Polyp",
+            "id": 4070095,
+            "author": "David Mazzucchelli",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4070095",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pantheon",
+            "tags": [
+                "Hardcover",
+                "Pantheon",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 4070095,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

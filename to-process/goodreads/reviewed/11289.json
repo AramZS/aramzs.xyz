@@ -1,0 +1,145 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1991496289,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 11289
+                },
+                "isbn": 553572989,
+                "isbn13": 9780553572988,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1259
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.fIBmBmMCE2i-UMzbQq_ppw",
+                "title": "The Rise of Endymion (Hyperion Cantos, #4)",
+                "title_without_series": "The Rise of Endymion",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329609799l/11289._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329609799l/11289._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/11289.The_Rise_of_Endymion",
+                "num_pages": 709,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Spectra",
+                "publication_day": 1,
+                "publication_year": 1998,
+                "publication_month": 7,
+                "average_rating": 4.18,
+                "ratings_count": 42544,
+                "description": "The time of reckoning has arrived. As a final genocidal Crusade threatens to enslave humanity forever, a new messiah has come of age. She is Aenea and she has undergone a strange apprenticeship to those known as the Others. Now her protector, Raul Endymion, one-time shepherd and convicted murderer, must help her deliver her startling message to her growing army of disciples. <br /><br />But first they must embark on a final spectacular mission to discover the underlying meaning of the universe itself. They have been followed on their journey by the mysterious Shrike--monster, angel, killing machine--who is about to reveal the long-held secret of its origin and purpose. And on the planet of Hyperion, where the story first began, the final revelation will be delivered--an apocalyptic message that unlocks the secrets of existence and the fate of humankind in the galaxy.",
+                "authors": {
+                    "author": {
+                        "id": 2687,
+                        "name": "Dan Simmons",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1427999015p5/2687.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1427999015p2/2687.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2687.Dan_Simmons",
+                        "average_rating": 4.08,
+                        "ratings_count": 575648,
+                        "text_reviews_count": 32188
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 13799,
+                    "uri": "kca://work/amzn1.gr.work.v1.TqonGsg1JMdK9WIAVwianQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1894285731
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Jun 27 05:28:38 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1837300207
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri May 12 15:25:29 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1828108848
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri May 05 04:18:51 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 3,
+            "votes": 1,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri May 12 15:25:29 -0700 2017",
+            "read_at": "Thu May 18 07:27:03 -0700 2017",
+            "date_added": "Fri May 05 04:18:51 -0700 2017",
+            "date_updated": "Tue Jun 27 05:28:51 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1991496289",
+            "link": "https://www.goodreads.com/review/show/1991496289",
+            "owned": 0
+        }
+    }
+}

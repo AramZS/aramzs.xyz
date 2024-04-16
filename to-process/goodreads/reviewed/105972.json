@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 535697675,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 105972
+                },
+                "isbn": 785124403,
+                "isbn13": 9780785124405,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 19
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ppbwywPNk-Onzv4J-MICvw",
+                "title": "Powers: Definitive Collection, Vol. 2",
+                "title_without_series": "Powers: Definitive Collection, Vol. 2",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/105972.Powers",
+                "num_pages": 480,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 4,
+                "publication_year": 2009,
+                "publication_month": 2,
+                "average_rating": 4.31,
+                "ratings_count": 540,
+                "description": "Following hot on the heels of the first-ever Powers hardcover, it's a hardcover collection of the entire second year of Powers in chronological order! These epic Powers stories are presented in order of publication - remastered, redesigned and reformatted! Also featuring all the Powers bonus features you've come to know and love: sketchwork, scripts, interviews, galleries, original designs and another Powers Best of the Letter Column, Year Two! This is the most celebrated year of the award-winning title! A must-have for your comic library! Collects Powers (Vol. 1) #12-24, Annual #1.",
+                "authors": {
+                    "author": {
+                        "id": 12424,
+                        "name": "Brian Michael Bendis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1239763230p5/12424.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1239763230p2/12424.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12424.Brian_Michael_Bendis",
+                        "average_rating": 3.92,
+                        "ratings_count": 493910,
+                        "text_reviews_count": 30779
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 102153,
+                    "uri": "kca://work/amzn1.gr.work.v1.OPvJvT8MZY5LbJKTouDUWg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051890048
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:41:52 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813202550,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Feb 01 00:00:00 -0800 2013",
+            "date_added": "Wed Feb 13 18:13:44 -0800 2013",
+            "date_updated": "Mon Oct 23 16:41:52 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/535697675",
+            "link": "https://www.goodreads.com/review/show/535697675",
+            "owned": 0
+        }
+    }
+}

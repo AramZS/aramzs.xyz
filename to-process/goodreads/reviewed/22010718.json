@@ -1,0 +1,149 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749130961,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22010718
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 146
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.poti_16lKROB1-MzSdzkKQ",
+                "title": "The Peripheral",
+                "title_without_series": "The Peripheral",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408564231l/22010718._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408564231l/22010718._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22010718-the-peripheral",
+                "num_pages": 496,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": 28,
+                "publication_year": 2014,
+                "publication_month": 10,
+                "average_rating": 3.95,
+                "ratings_count": 17313,
+                "description": "<b>William Gibson returns with his first novel since 2010’s<i> New York Times</i>–bestselling <i>Zero History</i>.</b><br /><br /> <br /> Where Flynne and her brother, Burton, live, jobs outside the drug business are rare. Fortunately, Burton has his veteran’s benefits, for neural damage he suffered from implants during his time in the USMC’s elite Haptic Recon force. Then one night Burton has to go out, but there’s a job he’s supposed to do—a job Flynne didn’t know he had. Beta-testing part of a new game, he tells her. The job seems to be simple: work a perimeter around the image of a tower building. Little buglike things turn up. He’s supposed to get in their way, edge them back. That’s all there is to it. He’s offering Flynne a good price to take over for him. What she sees, though, isn’t what Burton told her to expect. It might be a game, but it might also be murder. <br />",
+                "authors": {
+                    "author": {
+                        "id": 9226,
+                        "name": "William Gibson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1373826214p5/9226.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1373826214p2/9226.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9226.William_Gibson",
+                        "average_rating": 3.89,
+                        "ratings_count": 578194,
+                        "text_reviews_count": 24344
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 40167043,
+                    "uri": "kca://work/amzn1.gr.work.v1.fx7dtgzfhysgdGnkAnuD1g"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1778256323
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Mar 30 07:48:41 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1778256316
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Mar 30 07:48:40 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1498304686
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Sep 05 07:44:15 -0700 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Sep 05 07:44:15 -0700 2016",
+            "read_at": "Thu Mar 30 07:48:41 -0700 2017",
+            "date_added": "Mon Sep 05 07:44:15 -0700 2016",
+            "date_updated": "Thu Mar 30 07:48:40 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749130961",
+            "link": "https://www.goodreads.com/review/show/1749130961",
+            "owned": 0
+        }
+    }
+}

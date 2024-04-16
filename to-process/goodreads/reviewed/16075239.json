@@ -1,0 +1,117 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 442766891,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16075239
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9780983792840,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 15
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.VCB_oBvRJKROy3H5L_8R3A",
+                "title": "Modern Manners for Your Inner Demons",
+                "title_without_series": "Modern Manners for Your Inner Demons",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349709232l/16075239._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349709232l/16075239._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16075239-modern-manners-for-your-inner-demons",
+                "num_pages": 88,
+                "format": "Paperback",
+                "edition_information": "First",
+                "publisher": "Matter Press",
+                "publication_day": 8,
+                "publication_year": 2012,
+                "publication_month": 10,
+                "average_rating": 4.08,
+                "ratings_count": 74,
+                "description": "Tara Laskowski explains, “There are many etiquette books from Emily Post and others that tell you what to do when attending a wedding, setting the table, asking for a promotion, introducing yourself at a party. What I became interested in is the darker side of etiquette—the way people conduct themselves in situations that Emily Post would never write about. This book started with the story ‘The Etiquette of Adultery.’ I loved that title and all that it suggested. Was there an etiquette, a set of unwritten rules, for a situation that seemed to break all the rules of a ‘decent’ society? From there, the collection grew—exploring the etiquette of obesity, dementia, infertility, arson, etc. These stories were really fun to write for two reasons. One, they allowed me to experiment with form, writing in small sections, chapters, definitions and other pieces of a suggested larger text. And two, I loved seeing how the characters emerged from each story. Each person in these ten stories ends up writing their own codes of etiquette, which I think is actually true in life. We all have our rules, our moral codes, our lines that we won’t cross. It’s when we cross those lines that things get really interesting.”",
+                "authors": {
+                    "author": {
+                        "id": 6551449,
+                        "name": "Tara Laskowski",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1554823263p5/6551449.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1554823263p2/6551449.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6551449.Tara_Laskowski",
+                        "average_rating": 3.81,
+                        "ratings_count": 2002,
+                        "text_reviews_count": 538
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 21870356,
+                    "uri": "kca://work/amzn1.gr.work.v1.9M4Ox4KCTp3I7_7_nmkp0A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 26664028
+                    },
+                    "old_status": "to-read",
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun May 19 19:46:01 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat May 18 00:00:00 -0700 2013",
+            "read_at": "Sun May 19 00:00:00 -0700 2013",
+            "date_added": "Sat Oct 27 07:55:17 -0700 2012",
+            "date_updated": "Sun May 19 19:46:41 -0700 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/442766891",
+            "link": "https://www.goodreads.com/review/show/442766891",
+            "owned": 1
+        }
+    }
+}

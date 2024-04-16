@@ -1,0 +1,43 @@
+{# "Media Items List check" | inspect #}
+
+{% set fullArray = [] %}
+{% for movie in movies %}
+	{% set fullArray = (fullArray.push(movie), fullArray) %}
+{% endfor %}
+{% for media in list.items %}
+
+	{% set fullArray = (fullArray.push(media), fullArray) %}
+{% endfor %}
+
+<section data-source="src/_includes/layouts/list-tv-film.njk">
+    <ul>
+        {%- for item in fullArray | mixedDataSortWatchedMedia -%}
+            {% if item.rewatch == false %}
+                <li>
+                    <strong>
+                       {% if item.page and item.page.url %}<a href="{{item.page.url}}">{% endif %}
+                      {{ item.title | trim }}{% if item.page and item.page.url %}</a>{% endif %} 
+                      ({{ item.year }})
+                    </strong>
+                    <time>{{ item.watchedDate | dateToFormat("dd LLL yyyy") }}</time>
+                    {% if item.rating %}
+                        <span>{{ item.rating | ratingToStars }}</span>
+                    {% endif %}
+                    {% if item.review %}
+                        <br /><small><em><p>{{ item.review }}</p></em></small>
+                    {% endif %}
+					{% if item.content %}
+                        <small><em>{{ item.content | safe }}</em></small>
+                    {% endif %}
+                </li>
+            {% endif %}
+        {%- endfor -%}
+    </ul>
+</section>
+
+
+<hr/>
+
+<section>
+	<p><small>This list is heavily seeded from an export of my <a href="https://letterboxd.com/aramzs/" target="_blank">Letterboxd account</a>. It's layout is inspired from <a href="https://www.higby.io/library/movies/" title="Visit Branden Higby's movies library">Branden Higby's movies library</a> in their digital garden.</small></p>
+</section>

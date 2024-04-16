@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 473065882,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7776019
+                },
+                "isbn": 1401228739,
+                "isbn13": 9781401228736,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 444
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.QcafAhSJUXb6sXeKuJZTug",
+                "title": "The Unwritten, Vol. 2: Inside Man",
+                "title_without_series": "The Unwritten, Vol. 2: Inside Man",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327894566l/7776019._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327894566l/7776019._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7776019-the-unwritten-vol-2",
+                "num_pages": 168,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 17,
+                "publication_year": 2010,
+                "publication_month": 8,
+                "average_rating": 3.88,
+                "ratings_count": 11036,
+                "description": "In this volume, Tom arrives at Donostia prison in Southern France and falls into the orbit of another story: The Song of Roland. Unfortunately for Tom, it's a story that ends with a massacre. .Tom discovers the true meaning of \"out of the frying pan\" after his escape from Donostia jail takes him to Stuttgart in 1940, a ghost city inhabited by the master liar of the Third Reich, Josef Goebbels, and a tortured soul who's crying out for rescue - or death...<br /><br /><b>Collecting</b>: <i>The Unwritten</i> 6-12",
+                "authors": {
+                    "author": {
+                        "id": 9018,
+                        "name": "Mike Carey",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334894864p5/9018.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334894864p2/9018.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9018.Mike_Carey",
+                        "average_rating": 4.03,
+                        "ratings_count": 293647,
+                        "text_reviews_count": 12863
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 10683383,
+                    "uri": "kca://work/amzn1.gr.work.v1.o5m1UHPDTrxTC1LQRqT1Lg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051896087
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:47:42 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 316230171,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813207061,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Dec 08 00:00:00 -0800 2012",
+            "read_at": "Sat Dec 08 11:56:00 -0800 2012",
+            "date_added": "Sat Dec 08 11:51:17 -0800 2012",
+            "date_updated": "Mon Oct 23 16:47:42 -0700 2017",
+            "read_count": 1,
+            "body": "Vol 2 picks up where Vol 1 left off and accelerates. Everything continues, only more so and the prose moves to greater heights, with a number of the lines seeming almost axiomatic despite their originality. <br /><br />Few comics can accomplish quotability, as the words are so tightly tied to the images, but without losing the connection, Vol 2 can count itself among the few.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/473065882",
+            "link": "https://www.goodreads.com/review/show/473065882",
+            "owned": 1
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528637283,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12609433
+                },
+                "isbn": 1400069289,
+                "isbn13": 9781400069286,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 13560
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.REBUj2CAxWQRRLVC3k8QKw",
+                "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+                "title_without_series": "The Power of Habit: Why We Do What We Do in Life and Business",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12609433-the-power-of-habit",
+                "num_pages": 375,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Random House",
+                "publication_day": 28,
+                "publication_year": 2012,
+                "publication_month": 2,
+                "average_rating": 4.1,
+                "ratings_count": 313238,
+                "description": "A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed.<br /><br />Marketers at Procter &amp; Gamble study videos of people making their beds. They are desperately trying to figure out how to sell a new product called Febreze, on track to be one of the biggest flops in company history. Suddenly, one of them detects a nearly imperceptible pattern—and with a slight shift in advertising, Febreze goes on to earn a billion dollars a year.<br /><br />An untested CEO takes over one of the largest companies in America. His first order of business is attacking a single pattern among his employees—how they approach worker safety—and soon the firm, Alcoa, becomes the top performer in the Dow Jones.<br /><br />What do all these people have in common? They achieved success by focusing on the patterns that shape every aspect of our lives. <br /><br />They succeeded by transforming habits.<br /><br />In <i>The Power of Habit, </i>award-winning <i>New York Times</i> business reporter Charles Duhigg takes us to the thrilling edge of scientific discoveries that explain why habits exist and how they can be changed. With penetrating intelligence and an ability to distill vast amounts of information into engrossing narratives, Duhigg brings to life a whole new understanding of human nature and its potential for transformation. <br /><br />Along the way we learn why some people and companies struggle to change, despite years of trying, while others seem to remake themselves overnight. We visit laboratories where neuroscientists explore how habits work and where, exactly, they reside in our brains. We discover how the right habits were crucial to the success of Olympic swimmer Michael Phelps, Starbucks CEO Howard Schultz, and civil-rights hero Martin Luther King, Jr. We go inside Procter &amp; Gamble, Target superstores, Rick Warren’s Saddleback Church, NFL locker rooms, and the nation’s largest hospitals and see how implementing so-called keystone habits can earn billions and mean the difference between failure and success, life and death.<br /><br />At its core, <i>The Power of Habit</i> contains an exhilarating argument: The key to exercising regularly, losing weight, raising exceptional children, becoming more productive, building revolutionary companies and social movements, and achieving success is understanding how habits work. <br /><br />Habits aren’t destiny. As Charles Duhigg shows, by harnessing this new science, we can transform our businesses, our communities, and our lives.",
+                "authors": {
+                    "author": {
+                        "id": 5201530,
+                        "name": "Charles Duhigg",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1349273209p5/5201530.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1349273209p2/5201530.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5201530.Charles_Duhigg",
+                        "average_rating": 4.09,
+                        "ratings_count": 337914,
+                        "text_reviews_count": 18049
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 17624817,
+                    "uri": "kca://work/amzn1.gr.work.v1.gRJ7ixmb9Hyc0lfIw7m6og"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 358270646,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Feb 06 21:42:59 -0800 2013",
+            "date_updated": "Wed Feb 06 21:42:59 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528637283",
+            "link": "https://www.goodreads.com/review/show/528637283",
+            "owned": 0
+        }
+    }
+}

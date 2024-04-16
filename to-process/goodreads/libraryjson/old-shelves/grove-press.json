@@ -1,0 +1,194 @@
+{
+    "name": "Grove Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Alif the Unseen",
+            "id": "13239822",
+            "author": "G. Willow Wilson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1515023016000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Alif the Unseen: Rating - 5/5",
+                    "date": 1515023016000,
+                    "type": "short",
+                    "content": "First book finished in 2018 was a 5 star read. Really really good. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13239822",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Grove Press",
+            "tags": [
+                "Hardcover",
+                "Grove Press",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0802120202",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780802120205",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "13239822",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Lone Ranger and Tonto Fistfight in Heaven",
+            "id": "52873",
+            "author": "Sherman Alexie",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1476626565000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/52873",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Grove Press",
+            "tags": [
+                "Paperback",
+                "Grove Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0802141676",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780802141675",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "52873",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Ficciones",
+            "id": "25615886",
+            "author": "Jorge Luis Borges, Anthony Kerrigan, Anthony Bonner",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1433543315000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25615886",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Grove Press",
+            "tags": [
+                "Kindle Edition",
+                "Grove Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25615886",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Alif the Unseen",
+            "id": 13239822,
+            "author": "G. Willow Wilson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13239822",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Grove Press",
+            "tags": [
+                "Hardcover",
+                "Grove Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 13239822,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

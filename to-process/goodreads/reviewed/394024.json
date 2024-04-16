@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24672222,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 394024
+                },
+                "isbn": 812576357,
+                "isbn13": 9780812576351,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 85
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Lp9OnEYF5KmUoOLW8tQ40g",
+                "title": "Ventus",
+                "title_without_series": "Ventus",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312037639l/394024._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312037639l/394024._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/394024.Ventus",
+                "num_pages": 672,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Tor Science Fiction",
+                "publication_day": 19,
+                "publication_year": 2001,
+                "publication_month": 11,
+                "average_rating": 3.94,
+                "ratings_count": 1083,
+                "description": "After terrifying and titanic struggles, a godlike artificial intelligence gone rogue has finally been destroyed. But not before it scattered seeds of itself throughout the galaxy.<br /><br />On the terraformed planet Ventus, benign AIs -- the godlike Winds – which shaped and guarded its transformation, have fallen silent. Calandria May is sent down to the surface where she quickly finds that an extension of the rogue AI, a cyborg called Armiger, has planted a strange and powerful device in a young man named Jordan Mason. Jordan has visions. He is desperate to find their meaning and source -- desperate enough to risk awakening the Winds, perhaps invoking the power that can destroy technology to protect the environment they created. <br /><br />Ventus is an epic journey across a fascinating planet with two big mysteries -- why have the Winds fallen silent? And is Armiger, or Jordan, carrying a Resurrection Seed?<br />",
+                "authors": {
+                    "author": {
+                        "id": 19169,
+                        "name": "Karl Schroeder",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1378361478p5/19169.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1378361478p2/19169.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/19169.Karl_Schroeder",
+                        "average_rating": 3.78,
+                        "ratings_count": 20218,
+                        "text_reviews_count": 2438
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 574928,
+                    "uri": "kca://work/amzn1.gr.work.v1.KneeGzKJ1EROZ30YjxPcEQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 358542858,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:30:09 -0700 2008",
+            "date_updated": "Mon Jun 16 19:30:09 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24672222",
+            "link": "https://www.goodreads.com/review/show/24672222",
+            "owned": 0
+        }
+    }
+}

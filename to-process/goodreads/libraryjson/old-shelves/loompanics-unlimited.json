@@ -1,0 +1,104 @@
+{
+    "name": "Loompanics Unlimited",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Principia Discordia ● Or ● How I Found Goddess and What I Did to Her When I Found Her: The Magnum Opiate of Malaclypse the Younger",
+            "id": "89937",
+            "author": "Gregory  Hill",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1322507570000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Principia Discordia ● Or ● How I Found Goddess and What I Did to Her When I Found Her: The Magnum Opiate of Malaclypse the Younger: Rating - 4/5",
+                    "date": 1322507570000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/89937",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Loompanics Unlimited",
+            "tags": [
+                "Paperback",
+                "Loompanics Unlimited",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1559500409",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781559500401",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "89937",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Principia Discordia ● Or ● How I Found Goddess and What I Did to Her When I Found Her: The Magnum Opiate of Malaclypse the Younger",
+            "id": 89937,
+            "author": "Gregory  Hill",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/89937",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Loompanics Unlimited",
+            "tags": [
+                "Paperback",
+                "Loompanics Unlimited",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 89937,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

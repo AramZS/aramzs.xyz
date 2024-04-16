@@ -1,0 +1,202 @@
+{
+    "name": "Night Shade Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Windup Girl",
+            "id": "6597651",
+            "author": "Paolo Bacigalupi",
+            "date_finished": 1268784000000,
+            "notes": [],
+            "date_started": 1417711368000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Windup Girl: Rating - 5/5",
+                    "date": 1268784000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6597651",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Night Shade Books",
+            "tags": [
+                "Hardcover",
+                "Night Shade Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1597801577",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781597801577",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6597651",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Pump Six and Other Stories",
+            "id": "2819368",
+            "author": "Paolo Bacigalupi",
+            "date_finished": 1356998400000,
+            "notes": [],
+            "date_started": 1390425325000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Pump Six and Other Stories: Rating - 4/5",
+                    "date": 1356998400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2819368",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Night Shade Books",
+            "tags": [
+                "Hardcover",
+                "Night Shade Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "159780133X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781597801331",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "2819368",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Pump Six and Other Stories",
+            "id": 2819368,
+            "author": "Paolo Bacigalupi",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2819368",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Night Shade Books",
+            "tags": [
+                "Hardcover",
+                "Night Shade Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "159780133X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 2819368,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Windup Girl",
+            "id": 6597651,
+            "author": "Paolo Bacigalupi",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6597651",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Night Shade Books",
+            "tags": [
+                "Hardcover",
+                "Night Shade Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 6597651,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24670748,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 11734
+                },
+                "isbn": 99282194,
+                "isbn13": 9780099282198,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1431
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.jUWx6OCGSwX6qUY9JhdbYA",
+                "title": "The Human Stain (The American Trilogy, #3)",
+                "title_without_series": "The Human Stain",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/11734.The_Human_Stain",
+                "num_pages": 361,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Vintage",
+                "publication_day": 5,
+                "publication_year": 2001,
+                "publication_month": 4,
+                "average_rating": 3.88,
+                "ratings_count": 32651,
+                "description": "It is 1998, the year in which America is whipped into a frenzy of prurience by the impeachment of a president, and in a small New England town an aging Classics professor, Coleman Silk, is forced to retire when his colleagues decree that he is a racist. The charge is a lie, but the real truth about Silk would astonish even his most virulent accuser.<br /><br />Coleman Silk has a secret, one which has been kept for fifty years from his wife, his four children, his colleagues, and his friends, including the writer Nathan Zuckerman. It is Zuckerman who stumbles upon Silk's secret and sets out to reconstruct the unknown biography of this eminent, upright man, esteemed as an educator for nearly all his life, and to understand how this ingeniously contrived life came unraveled. And to understand also how Silk's astonishing private history is, in the words of the Wall Street Journal, \"magnificently\" interwoven with \"the larger public history of modern America.\"",
+                "authors": {
+                    "author": {
+                        "id": 463,
+                        "name": "Philip Roth",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1399886959p5/463.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1399886959p2/463.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/463.Philip_Roth",
+                        "average_rating": 3.81,
+                        "ratings_count": 384388,
+                        "text_reviews_count": 27912
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 1118624,
+                    "uri": "kca://work/amzn1.gr.work.v1.-V4eLHllliG_2xowrzyfwg"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847055376,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:14:47 -0700 2008",
+            "date_updated": "Thu Dec 04 08:43:35 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24670748",
+            "link": "https://www.goodreads.com/review/show/24670748",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 162066516,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8935689
+                },
+                "isbn": 1857231384,
+                "isbn13": 9781857231380,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3117
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.oI_Q3rF2s7JStmEN28k5sw",
+                "title": "Consider Phlebas (Culture #1)",
+                "title_without_series": "Consider Phlebas",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327951890l/8935689._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327951890l/8935689._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8935689-consider-phlebas",
+                "num_pages": 471,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 14,
+                "publication_year": 1988,
+                "publication_month": 4,
+                "average_rating": 3.86,
+                "ratings_count": 71186,
+                "description": "The war raged across the galaxy. Billions had died, billions more were doomed. Moons, planets, the very stars themselves, faced destruction, cold-blooded, brutal, and worse, random. The Idirans fought for their Faith; the Culture for its moral right to exist. Principles were at stake. There could be no surrender.<br /><br />Within the cosmic conflict, an individual crusade. Deep within a fabled labyrinth on a barren world, a Planet of the Dead proscribed to mortals, lay a fugitive Mind. Both the Culture and the Idirans sought it. It was the fate of Horza, the Changer, and his motley crew of unpredictable mercenaries, human and machine, actually to find it, and with it their own destruction.",
+                "authors": {
+                    "author": {
+                        "id": 5807106,
+                        "name": "Iain M. Banks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p5/5807106.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p2/5807106.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks",
+                        "average_rating": 4.08,
+                        "ratings_count": 349700,
+                        "text_reviews_count": 15763
+                    }
+                },
+                "published": 1988,
+                "work": {
+                    "id": 14366,
+                    "uri": "kca://work/amzn1.gr.work.v1.1D1mRnp1N2pua4sBTB9sVA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Apr 19 06:32:49 -0700 2011",
+            "date_updated": "Sat Jun 25 19:40:02 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/162066516",
+            "link": "https://www.goodreads.com/review/show/162066516",
+            "owned": 0
+        }
+    }
+}

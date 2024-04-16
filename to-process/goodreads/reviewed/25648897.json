@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749128893,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25648897
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 367
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.e4HixQ_F0XmPUsafSgmnQg",
+                "title": "Chains of Command (Frontlines, #4)",
+                "title_without_series": "Chains of Command",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457383836l/25648897._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457383836l/25648897._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25648897-chains-of-command",
+                "num_pages": 386,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.26,
+                "ratings_count": 9345,
+                "description": "The assault on Earth was thwarted by the destruction of the aliens’ seed ship, but with Mars still under Lanky control, survivors work frantically to rebuild fighting capacity and shore up planetary defenses. Platoon sergeant Andrew Grayson must crash-course train new volunteers—all while dulling his searing memories of battle with alcohol and meds.<br /><br />Knowing Earth’s uneasy respite won’t last, the North American Commonwealth and its Sino-Russian allies hurtle toward two dangerous options: hit the Lanky forces on Mars or go after deserters who stole a fleet of invaluable warships critical to winning the war. Assigned to a small special ops recon mission to scout out the renegades’ stronghold on a distant moon, Grayson and his wife, dropship pilot Halley, again find themselves headed for the crucible of combat—and a shattering new campaign in the war for humanity’s future.",
+                "authors": {
+                    "author": {
+                        "id": 6606349,
+                        "name": "Marko Kloos",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1565448645p5/6606349.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1565448645p2/6606349.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6606349.Marko_Kloos",
+                        "average_rating": 4.11,
+                        "ratings_count": 82089,
+                        "text_reviews_count": 4445
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 45468301,
+                    "uri": "kca://work/amzn1.gr.work.v1.7DHfAv6Fft7fd1LadaDG9A"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1684575754
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Jan 26 11:27:37 -0800 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1498301954
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Sep 05 07:41:53 -0700 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:41:52 -0700 2016",
+            "date_updated": "Thu Jan 26 11:27:44 -0800 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749128893",
+            "link": "https://www.goodreads.com/review/show/1749128893",
+            "owned": 0
+        }
+    }
+}

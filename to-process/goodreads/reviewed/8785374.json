@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 724623862,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8785374
+                },
+                "isbn": "038561926X",
+                "isbn13": 9780385619264,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2228
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.iSzlBYBgb0-JPamIIbA5-w",
+                "title": "Snuff (Discworld, #39; City Watch #8)",
+                "title_without_series": "Snuff",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302694636l/8785374._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302694636l/8785374._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8785374-snuff",
+                "num_pages": 378,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Doubleday UK",
+                "publication_day": 13,
+                "publication_year": 2011,
+                "publication_month": 10,
+                "average_rating": 4.16,
+                "ratings_count": 46152,
+                "description": "According to the writer of the best-selling crime novel ever to have been published in the city of Ankh-Morpork, it is a truth universally acknowledged that a policeman taking a holiday would barely have had time to open his suitcase before he finds his first corpse.<br /><br />And Commander Sam Vimes of the Ankh-Morpork City Watch is on holiday in the pleasant and innocent countryside, but not for him a mere body in the wardrobe. There are many, many bodies and an ancient crime more terrible than murder.<br /><br />He is out of his jurisdiction, out of his depth, out of bacon sandwiches, and occasionally snookered and out of his mind, but never out of guile. Where there is a crime there must be a finding, there must be a chase and there must be a punishment. <br /><br />They say that in the end all sins are forgiven.<br /><br />But not quite all...",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 13659124,
+                    "uri": "kca://work/amzn1.gr.work.v1.6qmTxr0q54D2sH3W7beTFQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 159410679
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Sep 20 23:26:32 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Sep 01 00:00:00 -0700 2013",
+            "date_added": "Fri Sep 20 23:26:32 -0700 2013",
+            "date_updated": "Wed Jan 22 13:21:22 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/724623862",
+            "link": "https://www.goodreads.com/review/show/724623862",
+            "owned": 0
+        }
+    }
+}

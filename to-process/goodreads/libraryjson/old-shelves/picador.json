@@ -1,0 +1,51 @@
+{
+    "name": "Picador",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Close to the Machine: Technophilia and Its Discontents",
+            "id": "18886521",
+            "author": "Ellen Ullman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1507918579000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18886521",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Picador",
+            "tags": [
+                "Kindle Edition",
+                "Picador",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18886521",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 57434132,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 129124
+                },
+                "isbn": 1561841625,
+                "isbn13": 9781561841622,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 22
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.E07zrh7TfJWRtRJ8vYaavQ",
+                "title": "The Earth Will Shake: The History of the Early Illuminati",
+                "title_without_series": "The Earth Will Shake: The History of the Early Illuminati",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434162805l/129124._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434162805l/129124._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/129124.The_Earth_Will_Shake",
+                "num_pages": 376,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "New Falcon Publications",
+                "publication_day": {},
+                "publication_year": 2003,
+                "publication_month": {},
+                "average_rating": 4.08,
+                "ratings_count": 1001,
+                "description": "They have been with us all through history: The \"Invisible College\" of wisdom, and their adversaries—the destroyers—who rise from the flames to burn again. The history of the world is their story: a conspiracy as vast and all-encompassing as the riddle of time itself.<br /><br />In Naples, Italy, in 1764, a young aristocrat is about to stumble onto one piece of the great pattern. Through a heartless murder and his passion for the beautiful daughter of his enemy, young Sigismundo Celine uncovers the mystery of the Rossi brigade, former M.A.F.I.A. assassins, and the secret agenda of the dreaded Inquisition.<br /><br />In the wind of the raging social storm that will soon tear through Europe and America with the flame of revolution, Sigismundo begins his journey of discovery, joined by the boy Mozart, Dr. Frankenstein, Casanova the spy, lover and magician...and a mysterious violet-eyed assassin who calls him \"brother.\" Join him. The journey has just begun.",
+                "authors": {
+                    "author": {
+                        "id": 2918,
+                        "name": "Robert Anton Wilson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1196008603p5/2918.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1196008603p2/2918.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2918.Robert_Anton_Wilson",
+                        "average_rating": 4.05,
+                        "ratings_count": 53789,
+                        "text_reviews_count": 2432
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 2416118,
+                    "uri": "kca://work/amzn1.gr.work.v1.BBR27uHbdlhwuV2WHhD5_Q"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 36454388,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue May 26 18:14:35 -0700 2009",
+            "date_added": "Tue May 26 18:13:13 -0700 2009",
+            "date_updated": "Wed Sep 09 09:32:24 -0700 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/57434132",
+            "link": "https://www.goodreads.com/review/show/57434132",
+            "owned": 0
+        }
+    }
+}

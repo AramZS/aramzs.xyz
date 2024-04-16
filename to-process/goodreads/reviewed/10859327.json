@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2229991781,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 10859327
+                },
+                "isbn": "038552384X",
+                "isbn13": 9780385523844,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 64
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.BFib3d6ZKN4OWf-8XPeVdA",
+                "title": "Money and Power: How Goldman Sachs Came to Rule the World",
+                "title_without_series": "Money and Power: How Goldman Sachs Came to Rule the World",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320518705l/10859327._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320518705l/10859327._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/10859327-money-and-power",
+                "num_pages": 672,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Doubleday",
+                "publication_day": 12,
+                "publication_year": 2011,
+                "publication_month": 4,
+                "average_rating": 3.84,
+                "ratings_count": 1398,
+                "description": "<b>From the bestselling, prize-winning author of THE LAST TYCOONS and HOUSE OF CARDS, a revelatory history of Goldman Sachs, the most dominant, feared, and controversial investment bank in the world</b> <br /> <br />For much of its storied 142-year history, Goldman Sachs has projected an image of being better than its competitors--smarter, more collegial, more ethical, and far more profitable. The firm--buttressed by the most aggressive and sophisticated p.r. machine in the financial industry--often boasts of \"The Goldman Way,\" a business model predicated on hiring the most talented people, indoctrinating them in a corporate culture where partners stifle their egos for the greater good, and honoring the \"14 Principles,\" the first of which is \"Our clients' interests always come first.\"<br /> <br />But there is another way of viewing Goldman--a secretive money-making machine that has straddled the line between conflict-of-interest and legitimate deal-making for decades; a firm that has exerted undue influence over government since the early part of the 20th century; a company composed of \"cyborgs\" who are kept in line by an internal \"reputational risk department\" staffed by former CIA operatives and private investigators; a workplace rife with brutal power struggles; a Wall Street titan whose clever bet against the mortgage market in 2007--a bet not revealed to its clients--may have made the financial ruin of the Great Recession worse.<br /> <br />As William D. Cohan shows in his riveting chronicle of Goldman's rise to the summit of world capitalism, the firm has shown a remarkable ability to weather financial crises, congressional, federal and SEC investigations, and numerous lawsuits, all with its reputation and its enormous profits intact. By reading thousands of pages of government documents, court cases, SEC filings, Freedom of Information Act papers and other sources, and conducting over 100 interviews, including interviews with clients, competitors, regulators, current and former Goldman employees (including the six living men who have run Goldman), Cohan has constructed a vivid narrative that looks behind the veil of secrecy to reveal <i>how </i>Goldman has become so profitable, and so powerful.<br /> <br />Part of the answer is the firm's assiduous cultivation of people in power--dating back to 1913, when Henry Goldman advised the government on how the new Federal Reserve, designed to oversee Wall Street, should be constituted. Sidney Weinberg, who ran the firm for four decades, advised presidents from Roosevelt to Kennedy and was nicknamed \"The Politician\" for his behind-the-scenes friendships with government officials.  Goldman executives ran fundraising efforts for Nixon, Reagan, Clinton and George W. Bush.  The firm showered lucrative consulting or speaking fees on figures like Henry Kissinger and Lawrence Summers. Famously, and fatefully, two Goldman leaders-- Robert Rubin and Henry Paulson--became Secretaries of the Treasury, where their actions both before and during the financial crisis of 2008 became the stuff of controversy and conspiracy theories. <br /> <br />Another major strand in the firm's DNA is its eagerness to deal on both sides of a transaction, eliding questions of conflict of interest by the mere assertion of their innate honesty and nobility, a refrain repeated many times in its history, most notoriously by current Goldman CEO Lloyd Blankfein's jesting assertion that he was doing \"God's work.\"<br /> <br />As Michiko Kakutani's <i>New York Times </i>review of HOUSE OF CARDS said, \"Cohan writes with an insider's knowledge of the workings of Wall Street, a reporter's investigative instincts and a natural storyteller's narrative command.\" In MONEY &amp; POWER, Cohan has marshaled all these gifts in a powerful and definitive account of an institution whose public claims of virtue look very much like ruthlessness when exposed to the light of day.<br /> <br /> <br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 182504,
+                        "name": "William D. Cohan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/182504.William_D_Cohan",
+                        "average_rating": 3.87,
+                        "ratings_count": 9773,
+                        "text_reviews_count": 563
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 15774274,
+                    "uri": "kca://work/amzn1.gr.work.v1.UOAKn78XUo63FZNFOlSuYw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2139551734
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 28 12:08:05 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1879168567,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 28 12:08:05 -0800 2017",
+            "date_updated": "Thu Dec 28 12:08:05 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2229991781",
+            "link": "https://www.goodreads.com/review/show/2229991781",
+            "owned": 0
+        }
+    }
+}

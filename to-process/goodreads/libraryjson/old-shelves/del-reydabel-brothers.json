@@ -1,0 +1,202 @@
+{
+    "name": "Del Rey/Dabel Brothers",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Jim Butcher's The Dresden Files: Storm Front, Volume 1: The Gathering Storm",
+            "id": "4961959",
+            "author": "Jim Butcher, Mark Powers, Ardian Syaf",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508801483000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Jim Butcher's The Dresden Files: Storm Front, Volume 1: The Gathering Storm: Rating - 4/5",
+                    "date": 1508801483000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4961959",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey/Dabel Brothers",
+            "tags": [
+                "Hardcover",
+                "Del Rey/Dabel Brothers",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0345506391",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780345506399",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "4961959",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Welcome to the Jungle",
+            "id": "2637138",
+            "author": "Jim Butcher, Ardian Syaf",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386953260000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Welcome to the Jungle: Rating - 4/5",
+                    "date": 1386953260000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2637138",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey/Dabel Brothers",
+            "tags": [
+                "Hardcover",
+                "Del Rey/Dabel Brothers",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0345507460",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780345507464",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "2637138",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Jim Butcher's The Dresden Files: Storm Front, Volume 1: The Gathering Storm",
+            "id": 4961959,
+            "author": "Jim Butcher",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4961959",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey/Dabel Brothers",
+            "tags": [
+                "Hardcover",
+                "Del Rey/Dabel Brothers",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 4961959,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Welcome to the Jungle",
+            "id": 2637138,
+            "author": "Jim Butcher",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2637138",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey/Dabel Brothers",
+            "tags": [
+                "Hardcover",
+                "Del Rey/Dabel Brothers",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 2637138,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

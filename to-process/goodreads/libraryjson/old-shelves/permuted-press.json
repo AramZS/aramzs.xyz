@@ -1,0 +1,104 @@
+{
+    "name": "Permuted Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "John Dies at the End (John Dies at the End, #1)",
+            "id": "1857440",
+            "author": "David  Wong",
+            "date_finished": 1357171200000,
+            "notes": [],
+            "date_started": 1357234007000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of John Dies at the End (John Dies at the End, #1): Rating - 3/5",
+                    "date": 1357171200000,
+                    "type": "short",
+                    "content": "There are many reasons I shouldn't have liked this book. I liked it anyway. That's pretty much all that can be said. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1857440",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Permuted Press",
+            "tags": [
+                "Paperback",
+                "Permuted Press",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0978970764",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780978970765",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "1857440",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "John Dies at the End (John Dies at the End, #1)",
+            "id": 1857440,
+            "author": "David  Wong",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1857440",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Permuted Press",
+            "tags": [
+                "Paperback",
+                "Permuted Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 1857440,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

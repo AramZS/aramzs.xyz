@@ -1,0 +1,104 @@
+{
+    "name": "Pearson",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Elements of Style",
+            "id": "33514",
+            "author": "William Strunk Jr., E.B. White",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1455775340000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Elements of Style: Rating - 5/5",
+                    "date": 1455775340000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/33514",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pearson",
+            "tags": [
+                "Hardcover",
+                "Pearson",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0205313426",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780205313426",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "33514",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Elements of Style",
+            "id": 33514,
+            "author": "William Strunk Jr.",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/33514",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pearson",
+            "tags": [
+                "Hardcover",
+                "Pearson",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 33514,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

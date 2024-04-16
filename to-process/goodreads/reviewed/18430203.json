@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2054301249,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18430203
+                },
+                "isbn": 1606904388,
+                "isbn13": 9781606904381,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 252
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.P9CrdVMIA3pO_szL3k46Wg",
+                "title": "Jim Butcher's Dresden Files: Ghoul Goblin",
+                "title_without_series": "Jim Butcher's Dresden Files: Ghoul Goblin",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18430203-jim-butcher-s-dresden-files",
+                "num_pages": 152,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Dynamite Entertainment",
+                "publication_day": 17,
+                "publication_year": 2013,
+                "publication_month": 12,
+                "average_rating": 3.91,
+                "ratings_count": 2708,
+                "description": "Harry Dresden, a Chicago private investigator and wizard, heads to a small, isolated Missouri town terrorized by Nevernever monsters. The singularly unfortunate Talbot family has suffered a curse that has decimated their number for generations, and only our hero can save them... that is, if he can survive hostile lawmen, the dark secrets of townsfolk, an ancient guardian spirit, and two deadly carnivores! Can Dresden cleanse the Talbot bloodline of its curse without a blood sacrifice of his own?",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 26071782,
+                    "uri": "kca://work/amzn1.gr.work.v1.dD17BA61uG6fp-QdGqTogQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1910670155
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 09 07:19:41 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Jul 09 07:19:40 -0700 2017",
+            "date_updated": "Sun Jul 09 07:19:40 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2054301249",
+            "link": "https://www.goodreads.com/review/show/2054301249",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789417946,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17671903
+                },
+                "isbn": "140122976X",
+                "isbn13": 9781401229764,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 178
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.48HzOCcM2idXSlpjX5C72w",
+                "title": "The Unwritten: Tommy Taylor and the Ship That Sank Twice",
+                "title_without_series": "The Unwritten: Tommy Taylor and the Ship That Sank Twice",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375246809l/17671903._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375246809l/17671903._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17671903-the-unwritten",
+                "num_pages": 160,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Vertigo",
+                "publication_day": 18,
+                "publication_year": 2013,
+                "publication_month": 9,
+                "average_rating": 4.01,
+                "ratings_count": 1565,
+                "description": "This exciting, original graphic novel explores the world of the Tommy Taylor novels in a visceral and direct way and is a great entry point for new readers.<br /><br />Twenty-five years ago Tom’s father, Wilson Taylor, devised his subversive literary masterpiece. Now the blueprint of how a father gave his son vast power in order to accomplish a greater scheme is revealed. Partly told through Wilson’s own journal entries, juxtaposed with Tommy’s swashbuckling deep sea adventures with his trusty companions Peter and Sue, the story is at once a prequel and a parallel story to the ongoing series.",
+                "authors": {
+                    "author": {
+                        "id": 9018,
+                        "name": "Mike Carey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334894864p5/9018.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1334894864p2/9018.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9018.Mike_Carey",
+                        "average_rating": 4.03,
+                        "ratings_count": 293647,
+                        "text_reviews_count": 12863
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 24670890,
+                    "uri": "kca://work/amzn1.gr.work.v1.ZVxs_DAnm20LyEZwRhqwEw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240468542
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:51:36 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813200729,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Dec 01 00:00:00 -0800 2013",
+            "date_added": "Fri Dec 13 08:51:36 -0800 2013",
+            "date_updated": "Mon Oct 23 16:39:14 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789417946",
+            "link": "https://www.goodreads.com/review/show/789417946",
+            "owned": 0
+        }
+    }
+}

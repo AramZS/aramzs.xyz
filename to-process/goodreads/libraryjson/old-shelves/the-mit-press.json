@@ -1,0 +1,51 @@
+{
+    "name": "The MIT Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Artificial Unintelligence: How Computers Misunderstand the World (The MIT Press)",
+            "id": "39947737",
+            "author": "Meredith Broussard",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1580161155000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/39947737",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "The MIT Press",
+            "tags": [
+                "Kindle Edition",
+                "The MIT Press",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "39947737",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

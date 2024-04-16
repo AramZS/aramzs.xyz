@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960344179,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8576027
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 40
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.N7kdLxm_LRbTqeo6dz0ZAg",
+                "title": "Savages (Savages, #2)",
+                "title_without_series": "Savages",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368577380l/8576027._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368577380l/8576027._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8576027-savages",
+                "num_pages": 302,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": 2010,
+                "publication_month": 1,
+                "average_rating": 3.84,
+                "ratings_count": 15961,
+                "description": "Part-time environmentalist and philanthropist Ben and his ex-mercenary buddy Chon run a Laguna Beach-based marijuana operation, reaping significant profits from their loyal clientele. In the past when their turf was challenged, Chon took care of eliminating the threat. But now they may have come up against something that they can't handle -- the Mexican Baja Cartel wants in, sending them the message that a \"no\" is unacceptable. <br /><br />When they refuse to back down, the cartel escalates its threat, kidnapping Ophelia, the boys' playmate and confidante. O's abduction sets off a dizzying array of ingenious negotiations and gripping plot twists that will captivate readers eager to learn the costs of freedom and the price of one amazing high.",
+                "authors": {
+                    "author": {
+                        "id": 37795,
+                        "name": "Don Winslow",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1585259047p5/37795.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1585259047p2/37795.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37795.Don_Winslow",
+                        "average_rating": 4.14,
+                        "ratings_count": 130157,
+                        "text_reviews_count": 12318
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 12548735,
+                    "uri": "kca://work/amzn1.gr.work.v1.p3j0Rt1XlQEgcwzTGZwy4w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452285034
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:11:06 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710712139,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:11:06 -0700 2014",
+            "date_updated": "Sat Jun 07 06:11:06 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960344179",
+            "link": "https://www.goodreads.com/review/show/960344179",
+            "owned": 0
+        }
+    }
+}

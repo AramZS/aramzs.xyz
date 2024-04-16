@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065306275,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 42583941
+                },
+                "isbn": 399581995,
+                "isbn13": 9780399581991,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 98
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.i_eK6Tc0O5EG_CfyZPWGiQ",
+                "title": "Let's Make Ramen!: A Comic Book Cookbook",
+                "title_without_series": "Let's Make Ramen!: A Comic Book Cookbook",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545876649l/42583941._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545876649l/42583941._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/42583941-let-s-make-ramen",
+                "num_pages": 192,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Ten Speed Press",
+                "publication_day": 16,
+                "publication_year": 2019,
+                "publication_month": 7,
+                "average_rating": 4.18,
+                "ratings_count": 612,
+                "description": "<b>A comic book cookbook with accessible ramen recipes for the home cook, including simple weeknight bowls, weekend project stocks, homemade noodles, and an array of delicious accompaniments, with insights and tips from notable ramen luminaries.</b><br /><br />Playful and instructive, this hybrid cookbook/graphic novel introduces the history of ramen and provides more than 40 recipes for everything you need to make the perfect bowl at home including tares, broths, noodles, and toppings. Authors Hugh Amano and Sarah Becan present colorful, humorous, and easy-to-follow comics that fully illustrate the necessary steps and ingredients for delicious homemade ramen. Along the way, they share preparation shortcuts that make weeknight ramen a reality; provide meaty tidbits on Japanese culinary traditions; and feature words of wisdom, personal anecdotes, and cultural insights from eminent ramen figures such as chef Ivan Orkin and Ramen Adventures' Brian MacDuckston. Recipes include broths like Shio, Shoyu, Miso, and Tonkotsu, components such as Onsen Eggs, Chashu, and Menma, and offshoots like Mazemen, Tsukemen, and Yakisoba. Ideal for beginners, seasoned cooks, and armchair chefs alike, this comic book cookbook is an accessible, fun, and inviting introduction to one of Japan's most popular and iconic dishes.",
+                "authors": {
+                    "author": {
+                        "id": 14930505,
+                        "name": "Hugh Amano",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14930505.Hugh_Amano",
+                        "average_rating": 4.17,
+                        "ratings_count": 706,
+                        "text_reviews_count": 125
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 66273352,
+                    "uri": "kca://work/amzn1.gr.work.v1.dC2X_u3mCi7FpNAfipxcbg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244219881
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:20:44 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712840281,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:20:44 -0800 2019",
+            "date_updated": "Thu Nov 28 09:20:44 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065306275",
+            "link": "https://www.goodreads.com/review/show/3065306275",
+            "owned": 0
+        }
+    }
+}

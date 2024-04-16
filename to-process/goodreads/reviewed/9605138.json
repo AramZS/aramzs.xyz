@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749127929,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9605138
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 85
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8oH9jDz9x4Bs39Tz4Flhlg",
+                "title": "Zero Sum Game (Star Trek: Typhon Pact, #1)",
+                "title_without_series": "Zero Sum Game",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9605138-zero-sum-game",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.88,
+                "ratings_count": 1427,
+                "description": "A spy for the Typhon Pact—a new political rival of the Federation—steals the plans for Starfleet’s newest technological advance: the slipstream drive. To stop the Typhon Pact from unlocking the drive’s secrets, Starfleet Intelligence recruits a pair of genetically enhanced agents: Dr. Julian Bashir, of station Deep Space 9, and Sarina Douglas, a woman whose talents Bashir helped bring to fruition, and whom Bashir thinks of as his long-lost true love.<br /><br />Bashir and Douglas are sent to infiltrate the mysterious species known as the Breen, find the hidden slipstream project, and destroy it. Meanwhile, light-years away, Captain Ezri Dax and her crew on the <i>U.S.S. Aventine</i> play a dangerous game of cat and mouse with a Typhon Pact fleet that stands between them and the safe retrieval of Bashir and Douglas from hostile territory.",
+                "authors": {
+                    "author": {
+                        "id": 2620393,
+                        "name": "David Mack",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1254780245p5/2620393.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1254780245p2/2620393.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2620393.David_Mack",
+                        "average_rating": 4.06,
+                        "ratings_count": 29894,
+                        "text_reviews_count": 2586
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 14469789,
+                    "uri": "kca://work/amzn1.gr.work.v1.kdO8T5vKecMjRwCoYfcQ8A"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1508998656
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Sep 13 18:40:37 -0700 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1498300728
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Sep 05 07:40:51 -0700 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Sep 09 00:00:00 -0700 2016",
+            "date_added": "Mon Sep 05 07:40:50 -0700 2016",
+            "date_updated": "Tue Sep 13 18:40:47 -0700 2016",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749127929",
+            "link": "https://www.goodreads.com/review/show/1749127929",
+            "owned": 0
+        }
+    }
+}

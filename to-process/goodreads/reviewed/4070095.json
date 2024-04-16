@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789414584,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4070095
+                },
+                "isbn": 307377326,
+                "isbn13": 9780307377326,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1488
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.BoBGO_pZVb_va8A1Oc_twQ",
+                "title": "Asterios Polyp",
+                "title_without_series": "Asterios Polyp",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327877671l/4070095._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327877671l/4070095._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4070095-asterios-polyp",
+                "num_pages": 344,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Pantheon",
+                "publication_day": 7,
+                "publication_year": 2009,
+                "publication_month": 7,
+                "average_rating": 4.19,
+                "ratings_count": 23724,
+                "description": "<b>The triumphant return of one of comics’ greatest talents, with an engrossing story of one man’s search for love, meaning, sanity, and perfect architectural proportions. An epic story long awaited, and well worth the wait. <br /></b><br />Meet Asterios Polyp: middle-aged, meagerly successful architect and teacher, aesthete and womanizer, whose life is wholly upended when his New York City apartment goes up in flames. In a tenacious daze, he leaves the city and relocates to a small town in the American heartland. But what is this “escape” really about? <br /><br />As the story unfolds, moving between the present and the past, we begin to understand this confounding yet fascinating character, and how he’s gotten to where he is. And isn’t. And we meet Hana: a sweet, smart, first-generation Japanese American artist with whom he had made a blissful life. But now she’s gone. Did Asterios do something to drive her away? What has happened to her? Is she even alive? All the questions will be answered, eventually.<br /><br />In the meantime, we are enthralled by Mazzucchelli’s extraordinarily imagined world of brilliantly conceived eccentrics, sharply observed social mores, and deftly depicted asides on everything from design theory to the nature of human perception.<br /><i><br />Asterios Polyp</i> is David Mazzucchelli’s masterpiece: a great American graphic novel.",
+                "authors": {
+                    "author": {
+                        "id": 28995,
+                        "name": "David Mazzucchelli",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1285147480p5/28995.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1285147480p2/28995.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/28995.David_Mazzucchelli",
+                        "average_rating": 4.21,
+                        "ratings_count": 244367,
+                        "text_reviews_count": 5547
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 4117200,
+                    "uri": "kca://work/amzn1.gr.work.v1.CP9amzb9TQeBQ_nNufM7Xw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240464526
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:46:38 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Dec 01 00:00:00 -0800 2013",
+            "date_added": "Fri Dec 13 08:46:38 -0800 2013",
+            "date_updated": "Wed Jan 22 13:21:04 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789414584",
+            "link": "https://www.goodreads.com/review/show/789414584",
+            "owned": 0
+        }
+    }
+}

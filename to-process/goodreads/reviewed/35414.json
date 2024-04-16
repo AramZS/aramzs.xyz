@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671287,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35414
+                },
+                "isbn": 345477383,
+                "isbn13": 9780345477385,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 286
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.nTwPcUQbuSQvpZvsIOB32g",
+                "title": "Allegiance",
+                "title_without_series": "Allegiance",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35414.Allegiance",
+                "num_pages": 324,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Del Rey",
+                "publication_day": 30,
+                "publication_year": 2007,
+                "publication_month": 1,
+                "average_rating": 3.99,
+                "ratings_count": 7741,
+                "description": "Never before has the incendiary mix of action, politics, and intrigue that has become Timothy Zahn’s trademark, been more evident that in this new Star Wars epic. On the heels of the stunning events chronicled in Star Wars: A New Hope, the newly minted heroes of the Rebellion–fledgling Jedi Luke Skywalker, smuggler turned reluctant freedom-fighter Han Solo, and Princess Leia Organa, a bold leader with a world to avenge–must face the harsh realities of the cataclysmic conflict into which they have so bravely plunged. From this point forward, legends will grow, treachery will abound, and lives will be irrevocably altered, in the long, hard fight to counter the fist of tyranny and restore hope to a galaxy too long in darkness. <br /><br /> The destruction of the Death Star by the Rebel Alliance was a decisive blow against the Empire, but Palpatine and his monstrous enforcer, Darth Vader, are no less of a threat. The brutal extermination of Alderaan not only demonstrated the magnitude of their murderous power, but served as a chilling testament to their resolve to crush the Rebel uprising. Standing against them, Skywalker, Solo, and the Princess remain uncertain opponents. Luke is gifted and brave, but unschooled in the power he possesses. Han has doubts about waging someone else’s war–and his contentiousness is one more burden for Leia to bear as she struggles to help keep the Rebellion alive. The three have been sent to mediate a dispute between Rebel Alliance factions in Shelsha Sector–agitating matters by forcing Han to deal not only with pirates, but with his more dreaded enemy, politics. At the same time, Mara Jade–all of eighteen and years away from her fateful meeting with Luke–is serving her evil master, Palpatine, well in her role as the Emperor’s Hand: tracking suspected treachery in the Empire to what may be high places–while trying to stay out of Darth Vader’s way.<br /><br />But the Rebels will prove to be only one of the Empire’s concerns. For Imperial Stormtrooper Daric LaRone, his faith in the Empire shaken by the wanton destruction of Alderaan, will commit a sudden and violent act of defiance, and take four other enforcers with him, in a desperate bid to elude their masters’ wrath.<br /><br />Each of these fateful actions, whether sanctioned, secret, or scandalous, will expose brutality and corruption, spur upheavals destined to shake the Empire to its core, and shape momentous events yet to come.",
+                "authors": {
+                    "author": {
+                        "id": 12479,
+                        "name": "Timothy Zahn",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p5/12479.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p2/12479.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12479.Timothy_Zahn",
+                        "average_rating": 4.07,
+                        "ratings_count": 363187,
+                        "text_reviews_count": 15929
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 2934013,
+                    "uri": "kca://work/amzn1.gr.work.v1.Bbg3APoURmTSsuqWdtvfjQ"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:20:10 -0700 2008",
+            "date_updated": "Mon Jun 16 19:20:10 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671287",
+            "link": "https://www.goodreads.com/review/show/24671287",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671613,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9777
+                },
+                "isbn": 679457313,
+                "isbn13": 9780679457312,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10356
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.yXicw61J-6GX5glOEmiUgA",
+                "title": "The God of Small Things",
+                "title_without_series": "The God of Small Things",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1166054170l/9777._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1166054170l/9777._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9777.The_God_of_Small_Things",
+                "num_pages": 340,
+                "format": "Hardcover",
+                "edition_information": "1st American",
+                "publisher": "Random House",
+                "publication_day": {},
+                "publication_year": 1997,
+                "publication_month": {},
+                "average_rating": 3.94,
+                "ratings_count": 232817,
+                "description": "The year is 1969. In the state of Kerala, on the southernmost tip of India, a skyblue Plymouth with chrome tailfins is stranded on the highway amid a Marxist workers' demonstration. Inside the car sit two-egg twins Rahel and Esthappen, and so begins their tale. . . .<br /><br />Armed only with the invincible innocence of children, they fashion a childhood for themselves in the shade of the wreck that is their family--their lonely, lovely mother, Ammu (who loves by night the man her children love by day), their blind grandmother, Mammachi (who plays Handel on her violin), their beloved uncle Chacko (Rhodes scholar, pickle baron, radical Marxist, bottom-pincher), their enemy, Baby Kochamma (ex-nun and incumbent grandaunt), and the ghost of an imperial entomologist's moth (with unusually dense dorsal tufts).<br /><br />When their English cousin, Sophie Mol, and her mother, Margaret Kochamma, arrive on a Christmas visit, Esthappen and Rahel learn that Things Can Change in a Day. That lives can twist into new, ugly shapes, even cease forever, beside their river \"graygreen.\" With fish in it. With the sky and trees in it. And at night, the broken yellow moon in it.<br /><br />The brilliantly plotted story uncoils with an agonizing sense of foreboding and inevitability. Yet nothing prepares you for what lies at the heart of it.<br /><br />The God of Small Things takes on the Big Themes--Love. Madness. Hope. Infinite Joy. Here is a writer who dares to break the rules. To dislocate received rhythms and create the language she requires, a language that is at once classical and unprecedented. Arundhati Roy has given us a book that is anchored to anguish, but fueled by wit and magic. --front flap",
+                "authors": {
+                    "author": {
+                        "id": 6134,
+                        "name": "Arundhati Roy",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1496705394p5/6134.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1496705394p2/6134.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6134.Arundhati_Roy",
+                        "average_rating": 3.9,
+                        "ratings_count": 276004,
+                        "text_reviews_count": 18437
+                    }
+                },
+                "published": 1997,
+                "work": {
+                    "id": 810135,
+                    "uri": "kca://work/amzn1.gr.work.v1.zisp4Sf2SkWZ1XfRW4NNaQ"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:23:14 -0700 2008",
+            "date_updated": "Mon Jun 16 19:23:14 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671613",
+            "link": "https://www.goodreads.com/review/show/24671613",
+            "owned": 0
+        }
+    }
+}

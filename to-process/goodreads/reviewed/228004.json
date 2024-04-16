@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 153152982,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 228004
+                },
+                "isbn": "076530919X",
+                "isbn13": 9780765309198,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 103
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Ui5ux03qf8w8JgTWlbfeHw",
+                "title": "God Save the Mark",
+                "title_without_series": "God Save the Mark",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/228004.God_Save_the_Mark",
+                "num_pages": 272,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Forge Books",
+                "publication_day": 1,
+                "publication_year": 2004,
+                "publication_month": 1,
+                "average_rating": 3.75,
+                "ratings_count": 1056,
+                "description": "* mark n. An easy victim; a ready subject for the practices of a confidence man, thief, beggar, etc.; a sucker.-Dictionary of American Slang, Thomas Y. Crowell Co., 1960<br /><br />That's the long definition of a mark. But there's a shorter one. It goes:<br /><br />* mark n. Fred Fitch<br /><br />What, you ask, is a Fred Fitch? Well, for one thing, Fred Fitch is the man with the most extensive collection of fake receipts, phony bills of sale, and counterfeit sweepstakes tickets in the Western Hemisphere, and possibly in the entire world. For another thing, Fred Fitch may be the only New York City resident in the twentieth century to buy a money machine. When Barnum said, \"There's one born every minute, and two to take him,\" he didn't know about Fred Fitch; when Fred Fitch was born, there were two million to take him.<br />\tEvery itinerant grifter, hypester, bunk artist, short-conner, amuser, shearer, short-changer, green-goods worker, pennyweighter, ring dropper, and yentzer to hit New York City considers his trip incomplete until he's also hit Fred Fitch. He's sort of the con-man's version of Go: Pass Fred Fitch, collect two hundred dollars, and move on.<br />\tWhat happens to Fred Fitch when his long-lost Uncle Matt dies and leaves Fred three hundred thousand dollars shouldn't happen to the ball in a pinball machine. Fred Fitch with three hundred thousand dollars is like a mouse with a sack of catnip: He's likely to attract the wrong kind of attention.<br />\tAdd to this the fact that Uncle Matt was murdered, by person or persons unknown, and that someone now seems determined to murder Fred as well, mix in two daffily charming beauties of totally different types, and you have a perfect setup for the busiest fictional hero since the well-known one-armed paperhanger. As Fred Fitch careers across the New York City landscape-and sometimes skyline-in his meetings with cops, con men, beautiful girls, and (maybe) murderers, he takes on some of the loonier aspects of a Dante without a Virgil. Take one part comedy and one part suspense and shake well-mostly with laughter.",
+                "authors": {
+                    "author": {
+                        "id": 30953,
+                        "name": "Donald E. Westlake",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1336863543p5/30953.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1336863543p2/30953.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/30953.Donald_E_Westlake",
+                        "average_rating": 3.87,
+                        "ratings_count": 46401,
+                        "text_reviews_count": 4499
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 220832,
+                    "uri": "kca://work/amzn1.gr.work.v1.3pIVu8zlXjYLgJG3-GYmTw"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 95064718,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Mar 09 04:56:31 -0800 2011",
+            "date_updated": "Wed Mar 09 04:56:31 -0800 2011",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/153152982",
+            "link": "https://www.goodreads.com/review/show/153152982",
+            "owned": 0
+        }
+    }
+}

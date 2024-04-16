@@ -1,0 +1,104 @@
+{
+    "name": "Algonquin Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Smartbomb: The Quest for Art, Entertainment, and Big Bucks in the Videogame Revolution",
+            "id": "20412670",
+            "author": "Heather Chaplin, Aaron Ruby",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146897000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/20412670",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Algonquin Books",
+            "tags": [
+                "Kindle Edition",
+                "Algonquin Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "20412670",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "An Arsonist's Guide to Writers' Homes in New England",
+            "id": "733462",
+            "author": "Brock Clarke",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1224013468000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of An Arsonist's Guide to Writers' Homes in New England: Rating - 5/5",
+                    "date": 1224013468000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/733462",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Algonquin Books",
+            "tags": [
+                "Hardcover",
+                "Algonquin Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1565125517",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781565125513",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "733462",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

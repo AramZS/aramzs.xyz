@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065302522,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 42815544
+                },
+                "isbn": 525559736,
+                "isbn13": 9780525559733,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2243
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.U34C7oQBosSsCDpZbMZB7Q",
+                "title": "Bunny",
+                "title_without_series": "Bunny",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544742360l/42815544._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544742360l/42815544._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/42815544-bunny",
+                "num_pages": 307,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Viking",
+                "publication_day": 11,
+                "publication_year": 2019,
+                "publication_month": 6,
+                "average_rating": 3.49,
+                "ratings_count": 10257,
+                "description": "Samantha Heather Mackey couldn't be more of an outsider in her small, highly selective MFA program at New England's Warren University. A scholarship student who prefers the company of her dark imagination to that of most people, she is utterly repelled by the rest of her fiction writing cohort--a clique of unbearably twee rich girls who call each other \"Bunny,\" and seem to move and speak as one. <br /><br />But everything changes when Samantha receives an invitation to the Bunnies' fabled \"Smut Salon,\" and finds herself inexplicably drawn to their front door--ditching her only friend, Ava, in the process. As Samantha plunges deeper and deeper into the Bunnies' sinister yet saccharine world, beginning to take part in the ritualistic off-campus \"Workshop\" where they conjure their monstrous creations, the edges of reality begin to blur. Soon, her friendships with Ava and the Bunnies will be brought into deadly collision. <br /><br />The spellbinding new novel from one of our most fearless chroniclers of the female experience, Bunny is a down-the-rabbit-hole tale of loneliness and belonging, friendship and desire, and the fantastic and terrible power of the imagination.",
+                "authors": {
+                    "author": {
+                        "id": 7104825,
+                        "name": "Mona Awad",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1554343491p5/7104825.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1554343491p2/7104825.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7104825.Mona_Awad",
+                        "average_rating": 3.26,
+                        "ratings_count": 19774,
+                        "text_reviews_count": 4178
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 58221942,
+                    "uri": "kca://work/amzn1.gr.work.v1.78rS3koUJmKSFj03BWf5yA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244215035
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:16:07 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712836462,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:16:07 -0800 2019",
+            "date_updated": "Thu Nov 28 09:16:07 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065302522",
+            "link": "https://www.goodreads.com/review/show/3065302522",
+            "owned": 0
+        }
+    }
+}

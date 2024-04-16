@@ -1,0 +1,104 @@
+{
+    "name": "Dark Horse Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Hellboy: Oddest Jobs",
+            "id": "2942911",
+            "author": "Christopher Golden, Mike Mignola",
+            "date_finished": 1220400000000,
+            "notes": [],
+            "date_started": 1378142457000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Hellboy: Oddest Jobs: Rating - 3/5",
+                    "date": 1220400000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2942911",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dark Horse Books",
+            "tags": [
+                "Paperback",
+                "Dark Horse Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1593079443",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781593079444",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "2942911",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Hellboy: Oddest Jobs",
+            "id": 2942911,
+            "author": "Christopher Golden",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2942911",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dark Horse Books",
+            "tags": [
+                "Paperback",
+                "Dark Horse Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 2942911,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

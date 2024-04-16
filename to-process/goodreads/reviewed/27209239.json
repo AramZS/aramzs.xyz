@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2639393481,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 27209239
+                },
+                "isbn": 451486080,
+                "isbn13": 9780451486080,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1307
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.kxnayu2hqlnubdvp4Di0lQ",
+                "title": "Bloodline",
+                "title_without_series": "Bloodline",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454615589l/27209239._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454615589l/27209239._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/27209239-bloodline",
+                "num_pages": 334,
+                "format": "Audio CD",
+                "edition_information": {},
+                "publisher": "Random House Audio",
+                "publication_day": 3,
+                "publication_year": 2016,
+                "publication_month": 5,
+                "average_rating": 4.06,
+                "ratings_count": 18374,
+                "description": "<b>Witness the birth of the Resistance</b><br /><br />When the Rebellion defeated the Empire in the skies above Endor, Leia Organa believed it was the beginning to a lasting peace. But after decades of vicious infighting and partisan gridlock in the New Republic Senate, that hope seems like a distant memory.<br /><br />Now a respected senator, Leia must grapple with the dangers that threaten to cripple the fledgling democracy—from both within and without. Underworld kingpins, treacherous politicians, and Imperial loyalists are sowing chaos in the galaxy. Desperate to take action, senators are calling for the election of a First Senator. It is their hope that this influential post will bring strong leadership to a divided galaxy. <br /><br />As the daughter of Darth Vader, Leia faces with distrust the prospect of any one person holding such a powerful position—even when supporters suggest Leia herself for the job. But a new enemy may make this path Leia’s only option. For at the edges of the galaxy, a mysterious threat is growing...",
+                "authors": {
+                    "author": {
+                        "id": 1192311,
+                        "name": "Claudia Gray",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234643683p5/1192311.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234643683p2/1192311.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1192311.Claudia_Gray",
+                        "average_rating": 3.86,
+                        "ratings_count": 390866,
+                        "text_reviews_count": 35184
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 47250749,
+                    "uri": "kca://work/amzn1.gr.work.v1.JBfBb4qDIshRJFIAUN0TKg"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2688218885
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sun Dec 30 11:31:20 -0800 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2679163472
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Wed Dec 26 07:19:48 -0800 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Wed Dec 26 07:19:48 -0800 2018",
+            "read_at": "Sun Dec 30 11:41:29 -0800 2018",
+            "date_added": "Wed Dec 26 07:19:47 -0800 2018",
+            "date_updated": "Sun Dec 30 11:41:29 -0800 2018",
+            "read_count": 1,
+            "body": "This was... Ok. The novel is well written, but the plot is so much treading water. In the larger story this single book is a part of, this is basically one long justification, a convoluted twisty path to undue the larger galactic impact of Return of the Jedi. It manages to make everything accomplished going into the book pretty much undone by the end. Leia is one of the main characters and everything she ends up doing is basically a reversal. I was hoping there would be a larger point then 'and this is why Leia was in the Resistance in episode 7', but there really isn't, and to be honest it does a poor job even justifying that. For all its promise of even explaining what the Resistance was, it doesn't do much of that either. Instead it gets bogged down in constantly trying to explain some rather awkwardly named political parties and trying to give them significance. If you really want the answers this book promises, you'd be better off reading a summery.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2639393481",
+            "link": "https://www.goodreads.com/review/show/2639393481",
+            "owned": 0
+        }
+    }
+}

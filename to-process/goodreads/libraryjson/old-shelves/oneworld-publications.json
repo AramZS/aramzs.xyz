@@ -1,0 +1,51 @@
+{
+    "name": "Oneworld Publications",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Grunt: The Curious Science of Humans at War",
+            "id": "34647237",
+            "author": "Mary Roach",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1545062096000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34647237",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Oneworld Publications",
+            "tags": [
+                "Paperback",
+                "Oneworld Publications",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1786070898",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781786070890",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34647237",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

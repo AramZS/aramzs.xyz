@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1367820129,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1691307
+                },
+                "isbn": 786168412,
+                "isbn13": 9780786168415,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 36
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.TqacZ9ss1v1ii6ulRKSHww",
+                "title": "The Prestige",
+                "title_without_series": "The Prestige",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459967533l/1691307._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459967533l/1691307._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1691307.The_Prestige",
+                "num_pages": {},
+                "format": "Audio CD",
+                "edition_information": {},
+                "publisher": "Blackstone Audiobooks",
+                "publication_day": 1,
+                "publication_year": 2006,
+                "publication_month": 10,
+                "average_rating": 3.89,
+                "ratings_count": 16966,
+                "description": "In 1878, two young stage magicians clash in the dark during the course of a fraudulent seance. From this moment on, their lives become webs of deceit and revelation as they vie to outwit and expose each other. Their rivalry will take them to the peaks of their careers--but with terrible consequences. In the course of pursuing each other's ruin, they will deploy all the deception their magician's craft can command, the highest misdirection and the darkest science. Blood will be spilled, but it will not be enough. In the end, their legacy will pass on for generations to descendants who must, for their sanity's sake, untangle their puzzle.",
+                "authors": {
+                    "author": {
+                        "id": 23419,
+                        "name": "Christopher Priest",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1299874167p5/23419.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1299874167p2/23419.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/23419.Christopher_Priest",
+                        "average_rating": 3.81,
+                        "ratings_count": 37216,
+                        "text_reviews_count": 4153
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 1688160,
+                    "uri": "kca://work/amzn1.gr.work.v1.T5fLWG_ESs8ITS_58ZhiVg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 974784242
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 18 20:43:30 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1063480187,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Aug 18 20:43:29 -0700 2015",
+            "date_updated": "Tue Aug 18 20:43:30 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1367820129",
+            "link": "https://www.goodreads.com/review/show/1367820129",
+            "owned": 0
+        }
+    }
+}

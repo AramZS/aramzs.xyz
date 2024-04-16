@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 151792757,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 14150
+                },
+                "isbn": 1930846452,
+                "isbn13": 9781930846456,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 514
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8fYjGoFyefVQ_t1KkfmbzQ",
+                "title": "The Jennifer Morgue (Laundry Files, #2)",
+                "title_without_series": "The Jennifer Morgue",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/14150.The_Jennifer_Morgue",
+                "num_pages": 313,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Golden Gryphon Press",
+                "publication_day": {},
+                "publication_year": 2006,
+                "publication_month": 11,
+                "average_rating": 4.03,
+                "ratings_count": 12476,
+                "description": "Bob Howard, from The Laundry, secret UK agency against evil forces, narrates boarding yacht of Ellis Billington for Gravedust device that talks with dead. Ellis plans to raise Jennifer Morgue, monster from deep sea, rule world. U.S. Black Chamber sends lethal Ramona Random, in conflict with her bosses. Includes: <i>Pimpf</i> tale - Bob in virtual game; Afterword; Glossary.",
+                "authors": {
+                    "author": {
+                        "id": 8794,
+                        "name": "Charles Stross",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p5/8794.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p2/8794.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8794.Charles_Stross",
+                        "average_rating": 3.9,
+                        "ratings_count": 225995,
+                        "text_reviews_count": 14959
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 930564,
+                    "uri": "kca://work/amzn1.gr.work.v1.czWAbNX-hqpVIcqvyMhgmg"
+                }
+            },
+            "rating": 4,
+            "votes": 1,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Mar 03 00:00:00 -0800 2011",
+            "date_added": "Thu Mar 03 07:19:30 -0800 2011",
+            "date_updated": "Thu Mar 03 07:24:54 -0800 2011",
+            "read_count": 1,
+            "body": "While the first novel in the series seemed almost too caught up in its conceit of techno-magical-spies working in heavy bureaucracies (spoiler: the big twist was matrix management), Stross's second Laundry novel gives more words to the actual playing with magical spells and counter-intelligence than he does to the complexities of the British civil services' management structure. The result is a better balanced and driving read. The Jennifer Morgue is well worth picking up.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/151792757",
+            "link": "https://www.goodreads.com/review/show/151792757",
+            "owned": 0
+        }
+    }
+}

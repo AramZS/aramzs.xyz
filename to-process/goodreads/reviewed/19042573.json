@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749130552,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19042573
+                },
+                "isbn": 1422184021,
+                "isbn13": 9781422184028,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.mbUkCKk2_-m8rRTWlbmIGw",
+                "title": "The Intention Economy: When Customers Take Charge",
+                "title_without_series": "The Intention Economy: When Customers Take Charge",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19042573-the-intention-economy",
+                "num_pages": 256,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Harvard Business Review Press",
+                "publication_day": 10,
+                "publication_year": 2012,
+                "publication_month": 4,
+                "average_rating": 3.74,
+                "ratings_count": 170,
+                "description": "<b>Caveat venditor—let the seller beware</b><br /><br />While marketers look for more ways to get personal with customers, including new tricks with “big data,” customers are about to get personal in their own ways, with their own tools. Soon consumers will be able to:<br /><br />• Control the flow and use of personal data<br />• Build their own loyalty programs<br />• Dictate their own terms of service<br />• Tell whole markets what they want, how they want it, where and when they should be able to get it, and how much it should cost<br /><br />And they will do all of this outside of any one vendor’s silo. <br /><br />This new landscape we’re entering is what Doc Searls calls <i>The Intention Economy</i>—one in which demand will drive supply far more directly, efficiently, and compellingly than ever before. In this book he describes an economy driven by consumer intent, where vendors must respond to the actual intentions of customers instead of vying for the attention of many.<br /><br />New customer tools will provide the engine, with VRM (Vendor Relationship Management) providing the consumer counterpart to vendors’ CRM (Customer Relationship Management) systems. For example, imagine being able to change your address once for every company you deal with, or combining services from multiple companies in real time, in your own ways—all while keeping an auditable accounting of every one of your interactions in the marketplace. These tantalizing possibilities and many others are introduced in this book.<br /><br />As customers become more independent and powerful, and the Intention Economy emerges, only vendors and organizations that are ready for the change will survive, and thrive. Where do you stand?<br />",
+                "authors": {
+                    "author": {
+                        "id": 46221,
+                        "name": "Doc Searls",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/46221.Doc_Searls",
+                        "average_rating": 3.82,
+                        "ratings_count": 4150,
+                        "text_reviews_count": 157
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 18126994,
+                    "uri": "kca://work/amzn1.gr.work.v1.DA5K7mz--kuV6OfJSDlFdQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498304168
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:43:47 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414467049,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:43:46 -0700 2016",
+            "date_updated": "Mon Sep 05 07:43:47 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749130552",
+            "link": "https://www.goodreads.com/review/show/1749130552",
+            "owned": 0
+        }
+    }
+}

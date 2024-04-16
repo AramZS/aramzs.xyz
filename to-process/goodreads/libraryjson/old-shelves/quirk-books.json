@@ -1,0 +1,149 @@
+{
+    "name": "Quirk Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "William Shakespeare's Much Ado About Mean Girls",
+            "id": "42060068",
+            "author": "Ian Doescher",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961425000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/42060068",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Quirk Books",
+            "tags": [
+                "Paperback",
+                "Quirk Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1683691172",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781683691174",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "42060068",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "We Sold Our Souls",
+            "id": "39790706",
+            "author": "Grady Hendrix",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1543267440000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/39790706",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Quirk Books",
+            "tags": [
+                "Hardcover",
+                "Quirk Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1683690125",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781683690122",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "39790706",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "My Best Friend's Exorcism",
+            "id": "29106178",
+            "author": "Grady Hendrix",
+            "date_finished": 1533081600000,
+            "notes": [],
+            "date_started": 1533187653000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of My Best Friend's Exorcism: Rating - 3/5",
+                    "date": 1533081600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/29106178",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Quirk Books",
+            "tags": [
+                "Kindle Edition",
+                "Quirk Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "29106178",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

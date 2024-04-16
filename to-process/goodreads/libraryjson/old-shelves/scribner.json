@@ -1,0 +1,247 @@
+{
+    "name": "Scribner",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "I Wear the Black Hat: Grappling With Villains (Real and Imagined)",
+            "id": "16130128",
+            "author": "Chuck Klosterman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1444164415000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16130128",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Scribner",
+            "tags": [
+                "ebook",
+                "Scribner",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1439184518",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781439184516",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16130128",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Under the Dome",
+            "id": "6320534",
+            "author": "Stephen King",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1288891652000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Under the Dome: Rating - 4/5",
+                    "date": 1288891652000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6320534",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Scribner",
+            "tags": [
+                "Hardcover",
+                "Scribner",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1439148503",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781439148501",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6320534",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Great Gatsby",
+            "id": "4671",
+            "author": "F. Scott Fitzgerald, Francis Scott Fitzgerald",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213667689000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Great Gatsby: Rating - 0/5",
+                    "date": 1213667689000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4671",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Scribner",
+            "tags": [
+                "Paperback",
+                "Scribner",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "4671",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Great Gatsby",
+            "id": 4671,
+            "author": "F. Scott Fitzgerald",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4671",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Scribner",
+            "tags": [
+                "Paperback",
+                "Scribner",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 4671,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Under the Dome",
+            "id": 6320534,
+            "author": "Stephen King",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6320534",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Scribner",
+            "tags": [
+                "Hardcover",
+                "Scribner",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 6320534,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

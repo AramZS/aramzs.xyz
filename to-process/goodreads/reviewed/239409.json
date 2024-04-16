@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 464693724,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 239409
+                },
+                "isbn": 471281395,
+                "isbn13": 9780471281399,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 105
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.F8CClzvtJzGohlh_O2TFpA",
+                "title": "Hey, Whipple, Squeeze This: A Guide to Creating Great Ads",
+                "title_without_series": "Hey, Whipple, Squeeze This: A Guide to Creating Great Ads",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/239409.Hey_Whipple_Squeeze_This",
+                "num_pages": 304,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Wiley",
+                "publication_day": 15,
+                "publication_year": 2003,
+                "publication_month": 4,
+                "average_rating": 4.2,
+                "ratings_count": 3820,
+                "description": "In this second edition of the irreverent, celebrated <i>Hey Whipple, Squeeze This</i>, master copywriter Luke Sullivan looks at the history of advertising, from the good to the bad to the ugly. Updated to include two extended final chapters with in-depth prescriptions for building a career in advertising, this edition also features a real-world look at the day-to-day operations of today's ad agencies. Among the most disparaged campaigns in advertising history, the Mr. Whipple ads for Charmin toilet paper were also wildly successful. Sullivan explores the Whipple phenomenon, examining why bad ads sometimes work, why great ads sometimes fail, and how advertisers can learn to balance creative work with the mandate to sell products.",
+                "authors": {
+                    "author": {
+                        "id": 140080,
+                        "name": "Luke Sullivan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1307556599p5/140080.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1307556599p2/140080.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/140080.Luke_Sullivan",
+                        "average_rating": 4.17,
+                        "ratings_count": 4265,
+                        "text_reviews_count": 280
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 231909,
+                    "uri": "kca://work/amzn1.gr.work.v1.UqEu6GdS2OTQkxYOQ-SMqA"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 309827886,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Nov 27 08:33:25 -0800 2012",
+            "date_updated": "Tue Nov 27 08:33:25 -0800 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/464693724",
+            "link": "https://www.goodreads.com/review/show/464693724",
+            "owned": 0
+        }
+    }
+}

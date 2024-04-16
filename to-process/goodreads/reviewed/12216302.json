@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 474536525,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12216302
+                },
+                "isbn": 451464400,
+                "isbn13": 9780451464408,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4054
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.9no4qB4KwWQ8MsfexfCv-A",
+                "title": "Cold Days (The Dresden Files, #14)",
+                "title_without_series": "Cold Days",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345145377l/12216302._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345145377l/12216302._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12216302-cold-days",
+                "num_pages": 515,
+                "format": "Hardcover",
+                "edition_information": "1st Edition",
+                "publisher": "Penguin Group (USA)",
+                "publication_day": 27,
+                "publication_year": 2012,
+                "publication_month": 11,
+                "average_rating": 4.5,
+                "ratings_count": 81473,
+                "description": "You can't keep a good wizard down - even when he wants to stay that way.<br /><br />For years, Harry Dresden has been Chicago's only professional wizard, but a bargain made in desperation with the Queen of Air and Darkness has forced him into a new job: professional killer.<br /><br />Mab, the mother of wicked faeries, has restored the mostly-dead wizard to health, and dispatches him upon his first mission - to bring death to an immortal. Even as he grapples with the impossible task, Dresden learns of a looming danger to Demonreach, the living island hidden upon Lake Michigan, a place whose true purpose and dark potential have the potential to destroy billions and to land Dresden in the deepest trouble he has ever known - even deeper than being dead. How messed up is that?<br /><br />Beset by his new enemies and hounded by the old, Dresden has only twenty four hours to reconnect with his old allies, prevent a cataclysm and do the impossible - all while the power he bargained to get - but never meant to keep - lays siege to his very soul.<br /><br />Magic. It can get a guy killed.",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 17189468,
+                    "uri": "kca://work/amzn1.gr.work.v1.R0e6QDl5FQ67C2AG3oG27g"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Dec 10 00:00:00 -0800 2012",
+            "read_at": "Mon Dec 10 14:15:19 -0800 2012",
+            "date_added": "Mon Dec 10 10:00:51 -0800 2012",
+            "date_updated": "Mon Dec 10 14:15:19 -0800 2012",
+            "read_count": 1,
+            "body": "Like Ghost Story, Cold Days is really a bridge novel. Whatever may be happening here, it's obvious it is just taking us to the next part of the story.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/474536525",
+            "link": "https://www.goodreads.com/review/show/474536525",
+            "owned": 0
+        }
+    }
+}

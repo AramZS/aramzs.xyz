@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 462158525,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13366931
+                },
+                "isbn": 982617763,
+                "isbn13": 9780982617762,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 23
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Nely0H4QiIKPAc08pP14zg",
+                "title": "Goat In The Snow",
+                "title_without_series": "Goat In The Snow",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325616051l/13366931._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325616051l/13366931._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13366931-goat-in-the-snow",
+                "num_pages": 63,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Birds, LLC",
+                "publication_day": 3,
+                "publication_year": 2012,
+                "publication_month": 1,
+                "average_rating": 4.24,
+                "ratings_count": 189,
+                "description": {},
+                "authors": {
+                    "author": {
+                        "id": 4520337,
+                        "name": "Emily Pettit",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1442529036p5/4520337.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1442529036p2/4520337.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4520337.Emily_Pettit",
+                        "average_rating": 4.27,
+                        "ratings_count": 231,
+                        "text_reviews_count": 28
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 18595865,
+                    "uri": "kca://work/amzn1.gr.work.v1.MSkoyHCgqSkGyMNqOSwIzg"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 307859058,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Nov 23 19:31:17 -0800 2012",
+            "date_updated": "Fri Nov 23 19:31:17 -0800 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/462158525",
+            "link": "https://www.goodreads.com/review/show/462158525",
+            "owned": 0
+        }
+    }
+}

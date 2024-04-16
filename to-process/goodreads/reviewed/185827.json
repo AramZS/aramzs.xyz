@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 82036109,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 185827
+                },
+                "isbn": "076534422X",
+                "isbn13": 9780765344229,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 113
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.3-iCjY5FeeJP_nQ1nXcVZw",
+                "title": "Newton's Wake: A Space Opera",
+                "title_without_series": "Newton's Wake: A Space Opera",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/185827.Newton_s_Wake",
+                "num_pages": 352,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Tor Science Fiction",
+                "publication_day": 1,
+                "publication_year": 2005,
+                "publication_month": 3,
+                "average_rating": 3.59,
+                "ratings_count": 2507,
+                "description": "ACROSS THE UNIVERSE<br /><br />In the aftermath of the Hard Rapture-a cataclysmic war sparked by the explosive evolution of Earth's artificial intelligences into godlike beings-a few remnants of humanity managed to survive. Some even prospered.<br /><br />Lucinda Carlyle, head of an ambitious clan of galactic entrepreneurs, had carved out a profitable niche for herself and her kin by taking control of the Skein, a chain of interstellar gates left behind by the posthumans. But on a world called Eurydice, a remote planet at the farthest rim of the galaxy, Lucinda stumbled upon a forgotten relic of the past that could threaten the Carlyles' way of life.<br /><br />For, in the last instants before the war, a desperate band of scientists had scanned billions of human personalities into digital storage, and sent them into space in the hope of one day resurrecting them to the flesh. Now, armed, dangerous, and very much alive, these revenants have triggered a fateful confrontation that could shatter the balance of power, and even change the nature of reality itself.<br />",
+                "authors": {
+                    "author": {
+                        "id": 108281,
+                        "name": "Ken MacLeod",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1283522468p5/108281.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1283522468p2/108281.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/108281.Ken_MacLeod",
+                        "average_rating": 3.72,
+                        "ratings_count": 32607,
+                        "text_reviews_count": 2316
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 179625,
+                    "uri": "kca://work/amzn1.gr.work.v1.kTzPEUBqaPJqVNx3goWCbg"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 25 18:16:29 -0800 2009",
+            "date_updated": "Fri Dec 25 18:16:33 -0800 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/82036109",
+            "link": "https://www.goodreads.com/review/show/82036109",
+            "owned": 0
+        }
+    }
+}

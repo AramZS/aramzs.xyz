@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 483514853,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 66659
+                },
+                "isbn": 1931520003,
+                "isbn13": 9781931520003,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 617
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZsLay8rKO_ZcOMdGFrkbzA",
+                "title": "Stranger Things Happen",
+                "title_without_series": "Stranger Things Happen",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508337515l/66659._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508337515l/66659._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/66659.Stranger_Things_Happen",
+                "num_pages": 266,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Small Beer Press",
+                "publication_day": {},
+                "publication_year": 2001,
+                "publication_month": 7,
+                "average_rating": 3.83,
+                "ratings_count": 5388,
+                "description": "This first collection by award-winning author Kelly Link takes fairy tales and cautionary tales, dictators and extraterrestrials, amnesiacs and honeymooners, revenants and readers alike, on a voyage into new, strange, and wonderful territory. The girl detective must go to the underworld to solve the case of the tap-dancing bank robbers. A librarian falls in love with a girl whose father collects artificial noses. A dead man posts letters home to his estranged wife. Two women named Louise begin a series of consecutive love affairs with a string of cellists. A newly married couple become participants in an apocalyptic beauty pageant. Sexy blond aliens invade New York City. A young girl learns how to make herself disappear.<br /><br />These eleven extraordinary stories are quirky, spooky, and smart. They all have happy endings. Every story contains a secret prize. Each story was written especially for you.<br /><br />Stories from <i>Stranger Things Happen</i> have won the <i>Nebula</i>, <i>Tiptree</i>, and <i>World Fantasy Award</i>. <i>Stranger Things Happen</i> was a <i>Salon</i> Book of the Year, one of the <i>Village Voice's</i> 25 Favorite Books of 2001, and was nominated for the <i>Firecracker Alternative Book Award</i>.<br /><br />Contents:<br />- <i>Carnation, Lily, Lily, Rose</i> (1998)<br />- <i>Water Off a Black Dog's Back</i> (1995)<br />- <i>The Specialist's Hat</i> (1998)<br />- <i>Flying Lessons</i> (1995)<br />- <i>Travels with the Snow Queen</i> (1996/1997)<br />- <i>Vanishing Act</i> (1996)<br />- <i>Survivor's Ball, or, The Donner Party</i> (1998)<br />- <i>Shoe and Marriage</i> (2000)<br />- <i>Most of My Friends Are Two-Thirds Water</i> (2001)<br />- <i>Louise's Ghost</i> (2001)<br />- <i>The Girl Detective</i> (1999)<br /><br />Cover painting by Shelley Jackson<br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 24902,
+                        "name": "Kelly Link",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1422586197p5/24902.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1422586197p2/24902.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24902.Kelly_Link",
+                        "average_rating": 3.81,
+                        "ratings_count": 154051,
+                        "text_reviews_count": 21488
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 64640,
+                    "uri": "kca://work/amzn1.gr.work.v1.La1vkdLBjdMICXh5oARgog"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Dec 22 00:00:00 -0800 2012",
+            "date_added": "Sun Dec 23 00:21:00 -0800 2012",
+            "date_updated": "Sun Dec 23 00:26:52 -0800 2012",
+            "read_count": 1,
+            "body": "In Kelly Link's collection of short stories, names get mixed up, settings change, tenses switch, tales are familiar yet new and emotions soak into you slowly, with the help of odd metaphors. Things that should make sense don't and the parts that shouldn't make sense are perfectly clear. <br /><br />In a strange and utterly unique way, Link has captured dreams and put them down on paper in their perfect dream logic.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/483514853",
+            "link": "https://www.goodreads.com/review/show/483514853",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789363966,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 62291
+                },
+                "isbn": "055357342X",
+                "isbn13": 9780553573428,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 16389
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.aRi_AgLRlZpgPmXOmaqxPA",
+                "title": "A Storm of Swords (A Song of Ice and Fire, #3)",
+                "title_without_series": "A Storm of Swords",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571318786l/62291._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571318786l/62291._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/62291.A_Storm_of_Swords",
+                "num_pages": 1177,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Bantam",
+                "publication_day": 4,
+                "publication_year": 2003,
+                "publication_month": 3,
+                "average_rating": 4.54,
+                "ratings_count": 645847,
+                "description": "<i>An alternate cover for this isbn can be found <a href=\"https://www.goodreads.com/book/show/13253102.here\" title=\"here\" rel=\"nofollow\">here</a>.</i><br /><br />Here is the third volume in George R.R. Martin's magnificent cycle of novels that includes <i>A Game of Thrones</i> and <i>A Clash of Kings</i>. Together, this series comprises a genuine masterpiece of modern fantasy, destined to stand as one of the great achievements of imaginative fiction.<br /><br />Of the five contenders for power, one is dead, another in disfavor, and still the wars rage as alliances are made and broken. Joffrey sits on the Iron Throne, the uneasy ruler of the Seven Kingdoms. His most bitter rival, Lord Stannis, stands defeated and disgraced, victim of the sorceress who holds him in her thrall. Young Robb still rules the North from the fortress of Riverrun. Meanwhile, making her way across a blood-drenched continent is the exiled queen, Daenerys, mistress of the only three dragons still left in the world. And as opposing forces manoeuver for the final showdown, an army of barbaric wildlings arrives from the outermost limits of civilization, accompanied by a horde of mythical Others—a supernatural army of the living dead whose animated corpses are unstoppable. As the future of the land hangs in the balance, no one will rest until the Seven Kingdoms have exploded in a veritable storm of swords...",
+                "authors": {
+                    "author": {
+                        "id": 346732,
+                        "name": "George R.R. Martin",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563055799p5/346732.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1563055799p2/346732.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/346732.George_R_R_Martin",
+                        "average_rating": 4.37,
+                        "ratings_count": 5431080,
+                        "text_reviews_count": 194376
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 1164465,
+                    "uri": "kca://work/amzn1.gr.work.v1.juIs4U2uAGUqDsf-WLfNlg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240402474
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 07:19:42 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 07:19:42 -0800 2013",
+            "date_updated": "Fri Dec 13 07:19:42 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789363966",
+            "link": "https://www.goodreads.com/review/show/789363966",
+            "owned": 0
+        }
+    }
+}

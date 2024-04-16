@@ -1,0 +1,104 @@
+{
+    "name": "Yearling Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "A Wrinkle in Time (Time Quintet, #1)",
+            "id": "18131",
+            "author": "Madeleine L'Engle",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360254834000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of A Wrinkle in Time (Time Quintet, #1): Rating - 4/5",
+                    "date": 1360254834000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18131",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Yearling Books",
+            "tags": [
+                "Paperback",
+                "Yearling Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0440498058",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780440498056",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18131",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "A Wrinkle in Time (Time Quintet, #1)",
+            "id": 18131,
+            "author": "Madeleine L'Engle",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18131",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Yearling Books",
+            "tags": [
+                "Paperback",
+                "Yearling Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 18131,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528959926,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2147714
+                },
+                "isbn": 1401216862,
+                "isbn13": 9781401216863,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 648
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.lik0hf7KWu3CtbPYtNsk8g",
+                "title": "Fables, Vol. 10: The Good Prince",
+                "title_without_series": "Fables, Vol. 10: The Good Prince",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375393788l/2147714._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375393788l/2147714._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2147714.Fables_Vol_10",
+                "num_pages": 238,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 4,
+                "publication_year": 2008,
+                "publication_month": 6,
+                "average_rating": 4.37,
+                "ratings_count": 15392,
+                "description": "<b>\n  <i>Winner of Fourteen <u>Eisner</u> Awards</i>\n</b><br /><br /><b>The return of the King.</b><br />Will all-out war looming between the forces of the Adversary and the free Fables living in the mundane world, everything now depends on a humble janitor known as Flycatcher. Released from centuries of trauma-induced amnesia, Prince Ambrose (as he was known in happier times) faces a long and difficult road - one that will take him through the lands of the dead and into the heart of the enemy's realm. Once there, this unassuming and unlikely hero will face his greatest and most arduous test - and the future of both Fabletown and the Homelands will turn on the outcome. <br />Featuring art by Mark Buckingham, Steve Leialoha, Aaron Alexovich and Andrew Pepoy.<br /><br /><b>Collecting</b>: <i>Fables</i> 60-69",
+                "authors": {
+                    "author": {
+                        "id": 12444,
+                        "name": "Bill Willingham",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p5/12444.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p2/12444.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12444.Bill_Willingham",
+                        "average_rating": 4.04,
+                        "ratings_count": 583176,
+                        "text_reviews_count": 25138
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2153206,
+                    "uri": "kca://work/amzn1.gr.work.v1.74cr5LivIBdec71MHNdkug"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051892017
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:43:46 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813203981,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:20:41 -0800 2013",
+            "date_updated": "Mon Oct 23 16:43:46 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528959926",
+            "link": "https://www.goodreads.com/review/show/528959926",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 149168225,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1070653
+                },
+                "isbn": 671020374,
+                "isbn13": 9780671020378,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 26
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.6aB81gGW2a6kU_W86XDTGg",
+                "title": "Fire on High (Star Trek: New Frontier, #6)",
+                "title_without_series": "Fire on High",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320896203l/1070653._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320896203l/1070653._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1070653.Fire_on_High",
+                "num_pages": 272,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": {},
+                "publication_year": 1998,
+                "publication_month": 4,
+                "average_rating": 3.96,
+                "ratings_count": 957,
+                "description": "On the planet Armista sits a nameless woman. High upon a mountain, she is cradling a weapon unlike anything the Armistans have ever seen. She rocks back and forth on her haunches, singing softly to herself. The weapon is her only companion on the planet, since everyone else is little piles of ash. A weapon that could destroy life on one planet could do so again.<br /><br />Lieutenant Robin Lefler's mother died in a shuttle explosion ten years ago. So is the woman being held prisoner in Thallonian space really her? If it is, what is her connection to the mysterious woman holding a weapon that could doom entire worlds?<br /><br />With the lives of billions at stake, Robin Lefler, Captain Calhoun and the crew of the U.S.S. Excalibur must find the answers before time runs out for them and for the struggling remnants of the once-great Thallonian Empire.",
+                "authors": {
+                    "author": {
+                        "id": 13681,
+                        "name": "Peter David",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p5/13681.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p2/13681.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13681.Peter_David",
+                        "average_rating": 4.02,
+                        "ratings_count": 297991,
+                        "text_reviews_count": 13707
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 1057339,
+                    "uri": "kca://work/amzn1.gr.work.v1.fvKaPAmr_nXKloN9bJgzVw"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Feb 19 06:07:46 -0800 2011",
+            "date_updated": "Sat Feb 19 06:07:46 -0800 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/149168225",
+            "link": "https://www.goodreads.com/review/show/149168225",
+            "owned": 0
+        }
+    }
+}

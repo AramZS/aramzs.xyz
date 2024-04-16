@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2638111747,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 36507879
+                },
+                "isbn": 1846537819,
+                "isbn13": 9781846537813,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Dbg3ntkhn3nmld_EfB2qxQ",
+                "title": "Amazing Spider-Man Dead No More: The Clone Conspiracy",
+                "title_without_series": "Amazing Spider-Man Dead No More: The Clone Conspiracy",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/36507879-amazing-spider-man-dead-no-more",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.57,
+                "ratings_count": 21,
+                "description": "Death is no more, and Doctor Octopus has returned! How is he back? And what does he have to do with The Jackal? Plus, someone in the Amazing Spider-Man's orbit dies! Peter, once again, has to choose between being Spider-Man and his personal life and it doesn't go well for him. The Clone Conspiracy #1-5, Amazing Spider-Man Volume 5 #20-24 and The Clone Conspiracy: Omega #1.",
+                "authors": {
+                    "author": {
+                        "id": 24781,
+                        "name": "Dan Slott",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1558162402p5/24781.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1558162402p2/24781.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24781.Dan_Slott",
+                        "average_rating": 3.89,
+                        "ratings_count": 103119,
+                        "text_reviews_count": 7835
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 58227364,
+                    "uri": "kca://work/amzn1.gr.work.v1.5LnFHl-zdkZtrBArNubWbQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2677538557
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Dec 25 09:37:39 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 2,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Dec 22 00:00:00 -0800 2018",
+            "date_added": "Tue Dec 25 09:37:38 -0800 2018",
+            "date_updated": "Wed Dec 26 07:34:05 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2638111747",
+            "link": "https://www.goodreads.com/review/show/2638111747",
+            "owned": 0
+        }
+    }
+}

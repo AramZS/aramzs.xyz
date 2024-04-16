@@ -1,0 +1,118 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789412394,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18369178
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9781304352569,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.quM_Kr0CrJ9k7BORmiujAQ",
+                "title": "Ghosts in the Machine",
+                "title_without_series": "Ghosts in the Machine",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377287185l/18369178._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377287185l/18369178._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18369178-ghosts-in-the-machine",
+                "num_pages": 112,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": 23,
+                "publication_year": 2013,
+                "publication_month": 8,
+                "average_rating": 3.23,
+                "ratings_count": 64,
+                "description": "Ghosts in the Machine is an anthology of 13 original short stories that each look at the imperfections of life through the imperfections found in videogames, be they bugs, exploits or design flaws, love, death or loss. Edited and organized by Lana Polansky and Brendan Keogh, Ghosts in the Machine features superb original works by Lana Polansky, Ashton Raze, Denis Farr, Alan Williamson, Shelley \"Big Shell\" Du, Matt Riche, Rollin Bishop, Ian Miles Cheong, Aevee Bee, Ryan Morning, Dylan Sabin, Alois Wittwer and Maddy Myers. Also featuring beautiful cover art by Max Temkin, creator of \"Cards Against Humanity.\"",
+                "authors": {
+                    "author": {
+                        "id": 7234329,
+                        "name": "Lana Polansky",
+                        "role": "Editor, Contributor, Intro",
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7234329.Lana_Polansky",
+                        "average_rating": 3.33,
+                        "ratings_count": 73,
+                        "text_reviews_count": 12
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 25977451,
+                    "uri": "kca://work/amzn1.gr.work.v1.j7ryRkRgEL8ERce983bRjw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240461883
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:42:48 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571651152,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:42:48 -0800 2013",
+            "date_updated": "Fri Dec 13 08:42:48 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789412394",
+            "link": "https://www.goodreads.com/review/show/789412394",
+            "owned": 0
+        }
+    }
+}

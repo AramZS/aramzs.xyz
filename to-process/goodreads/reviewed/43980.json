@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960347552,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 43980
+                },
+                "isbn": 679731377,
+                "isbn13": 9780679731375,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 644
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.tDfHGGs0bN33ZsKp5K5dEQ",
+                "title": "A History of the World in 10½  Chapters",
+                "title_without_series": "A History of the World in 10½  Chapters",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485925526l/43980._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485925526l/43980._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/43980.A_History_of_the_World_in_10_Chapters",
+                "num_pages": 320,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Vintage",
+                "publication_day": 27,
+                "publication_year": 1990,
+                "publication_month": 11,
+                "average_rating": 3.89,
+                "ratings_count": 12466,
+                "description": "<p>Beginning with an unlikely stowaway's account of life on board Noah's Ark, <i>A History of the World in 10½ Chapters </i>presents a surprising, subversive, fictional history of earth told from several kaleidoscopic perspectives. Noah disembarks from his ark but he and his Voyage are not forgotten: they are revisited in on other centuries and other climes - by a Victorian spinster mourning her father, by an American astronaut on an obsessive personal mission. We journey to the Titanic, to the Amazon, to the raft of the <i>Medusa</i>, and to an ecclesiastical court in medieval France where a bizarre case is about to begin...<br /><br />This is no ordinary history, but something stranger, a challenge and a delight for the reader's imagination. Ambitious yet accessible, witty and playfully serious, this is the work of a brilliant novelist.</p>",
+                "authors": {
+                    "author": {
+                        "id": 1462,
+                        "name": "Julian Barnes",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1387175450p5/1462.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1387175450p2/1462.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1462.Julian_Barnes",
+                        "average_rating": 3.71,
+                        "ratings_count": 265152,
+                        "text_reviews_count": 28167
+                    }
+                },
+                "published": 1990,
+                "work": {
+                    "id": 2122451,
+                    "uri": "kca://work/amzn1.gr.work.v1.rK7fmfXUUc8Hdtxmp6XdyA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452289171
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:16:27 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710714667,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:16:27 -0700 2014",
+            "date_updated": "Sat Jun 07 06:16:27 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960347552",
+            "link": "https://www.goodreads.com/review/show/960347552",
+            "owned": 0
+        }
+    }
+}

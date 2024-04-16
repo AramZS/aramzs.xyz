@@ -1,0 +1,51 @@
+{
+    "name": "University of Chicago Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Nature of the Book: Print and Knowledge in the Making",
+            "id": "709124",
+            "author": "Adrian Johns",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1279727584000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/709124",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "University of Chicago Press",
+            "tags": [
+                "Paperback",
+                "University of Chicago Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0226401227",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780226401225",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "709124",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

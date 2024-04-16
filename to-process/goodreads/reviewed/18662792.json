@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340949,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18662792
+                },
+                "isbn": 1939979005,
+                "isbn13": 9781939979001,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.CYnnlTQViAkWC4mGCqoodw",
+                "title": "Numenera Corebook",
+                "title_without_series": "Numenera Corebook",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381532140l/18662792._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381532140l/18662792._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18662792-numenera-corebook",
+                "num_pages": 416,
+                "format": "Hardcover",
+                "edition_information": "1st Edition",
+                "publisher": "Monte Cook Games",
+                "publication_day": 14,
+                "publication_year": 2013,
+                "publication_month": 8,
+                "average_rating": 4.21,
+                "ratings_count": 557,
+                "description": "<b>There have been eight previous worlds.</b><br /><br />Each world stretched across vast millennia of time. Each played host to a race whose civilizations rose to supremacy but eventually died or scattered, disappeared or transcended. During the time that each world flourished, those that ruled it spoke to the stars, reengineered their physical bodies, and mastered form and essence, all in their own unique ways.<br /><br />Each left behind remnants.<br /><br />People of the new world - the Ninth World - sometimes call these remnants magic, and who are we to say they're wrong? But most give a unique name to the legacies of the nigh-unimaginable past. The call them...<br /><br /><b>Numenera</b><br /><br />The Ninth World is built on the bones of the previous eight. The game of Numenera is about discovering the wonders of the world that came before, not for their own sake, but as the means to improve the present and build a future.<br /><br />Set in a far, far distant future, Numenera puts a new spin on traditional fantasy, creating something unique to reinvigorate the imagination of gamers everywhere. Player characters explore a world of mystery and danger to find leftover artifacts of the past: bits of nanotechnology, the datasphere threaded among still-orbiting satellites, bio-engineered creatures, and myriad strange and wondrous devices that defy understanding.<br /><br />With streamlined, intuitive rules, Numenera allows players to create characters in minutes and puts the emphasis back on story rather than laborious mechanics. Numenera is the latest creation of one of the biggest names in roleplaying games, award-winning designer and fan-favorite Monte Cook.<br /><br />Numenera Offers:<br /> \n   Streamlined story-based mechanics \n  <br />\n   The means for players to create the character they truly want to play \n  <br />\n   Open-ended gameplay with a strong narrative \n  <br />\n   A focus on mystery and the unknown, filling players with a sense of wonder \n  <br />\n   A complete overview of the Ninth World setting, filled with imaginative ideas, useful hooks, interesting characters, and wild locales \n  <br />\n   A bestiary of more than fifty creatures and characters \n  <br />\n   Descriptions of hundreds of technological items \n  <br />\n   Three chapters of game mastering advice written by one of the foremost experts on the topic \n  <br />\n   Four adventures to kickstart any campaign",
+                "authors": {
+                    "author": {
+                        "id": 16208,
+                        "name": "Monte Cook",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1238608816p5/16208.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1238608816p2/16208.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16208.Monte_Cook",
+                        "average_rating": 3.96,
+                        "ratings_count": 23126,
+                        "text_reviews_count": 673
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 25808225,
+                    "uri": "kca://work/amzn1.gr.work.v1.wyi9_KHi9hKYF-saZe6dhg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452281001
+                    },
+                    "old_status": {},
+                    "status": "currently-reading",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:05:35 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 710709632,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Jun 07 06:05:35 -0700 2014",
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:05:35 -0700 2014",
+            "date_updated": "Sat Jun 07 06:05:35 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340949",
+            "link": "https://www.goodreads.com/review/show/960340949",
+            "owned": 0
+        }
+    }
+}

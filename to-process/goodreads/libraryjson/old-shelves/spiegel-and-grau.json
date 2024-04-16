@@ -1,0 +1,104 @@
+{
+    "name": "Spiegel & Grau",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Between the World and Me",
+            "id": "25489625",
+            "author": "Ta-Nehisi Coates",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1496668790000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25489625",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Spiegel & Grau",
+            "tags": [
+                "Hardcover",
+                "Spiegel & Grau",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0812993543",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780812993547",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25489625",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Divide: American Injustice in the Age of the Wealth Gap",
+            "id": "20629318",
+            "author": "Matt Taibbi",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1445521534000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Divide: American Injustice in the Age of the Wealth Gap: Rating - 5/5",
+                    "date": 1445521534000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/20629318",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Spiegel & Grau",
+            "tags": [
+                "Kindle Edition",
+                "Spiegel & Grau",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "20629318",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1487326182,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25899877
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 382
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.NSXq3idGV5KyJbPvO0v2Eg",
+                "title": "Drive (The Expanse, #2.6)",
+                "title_without_series": "Drive",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436768519l/25899877._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436768519l/25899877._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25899877-drive",
+                "num_pages": 30,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": 27,
+                "publication_year": 2012,
+                "publication_month": 11,
+                "average_rating": 3.98,
+                "ratings_count": 5378,
+                "description": "Read \"Drive\", a Prequel to <i>The Expanse</i> series.<br /><br /><i>The Expanse</i>, premiering in December 2015 on Syfy, is based on <i>The New York Times</i> best selling book series by James S.A. Corey. Set two hundred years in the future, where man has colonized the outer asteroid belt, The Expanse follows the case of a missing girl that brings together a hardened detective and a rogue ship captain in a race across the solar system to expose the greatest conspiracy in human history. \"Drive\" highlights a key moment in <i>The Expanse</i> universe whose ramifications set the foundation for the show.",
+                "authors": {
+                    "author": {
+                        "id": 4192148,
+                        "name": "James S.A. Corey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573162332p5/4192148.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573162332p2/4192148.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey",
+                        "average_rating": 4.25,
+                        "ratings_count": 603159,
+                        "text_reviews_count": 37691
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 45783442,
+                    "uri": "kca://work/amzn1.gr.work.v1.nOvFBq8Nyb3Cb8a74hohKQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1139140853
+                        },
+                        "old_status": "read",
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Dec 31 07:43:51 -0800 2015"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1139140842
+                        },
+                        "old_status": {},
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Dec 31 07:43:51 -0800 2015"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1171466290,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 31 07:43:50 -0800 2015",
+            "date_updated": "Thu Dec 31 07:43:51 -0800 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1487326182",
+            "link": "https://www.goodreads.com/review/show/1487326182",
+            "owned": 0
+        }
+    }
+}

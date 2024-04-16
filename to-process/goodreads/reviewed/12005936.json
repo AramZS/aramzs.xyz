@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1351532071,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12005936
+                },
+                "isbn": 1584351063,
+                "isbn13": 9781584351061,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 24
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.no6-QnE1eSh0KdBOhueOZQ",
+                "title": "Atta",
+                "title_without_series": "Atta",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444230617l/12005936._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444230617l/12005936._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12005936-atta",
+                "num_pages": 200,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Semiotext(e)",
+                "publication_day": 29,
+                "publication_year": 2011,
+                "publication_month": 7,
+                "average_rating": 4.13,
+                "ratings_count": 242,
+                "description": "Ours is a century of fear. Governments and mass media bombard us with words and images: desert radicals, -rogue states, - jihadists, WMDs, existential enemies of freedom. We labor beneath myths that neither address nor describe the present situation, monstrous deceptions produced by a sound bite society. There is no reckoning of actuality, no understanding of the individual lives that inaugurated this echo chamber.<br /><br />In the summer of 1999, Mohamed Atta defended a master's thesis that critiqued the introduction of Western-style skyscrapers in the Middle East and called for the return of the -Islamic-Oriental city.- Using this as a departure point, Jarett Kobek's novel ATTA offers a fictionalized psychedelic biography of Mohamed Atta that circles around a simple question: what if 9/11 was as much a matter of architectural criticism as religious terrorism? Following the development of a socially awkward boy into one of history's great villains, Kobek demonstrates the need for a new understanding of global terrorism. Joined in this volume by a second work, -The Whitman of Tikrit---a radical reimagining of Saddam Hussein's last day before capture--ATTA is a brutal, relentless, and ultimately fearless corrective to ten years of propaganda and pandering.",
+                "authors": {
+                    "author": {
+                        "id": 3191857,
+                        "name": "Jarett Kobek",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3191857.Jarett_Kobek",
+                        "average_rating": 3.72,
+                        "ratings_count": 3116,
+                        "text_reviews_count": 517
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 16970592,
+                    "uri": "kca://work/amzn1.gr.work.v1.jiEx-WHkL4anTfOUcA7deA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 953493286
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Aug 01 08:46:13 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 1,
+            "spoiler_flag": false,
+            "spoilers_state": "removed",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Aug 01 00:00:00 -0700 2015",
+            "date_added": "Sat Aug 01 08:46:12 -0700 2015",
+            "date_updated": "Thu Dec 31 07:40:59 -0800 2015",
+            "read_count": 1,
+            "body": "Atta is a book that is hard to describe. Meticulous, fascinating, disturbing. <br /><br />In some ways it might be best to go into this book with no knowledge of what is within, which is how I did it. To be so thoroughly introduced to the internal voice and thought process of a character who is often used to exemplify inhumanity, and whose acts are well deserving of revilement, is to repudiate dehumanization, generalization and demonization. Even our worst enemies are still people; their thoughts and motivations are not uniform, and may not even be what we suspect. Even the clearest of evils does not have the clearest of sources. <br /><br />Jarett Kobek writes a well-researched historical fiction [spoilers removed] Few books will make you think more.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1351532071",
+            "link": "https://www.goodreads.com/review/show/1351532071",
+            "owned": 0
+        }
+    }
+}

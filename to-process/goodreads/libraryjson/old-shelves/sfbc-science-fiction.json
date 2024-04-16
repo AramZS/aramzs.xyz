@@ -1,0 +1,103 @@
+{
+    "name": "Sfbc Science Fiction",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Chronicles of the Lensmen, Volume 1: Triplanetary / First Lensman / Galactic Patrol",
+            "id": "1992216",
+            "author": "E.E. \"Doc\" Smith",
+            "date_finished": 1279670400000,
+            "notes": [],
+            "date_started": 1279727634000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Chronicles of the Lensmen, Volume 1: Triplanetary / First Lensman / Galactic Patrol: Rating - 5/5",
+                    "date": 1279670400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1992216",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Sfbc Science Fiction",
+            "tags": [
+                "Hardcover",
+                "Sfbc Science Fiction",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1568658044",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781568658049",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "1992216",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Chronicles of the Lensmen, Volume 1: Triplanetary / First Lensman / Galactic Patrol",
+            "id": 1992216,
+            "author": "E.E. \"Doc\" Smith",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1992216",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Sfbc Science Fiction",
+            "tags": [
+                "Sfbc Science Fiction",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 1992216,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528966281,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13002061
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 74
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.rSPilYf9yZ6X-JB3Wow9wQ",
+                "title": "Imaginary Friends",
+                "title_without_series": "Imaginary Friends",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321944334l/13002061._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321944334l/13002061._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13002061-imaginary-friends",
+                "num_pages": 30,
+                "format": {},
+                "edition_information": {},
+                "publisher": "Speakman Press",
+                "publication_day": 31,
+                "publication_year": 2011,
+                "publication_month": 10,
+                "average_rating": 3.96,
+                "ratings_count": 1226,
+                "description": "In 1997, New York Times bestselling author Terry Brooks reinvented the fantasy genre again, publishing the contemporary fantasy masterpiece RUNNING WITH THE DEMON, the first book in a trilogy of novels that would become known as the Word/Void series.<br /><br />But in 1991, six years before RUNNING WITH THE DEMON, Terry Brooks began testing the mythos found in Word/Void and wrote a tale titled IMAGINARY FRIENDS, a short story published in the Lester del Rey anthology ONCE UPON A TIME!<br /><br />IMAGINARY FRIENDS has been out of print ever since -- but no longer!<br /><br />Jack McCall is ten days shy of his thirteenth birthday, a happy kid with wonderful parents, a great best friend, and a bright future. But after a series of headaches forces him to visit the family doctor, Jack discovers a dark secret about himself, one that threatens to destroy him.<br /><br />All is not lost though. In mysterious Sinnissippi Park where he is banned to tread, Jack discovers unexpected help from the most unlikely of friends and begins a quest to locate the most potent of magics -- one he needs if he is to survive.<br /><br />Here, for the first time in two decades, Terry Brooks fans can read the 8500-word short story IMAGINARY FRIENDS, featuring Sinnissippi Park and the first appearance of the elven creature Pick and his trusty owl Daniel!",
+                "authors": {
+                    "author": {
+                        "id": 9629,
+                        "name": "Terry Brooks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1280785812p5/9629.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1280785812p2/9629.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9629.Terry_Brooks",
+                        "average_rating": 3.96,
+                        "ratings_count": 775609,
+                        "text_reviews_count": 21501
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 18163015,
+                    "uri": "kca://work/amzn1.gr.work.v1.H2iiOHbCTErUrbiwdWhcNw"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Feb 01 00:00:00 -0800 2013",
+            "date_added": "Thu Feb 07 08:28:17 -0800 2013",
+            "date_updated": "Wed Jan 22 13:26:41 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528966281",
+            "link": "https://www.goodreads.com/review/show/528966281",
+            "owned": 0
+        }
+    }
+}

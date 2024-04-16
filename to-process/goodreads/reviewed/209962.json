@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528637096,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 209962
+                },
+                "isbn": 1401202918,
+                "isbn13": 9781401202910,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 39
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.6WmoqJNBRl5l_JO-8zCcww",
+                "title": "Global Frequency, Vol. 2: Detonation Radio",
+                "title_without_series": "Global Frequency, Vol. 2: Detonation Radio",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374055142l/209962._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374055142l/209962._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/209962.Global_Frequency_Vol_2",
+                "num_pages": {},
+                "format": {},
+                "edition_information": "Trade",
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.1,
+                "ratings_count": 1846,
+                "description": "From Warren Ellis, the creative dynamo behind such acclaimed titles as <i>Transmetropolitan</i> and <i>The Authority</i>, comes volume one in a stunning new Titan graphic novel series! Global Frequency is a latticework of 1001 scientists, soldiers and specialists in every field imaginable, woven into a net to stop every terrorist with a nuke, government weapons programme gone rogue or alien computer virus, Seeing, hearing, touching and battling all evil, it is Mankind's collective consciousness and immune system. Drawn by a dream team of amazing artists, Global Frequency is the all-knowing, all-powerful blanket to smother our darkest fears and worst nightmares!<br /><br /><b>Collecting</b>: <i>Global Frequency</i> 7-12",
+                "authors": {
+                    "author": {
+                        "id": 12772,
+                        "name": "Warren Ellis",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p5/12772.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p2/12772.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12772.Warren_Ellis",
+                        "average_rating": 4.13,
+                        "ratings_count": 411461,
+                        "text_reviews_count": 19050
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 1399397,
+                    "uri": "kca://work/amzn1.gr.work.v1.RexVW2V-kSCn99P_FfjynA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051893546
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:45:12 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813205109,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Feb 06 21:43:24 -0800 2013",
+            "date_updated": "Mon Oct 23 16:45:12 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528637096",
+            "link": "https://www.goodreads.com/review/show/528637096",
+            "owned": 0
+        }
+    }
+}

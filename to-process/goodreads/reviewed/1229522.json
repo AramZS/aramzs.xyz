@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520211092,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1229522
+                },
+                "isbn": 743464435,
+                "isbn13": 9780743464437,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZU0LjPRyJ4uVdEsYsVhLNg",
+                "title": "No Surrender (Starfleet Corps of Engineers Omnibus #4)",
+                "title_without_series": "No Surrender",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1229522.No_Surrender",
+                "num_pages": 311,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": {},
+                "publication_year": 2003,
+                "publication_month": 5,
+                "average_rating": 3.84,
+                "ratings_count": 161,
+                "description": "The technical specialists tackle a failed prison facility, battle a super-computer, save an entire race and attempt to cure a virulent plague in this stunning collection. The intrepid ingenious Starfleet Corps of Engineers return with four new challenging adventures. In NO SURRENDER the S.C.E. try to salvage a failed prison facility in a political firestorm, as the failure was due to sabotage by a group of political agitators. CAVEAT EMPTOR finds the corps contesting an ancient super-computer in a simple rescue mission gone horribly wrong. In PAST LIFE they must save the Evorons from certain demise when a radical faction sets out to destroy any evidence the Environs have that aliens visited the world before civilisation began. A And in OATHS a questionable malaise plagues the chief medical officer of S.C.E., Dr. Elizabeth Lense. Can she find her way out of depression to determine a cure to save her shipmates and an entire planets population from a deathly virus?",
+                "authors": {
+                    "author": {
+                        "id": 14532622,
+                        "name": "Mike  Collins",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1444739716p5/14532622.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1444739716p2/14532622.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14532622.Mike_Collins",
+                        "average_rating": 3.8,
+                        "ratings_count": 7648,
+                        "text_reviews_count": 893
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 1218073,
+                    "uri": "kca://work/amzn1.gr.work.v1.A2AXMtR65_JUtZ7-NFOVng"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:50:12 -0800 2013",
+            "date_updated": "Mon Jan 28 19:50:12 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520211092",
+            "link": "https://www.goodreads.com/review/show/520211092",
+            "owned": 0
+        }
+    }
+}

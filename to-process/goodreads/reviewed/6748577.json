@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960341390,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6748577
+                },
+                "isbn": "078695390X",
+                "isbn13": 9780786953905,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.AjkovzDP0Dn_Rmio5x65-g",
+                "title": "Player's Handbook 3: A 4th Edition D&D Core Rulebook",
+                "title_without_series": "Player's Handbook 3: A 4th Edition D&D Core Rulebook",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320486537l/6748577._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320486537l/6748577._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6748577-player-s-handbook-3",
+                "num_pages": 224,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Wizards of the Coast",
+                "publication_day": 16,
+                "publication_year": 2010,
+                "publication_month": 3,
+                "average_rating": 3.67,
+                "ratings_count": 343,
+                "description": "Rules for psionic, divine, and primal heroes.<br /><br /><b>\n  <i>Player’s Handbook</i>\n</b>®<i> <b>3</b> </i>expands the range of options available to <b>D&amp;D</b>® players with new classes, races, powers, and other material.<br /><br />This book builds on the array of classes and races presented in the <b>\n  <i>Player’s Handbook</i>\n</b> and <b>\n  <i>Player’s Handbook 2</i>\n</b> core rulebooks, presenting old favorites and new, never-before-seen options to the game. <b>\n  <i>Player’s Handbook 3</i>\n</b> also adds the psionic power source to the 4th Edition <b>D&amp;D</b> game, along with several new classes that harness this power source.",
+                "authors": {
+                    "author": {
+                        "id": 20512,
+                        "name": "Mike Mearls",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1233858885p5/20512.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1233858885p2/20512.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/20512.Mike_Mearls",
+                        "average_rating": 4.3,
+                        "ratings_count": 10074,
+                        "text_reviews_count": 319
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 6945009,
+                    "uri": "kca://work/amzn1.gr.work.v1.ZhxZYl0Y_eTJszjJYLkEVg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452281550
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:06:21 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710710011,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:06:21 -0700 2014",
+            "date_updated": "Sat Jun 07 06:06:21 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960341390",
+            "link": "https://www.goodreads.com/review/show/960341390",
+            "owned": 0
+        }
+    }
+}

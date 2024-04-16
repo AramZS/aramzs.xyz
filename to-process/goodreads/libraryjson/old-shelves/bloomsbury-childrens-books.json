@@ -1,0 +1,51 @@
+{
+    "name": "Bloomsbury Childrens Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",
+            "id": "23766634",
+            "author": "Sarah J. Maas",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1514491961000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/23766634",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Bloomsbury Childrens Books",
+            "tags": [
+                "Paperback",
+                "Bloomsbury Childrens Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1408857901",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781408857908",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "23766634",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

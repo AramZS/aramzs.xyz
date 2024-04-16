@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960342460,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18139012
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 38
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.s8SlLwSF5QnfGJLyojUZ1g",
+                "title": "The Unwinding: An Inner History of the New America",
+                "title_without_series": "The Unwinding: An Inner History of the New America",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372546785l/18139012._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372546785l/18139012._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18139012-the-unwinding",
+                "num_pages": 449,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Farrar, Straus and Giroux",
+                "publication_day": 21,
+                "publication_year": 2013,
+                "publication_month": 5,
+                "average_rating": 4.12,
+                "ratings_count": 10603,
+                "description": "American democracy is beset by a sense of crisis. Seismic shifts during a single generation have created a country of winners and losers, allowing unprecedented freedom while rending the social contract, driving the political system to the verge of breakdown, and setting citizens adrift to find new paths forward. In The Unwinding, George Packer, author of The Assassins’ Gate: America in Iraq, tells the story of the United States over the past three decades in an utterly original way, with his characteristically sharp eye for detail and gift for weaving together complex narratives.<br /><br />The Unwinding journeys through the lives of several Americans, including Dean Price, the son of tobacco farmers, who becomes an evangelist for a new economy in the rural South; Tammy Thomas, a factory worker in the Rust Belt trying to survive the collapse of her city; Jeff Connaughton, a Washington insider oscillating between political idealism and the lure of organized money; and Peter Thiel, a Silicon Valley billionaire who questions the Internet’s significance and arrives at a radical vision of the future. Packer interweaves these intimate stories with biographical sketches of the era’s leading public figures, from Newt Gingrich to Jay-Z, and collages made from newspaper headlines, advertising slogans, and song lyrics that capture the flow of events and their undercurrents.<br /><br />The Unwinding portrays a superpower in danger of coming apart at the seams, its elites no longer elite, its institutions no longer working, its ordinary people left to improvise their own schemes for success and salvation. Packer’s novelistic and kaleidoscopic history of the new America is his most ambitious work to date.",
+                "authors": {
+                    "author": {
+                        "id": 49986,
+                        "name": "George Packer",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1257121510p5/49986.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1257121510p2/49986.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/49986.George_Packer",
+                        "average_rating": 4.13,
+                        "ratings_count": 16829,
+                        "text_reviews_count": 2020
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 23542001,
+                    "uri": "kca://work/amzn1.gr.work.v1.h5BUckFzbnVHXfY2w6EDYw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452282864
+                    },
+                    "old_status": {},
+                    "status": "currently-reading",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:08:15 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 710710823,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Jun 07 06:08:15 -0700 2014",
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:08:15 -0700 2014",
+            "date_updated": "Sat Jun 07 06:08:15 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960342460",
+            "link": "https://www.goodreads.com/review/show/960342460",
+            "owned": 0
+        }
+    }
+}

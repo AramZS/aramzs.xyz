@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299969370,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 41021
+                },
+                "isbn": 1560254823,
+                "isbn13": 9781560254829,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Rb8i-aBJPhKNP4LnvNCFTg",
+                "title": "The Full Rudy: The Man, the Myth, the Mania",
+                "title_without_series": "The Full Rudy: The Man, the Myth, the Mania",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/41021.The_Full_Rudy",
+                "num_pages": 150,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Bold Type Books",
+                "publication_day": 6,
+                "publication_year": 2003,
+                "publication_month": 1,
+                "average_rating": 4,
+                "ratings_count": 5,
+                "description": "Newfield reminds us that in April 1999 Giuliani had only a 40 percent approval rating. A year later his divorce lawyer was savagely attacking his wife, Donna Hanover, while the mayor was flaunting his mistress in public. As a result, Giuliani's popularity plummeted again in the spring of 2000. He was almost a laughingstock when he withdrew from his Senate campaign against Hillary Clinton. He looked like a control freak who had lost control of himself. Then came 9/11, and Giuliani re-emerged as an international celebrity. He took charge when the towers fell, and he displayed leadership when others were dumbstruck. He was named Time magazine's \"Person of the Year,\" the avatar of the stricken city. He did a victory lap around the country, raising money for Republican candidates and giving speeches for 100,000 a pop; he may rake in 10 million over the next year. Yet even as he became a part of pop iconography, celebrated as \"America's Mayor,\" Giuliani was still loathed in some black neighborhoods in the city. People in Brownsville, Texas, might have thought of him as their mayor, but blacks in Brownsville, Brooklyn, did not. In The Full Rudy Newfield gives the devil his due, conceding that New York City did become a better place to live during Giuliani's two terms. He was skilled at solving problems that lent themselves to the application of a military-style strategy but he was a mayor of excess, a mayor of missed opportunities, political opportunism, and stunning harshness. Photographs and cartoons add to this Emmy award-winning journalist's myth-busting portrait. \"In a time when American journalism is getting its share of slings and arrows ... Newfield stands out as a national treasure.\"—Peter Maas \"He writes with the sharp eye of the trained observer and the engaged heart of a humanist.\"—Budd Schulberg \" He is the loudest liberal voice in a time of timid whispers. Newfield's hands ... pull out the truth.\"—Jimmy Breslin \"Newfield has made it his life's mission to uncover and share significant truths about important people and events.\"—Mario Cuomo",
+                "authors": {
+                    "author": {
+                        "id": 23076,
+                        "name": "Jack Newfield",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1265044351p5/23076.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1265044351p2/23076.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/23076.Jack_Newfield",
+                        "average_rating": 4.11,
+                        "ratings_count": 476,
+                        "text_reviews_count": 50
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 1670796,
+                    "uri": "kca://work/amzn1.gr.work.v1.OJXnwnoaonYx8KzqIenf6w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886481363
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:31:59 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:31:59 -0700 2015",
+            "date_updated": "Fri Jun 05 15:31:59 -0700 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299969370",
+            "link": "https://www.goodreads.com/review/show/1299969370",
+            "owned": 0
+        }
+    }
+}

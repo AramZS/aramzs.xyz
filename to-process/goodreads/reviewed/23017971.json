@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1304800585,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23017971
+                },
+                "isbn": 785192190,
+                "isbn13": 9780785192190,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 90
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.veV5raD5zyABUbapaJ7GrQ",
+                "title": "Hawkeye Omnibus",
+                "title_without_series": "Hawkeye Omnibus",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488384311l/23017971._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488384311l/23017971._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23017971-hawkeye-omnibus",
+                "num_pages": 552,
+                "format": "Hardcover",
+                "edition_information": "Omnibus",
+                "publisher": "Marvel",
+                "publication_day": 3,
+                "publication_year": 2015,
+                "publication_month": 11,
+                "average_rating": 4.55,
+                "ratings_count": 890,
+                "description": "It's Marvel's most critically acclaimed comic in recent memory! Clint Barton, breakout star of a little Marvel movie you might have seen a while back, continues his fight for justice...and good rooftop BBQs! With Young Avenger Kate Bishop by his side, he's out to get some downtime from being one of Earth's Mightiest Heroes...but when the apartment building he's moved into, and the neighbors he's befriended, are threatened by a tracksuit-wearing, dog-abusing gang of Eastern European mobsters who say \"bro\" an awful lot, Clint must stand up and defend his new adopted family...any way he can.<br /><br /><b>Collecting</b>: <i>Hawkeye</i> 1-22, Annual 1; <i>Young Avengers Presents</i> 6",
+                "authors": {
+                    "author": {
+                        "id": 61382,
+                        "name": "Matt Fraction",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1464823629p5/61382.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1464823629p2/61382.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/61382.Matt_Fraction",
+                        "average_rating": 3.97,
+                        "ratings_count": 273818,
+                        "text_reviews_count": 19232
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 42587521,
+                    "uri": "kca://work/amzn1.gr.work.v1.nNyLhkNjJJ4Iozqsr_JYXg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 892739793
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 10 20:36:46 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 1813222933,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813196036,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Wed Jun 10 20:36:45 -0700 2015",
+            "date_updated": "Mon Oct 23 17:09:58 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1304800585",
+            "link": "https://www.goodreads.com/review/show/1304800585",
+            "owned": 0
+        }
+    }
+}

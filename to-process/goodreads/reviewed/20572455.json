@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960339916,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20572455
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 294
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZiAAZ4L0BVWNLM6rw7PChQ",
+                "title": "Skin Game (The Dresden Files, #15)",
+                "title_without_series": "Skin Game",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20572455-skin-game",
+                "num_pages": 610,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.56,
+                "ratings_count": 67060,
+                "description": "<b>Chicago’s only professional wizard is about to have a very bad day in the latest novel in the #1 New York Times bestselling Dresden Files...</b><br /><br />As Winter Knight to the Queen of Air and Darkness, Harry Dresden never knows what the scheming Mab might want him to do. Usually, it’s something awful.<br /><br />Mab has traded Harry’s skills to pay off a debt. And now he must help a group of villains led by Harry’s most despised enemy, Nicodemus Archleone, to break into a high-security vault so that they can then access a vault in the Nevernever.<br /><br />Problem is, the vault belongs to Hades, Lord of the freaking Underworld. And Dresden is dead certain that Nicodemus has no intention of allowing any of his crew to survive the experience. Dresden’s always been tricky, but he’s going to have to up his backstabbing game to survive this mess...",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 23811929,
+                    "uri": "kca://work/amzn1.gr.work.v1.5P6VR42Gx53F6o2nKW7wWg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452279688
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:03:43 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Jun 07 07:05:06 -0700 2014",
+            "date_added": "Sat Jun 07 06:03:43 -0700 2014",
+            "date_updated": "Sat Jun 07 07:05:06 -0700 2014",
+            "read_count": 1,
+            "body": "Every book in this series just gets better. I end up reading them faster and then I get to the end and the books' only flaw reveals itself, that the next book isn't ready for me to read yet!",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960339916",
+            "link": "https://www.goodreads.com/review/show/960339916",
+            "owned": 0
+        }
+    }
+}

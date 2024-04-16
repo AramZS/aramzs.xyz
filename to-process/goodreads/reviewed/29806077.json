@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333631192,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 29806077
+                },
+                "isbn": 1503938123,
+                "isbn13": 9781503938120,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 592
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.B5ABhqNhsLmAnBjYKz-ngQ",
+                "title": "The Woman on the Orient Express",
+                "title_without_series": "The Woman on the Orient Express",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462414253l/29806077._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462414253l/29806077._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/29806077-the-woman-on-the-orient-express",
+                "num_pages": 330,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Lake Union Publishing",
+                "publication_day": 20,
+                "publication_year": 2016,
+                "publication_month": 9,
+                "average_rating": 4.14,
+                "ratings_count": 15168,
+                "description": "Hoping to make a clean break from a fractured marriage, Agatha Christie boards the Orient Express in disguise. But unlike her famous detective Hercule Poirot, she can’t neatly unravel the mysteries she encounters on this fateful journey.<br /><br />Agatha isn’t the only passenger on board with secrets. Her cabinmate Katharine Keeling’s first marriage ended in tragedy, propelling her toward a second relationship mired in deceit. Nancy Nelson—newly married but carrying another man’s child—is desperate to conceal the pregnancy and teeters on the brink of utter despair. Each woman hides her past from the others, ferociously guarding her secrets. But as the train bound for the Middle East speeds down the track, the parallel courses of their lives shift to intersect—with lasting repercussions.<br /><br />Filled with evocative imagery, suspense, and emotional complexity, <i>The Woman on the Orient Express</i> explores the bonds of sisterhood forged by shared pain and the power of secrets.",
+                "authors": {
+                    "author": {
+                        "id": 5066311,
+                        "name": "Lindsay Jayne Ashford",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5066311.Lindsay_Jayne_Ashford",
+                        "average_rating": 4.1,
+                        "ratings_count": 28654,
+                        "text_reviews_count": 2170
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 50171696,
+                    "uri": "kca://work/amzn1.gr.work.v1.FB96NBp6dXnxT3ZKnZxMcA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2274322529
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Mar 20 05:17:46 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Mar 20 05:17:46 -0700 2018",
+            "date_updated": "Tue Mar 20 05:18:41 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333631192",
+            "link": "https://www.goodreads.com/review/show/2333631192",
+            "owned": 0
+        }
+    }
+}

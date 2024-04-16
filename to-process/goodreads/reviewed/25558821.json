@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2054299420,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25558821
+                },
+                "isbn": "160690700X",
+                "isbn13": 9781606907009,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 124
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.caacHXUz2ab-RStHzo38vQ",
+                "title": "Jim Butcher's The Dresden Files: Down Town",
+                "title_without_series": "Jim Butcher's The Dresden Files: Down Town",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436341291l/25558821._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436341291l/25558821._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25558821-jim-butcher-s-the-dresden-files",
+                "num_pages": 144,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Dynamite Entertainment",
+                "publication_day": 23,
+                "publication_year": 2015,
+                "publication_month": 9,
+                "average_rating": 4.02,
+                "ratings_count": 1385,
+                "description": "Chicago wizard-for-hire Harry Dresden and his new apprentice, Molly Carpenter, intend to end the havoc caused by a mad sorcerer - one whose ambitions would have the Windy City streets carved out as his own private kingdom. But when the magical upstart enters into an alliance with the notorious mob boss \"Gentleman Johnnie\" Marcone, will the fast-and-loose Dresden and his young charge survive unscathed?<br />-<br />This graphic novel collects the critically acclaimed, six-issue series in one volume, and features a bonus section with Jim Butcher's original story outline, sketchbook artwork from Carlos Gomez, cover gallery with roughs from Stjepan Sejic, and more!<br />\"The perfect mix of mystery, thrills, humor, and magic. Highest possible recommendation.\" - SciFiPulse<br />\"If you have been away from the Dresden Files for a while, or simply looking for your next magic mystery fix, The Dresden Files: Down Town has what you want.\" - Major Spoilers",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 45355470,
+                    "uri": "kca://work/amzn1.gr.work.v1.JxmZoR3_a13DQGIgx2obyQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1910667770
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 09 07:17:24 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1708036317,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Jul 09 07:17:23 -0700 2017",
+            "date_updated": "Sun Jul 09 07:17:23 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2054299420",
+            "link": "https://www.goodreads.com/review/show/2054299420",
+            "owned": 0
+        }
+    }
+}

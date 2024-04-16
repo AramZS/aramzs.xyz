@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 442769440,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 11890817
+                },
+                "isbn": "039915843X",
+                "isbn13": 9780399158438,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 336
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.kOgEXmsfUxVjgAkHdMgr-w",
+                "title": "Distrust That Particular Flavor",
+                "title_without_series": "Distrust That Particular Flavor",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/11890817-distrust-that-particular-flavor",
+                "num_pages": 255,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "G.P. Putnam's Sons",
+                "publication_day": 3,
+                "publication_year": 2012,
+                "publication_month": 1,
+                "average_rating": 3.79,
+                "ratings_count": 2895,
+                "description": "William Gibson is known primarily as a novelist, with his work ranging from his groundbreaking first novel, \"Neuromancer,\" to his more recent contemporary bestsellers \"Pattern Recognition, Spook Country,\" and \"Zero History.\" During those nearly thirty years, though, Gibson has been sought out by widely varying publications for his insights into contemporary culture. \"Wired\" magazine sent him to Singapore to report on one of the world's most buttoned-up states. \"The New York Times Magazine\" asked him to describe what was wrong with the Internet. Rolling Stone published his essay on the ways our lives are all \"soundtracked\" by the music and the culture around us. And in a speech at the 2010 Book Expo, he memorably described the interactive relationship between writer and reader.These essays and articles have never been collected-until now. Some have never appeared in print at all. In addition, \"Distrust That Particular Flavor\" includes journalism from small publishers, online sources, and magazines no longer in existence. This volume will be essential reading for any lover of William Gibson's novels. \"Distrust That Particular Flavor\" offers readers a privileged view into the mind of a writer whose thinking has shaped not only a generation of writers but our entire culture.",
+                "authors": {
+                    "author": {
+                        "id": 9226,
+                        "name": "William Gibson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1373826214p5/9226.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1373826214p2/9226.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9226.William_Gibson",
+                        "average_rating": 3.89,
+                        "ratings_count": 578196,
+                        "text_reviews_count": 24346
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 16849819,
+                    "uri": "kca://work/amzn1.gr.work.v1.Sj35maMFWH21wHP-iksMyQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 293107768,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Jul 20 00:00:00 -0700 2012",
+            "date_added": "Sat Oct 27 08:00:52 -0700 2012",
+            "date_updated": "Sat Oct 27 08:15:19 -0700 2012",
+            "read_count": 1,
+            "body": "You wouldn't normally think of Gibson as a non-fiction author, but Distrust That Particular Flavor gives you a set of remarkable essays written with the same unique style and touch of the future that makes his fiction so fascinating.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/442769440",
+            "link": "https://www.goodreads.com/review/show/442769440",
+            "owned": 0
+        }
+    }
+}

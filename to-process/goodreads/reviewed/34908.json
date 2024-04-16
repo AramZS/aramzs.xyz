@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 25740754,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34908
+                },
+                "isbn": 1416912274,
+                "isbn13": 9781416912279,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 926
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZnZY7L2ns75xzL1TJeaLpA",
+                "title": "Here, There Be Dragons (Chronicles of the Imaginarium Geographica, #1)",
+                "title_without_series": "Here, There Be Dragons",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34908.Here_There_Be_Dragons",
+                "num_pages": 326,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Simon & Schuster Books for Young Readers",
+                "publication_day": 26,
+                "publication_year": 2006,
+                "publication_month": 9,
+                "average_rating": 3.86,
+                "ratings_count": 10924,
+                "description": "<b>The Imaginarium Geographica</b><br /><br /><i>\"What is it?\" John asked.<br />The little man blinked and arched an eyebrow.<br />\"It is the world, my boy,\" he said. \"All the world, in ink and blood, vellum and parchment, leather and hide. It is the world, and it is yours to save or lose.\" </i><br /><br />An unusual murder brings together three strangers, John, Jack, and Charles, on a rainy night in London during the first World War. An eccentric little man called Bert tells them that they are now the caretakers of the Imaginarium Geographica -- an atlas of all the lands that have ever existed in myth and legend, fable and fairy tale. These lands, Bert claims, can be traveled to in his ship the Indigo Dragon, one of only seven vessels that is able to cross the Frontier between worlds into the Archipelago of Dreams.<br /><br />Pursued by strange and terrifying creatures, the companions flee London aboard the Dragonship. Traveling to the very realm of the imagination itself, they must learn to overcome their fears and trust in one another if they are to defeat the dark forces that threaten the destiny of two worlds.<br /><br />An extraordinary journey of myth, magic, and mystery, <i>Here, There Be Dragons</i> introduces James A. Owen as a formidable new talent.",
+                "authors": {
+                    "author": {
+                        "id": 19733,
+                        "name": "James A. Owen",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1267396619p5/19733.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1267396619p2/19733.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/19733.James_A_Owen",
+                        "average_rating": 4.01,
+                        "ratings_count": 24987,
+                        "text_reviews_count": 2248
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 2498824,
+                    "uri": "kca://work/amzn1.gr.work.v1.2c8JEqKYQ9TdRy8lUHOuQQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 10865754,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 28 08:05:11 -0700 2008",
+            "date_updated": "Sat Jun 28 08:05:11 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/25740754",
+            "link": "https://www.goodreads.com/review/show/25740754",
+            "owned": 0
+        }
+    }
+}

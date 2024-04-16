@@ -4,12 +4,12 @@
 
 {% block content %}
     <h1>Quotes</h1>
-    <p>List of quotes collected from various sources, mostly used for my weeks in review.</p>
+    <p>List of quotes collected from various sources, taken from intersting sources all over, but especially via the highlight function in my ebook reader.</p>
 
     {% for quote in quotes | reverse %}
         <blockquote>
             <p><em>“{{ quote.blockquote }}”</em><br>
-                — {{ quote.cite }}
+                — {{ quote.cite.name }}
             </p>
         </blockquote>
     {% endfor %}

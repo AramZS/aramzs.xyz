@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 442775185,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 24800
+                },
+                "isbn": "038560310X",
+                "isbn13": 9780385603102,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7545
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.bu0H_yqYefblt1zZW7Yiog",
+                "title": "House of Leaves",
+                "title_without_series": "House of Leaves",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403889034l/24800._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403889034l/24800._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/24800.House_of_Leaves",
+                "num_pages": 705,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Random House",
+                "publication_day": 7,
+                "publication_year": 2000,
+                "publication_month": 3,
+                "average_rating": 4.1,
+                "ratings_count": 118734,
+                "description": "Years ago, when <i>House of Leaves</i> was first being passed around, it was nothing more than a badly bundled heap of paper, parts of which would occasionally surface on the Internet. No one could have anticipated the small but devoted following this terrifying story would soon command. Starting with an odd assortment of marginalized youth—musicians, tattoo artists, programmers, strippers, environmentalists, and adrenaline junkies—the book eventually made its way into the hands of older generations, who not only found themselves in those strangely arranged pages but also discovered a way back into the lives of their estranged children.<br /><br />Now, for the first time, this astonishing novel is made available in book form, complete with the original colored words, vertical footnotes, and newly added second and third appendices.<br /><br />The story remains unchanged, focusing on a young family that moves into a small home on Ash Tree Lane where they discover something is terribly wrong: their house is bigger on the inside than it is on the outside.<br /><br />Of course, neither Pulitzer Prize-winning photojournalist Will Navidson nor his companion Karen Green was prepared to face the consequences of that impossibility, until the day their two little children wandered off and their voices eerily began to return another story—of creature darkness, of an ever-growing abyss behind a closet door, and of that unholy growl which soon enough would tear through their walls and consume all their dreams.",
+                "authors": {
+                    "author": {
+                        "id": 13974,
+                        "name": "Mark Z. Danielewski",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1567538753p5/13974.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1567538753p2/13974.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13974.Mark_Z_Danielewski",
+                        "average_rating": 4.04,
+                        "ratings_count": 138629,
+                        "text_reviews_count": 12961
+                    }
+                },
+                "published": 2000,
+                "work": {
+                    "id": 856555,
+                    "uri": "kca://work/amzn1.gr.work.v1.uRivJZCzFTJUGFTjLYSwCQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 293106997,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 27 08:13:14 -0700 2012",
+            "date_updated": "Sat Oct 27 08:13:14 -0700 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/442775185",
+            "link": "https://www.goodreads.com/review/show/442775185",
+            "owned": 0
+        }
+    }
+}

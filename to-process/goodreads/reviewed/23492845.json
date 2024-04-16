@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2934563379,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23492845
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 76
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.XnsqwfxpRWPzosMjeKrRzg",
+                "title": "The Raptor & the Wren (Miriam Black, #5)",
+                "title_without_series": "The Raptor & the Wren",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504709838l/23492845._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504709838l/23492845._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23492845-the-raptor-the-wren",
+                "num_pages": 400,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "SAGA Press",
+                "publication_day": 23,
+                "publication_year": 2018,
+                "publication_month": 1,
+                "average_rating": 4.29,
+                "ratings_count": 647,
+                "description": "Official Amazon description:<br />In the fifth book of the “wildly entertaining” (Kirkus Reviews) Miriam Black series, Miriam continues her journey to find answers on how to change her fate and begin to make right some of what she’s done wrong.<br /><br />Armed with new knowledge that suggests a great sacrifice must be made to change her fate, Miriam continues her quest and learns that she must undo the tragedies of her past to move forward.<br /><br />One such tragedy is Wren, who is now a teen caught up in a bad relationship with the forces that haunt Miriam and has become a killer, just like Miriam. Black must try to save the girl, but what’s ahead is something she thought impossible…<br /><br />Description from Chuck Wendig's blog:<br /><br />Miriam Black, in lockstep with death, continues on her quest to control her own fate in The Raptor and the Wren, the brand-new fifth book in the Miriam Black series.<br /><br />Having been desperate to rid herself of her psychic powers, Miriam now finds herself armed with the solution -- a seemingly impossible one. But Miriam’s past is catching up to her, just as she’s trying to leave it behind. A copy-cat killer has caught the public's attention. An old nemesis is back from the dead. And Louis, the ex she still loves, will commit an unforgivable act if she doesn't change the future. <br /><br />Miriam knows that only a great sacrifice is enough to counter fate. Can she save Louis, stop the killer, and survive? <br /><br />Hunted and haunted, Miriam is coming to a crossroads, and nothing is going to stand in her way, not even the Trespasser.",
+                "authors": {
+                    "author": {
+                        "id": 17152,
+                        "name": "Chuck Wendig",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p5/17152.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p2/17152.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17152.Chuck_Wendig",
+                        "average_rating": 3.73,
+                        "ratings_count": 111871,
+                        "text_reviews_count": 16120
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 43082973,
+                    "uri": "kca://work/amzn1.gr.work.v1.EUxrASc8IdgucM1WFy_Gaw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3069751884
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Aug 12 12:20:27 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Aug 12 12:20:26 -0700 2019",
+            "date_updated": "Mon Aug 12 12:25:11 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2934563379",
+            "link": "https://www.goodreads.com/review/show/2934563379",
+            "owned": 0
+        }
+    }
+}

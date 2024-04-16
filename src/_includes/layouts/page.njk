@@ -19,23 +19,25 @@
 {% endblock %}
 
 {% block content %}
-    <article {{ ('class="'+ headingClass +'"') | safe if headingClass }}>
+    <article  class="content-grid {{ headingClass | safe }}" {% if templateName %}id="{{templateName}}"{% endif %} data-source="src/_includes/layouts/page.njk">
         <header>
             <div>
                 {% block pageHeaderBefore %}
                     {% if titlePrefix %}<small><span>{{ titlePrefix | safe }}</span></small>{% endif %}
                 {% endblock %}
-                {% if title or headerTitle %}<h1>{{ (title or headerTitle) }}</h1>{% endif %}
+                {% if annotationType == "Highlight" and sourceTitle %}<h1><em>{{sourceTitle}}</em> Highlight</h1>
+                {% elseif title or headerTitle %}
+                <h1>{{ (title or headerTitle) | safe }}</h1>
+                {% endif %}
                 {% if subTitle %}<h2>{{ subTitle | safe }}</h2>{% endif %}
             </div>
             {% block pageHeaderAfter %}{% endblock %}
         </header>
 
-        <span>&mdash;</span>
+        <span class="header-separator">&mdash;</span>
 
         {% block pageContent %}
             {{ content | safe }}
         {% endblock %}
-        {% include "components/git-history.njk" %}
     </article>
 {% endblock %}

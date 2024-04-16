@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 462154035,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 239399
+                },
+                "isbn": 765354063,
+                "isbn13": 9780765354068,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2573
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.cutihFCApwYgBkEiSL19JA",
+                "title": "The Ghost Brigades (Old Man's War, #2)",
+                "title_without_series": "The Ghost Brigades",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403295928l/239399._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403295928l/239399._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/239399.The_Ghost_Brigades",
+                "num_pages": 347,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 1,
+                "publication_year": 2007,
+                "publication_month": 5,
+                "average_rating": 4.1,
+                "ratings_count": 64395,
+                "description": "The Ghost Brigades are the Special Forces of the Colonial Defense Forces, elite troops created from the DNA of the dead and turned into the perfect soldiers for the CDF's toughest operations. They’re young, they’re fast and strong, and they’re totally without normal human qualms.<br /><br />The universe is a dangerous place for humanity—and it's about to become far more dangerous. Three races that humans have clashed with before have allied to halt our expansion into space. Their linchpin: the turncoat military scientist Charles Boutin, who knows the CDF’s biggest military secrets. To prevail, the CDF must find out why Boutin did what he did.<br /><br />Jared Dirac is the only human who can provide answers -- a superhuman hybrid, created from Boutin's DNA, Jared’s brain should be able to access Boutin's electronic memories. But when the memory transplant appears to fail, Jared is given to the Ghost Brigades.<br /><br />At first, Jared is a perfect soldier, but as Boutin’s memories slowly surface, Jared begins to intuit the reason’s for Boutin’s betrayal. As Jared desperately hunts for his \"father,\" he must also come to grips with his own choices. Time is running out: The alliance is preparing its offensive, and some of them plan worse things than humanity’s mere military defeat…",
+                "authors": {
+                    "author": {
+                        "id": 4763,
+                        "name": "John Scalzi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p5/4763.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562613145p2/4763.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4763.John_Scalzi",
+                        "average_rating": 4.03,
+                        "ratings_count": 712024,
+                        "text_reviews_count": 57344
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 18279845,
+                    "uri": "kca://work/amzn1.gr.work.v1.7yqKkNKDKv8HfTkJe3VtpA"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri Nov 23 19:22:43 -0800 2012",
+            "read_at": "Sat Nov 24 13:19:57 -0800 2012",
+            "date_added": "Fri Nov 23 19:22:43 -0800 2012",
+            "date_updated": "Sat Nov 24 13:19:57 -0800 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/462154035",
+            "link": "https://www.goodreads.com/review/show/462154035",
+            "owned": 0
+        }
+    }
+}

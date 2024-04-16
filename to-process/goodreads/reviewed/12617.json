@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 442774939,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12617
+                },
+                "isbn": 375714499,
+                "isbn13": 9780375714498,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 511
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.CQd2SjHLuZUU0aN6ToZO5w",
+                "title": "Manufacturing Consent: The Political Economy of the Mass Media",
+                "title_without_series": "Manufacturing Consent: The Political Economy of the Mass Media",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525166345l/12617._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525166345l/12617._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12617.Manufacturing_Consent",
+                "num_pages": 412,
+                "format": "Paperback",
+                "edition_information": "Reprint edition",
+                "publisher": "Pantheon",
+                "publication_day": {},
+                "publication_year": 2002,
+                "publication_month": {},
+                "average_rating": 4.25,
+                "ratings_count": 14447,
+                "description": "In this pathbreaking work, Edward S. Herman and Noam Chomsky show that, contrary to the usual image of the news media as cantankerous, obstinate, and ubiquitous in their search for truth and defense of justice, in their actual practice they defend the economic, social, and political agendas of the privileged groups that dominate domestic society, the state, and the global order.<br /><br />Based on a series of case studies—including the media’s dichotomous treatment of “worthy” versus “unworthy” victims, “legitimizing” and “meaningless” Third World elections, and devastating critiques of media coverage of the U.S. wars against Indochina—Herman and Chomsky draw on decades of criticism and research to propose a Propaganda Model to explain the media’s behavior and performance. Their new introduction updates the Propaganda Model and the earlier case studies, and it discusses several other applications. These include the manner in which the media covered the passage of the North American Free Trade Agreement and subsequent Mexican financial meltdown of 1994-1995, the media’s handling of the protests against the World Trade Organization, World Bank, and International Monetary Fund in 1999 and 2000, and the media’s treatment of the chemical industry and its regulation. What emerges from this work is a powerful assessment of how propagandistic the U.S. mass media are, how they systematically fail to live up to their self-image as providers of the kind of information that people need to make sense of the world, and how we can understand their function in a radically new way.",
+                "authors": {
+                    "author": {
+                        "id": 7985,
+                        "name": "Edward S. Herman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7985.Edward_S_Herman",
+                        "average_rating": 4.24,
+                        "ratings_count": 15099,
+                        "text_reviews_count": 646
+                    }
+                },
+                "published": 2002,
+                "work": {
+                    "id": 857416,
+                    "uri": "kca://work/amzn1.gr.work.v1.QBx7S--AHGsPOfc8ea889g"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 293106796,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 27 08:12:45 -0700 2012",
+            "date_updated": "Sat Oct 27 08:12:45 -0700 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/442774939",
+            "link": "https://www.goodreads.com/review/show/442774939",
+            "owned": 0
+        }
+    }
+}

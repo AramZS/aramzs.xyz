@@ -1,0 +1,101 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 139442462,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 5093
+                },
+                "isbn": 1416521496,
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2498
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ogwLpJ9DWNI3rqqm4qYHSw",
+                "title": "Song of Susannah (The Dark Tower, #6)",
+                "title_without_series": "Song of Susannah",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554221361l/5093._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554221361l/5093._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/5093.Song_of_Susannah",
+                "num_pages": 544,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": 1,
+                "publication_year": 2006,
+                "publication_month": 6,
+                "average_rating": 3.98,
+                "ratings_count": 125336,
+                "description": "The Wolves have been defeated, but our tet faces yet another catastrophe. Susannah Dean’s body has been usurped by a demon named Mia who wants to use Susannah’s mortal form to bear a demon child. Stealing Black Thirteen, Mia has traveled through the Unfound Door to 1999 New York where she plans to give birth to her chap, a child born of two mothers and two fathers who will grow up to be Roland’s nemesis. With the help of the time-traveling Manni, Roland and Eddie plan to follow Susannah while Father Callahan and Jake will find Calvin Tower, owner of the vacant lot where a magical rose grows: a rose that must be saved at all costs. But despite our ka-tet’s intentions, ka has its own plans. Jake, Callahan, and Jake’s bumbler companion are transported to New York to follow Susannah, while Eddie and Roland are tumbled into East Stoneham, Maine, where they are greeted by Eddie’s old enemy, the gangster Balazar. But it isn’t just bullets that Roland and Eddie must brave. Soon they will meet their maker, in the form of a young author named Stephen King.",
+                "authors": {
+                    "author": {
+                        "id": 3389,
+                        "name": "Stephen King",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1362814142p5/3389.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1362814142p2/3389.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3389.Stephen_King",
+                        "average_rating": 4.04,
+                        "ratings_count": 13914723,
+                        "text_reviews_count": 547021
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 1178083,
+                    "uri": "kca://work/amzn1.gr.work.v1.NQp-y0Gm83nR6_si3h-w1A"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Jan 08 00:00:00 -0800 2011",
+            "date_added": "Sat Jan 08 23:14:19 -0800 2011",
+            "date_updated": "Sat Jan 08 23:15:04 -0800 2011",
+            "read_count": 1,
+            "body": "Completed! A weird one but good. Looking forward to the next one.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/139442462",
+            "link": "https://www.goodreads.com/review/show/139442462",
+            "owned": 0
+        }
+    }
+}

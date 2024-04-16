@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 70600916,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6505718
+                },
+                "isbn": 1591842794,
+                "isbn13": 9781591842798,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 26
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4uxVQWhTzUcyVe1ibJ41Lg",
+                "title": "Twitterville: How Businesses Can Thrive in the New Global Neighborhoods",
+                "title_without_series": "Twitterville: How Businesses Can Thrive in the New Global Neighborhoods",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6505718-twitterville",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.47,
+                "ratings_count": 184,
+                "description": {},
+                "authors": {
+                    "author": {
+                        "id": 9376,
+                        "name": "Shel Israel",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9376.Shel_Israel",
+                        "average_rating": 3.6,
+                        "ratings_count": 604,
+                        "text_reviews_count": 66
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 6697308,
+                    "uri": "kca://work/amzn1.gr.work.v1.gNe7mBWfciWVaNdmbZOg9Q"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 293111730,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Sep 07 00:00:00 -0700 2009",
+            "date_added": "Wed Sep 09 09:32:39 -0700 2009",
+            "date_updated": "Sat Oct 27 08:11:31 -0700 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/70600916",
+            "link": "https://www.goodreads.com/review/show/70600916",
+            "owned": 0
+        }
+    }
+}

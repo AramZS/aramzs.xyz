@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3156444669,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6294549
+                },
+                "isbn": 756405718,
+                "isbn13": 9780756405717,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2433
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UIiIOxBNE5_r09j7OMgMAA",
+                "title": "Rosemary and Rue (October Daye, #1)",
+                "title_without_series": "Rosemary and Rue",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6294549-rosemary-and-rue",
+                "num_pages": 346,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "DAW BOOKS Inc",
+                "publication_day": 1,
+                "publication_year": 2009,
+                "publication_month": 9,
+                "average_rating": 3.75,
+                "ratings_count": 30239,
+                "description": "October \"Toby\" Daye, a changeling who is half human and half fae, has been an outsider from birth. After getting burned by both sides of her heritage, Toby has denied the Faerie world, retreating to a \"normal\" life. Unfortunately for her, the Faerie world has other ideas... <br /><br /> The murder of Countess Evening Winterrose pulls Toby back into the fae world. Unable to resist Evening's dying curse, which binds her to investigate, Toby must resume her former position as knight errant and renew old alliances. As she steps back into fae society, dealing with a cast of characters not entirely good or evil, she realizes that more than her own life will be forfeited if she cannot find Evening's killer.",
+                "authors": {
+                    "author": {
+                        "id": 2860219,
+                        "name": "Seanan McGuire",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1245623198p5/2860219.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1245623198p2/2860219.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2860219.Seanan_McGuire",
+                        "average_rating": 4.03,
+                        "ratings_count": 460789,
+                        "text_reviews_count": 61403
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 6478937,
+                    "uri": "kca://work/amzn1.gr.work.v1.Fi8qfZf536FHlZIABZd6xQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3362020575
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Jan 23 03:45:52 -0800 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jan 23 03:45:52 -0800 2020",
+            "date_updated": "Thu Jan 23 03:46:21 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3156444669",
+            "link": "https://www.goodreads.com/review/show/3156444669",
+            "owned": 0
+        }
+    }
+}

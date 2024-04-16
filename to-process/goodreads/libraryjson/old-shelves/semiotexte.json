@@ -1,0 +1,104 @@
+{
+    "name": "Semiotext(e)",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Atta",
+            "id": "12005936",
+            "author": "Jarett Kobek",
+            "date_finished": 1438387200000,
+            "notes": [],
+            "date_started": 1451576459000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Atta: Rating - 5/5",
+                    "date": 1438387200000,
+                    "type": "long",
+                    "content": "Atta is a book that is hard to describe. Meticulous, fascinating, disturbing. <br/><br/>In some ways it might be best to go into this book with no knowledge of what is within, which is how I did it. To be so thoroughly introduced to the internal voice and thought process of a character who is often used to exemplify inhumanity, and whose acts are well deserving of revilement, is to repudiate dehumanization, generalization and demonization. Even our worst enemies are still people; their thoughts and motivations are not uniform, and may not even be what we suspect. Even the clearest of evils does not have the clearest of sources. <br/><br/>Jarett Kobek writes a well-researched historical fiction <spoiler>from the point of view of one of the 9/11 plane hijackers, centered on the idea that for Atta the attack was as much an architectural statement as a religious one.</spoiler> Few books will make you think more. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12005936",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Semiotext(e)",
+            "tags": [
+                "Paperback",
+                "Semiotext(e)",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1584351063",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781584351061",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "12005936",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Atta",
+            "id": 12005936,
+            "author": "Jarett Kobek",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/12005936",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Semiotext(e)",
+            "tags": [
+                "Paperback",
+                "Semiotext(e)",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 12005936,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

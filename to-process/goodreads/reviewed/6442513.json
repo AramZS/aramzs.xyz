@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 331121747,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6442513
+                },
+                "isbn": "076532279X",
+                "isbn13": 9780765322791,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 34
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.wMr8dIjgAfYdZwhEhiGbVg",
+                "title": "A Young Man Without Magic (The Fall of the Sorcerers, #1)",
+                "title_without_series": "A Young Man Without Magic",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312035737l/6442513._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312035737l/6442513._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6442513-a-young-man-without-magic",
+                "num_pages": 348,
+                "format": "Hardcover",
+                "edition_information": "1st ed.",
+                "publisher": "Tor Books",
+                "publication_day": 10,
+                "publication_year": 2009,
+                "publication_month": 11,
+                "average_rating": 3.2,
+                "ratings_count": 208,
+                "description": "Lawrence Watt-Evans, author of the acclaimed Legends of Ethshar and Worlds of Shadows novels invites readers to embark on a rollicking journey in a brand-new fantasy series.<br /><br />Anrel Murau is a scholar, a young man with no magical ability even though he is the son of two powerful sorcerers. Anrel’s lack of talent bars him from the ruling classes, but he is content to be a simple clerk.<br /><br />Upon returning to his childhood home after years of study in the capital, Anrel finds his friends and family held under the thumb of the corrupt local lord. When this lord murders a dear friend, Anrel finds that although he’s not a sorcerer, he is not without other means to demand justice.<br /><br />If he can survive life on the run, that is.<br /><br />Carrying only his sword, a few coins, and his wit, Anrel must leave behind everything he has ever known, trust himself to unexpected allies, and outmaneuver leagues of enemies who will stop at nothing to keep his dangerous ideas from ever being heard. Magic and intrigue collide in a swashbuckling tale of daring escapes, beautiful witches, and one quiet young man’s rise to hero—or traitor. Nothing will ever be simple for Anrel again, as his personal quest may provide more peril for those he holds dear.",
+                "authors": {
+                    "author": {
+                        "id": 20331,
+                        "name": "Lawrence Watt-Evans",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1311122102p5/20331.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1311122102p2/20331.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/20331.Lawrence_Watt_Evans",
+                        "average_rating": 3.92,
+                        "ratings_count": 41749,
+                        "text_reviews_count": 1888
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 6632480,
+                    "uri": "kca://work/amzn1.gr.work.v1.QFzHQzzWC4KqLXlEkXaymA"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed May 16 13:27:31 -0700 2012",
+            "date_updated": "Wed May 16 13:27:31 -0700 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/331121747",
+            "link": "https://www.goodreads.com/review/show/331121747",
+            "owned": 0
+        }
+    }
+}

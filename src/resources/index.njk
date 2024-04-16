@@ -13,7 +13,7 @@ permalink: "resources/{% if pagination.pageNumber > 0 %}{{ pagination.pageNumber
 
 {% block pageContent %}
 
-  <section>
+  <section data-source="src/resources/index.njk">
     {% set displayResourceType = true %}
     {% include "components/post-list.njk" %}
   </section>

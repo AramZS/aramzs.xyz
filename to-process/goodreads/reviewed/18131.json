@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528971776,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18131
+                },
+                "isbn": 440498058,
+                "isbn13": 9780440498056,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 18548
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.o4DBk1zCPy-z8cL1YZ5x8w",
+                "title": "A Wrinkle in Time (Time Quintet, #1)",
+                "title_without_series": "A Wrinkle in Time",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329061522l/18131._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329061522l/18131._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18131.A_Wrinkle_in_Time",
+                "num_pages": 211,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Yearling Books",
+                "publication_day": {},
+                "publication_year": 1973,
+                "publication_month": 4,
+                "average_rating": 4,
+                "ratings_count": 1024663,
+                "description": "<b>It was a dark and stormy night.</b><br /><br />Out of this wild night, a strange visitor comes to the Murry house and beckons Meg, her brother Charles Wallace, and their friend Calvin O'Keefe on a most dangerous and extraordinary adventure—one that will threaten their lives and our universe.<br /><br />Winner of the 1963 Newbery Medal, <i>A Wrinkle in Time</i> is the first book in Madeleine L'Engle's classic Time Quintet.",
+                "authors": {
+                    "author": {
+                        "id": 106,
+                        "name": "Madeleine L'Engle",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1305256804p5/106.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1305256804p2/106.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/106.Madeleine_L_Engle",
+                        "average_rating": 4.01,
+                        "ratings_count": 1451318,
+                        "text_reviews_count": 51927
+                    }
+                },
+                "published": 1973,
+                "work": {
+                    "id": 948387,
+                    "uri": "kca://work/amzn1.gr.work.v1.yle9k3DDlsFvzJETidF13g"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:33:54 -0800 2013",
+            "date_updated": "Thu Feb 07 08:33:54 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528971776",
+            "link": "https://www.goodreads.com/review/show/528971776",
+            "owned": 0
+        }
+    }
+}

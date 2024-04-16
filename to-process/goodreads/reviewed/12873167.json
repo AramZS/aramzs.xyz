@@ -1,0 +1,101 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 294829550,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12873167
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9780983843009,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 118
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.v6ibqJ03vom_TTfxJzsseg",
+                "title": "The Trilisk Ruins (Parker Interstellar Travels, #1)",
+                "title_without_series": "The Trilisk Ruins",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328132606l/12873167._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328132606l/12873167._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12873167-the-trilisk-ruins",
+                "num_pages": 308,
+                "format": {},
+                "edition_information": {},
+                "publisher": "Squidlord LLC",
+                "publication_day": 19,
+                "publication_year": 2014,
+                "publication_month": 1,
+                "average_rating": 3.73,
+                "ratings_count": 1963,
+                "description": "Telisa Relachik studied to be a xenoarchaeologist in a future where humans have found alien artifacts but haven't ever encountered live aliens. Of all the aliens whose extinct civilizations are investigated, the Trilisks are the most advanced and the most mysterious.<br /><br />Telisa refuses to join the government because of her opposition to its hard-handed policies restricting civilian investigation and trade of alien artifacts, despite the fact that her estranged father is a captain in the United Nations Space Force.<br /><br />When a group of artifact smugglers recruits her, she can't pass up the chance at getting her hands on objects that could advance her life's work. But she soon learns her expectations of excitement and riches come with serious drawbacks as she ends up fighting for her life on a mysterious alien planet.",
+                "authors": {
+                    "author": {
+                        "id": 375463,
+                        "name": "Michael McCloskey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1318903645p5/375463.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1318903645p2/375463.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/375463.Michael_McCloskey",
+                        "average_rating": 3.85,
+                        "ratings_count": 5473,
+                        "text_reviews_count": 385
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 18025853,
+                    "uri": "kca://work/amzn1.gr.work.v1.zLoapBcionYmp4jn8EWQAw"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Mar 15 11:11:11 -0700 2012",
+            "date_updated": "Thu Mar 15 11:11:11 -0700 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/294829550",
+            "link": "https://www.goodreads.com/review/show/294829550",
+            "owned": 0
+        }
+    }
+}

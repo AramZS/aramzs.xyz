@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749131298,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22438398
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.AAUG8b1o5QXqLNxxmVlGrg",
+                "title": "ZZT (Boss Fight Books)",
+                "title_without_series": "ZZT",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22438398-zzt",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.04,
+                "ratings_count": 249,
+                "description": "In 1991, long before Epic Games was putting out blockbusters like Unreal, Infinity Blade, and Gears of War, Tim Sweeney released a strange little MS-DOS shareware game called ZZT. The simplicity of its text graphics masked the complexity of its World Editor: players could use ZZT to design their own games.<br /><br />This feature was a revelation to thousands of gamers, including Anna Anthropy, author of Rise of the Videogame Zinesters. ZZT is an exploration of a submerged continent, a personal history of the shareware movement, ascii art, messy teen identity struggle, cybersex, transition, outsider art, the thousand deaths of Barney the Dinosaur, and what happens when a ten-year-old gets her hands on a programming language she can understand.<br /><br />It’s been said that the first Velvet Underground album sold only a few thousand copies, but that everyone who heard it formed a band. Well not everyone has played ZZT, but everyone who played it became a game designer.",
+                "authors": {
+                    "author": {
+                        "id": 5181019,
+                        "name": "Anna Anthropy",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1328825784p5/5181019.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1328825784p2/5181019.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5181019.Anna_Anthropy",
+                        "average_rating": 3.83,
+                        "ratings_count": 1457,
+                        "text_reviews_count": 232
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 41325466,
+                    "uri": "kca://work/amzn1.gr.work.v1.-d3K4oA4J2kYHJj6-Ppoyw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498305104
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:44:35 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414467736,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:44:35 -0700 2016",
+            "date_updated": "Mon Sep 05 07:44:35 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749131298",
+            "link": "https://www.goodreads.com/review/show/1749131298",
+            "owned": 0
+        }
+    }
+}

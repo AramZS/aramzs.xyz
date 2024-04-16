@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2073733229,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 10857421
+                },
+                "isbn": 1451636237,
+                "isbn13": 9781451636239,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 127
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.IE6AgdJ7WkowUW-KfjWwLw",
+                "title": "Blood Lite III: Aftertaste (Blood Lite, #3)",
+                "title_without_series": "Blood Lite III: Aftertaste",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321042439l/10857421._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321042439l/10857421._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/10857421-blood-lite-iii",
+                "num_pages": 513,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Gallery Books",
+                "publication_day": 29,
+                "publication_year": 2012,
+                "publication_month": 5,
+                "average_rating": 3.78,
+                "ratings_count": 1658,
+                "description": "The third book in the hilarious and horrifying national bestselling anthology series from the Horror Writers Association--a frightfest of sidesplitting stories from such \"New York Times\" bestselling authors as Jim Butcher, Sherrilyn Kenyon, Heather Graham, L.A. Banks, Kelley Armstrong, and many more! Horror fiction explores the dark side of human nature, often pushing the limits of violence, graphic gore, and extreme emotions. But with the popularity of shows and movies, such as \"The Walking Dead,\" \"True Blood,\" \"Twilight,\" \"Buffy the Vampire Slayer,\" audiences have demonstrated their love for the genre--especially accompanied with a dose of humor to tone down the terror.<br /><br />\"Blood Lite III: Aftertaste\" continues to put the fun back into dark fiction, featuring a wide range of humorous and highly entertaining horror-filled tales. Edited by Horror Writers Association founding member and award-winning author Kevin J. Anderson, the stories vary in tone from wry to downright laugh-out-loud funny. Featuring such well-known horror writers as Jim Butcher, Sherrilyn Kenyon, Christopher Golden, and many others, this collection of tales is perfect for anyone who enjoys being entertained as much as they love a good scare.<br /><br />Contents:<br />I was a teenage Bigfoot / Jim Butcher --<br />Blood-red greens / Joel A. Sutherland --<br />V plates / Kelley Armstong --<br />Put on a happy face / Christopher Golden --<br />Devil's contract / E.S. Magill --<br />Nine-tenths of the law / Eric James Stone --<br />Scrumptious bone bread / Jeff Strand --<br />Let that be a lesson to you / Mark Onspaugh --<br />Mint in box / Mike Baron --<br />Great zombie invasion of 1979 / J.G. Faherty --<br />Dating after the apocalypse / Stephen Dorato --<br />Typecast / Jeff Ryan --<br />Making the cut / Mike Resnick, Lezli Robyn --<br />Acknowledgments / Will Ludwigsen --<br />Mannequin / Heather Graham --<br />Short term / Daniel Pyle --<br />Distressed travelers / Nina Kiriki Hoffman --<br />Bayou brawl / L.A. Banks --<br />Steeple people / John Alfred Taylor --<br />For sale / David Sakmyster --<br />Man who could not be bothered to die / Norman Prentiss --<br />Last demon / Don D'Ammassa --<br />Misadventure to call your own / Adrian Ludens --<br />Smoke and mirrorballs / Chris Abbey --<br />Brians!!! / D.L. Snell --<br />Still life / Ken Lilli-Paetz --<br />Day in the life / Sherrilyn",
+                "authors": {
+                    "author": {
+                        "id": 4845,
+                        "name": "Kevin J. Anderson",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215310030p5/4845.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215310030p2/4845.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4845.Kevin_J_Anderson",
+                        "average_rating": 3.76,
+                        "ratings_count": 422549,
+                        "text_reviews_count": 16357
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 15772320,
+                    "uri": "kca://work/amzn1.gr.work.v1.757c97qqPtBSQ9Ng1YW7PA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1936138819
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Jul 27 09:32:27 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1726712013,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jul 27 09:32:26 -0700 2017",
+            "date_updated": "Thu Jul 27 09:32:27 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2073733229",
+            "link": "https://www.goodreads.com/review/show/2073733229",
+            "owned": 0
+        }
+    }
+}

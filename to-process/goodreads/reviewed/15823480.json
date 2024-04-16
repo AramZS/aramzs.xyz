@@ -1,0 +1,103 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528973593,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15823480
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8463
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.y0TgQtXPnc4vpexWDnHL8Q",
+                "title": "Anna Karenina",
+                "title_without_series": "Anna Karenina",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15823480-anna-karenina",
+                "num_pages": 964,
+                "format": "Paperback",
+                "edition_information": "Movie Tie-In Edition",
+                "publisher": "Vintage",
+                "publication_day": 16,
+                "publication_year": 2012,
+                "publication_month": 10,
+                "average_rating": 4.05,
+                "ratings_count": 638747,
+                "description": "Acclaimed by many as the world's greatest novel, <i>Anna Karenina</i> provides a vast panorama of contemporary life in Russia and of humanity in general. In it Tolstoy uses his intense imaginative insight to create some of the most memorable characters in all of literature. Anna is a sophisticated woman who abandons her empty existence as the wife of Karenin and turns to Count Vronsky to fulfil her passionate nature - with tragic consequences. Levin is a reflection of Tolstoy himself, often expressing the author's own views and convictions.<br /><br />Throughout, Tolstoy points no moral, merely inviting us not to judge but to watch. As Rosemary Edmonds comments, 'He leaves the shifting patterns of the kaleidoscope to bring home the meaning of the brooding words following the title, 'Vengeance is mine, and I will repay.",
+                "authors": {
+                    "author": {
+                        "id": 128382,
+                        "name": "Leo Tolstoy",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1558279485p5/128382.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1558279485p2/128382.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/128382.Leo_Tolstoy",
+                        "average_rating": 4.06,
+                        "ratings_count": 1167208,
+                        "text_reviews_count": 53008
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 2507928,
+                    "uri": "kca://work/amzn1.gr.work.v1.An9Nm9Z3fO-DdjoxsMHU8A"
+                }
+            },
+            "rating": 2,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:36:47 -0800 2013",
+            "date_updated": "Thu Feb 07 08:36:47 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528973593",
+            "link": "https://www.goodreads.com/review/show/528973593",
+            "owned": 0
+        }
+    }
+}

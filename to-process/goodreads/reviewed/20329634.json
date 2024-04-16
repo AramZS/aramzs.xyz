@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749128850,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20329634
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 258
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.cKYsVAIKyp1mKVQh-8b6QA",
+                "title": "Lines of Departure (Frontlines, #2)",
+                "title_without_series": "Lines of Departure",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20329634-lines-of-departure",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.1,
+                "ratings_count": 15258,
+                "description": "Vicious interstellar conflict with an indestructible alien species. Bloody civil war over the last habitable zones of the cosmos. Political unrest, militaristic police forces, dire threats to the solar system<br /><br />Humanity is on the ropes, and after years of fighting a two-front war with losing odds, so is Commonwealth Defense Corps officer Andrew Grayson. He dreams of dropping out of the service one day, alongside his pilot girlfriend, but as warfare consumes entire planets and conditions on Earth deteriorate, he wonders if there will be anywhere left for them to go.<br /><br />After surviving a disastrous spaceborne assault, Grayson is reassigned to a ship bound for a distant colony and packed with malcontents and troublemakers. His most dangerous battle has just begun.<br /><br />In this sequel to the bestselling \"Terms of Enlistment,\" a weary soldier must fight to prevent the downfall of his species or bear witness to humanity s last, fleeting breaths.<br /><br />\"",
+                "authors": {
+                    "author": {
+                        "id": 6606349,
+                        "name": "Marko Kloos",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1565448645p5/6606349.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1565448645p2/6606349.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6606349.Marko_Kloos",
+                        "average_rating": 4.11,
+                        "ratings_count": 82089,
+                        "text_reviews_count": 4445
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 26144200,
+                    "uri": "kca://work/amzn1.gr.work.v1.nXd9EWurZKlIMS4wN2mVRg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498301901
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:41:50 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414465321,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:41:50 -0700 2016",
+            "date_updated": "Mon Sep 05 07:41:50 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749128850",
+            "link": "https://www.goodreads.com/review/show/1749128850",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Nerds Unlimited",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Only Human (The Targon Tales, #2)",
+            "id": "16124611",
+            "author": "Chris Reher",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1359431795000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16124611",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Nerds Unlimited",
+            "tags": [
+                "Kindle Edition",
+                "Nerds Unlimited",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16124611",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

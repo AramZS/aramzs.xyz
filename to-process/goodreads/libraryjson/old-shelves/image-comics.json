@@ -1,0 +1,104 @@
+{
+    "name": "Image comics",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Walking Dead, Compendium 2",
+            "id": "14744381",
+            "author": "Robert Kirkman, Charlie Adlard",
+            "date_finished": 1356048000000,
+            "notes": [],
+            "date_started": 1508802442000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Walking Dead, Compendium 2: Rating - 5/5",
+                    "date": 1356048000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/14744381",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Image comics",
+            "tags": [
+                "Paperback",
+                "Image comics",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1607065967",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781607065968",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "14744381",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Walking Dead, Compendium 2",
+            "id": 14744381,
+            "author": "Robert Kirkman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/14744381",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Image comics",
+            "tags": [
+                "Paperback",
+                "Image comics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 14744381,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

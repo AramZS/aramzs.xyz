@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 649952885,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15729539
+                },
+                "isbn": 62200577,
+                "isbn13": 9780062200570,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 9039
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.YuMOLM_Uvc_JT7NFBp6YIg",
+                "title": "NOS4A2",
+                "title_without_series": "NOS4A2",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369591617l/15729539._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369591617l/15729539._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15729539-nos4a2",
+                "num_pages": 692,
+                "format": "Hardcover",
+                "edition_information": "1st Edition",
+                "publisher": "William Morrow",
+                "publication_day": 30,
+                "publication_year": 2013,
+                "publication_month": 4,
+                "average_rating": 4.07,
+                "ratings_count": 94936,
+                "description": "NOS4A2 is a spine-tingling novel of supernatural suspense from master of horror Joe Hill, the New York Times bestselling author of Heart-Shaped Box and Horns.<br /><br />Victoria McQueen has a secret gift for finding things: a misplaced bracelet, a missing photograph, answers to unanswerable questions. On her Raleigh Tuff Burner bike, she makes her way to a rickety covered bridge that, within moments, takes her wherever she needs to go, whether it’s across Massachusetts or across the country.<br /><br />Charles Talent Manx has a way with children. He likes to take them for rides in his 1938 Rolls-Royce Wraith with the NOS4A2 vanity plate. With his old car, he can slip right out of the everyday world, and onto the hidden roads that transport them to an astonishing – and terrifying – playground of amusements he calls “Christmasland.”<br /> <br />Then, one day, Vic goes looking for trouble—and finds Manx. That was a lifetime ago. Now Vic, the only kid to ever escape Manx’s unmitigated evil, is all grown up and desperate to forget. But Charlie Manx never stopped thinking about Victoria McQueen. He’s on the road again and he’s picked up a new passenger: Vic’s own son.",
+                "authors": {
+                    "author": {
+                        "id": 88506,
+                        "name": "Joe Hill",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1569331514p5/88506.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1569331514p2/88506.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/88506.Joe_Hill",
+                        "average_rating": 4.04,
+                        "ratings_count": 724326,
+                        "text_reviews_count": 65573
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21408527,
+                    "uri": "kca://work/amzn1.gr.work.v1.nRE_u__Hd2iiCzTE_PLO_A"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 64355067
+                        },
+                        "old_status": "read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Jun 24 11:27:37 -0700 2013"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 64352496
+                        },
+                        "old_status": {},
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Jun 24 11:25:16 -0700 2013"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Jun 22 00:00:00 -0700 2013",
+            "date_added": "Mon Jun 24 11:25:16 -0700 2013",
+            "date_updated": "Mon Jun 24 11:27:37 -0700 2013",
+            "read_count": 1,
+            "body": "Though this book starts up incredibly slow and is, at many times, quite sad, the prose is excellent as is the plot. The concept doesn't stray far from my experience of Joe Hill's previous work, nor do the themes, but that doesn't stop it from being a well put together story that, after the one-third or half-way point, makes for an engrossing read.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/649952885",
+            "link": "https://www.goodreads.com/review/show/649952885",
+            "owned": 0
+        }
+    }
+}

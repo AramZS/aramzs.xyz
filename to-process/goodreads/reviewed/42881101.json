@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065302450,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 42881101
+                },
+                "isbn": 451492285,
+                "isbn13": 9780451492289,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1084
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.J0hXWfxHghMN1Aqnd26sUw",
+                "title": "The Girl in Red",
+                "title_without_series": "The Girl in Red",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545249589l/42881101._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545249589l/42881101._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/42881101-the-girl-in-red",
+                "num_pages": 293,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Berkley",
+                "publication_day": 18,
+                "publication_year": 2019,
+                "publication_month": 6,
+                "average_rating": 3.72,
+                "ratings_count": 6018,
+                "description": "<b>From the national bestselling author of <i>Alice</i> comes a postapocalyptic take on the perennial classic \"Little Red Riding Hood\"...about a woman who isn't as defenseless as she seems.</b><br /><br />It's not safe for anyone alone in the woods. There are predators that come out at night: critters and coyotes, snakes and wolves. But the woman in the red jacket has no choice. Not since the Crisis came, decimated the population, and sent those who survived fleeing into quarantine camps that serve as breeding grounds for death, destruction, and disease. She is just a woman trying not to get killed in a world that doesn't look anything like the one she grew up in, the one that was perfectly sane and normal and boring until three months ago.<br /><br />There are worse threats in the woods than the things that stalk their prey at night. Sometimes, there are men. Men with dark desires, weak wills, and evil intents. Men in uniform with classified information, deadly secrets, and unforgiving orders. And sometimes, just sometimes, there's something worse than all of the horrible people and vicious beasts combined. <br /><br />Red doesn't like to think of herself as a killer, but she isn't about to let herself get eaten up just because she is a woman alone in the woods....",
+                "authors": {
+                    "author": {
+                        "id": 3409936,
+                        "name": "Christina Henry",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1417722044p5/3409936.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1417722044p2/3409936.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3409936.Christina_Henry",
+                        "average_rating": 3.91,
+                        "ratings_count": 80863,
+                        "text_reviews_count": 10934
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 66672643,
+                    "uri": "kca://work/amzn1.gr.work.v1.mkqz_nvsJsxRL9KUcmB8SQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244214945
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:16:03 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712836382,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:16:02 -0800 2019",
+            "date_updated": "Thu Nov 28 09:16:02 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065302450",
+            "link": "https://www.goodreads.com/review/show/3065302450",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340081,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9680681
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 16
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.M3yNmXThqKzb1CRAA1LKcg",
+                "title": "Griftopia: Bubble Machines, Vampire Squids, and the Long Con That Is Breaking America",
+                "title_without_series": "Griftopia: Bubble Machines, Vampire Squids, and the Long Con That Is Breaking America",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9680681-griftopia",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.15,
+                "ratings_count": 8335,
+                "description": "The dramatic story behind the most audacious power grab in American history<br />  <br /> The financial crisis that exploded in 2008 isn’t past but prologue. The stunning rise, fall, and rescue of Wall Street in the bubble-and-bailout era was the coming-out party for the network of looters who sit at the nexus of American political and economic power. The grifter class—made up of the largest players in the financial industry and the politicians who do their bidding—has been growing in power for a generation, transferring wealth upward through increasingly complex financial mechanisms and political maneuvers. The crisis was only one terrifying manifestation of how they’ve hijacked America’s political and economic life.<br /><br /><i>Rolling Stone’</i>s<i> </i>Matt Taibbi here unravels the whole fiendish story, digging beyond the headlines to get into the deeper roots and wider implications of the rise of the grifters. He traces the movement’s origins to the cult of Ayn Rand and her most influential—and possibly weirdest—acolyte, Alan Greenspan, and offers fresh reporting on the backroom deals that decided the winners and losers in the government bailouts. He uncovers the hidden commodities bubble that transferred billions of dollars to Wall Street while creating food shortages around the world, and he shows how finance dominates politics, from the story of investment bankers auctioning off America’s infrastructure to an inside account of the high-stakes battle for health-care reform—a battle the true reformers lost. Finally, he tells the story of Goldman Sachs, the “vampire squid wrapped around the face of humanity.” <br /><br /> Taibbi has combined deep sources, trailblazing reportage, and provocative analysis to create the most lucid, emotionally galvanizing, and scathingly funny account yet written of the ongoing political and financial crisis in America. This is essential reading for anyone who wants to understand the labyrinthine inner workings of politics and finance in this country, and the profound consequences for us all.",
+                "authors": {
+                    "author": {
+                        "id": 34394,
+                        "name": "Matt Taibbi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1283017278p5/34394.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1283017278p2/34394.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/34394.Matt_Taibbi",
+                        "average_rating": 4.14,
+                        "ratings_count": 25791,
+                        "text_reviews_count": 3050
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 11141600,
+                    "uri": "kca://work/amzn1.gr.work.v1.rdfq7mvkWuc_MbcWN2ucYQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 549680015
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Aug 26 22:18:20 -0700 2014"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 452279898
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Jun 07 06:04:02 -0700 2014"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847054983,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 774437479,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 774437481,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Aug 20 00:00:00 -0700 2014",
+            "date_added": "Sat Jun 07 06:04:02 -0700 2014",
+            "date_updated": "Thu Dec 04 08:42:57 -0800 2014",
+            "read_count": 1,
+            "body": "Taibbi's Griftopia is a book terrifying in it's scope and revelation of reality. Few journalists have been able to grasp the financial crisis and what its systematic abuses and lack of consequences means for America. Taibbi, however, has his finger right on the rotting heart of American economics.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340081",
+            "link": "https://www.goodreads.com/review/show/960340081",
+            "owned": 0
+        }
+    }
+}

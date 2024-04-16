@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2702281351,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 38833011
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 352
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.cSPtRCqYCMuYiIHHg7nOtg",
+                "title": "The Spies That Bind (Gallagher Girls, #0.5)",
+                "title_without_series": "The Spies That Bind",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528658924l/38833011._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528658924l/38833011._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/38833011-the-spies-that-bind",
+                "num_pages": 3,
+                "format": "Audible Audio",
+                "edition_information": {},
+                "publisher": "Audible Studios",
+                "publication_day": 25,
+                "publication_year": 2018,
+                "publication_month": 6,
+                "average_rating": 3.7,
+                "ratings_count": 2115,
+                "description": "<i>Listening Length: 2 hours and 55 minutes</i><br /><br /><b>An original novella and prequel to Ally Carter's New York Times best-selling Gallagher Girls series, exclusively on Audible.</b><br /><br />The first day at a new school is tough for any kid, but it's especially scary when you're going to a school for spies. Cammie Morgan has spent her whole life dreaming of becoming a Gallagher Girl, but she has no idea what she’ll face when she arrives at The Gallagher Academy for Exceptional Young Women. Secret passages? Check. Lab experiments that might make you lose your eyebrows (and other body parts)? Check. Classmates who are the smartest, strongest, most intimidating girls in the world? Double check. <br /><br />Cammie might be a Gallagher legacy, but she's about to learn that the most intimidating part about the Gallagher Academy are the Gallagher Girls themselves. Soon Cammie and her clumsy-but-genius roommate Liz, and the glamorous Bex have to learn the most important lesson of the seventh grade: getting into spy school is hard. Surviving spy school is harder. <br /><br />Ally Carter is the author of many beloved series, including Heist Society and the Embassy Row novels, and Not If I Save You First.",
+                "authors": {
+                    "author": {
+                        "id": 56224,
+                        "name": "Ally Carter",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1421526957p5/56224.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1421526957p2/56224.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/56224.Ally_Carter",
+                        "average_rating": 4.05,
+                        "ratings_count": 718914,
+                        "text_reviews_count": 46857
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 60405263,
+                    "uri": "kca://work/amzn1.gr.work.v1.EYgKhXgCByokgo5Z1jVIQw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2761032088
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Feb 04 07:42:28 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Feb 04 07:42:27 -0800 2019",
+            "date_updated": "Mon Feb 04 07:42:40 -0800 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2702281351",
+            "link": "https://www.goodreads.com/review/show/2702281351",
+            "owned": 0
+        }
+    }
+}

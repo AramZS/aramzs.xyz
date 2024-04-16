@@ -2,68 +2,59 @@
 layout: layouts/page.njk
 title: "/uses"
 titlePrefix: "Me"
-subTitle: "Last updated June 21st, 2021."
+subTitle: "Last updated Mar 18th, 2024."
 folder: about
 ---
 
 A somewhat complete list of tools, applications, hardware and services that I used on a day-to-day basis. Make sure to check out <a href="https://uses.tech">uses.tech</a> for a list of other peoples <code>/uses</code> pages!
 
 ## Hardware
-* Lenovo x230 ThinkPad
-  * **Processor**: Intel i7-3520m @ 2.90Ghz
-  * **Memory**: 16GB 1600Mhz DDR3
+
 * Apple 16" 2019 MacBook Pro
   * **Processor**: Intel Core i7 @ 2.6 GHz
-  * **Memory**: 16GB 2667MHz DDR4
-* ~~Apple 16" 2017 MacBook Pro~~
-  * ~~**Processor**: Intel Core i7 @ 2.8 GHz~~
-  * ~~**Memory**: 16GB 2133MHz LPDDR3~~
-* ~~iPhone SE (32GB)~~
-* iPhone 12 Mini (64GB)
+  * **Memory**: 32GB 2667MHz DDR4
+* Galaxy S10+
+* ~~Custom built desktop~~ (no longer in use)
 
 ## Software
-* Chrome/Firefox/Safari
+
+* Arc/Chrome/Firefox/Safari/Orion
 * Obsidian.md
-* intelliJ PHPStorm and Goland
+* VSCode
 
 ### Windows Specific
-* Putty
-* WinSCP
-* HeidiSQL
-* Vagrant &amp; VirtualBox
+
+* None until I rebuild my desktop
 
 ### OSX Specific
-* Table Plus
-* DBngin
-* [Laravel Valet](https://laravel.com/docs/10.x/valet)
+
+* Insomnia
 * Docker[^1]
 * Homebrew
-  * [shivammathur/php tap for PHP 5.6 to 8.3](https://github.com/shivammathur/homebrew-php)[^2]
-* Z shell (zsh)[^3]
+* OhMyZSH
 
 ## Languages
+
+* JavaScript
 * PHP[^4]
 * Node (TypeScript)
-* Golang
+* Rust
+* Python (occasionally)
 
 ## Stacks
+
 For personal projects and self-hosting I use:
-* Dedicated Hosting by Hetzner
-  * Nginx
-  * Dokku
-  * MySQL
-  * Postgres
-  * Redis
+
+* BlueHost
+* Dreamhost
+* GitHub Pages
 * Netlify
 
-For work, in addition to the above (excluding the hosting providers) I use:
+For work, and sometimes play, in addition to the above (excluding the hosting providers) I use:
 * AWS
   * SQS
   * API Gateway
   * Lambda
   * S3
 
-[^1]: I don't use Docker on the x230 ThinkPad due to it consuming too many resources
-[^2]: I have a script in my `.zshrc` that creates an alias for each PHP version installed via brew
-[^3]: I should really look into installing [Oh my Zsh](https://ohmyz.sh/)
-[^4]: PHP is my primary language
+

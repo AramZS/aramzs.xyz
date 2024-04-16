@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 240677831,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 89937
+                },
+                "isbn": 1559500409,
+                "isbn13": 9781559500401,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 178
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.1F3tPDpZ5YDzcGzARGgjQQ",
+                "title": "Principia Discordia ● Or ● How I Found Goddess and What I Did to Her When I Found Her: The Magnum Opiate of Malaclypse the Younger",
+                "title_without_series": "Principia Discordia ● Or ● How I Found Goddess and What I Did to Her When I Found Her: The Magnum Opiate of Malaclypse the Younger",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/89937.Principia_Discordia_Or_How_I_Found_Goddess_and_What_I_Did_to_Her_When_I_Found_Her",
+                "num_pages": {},
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Loompanics Unlimited",
+                "publication_day": {},
+                "publication_year": 1980,
+                "publication_month": 6,
+                "average_rating": 4.28,
+                "ratings_count": 4959,
+                "description": "One of the great books of our time, Principia Discordia is the official bible of the most relevant religion ever conceived, Discordianism. This legendary underground classic contains absolutely everything worth knowing about absolutely anything. Discordianism is the religion for these screwed-up times, and Principia Discordia reveals it here for your enlightenment, confusion and entertainment.",
+                "authors": {
+                    "author": {
+                        "id": 133414,
+                        "name": "Gregory  Hill",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1315734186p5/133414.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1315734186p2/133414.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/133414.Gregory_Hill",
+                        "average_rating": 4.28,
+                        "ratings_count": 4872,
+                        "text_reviews_count": 232
+                    }
+                },
+                "published": 1980,
+                "work": {
+                    "id": 86801,
+                    "uri": "kca://work/amzn1.gr.work.v1.zMuetAK2PTo_4fO5otig8w"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 28 11:12:50 -0800 2011",
+            "date_updated": "Mon Nov 28 11:12:50 -0800 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/240677831",
+            "link": "https://www.goodreads.com/review/show/240677831",
+            "owned": 0
+        }
+    }
+}

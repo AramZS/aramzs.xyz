@@ -1,0 +1,202 @@
+{
+    "name": "Marvel Comics Group",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Runaways, Vol. 3: The Good Die Young",
+            "id": "168406",
+            "author": "Brian K. Vaughan, Adrian Alphona",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508802422000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Runaways, Vol. 3: The Good Die Young: Rating - 5/5",
+                    "date": 1508802422000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/168406",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics Group",
+            "tags": [
+                "Paperback",
+                "Marvel Comics Group",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0785116842",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780785116844",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "168406",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "X-Men: X-Cutioner's Song",
+            "id": "707647",
+            "author": "Scott Lobdell, Fabian Nicieza, Peter David",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508801668000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of X-Men: X-Cutioner's Song: Rating - 3/5",
+                    "date": 1508801668000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/707647",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics Group",
+            "tags": [
+                "Paperback",
+                "Marvel Comics Group",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0785100253",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780785100256",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "707647",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "X-Men: X-Cutioner's Song",
+            "id": 707647,
+            "author": "Scott Lobdell",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/707647",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics Group",
+            "tags": [
+                "Paperback",
+                "Marvel Comics Group",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 707647,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Runaways, Vol. 3: The Good Die Young",
+            "id": 168406,
+            "author": "Brian K. Vaughan",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/168406",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Marvel Comics Group",
+            "tags": [
+                "Paperback",
+                "Marvel Comics Group",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 168406,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

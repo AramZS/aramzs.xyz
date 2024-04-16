@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528960173,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6463595
+                },
+                "isbn": 1401215734,
+                "isbn13": 9781401215736,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 437
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.YBn7Xj14zGxPB6ysgtKrUg",
+                "title": "Peter & Max",
+                "title_without_series": "Peter & Max",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375394838l/6463595._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375394838l/6463595._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6463595-peter-max",
+                "num_pages": 400,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Vertigo",
+                "publication_day": 13,
+                "publication_year": 2009,
+                "publication_month": 10,
+                "average_rating": 3.93,
+                "ratings_count": 3837,
+                "description": "A new stand-alone <i>Fables</i> novel from award-winning and wildly acclaimed author, Bill Willingham.<br />This story stars Peter Piper and his incorrigible brother Max in a tale about jealousy, betrayal and revenge. Set in two distinct time periods, prepare to travel back to medieval times and learn the tragic back-story of the Piper family, a medieval-era family of traveling minstrels. Then, jump into the present to follow a tale of espionage as Peter Piper slowly hunts down his evil brother for a heinous crime, pitting Peter's talents as a master thief against Max's dark magical powers.<br />Based on the long-running and award-winning comic book series <i>Fables</i>, <i>Peter &amp; Max</i> is its own tale. Readers don't have to be familiar with the comics to fully enjoy and understand this book.",
+                "authors": {
+                    "author": {
+                        "id": 12444,
+                        "name": "Bill Willingham",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p5/12444.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p2/12444.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12444.Bill_Willingham",
+                        "average_rating": 4.04,
+                        "ratings_count": 583176,
+                        "text_reviews_count": 25138
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 6654052,
+                    "uri": "kca://work/amzn1.gr.work.v1.80tFHi3mOCGeQ6-EjRlWzw"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 358523399,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:21:02 -0800 2013",
+            "date_updated": "Thu Feb 07 08:21:02 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528960173",
+            "link": "https://www.goodreads.com/review/show/528960173",
+            "owned": 0
+        }
+    }
+}

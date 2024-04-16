@@ -1,0 +1,96 @@
+{
+    "name": "Univ Of Minnesota Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Robotic Imaginary: The Human and the Price of Dehumanized Labor",
+            "id": "39732762",
+            "author": "Jennifer Rhee",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1568831781000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/39732762",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Univ Of Minnesota Press",
+            "tags": [
+                "Paperback",
+                "Univ Of Minnesota Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1517902983",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781517902988",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "39732762",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "How to Talk about Videogames",
+            "id": "25404080",
+            "author": "Ian Bogost",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1455166482000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25404080",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Univ Of Minnesota Press",
+            "tags": [
+                "Paperback",
+                "Univ Of Minnesota Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0816699127",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780816699124",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25404080",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

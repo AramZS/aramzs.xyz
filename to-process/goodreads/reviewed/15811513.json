@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065308724,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15811513
+                },
+                "isbn": 1591844762,
+                "isbn13": 9781591844761,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 217
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.kr81qHHDFUZz1bdyXL_FyA",
+                "title": "Present Shock: When Everything Happens Now",
+                "title_without_series": "Present Shock: When Everything Happens Now",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355084098l/15811513._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355084098l/15811513._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15811513-present-shock",
+                "num_pages": 296,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Current",
+                "publication_day": 21,
+                "publication_year": 2013,
+                "publication_month": 3,
+                "average_rating": 3.64,
+                "ratings_count": 1665,
+                "description": "\"<i>If the end of the twentieth century can be characterized by futurism, the twenty-first can be defined by presentism</i>.\"<br /> This is the moment we've been waiting for, explains award-winning media theorist Douglas Rushkoff, but we don't seem to have any time in which to live it. Instead we remain poised and frozen, overwhelmed by an always-on, live-streamed <i>reality</i> that our human bodies and minds can never truly inhabit. And our failure to do so has had wide-ranging effects on every aspect of our lives.<br />People spent the twentieth century obsessed with the future. We created technologies that would help connect us faster, gather news, map the planet, compile knowledge, and connect with anyone, at anytime. We strove for an instantaneous network where time and space could be compressed.<br />Well, the future's arrived. We live in a continuous <i>now</i> enabled by Twitter, email, and a so-called real-time technological shift. Yet this <i>now</i> is an elusive goal that we can never quite reach. And the dissonance between our digital selves and our analog bodies has thrown us into a new state of anxiety: <i>present shock</i>.<br />Rushkoff weaves together seemingly disparate events and trends into a rich, nuanced portrait of how life in the eternal present has affected our biology, behavior, politics, and culture. He explains how the rise of zombie apocalypse fiction signals our intense desire for an ending; how the Tea Party and Occupy Wall Street form two sides of the same post-narrative coin; how corporate investing in the future has been replaced by futile efforts to game the stock market in real time; why social networks make people anxious and email can feel like an assault. He examines how the tragedy of 9/11 disconnected an entire generation from a sense of history, and delves into why conspiracy theories actually comfort us.<br />As both individuals and communities, we have a choice. We can struggle through the onslaught of information and play an eternal game of catch-up. Or we can choose to live in the present: favor eye contact over texting; quality over speed; and human quirks over digital perfection. Rushkoff offers hope for anyone seeking to transcend the false now.<br />Absorbing and thought-provoking, <i>Present Shock</i> is a wide-ranging, deeply thought meditation on what it means to be human in real-time.",
+                "authors": {
+                    "author": {
+                        "id": 80801,
+                        "name": "Douglas Rushkoff",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1243842426p5/80801.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1243842426p2/80801.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/80801.Douglas_Rushkoff",
+                        "average_rating": 3.7,
+                        "ratings_count": 10086,
+                        "text_reviews_count": 1160
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21536777,
+                    "uri": "kca://work/amzn1.gr.work.v1.lYf8uHjGHDR-xoojqDz7og"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244223077
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:23:46 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712842730,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:23:46 -0800 2019",
+            "date_updated": "Thu Nov 28 09:23:46 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065308724",
+            "link": "https://www.goodreads.com/review/show/3065308724",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789413854,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1455439
+                },
+                "isbn": 812516257,
+                "isbn13": 9780812516258,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 70
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.utW9aV7h4NSDtUHS-oWM0A",
+                "title": "Nightside the Long Sun (The Book of the Long Sun #1)",
+                "title_without_series": "Nightside the Long Sun",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551661931l/1455439._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551661931l/1455439._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1455439.Nightside_the_Long_Sun",
+                "num_pages": 333,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 15,
+                "publication_year": 1993,
+                "publication_month": 12,
+                "average_rating": 4.02,
+                "ratings_count": 1487,
+                "description": "The first volume of a four-book novel of mystery, war and revolution set in a world existing inside a giant spaceship sent from Urth to colonize a distant planet. Wolfe's new work returns to the world of his acclaimed Book of the New Sun and will captivate readers hungry for the magic of the future.",
+                "authors": {
+                    "author": {
+                        "id": 23069,
+                        "name": "Gene Wolfe",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1556979018p5/23069.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1556979018p2/23069.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/23069.Gene_Wolfe",
+                        "average_rating": 3.97,
+                        "ratings_count": 202416,
+                        "text_reviews_count": 13035
+                    }
+                },
+                "published": 1993,
+                "work": {
+                    "id": 2634354,
+                    "uri": "kca://work/amzn1.gr.work.v1.-KTjdcNaWwi5R1ARkj3Y7g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240463650
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:45:25 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571652550,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:45:25 -0800 2013",
+            "date_updated": "Fri Dec 13 08:45:25 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789413854",
+            "link": "https://www.goodreads.com/review/show/789413854",
+            "owned": 0
+        }
+    }
+}

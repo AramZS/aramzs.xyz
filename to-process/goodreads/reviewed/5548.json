@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 51574502,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 5548
+                },
+                "isbn": 393320928,
+                "isbn13": 9780393320923,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 567
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.5ZySvlySVUlhdFgkjAgUlw",
+                "title": "What Do You Care What Other People Think?",
+                "title_without_series": "What Do You Care What Other People Think?",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297913068l/5548._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297913068l/5548._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/5548.What_Do_You_Care_What_Other_People_Think_",
+                "num_pages": 256,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "W.W. Norton & Company",
+                "publication_day": 11,
+                "publication_year": 2001,
+                "publication_month": 1,
+                "average_rating": 4.27,
+                "ratings_count": 21267,
+                "description": "One of the greatest physicists of the twentieth century, Richard Feynman possessed an unquenchable thirst for adventure and an unparalleled ability to tell the stories of his life. <em>\"What Do You Care What Other People Think?\" </em>is Feynman’s last literary legacy, prepared with his friend and fellow drummer, Ralph Leighton. Among its many tales—some funny, others intensely moving—we meet Feynman’s first wife, Arlene, who taught him of love’s irreducible mystery as she lay dying in a hospital bed while he worked nearby on the atomic bomb at Los Alamos. We are also given a fascinating narrative of the investigation of the space shuttle <em>Challenger</em>’s explosion in 1986, and we relive the moment when Feynman revealed the disaster’s cause by an elegant experiment: dropping a ring of rubber into a glass of cold water and pulling it out, misshapen.",
+                "authors": {
+                    "author": {
+                        "id": 1429989,
+                        "name": "Richard P. Feynman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1498916887p5/1429989.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1498916887p2/1429989.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1429989.Richard_P_Feynman",
+                        "average_rating": 4.27,
+                        "ratings_count": 272442,
+                        "text_reviews_count": 9921
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 54737,
+                    "uri": "kca://work/amzn1.gr.work.v1.Agz4nCf-_WEiuTllvKBfrA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Apr 05 08:44:20 -0700 2009",
+            "date_updated": "Wed May 06 13:27:02 -0700 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/51574502",
+            "link": "https://www.goodreads.com/review/show/51574502",
+            "owned": 0
+        }
+    }
+}

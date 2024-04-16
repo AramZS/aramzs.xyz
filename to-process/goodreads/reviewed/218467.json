@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 170775807,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 218467
+                },
+                "isbn": 449208133,
+                "isbn13": 9780449208137,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1249
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.q-6L4bo699xB5C145CXVDg",
+                "title": "Lucifer's Hammer",
+                "title_without_series": "Lucifer's Hammer",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/218467.Lucifer_s_Hammer",
+                "num_pages": 629,
+                "format": "Paperback",
+                "edition_information": "#20813-3",
+                "publisher": "Fawcett Crest",
+                "publication_day": 12,
+                "publication_year": 1977,
+                "publication_month": 7,
+                "average_rating": 3.99,
+                "ratings_count": 38842,
+                "description": "<i>alternate cover for ISBN <a href=\"https://www.goodreads.com/search/search?q=0708813623\" title=\"0708813623\" rel=\"nofollow\">0708813623</a></i><br /><br />The chances that <i>Lucifer's Hammer</i> would hit the earth head-on were one in a million. Then one in a thousand. Then one in a hundred. And then ... even less.<br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 12534,
+                        "name": "Larry Niven",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1182720933p5/12534.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1182720933p2/12534.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12534.Larry_Niven",
+                        "average_rating": 3.91,
+                        "ratings_count": 454456,
+                        "text_reviews_count": 15769
+                    }
+                },
+                "published": 1977,
+                "work": {
+                    "id": 1842237,
+                    "uri": "kca://work/amzn1.gr.work.v1.UTv1C1wJs6dgjJOlqbQpJA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 108520615,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue May 24 14:08:30 -0700 2011",
+            "date_updated": "Tue May 24 14:08:34 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/170775807",
+            "link": "https://www.goodreads.com/review/show/170775807",
+            "owned": 0
+        }
+    }
+}

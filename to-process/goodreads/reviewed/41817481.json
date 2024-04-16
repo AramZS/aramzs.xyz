@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065305604,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 41817481
+                },
+                "isbn": 393242145,
+                "isbn13": 9780393242140,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 746
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.GP4WxHfMWjRWDPTnmWf9Yw",
+                "title": "Underland",
+                "title_without_series": "Underland",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553019903l/41817481._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553019903l/41817481._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/41817481-underland",
+                "num_pages": 496,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "W.W. Norton & Company",
+                "publication_day": 4,
+                "publication_year": 2019,
+                "publication_month": 6,
+                "average_rating": 4.24,
+                "ratings_count": 4610,
+                "description": "From the best-selling, award-winning author of <em>Landmarks</em> and <em>The Old Ways</em>, a haunting voyage into the planet’s past and future.<br /><br />Hailed as \"the great nature writer of this generation\" (<em>Wall Street Journal</em>), Robert Macfarlane is the celebrated author of books about the intersections of the human and the natural realms. In <em>Underland</em>, he delivers his masterpiece: an epic exploration of the Earth’s underworlds as they exist in myth, literature, memory, and the land itself.<br /><br />In this highly anticipated sequel to his international bestseller <em>The Old Ways</em>, Macfarlane takes us on an extraordinary journey into our relationship with darkness, burial, and what lies beneath the surface of both place and mind. Traveling through “deep time”—the dizzying expanses of geologic time that stretch away from the present—he moves from the birth of the universe to a post-human future, from the prehistoric art of Norwegian sea caves to the blue depths of the Greenland ice cap, from Bronze Age funeral chambers to the catacomb labyrinth below Paris, and from the underground fungal networks through which trees communicate to a deep-sunk “hiding place” where nuclear waste will be stored for 100,000 years to come. Woven through Macfarlane’s own travels are the unforgettable stories of descents into the underland made across history by explorers, artists, cavers, divers, mourners, dreamers, and murderers, all of whom have been drawn for different reasons to seek what Cormac McCarthy calls “the awful darkness within the world.”<br /><br />Global in its geography and written with great lyricism and power, <em>Underland</em> speaks powerfully to our present moment. Taking a deep-time view of our planet, Macfarlane here asks a vital and unsettling question: “Are we being good ancestors to the future Earth?” <em>Underland</em> marks a new turn in Macfarlane’s long-term mapping of the relations of landscape and the human heart. From its remarkable opening pages to its deeply moving conclusion, it is a journey into wonder, loss, fear, and hope. At once ancient and urgent, this is a book that will change the way you see the world.",
+                "authors": {
+                    "author": {
+                        "id": 435856,
+                        "name": "Robert Macfarlane",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1369335601p5/435856.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1369335601p2/435856.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/435856.Robert_Macfarlane",
+                        "average_rating": 4.17,
+                        "ratings_count": 28973,
+                        "text_reviews_count": 4350
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 68561061,
+                    "uri": "kca://work/amzn1.gr.work.v1._UHhzie94-Dg1_5H3dNQuQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244219026
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:19:53 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712839572,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:19:52 -0800 2019",
+            "date_updated": "Thu Nov 28 09:19:52 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065305604",
+            "link": "https://www.goodreads.com/review/show/3065305604",
+            "owned": 0
+        }
+    }
+}

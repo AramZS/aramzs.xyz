@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671959,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1697847
+                },
+                "isbn": 230527167,
+                "isbn13": 9780230527164,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 16
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.rfMJUO_KfO4WZJIq9VtX-Q",
+                "title": "Print Is Dead: Books in Our Digital Age",
+                "title_without_series": "Print Is Dead: Books in Our Digital Age",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317067039l/1697847._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317067039l/1697847._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1697847.Print_Is_Dead",
+                "num_pages": 221,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Palgrave MacMillan",
+                "publication_day": 1,
+                "publication_year": 2007,
+                "publication_month": 12,
+                "average_rating": 3.33,
+                "ratings_count": 123,
+                "description": "For over 1500 years books have weathered numerous cultural changes remarkably unaltered. Through wars, paper shortages, radio, TV, computer games, and fluctuating literacy rates, the bound stack of printed paper has, somewhat bizarrely, remained the more robust and culturally relevant way to communicate ideas. Now, for the first time since the Middle Ages, all that is about to change. Newspapers are struggling for readers and relevance; downloadable music has consigned the album to the format scrap heap, and the digital revolution is now about to leave books on the high shelf of history. In Print Is Dead, Gomez explains how authors, producers, distributors, and readers must not only acknowledge these changes, but drive digital book creation, standards, storage, and delivery as the first truly transformational thing to happen in the world of words since the printing press.",
+                "authors": {
+                    "author": {
+                        "id": 317247,
+                        "name": "Jeff Gomez",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/317247.Jeff_Gomez",
+                        "average_rating": 3.76,
+                        "ratings_count": 1131,
+                        "text_reviews_count": 242
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 1694835,
+                    "uri": "kca://work/amzn1.gr.work.v1.GYgVjPLX2ciXeSr5Rga-Fw"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Mar 11 08:36:38 -0800 2010",
+            "date_added": "Mon Jun 16 19:26:20 -0700 2008",
+            "date_updated": "Thu Mar 11 08:36:38 -0800 2010",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671959",
+            "link": "https://www.goodreads.com/review/show/24671959",
+            "owned": 0
+        }
+    }
+}

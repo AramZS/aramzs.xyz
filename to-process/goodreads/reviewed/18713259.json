@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2982133645,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18713259
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 660
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.PXfJUEs8fxcixb76KBKrhg",
+                "title": "Worm (Parahumans, #1)",
+                "title_without_series": "Worm",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519662877l/18713259._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519662877l/18713259._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18713259-worm",
+                "num_pages": 6680,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "http://parahumans.wordpress.com",
+                "publication_day": 19,
+                "publication_year": 2013,
+                "publication_month": 11,
+                "average_rating": 4.64,
+                "ratings_count": 5815,
+                "description": "An introverted teenage girl with an unconventional superpower, Taylor goes out in costume to find escape from a deeply unhappy and frustrated civilian life. Her first attempt at taking down a supervillain sees her mistaken for one, thrusting her into the midst of the local ‘cape’ scene’s politics, unwritten rules, and ambiguous morals. As she risks life and limb, Taylor faces the dilemma of having to do the wrong things for the right reasons.<br /><br />The story, titled Worm, takes the form of a web serial, posted in bite-sized reads in much the same way that authors such as Mark Twain would release their works one chapter at a time in the days before full-fledged novels. Worm started in June 2011, updating twice a week, and finished in late November, 2013. It totals roughly 1,750,000 words; roughly 26 typical novels in length (or 10-11 very thick novels).",
+                "authors": {
+                    "author": {
+                        "id": 6432921,
+                        "name": "Wildbow",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6432921.Wildbow",
+                        "average_rating": 4.53,
+                        "ratings_count": 7250,
+                        "text_reviews_count": 783
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 26574170,
+                    "uri": "kca://work/amzn1.gr.work.v1.AF1Pr0L3ijryORSB4mmzaQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3133140485
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Sep 18 11:37:33 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Sep 18 11:37:33 -0700 2019",
+            "date_updated": "Wed Sep 18 11:37:56 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2982133645",
+            "link": "https://www.goodreads.com/review/show/2982133645",
+            "owned": 0
+        }
+    }
+}

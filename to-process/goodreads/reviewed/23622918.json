@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1304800394,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23622918
+                },
+                "isbn": 1632151731,
+                "isbn13": 9781632151735,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 388
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.p9baWRjOPnQ2FiP0Rt185g",
+                "title": "Wayward, Vol. 1: String Theory",
+                "title_without_series": "Wayward, Vol. 1: String Theory",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417073009l/23622918._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417073009l/23622918._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23622918-wayward-vol-1",
+                "num_pages": 134,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 25,
+                "publication_year": 2015,
+                "publication_month": 3,
+                "average_rating": 3.67,
+                "ratings_count": 3083,
+                "description": "Rori Lane is trying to start a new life when she reunites with her mother in Japan, but ancient creatures lurking in the shadows of Tokyo sense something hidden deep within her, threatening everything she holds dear. <br /><br />Can Rori unlock the secrets of her power before it's too late? <br /><br />Jim Zub (Samurai Jack, Skullkickers), Steve Cummings (Legends of the Dark Knight, Deadshot), and John Rauch (Invincible) team-up to create an all-new Image supernatural spectacle that combines the camaraderie and emotion of Buffy with the action and mystery of Hellboy. This volume collects the first five issues of the acclaimed comic series, <i>Wayward</i>.",
+                "authors": {
+                    "author": {
+                        "id": 5737122,
+                        "name": "Jim Zub",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1518410451p5/5737122.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1518410451p2/5737122.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5737122.Jim_Zub",
+                        "average_rating": 3.81,
+                        "ratings_count": 29088,
+                        "text_reviews_count": 3658
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 74042561,
+                    "uri": "kca://work/amzn1.gr.work.v2.f78077a0-9c67-4aa6-a4ff-ec28b274a5b7"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 892739562
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 10 20:36:30 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813196116,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 1063519073,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Wed Jun 10 20:36:29 -0700 2015",
+            "date_updated": "Sun Feb 09 11:09:41 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1304800394",
+            "link": "https://www.goodreads.com/review/show/1304800394",
+            "owned": 0
+        }
+    }
+}

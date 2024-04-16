@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749128388,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18883485
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.tUo3Mx2SoxLsjlCUIE_7Vw",
+                "title": "Designing for Behavior Change: Applying Psychology and Behavioral Economics",
+                "title_without_series": "Designing for Behavior Change: Applying Psychology and Behavioral Economics",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18883485-designing-for-behavior-change",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.13,
+                "ratings_count": 259,
+                "description": "A new wave of products is helping people change their behavior and daily routines, whether it’s exercising more (Jawbone Up), taking control of their finances (HelloWallet), or organizing their email (Mailbox). This practical guide shows you how to design these types of products for users seeking to take action and achieve specific goals.<br /><br />Stephen Wendel, HelloWallet’s head researcher, takes you step-by-step through the process of applying behavioral economics and psychology to the practical problems of product design and development. Using a combination of lean and agile development methods, you’ll learn a simple iterative approach for identifying target users and behaviors, building the product, and gauging its effectiveness. Discover how to create easy-to-use products to help people make positive changes.<br /><br /><br />Learn the three main strategies to help people change behavior<br />Identify your target audience and the behaviors they seek to change<br />Extract user stories and identify obstacles to behavior change<br />Develop effective interface designs that are enjoyable to use<br />Measure your product’s impact and learn ways to improve it<br />Use practical examples from products like Nest, Fitbit, and Opower",
+                "authors": {
+                    "author": {
+                        "id": 7150185,
+                        "name": "Stephen Wendel",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1567465213p5/7150185.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1567465213p2/7150185.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7150185.Stephen_Wendel",
+                        "average_rating": 4.12,
+                        "ratings_count": 265,
+                        "text_reviews_count": 24
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 25533507,
+                    "uri": "kca://work/amzn1.gr.work.v1.oIJzByErWFvORe5ySsP8bw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498301296
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:41:20 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414464925,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:41:19 -0700 2016",
+            "date_updated": "Mon Sep 05 07:41:20 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749128388",
+            "link": "https://www.goodreads.com/review/show/1749128388",
+            "owned": 0
+        }
+    }
+}

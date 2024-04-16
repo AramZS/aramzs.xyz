@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 153153089,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22584
+                },
+                "isbn": 1857983416,
+                "isbn13": 9781857983418,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1098
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.LvkRfBsnXt81z3Na5Ne1pA",
+                "title": "Flow My Tears, the Policeman Said",
+                "title_without_series": "Flow My Tears, the Policeman Said",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398026028l/22584._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398026028l/22584._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22584.Flow_My_Tears_the_Policeman_Said",
+                "num_pages": 204,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Gollancz",
+                "publication_day": 8,
+                "publication_year": 2001,
+                "publication_month": 11,
+                "average_rating": 3.91,
+                "ratings_count": 32667,
+                "description": "Jason Tavener woke up one morning to find himself completely unknown. The night before he had been the top-rated television star with millions of devoted watchers. The next day he was just an unidentified walking object, whose face nobody recognised, of whom no one had heard, and without the I.D. papers required in that near future.<br /><br />When he finally found a man who would agree to counterfeiting such cards for him, that man turned out to be a police informer. And then Taverner found out not only what it was like to be a nobody but also to be hunted by the whole apparatus of society.<br /><br />It was obvious that in some way Taverner had become the pea in in some sort of cosmic shell game - but how? And why?<br /><br />Philip K. Dick takes the reader on a walking tour of solipsism's scariest margin in his latest novel about the age we are already half into.",
+                "authors": {
+                    "author": {
+                        "id": 4764,
+                        "name": "Philip K. Dick",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1264613853p5/4764.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1264613853p2/4764.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4764.Philip_K_Dick",
+                        "average_rating": 3.93,
+                        "ratings_count": 1031131,
+                        "text_reviews_count": 54360
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 949696,
+                    "uri": "kca://work/amzn1.gr.work.v1.Rr9pDKFsXt_3r4x1YIsHBg"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 95064803,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Mar 09 04:57:32 -0800 2011",
+            "date_updated": "Wed Mar 09 04:57:32 -0800 2011",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/153153089",
+            "link": "https://www.goodreads.com/review/show/153153089",
+            "owned": 0
+        }
+    }
+}

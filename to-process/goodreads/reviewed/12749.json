@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24672427,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12749
+                },
+                "isbn": 142437964,
+                "isbn13": 9780142437964,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1814
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.CE7EQ0PlsXqGSAM3s8bd8g",
+                "title": "Swann's Way (In Search of Lost Time, #1)",
+                "title_without_series": "Swann's Way",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452956236l/12749._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452956236l/12749._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12749.Swann_s_Way",
+                "num_pages": 492,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Penguin Classics",
+                "publication_day": 30,
+                "publication_year": 2004,
+                "publication_month": 11,
+                "average_rating": 4.14,
+                "ratings_count": 42511,
+                "description": "Swann's Way tells two related stories, the first of which revolves around Marcel, a younger version of the narrator, and his experiences in, and memories of, the French town Combray. Inspired by the \"gusts of memory\" that rise up within him as he dips a Madeleine into hot tea, the narrator discusses his fear of going to bed at night. He is a creature of habit and dislikes waking up in the middle of the night not knowing where he is.<br /><br />He claims that people are defined by the objects that surround them and must piece together their identities bit by bit each time they wake up. The young Marcel is so nervous about sleeping alone that he looks forward to his mother's goodnight kisses, but also dreads them as a sign of an impending sleepless night. One night, when Charles Swann, a friend of his grandparents, is visiting, his mother cannot come kiss him goodnight. He stays up until Swann leaves, and looks so sad and pitiful that even his disciplinarian father encourages \"Mamma\" to spend the night in Marcel's room.",
+                "authors": {
+                    "author": {
+                        "id": 233619,
+                        "name": "Marcel Proust",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1392271688p5/233619.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1392271688p2/233619.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/233619.Marcel_Proust",
+                        "average_rating": 4.21,
+                        "ratings_count": 103702,
+                        "text_reviews_count": 8307
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 4830806,
+                    "uri": "kca://work/amzn1.gr.work.v1.k7vkGqzKNycX-9msqRRb-g"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 10337630,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:33:46 -0700 2008",
+            "date_updated": "Mon Jun 16 19:33:46 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24672427",
+            "link": "https://www.goodreads.com/review/show/24672427",
+            "owned": 0
+        }
+    }
+}

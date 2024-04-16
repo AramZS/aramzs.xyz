@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 90222039,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7122034
+                },
+                "isbn": 446554960,
+                "isbn13": 9780446554961,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1287
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.DGTSPdNJvqYcO4ZWGzCNAg",
+                "title": "Fever Dream (Pendergast, #10)",
+                "title_without_series": "Fever Dream",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7122034-fever-dream",
+                "num_pages": 405,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Grand Central Publishing",
+                "publication_day": 11,
+                "publication_year": 2010,
+                "publication_month": 5,
+                "average_rating": 4.09,
+                "ratings_count": 29418,
+                "description": "Yesterday, Special Agent Pendergast still mourned the loss of his beloved wife, Helen, who died in a tragic accident in Africa twelve years ago. Today, he discovers she was murdered. Tomorrow, he will learn her most guarded secrets, leaving him to wonder: Who was the woman I married? Why was she murdered? And, above all . . . Who murdered her? FEVER DREAM Revenge is not sweet: It is essential.",
+                "authors": {
+                    "author": {
+                        "id": 12577,
+                        "name": "Douglas Preston",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1399043352p5/12577.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1399043352p2/12577.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12577.Douglas_Preston",
+                        "average_rating": 4.01,
+                        "ratings_count": 794704,
+                        "text_reviews_count": 49464
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 7383328,
+                    "uri": "kca://work/amzn1.gr.work.v1.7vgSWHyzPVQfETPjgwe2cg"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 48871836,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Feb 17 23:02:19 -0800 2010",
+            "date_updated": "Wed Feb 17 23:02:19 -0800 2010",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/90222039",
+            "link": "https://www.goodreads.com/review/show/90222039",
+            "owned": 0
+        }
+    }
+}

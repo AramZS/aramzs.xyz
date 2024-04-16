@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 38059071,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 965170
+                },
+                "isbn": 671040774,
+                "isbn13": 9780671040772,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 12
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8A7bDAdrgPc_VVuYpThJgg",
+                "title": "Centauri Dawn",
+                "title_without_series": "Centauri Dawn",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346873582l/965170._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346873582l/965170._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/965170.Centauri_Dawn",
+                "num_pages": 292,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": 1,
+                "publication_year": 2000,
+                "publication_month": 12,
+                "average_rating": 3.49,
+                "ratings_count": 100,
+                "description": "After a forty-year journey from an Earth left teetering on the brink of nuclear Armageddon, the United Nations colonial Starship \"Unity\" reaches the lone habitable planet orbiting Alph Centauri's primary star, bringing with it the hope of a new beginning for the human race. <p> Hope turns to ashes when, on final approach to the new world, a mysterious malfunction damages the ship, triggering a crisis that results in the death of the captain and a rash of infighting over the ship's undamaged colony pods. The \"Unity\" breaks apart in space and seven colonial factions are scattered across the surface of the planet. </p><p> As the \"Unity\" surviviors struggle to rebuild human civilization on this strange and mysterious alien world, old tensions resurface and one man sets in motion forces that may destroy any dream of a lasting peace.</p>",
+                "authors": {
+                    "author": {
+                        "id": 488320,
+                        "name": "Michael Ely",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/488320.Michael_Ely",
+                        "average_rating": 3.64,
+                        "ratings_count": 210,
+                        "text_reviews_count": 15
+                    }
+                },
+                "published": 2000,
+                "work": {
+                    "id": 950067,
+                    "uri": "kca://work/amzn1.gr.work.v1.1Gqlt-SZ5dXuin2V7sza-Q"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 17501578,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Nov 19 00:09:48 -0800 2008",
+            "date_added": "Tue Nov 18 11:45:33 -0800 2008",
+            "date_updated": "Wed Nov 19 00:09:48 -0800 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/38059071",
+            "link": "https://www.goodreads.com/review/show/38059071",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671736,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 38860
+                },
+                "isbn": 814742815,
+                "isbn13": 9780814742815,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 119
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.S_Qxl9Qj-Dhi-nF24v3S1g",
+                "title": "Convergence Culture: Where Old and New Media Collide",
+                "title_without_series": "Convergence Culture: Where Old and New Media Collide",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417984230l/38860._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417984230l/38860._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/38860.Convergence_Culture",
+                "num_pages": 308,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "New York University Press",
+                "publication_day": 1,
+                "publication_year": 2006,
+                "publication_month": 8,
+                "average_rating": 3.86,
+                "ratings_count": 3593,
+                "description": "Convergence Culture maps a new territory: where old and new media intersect, where grassroots and corporate media collide, where the power of the media producer and the power of the consumer interact in unpredictable ways.<br /><br />Henry Jenkins, one of America's most respected media analysts, delves beneath the new media hype to uncover the important cultural transformations that are taking place as media converge. He takes us into the secret world of \"Survivor\" Spoilers, where avid internet users pool their knowledge to unearth the show's secrets before they are revealed on the air. He introduces us to young \"Harry Potter\" fans who are writing their own Hogwarts tales while executives at Warner Brothers struggle for control of their franchise. He shows us how \"The Matrix\" has pushed transmedia storytelling to new levels, creating a fictional world where consumers track down bits of the story across multiple media channels.Jenkins argues that struggles over convergence will redefine the face of American popular culture. Industry leaders see opportunities to direct content across many channels to increase revenue and broaden markets. At the same time, consumers envision a liberated public sphere, free of network controls, in a decentralized media environment. Sometimes corporate and grassroots efforts reinforce each other, creating closer, more rewarding relations between media producers and consumers. Sometimes these two forces are at war.<br /><br />Jenkins provides a riveting introduction to the world where every story gets told and every brand gets sold across multiple media platforms. He explains the cultural shift that is occurring as consumers fight for control across disparate channels, changing the way we do business, elect our leaders, and educate our children.",
+                "authors": {
+                    "author": {
+                        "id": 21885,
+                        "name": "Henry Jenkins",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1397610390p5/21885.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1397610390p2/21885.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/21885.Henry_Jenkins",
+                        "average_rating": 3.86,
+                        "ratings_count": 5971,
+                        "text_reviews_count": 321
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 38588,
+                    "uri": "kca://work/amzn1.gr.work.v1.-YU9u7yjh8gFxrLch3sZAA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 10337338,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 293109508,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu May 14 16:37:53 -0700 2009",
+            "date_added": "Mon Jun 16 19:24:16 -0700 2008",
+            "date_updated": "Thu May 14 16:37:53 -0700 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671736",
+            "link": "https://www.goodreads.com/review/show/24671736",
+            "owned": 0
+        }
+    }
+}

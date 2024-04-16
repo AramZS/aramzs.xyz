@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1991496967,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25814394
+                },
+                "isbn": 1476716560,
+                "isbn13": 9781476716565,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1346
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.heYWjJIqCJ7vyUhZBBypFQ",
+                "title": "All the Single Ladies: Unmarried Women and the Rise of an Independent Nation",
+                "title_without_series": "All the Single Ladies: Unmarried Women and the Rise of an Independent Nation",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454864662l/25814394._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454864662l/25814394._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25814394-all-the-single-ladies",
+                "num_pages": 339,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Simon  Schuster",
+                "publication_day": 1,
+                "publication_year": 2016,
+                "publication_month": 3,
+                "average_rating": 4.03,
+                "ratings_count": 12618,
+                "description": "A nuanced investigation into the sexual, economic, and emotional lives of women in America. In a provocative, groundbreaking work, National Magazine Award finalist Rebecca Traister, “the most brilliant voice on feminism in the country” (Anne Lamott), traces the history of unmarried and late-married women in America who, through social, political, and economic means, have radically shaped our nation.<br /><br />In 2009, the award-winning journalist Rebecca Traister started <i>All the Single Ladies</i>—a book she thought would be a work of contemporary journalism—about the twenty-first century phenomenon of the American single woman. It was the year the proportion of American women who were married dropped below fifty percent; and the median age of first marriages, which had remained between twenty and twenty-two years old for nearly a century (1890–1980), had risen dramatically to twenty-seven.<br /><br />But over the course of her vast research and more than a hundred interviews with academics and social scientists and prominent single women, Traister discovered a startling truth: the phenomenon of the single woman in America is not a new one. And historically, when women were given options beyond early heterosexual marriage, the results were massive social change—temperance, abolition, secondary education, and more.<br /><br />Today, only twenty percent of Americans are wed by age twenty-nine, compared to nearly sixty percent in 1960. The Population Reference Bureau calls it a “dramatic reversal.” <i>All the Single Ladies</i> is a remarkable portrait of contemporary American life and how we got here, through the lens of the single American woman. Covering class, race, sexual orientation, and filled with vivid anecdotes from fascinating contemporary and historical figures, <i>All the Single Ladies</i> is destined to be a classic work of social history and journalism. Exhaustively researched, brilliantly balanced, and told with Traister’s signature wit and insight, this book should be shelved alongside Gail Collins’s <i>When Everything Changed</i>.",
+                "authors": {
+                    "author": {
+                        "id": 3132215,
+                        "name": "Rebecca Traister",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1398473332p5/3132215.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1398473332p2/3132215.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3132215.Rebecca_Traister",
+                        "average_rating": 4.17,
+                        "ratings_count": 23215,
+                        "text_reviews_count": 3206
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 45671087,
+                    "uri": "kca://work/amzn1.gr.work.v1.qq6sdQDZe9RXWKzYuH3xiQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1828109744
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri May 05 04:20:10 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1646317990,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri May 05 04:20:09 -0700 2017",
+            "date_updated": "Fri May 05 04:20:09 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1991496967",
+            "link": "https://www.goodreads.com/review/show/1991496967",
+            "owned": 0
+        }
+    }
+}

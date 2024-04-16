@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 100163578,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 136641
+                },
+                "isbn": 765349655,
+                "isbn13": 9780765349651,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 604
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.EdAJBlzmjlh79kcFGHqMEA",
+                "title": "Tyrannosaur Canyon (Wyman Ford #1)",
+                "title_without_series": "Tyrannosaur Canyon",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419207931l/136641._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419207931l/136641._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/136641.Tyrannosaur_Canyon",
+                "num_pages": 398,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Forge Books",
+                "publication_day": 29,
+                "publication_year": 2006,
+                "publication_month": 8,
+                "average_rating": 3.8,
+                "ratings_count": 17985,
+                "description": "A stunning new archaeological thriller by the <i>New York Times</i> bestselling co-author of <i>Brimstone </i>and <i>Relic</i>.<br /><br />A moon rock missing for thirty years...<br />Five buckets of blood-soaked sand found in a New Mexico canyon...<br />A scientist with ambition enough to kill...<br />A monk who will redeem the world...<br />A dark agency with a deadly mission...<br />The greatest scientific discovery of all time...<br />What fire bolt from the galactic dark shattered the Earth eons ago, and now hides in that remote cleft in the southwest U.S. known as Tyrannosaur Canyon?<br /><br /><i>Tyrannosaur Canyon</i> is a stunning novel from acclaimed bestselling author Douglas Preston, hailed by <i>Publishers Weekly</i> as \"better than Crichton.\"",
+                "authors": {
+                    "author": {
+                        "id": 12577,
+                        "name": "Douglas Preston",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1399043352p5/12577.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1399043352p2/12577.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12577.Douglas_Preston",
+                        "average_rating": 4.01,
+                        "ratings_count": 794704,
+                        "text_reviews_count": 49464
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 1125436,
+                    "uri": "kca://work/amzn1.gr.work.v1.nsFqjVGnOh8ZhwR9dj-e7Q"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Apr 26 00:00:00 -0700 2010",
+            "read_at": "Wed Jul 21 08:52:53 -0700 2010",
+            "date_added": "Mon Apr 26 11:09:42 -0700 2010",
+            "date_updated": "Wed Jul 21 08:52:58 -0700 2010",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/100163578",
+            "link": "https://www.goodreads.com/review/show/100163578",
+            "owned": 0
+        }
+    }
+}

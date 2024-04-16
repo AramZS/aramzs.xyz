@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24669119,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1618
+                },
+                "isbn": 1400032717,
+                "isbn13": 9781400032716,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 36083
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-HbDY4-Aoh2zmGKIXjEwKg",
+                "title": "The Curious Incident of the Dog in the Night-Time",
+                "title_without_series": "The Curious Incident of the Dog in the Night-Time",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624l/1618._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479863624l/1618._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time",
+                "num_pages": 226,
+                "format": "Paperback",
+                "edition_information": "Vintage Contemporaries",
+                "publisher": "Vintage",
+                "publication_day": 18,
+                "publication_year": 2004,
+                "publication_month": 5,
+                "average_rating": 3.88,
+                "ratings_count": 1149213,
+                "description": "Christopher John Francis Boone knows all the countries of the world and their capitals and every prime number up to 7,057. He relates well to animals but has no understanding of human emotions. He cannot stand to be touched. And he detests the color yellow.<br /><br />Although gifted with a superbly logical brain, for fifteen-year-old Christopher everyday interactions and admonishments have little meaning. He lives on patterns, rules, and a diagram kept in his pocket. Then one day, a neighbor's dog, Wellington, is killed and his carefully constructive universe is threatened. Christopher sets out to solve the murder in the style of his favourite (logical) detective, Sherlock Holmes. What follows makes for a novel that is funny, poignant and fascinating in its portrayal of a person whose curse and blessing are a mind that perceives the world entirely literally.",
+                "authors": {
+                    "author": {
+                        "id": 1050,
+                        "name": "Mark Haddon",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1337988298p5/1050.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1337988298p2/1050.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1050.Mark_Haddon",
+                        "average_rating": 3.86,
+                        "ratings_count": 1211549,
+                        "text_reviews_count": 50936
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 4259809,
+                    "uri": "kca://work/amzn1.gr.work.v1.8XQyL2-mXgV1VRh3euWYmw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 18:55:31 -0700 2008",
+            "date_updated": "Mon Jun 16 18:55:31 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24669119",
+            "link": "https://www.goodreads.com/review/show/24669119",
+            "owned": 0
+        }
+    }
+}

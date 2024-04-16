@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 75480608,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3942307
+                },
+                "isbn": 307264645,
+                "isbn13": 9780307264640,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 146
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.VdVjRQe6OPR6AH9ByD-pVQ",
+                "title": "Spade & Archer: The Prequel to Dashiell Hammett's The Maltese Falcon",
+                "title_without_series": "Spade & Archer: The Prequel to Dashiell Hammett's The Maltese Falcon",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320464575l/3942307._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320464575l/3942307._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3942307-spade-archer",
+                "num_pages": 337,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Knopf",
+                "publication_day": 10,
+                "publication_year": 2009,
+                "publication_month": 2,
+                "average_rating": 3.65,
+                "ratings_count": 1263,
+                "description": "When Sam Spade gets drawn into the Maltese Falcon case, we know what to expect: straight talk, hard questions, no favors, and no way for anyone to get underneath the protective shell he wears like a second skin. We know that his late partner, Miles Archer, was a son of a bitch; that Spade is sleeping with Archer’s wife, Iva; that his tomboyish secretary, Effie Perine, is the only innocent in his life. What we don’t know is how Spade became who he is. <i>Spade &amp; Archer</i> completes the picture.<br /><br />1921: Spade sets up his own agency in San Francisco and clients quickly start coming through the door. The next seven years will see him dealing with booze runners, waterfront thugs, stowaways, banking swindlers, gold smugglers, bumbling cops, and the illegitimate daughter of Sun Yat-sen; with murder, other men’s mistresses, and long-missing money. He’ll bring in Archer as a partner, though it was Archer who stole his girl while he was fighting in World War I. He’ll tangle with a villain who never loses his desire to make Spade pay big for ruining what should’ve been the perfect crime. And he’ll fall in love—though it won’t turn out for the best. It never does with dames . . .<br /><br /><i>Spade &amp; Archer </i>is a gritty, pitch-perfect, hard-boiled novel—the work of a master mystery writer—destined to become a classic in its own right.",
+                "authors": {
+                    "author": {
+                        "id": 153386,
+                        "name": "Joe Gores",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1286564525p5/153386.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1286564525p2/153386.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/153386.Joe_Gores",
+                        "average_rating": 3.75,
+                        "ratings_count": 4209,
+                        "text_reviews_count": 522
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 3987921,
+                    "uri": "kca://work/amzn1.gr.work.v1.mFqF9Q-eLsUf62VciyNrsQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 39432462,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Oct 23 08:20:08 -0700 2009",
+            "date_updated": "Fri Oct 23 08:20:08 -0700 2009",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/75480608",
+            "link": "https://www.goodreads.com/review/show/75480608",
+            "owned": 0
+        }
+    }
+}

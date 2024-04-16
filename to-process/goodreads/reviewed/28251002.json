@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2041814474,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 28251002
+                },
+                "isbn": "110194661X",
+                "isbn13": 9781101946619,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6230
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.tpJdJ_aq1lb_RooKUzXKSg",
+                "title": "The Nix",
+                "title_without_series": "The Nix",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474083394l/28251002._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474083394l/28251002._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/28251002-the-nix",
+                "num_pages": 640,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Knopf",
+                "publication_day": 30,
+                "publication_year": 2016,
+                "publication_month": 8,
+                "average_rating": 4.09,
+                "ratings_count": 56778,
+                "description": "A hilarious and deeply touching debut novel about a son, the mother who left him as a child, and how his search to uncover the secrets of her life leads him to reclaim his own.<br /><br />Meet Samuel Andresen-Anderson: stalled writer, bored teacher at a local college, obsessive player of an online video game. He hasn't seen his mother, Faye, since she walked out when he was a child. But then one day there she is, all over the news, throwing rocks at a presidential candidate. The media paints Faye as a militant radical with a sordid past, but as far as Samuel knows, his mother never left her small Iowa town. Which version of his mother is the true one? Determined to solve the puzzle--and finally have something to deliver to his publisher--Samuel decides to capitalize on his mother's new fame by writing a tell-all biography, a book that will savage her intimately, publicly. But first, he has to locate her; and second, to talk to her without bursting into tears. <br /><br />As Samuel begins to excavate her history, the story moves from the rural Midwest of the 1960s to New York City during the Great Recession and Occupy Wall Street to the infamous riots at the 1968 Chicago Democratic National Convention, and finally to Norway, home of the mysterious Nix that his mother told him about as a child. And in these places, Samuel will unexpectedly find that he has to rethink everything he ever knew about his mother--a woman with an epic story of her own, a story she kept hidden from the world.",
+                "authors": {
+                    "author": {
+                        "id": 15376492,
+                        "name": "Nathan  Hill",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/15376492.Nathan_Hill",
+                        "average_rating": 4.09,
+                        "ratings_count": 56645,
+                        "text_reviews_count": 7353
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 48287604,
+                    "uri": "kca://work/amzn1.gr.work.v1.uzIOKJsQfDQlIbeQEhTfDw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1894287550
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Jun 27 05:30:52 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1695864853,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Jun 27 05:30:51 -0700 2017",
+            "date_updated": "Tue Jun 27 05:30:52 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2041814474",
+            "link": "https://www.goodreads.com/review/show/2041814474",
+            "owned": 0
+        }
+    }
+}

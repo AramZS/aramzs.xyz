@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 100163933,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7155145
+                },
+                "isbn": 1591843162,
+                "isbn13": 9781591843160,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1677
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Ws4pQbcK0IJmuHpZd2jicA",
+                "title": "Linchpin: Are You Indispensable?",
+                "title_without_series": "Linchpin: Are You Indispensable?",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7155145-linchpin",
+                "num_pages": 244,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Portfolio",
+                "publication_day": 26,
+                "publication_year": 2010,
+                "publication_month": 1,
+                "average_rating": 3.84,
+                "ratings_count": 38620,
+                "description": "<b>\"This is what the future of work (and the world) looks like. Actually, it's already happening around you.\" — Tony Hsieh, CEO, Zappos.com</b><br /><br />In bestsellers such as <i>Purple Cow</i> and <i>Tribes</i>, Seth Godin taught readers how to make remarkable products and spread powerful ideas. But this book is about you—your choices, your future, and your potential to make a huge difference in whatever field you choose.<br /><br />There used to be two teams in every workplace: management and labor. Now there's a third team: the linchpins. These people figure out what to do when there's no rule book. They delight and challenge their customers and peers. They love their work, pour their best selves into it, and turn each day into a kind of art.<br /><br />Linchpins are the essential building blocks of great organizations. They may not be famous but they're indispensable. And in today's world, they get the best jobs and the most freedom.<br /><br />As Godin writes, \"Every day I meet people who have so much to give but have been bullied enough or frightened enough to hold it back. It's time to stop complying with the system and draw your own map. You have brilliance in you, your contribution is essential, and the art you create is precious. Only you can do it, and you must.\"",
+                "authors": {
+                    "author": {
+                        "id": 1791,
+                        "name": "Seth Godin",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355799076p5/1791.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355799076p2/1791.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1791.Seth_Godin",
+                        "average_rating": 3.84,
+                        "ratings_count": 227236,
+                        "text_reviews_count": 11540
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 7421862,
+                    "uri": "kca://work/amzn1.gr.work.v1._-Zv7VJEh6WqgWL1AaGFIQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 55301918,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Apr 26 00:00:00 -0700 2010",
+            "read_at": {},
+            "date_added": "Mon Apr 26 11:12:09 -0700 2010",
+            "date_updated": "Mon Apr 26 11:12:14 -0700 2010",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/100163933",
+            "link": "https://www.goodreads.com/review/show/100163933",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "name": "Thought Catalog",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Graduates: Dispatches from the Debtcade After College",
+            "id": "19490306",
+            "author": "The Bygone Bureau",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146382000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/19490306",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Thought Catalog",
+            "tags": [
+                "Kindle Edition",
+                "Thought Catalog",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "19490306",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Breathing Machine: A Memoir of Computers",
+            "id": "20615912",
+            "author": "Leigh Alexander",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146336000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/20615912",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Thought Catalog",
+            "tags": [
+                "Kindle Edition",
+                "Thought Catalog",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "20615912",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

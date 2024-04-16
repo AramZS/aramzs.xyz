@@ -1,0 +1,104 @@
+{
+    "name": "The Penguin Group",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation",
+            "id": "8600",
+            "author": "Lynne Truss",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213668728000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation: Rating - 5/5",
+                    "date": 1213668728000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8600",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "The Penguin Group",
+            "tags": [
+                "Paperback",
+                "The Penguin Group",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1592402038",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781592402038",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "8600",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation",
+            "id": 8600,
+            "author": "Lynne Truss",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8600",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "The Penguin Group",
+            "tags": [
+                "Paperback",
+                "The Penguin Group",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 8600,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

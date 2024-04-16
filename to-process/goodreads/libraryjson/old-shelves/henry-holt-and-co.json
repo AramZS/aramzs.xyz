@@ -1,0 +1,59 @@
+{
+    "name": "Henry Holt and Co.",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Fire and Fury: Inside the Trump White House",
+            "id": "36595266",
+            "author": "Michael Wolff",
+            "date_finished": 1515888000000,
+            "notes": [],
+            "date_started": 1549003825000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Fire and Fury: Inside the Trump White House: Rating - 3/5",
+                    "date": 1515888000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/36595266",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Henry Holt and Co.",
+            "tags": [
+                "Kindle Edition",
+                "Henry Holt and Co.",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "36595266",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

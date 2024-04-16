@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340098,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19169976
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.nhdAZB7GCh1rzAyGsJITeQ",
+                "title": "Blindspot: Hidden Biases of Good People",
+                "title_without_series": "Blindspot: Hidden Biases of Good People",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19169976-blindspot",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.73,
+                "ratings_count": 3095,
+                "description": "<i>I know my own mind.<br />I am able to assess others in a fair and accurate way.</i><br /><br />These self-perceptions are challenged by leading psychologists Mahzarin R. Banaji and Anthony G. Greenwald as they explore the hidden biases we all carry from a lifetime of exposure to cultural attitudes about age, gender, race, ethnicity, religion, social class, sexuality, disability status, and nationality.<br /><br />“Blindspot” is the authors’ metaphor for the portion of the mind that houses hidden biases. Writing with simplicity and verve, Banaji and Greenwald question the extent to which our perceptions of social groups—without our awareness or conscious control—shape our likes and dislikes and our judgments about people’s character, abilities, and potential.<br /><br />In <i>Blindspot,</i> the authors reveal hidden biases based on their experience with the Implicit Association Test, a method that has revolutionized the way scientists learn about the human mind and that gives us a glimpse into what lies within the metaphoric blindspot.<br /><br />The title’s “good people” are those of us who strive to align our behavior with our intentions. The aim of <i>Blindspot</i> is to explain the science in plain enough language to help well-intentioned people achieve that alignment. By gaining awareness, we can adapt beliefs and behavior and “outsmart the machine” in our heads so we can be fairer to those around us. Venturing into this book is an invitation to understand our own minds.<br /><br />Brilliant, authoritative, and utterly accessible, <i>Blindspot</i> is a book that will challenge and change readers for years to come.",
+                "authors": {
+                    "author": {
+                        "id": 5358638,
+                        "name": "Mahzarin R. Banaji",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5358638.Mahzarin_R_Banaji",
+                        "average_rating": 3.73,
+                        "ratings_count": 3108,
+                        "text_reviews_count": 416
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 18307857,
+                    "uri": "kca://work/amzn1.gr.work.v1.YgZp1v8XZzV6sXS8sb5LpQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452279917
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:04:02 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710708930,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:04:02 -0700 2014",
+            "date_updated": "Sat Jun 07 06:04:02 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340098",
+            "link": "https://www.goodreads.com/review/show/960340098",
+            "owned": 0
+        }
+    }
+}

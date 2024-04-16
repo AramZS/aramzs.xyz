@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299969152,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 49443
+                },
+                "isbn": 812541979,
+                "isbn13": 9780812541977,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 56
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.HkX9TElbZconMxTScqMRQQ",
+                "title": "Tea from an Empty Cup (Artificial Reality Division, #1)",
+                "title_without_series": "Tea from an Empty Cup",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/49443.Tea_from_an_Empty_Cup",
+                "num_pages": 256,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 15,
+                "publication_year": 1999,
+                "publication_month": 9,
+                "average_rating": 3.38,
+                "ratings_count": 792,
+                "description": "\"How can you drink tea from an empty cup?\" <br />That ancient Zen riddle holds the key to a baffling mystery: a young man found with his throat slashed while locked alone in a virtual reality parlor. <br />The secret of this enigmatic death lies in an apocalyptic cyberspace shadow-world where nothing is certain, and even one's own identity can change in an instant.<br />",
+                "authors": {
+                    "author": {
+                        "id": 27841,
+                        "name": "Pat Cadigan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/27841.Pat_Cadigan",
+                        "average_rating": 3.79,
+                        "ratings_count": 52442,
+                        "text_reviews_count": 5465
+                    }
+                },
+                "published": 1999,
+                "work": {
+                    "id": 1827389,
+                    "uri": "kca://work/amzn1.gr.work.v1.vovjLhYEFrFY-G7W_5oIww"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886481091
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:31:40 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:31:40 -0700 2015",
+            "date_updated": "Fri Jun 05 15:31:40 -0700 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299969152",
+            "link": "https://www.goodreads.com/review/show/1299969152",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 35299586,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 816
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4295
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.QSkrlJtJiDTXEp2FYdr65Q",
+                "title": "Cryptonomicon",
+                "title_without_series": "Cryptonomicon",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327931476l/816._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327931476l/816._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/816.Cryptonomicon",
+                "num_pages": 1139,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Avon",
+                "publication_day": 5,
+                "publication_year": 2002,
+                "publication_month": 11,
+                "average_rating": 4.25,
+                "ratings_count": 95998,
+                "description": "<i><u>Librarian note:</u> Older cover of <a href=\"https://www.goodreads.com/book/show/53350047-cryptonomicon\" rel=\"nofollow\">9780060512804</a>.</i><br /><br />Cryptonomicon zooms all over the world, careening conspiratorially back and forth between two time periods--World War II and the present. Our 1940s heroes are the brilliant mathematician Lawrence Waterhouse, crypt analyst extraordinaire, and gung-ho, morphine-addicted marine Bobby Shaftoe. They're part of Detachment 2702, an Allied group trying to break Axis communication codes while simultaneously preventing the enemy from figuring out that their codes have been broken. Their job boils down to layer upon layer of deception. Dr. Alan Turing is also a member of 2702, and he explains the unit's strange workings to Waterhouse. \"When we want to sink a convoy, we send out an observation plane first... Of course, to observe is not its real duty--we already know exactly where the convoy is. Its real duty is to be observed... Then, when we come round and sink them, the Germans will not find it suspicious.\"<br /><br />All of this secrecy resonates in the present-day story line, in which the grandchildren of the WWII heroes--inimitable programming geek Randy Waterhouse and the lovely and powerful Amy Shaftoe--team up to help create an offshore data haven in Southeast Asia and maybe uncover some gold once destined for Nazi coffers. To top off the paranoiac tone of the book, the mysterious Enoch Root, key member of Detachment 2702 and the Societas Eruditorum, pops up with an unbreakable encryption scheme left over from WWII to befuddle the 1990s protagonists with conspiratorial ties.",
+                "authors": {
+                    "author": {
+                        "id": 545,
+                        "name": "Neal Stephenson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430920344p5/545.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430920344p2/545.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/545.Neal_Stephenson",
+                        "average_rating": 4.05,
+                        "ratings_count": 785183,
+                        "text_reviews_count": 49929
+                    }
+                },
+                "published": 2002,
+                "work": {
+                    "id": 1166797,
+                    "uri": "kca://work/amzn1.gr.work.v1.ZHP51Jz-iUiUSsnU37SnlA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Oct 14 12:45:07 -0700 2008",
+            "date_updated": "Tue Oct 14 12:45:07 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/35299586",
+            "link": "https://www.goodreads.com/review/show/35299586",
+            "owned": 0
+        }
+    }
+}

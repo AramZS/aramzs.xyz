@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528949534,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 1042981
+                },
+                "isbn": 820463167,
+                "isbn13": 9780820463162,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.jOqaOViI6T4ruVV01bhM5A",
+                "title": "Montaigne's Essais",
+                "title_without_series": "Montaigne's Essais",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408930628l/1042981._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408930628l/1042981._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/1042981.Montaigne_s_Essais",
+                "num_pages": {},
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Peter Lang Inc., International Academic Publishers",
+                "publication_day": 19,
+                "publication_year": 2004,
+                "publication_month": 7,
+                "average_rating": 5,
+                "ratings_count": 1,
+                "description": "This book provides an extensive and textual analysis of Montaigne's essays - both the relevant Villey French texts as well as the Frame English translations. It identifies and illustrates a unifying, recurring theme in the ostensibly diverse and often apparently contradictory essays of the sixteenth-century writer - the attempt at psychic harmony through �temporal solipsism�, or living insofar as possible in the present moment by doing things for their own sake rather than for extrinsic purposes. Placing Montaigne in historical context, <i>Montaigne's Essais</i> argues that he implicitly provides his own synthesis of pagan and Christian ideas, with no fewer tensions than the Aquinian synthesis. A concluding bibliographic essay addresses some issues of scholarly controversy, primarily from the perspectives of philosophy and political theory.",
+                "authors": {
+                    "author": {
+                        "id": 5859342,
+                        "name": "Wendell John Coats Jr.",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5859342.Wendell_John_Coats_Jr_",
+                        "average_rating": 4.5,
+                        "ratings_count": 2,
+                        "text_reviews_count": 0
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 1029384,
+                    "uri": "kca://work/amzn1.gr.work.v1.GOCToUKB0S_ShFOMQvmwmg"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:08:02 -0800 2013",
+            "date_updated": "Thu Feb 07 08:08:02 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528949534",
+            "link": "https://www.goodreads.com/review/show/528949534",
+            "owned": 0
+        }
+    }
+}

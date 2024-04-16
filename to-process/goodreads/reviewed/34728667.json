@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606742476,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34728667
+                },
+                "isbn": 1250170974,
+                "isbn13": 9781250170972,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 17731
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.g2Ai_rE9Hy4Ti55TACRWgQ",
+                "title": "Children of Blood and Bone (Legacy of Orïsha, #1)",
+                "title_without_series": "Children of Blood and Bone",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516127989l/34728667._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516127989l/34728667._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone",
+                "num_pages": 544,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Henry Holt Company",
+                "publication_day": 6,
+                "publication_year": 2018,
+                "publication_month": 3,
+                "average_rating": 4.14,
+                "ratings_count": 126997,
+                "description": "<i>They killed my mother.<br />They took our magic.<br />They tried to bury us.<br /><br /><b>Now we rise.</b></i><br /><br />Zélie Adebola remembers when the soil of Orïsha hummed with magic. Burners ignited flames, Tiders beckoned waves, and Zélie’s Reaper mother summoned forth souls.<br /><br />But everything changed the night magic disappeared. Under the orders of a ruthless king, maji were killed, leaving Zélie without a mother and her people without hope.<br /><br />Now Zélie has one chance to bring back magic and strike against the monarchy. With the help of a rogue princess, Zélie must outwit and outrun the crown prince, who is hell-bent on eradicating magic for good.<br /><br />Danger lurks in Orïsha, where snow leoponaires prowl and vengeful spirits wait in the waters. Yet the greatest danger may be Zélie herself as she struggles to control her powers and her growing feelings for an enemy.",
+                "authors": {
+                    "author": {
+                        "id": 16642745,
+                        "name": "Tomi Adeyemi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573251060p5/16642745.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573251060p2/16642745.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16642745.Tomi_Adeyemi",
+                        "average_rating": 4.11,
+                        "ratings_count": 148701,
+                        "text_reviews_count": 25117
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 55911580,
+                    "uri": "kca://work/amzn1.gr.work.v1.QdRHnvY3smKRTm4Ur-W40g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636067968
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:28:11 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251648553,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:28:10 -0800 2018",
+            "date_updated": "Mon Nov 26 13:28:11 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606742476",
+            "link": "https://www.goodreads.com/review/show/2606742476",
+            "owned": 0
+        }
+    }
+}

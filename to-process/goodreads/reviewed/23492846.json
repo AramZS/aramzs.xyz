@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2934563575,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23492846
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 54
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Mu9gzCU3pO664ZeVoqNlAw",
+                "title": "Vultures (Miriam Black, #6)",
+                "title_without_series": "Vultures",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548300362l/23492846._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1548300362l/23492846._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23492846-vultures",
+                "num_pages": 416,
+                "format": {},
+                "edition_information": {},
+                "publisher": "SAGA Press",
+                "publication_day": {},
+                "publication_year": 2019,
+                "publication_month": 1,
+                "average_rating": 4.49,
+                "ratings_count": 469,
+                "description": "<b>In the sixth and final thriller of the “wildly entertaining” (<i>Kirkus Reviews</i>) Miriam Black series, Miriam tries to break the curse of her powers, but first she must face The Trespasser a final time. </b><br /><br />Still reeling from the events of <i>The Raptor and the Wren</i>, Miriam must confront two terrifying discoveries: the Trespasser now has the power to inhabit the living as well as the dead, and Miriam is pregnant. <br /><br />Miriam knows her baby is fated to die, but Miriam is the Fatebreaker. And if the rules have changed for her nemesis, her own powers are changing as well. Miriam will do whatever it takes to break her curse and save her child. But as Miriam once again finds herself on the hunt for a serial killer and in need of an elusive physic, she can feel the threads of her past coming together—and the pattern they’re forming is deadly. <br /><br />To end the Trespasser’s influence in her world, Miriam must face her demon a final time. And, this time, one of them must die. Vultures is a heart-pounding conclusion to the series: “Think <i>Six Feet Under</i> cowritten by Stephen King and Chuck Palahniuk” (<i>SFX</i>).",
+                "authors": {
+                    "author": {
+                        "id": 17152,
+                        "name": "Chuck Wendig",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p5/17152.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p2/17152.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17152.Chuck_Wendig",
+                        "average_rating": 3.73,
+                        "ratings_count": 111871,
+                        "text_reviews_count": 16120
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 43082974,
+                    "uri": "kca://work/amzn1.gr.work.v1.1sEGQGdecH1NBJDNEGbzRA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3069752129
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Aug 12 12:20:36 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Aug 12 12:20:35 -0700 2019",
+            "date_updated": "Mon Aug 12 12:24:13 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2934563575",
+            "link": "https://www.goodreads.com/review/show/2934563575",
+            "owned": 0
+        }
+    }
+}

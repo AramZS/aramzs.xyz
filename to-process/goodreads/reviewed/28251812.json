@@ -1,0 +1,132 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2230013672,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 28251812
+                },
+                "isbn": 1501135376,
+                "isbn13": 9781501135378,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 197
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.oaDwr6BX4ZuBJwhBrfTCVw",
+                "title": "Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate",
+                "title_without_series": "Crash Override: How Gamergate (Nearly) Destroyed My Life, and How We Can Win the Fight Against Online Hate",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491330884l/28251812._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491330884l/28251812._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/28251812-crash-override",
+                "num_pages": 256,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "PublicAffairs",
+                "publication_day": 5,
+                "publication_year": 2017,
+                "publication_month": 9,
+                "average_rating": 4.09,
+                "ratings_count": 1588,
+                "description": "<b>You've heard the stories about the dark side of the internet-hackers, anonymous hoards attacking an unlucky target, and revenge porn-but they remain just that: stories. Surely these things would never happen to you.</b><br /><br />Zoe Quinn used to feel the same way. Zoe is a video game developer whose ex-boyfriend published a crazed blog post cobbled together from private information, half-truths, and outright fictions, along with a rallying cry to the online hordes to go after her. The hordes answered in the form of a so-called movement known as #gamergate--they hacked her accounts, stole nude photos of her, harassed her family, friends and colleagues, and threatened to rape and murder her. But instead of shrinking into silence as the online mobs wanted her to, she has raised her voice and speaks out against this vicious online culture and for making the internet a safer place for everyone.<br /><br />In the several years since #Gamergate started, Quinn has helped thousands of people with her advocacy and online abuse crisis resource Crash Override Network. From locking down individuals' personal accounts and information to working with tech companies and lawmakers alike to inform policy, she has firsthand knowledge about every angle of online abuse, what powerful institutions are (and aren't) doing about it, and how we can protect our digital spaces and selves--and now she wants to share that information with you.<br /><br /><i>Crash Override</i> offers an up close look inside the controversy, threats, and social and cultural battles that started in the far corners of the internet and have since permeated our online lives. Quinn uses her story--as target and as activist--to provide an accessible, personal, and human look at the ways the internet impacts our lives and culture. Through anecdotes from the eye of the storm to practical advice for keeping yourself and others safe online, <i>Crash Override</i> combines memoir, manifesto, and map to a better future for our online lives.",
+                "authors": {
+                    "author": {
+                        "id": 14242480,
+                        "name": "Zoe  Quinn",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14242480.Zoe_Quinn",
+                        "average_rating": 4.03,
+                        "ratings_count": 1955,
+                        "text_reviews_count": 351
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 56019319,
+                    "uri": "kca://work/amzn1.gr.work.v1.bwq37YQpRcTXNDBtYT9y6A"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3371334306
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Jan 27 13:39:36 -0800 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2139579415
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Dec 28 12:23:54 -0800 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 2806205680,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Jan 27 13:39:35 -0800 2020",
+            "read_at": {},
+            "date_added": "Thu Dec 28 12:23:53 -0800 2017",
+            "date_updated": "Mon Jan 27 13:39:35 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2230013672",
+            "link": "https://www.goodreads.com/review/show/2230013672",
+            "owned": 0
+        }
+    }
+}

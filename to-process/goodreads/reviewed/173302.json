@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789546576,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 173302
+                },
+                "isbn": 941188701,
+                "isbn13": 9780941188708,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 300
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Gfx-3MXYfPP-Td-RUL8iSw",
+                "title": "The Writer's Journey: Mythic Structure for Writers",
+                "title_without_series": "The Writer's Journey: Mythic Structure for Writers",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/173302.The_Writer_s_Journey",
+                "num_pages": 326,
+                "format": "Paperback",
+                "edition_information": "2nd edition",
+                "publisher": "Michael Wiese Productions",
+                "publication_day": 1,
+                "publication_year": 1998,
+                "publication_month": 11,
+                "average_rating": 4.08,
+                "ratings_count": 8118,
+                "description": "Provides new insights and observations from Vogler's pioneering work in mythic structure for writers.",
+                "authors": {
+                    "author": {
+                        "id": 101089,
+                        "name": "Christopher Vogler",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/101089.Christopher_Vogler",
+                        "average_rating": 4.08,
+                        "ratings_count": 8848,
+                        "text_reviews_count": 625
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 167385,
+                    "uri": "kca://work/amzn1.gr.work.v1.jcTv2M0C_MgeLf_puk0sBA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240626506
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 12:29:15 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571769023,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 12:29:15 -0800 2013",
+            "date_updated": "Fri Dec 13 12:29:15 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789546576",
+            "link": "https://www.goodreads.com/review/show/789546576",
+            "owned": 0
+        }
+    }
+}

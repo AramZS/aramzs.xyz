@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 546241713,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2140338
+                },
+                "isbn": 1401216994,
+                "isbn13": 9781401216993,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 96
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.tj06_VKiVCpUXR5RFbwkbg",
+                "title": "The Starman Omnibus, Vol. 1",
+                "title_without_series": "The Starman Omnibus, Vol. 1",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307746444l/2140338._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307746444l/2140338._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2140338.The_Starman_Omnibus_Vol_1",
+                "num_pages": 448,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "DC Comics",
+                "publication_day": 10,
+                "publication_year": 2008,
+                "publication_month": 6,
+                "average_rating": 4.3,
+                "ratings_count": 3345,
+                "description": "The classic super-hero series STARMAN, starring a Gen-X super-hero, is re-presented in high quality format by James Robinson (BATMAN: FACE THE FACE) and Tony Harris (EX MACHINA).The super-heroic legacy of Starman is renewed in these stories, in which Jack Knight--antiques collector and dealer--inherits the name and powers of his father's old Starman identity from his older brother, who has been assassinated. Reluctantly adjusting to his role, Jack reinvents the look of Starman, ditching the traditional red and green in favor of black leather and aviator goggles. But Jack has inherited more than a heroic identity from his brother . . . he's also gained a foe: the beautiful but mentally unbalanced Nash, daughter of the villain known as the Mist. Jack also must come to grips with the Shade, the morally ambiguous former villain who decides to become Jack's mentor.",
+                "authors": {
+                    "author": {
+                        "id": 28055,
+                        "name": "James Robinson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1305435500p5/28055.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1305435500p2/28055.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/28055.James_Robinson",
+                        "average_rating": 3.8,
+                        "ratings_count": 65808,
+                        "text_reviews_count": 5454
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2145826,
+                    "uri": "kca://work/amzn1.gr.work.v1.7pw2I3jnzxxTe180Fi98Hg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 974838878
+                    },
+                    "old_status": "currently-reading",
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 18 21:51:32 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813202490,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Feb 25 15:26:08 -0800 2013",
+            "read_at": "Tue Aug 18 21:51:32 -0700 2015",
+            "date_added": "Mon Feb 25 15:26:08 -0800 2013",
+            "date_updated": "Mon Oct 23 16:41:46 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/546241713",
+            "link": "https://www.goodreads.com/review/show/546241713",
+            "owned": 0
+        }
+    }
+}

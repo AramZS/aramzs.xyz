@@ -7,7 +7,7 @@
 {% endset %}
 
 {% set subTitle %}
-    {% if growthStage === 'stub' %}scheduled for {% else %}planted on {% endif %}
+    {% if growthStage === 'stub' %}scheduled for {% else %}posted on {% endif %}
     <time datetime="{{ page.date.toISOString() }}">{{ page.date | dateToFormat("DDD") }}</time>
     in: {% include "../components/tag-list.njk" %}.
     {% if modified %}
@@ -18,7 +18,7 @@
 
 {% block pageContent %}
     {% if growthStage === 'stub' %}
-    <section>
+    <section data-source="src/_includes/layouts/page-post.njk">
         <blockquote>
             <p>Note: This is a stub post to be filled out in the future. It has been created for the purpose of interlinking feel free to check out what links here from the list below to find related pages.</p>
         </blockquote>
@@ -35,7 +35,7 @@
         </section>
     {% endif %}
 
-    <section>
+    <section class="full-width">
         {{ content | safe }}
     </section>
 

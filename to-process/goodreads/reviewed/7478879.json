@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2229992231,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7478879
+                },
+                "isbn": 199734151,
+                "isbn13": 9780199734153,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 9
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ypnvgTPkZd9_TCuBO7Hh0A",
+                "title": "Slapped by the Invisible Hand: The Panic of 2007",
+                "title_without_series": "Slapped by the Invisible Hand: The Panic of 2007",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7478879-slapped-by-the-invisible-hand",
+                "num_pages": 223,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Oxford University Press, USA",
+                "publication_day": 8,
+                "publication_year": 2010,
+                "publication_month": 3,
+                "average_rating": 4.09,
+                "ratings_count": 102,
+                "description": "Originally written for a conference of the Federal Reserve, Gary Gorton's \"The Panic of 2007\" garnered enormous attention and is considered by many to be the most convincing take on the recent economic meltdown. Now, in <em>Slapped by the Invisible Hand</em>, Gorton builds upon this seminal work, explaining how the securitized-banking system, the nexus of financial markets and instruments unknown to most people, stands at the heart of the financial crisis.<br /><br />Gorton shows that the Panic of 2007 was not so different from the Panics of 1907 or of 1893, except that, in 2007, most people had never heard of the markets that were involved, didn't know how they worked, or what their purposes were. Terms like subprime mortgage, asset-backed commercial paper conduit, structured investment vehicle, credit derivative, securitization, or repo market were meaningless. In this superb volume, Gorton makes all of this crystal clear. He shows that the securitized banking system is, in fact, a real banking system, allowing institutional investors and firms to make enormous, short-term deposits. But as any banking system, it was vulnerable to a panic. Indeed the events starting in August 2007 can best be understood not as a retail panic involving individuals, but as a wholesale panic involving institutions, where large financial firms \"ran\" on other financial firms, making the system insolvent.<br /><br />An authority on banking panics, Gorton is the ideal person to explain the financial calamity of 2007. Indeed, as the crisis unfolded, he was working inside an institution that played a central role in the collapse. Thus, this book presents the unparalleled and invaluable perspective of a top scholar who was also a key insider.<br />",
+                "authors": {
+                    "author": {
+                        "id": 4795328,
+                        "name": "Gary B. Gorton",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4795328.Gary_B_Gorton",
+                        "average_rating": 4.05,
+                        "ratings_count": 147,
+                        "text_reviews_count": 14
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 9586349,
+                    "uri": "kca://work/amzn1.gr.work.v1.8RU08TLWaZqwqnwdoROPPg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2139552313
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 28 12:08:24 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1879168985,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 28 12:08:23 -0800 2017",
+            "date_updated": "Thu Dec 28 12:08:24 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2229992231",
+            "link": "https://www.goodreads.com/review/show/2229992231",
+            "owned": 0
+        }
+    }
+}

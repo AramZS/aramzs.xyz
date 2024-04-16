@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960341808,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18918401
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.1nav-zBx_YufwBleeyb7Kg",
+                "title": "Jugaad Innovation: Think Frugal, Be Flexible, Generate Breakthrough Growth",
+                "title_without_series": "Jugaad Innovation: Think Frugal, Be Flexible, Generate Breakthrough Growth",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18918401-jugaad-innovation",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.62,
+                "ratings_count": 1241,
+                "description": "<p><i>\"Jugaad Innovation </i>is the most comprehensive book yet to appear on the subject [of frugal innovation].\"<br /><i>—<b>The Economist</b></i><i></i></p><p>\n  <b>A frugal and flexible approach to innovation for the 21st century</b>\n</p><p>Innovation is a key directive at companies worldwide. But in these tough times, we can't rely on the old formula that has sustained innovation efforts for decades—expensive R&amp;D projects and highly-structured innovation processes. <i>Jugaad Innovation</i> argues the West must look to places like India, Brazil, and China for a new approach to frugal and flexible innovation. The authors show how in these emerging markets, <i>jugaad</i> (a Hindi word meaning an improvised solution born from ingenuity and cleverness) is leading to dramatic growth and how Western companies can adopt <i>jugaad</i> innovation to succeed in our hypercompetitive world.</p> \n   Outlines the six principles of <i>jugaad</i> innovation: Seek opportunity in adversity, do more with less, think and act flexibly, keep it simple, include the margin, and follow your heart \n   Features twenty case studies on large corporations from around the world—Google, Facebook, 3M, Apple, Best Buy, GE, IBM, Nokia, Procter &amp; Gamble, PepsiCo, Tata Group, and more—that are actively practicing <i>jugaad</i> innovation \n   The authors blog regularly at <i>Harvard Business Review</i>; their work has been profiled in <i>BusinessWeek, MIT Sloan Management Review, The Financial Times, The Economist</i>, and more  \n   Filled with previously untold and engaging stories of resourceful <i>jugaad</i> innovators and entrepreneurs in emerging markets and the United States \n <p>This groundbreaking book shows leaders everywhere why the time is right for <i>jugaad</i> to emerge as a powerful business tool in the West—and how to bring <i>jugaad</i> practices to their organizations.</p>",
+                "authors": {
+                    "author": {
+                        "id": 5784268,
+                        "name": "Navi Radjou",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5784268.Navi_Radjou",
+                        "average_rating": 3.63,
+                        "ratings_count": 1561,
+                        "text_reviews_count": 131
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 19136785,
+                    "uri": "kca://work/amzn1.gr.work.v1.KDzX3yR646NfepiGqlIj0Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452282059
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:07:07 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710710337,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:07:07 -0700 2014",
+            "date_updated": "Sat Jun 07 06:07:07 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960341808",
+            "link": "https://www.goodreads.com/review/show/960341808",
+            "owned": 0
+        }
+    }
+}

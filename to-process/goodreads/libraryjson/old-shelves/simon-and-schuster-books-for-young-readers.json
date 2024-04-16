@@ -1,0 +1,51 @@
+{
+    "name": "Simon & Schuster Books for Young Readers",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Here, There Be Dragons (Chronicles of the Imaginarium Geographica, #1)",
+            "id": "34908",
+            "author": "James A. Owen",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1214665511000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34908",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Simon & Schuster Books for Young Readers",
+            "tags": [
+                "Hardcover",
+                "Simon & Schuster Books for Young Readers",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1416912274",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781416912279",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34908",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 162067781,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7745031
+                },
+                "isbn": 399156828,
+                "isbn13": 9780399156823,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 964
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.WPvJx0JNpykHKnun5AmLYQ",
+                "title": "Zero History (Blue Ant, #3)",
+                "title_without_series": "Zero History",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282769471l/7745031._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282769471l/7745031._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7745031-zero-history",
+                "num_pages": 404,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Putnam Adult",
+                "publication_day": 7,
+                "publication_year": 2010,
+                "publication_month": 9,
+                "average_rating": 3.95,
+                "ratings_count": 13469,
+                "description": "Hollis Henry never intended to work for global marketing magnate Hubertus Bigend again. But now she’s broke, and Bigend has just the thing to get her back in the game...<br /> <br />Milgrim can disappear in almost any setting, and his Russian is perfectly idiomatic—so much so that he spoke it with his therapist in the secret Swiss clinic where Bigend paid for him to be cured of his addiction...<br /> <br />Garreth doesn't owe Bigend a thing. But he does have friends from whom he can call in the kinds of favors powerful people need when things go sideways...<br /> <br />They all have something Bigend wants as he finds himself outmaneuvered and adrift, after a Department of Defense contract for combat-wear turns out to be the gateway drug for arms dealers so shadowy they can out-Bigend Bigend himself<br />(source: amazon)",
+                "authors": {
+                    "author": {
+                        "id": 9226,
+                        "name": "William Gibson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1373826214p5/9226.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1373826214p2/9226.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9226.William_Gibson",
+                        "average_rating": 3.89,
+                        "ratings_count": 578196,
+                        "text_reviews_count": 24346
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 10567916,
+                    "uri": "kca://work/amzn1.gr.work.v1.qO_Ah7uUT3NcnSAr8jHxnw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Tue Apr 19 00:00:00 -0700 2011",
+            "read_at": "Sat Oct 27 08:10:23 -0700 2012",
+            "date_added": "Tue Apr 19 06:40:00 -0700 2011",
+            "date_updated": "Sat Oct 27 08:10:23 -0700 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/162067781",
+            "link": "https://www.goodreads.com/review/show/162067781",
+            "owned": 0
+        }
+    }
+}

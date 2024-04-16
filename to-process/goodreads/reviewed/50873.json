@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24851593,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 50873
+                },
+                "isbn": 312868812,
+                "isbn13": 9780312868819,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Ts6LzjCx17J7WC8NmrkwrQ",
+                "title": "The SFWA Grand Masters 1",
+                "title_without_series": "The SFWA Grand Masters 1",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/50873.The_SFWA_Grand_Masters_1",
+                "num_pages": 384,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor",
+                "publication_day": {},
+                "publication_year": 1999,
+                "publication_month": 6,
+                "average_rating": 3.97,
+                "ratings_count": 103,
+                "description": "Frederik Pohl, an eminent figure in SF, has been authorized by the SFWA to edit an anthology in three big volumes featuring substantial selections of the work of all the first fifteen Grand Masters. Volume One, presenting the first five writers to receive the award, features the fiction of: Robert A. Heinlein<br /><br />Jack Williamson<br /><br />Clifford D. Simak<br /><br />L. Sprague de Camp<br /><br />Fritz Leiber",
+                "authors": {
+                    "author": {
+                        "id": 22996,
+                        "name": "Frederik Pohl",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1226540337p5/22996.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1226540337p2/22996.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/22996.Frederik_Pohl",
+                        "average_rating": 3.91,
+                        "ratings_count": 127492,
+                        "text_reviews_count": 6377
+                    }
+                },
+                "published": 1999,
+                "work": {
+                    "id": 49667,
+                    "uri": "kca://work/amzn1.gr.work.v1.qx6TL29i5_pM6YglPrOQlw"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Jun 21 06:10:57 -0700 2008",
+            "date_added": "Wed Jun 18 17:53:00 -0700 2008",
+            "date_updated": "Sat Jun 21 06:10:57 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24851593",
+            "link": "https://www.goodreads.com/review/show/24851593",
+            "owned": 0
+        }
+    }
+}

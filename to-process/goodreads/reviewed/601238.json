@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1549839100,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 601238
+                },
+                "isbn": 552124753,
+                "isbn13": 9780552124751,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1692
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.wmsCLioD30HgoIyE6Yzy2g",
+                "title": "The Colour of Magic (Discworld, #1)",
+                "title_without_series": "The Colour of Magic",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365691644l/601238._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365691644l/601238._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/601238.The_Colour_of_Magic",
+                "num_pages": 285,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Corgi",
+                "publication_day": 18,
+                "publication_year": 1985,
+                "publication_month": 1,
+                "average_rating": 3.99,
+                "ratings_count": 302332,
+                "description": "<i>Alternate Cover Edition can be found <a href=\"https://www.goodreads.com/book/show/27254094-the-colour-of-magic\" rel=\"nofollow\">here</a>. </i><br /><br />On a world supported on the back of a giant turtle (sex unknown), a gleeful, explosive, wickedly eccentric expedition sets out. There's an avaricious but inept wizard, a naive tourist whose luggage moves on hundreds of dear little legs, dragons who only exist if you believe in them, and of course THE EDGE on the planet...",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 1985,
+                "work": {
+                    "id": 194190,
+                    "uri": "kca://work/amzn1.gr.work.v1.WXE3cJqvT0knlf1Vm3kJvQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1239086205
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Feb 15 18:00:08 -0800 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Feb 15 18:00:08 -0800 2016",
+            "date_updated": "Mon Feb 15 18:00:09 -0800 2016",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1549839100",
+            "link": "https://www.goodreads.com/review/show/1549839100",
+            "owned": 0
+        }
+    }
+}

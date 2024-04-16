@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071697587,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18373352
+                },
+                "isbn": 1401247547,
+                "isbn13": 9781401247546,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.H5HLSB55b4JaDYlE4JgrDA",
+                "title": "Justice League Beyond: In Gods We Trust",
+                "title_without_series": "Justice League Beyond: In Gods We Trust",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396230969l/18373352._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396230969l/18373352._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18373352-justice-league-beyond",
+                "num_pages": 208,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "DC Comics",
+                "publication_day": 25,
+                "publication_year": 2014,
+                "publication_month": 3,
+                "average_rating": 3.38,
+                "ratings_count": 78,
+                "description": "Spinning off from the hit WB series BATMAN BEYOND comes JUSTICE LEAGUE BEYOND! Sector 2814's newest Green Lantern: Kai-Ro has been posing as a student to expose a secret organization called The Brain Trust which is brainwashing young students and training them to destory the Justice League.  It is within the walls of the sinister Academy of Arts &amp; Sciences that Kai-Ro befriends Mary Marvel and helps her regain her memory and her powers.  The Justice League also adds another new member: Shazam!<br /><br />JUSTICE LEAGUE BEYOND: IN GODS WE TRUST is collected here in its entirety for the first time, written by Derek Fridolfs (BATMAN: ARKHAM UNHINGED, LI'L GOTHAM) and J.T. Krull(TEEN TITANS, CAPTAIN ATOM).<br /><br />This volume collects Justice League Beyond digital Chapters  17-25, Superman Beyond Digital Chapters 11-20",
+                "authors": {
+                    "author": {
+                        "id": 1025714,
+                        "name": "Derek Fridolfs",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1553034496p5/1025714.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1553034496p2/1025714.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1025714.Derek_Fridolfs",
+                        "average_rating": 3.85,
+                        "ratings_count": 41932,
+                        "text_reviews_count": 3037
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 25985103,
+                    "uri": "kca://work/amzn1.gr.work.v1.Mt9uX_GbZFca1CEcV4smWA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593090290
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:21:22 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813197559,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:21:22 -0700 2014",
+            "date_updated": "Mon Oct 23 16:34:42 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071697587",
+            "link": "https://www.goodreads.com/review/show/1071697587",
+            "owned": 0
+        }
+    }
+}

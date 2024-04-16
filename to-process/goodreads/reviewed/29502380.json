@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749128363,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 29502380
+                },
+                "isbn": 1610396669,
+                "isbn13": 9781610396660,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 37
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.kEZMXmleSZrWh7oqaMz_Qg",
+                "title": "The Signals Are Talking: Why Today’s Fringe Is Tomorrow’s Mainstream",
+                "title_without_series": "The Signals Are Talking: Why Today’s Fringe Is Tomorrow’s Mainstream",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470282995l/29502380._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470282995l/29502380._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/29502380-the-signals-are-talking",
+                "num_pages": 336,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "PublicAffairs",
+                "publication_day": 6,
+                "publication_year": 2016,
+                "publication_month": 12,
+                "average_rating": 3.66,
+                "ratings_count": 363,
+                "description": "“How did we miss that?” is perhaps the scariest question for a business leader to face: it's the one that they have to ask themselves when one day they wake up to discover that a competitor or startup has just released something new that changes their world forever. If you're asking this question, it's probably too late: you didn’t see this important new development coming, or didn’t understand it well enough to take it seriously, and now you must play the most dreaded game of all—catch-up.<br /><br />In <i>How Did We Miss That?: How to Forecast the Next Big Thing</i>, Amy Webb shows you how to avoid having to ask that frightening question. Successful business leaders seem to have a sixth sense about what's next; an uncanny ability to predict the next big trend or market development. But it's not magic. Webb teaches you how to spot today the signs of tomorrow's trends; specifically, the trends affecting <i>your</i> world—<i>your</i> market, <i>your</i> products, and <i>your</i> competitors. She demonstrates how the future doesn’t arrive fully formed, but rather emerges step-by-step, appearing first around the fringes of society. But that future is easy to miss unless you know where and how to look.<br /><br />Books about the near-future, not to mention countless blogs, postings, seminars, and conferences, simply tell you what the author thinks is coming, leaving you to pick the prognostication you prefer. Amy Webb shows you where and how to look in the present for harbingers of the future. Her book is an invaluable resource for leaders of all kinds.",
+                "authors": {
+                    "author": {
+                        "id": 15568076,
+                        "name": "Amy   Webb",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1547502838p5/15568076.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1547502838p2/15568076.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/15568076.Amy_Webb",
+                        "average_rating": 3.63,
+                        "ratings_count": 2876,
+                        "text_reviews_count": 519
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 49789597,
+                    "uri": "kca://work/amzn1.gr.work.v1._-qvMdEfeV8jx57Du1FpFg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498301266
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:41:18 -0700 2016"
+                    },
+                    "ratings_count": 1,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 1,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414464905,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:41:18 -0700 2016",
+            "date_updated": "Mon Sep 05 07:41:18 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749128363",
+            "link": "https://www.goodreads.com/review/show/1749128363",
+            "owned": 0
+        }
+    }
+}

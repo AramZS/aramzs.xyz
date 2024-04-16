@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24670462,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22417
+                },
+                "isbn": 1563894815,
+                "isbn13": 9781563894817,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 286
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.yI_kiNN9YObQYV4MVboAzg",
+                "title": "Transmetropolitan, Vol. 2: Lust for Life",
+                "title_without_series": "Transmetropolitan, Vol. 2: Lust for Life",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427758922l/22417._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427758922l/22417._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22417.Transmetropolitan_Vol_2",
+                "num_pages": 208,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Vertigo",
+                "publication_day": 1,
+                "publication_year": 1999,
+                "publication_month": 2,
+                "average_rating": 4.34,
+                "ratings_count": 16932,
+                "description": "Outlaw journalist Spider Jerusalem has become a household name in the future City he calls home. This latest collection of twisted tales showcases Spider's horrific yet funny screeds on subjects as diverse as religion, politics, and his ex-wife's cryogenically frozen head (which has been stolen). \"Transmetropolitan\" has been called \"brilliant future-shock commentary\" (Spin), and this new volume shows why.",
+                "authors": {
+                    "author": {
+                        "id": 12772,
+                        "name": "Warren Ellis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p5/12772.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p2/12772.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12772.Warren_Ellis",
+                        "average_rating": 4.13,
+                        "ratings_count": 411465,
+                        "text_reviews_count": 19050
+                    }
+                },
+                "published": 1999,
+                "work": {
+                    "id": 932279,
+                    "uri": "kca://work/amzn1.gr.work.v1.7BRH9hY3QF313KaPw-wB7g"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:11:08 -0700 2008",
+            "date_updated": "Mon Jun 16 19:11:08 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24670462",
+            "link": "https://www.goodreads.com/review/show/24670462",
+            "owned": 0
+        }
+    }
+}

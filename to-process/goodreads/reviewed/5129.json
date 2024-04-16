@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 144649750,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 5129
+                },
+                "isbn": 60929871,
+                "isbn13": 9780060929879,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 20671
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-kk1f25jPWvQSYx7iIvZgQ",
+                "title": "Brave New World",
+                "title_without_series": "Brave New World",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/5129.Brave_New_World",
+                "num_pages": 288,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "HarperPerennial / Perennial Classics",
+                "publication_day": 1,
+                "publication_year": 1998,
+                "publication_month": 9,
+                "average_rating": 3.99,
+                "ratings_count": 1378805,
+                "description": "Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932. Largely set in a futuristic World State, inhabited by genetically modified citizens and an intelligence-based social hierarchy, the novel anticipates huge scientific advancements in reproductive technology, sleep-learning, psychological manipulation and classical conditioning that are combined to make a dystopian society which is challenged by only a single individual: the story's protagonist.",
+                "authors": {
+                    "author": {
+                        "id": 3487,
+                        "name": "Aldous Huxley",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1547138835p5/3487.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1547138835p2/3487.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3487.Aldous_Huxley",
+                        "average_rating": 3.99,
+                        "ratings_count": 1655521,
+                        "text_reviews_count": 37647
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 3204877,
+                    "uri": "kca://work/amzn1.gr.work.v1.Sm_a8GGh77Rw99ImSVfoTA"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847066125,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Jan 30 00:00:00 -0800 2011",
+            "date_added": "Sun Jan 30 07:36:46 -0800 2011",
+            "date_updated": "Thu Dec 04 09:01:51 -0800 2014",
+            "read_count": 1,
+            "body": "Good, though not at all what I expected. Now that I've finished it, I'm not entirely sure what to think.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/144649750",
+            "link": "https://www.goodreads.com/review/show/144649750",
+            "owned": 0
+        }
+    }
+}

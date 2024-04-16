@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1949310604,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 833834
+                },
+                "isbn": 807055018,
+                "isbn13": 9780807055014,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 68
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ktZWN_DFa2KODaqIzvE7bQ",
+                "title": "The Broken Spears: The Aztec Account of the Conquest of Mexico",
+                "title_without_series": "The Broken Spears: The Aztec Account of the Conquest of Mexico",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493324100l/833834._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493324100l/833834._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/833834.The_Broken_Spears",
+                "num_pages": 196,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Beacon Press",
+                "publication_day": 20,
+                "publication_year": 1997,
+                "publication_month": 7,
+                "average_rating": 3.99,
+                "ratings_count": 2365,
+                "description": "Until 1959, when this book was published for the first time, the only organized testimony about the Conquest was the victorious chronicle of the Spaniards themselves. <a href=\"https://www.goodreads.com/author/show/708573.Miguel_Le_n_Portilla\" title=\"Miguel León-Portilla\" rel=\"nofollow\">Miguel León-Portilla</a> had the incomparable success of organizing texts translated from Nahuatl by <a href=\"https://www.goodreads.com/author/show/1328444._ngel_Mar_a_Garibay_Kintana\" title=\"Ángel María Garibay Kintana\" rel=\"nofollow\">Ángel María Garibay Kintana</a> to give us the <i>The Aztec Account of the Conquest of Mexico</i>: Indigenous people of Tenochtitlán, Tlatelolco, Texcoco, Chalco and Tlaxcala were formed about the struggle against the conquerors and the final ruin of the Aztec world.<br /><br />An account of the omens that announced the disaster, a description of Cortes' progress, a chronicle of the heroic battle of the ancient Mexicans in defense of their culture and of their own lives, a civilization that was lost forever, a great epic poem of the origins of Mexican nationality, <i>The Aztec Account of the Conquest of Mexico</i> is already a classic book and an indispensable reading work.",
+                "authors": {
+                    "author": {
+                        "id": 708573,
+                        "name": "Miguel León-Portilla",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1520992937p5/708573.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1520992937p2/708573.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/708573.Miguel_Le_n_Portilla",
+                        "average_rating": 4.03,
+                        "ratings_count": 3231,
+                        "text_reviews_count": 263
+                    }
+                },
+                "published": 1997,
+                "work": {
+                    "id": 819459,
+                    "uri": "kca://work/amzn1.gr.work.v1.e1gLIbflzOQSqsi8LNWvPQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1766800471
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Mar 22 10:31:54 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1605166602,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Mar 22 10:31:53 -0700 2017",
+            "date_updated": "Wed Mar 22 10:31:54 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1949310604",
+            "link": "https://www.goodreads.com/review/show/1949310604",
+            "owned": 0
+        }
+    }
+}

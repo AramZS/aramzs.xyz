@@ -1,0 +1,128 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520857079,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6120349
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1801
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.93nj9m0-B-5qGjeKMIIy0w",
+                "title": "Locke & Key, Vol. 2: Head Games",
+                "title_without_series": "Locke & Key, Vol. 2: Head Games",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351338040l/6120349._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351338040l/6120349._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6120349-locke-key-vol-2",
+                "num_pages": 160,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "IDW Publishing",
+                "publication_day": {},
+                "publication_year": 2015,
+                "publication_month": 2,
+                "average_rating": 4.34,
+                "ratings_count": 35045,
+                "description": "Following a shocking death that dredges up memories of their father's murder, Kinsey and Tyler Locke are thrown into choppy emotional waters, and turn to their new friend, Zack Wells, for support, little suspecting Zack's dark secret. <br /><br />Meanwhile, six-year-old Bode Locke tries to puzzle out the secret of the head key, and Uncle Duncan is jarred into the past by a disturbingly familiar face. <br /><br />Open your mind - the head games are just getting started",
+                "authors": {
+                    "author": {
+                        "id": 88506,
+                        "name": "Joe Hill",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1569331514p5/88506.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1569331514p2/88506.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/88506.Joe_Hill",
+                        "average_rating": 4.04,
+                        "ratings_count": 724326,
+                        "text_reviews_count": 65573
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 6298472,
+                    "uri": "kca://work/amzn1.gr.work.v1.a6DLF9Blu7gEaE6AQXSuGg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051893986
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:45:39 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813205454,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Jan 29 13:18:49 -0800 2013",
+            "date_updated": "Mon Oct 23 16:45:39 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520857079",
+            "link": "https://www.goodreads.com/review/show/520857079",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 149168273,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 366034
+                },
+                "isbn": "067102079X",
+                "isbn13": 9780671020798,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 18
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.VmYQY3w3eWFF6irrQrDfOw",
+                "title": "The Quiet Place (Star Trek: New Frontier, #7)",
+                "title_without_series": "The Quiet Place",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/366034.The_Quiet_Place",
+                "num_pages": 258,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": {},
+                "publication_year": 1999,
+                "publication_month": 11,
+                "average_rating": 3.85,
+                "ratings_count": 800,
+                "description": "Ever since the fall of the Thallonian Empire, Si Cwan has been searching for his younger sister, the only other survivor of the royal family. His quest has been a hard one, filled with many disappointments, but now it may be nearing its end.... On the planet Montos, a mysterious young woman, whose past is shrouded in secrecy, finds herself pursued by both the fanatical Redeemers and a vicious race of feral predators known only as the Dogs of War. All are in search of information regarding the true nature and location of the Quiet Place, a mystical realm celebrated in myth and legend. Only this same woman, now called Riella, may hold the secret of the Quiet Place, a secret that the Redeemers and others will kill to possess.<br /><br />Is Riella indeed Si Cwan's long-lost sister? Before he can learn the truth, he and his crewmates must brave the unchecked savagery of the Dogs of War -- and enter the terrifying heart of the Quiet Place.",
+                "authors": {
+                    "author": {
+                        "id": 13681,
+                        "name": "Peter David",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p5/13681.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p2/13681.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13681.Peter_David",
+                        "average_rating": 4.02,
+                        "ratings_count": 297991,
+                        "text_reviews_count": 13707
+                    }
+                },
+                "published": 1999,
+                "work": {
+                    "id": 356059,
+                    "uri": "kca://work/amzn1.gr.work.v1.69kmAXNjOqC8R7ibOTgR5g"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Feb 19 06:08:05 -0800 2011",
+            "date_updated": "Sat Feb 19 06:08:05 -0800 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/149168273",
+            "link": "https://www.goodreads.com/review/show/149168273",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "name": "Feiwel and Friends",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Cinder (The Lunar Chronicles, #1)",
+            "id": "11235712",
+            "author": "Marissa Meyer",
+            "date_finished": 1337472000000,
+            "notes": [],
+            "date_started": 1351350958000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Cinder (The Lunar Chronicles, #1): Rating - 5/5",
+                    "date": 1337472000000,
+                    "type": "short",
+                    "content": "A remarkably well written and well put together novel. The cyberpunk-meets-Cinderella could have very easily gone wrong, but instead everything about this novel is right. The only downside is that the next book in the series is not out yet. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11235712",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Feiwel and Friends",
+            "tags": [
+                "Hardcover",
+                "Feiwel and Friends",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0312641893",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780312641894",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "11235712",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Cinder (The Lunar Chronicles, #1)",
+            "id": 11235712,
+            "author": "Marissa Meyer",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11235712",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Feiwel and Friends",
+            "tags": [
+                "Hardcover",
+                "Feiwel and Friends",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 11235712,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

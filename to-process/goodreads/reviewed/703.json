@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24672121,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 703
+                },
+                "isbn": 1400079497,
+                "isbn13": 9781400079490,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3119
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.p8biwS3jUbROvX1326mwQw",
+                "title": "The Plot Against America",
+                "title_without_series": "The Plot Against America",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553896240l/703._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553896240l/703._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/703.The_Plot_Against_America",
+                "num_pages": 391,
+                "format": "Paperback",
+                "edition_information": "First Vintage International Edition (US/CAN)",
+                "publisher": "Vintage International",
+                "publication_day": 27,
+                "publication_year": 2005,
+                "publication_month": 9,
+                "average_rating": 3.78,
+                "ratings_count": 41889,
+                "description": "In an astonishing feat of narrative invention, our most ambitious novelist imagines an alternate version of American history. In 1940 Charles A. Lindbergh, heroic aviator and rabid isolationist, is elected President. Shortly thereafter, he negotiates a cordial \"understanding\" with Adolf Hitler, while the new government embarks on a program of folksy anti-Semitism.<br /><br />For one boy growing up in Newark, Lindbergh's election is the first in a series of ruptures that threatens to destroy his small, safe corner of America - and with it, his mother, his father, and his older brother.<br />(back cover)",
+                "authors": {
+                    "author": {
+                        "id": 463,
+                        "name": "Philip Roth",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1399886959p5/463.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1399886959p2/463.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/463.Philip_Roth",
+                        "average_rating": 3.81,
+                        "ratings_count": 384391,
+                        "text_reviews_count": 27913
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 911456,
+                    "uri": "kca://work/amzn1.gr.work.v1.aDq4tXbyG3jxcMHEzvDjww"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 10337475,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:28:27 -0700 2008",
+            "date_updated": "Mon Jun 16 19:28:27 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24672121",
+            "link": "https://www.goodreads.com/review/show/24672121",
+            "owned": 0
+        }
+    }
+}

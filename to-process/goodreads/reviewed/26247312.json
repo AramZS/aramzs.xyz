@@ -1,0 +1,136 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749128667,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 26247312
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 251
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.BpZQE4RTDsm1QggsjMBBZQ",
+                "title": "Beacon 23",
+                "title_without_series": "Beacon 23",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463536275l/26247312._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463536275l/26247312._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/26247312-beacon-23",
+                "num_pages": 256,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.91,
+                "ratings_count": 14061,
+                "description": "For centuries, men and women have manned lighthouses to ensure the safe passage of ships. It is a lonely job, and a thankless one for the most part. Until something goes wrong. Until a ship is in distress. <br /> <br />In the 23rd century, this job has moved into outer space. A network of beacons allows ships to travel across the Milky Way at many times the speed of light. These beacons are built to be robust. They never break down. They never fail. <br /> <br />At least, they aren't supposed to.",
+                "authors": {
+                    "author": {
+                        "id": 3064305,
+                        "name": "Hugh Howey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1327581631p5/3064305.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1327581631p2/3064305.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3064305.Hugh_Howey",
+                        "average_rating": 4.15,
+                        "ratings_count": 569898,
+                        "text_reviews_count": 39800
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 46093269,
+                    "uri": "kca://work/amzn1.gr.work.v1.QZJWeSFwXrujE4P-sSvlSQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3395079438
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Feb 08 08:12:12 -0800 2020"
+                        },
+                        "ratings_count": 1,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1498301669
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Sep 05 07:41:38 -0700 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 2824085193,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Feb 08 08:12:11 -0800 2020",
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:41:37 -0700 2016",
+            "date_updated": "Sat Feb 08 08:12:11 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749128667",
+            "link": "https://www.goodreads.com/review/show/1749128667",
+            "owned": 0
+        }
+    }
+}

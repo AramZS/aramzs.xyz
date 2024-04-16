@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2229991662,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6617037
+                },
+                "isbn": 1933633867,
+                "isbn13": 9781933633862,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1276
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.KToqGLYOmnTYc_fGg1a6AQ",
+                "title": "Debt: The First 5,000 Years",
+                "title_without_series": "Debt: The First 5,000 Years",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6617037-debt",
+                "num_pages": 534,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Melville House Publishing",
+                "publication_day": 16,
+                "publication_year": 2011,
+                "publication_month": 9,
+                "average_rating": 4.16,
+                "ratings_count": 11177,
+                "description": "<b>Before there was money, there was debt</b><br /><br /> Every economics textbook says the same thing: Money was invented to replace onerous and complicated barter systems—to relieve ancient people from having to haul their goods to market. The problem with this version of history? There’s not a shred of evidence to support it.<br /><br />Here anthropologist David Graeber presents a stunning reversal of conventional wisdom. He shows that for more than 5,000 years, since the beginnings of the first agrarian empires, humans have used elaborate credit systems to buy and sell goods—that is, long before the invention of coins or cash. It is in this era, Graeber argues, that we also first encounter a society divided into debtors and creditors. <br /><br /> Graeber shows that arguments about debt and debt forgiveness have been at the center of political debates from Italy to China, as well as sparking innumerable insurrections. He also brilliantly demonstrates that the language of the ancient works of law and religion (words like “guilt,” “sin,” and “redemption”) derive in large part from ancient debates about debt, and shape even our most basic ideas of right and wrong. We are still fighting these battles today without knowing it.<br /><br /><i>Debt: The First 5,000 Years </i>is a fascinating chronicle of this little known history—as well as how it has defined human history, and what it means for the credit crisis of the present day and the future of our economy.",
+                "authors": {
+                    "author": {
+                        "id": 29101,
+                        "name": "David Graeber",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1479657149p5/29101.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1479657149p2/29101.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/29101.David_Graeber",
+                        "average_rating": 4.07,
+                        "ratings_count": 23830,
+                        "text_reviews_count": 3085
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 6811142,
+                    "uri": "kca://work/amzn1.gr.work.v1.HgcSPFINM7y7vjEDjELTeA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2139551595
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 28 12:08:00 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1879168443,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 28 12:08:00 -0800 2017",
+            "date_updated": "Thu Dec 28 12:08:00 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2229991662",
+            "link": "https://www.goodreads.com/review/show/2229991662",
+            "owned": 0
+        }
+    }
+}

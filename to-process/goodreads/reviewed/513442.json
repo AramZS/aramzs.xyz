@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 145585283,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 513442
+                },
+                "isbn": 743485084,
+                "isbn13": 9780743485081,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UXMjGh91Ffe2niYUYajM0Q",
+                "title": "The Q Continuum",
+                "title_without_series": "The Q Continuum",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/513442.The_Q_Continuum",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.01,
+                "ratings_count": 273,
+                "description": "<p> The unpredictable cosmic entity known only as Q has plagued Captain Jean-Luc Picard and the crew of the Starship <i>Enterprise™</i> since their very first voyage together. But little was known of Q's mysterious past or of the unearthly realm from which he hails. </p><p> Until now. </p><p> A brilliant scientist may have found a way to breach the energy barrier surrounding the Milky Way galaxy, and the <i>Enterprise</i> is going to put it to the test. The last thing Captain Picard needs is a surprise visit from Q, but the omnipotent trickster has more in mind than his usual pranks. Kidnapping Picard, he takes the captain back through time to the moment the Q Continuum faced its greatest threat. </p><p> Now Picard must learn Q's secrets -- or all of reality may perish!</p>",
+                "authors": {
+                    "author": {
+                        "id": 6620,
+                        "name": "Greg Cox",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1311101625p5/6620.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1311101625p2/6620.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6620.Greg_Cox",
+                        "average_rating": 3.91,
+                        "ratings_count": 27780,
+                        "text_reviews_count": 2446
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 501417,
+                    "uri": "kca://work/amzn1.gr.work.v1.NBu801W7B8E75XAdWZrzoA"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Feb 02 00:00:00 -0800 2011",
+            "date_added": "Thu Feb 03 04:40:43 -0800 2011",
+            "date_updated": "Thu Feb 03 04:40:53 -0800 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/145585283",
+            "link": "https://www.goodreads.com/review/show/145585283",
+            "owned": 0
+        }
+    }
+}

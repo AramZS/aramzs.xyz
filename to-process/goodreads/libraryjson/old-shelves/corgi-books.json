@@ -1,0 +1,104 @@
+{
+    "name": "Corgi Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Jingo (Discworld, #21; City Watch, #4)",
+            "id": "47990",
+            "author": "Terry Pratchett",
+            "date_finished": 1375315200000,
+            "notes": [],
+            "date_started": 1390425808000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Jingo (Discworld, #21; City Watch, #4): Rating - 5/5",
+                    "date": 1375315200000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/47990",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi Books",
+            "tags": [
+                "Paperback",
+                "Corgi Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0552154164",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780552154161",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "47990",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Jingo (Discworld, #21; City Watch, #4)",
+            "id": 47990,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/47990",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi Books",
+            "tags": [
+                "Paperback",
+                "Corgi Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 47990,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

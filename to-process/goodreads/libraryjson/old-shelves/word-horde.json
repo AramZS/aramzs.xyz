@@ -1,0 +1,104 @@
+{
+    "name": "Word Horde",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Vermilion",
+            "id": "25316920",
+            "author": "Molly Tanzer",
+            "date_finished": 1451779200000,
+            "notes": [],
+            "date_started": 1519891848000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Vermilion: Rating - 4/5",
+                    "date": 1451779200000,
+                    "type": "short",
+                    "content": "<strong>A fun read!</strong><br/><br/>Highly recommended! A casually deep and well thought out universe host to a cast of very interesting characters. I greatly enjoyed this book.",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25316920",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Word Horde",
+            "tags": [
+                "Kindle Edition",
+                "Word Horde",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25316920",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Vermilion",
+            "id": 25316920,
+            "author": "Molly Tanzer",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25316920",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Word Horde",
+            "tags": [
+                "Kindle Edition",
+                "Word Horde",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 25316920,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

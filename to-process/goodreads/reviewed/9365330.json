@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 152916670,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9365330
+                },
+                "isbn": 1594202850,
+                "isbn13": 9781594202858,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 128
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.zFLvc6ArgTFEoaOW2moubw",
+                "title": "Reality Is Broken: Why Games Make Us Better and How They Can Change the World",
+                "title_without_series": "Reality Is Broken: Why Games Make Us Better and How They Can Change the World",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311705901l/9365330._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311705901l/9365330._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9365330-reality-is-broken",
+                "num_pages": 400,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Penguin Press",
+                "publication_day": 20,
+                "publication_year": 2011,
+                "publication_month": 1,
+                "average_rating": 3.81,
+                "ratings_count": 7106,
+                "description": "<b>Visionary game designer Jane McGonigal reveals how we can harness the power of games to solve real-world problems and boost global happiness. </b> <br /><br /> More than 174 million Americans are gamers, and the average young person in the United States will spend ten thousand hours gaming by the age of twenty-one. According to world-renowned game designer Jane McGonigal, the reason for this mass exodus to virtual worlds is that videogames are increasingly fulfilling genuine human needs. In this groundbreaking exploration of the power and future of gaming, McGonigal reveals how we can use the lessons of game design to fix what is wrong with the real world.Drawing on positive psychology, cognitive science, and sociology, <i>Reality Is Broken</i> uncovers how game designers have hit on core truths about what makes us happy and utilized these discoveriesto astonishing effect in virtual environments. Videogames consistently provide the exhilarating rewards, stimulating challenges, and epic victories that are so often lacking in the real world. But why, McGonigal asks, should we use the power of games for escapist entertainment alone? Her research suggests that gamers are expert problem solvers and collaborators because they regularly cooperate with other players to overcome daunting virtual challenges, and she helped pioneer a fast-growing genre of games that aims to turn gameplay to socially positive ends.<br /><br />In <i>Reality Is Broken</i>, she reveals how these new alternate reality games are already improving the quality of our daily lives, fighting social problems such as depression and obesity, and addressing vital twenty-first-century challenges-and she forecasts the thrilling possibilities that lie ahead. She introduces us to games like World Without Oil, a simulation designed to brainstorm-and therefore avert- the challenges of a worldwide oil shortage, and Evoke, a game commissioned by the World Bank Institute that sends players on missions to address issues from poverty to climate change.<br /><br />McGonigal persuasively argues that those who continue to dismiss games will be at a major disadvantage in the coming years. Gamers, on the other hand, will be able to leverage the collaborative and motivational power of games in their own lives, communities, and businesses. Written for gamers and nongamers alike, <i>Reality Is Broken</i> shows us that the future will belong to those who can understand, , and play games.<br /><br />Watch a Video",
+                "authors": {
+                    "author": {
+                        "id": 3406317,
+                        "name": "Jane McGonigal",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1493042947p5/3406317.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1493042947p2/3406317.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3406317.Jane_McGonigal",
+                        "average_rating": 3.84,
+                        "ratings_count": 8871,
+                        "text_reviews_count": 1152
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 10860287,
+                    "uri": "kca://work/amzn1.gr.work.v1.tD6VJ4ma8Zo-TVZsHPMjiA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 974839089
+                    },
+                    "old_status": "currently-reading",
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 18 21:51:51 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 293111140,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Tue Mar 08 00:00:00 -0800 2011",
+            "read_at": "Tue Aug 18 21:51:50 -0700 2015",
+            "date_added": "Tue Mar 08 06:31:36 -0800 2011",
+            "date_updated": "Tue Aug 18 21:51:50 -0700 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/152916670",
+            "link": "https://www.goodreads.com/review/show/152916670",
+            "owned": 0
+        }
+    }
+}

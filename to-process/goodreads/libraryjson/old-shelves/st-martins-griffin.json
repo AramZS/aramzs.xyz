@@ -1,0 +1,202 @@
+{
+    "name": "St. Martin's Griffin",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Patient Zero (Joe Ledger, #1)",
+            "id": "3993839",
+            "author": "Jonathan Maberry",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1579779710000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Patient Zero (Joe Ledger, #1): Rating - 3/5",
+                    "date": 1579779710000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3993839",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "St. Martin's Griffin",
+            "tags": [
+                "Paperback",
+                "St. Martin's Griffin",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0312382855",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780312382858",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "3993839",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Naked City",
+            "id": "9727730",
+            "author": "Ellen Datlow, Jim Butcher, Patricia Briggs, Jeffery Ford, Nathan Ballingrud, Peter S. Beagle, Elizabeth Bear, Richard Bowes, Pat Cadigan, John Crowley, Jeffrey Ford, Christopher Fowler, Melissa Marr, Caitlín R. Kiernan, Matthew Kressel, Ellen Kushner, Naomi Novik, Kit Reed, Lucius Shepard, Delia Sherman, Lavie Tidhar, Holly Black",
+            "date_finished": 1383264000000,
+            "notes": [],
+            "date_started": 1412782274000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Naked City: Rating - 4/5",
+                    "date": 1383264000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/9727730",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "St. Martin's Griffin",
+            "tags": [
+                "Paperback",
+                "St. Martin's Griffin",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0312385242",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780312385248",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "9727730",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Patient Zero (Joe Ledger, #1)",
+            "id": 3993839,
+            "author": "Jonathan Maberry",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3993839",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "St. Martin's Griffin",
+            "tags": [
+                "Paperback",
+                "St. Martin's Griffin",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 3993839,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Naked City",
+            "id": 9727730,
+            "author": "Ellen Datlow",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/9727730",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "St. Martin's Griffin",
+            "tags": [
+                "Paperback",
+                "St. Martin's Griffin",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 9727730,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2614211692,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25733990
+                },
+                "isbn": 1101886692,
+                "isbn13": 9781101886694,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7495
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Md9cPDc4lYcMHielsUmurA",
+                "title": "Sleeping Giants (Themis Files, #1)",
+                "title_without_series": "Sleeping Giants",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459785141l/25733990._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459785141l/25733990._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25733990-sleeping-giants",
+                "num_pages": 320,
+                "format": "Hardcover",
+                "edition_information": "First Edition",
+                "publisher": "Del Rey",
+                "publication_day": 26,
+                "publication_year": 2016,
+                "publication_month": 4,
+                "average_rating": 3.84,
+                "ratings_count": 65928,
+                "description": "A girl named Rose is riding her new bike near home in Deadwood, South Dakota, when she falls through the earth. She wakes up at the bottom of a square-shaped hole, its walls glowing with intricate carvings. But the firemen who come to save her peer down upon something even stranger: a little girl in the palm of a giant metal hand.<br /><br />Seventeen years later, the mystery of the bizarre artifact remains unsolved - the object's origins, architects, and purpose unknown.<br /><br />But some can never stop searching for answers.<br /><br />Rose Franklin is now a highly trained physicist leading a top-secret team to crack the hand's code. And along with her colleagues, she is being interviewed by a nameless interrogator whose power and purview are as enigmatic as the relic they seek. What's clear is that Rose and her compatriots are on the edge of unravelling history's most perplexing discovery-and finally figuring out what it portends for humanity. But once the pieces of the puzzle are in place, will the result be an instrument of lasting peace or a weapon of mass destruction?",
+                "authors": {
+                    "author": {
+                        "id": 8534434,
+                        "name": "Sylvain Neuvel",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1410300023p5/8534434.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1410300023p2/8534434.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8534434.Sylvain_Neuvel",
+                        "average_rating": 3.86,
+                        "ratings_count": 129463,
+                        "text_reviews_count": 18654
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 42721200,
+                    "uri": "kca://work/amzn1.gr.work.v1.IJpLX5dBxTpN9n0g2mZPcw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2645949661
+                    },
+                    "old_status": {},
+                    "status": "currently-reading",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 03 11:08:22 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 2
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 2259218756,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Dec 03 11:08:21 -0800 2018",
+            "read_at": {},
+            "date_added": "Mon Dec 03 11:08:21 -0800 2018",
+            "date_updated": "Mon Dec 03 11:08:21 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2614211692",
+            "link": "https://www.goodreads.com/review/show/2614211692",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2317892989,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13539191
+                },
+                "isbn": 765333104,
+                "isbn13": 9780765333100,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1399
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.jji4IQyzPl6HuttpjbWM9g",
+                "title": "Three Parts Dead (Craft Sequence, #1)",
+                "title_without_series": "Three Parts Dead",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333049511l/13539191._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333049511l/13539191._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13539191-three-parts-dead",
+                "num_pages": 336,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 2,
+                "publication_year": 2012,
+                "publication_month": 10,
+                "average_rating": 3.98,
+                "ratings_count": 11864,
+                "description": "A god has died, and it’s up to Tara, first-year associate in the international necromantic firm of Kelethres, Albrecht, and Ao, to bring Him back to life before His city falls apart.<br /><br />Her client is Kos, recently deceased fire god of the city of Alt Coulumb. Without Him, the metropolis’s steam generators will shut down, its trains will cease running, and its four million citizens will riot.<br /><br />Tara’s job: resurrect Kos before chaos sets in. Her only help: Abelard, a chain-smoking priest of the dead god, who’s having an understandable crisis of faith.<br /><br />When Tara and Abelard discover that Kos was murdered, they have to make a case in Alt Coulumb’s courts—and their quest for the truth endangers their partnership, their lives, and Alt Coulumb’s slim hope of survival.<br /><br />Set in a phenomenally built world in which justice is a collective force bestowed on a few, craftsmen fly on lightning bolts, and gargoyles can rule cities, <i>Three Parts Dead</i> introduces readers to an ethical landscape in which the line between right and wrong blurs.",
+                "authors": {
+                    "author": {
+                        "id": 3405346,
+                        "name": "Max Gladstone",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440009008p5/3405346.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440009008p2/3405346.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3405346.Max_Gladstone",
+                        "average_rating": 3.99,
+                        "ratings_count": 63811,
+                        "text_reviews_count": 11047
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 19101555,
+                    "uri": "kca://work/amzn1.gr.work.v1.vGNXt6jhnYJWsKC_VRBXJw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2253498163
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Mar 05 17:28:17 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Jan 12 00:00:00 -0800 2018",
+            "date_added": "Mon Mar 05 17:28:16 -0800 2018",
+            "date_updated": "Tue Aug 21 11:12:09 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2317892989",
+            "link": "https://www.goodreads.com/review/show/2317892989",
+            "owned": 0
+        }
+    }
+}

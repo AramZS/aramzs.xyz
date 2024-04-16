@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2194705138,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6294846
+                },
+                "isbn": 785138196,
+                "isbn13": 9780785138198,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 36
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.cmF--fS6wpebMzXIpsgXzg",
+                "title": "The Immortal Iron Fist Omnibus",
+                "title_without_series": "The Immortal Iron Fist Omnibus",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6294846-the-immortal-iron-fist-omnibus",
+                "num_pages": 560,
+                "format": "Hardcover",
+                "edition_information": "Omnibus",
+                "publisher": "Marvel",
+                "publication_day": 24,
+                "publication_year": 2009,
+                "publication_month": 6,
+                "average_rating": 4.2,
+                "ratings_count": 1425,
+                "description": "Experience a brand-new kind of Iron Fist story - one steeped in legends and fables, magic and adventure, and a historical sweep that stretches back through the centuries - as the living weapon returns in this hard-hitting martial-arts epic by Ed Brubaker, Matt Fraction, David Aja and a who's who of artistic collaborators! <br /><br />Orphaned as a child and raised in the lost city of K'un-Lun, Danny Rand returned to America as the mystical martial artist Iron Fist - but all his kung-fu skills can't help him find his place in the modern world. <br /><br />After learning that the centuries-spanning legacy of the Iron Fist holds more secrets than he ever dreamed possible, Danny is ushered to the fabled city of K'un-Lun to fight in a tournament against the Immortal Weapons. It is a round of games that occurs every 88 years as the different cities connect together on the same mystical plane. At stake is the life of his friend, the legacy of his father and mentor, and the future of K'un-Lun. <br /><br /><b>Collecting</b>: <i>Immortal Iron Fist</i> 1-16, Annual; <i>Civil War</i>: Choosing Sides; <i>Orson Randall and the Green Mist of Death</i>; <i>The Origin of Danny Rand</i>",
+                "authors": {
+                    "author": {
+                        "id": 37450,
+                        "name": "Ed Brubaker",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1230612199p5/37450.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1230612199p2/37450.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37450.Ed_Brubaker",
+                        "average_rating": 4.06,
+                        "ratings_count": 306082,
+                        "text_reviews_count": 17286
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 25073674,
+                    "uri": "kca://work/amzn1.gr.work.v1.cMKpP0FIUYRfKSfEtm2ijg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2094201169
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Nov 25 11:19:44 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 1,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Nov 25 11:19:44 -0800 2017",
+            "date_updated": "Fri Jun 21 08:29:33 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2194705138",
+            "link": "https://www.goodreads.com/review/show/2194705138",
+            "owned": 0
+        }
+    }
+}

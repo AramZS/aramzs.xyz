@@ -13,7 +13,7 @@ folder: [resource]
 {% set titlePrefix = 'Resource' %}
 
 {% block pageContent %}
-  <section>
+  <section  data-source="src/resources/types.njk">
     {% set postsList = type.items %}
     {% include "components/post-list.njk" %}
   </section>

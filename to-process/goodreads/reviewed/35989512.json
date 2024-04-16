@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606741672,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35989512
+                },
+                "isbn": 1534305106,
+                "isbn13": 9781534305106,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 915
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.D_JjF-AsTKHafdMFT8heVg",
+                "title": "Paper Girls, Vol. 4",
+                "title_without_series": "Paper Girls, Vol. 4",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516944299l/35989512._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516944299l/35989512._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35989512-paper-girls-vol-4",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 10,
+                "publication_year": 2018,
+                "publication_month": 4,
+                "average_rating": 4.17,
+                "ratings_count": 9996,
+                "description": "The mind-bending, time-warping adventure from BRIAN K. VAUGHAN and CLIFF CHIANG continues, as intrepid newspaper deliverer Tiffany is launched from the prehistoric past into the year 2000! In this harrowing version of our past, Y2K was even more of a cataclysm than experts feared, and the only person who can save the future is a 12-year-old girl from 1988.<br /><br />Collects issues 16 through 20!<br />",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 57550454,
+                    "uri": "kca://work/amzn1.gr.work.v1.zTXHEUqJ95pJnnNERlRRtw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636066875
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:27:18 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Nov 26 00:00:00 -0800 2018",
+            "date_added": "Mon Nov 26 13:27:17 -0800 2018",
+            "date_updated": "Wed Dec 26 09:26:45 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606741672",
+            "link": "https://www.goodreads.com/review/show/2606741672",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299968297,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18583436
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 30
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.r_jerJTdsR_SmW4Q5yTyyQ",
+                "title": "Equoid (Laundry Files, #2.9)",
+                "title_without_series": "Equoid",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380030851l/18583436._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380030851l/18583436._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18583436-equoid",
+                "num_pages": {},
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 16,
+                "publication_year": 2013,
+                "publication_month": 10,
+                "average_rating": 3.95,
+                "ratings_count": 4575,
+                "description": "The \"Laundry\" is Britain's super-secret agency devoted to protecting the realm from the supernatural horrors that menace it. Now Bob Howard, Laundry agent, must travel to the quiet English countryside to deal with an outbreak of one of the worst horrors imaginable. For, as it turns out, unicorns are real. They're also ravenous killers from beyond spacetime...<br /><br />At the publisher's request, this title is being sold without Digital Rights Management software (DRM) applied.",
+                "authors": {
+                    "author": {
+                        "id": 8794,
+                        "name": "Charles Stross",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p5/8794.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p2/8794.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8794.Charles_Stross",
+                        "average_rating": 3.9,
+                        "ratings_count": 225996,
+                        "text_reviews_count": 14959
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 25632901,
+                    "uri": "kca://work/amzn1.gr.work.v1.MIC34ZA3o4_jGRbGo7UWkQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886480029
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:30:23 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 1,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Fri Jun 05 15:30:22 -0700 2015",
+            "date_updated": "Sat Dec 07 12:06:43 -0800 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299968297",
+            "link": "https://www.goodreads.com/review/show/1299968297",
+            "owned": 0
+        }
+    }
+}

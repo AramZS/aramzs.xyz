@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671222,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 32501
+                },
+                "isbn": 316734950,
+                "isbn13": 9780316734950,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1543
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.aVD1a3aWaSkI8MHU-TeGPQ",
+                "title": "Echo Park (Harry Bosch, #12; Harry Bosch Universe, #16)",
+                "title_without_series": "Echo Park",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168391416l/32501._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1168391416l/32501._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/32501.Echo_Park",
+                "num_pages": 405,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Little, Brown & Company",
+                "publication_day": 9,
+                "publication_year": 2006,
+                "publication_month": 10,
+                "average_rating": 4.13,
+                "ratings_count": 45525,
+                "description": "More than a decade ago, Harry Bosch worked on the case of Marie Gesto, a twenty-two-year-old who went missing but was never found. Now, with the Gesto file still on his desk, Bosch gets a call from the District Attorney: A serial killer has confessed. Did Harry miss a key clue? Or is something more going on here?<br /><br />In 1993 Marie Gesto disappeared after walking out of a supermarket. Harry Bosch worked the case but couldn't crack it, and the twenty-two-year-old was never found. Now, more than a decade later, with the Gesto file still on his desk, Bosch gets a call from the District Attorney. <br /><br />A man accused of two heinous murders is willing to come clean about several others, including the killing of Marie Gesto. Taking the confession of the man he has sought-and hated-for thirteen years is bad enough. Discovering that he missed a clue back in 1993 that could have stopped nine other murders may just be the straw that breaks Harry Bosch.",
+                "authors": {
+                    "author": {
+                        "id": 12470,
+                        "name": "Michael Connelly",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1539114448p5/12470.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1539114448p2/12470.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12470.Michael_Connelly",
+                        "average_rating": 4.14,
+                        "ratings_count": 1803379,
+                        "text_reviews_count": 90694
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 1359182,
+                    "uri": "kca://work/amzn1.gr.work.v1.YIrpNyjXLRvlUsmeHwfhew"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:19:38 -0700 2008",
+            "date_updated": "Mon Jun 16 19:19:38 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671222",
+            "link": "https://www.goodreads.com/review/show/24671222",
+            "owned": 0
+        }
+    }
+}

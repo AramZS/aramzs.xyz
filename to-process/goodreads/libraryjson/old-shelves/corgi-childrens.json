@@ -1,0 +1,104 @@
+{
+    "name": "Corgi Childrens",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "A Hat Full of Sky (Discworld, #32; Tiffany Aching, #2)",
+            "id": "34501",
+            "author": "Terry Pratchett",
+            "date_finished": 1377993600000,
+            "notes": [],
+            "date_started": 1390425713000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of A Hat Full of Sky (Discworld, #32; Tiffany Aching, #2): Rating - 4/5",
+                    "date": 1377993600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34501",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi Childrens",
+            "tags": [
+                "Paperback",
+                "Corgi Childrens",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "055255264X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780552552646",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34501",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "A Hat Full of Sky (Discworld, #32; Tiffany Aching, #2)",
+            "id": 34501,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34501",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi Childrens",
+            "tags": [
+                "Paperback",
+                "Corgi Childrens",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "055255264X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 34501,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

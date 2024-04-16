@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1367819319,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 127455
+                },
+                "isbn": 553804677,
+                "isbn13": 9780553804676,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7946
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4HBqzS7taNh8CqZncYteRA",
+                "title": "The Lies of Locke Lamora (Gentleman Bastard, #1)",
+                "title_without_series": "The Lies of Locke Lamora",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576333981l/127455._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576333981l/127455._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/127455.The_Lies_of_Locke_Lamora",
+                "num_pages": 499,
+                "format": "Hardcover",
+                "edition_information": "First US Edition",
+                "publisher": "Bantam Spectra",
+                "publication_day": 27,
+                "publication_year": 2006,
+                "publication_month": 6,
+                "average_rating": 4.3,
+                "ratings_count": 203855,
+                "description": "In this stunning debut, author Scott Lynch delivers the wonderfully thrilling tale of an audacious criminal and his band of confidence tricksters. Set in a fantastic city pulsing with the lives of decadent nobles and daring thieves, here is a story of adventure, loyalty, and survival that is one part \"Robin Hood\", one part <i>Ocean's Eleven</i>, and entirely enthralling... <br /><br />An orphan's life is harsh — and often short — in the island city of Camorr, built on the ruins of a mysterious alien race. But born with a quick wit and a gift for thieving, Locke Lamora has dodged both death and slavery, only to fall into the hands of an eyeless priest known as Chains — a man who is neither blind nor a priest.<br /><br />A con artist of extraordinary talent, Chains passes his skills on to his carefully selected \"family\" of orphans — a group known as the Gentlemen Bastards. Under his tutelage, Locke grows to lead the Bastards, delightedly pulling off one outrageous confidence game after another. Soon he is infamous as the Thorn of Camorr, and no wealthy noble is safe from his sting.<br /><br />Passing themselves off as petty thieves, the brilliant Locke and his tightly knit band of light-fingered brothers have fooled even the criminal underworld's most feared ruler, Capa Barsavi. But there is someone in the shadows more powerful — and more ambitious — than Locke has yet imagined. <br /><br />Known as the Gray King, he is slowly killing Capa Barsavi's most trusted men — and using Locke as a pawn in his plot to take control of Camorr's underworld. With a bloody coup under way threatening to destroy everyone and everything that holds meaning in his mercenary life, Locke vows to beat the Gray King at his own brutal game — or die trying...<br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 73149,
+                        "name": "Scott Lynch",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1332432746p5/73149.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1332432746p2/73149.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/73149.Scott_Lynch",
+                        "average_rating": 4.25,
+                        "ratings_count": 418640,
+                        "text_reviews_count": 27302
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 2116675,
+                    "uri": "kca://work/amzn1.gr.work.v1.EC1FlFh-vLLQmAzMpQXLbQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 974783175
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 18 20:42:19 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1063479085,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Aug 18 20:42:19 -0700 2015",
+            "date_updated": "Tue Aug 18 20:42:20 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1367819319",
+            "link": "https://www.goodreads.com/review/show/1367819319",
+            "owned": 0
+        }
+    }
+}

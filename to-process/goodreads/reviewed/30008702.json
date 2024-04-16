@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2041815054,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 30008702
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3076
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.tDWxb0sWYSaDhs0grSY88Q",
+                "title": "Nutshell",
+                "title_without_series": "Nutshell",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498680109l/30008702._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498680109l/30008702._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/30008702-nutshell",
+                "num_pages": 208,
+                "format": "Hardcover",
+                "edition_information": "First American",
+                "publisher": "Nan A. Talese",
+                "publication_day": 13,
+                "publication_year": 2016,
+                "publication_month": 9,
+                "average_rating": 3.67,
+                "ratings_count": 42150,
+                "description": "<i>Nutshell</i> is a classic story of murder and deceit, told by a narrator with a perspective and voice unlike any in recent literature. A bravura performance, it is the finest recent work from a true master.<br /><br />To be bound in a nutshell, see the world in two inches of ivory, in a grain of sand. Why not, when all of literature, all of art, of human endeavour, is just a speck in the universe of possible things.",
+                "authors": {
+                    "author": {
+                        "id": 2408,
+                        "name": "Ian McEwan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1404240951p5/2408.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1404240951p2/2408.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2408.Ian_McEwan",
+                        "average_rating": 3.73,
+                        "ratings_count": 934304,
+                        "text_reviews_count": 63357
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 50111227,
+                    "uri": "kca://work/amzn1.gr.work.v1.RyWVrT0COyTBp4CEPle6OQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1894288296
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Jun 27 05:31:46 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1695865382,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Jun 27 05:31:46 -0700 2017",
+            "date_updated": "Tue Jun 27 05:31:46 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2041815054",
+            "link": "https://www.goodreads.com/review/show/2041815054",
+            "owned": 0
+        }
+    }
+}

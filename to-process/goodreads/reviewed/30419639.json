@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785917760,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 30419639
+                },
+                "isbn": 1632159139,
+                "isbn13": 9781632159137,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 737
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8KuITtA18DE3FfXmJpiqtw",
+                "title": "The Wicked + The Divine, Vol. 4: Rising Action (The Wicked + The Divine #4)",
+                "title_without_series": "The Wicked + The Divine, Vol. 4: Rising Action",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466704443l/30419639._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466704443l/30419639._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/30419639-the-wicked-the-divine-vol-4",
+                "num_pages": 168,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 5,
+                "publication_year": 2016,
+                "publication_month": 10,
+                "average_rating": 4.19,
+                "ratings_count": 8630,
+                "description": "Every ninety years, twelve gods are reincarnated as young people. They are loved. They are hated. And sometimes - just sometimes - they fall into open Superstar wars. <br />The fourth volume of the award-winning, best selling series from acclaimed creators KIERON GILLEN, JAMIE McKELVIE and MATT WILSON is the most explosive yet.<br /><br />Collects THE WICKED + THE DIVINE #18-22",
+                "authors": {
+                    "author": {
+                        "id": 439887,
+                        "name": "Kieron Gillen",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1533663392p5/439887.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1533663392p2/439887.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/439887.Kieron_Gillen",
+                        "average_rating": 3.97,
+                        "ratings_count": 293980,
+                        "text_reviews_count": 25776
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 50945544,
+                    "uri": "kca://work/amzn1.gr.work.v1.s5PuVfYN3NQt-W3HYpWMrw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546322452
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:09:47 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813193898,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Oct 03 00:00:00 -0700 2016",
+            "date_added": "Sun Oct 16 07:09:47 -0700 2016",
+            "date_updated": "Mon Oct 23 16:29:52 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785917760",
+            "link": "https://www.goodreads.com/review/show/1785917760",
+            "owned": 0
+        }
+    }
+}

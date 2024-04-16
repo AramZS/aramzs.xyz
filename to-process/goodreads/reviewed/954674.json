@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24669525,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 954674
+                },
+                "isbn": 765319853,
+                "isbn13": 9780765319852,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4954
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.cy9SAuu6A3pgVWQlscsLRA",
+                "title": "Little Brother (Little Brother, #1)",
+                "title_without_series": "Little Brother",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349673129l/954674._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349673129l/954674._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/954674.Little_Brother",
+                "num_pages": 382,
+                "format": "Hardcover",
+                "edition_information": "Tor",
+                "publisher": "Tor Books",
+                "publication_day": 29,
+                "publication_year": 2008,
+                "publication_month": 4,
+                "average_rating": 3.93,
+                "ratings_count": 45713,
+                "description": "Marcus aka “w1n5t0n,” is only seventeen years old, but he figures he already knows how the system works–and how to work the system. Smart, fast, and wise to the ways of the networked world, he has no trouble outwitting his high school’s intrusive but clumsy surveillance systems.<br /><br />But his whole world changes when he and his friends find themselves caught in the aftermath of a major terrorist attack on San Francisco. In the wrong place at the wrong time, Marcus and his crew are apprehended by the Department of Homeland Security and whisked away to a secret prison where they’re mercilessly interrogated for days.<br /><br />When the DHS finally releases them, his injured best friend Darryl does not come out. The city has become a police state where every citizen is treated like a potential terrorist. He knows that no one will believe his story, which leaves him only one option: \"M1k3y\" will take down the DHS himself.",
+                "authors": {
+                    "author": {
+                        "id": 12581,
+                        "name": "Cory Doctorow",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1361468756p5/12581.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1361468756p2/12581.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12581.Cory_Doctorow",
+                        "average_rating": 3.82,
+                        "ratings_count": 196549,
+                        "text_reviews_count": 21672
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 939584,
+                    "uri": "kca://work/amzn1.gr.work.v1.sqQfUr2TQbi9XTJnRzl9ag"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 10336566,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 18:59:27 -0700 2008",
+            "date_updated": "Mon Jun 16 18:59:27 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24669525",
+            "link": "https://www.goodreads.com/review/show/24669525",
+            "owned": 0
+        }
+    }
+}

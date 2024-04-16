@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3053350289,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 42983957
+                },
+                "isbn": 735235791,
+                "isbn13": 9780735235793,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 223
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.3iuMseyNpMPAK8ocUH4Sug",
+                "title": "The Mosquito: A Human History of Our Deadliest Predator",
+                "title_without_series": "The Mosquito: A Human History of Our Deadliest Predator",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544102229l/42983957._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544102229l/42983957._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/42983957-the-mosquito",
+                "num_pages": 496,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Allen Lane",
+                "publication_day": 6,
+                "publication_year": 2019,
+                "publication_month": 8,
+                "average_rating": 3.65,
+                "ratings_count": 1282,
+                "description": "<b>A pioneering and groundbreaking work of narrative nonfiction that offers a dramatic new perspective on the history of humankind, showing how through millennia, the mosquito has been the single most powerful force in determining humanity's fate</b><br /><br />Why was gin and tonic the cocktail of choice for British colonists in India and Africa? What does Starbucks have to thank for its global domination? What has protected the lives of popes for millennia? Why did Scotland surrender its sovereignty to England? What was George Washington's secret weapon during the American Revolution?<br /><br />The answer to all these questions, and many more, is the mosquito.<br /><br />Across our planet since the dawn of humankind, this nefarious pest, roughly the size and weight of a grape seed, has been at the frontlines of history as the grim reaper, the harvester of human populations, and the ultimate agent of historical change. As the mosquito transformed the landscapes of civilization, humans were unwittingly required to respond to its piercing impact and universal projection of power.<br /><br />The mosquito has determined the fates of empires and nations, razed and crippled economies, and decided the outcome of pivotal wars, killing nearly half of humanity along the way. She (only females bite) has dispatched an estimated 52 billion people from a total of 108 billion throughout our relatively brief existence. As the greatest purveyor of extermination we have ever known, she has played a greater role in shaping our human story than any other living thing with which we share our global village.<br /><br />Imagine for a moment a world without deadly mosquitoes, or any mosquitoes, for that matter? Our history and the world we know, or think we know, would be completely unrecognizable.<br /><br />Driven by surprising insights and fast-paced storytelling, <i>The Mosquito</i> is the extraordinary untold story of the mosquito's reign through human history and her indelible impact on our modern world order.",
+                "authors": {
+                    "author": {
+                        "id": 5325426,
+                        "name": "Timothy C. Winegard",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1559141899p5/5325426.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1559141899p2/5325426.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5325426.Timothy_C_Winegard",
+                        "average_rating": 3.67,
+                        "ratings_count": 1327,
+                        "text_reviews_count": 280
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 70941752,
+                    "uri": "kca://work/amzn1.gr.work.v1.-8QaeVvtJMmRYpNZ1wd-HA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3228280464
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 18 05:53:58 -0800 2019"
+                    },
+                    "ratings_count": 1,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2700848514,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 18 05:53:58 -0800 2019",
+            "date_updated": "Mon Nov 18 05:53:58 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3053350289",
+            "link": "https://www.goodreads.com/review/show/3053350289",
+            "owned": 0
+        }
+    }
+}

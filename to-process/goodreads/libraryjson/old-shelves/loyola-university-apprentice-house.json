@@ -1,0 +1,51 @@
+{
+    "name": "Loyola University, Apprentice House ",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Punk and the Professor",
+            "id": "35021921",
+            "author": "William K. Lawrence, Billy  Lawrence",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1499005313000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/35021921",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Loyola University, Apprentice House ",
+            "tags": [
+                "Paperback",
+                "Loyola University, Apprentice House ",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1627201378",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781627201377",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "35021921",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

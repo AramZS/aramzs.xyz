@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606740485,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35342927
+                },
+                "isbn": 1101947314,
+                "isbn13": 9781101947319,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 174
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.MZBSLuu2t6fSZUqBmkSCNA",
+                "title": "The Monk of Mokha",
+                "title_without_series": "The Monk of Mokha",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511804274l/35342927._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511804274l/35342927._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35342927-the-monk-of-mokha",
+                "num_pages": 327,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Knopf Publishing Group",
+                "publication_day": 30,
+                "publication_year": 2018,
+                "publication_month": 1,
+                "average_rating": 4.03,
+                "ratings_count": 12310,
+                "description": "<b>From the best-selling author of <i>The Circle, </i>the true story of a young Yemeni-American man, raised in San Francisco, who dreams of resurrecting the ancient art of Yemeni coffee but finds himself trapped in Sana'a by civil war.</b><br /><br />Mokhtar Alkhanshali grew up in San Francisco, one of seven siblings brought up by Yemeni immigrants in a tiny apartment. At age twenty-four, unable to pay for college, he works as a doorman, until a chance encounter awakens his interest in coffee and its rich history in Yemen. Reinventing himself, he sets out to learn about coffee cultivation, roasting and importing. He travels to Yemen and visits farms in every corner of the country, collecting samples, eager to improve cultivation methods and help Yemeni farmers bring their coffee back to its former glory. And he is on the verge of success when civil war engulfs Yemen in 2015. The U.S. embassy closes, Saudi bombs begin to rain down on the country and Mokhtar is trapped in Yemen. This is a heart-pounding true story that weaves together the history of coffee, the struggles of everyday Yemenis living through civil war and the courageous journey of a young man--a Muslim and a U.S. citizen--following the most American of dreams.",
+                "authors": {
+                    "author": {
+                        "id": 3371,
+                        "name": "Dave Eggers",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1432065054p5/3371.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1432065054p2/3371.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3371.Dave_Eggers",
+                        "average_rating": 3.71,
+                        "ratings_count": 664721,
+                        "text_reviews_count": 66430
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 56556268,
+                    "uri": "kca://work/amzn1.gr.work.v1.70DtyCOGB2ipYze-2w4IcQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636065308
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:26:07 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251646490,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:26:06 -0800 2018",
+            "date_updated": "Mon Nov 26 13:26:06 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606740485",
+            "link": "https://www.goodreads.com/review/show/2606740485",
+            "owned": 0
+        }
+    }
+}

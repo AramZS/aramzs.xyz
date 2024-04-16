@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2934562479,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12944651
+                },
+                "isbn": 857662309,
+                "isbn13": 9780857662309,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1186
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4GYMh69gujOj2mRm4zCifw",
+                "title": "Blackbirds (Miriam Black, #1)",
+                "title_without_series": "Blackbirds",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334862930l/12944651._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334862930l/12944651._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12944651-blackbirds",
+                "num_pages": 381,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Angry Robot",
+                "publication_day": 24,
+                "publication_year": 2012,
+                "publication_month": 4,
+                "average_rating": 3.76,
+                "ratings_count": 8409,
+                "description": "<b>Miriam Black knows when you will die.</b> <br /><br />She’s foreseen hundreds of car crashes, heart attacks, strokes, and suicides.<br /><br />But when Miriam hitches a ride with Louis Darling and shakes his hand, she sees that in thirty days Louis will be murdered while he calls her name. Louis will die because he met her, and she will be the next victim.<br /><br />No matter what she does she can’t save Louis. But if she wants to stay alive, she’ll have to try.",
+                "authors": {
+                    "author": {
+                        "id": 17152,
+                        "name": "Chuck Wendig",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p5/17152.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p2/17152.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17152.Chuck_Wendig",
+                        "average_rating": 3.73,
+                        "ratings_count": 111871,
+                        "text_reviews_count": 16120
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 18101226,
+                    "uri": "kca://work/amzn1.gr.work.v1.2hUvUv-qSklpijUOqxwtBw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3069750726
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Aug 12 12:19:42 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Jun 02 00:00:00 -0700 2019",
+            "date_added": "Mon Aug 12 12:19:41 -0700 2019",
+            "date_updated": "Mon Aug 12 12:26:23 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2934562479",
+            "link": "https://www.goodreads.com/review/show/2934562479",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3018957310,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 30621637
+                },
+                "isbn": 1302900544,
+                "isbn13": 9781302900540,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 300
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.OuoYq0Hq4QhtDlipieYxaA",
+                "title": "Black Panther: A Nation Under Our Feet, Book 2",
+                "title_without_series": "Black Panther: A Nation Under Our Feet, Book 2",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524191559l/30621637._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524191559l/30621637._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/30621637-black-panther",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel Comics",
+                "publication_day": 24,
+                "publication_year": 2017,
+                "publication_month": 1,
+                "average_rating": 3.78,
+                "ratings_count": 3007,
+                "description": "Counting down the final days of the kingdom of Wakanda! As Zenzi and The People poison Wakanda’s citizens against the Black Panther, a cabal of nation-breakers is assembled. And Ayo and Aneka, the Midnight Angels, are courted to raise their land to new glory! His allies dwindling, T’Challa must rely on his elite secret police, the Hatut Zeraze, and fellow Avenger Eden Fesi, a.k.a. Manifold! And with T’Challa’s back truly against the wall, some old friends lend a hand: Luke Cage, Misty Knight and Storm! But Wakanda may be too far gone for this all-new, all-different crew — and there’s one job the Panther must handle alone. Only he can voyage into the Djalia! Getting there is hard enough, but can he even find his sister Shuri inside Wakanda’s collective memory? Collecting BLACK PANTHER (2016) #5-8, plus JUNGLE ACTION #6-7 and bonus content.",
+                "authors": {
+                    "author": {
+                        "id": 1214964,
+                        "name": "Ta-Nehisi Coates",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1214964.Ta_Nehisi_Coates",
+                        "average_rating": 4.27,
+                        "ratings_count": 298165,
+                        "text_reviews_count": 32776
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 51153196,
+                    "uri": "kca://work/amzn1.gr.work.v1.GxiEVzrnPHA6VQmLFKaBOg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3182462060
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 20 07:41:51 -0700 2019"
+                    },
+                    "ratings_count": 1,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2665828341,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sun Oct 20 07:41:51 -0700 2019",
+            "date_updated": "Sun Oct 20 07:41:51 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3018957310",
+            "link": "https://www.goodreads.com/review/show/3018957310",
+            "owned": 0
+        }
+    }
+}

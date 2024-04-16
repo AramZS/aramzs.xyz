@@ -1,0 +1,59 @@
+{
+    "name": "Nbm Pub Co",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Sid Meier's Alpha Centauri: Power of the Mind Worms",
+            "id": "1249305",
+            "author": "Rafael Kayanan, Steve Darnall",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508801742000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Sid Meier's Alpha Centauri: Power of the Mind Worms: Rating - 5/5",
+                    "date": 1508801742000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1249305",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Nbm Pub Co",
+            "tags": [
+                "Paperback",
+                "Nbm Pub Co",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1561632422",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781561632428",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "1249305",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

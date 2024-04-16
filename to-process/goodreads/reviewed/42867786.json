@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3170756746,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 42867786
+                },
+                "isbn": 1525832190,
+                "isbn13": 9781525832192,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 282
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.5VickX9S2Prg916LlXWX3w",
+                "title": "One Night Gone",
+                "title_without_series": "One Night Gone",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559581358l/42867786._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559581358l/42867786._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/42867786-one-night-gone",
+                "num_pages": 352,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Graydon House",
+                "publication_day": 1,
+                "publication_year": 2019,
+                "publication_month": 10,
+                "average_rating": 3.63,
+                "ratings_count": 1229,
+                "description": "<b>A Finalist for the Mary Higgins Clark Award, Agatha Award, and Lefty Award</b><br /><br />“A subtly but relentlessly unsettling novel.” —<b>TANA FRENCH, author of <i>The Witch Elm</i></b><br /><br />It was the perfect place to disappear...<br /><br />One sultry summer, Maureen Haddaway arrives in the wealthy town of Opal Beach to start her life anew—to achieve her destiny. There, she finds herself lured by the promise of friendship, love, starry skies, and wild parties. But Maureen’s new life just might be too good to be true, and before the summer is up, she vanishes.<br /><br />Decades later, when Allison Simpson is offered the opportunity to house-sit in Opal Beach during the off-season, it seems like the perfect chance to begin fresh after a messy divorce. But when she becomes drawn into the mysterious disappearance of a girl thirty years before, Allison realizes the gorgeous homes of Opal Beach hide dark secrets. And the truth of that long-ago summer is not even the most shocking part of all...<br /><br />“A heart-wrenching and suspenseful novel of betrayal and revenge. Stunning!” —<b>Carol Goodman, award-winning author of <i>The Night Visitors</i></b><br /><br />“Featuring a brilliantly executed dual timeline with two unforgettable narrators, One Night Gone is a timely and timeless mystery that will keep you obsessively reading well past your bedtime.” —<b>Paul Tremblay, author of <i>The Cabin at the End of the World</i></b>",
+                "authors": {
+                    "author": {
+                        "id": 6551449,
+                        "name": "Tara Laskowski",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1554823263p5/6551449.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1554823263p2/6551449.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6551449.Tara_Laskowski",
+                        "average_rating": 3.81,
+                        "ratings_count": 2002,
+                        "text_reviews_count": 538
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 71243161,
+                    "uri": "kca://work/amzn1.gr.work.v1.Np_hnIkFCWCZ8kBpbpzfjg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3380820227
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Feb 01 06:36:46 -0800 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Feb 01 06:36:46 -0800 2020",
+            "date_updated": "Sat Feb 01 06:36:56 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3170756746",
+            "link": "https://www.goodreads.com/review/show/3170756746",
+            "owned": 0
+        }
+    }
+}

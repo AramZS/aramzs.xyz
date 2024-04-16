@@ -1,0 +1,104 @@
+{
+    "name": "Palgrave MacMillan",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Print Is Dead: Books in Our Digital Age",
+            "id": "1697847",
+            "author": "Jeff Gomez",
+            "date_finished": 1268265600000,
+            "notes": [],
+            "date_started": 1268325398000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Print Is Dead: Books in Our Digital Age: Rating - 3/5",
+                    "date": 1268265600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1697847",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Palgrave MacMillan",
+            "tags": [
+                "Hardcover",
+                "Palgrave MacMillan",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0230527167",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780230527164",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "1697847",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Print Is Dead: Books in Our Digital Age",
+            "id": 1697847,
+            "author": "Jeff Gomez",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/1697847",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Palgrave MacMillan",
+            "tags": [
+                "Hardcover",
+                "Palgrave MacMillan",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 1697847,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960376683,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22353165
+                },
+                "isbn": 991649249,
+                "isbn13": 9780991649242,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 42
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.zDrzPrnWoQpO-gQhbUun2A",
+                "title": "Storykiller",
+                "title_without_series": "Storykiller",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401200107l/22353165._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401200107l/22353165._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22353165-storykiller",
+                "num_pages": 335,
+                "format": "Hardcover",
+                "edition_information": "Illustrated Hardcover",
+                "publisher": "1979 Semi-Finalist, Inc",
+                "publication_day": {},
+                "publication_year": 2014,
+                "publication_month": {},
+                "average_rating": 3.81,
+                "ratings_count": 291,
+                "description": "The monster under the bed is real.<br /> <br />In fact, all the monsters are real, as well as the heroes and everything in between because all Fiction is real and exists in a dimension called Story. However, plenty of them hang out in the Mortal world, living both innocent and nefarious lives. This might not mean much to the average Mortal unaware of the Fictional characters living among them, but for The Last Scion--the only Mortal that can kill those Fictional characters--things are about to become very complicated.<br /><br />Tessa Battle is that Mortal.<br /><br />Upon her return to Lore, Oregon after years bouncing around boarding schools in Europe, Tessa had her sights set on simple things like shoe shopping, finding a hot boyfriend, and eating as many pancakes as humanely possible. However, the Last Scion mantle Tessa just got saddled with is not making any of that easy, and as Tessa and her new friends are about to learn, Story is long from done with her, no matter how much she'd like to deny her destiny.<br /><br />With more than one monster chasing her and questionable characters like The Snow Queen and Robin Hood as her allies, Tessa is going to need all the superpowers she inherited just to stay alive. <br /><br />And maybe, just maybe, it's a GOOD thing that behind her back, Stories call her THE STORYKILLER",
+                "authors": {
+                    "author": {
+                        "id": 6543330,
+                        "name": "Kelly Thompson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1423557636p5/6543330.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1423557636p2/6543330.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6543330.Kelly_Thompson",
+                        "average_rating": 3.94,
+                        "ratings_count": 41049,
+                        "text_reviews_count": 5988
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 31070772,
+                    "uri": "kca://work/amzn1.gr.work.v1.9Tpo_bSwsNYGBBkjt2qzjA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452325324
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 07:05:53 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Jun 06 00:00:00 -0700 2014",
+            "date_added": "Sat Jun 07 07:05:53 -0700 2014",
+            "date_updated": "Sat Jun 07 07:20:06 -0700 2014",
+            "read_count": 1,
+            "body": "An artifact of the internet's strange and incredibly strong preference for plot over form. Storykiller, like many self-started, self-published, internet-fan-supported novels, displays strong plotting that lays out a good narrative with good drive behind it. <br /><br />However, the characters are somewhat weak, though they improve by the end of the novel, and the writing style leaves something to be desired. While the plot has clearly been thought out, the mechanics of the writing are still rough. Especially in a few places where the story becomes disjointed, like a record skipping a beat, before it all comes back together. <br /><br />All said, there's still plenty in the novel to recommend to a reader, especially the fan of meta-fiction or of Buffy and her monster-of-the-week ilk, who are clear progenitors of Storykiller's protagonist.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960376683",
+            "link": "https://www.goodreads.com/review/show/960376683",
+            "owned": 0
+        }
+    }
+}

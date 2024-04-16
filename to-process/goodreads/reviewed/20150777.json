@@ -1,0 +1,144 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340042,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20150777
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 735
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.mhSqm5Lwd582xraYryDIYw",
+                "title": "Words of Radiance (The Stormlight Archive, #2)",
+                "title_without_series": "Words of Radiance",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391535272l/20150777._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391535272l/20150777._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20150777-words-of-radiance",
+                "num_pages": 1088,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.76,
+                "ratings_count": 189512,
+                "description": "<b>Brandon Sanderson's The Stormlight Archive sequence began in 2010 with the <i>New York Times</i> bestseller <i>The Way of Kings</i>. Now, the eagerly anticipated <i>Words of Radiance</i> continues the epic story and answers many of your questions.</b><br /><br />Six years ago, the Assassin in White, a hireling of the inscrutable Parshendi, assassinated the Alethi king on the very night a treaty between men and Parshendi was being celebrated. So began the Vengeance Pact among the highprinces of Alethkar and the War of Reckoning against the Parshendi.<br /><br />Now the Assassin is active again, murdering rulers all over the world of Roshar, using his baffling powers to thwart every bodyguard and elude all pursuers. Among his prime targets is Highprince Dalinar, widely considered the power behind the Alethi throne. His leading role in the war would seem reason enough, but the Assassin's master has much deeper motives.<br /><br />Expected by his enemies to die the miserable death of a military slave, Kaladin survived to be given command of the royal bodyguards, a controversial first for a low-status \"darkeyes.\" Now he must protect the king and Dalinar from every common peril as well as the distinctly uncommon threat of the Assassin, all while secretly struggling to master remarkable new powers that are somehow linked to his honorspren, Syl.<br /><br />Brilliant but troubled Shallan strives along a parallel path. Despite being broken in ways she refuses to acknowledge, she bears a terrible burden: to somehow prevent the return of the legendary Voidbringers and the civilization-ending Desolation that will follow. The secrets she needs can be found at the Shattered Plains, but just arriving there proves more difficult than she could have imagined.<br /><br />Meanwhile, at the heart of the Shattered Plains, the Parshendi are making an epochal decision. Hard pressed by years of Alethi attacks, their numbers ever shrinking, they are convinced by their war leader, Eshonai, to risk everything on a desperate gamble with the very supernatural forces they once fled. The possible consequences for Parshendi and humans alike, indeed, for Roshar itself, are as dangerous as they are incalculable.<br /><br />The doors of the Stormlight Archive first opened to us with <i>The Way of Kings</i>. Read that book – now available in all formats – and then Words of Radiance, and you can be part of the adventure every dazzling step of the way.<br /><br />At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.",
+                "authors": {
+                    "author": {
+                        "id": 38550,
+                        "name": "Brandon Sanderson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1394044556p5/38550.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1394044556p2/38550.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+                        "average_rating": 4.39,
+                        "ratings_count": 3270920,
+                        "text_reviews_count": 217241
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 16482835,
+                    "uri": "kca://work/amzn1.gr.work.v1.xmojjiq47rbLl_VCI9_dtw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 470007753
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sun Jun 22 10:13:02 -0700 2014"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 452279849
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Jun 07 06:03:57 -0700 2014"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 722424203,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Jun 07 00:00:00 -0700 2014",
+            "read_at": "Wed Jun 18 00:00:00 -0700 2014",
+            "date_added": "Sat Jun 07 06:03:57 -0700 2014",
+            "date_updated": "Sun Jun 22 10:13:16 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340042",
+            "link": "https://www.goodreads.com/review/show/960340042",
+            "owned": 0
+        }
+    }
+}

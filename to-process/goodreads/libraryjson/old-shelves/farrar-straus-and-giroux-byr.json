@@ -1,0 +1,51 @@
+{
+    "name": "Farrar, Straus and Giroux (BYR)",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Friendship",
+            "id": "20642656",
+            "author": "Emily Gould",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086670000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/20642656",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Farrar, Straus and Giroux (BYR)",
+            "tags": [
+                "Kindle Edition",
+                "Farrar, Straus and Giroux (BYR)",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "20642656",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

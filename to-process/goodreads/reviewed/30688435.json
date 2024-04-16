@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2982132627,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 30688435
+                },
+                "isbn": 735212171,
+                "isbn13": 9780735212176,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10485
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.gi_Sz81Jn9JlJgUK2npWEg",
+                "title": "Exit West",
+                "title_without_series": "Exit West",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477324680l/30688435._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477324680l/30688435._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/30688435-exit-west",
+                "num_pages": 231,
+                "format": "Hardcover",
+                "edition_information": "1st",
+                "publisher": "Riverhead",
+                "publication_day": 7,
+                "publication_year": 2017,
+                "publication_month": 3,
+                "average_rating": 3.79,
+                "ratings_count": 99822,
+                "description": "In a country teetering on the brink of civil war, two young people meet—sensual, fiercely independent Nadia and gentle, restrained Saeed. They embark on a furtive love affair and are soon cloistered in a premature intimacy by the unrest roiling their city. When it explodes, turning familiar streets into a patchwork of checkpoints and bomb blasts, they begin to hear whispers about doors—doors that can whisk people far away, if perilously and for a price. As the violence escalates, Nadia and Saeed decide that they no longer have a choice. Leaving their homeland and their old lives behind, they find a door and step through. <br /><br /><i>Exit West</i> follows these characters as they emerge into an alien and uncertain future, struggling to hold on to each other, to their past, to the very sense of who they are. Profoundly intimate and powerfully inventive, it tells an unforgettable story of love, loyalty, and courage that is both completely of our time and for all time.",
+                "authors": {
+                    "author": {
+                        "id": 16902,
+                        "name": "Mohsin Hamid",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1361498297p5/16902.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1361498297p2/16902.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16902.Mohsin_Hamid",
+                        "average_rating": 3.77,
+                        "ratings_count": 186823,
+                        "text_reviews_count": 22009
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 51234185,
+                    "uri": "kca://work/amzn1.gr.work.v1.tU03oZa7X1BKanW1pk_NCg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3133139153
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Sep 18 11:36:31 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Sep 18 11:36:31 -0700 2019",
+            "date_updated": "Wed Sep 18 11:36:54 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2982132627",
+            "link": "https://www.goodreads.com/review/show/2982132627",
+            "owned": 0
+        }
+    }
+}

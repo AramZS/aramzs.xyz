@@ -1,0 +1,51 @@
+{
+    "name": "19 Castles",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Offworld Collection",
+            "id": "36013834",
+            "author": "Leigh Alexander, Laura Hudson, Anna Anthropy, Aevee Bee, Katherine Cross, Tanya DePass, Sidney Fussell, Gita Jackson, Shareef Jackson, Juliet Kahn, Soha Kareem, Aroon Karuna, Merritt Kopas, Riley MacLeod, Annie Mok, Maddy Myers, Maxwell Neely-Cohen, Kim Nguyen, Sarah Nyberg, Katriel Paige, Daniel Starkey, Zoe Quinn, Liz Ryerson, Catt Small, Christina Xu",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1579780118000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/36013834",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "19 Castles",
+            "tags": [
+                "ebook",
+                "19 Castles",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "36013834",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

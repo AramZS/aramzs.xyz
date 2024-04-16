@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3286319479,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34594037
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1726
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.m_Q4MEiKOcwM7fZUE3zQRg",
+                "title": "Magic for Liars",
+                "title_without_series": "Magic for Liars",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537942213l/34594037._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537942213l/34594037._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34594037-magic-for-liars",
+                "num_pages": 336,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Tor",
+                "publication_day": 4,
+                "publication_year": 2019,
+                "publication_month": 6,
+                "average_rating": 3.66,
+                "ratings_count": 14127,
+                "description": "Ivy Gamble has never wanted to be magic. She is perfectly happy with her life. She has an almost-sustainable career as a private investigator, and an empty apartment, and a slight drinking problem. It's a great life and she doesn't wish she was like her estranged sister, the magically gifted professor Tabitha.<br /><br />But when Ivy is hired to investigate the gruesome murder of a faculty member at Tabitha’s private academy, the stalwart detective starts to lose herself in the case, the life she could have had, and the answer to the mystery that seems just out of her reach.",
+                "authors": {
+                    "author": {
+                        "id": 15045277,
+                        "name": "Sarah Gailey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1523988658p5/15045277.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1523988658p2/15045277.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/15045277.Sarah_Gailey",
+                        "average_rating": 3.68,
+                        "ratings_count": 30077,
+                        "text_reviews_count": 6469
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 55736656,
+                    "uri": "kca://work/amzn1.gr.work.v1.W7DNqCxKfqjiaortNfLFhQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3534722242
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Apr 17 13:50:59 -0700 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Apr 14 00:00:00 -0700 2020",
+            "date_added": "Fri Apr 17 13:50:58 -0700 2020",
+            "date_updated": "Fri Apr 17 14:06:35 -0700 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3286319479",
+            "link": "https://www.goodreads.com/review/show/3286319479",
+            "owned": 0
+        }
+    }
+}

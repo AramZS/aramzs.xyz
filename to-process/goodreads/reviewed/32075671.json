@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2229998256,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 32075671
+                },
+                "isbn": 62498533,
+                "isbn13": 9780062498533,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 40478
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.cg0sQ6X1Am_3YVErD7n3Sw",
+                "title": "The Hate U Give",
+                "title_without_series": "The Hate U Give",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476284759l/32075671._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476284759l/32075671._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/32075671-the-hate-u-give",
+                "num_pages": 464,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Balzer + Bray",
+                "publication_day": 28,
+                "publication_year": 2017,
+                "publication_month": 2,
+                "average_rating": 4.51,
+                "ratings_count": 422967,
+                "description": "<b>A three-time winner of Goodreads Choice Awards</b><br /><br />Sixteen-year-old Starr Carter moves between two worlds: the poor neighborhood where she lives and the fancy suburban prep school she attends. The uneasy balance between these worlds is shattered when Starr witnesses the fatal shooting of her childhood best friend Khalil at the hands of a police officer. Khalil was unarmed.<br /><br />Soon afterward, his death is a national headline. Some are calling him a thug, maybe even a drug dealer and a gangbanger. Protesters are taking to the streets in Khalil’s name. Some cops and the local drug lord try to intimidate Starr and her family. What everyone wants to know is: what really went down that night? And the only person alive who can answer that is Starr.<br /><br />But what Starr does—or does not—say could upend her community. It could also endanger her life.",
+                "authors": {
+                    "author": {
+                        "id": 15049422,
+                        "name": "Angie Thomas",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1471998209p5/15049422.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1471998209p2/15049422.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/15049422.Angie_Thomas",
+                        "average_rating": 4.49,
+                        "ratings_count": 477415,
+                        "text_reviews_count": 60523
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 49638190,
+                    "uri": "kca://work/amzn1.gr.work.v1.f0HczHU50q_OdBoXYH0uUA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2139559875
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 28 12:12:39 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1879174316,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 28 12:12:37 -0800 2017",
+            "date_updated": "Thu Dec 28 12:12:39 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2229998256",
+            "link": "https://www.goodreads.com/review/show/2229998256",
+            "owned": 0
+        }
+    }
+}

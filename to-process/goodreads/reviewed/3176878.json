@@ -1,0 +1,109 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 209472214,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3176878
+                },
+                "isbn": 470246677,
+                "isbn13": 9780470246672,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 66
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.5dCOmmIro0sBDXD4c-7cDg",
+                "title": "ProBlogger: Secrets for Blogging Your Way to a Six-Figure Income",
+                "title_without_series": "ProBlogger: Secrets for Blogging Your Way to a Six-Figure Income",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3176878-problogger",
+                "num_pages": 220,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "John Wiley & Sons",
+                "publication_day": 1,
+                "publication_year": 2008,
+                "publication_month": 4,
+                "average_rating": 3.78,
+                "ratings_count": 1530,
+                "description": "Problogger.net is where bloggers worldwide go for advice and information on enhancing their blog's presence. Whether you're just starting out or have been blogging for years, these two professional bloggers show you how to turn your passion for blogging into extra revenue. This practical guide to creating and marketing a blog with the potential for generating a six-figure income shows you how to choose subject matter that works for you, handle technical issues, and evaluate your blog's success so that you can use your blog to generate income indirectly.",
+                "authors": {
+                    "author": {
+                        "id": 1352656,
+                        "name": "Darren Rowse",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1414191231p5/1352656.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1414191231p2/1352656.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1352656.Darren_Rowse",
+                        "average_rating": 3.78,
+                        "ratings_count": 1609,
+                        "text_reviews_count": 118
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 3209408,
+                    "uri": "kca://work/amzn1.gr.work.v1.uZMGj8HTZl8Uq0QriT9_Jw"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 293110789,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": true,
+                        "id": 2635325,
+                        "name": "currently-reading",
+                        "review_shelf_id": 135083098,
+                        "sortable": true
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri Sep 16 13:54:35 -0700 2011",
+            "read_at": {},
+            "date_added": "Fri Sep 16 13:54:35 -0700 2011",
+            "date_updated": "Fri Sep 16 13:54:35 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/209472214",
+            "link": "https://www.goodreads.com/review/show/209472214",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528960798,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13228097
+                },
+                "isbn": 1401235166,
+                "isbn13": 9781401235161,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 330
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.twliD_6fktaQ62Wkt9l-gQ",
+                "title": "Fables, Vol. 17: Inherit the Wind",
+                "title_without_series": "Fables, Vol. 17: Inherit the Wind",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375405130l/13228097._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375405130l/13228097._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13228097-fables-vol-17",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 10,
+                "publication_year": 2012,
+                "publication_month": 7,
+                "average_rating": 4.03,
+                "ratings_count": 6961,
+                "description": "A #1 <i>New York Times</i> Bestseller.<br /><br />The tights and capes have been stored away forever, but it remains to be seen if Haven and its refugee inhabitants have survived the onslaught of. Where do the Fables go from here? Bigby and Snow White's cubs try to move forward after learning a hard lesson about life and death. And the loveable, fan-favorite hero Bufkin the Flying Monkey gets into more trouble when he finally reaches his homeland of Oz.<br /><br /><b>Collecting</b>: <i>Fables</i> 108-113",
+                "authors": {
+                    "author": {
+                        "id": 12444,
+                        "name": "Bill Willingham",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p5/12444.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p2/12444.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12444.Bill_Willingham",
+                        "average_rating": 4.04,
+                        "ratings_count": 583176,
+                        "text_reviews_count": 25138
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 18419970,
+                    "uri": "kca://work/amzn1.gr.work.v1.OQQWcIaQeEvH1XGMOt0MKg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051891386
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:43:10 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813203517,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Feb 01 00:00:00 -0800 2013",
+            "date_added": "Thu Feb 07 08:21:52 -0800 2013",
+            "date_updated": "Mon Oct 23 16:43:10 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528960798",
+            "link": "https://www.goodreads.com/review/show/528960798",
+            "owned": 0
+        }
+    }
+}

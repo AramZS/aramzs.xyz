@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2800694728,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34050965
+                },
+                "isbn": 451499603,
+                "isbn13": 9780451499608,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 346
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Za7_3pzJKFpC_yFR2l8CUg",
+                "title": "How to Think: A Survival Guide for a World at Odds",
+                "title_without_series": "How to Think: A Survival Guide for a World at Odds",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495470381l/34050965._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1495470381l/34050965._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34050965-how-to-think",
+                "num_pages": 160,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Currency",
+                "publication_day": 17,
+                "publication_year": 2017,
+                "publication_month": 10,
+                "average_rating": 3.98,
+                "ratings_count": 2521,
+                "description": "<i>How to Think </i>is a contrarian treatise on why we're not as good at thinking as we assume - but how recovering this lost art can rescue our inner lives from the chaos of modern life.<br /><br /> As a celebrated cultural critic and a writer for national publications like <i>The Atlantic</i> and <i>Harper's</i>, Alan Jacobs has spent his adult life belonging to communities that often clash in America's culture wars. And in his years of confronting the big issues that divide us--political, social, religious--Jacobs has learned that many of our fiercest disputes occur not because we're doomed to be divided, but because the people involved simply aren't <i>thinking.</i><br /><br />Most of us don't want to think, Jacobs writes. Thinking is trouble. Thinking can force us out of familiar, comforting habits, and it can complicate our relationships with like-minded friends. Finally, thinking is <i>slow</i>, and that's a problem when our habits of consuming information (mostly online) leave us lost in the spin cycle of social media, partisan bickering, and confirmation bias.<br /><br />In this smart, endlessly entertaining book, Jacobs diagnoses the many forces that act on us to prevent thinking--forces that have only worsened in the age of Twitter, \"alternative facts,\" and information overload--and he also dispels the many myths we hold about what it means to think well. (For example: It's impossible to \"think for yourself.\")<br /><br />Drawing on sources as far-flung as novelist Marilynne Robinson, basketball legend Wilt Chamberlain, British philosopher John Stuart Mill, and Christian theologian C.S. Lewis, Jacobs digs into the nuts and bolts of the cognitive process, offering hope that each of us can reclaim our mental lives from the impediments that plague us all. Because if we can learn to think together, maybe we can learn to live together, too.",
+                "authors": {
+                    "author": {
+                        "id": 3957,
+                        "name": "Alan Jacobs",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1202837390p5/3957.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1202837390p2/3957.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3957.Alan_Jacobs",
+                        "average_rating": 4.02,
+                        "ratings_count": 8572,
+                        "text_reviews_count": 1427
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 55059572,
+                    "uri": "kca://work/amzn1.gr.work.v1.XPCYndnsHerS7KpMcN4n3A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2892301035
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Apr 27 07:00:18 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2446725802,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Apr 27 07:00:17 -0700 2019",
+            "date_updated": "Sat Apr 27 07:00:17 -0700 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2800694728",
+            "link": "https://www.goodreads.com/review/show/2800694728",
+            "owned": 0
+        }
+    }
+}

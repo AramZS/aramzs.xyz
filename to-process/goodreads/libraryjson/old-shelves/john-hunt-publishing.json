@@ -1,0 +1,51 @@
+{
+    "name": "John Hunt Publishing",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Imaginary Games",
+            "id": "13002738",
+            "author": "Chris Bateman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1322506935000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13002738",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "John Hunt Publishing",
+            "tags": [
+                "Paperback",
+                "John Hunt Publishing",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1846949416",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781846949418",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "13002738",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

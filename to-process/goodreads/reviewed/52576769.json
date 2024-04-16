@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3156432551,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 52576769
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 822
+                },
+                "uri": "kca://book/amzn1.gr.book.v3.2vTNDSGie1PrDpSA",
+                "title": "A Very Stable Genius: Donald J. Trump's Testing of America",
+                "title_without_series": "A Very Stable Genius: Donald J. Trump's Testing of America",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/52576769-a-very-stable-genius",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.22,
+                "ratings_count": 7218,
+                "description": "Rucker and Leonnig have deep and unmatched sources throughout Washington, D.C., and for the past three years have chronicled in depth the ways President Donald Trump has reinvented the presidency in his own image, shaken foreign alliances and tested American institutions. It would be all too easy to mistake Trump's first term for pure chaos. But Leonnig and Rucker show that in fact there is a pattern and meaning to the daily disorder. Relying on scores of exclusive new interviews with first-hand witnesses and rigorous original reporting, the authors reveal the 45th President up close as he stares down impeachment. They take readers inside Robert Mueller's Russia investigation and the Trump legal team's scramble for survival, behind the curtains as the West Wing scurries to clean up the President's mistakes and into the room to witness Trump's interactions with foreign leaders and members of his Cabinet, and assess the consequences.",
+                "authors": {
+                    "author": {
+                        "id": 19628674,
+                        "name": "Philip Rucker",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1579339806p5/19628674.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1579339806p2/19628674.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/19628674.Philip_Rucker",
+                        "average_rating": 4.22,
+                        "ratings_count": 7232,
+                        "text_reviews_count": 968
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 73672895,
+                    "uri": "kca://work/amzn1.gr.work.v2.d57f4fe1-b1d9-4a04-a73f-3b828f0606f0"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3368358836
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sun Jan 26 06:40:45 -0800 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3362004585
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Jan 23 03:28:39 -0800 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Thu Jan 23 03:28:39 -0800 2020",
+            "read_at": "Sun Jan 26 06:40:45 -0800 2020",
+            "date_added": "Thu Jan 23 03:28:39 -0800 2020",
+            "date_updated": "Sat Mar 21 14:53:13 -0700 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3156432551",
+            "link": "https://www.goodreads.com/review/show/3156432551",
+            "owned": 0
+        }
+    }
+}

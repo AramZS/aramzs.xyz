@@ -1,0 +1,51 @@
+{
+    "name": "Oni Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Mooncakes",
+            "id": "44774415",
+            "author": "Suzanne  Walker, Wendy  Xu",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961673000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/44774415",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Oni Press",
+            "tags": [
+                "Paperback",
+                "Oni Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "154930304X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781549303043",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "44774415",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

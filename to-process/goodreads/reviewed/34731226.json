@@ -1,0 +1,137 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2124625914,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34731226
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 277
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.DFYJXQvvqs8iy9stff90uQ",
+                "title": "Unbelievable: My Front-Row Seat to the Craziest Campaign in American History",
+                "title_without_series": "Unbelievable: My Front-Row Seat to the Craziest Campaign in American History",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34731226-unbelievable",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.96,
+                "ratings_count": 15097,
+                "description": "<p>\n  <strong>INSTANT NATIONAL BESTSELLER</strong>\n</p><p>\n  <strong>“Compelling… this book couldn’t be more timely.” – Jill Abramson, <em>New York Times Book Review </em></strong>\n</p><p>\n  <strong>FROM THE RECIPIENT OF THE  2017 Walter Cronkite Award for Excellence in Journalism</strong>\n</p><p></p><p>Called \"disgraceful,\" \"third-rate,\" and \"not nice\" by Donald Trump, NBC News correspondent Katy Tur reported on—and took flak from—the most captivating and volatile presidential candidate in American history.<br /><br />Tur lived out of a suitcase for a year and a half, following Trump around the country, powered by packets of peanut butter and kept clean with dry shampoo. She visited forty states with the candidate, made more than 3,800 live television reports, listened to endless loops of Elton John’s \"Tiny Dancer\"—a Trump rally playlist staple.<br /><br />From day 1 to day 500, Tur documented Trump’s inconsistencies, fact-checked his falsities, and called him out on his lies. In return, Trump repeatedly singled out Tur. He tried to charm her, intimidate her, and shame her. At one point, he got a crowd so riled up against her, Secret Service agents had to walk her to her car.<br /><br />None of it worked. Facts are stubborn. So was Tur. She was part of the first women-led politics team in the history of network news. The Boys on the Bus became the Girls on the Plane--but the circus remained. Through all the long nights, wild scoops, naked chauvinism, dodgy staffers, and fevered debates, no one had a better view than Tur.<br /><br /><i>Unbelievable</i> is her darkly comic, fascinatingly bizarre, and often scary story of how America sent a former reality show host to the White House. It’s also the story of what it was like for Tur to be there as it happened, inside a no-rules world where reporters were spat on, demeaned, and discredited. Tur was a foreign correspondent who came home to her most foreign story of all.</p>",
+                "authors": {
+                    "author": {
+                        "id": 16392619,
+                        "name": "Katy Tur",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1512800335p5/16392619.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1512800335p2/16392619.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16392619.Katy_Tur",
+                        "average_rating": 3.96,
+                        "ratings_count": 15103,
+                        "text_reviews_count": 2009
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 55188817,
+                    "uri": "kca://work/amzn1.gr.work.v1.4vgbMxzKbymhKL8VVoe1_Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2005087750
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Sep 16 22:54:11 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2002931885
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Sep 15 06:32:46 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 1,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri Sep 15 06:32:46 -0700 2017",
+            "read_at": "Sat Sep 16 22:54:11 -0700 2017",
+            "date_added": "Fri Sep 15 06:32:46 -0700 2017",
+            "date_updated": "Sat Sep 16 22:54:11 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "reading_notes_link_text": "1 highlight",
+            "reading_notes_url": "https://www.goodreads.com/notes/34731226-unbelievable/1244876-aram",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2124625914",
+            "link": "https://www.goodreads.com/review/show/2124625914",
+            "owned": 0
+        }
+    }
+}

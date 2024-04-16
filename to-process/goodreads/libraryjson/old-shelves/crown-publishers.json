@@ -1,0 +1,104 @@
+{
+    "name": "Crown Publishers",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Ready Player One (Ready Player One, #1)",
+            "id": "9969571",
+            "author": "Ernest Cline",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1522690019000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Ready Player One (Ready Player One, #1): Rating - 3/5",
+                    "date": 1522690019000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/9969571",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Crown Publishers",
+            "tags": [
+                "Hardcover",
+                "Crown Publishers",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "030788743X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780307887436",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "9969571",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Ready Player One (Ready Player One, #1)",
+            "id": 9969571,
+            "author": "Ernest Cline",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/9969571",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Crown Publishers",
+            "tags": [
+                "Hardcover",
+                "Crown Publishers",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "030788743X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 9969571,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

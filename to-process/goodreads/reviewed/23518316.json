@@ -1,0 +1,127 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1304800665,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23518316
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9781632152701,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 599
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.1i7zQpzgWOhiNEH5IWpVFw",
+                "title": "Trees, Vol. 1: In Shadow",
+                "title_without_series": "Trees, Vol. 1: In Shadow",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415506602l/23518316._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415506602l/23518316._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23518316-trees-vol-1",
+                "num_pages": 160,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 11,
+                "publication_year": 2015,
+                "publication_month": 2,
+                "average_rating": 3.77,
+                "ratings_count": 5610,
+                "description": "Ten years after they landed. All over the world. And they did nothing, standing on the surface of the Earth like trees, exerting their silent pressure on the world, as if there were no-one here and nothing under foot. Ten years since we learned that there is intelligent life in the universe, but that they did not recognize us as intelligent or alive. Beginning a new science fiction graphic novel by WARREN ELLIS and JASON HOWARD.",
+                "authors": {
+                    "author": {
+                        "id": 12772,
+                        "name": "Warren Ellis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p5/12772.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p2/12772.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12772.Warren_Ellis",
+                        "average_rating": 4.13,
+                        "ratings_count": 411463,
+                        "text_reviews_count": 19050
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 43121554,
+                    "uri": "kca://work/amzn1.gr.work.v1.t7TO0naex0EycTvSZXVhYw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 892739892
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 10 20:36:51 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "exclusive": true,
+                        "id": 2635324,
+                        "name": "to-read",
+                        "review_shelf_id": 1006726467,
+                        "sortable": true
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813195961,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Jun 10 20:36:51 -0700 2015",
+            "date_updated": "Mon Oct 23 16:32:35 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1304800665",
+            "link": "https://www.goodreads.com/review/show/1304800665",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749129623,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 26532012
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 12
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ubwmL4APqfx_8yBzg-_6hw",
+                "title": "On The Road with Del & Louise: A Novel in Stories",
+                "title_without_series": "On The Road with Del & Louise: A Novel in Stories",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/26532012-on-the-road-with-del-louise",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.29,
+                "ratings_count": 113,
+                "description": "<b>Agatha, Macavity, and Derringer Award-Winning Author</b>\n  \n  <b>“A would-be Bonnie and Clyde with a sock monkey keyring dangling from the rearview mirror for a talisman? Why not? These linked short stories are by turns funny, sweet and, at times, touchingly poignant as Del and Louise try to turn from a life of crime to one of solid respectability. Half of me hopes they succeed, the other half is ready for another road trip. Highly recommended.” — Margaret Maron, Edgar Award-Winning Author of the Deborah Knott Mysteries</b>\n <p>“Warm yet unsentimental, down-to-earth and pragmatic without being cynical—Art Taylor's characters, like his voice, are a breath of fresh air. Don't miss the chance to go on the road with Del and Louise.” — Donna Andrews, Agatha Award-Winning Author of the Meg Langslow Mysteries</p><p>“Taylor is expert at capturing small details that bring to life settings and scenes. He has a natural talent for storytelling, hooking readers from page one with his characters’ potential to do the unexpected. The compelling voice in which his stories about Del and Louise are told artfully creates reader sympathy for a couple who recurrently flirt with crime; it’s a voice that will remain in readers’ minds long after the book is closed.” — Janet Hutchings, Editor, <i>Ellery Queen’s Mystery Magazine</i></p> \n  <b>“If there’s a Raymond Carver of short crime fiction, Art Taylor would be him—but, you know, without the chain smoking and boozing.” — Keith Rawson, <i>LitReactor</i></b>\n <p>Del’s a small time crook with a moral conscience—robbing convenience stores only for tuition and academic expenses. Brash and sassy Louise goes from being a holdup victim to Del’s lover and accomplice. All they want is a fresh start, an honest life, and a chance to build a family together, but fate conspires to put ever-steeper challenges in their path—and escalating temptations, too.</p><p>A real estate scam in recession-blighted Southern California. A wine heist in Napa Valley. A Vegas wedding chapel holdup. A kidnapping in an oil-rich North Dakota boomtown. Can Del and Louise stay on the right side of the law? On one another’s good side? And when they head back to Louise’s hometown in North Carolina, what new trouble will prove the biggest: Louise’s nagging mama or a hidden adversary seemingly intent on tearing the couple apart? Or could those be one and the same?</p> \n  <b>From screwball comedy to domestic drama, and from caper tale to traditional whodunit, these six stories offer suspense with a side of romance—and a little something for all tastes.</b>\n <p>Related subjects include: cozy mysteries, women sleuths, mystery novellas, mystery novella series, short story collections, whodunnit short stories, novel in stories, book club recommendations, Southern living, Southern humor, murder mystery books.</p><p>Part of the Henery Press Mystery Series Collection, if you like one, you'll probably like them all…</p>",
+                "authors": {
+                    "author": {
+                        "id": 6153513,
+                        "name": "Art  Taylor",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1555420873p5/6153513.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1555420873p2/6153513.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6153513.Art_Taylor",
+                        "average_rating": 4.12,
+                        "ratings_count": 304,
+                        "text_reviews_count": 101
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 45186854,
+                    "uri": "kca://work/amzn1.gr.work.v1.C5AVGKahSBV9gqHbKHfmHQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498302948
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:42:46 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414466161,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:42:45 -0700 2016",
+            "date_updated": "Mon Sep 05 07:42:46 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749129623",
+            "link": "https://www.goodreads.com/review/show/1749129623",
+            "owned": 0
+        }
+    }
+}

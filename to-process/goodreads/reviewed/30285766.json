@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606738653,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 30285766
+                },
+                "isbn": 735212511,
+                "isbn13": 9780735212510,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1519
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.MAHCb22cwTRReIE6Zn6lRQ",
+                "title": "The Hunger",
+                "title_without_series": "The Hunger",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497803277l/30285766._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497803277l/30285766._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/30285766-the-hunger",
+                "num_pages": 376,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "G.P. Putnam’s Sons",
+                "publication_day": 6,
+                "publication_year": 2018,
+                "publication_month": 3,
+                "average_rating": 3.65,
+                "ratings_count": 12150,
+                "description": "Evil is invisible, and it is everywhere. <br /><br />Tamsen Donner must be a witch. That is the only way to explain the series of misfortunes that have plagued the wagon train known as the Donner Party. Depleted rations, bitter quarrels, and the mysterious death of a little boy have driven the pioneers to the brink of madness. They cannot escape the feeling that someone--or something--is stalking them. Whether it was a curse from the beautiful Tamsen, the choice to follow a disastrous experimental route West, or just plain bad luck--the 90 men, women, and children of the Donner Party are at the brink of one of the deadliest and most disastrous western adventures in American history. <br /><br />While the ill-fated group struggles to survive in the treacherous mountain conditions--searing heat that turns the sand into bubbling stew; snows that freeze the oxen where they stand--evil begins to grow around them, and within them. As members of the party begin to disappear, they must ask themselves \"What if there is something waiting in the mountains? Something disturbing and diseased...and very hungry?\"",
+                "authors": {
+                    "author": {
+                        "id": 3387293,
+                        "name": "Alma Katsu",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1525189522p5/3387293.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1525189522p2/3387293.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3387293.Alma_Katsu",
+                        "average_rating": 3.7,
+                        "ratings_count": 26357,
+                        "text_reviews_count": 4651
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 50762090,
+                    "uri": "kca://work/amzn1.gr.work.v1.9QFgYxrX78jkHxy-yYisHg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636062870
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:24:05 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251644563,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:24:04 -0800 2018",
+            "date_updated": "Mon Nov 26 13:24:05 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606738653",
+            "link": "https://www.goodreads.com/review/show/2606738653",
+            "owned": 0
+        }
+    }
+}

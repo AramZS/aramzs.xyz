@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1123171922,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9516
+                },
+                "isbn": "037571457X",
+                "isbn13": 9780375714573,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8321
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.XYYW7DCaVVe-VbdZt_iIDg",
+                "title": "Persepolis: The Story of a Childhood (Persepolis, #1)",
+                "title_without_series": "Persepolis: The Story of a Childhood",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425871473l/9516._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425871473l/9516._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9516.Persepolis",
+                "num_pages": 153,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Pantheon",
+                "publication_day": 1,
+                "publication_year": 2004,
+                "publication_month": 6,
+                "average_rating": 4.25,
+                "ratings_count": 151423,
+                "description": "A <i>New York Times</i> Notable Book<br />A <i>Time Magazine</i> “Best Comix of the Year”<br />A <i>San Francisco Chronicle </i>and <i>Los Angeles Times</i> Best-seller<br /><br />Wise, funny, and heartbreaking, <i>Persepolis</i> is Marjane Satrapi’s memoir of growing up in Iran during the Islamic Revolution. In powerful black-and-white comic strip images, Satrapi tells the story of her life in Tehran from ages six to fourteen, years that saw the overthrow of the Shah’s regime, the triumph of the Islamic Revolution, and the devastating effects of war with Iraq. The intelligent and outspoken only child of committed Marxists and the great-granddaughter of one of Iran’s last emperors, Marjane bears witness to a childhood uniquely entwined with the history of her country.<br /><br /><i>Persepolis</i> paints an unforgettable portrait of daily life in Iran and of the bewildering contradictions between home life and public life. Marjane’s child’s-eye view of dethroned emperors, state-sanctioned whippings, and heroes of the revolution allows us to learn as she does the history of this fascinating country and of her own extraordinary family. Intensely personal, profoundly political, and wholly original, <i>Persepolis</i> is at once a story of growing up and a reminder of the human cost of war and political repression. It shows how we carry on, with laughter and tears, in the face of absurdity. And, finally, it introduces us to an irresistible little girl with whom we cannot help but fall in love.",
+                "authors": {
+                    "author": {
+                        "id": 6238,
+                        "name": "Marjane Satrapi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1303646506p5/6238.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1303646506p2/6238.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6238.Marjane_Satrapi",
+                        "average_rating": 4.26,
+                        "ratings_count": 429517,
+                        "text_reviews_count": 22729
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 3303888,
+                    "uri": "kca://work/amzn1.gr.work.v1.r2w0vBkOe1spGlnMn060nQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 658878525
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 04 09:22:02 -0800 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847077555,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 04 09:22:02 -0800 2014",
+            "date_updated": "Thu Dec 04 09:22:02 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1123171922",
+            "link": "https://www.goodreads.com/review/show/1123171922",
+            "owned": 0
+        }
+    }
+}

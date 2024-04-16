@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065300189,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 38819868
+                },
+                "isbn": 385544235,
+                "isbn13": 9780385544238,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10912
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.6UjDO3gQRB9fABQprwTPuw",
+                "title": "My Sister, the Serial Killer",
+                "title_without_series": "My Sister, the Serial Killer",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523366732l/38819868._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523366732l/38819868._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer",
+                "num_pages": 226,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Doubleday Books",
+                "publication_day": 20,
+                "publication_year": 2018,
+                "publication_month": 11,
+                "average_rating": 3.74,
+                "ratings_count": 108799,
+                "description": "When Korede's dinner is interrupted one night by a distress call from her sister, Ayoola, she knows what's expected of her: bleach, rubber gloves, nerves of steel and a strong stomach. This'll be the third boyfriend Ayoola's dispatched in, quote, self-defence and the third mess that her lethal little sibling has left Korede to clear away. She should probably go to the police for the good of the menfolk of Nigeria, but she loves her sister and, as they say, family always comes first. Until, that is, Ayoola starts dating the doctor where Korede works as a nurse. Korede's long been in love with him, and isn't prepared to see him wind up with a knife in his back: but to save one would mean sacrificing the other...<br /><br /><b><i>My Sister, the Serial Killer </i>is a blackly comic novel about how blood is thicker - and more difficult to get out of the carpet - than water...</b>",
+                "authors": {
+                    "author": {
+                        "id": 14713014,
+                        "name": "Oyinkan Braithwaite",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1502118263p5/14713014.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1502118263p2/14713014.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14713014.Oyinkan_Braithwaite",
+                        "average_rating": 3.74,
+                        "ratings_count": 108947,
+                        "text_reviews_count": 13332
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 60394238,
+                    "uri": "kca://work/amzn1.gr.work.v1.xxQDR3Y3smsSxyRBctqofQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244212083
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:13:29 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712834168,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:13:28 -0800 2019",
+            "date_updated": "Thu Nov 28 09:13:29 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065300189",
+            "link": "https://www.goodreads.com/review/show/3065300189",
+            "owned": 0
+        }
+    }
+}

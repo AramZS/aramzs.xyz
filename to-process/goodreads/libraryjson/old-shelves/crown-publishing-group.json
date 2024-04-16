@@ -1,0 +1,51 @@
+{
+    "name": "Crown Publishing Group",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Immortal Life of Henrietta Lacks",
+            "id": "6493208",
+            "author": "Rebecca Skloot",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1337199979000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6493208",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Crown Publishing Group",
+            "tags": [
+                "Hardcover",
+                "Crown Publishing Group",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1400052173",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781400052172",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6493208",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

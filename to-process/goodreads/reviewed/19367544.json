@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960342660,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19367544
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 0
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.C0SMQBlOlkiytJyPdgSgWQ",
+                "title": "The Social Media Marketing Book",
+                "title_without_series": "The Social Media Marketing Book",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19367544-the-social-media-marketing-book",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.6,
+                "ratings_count": 191,
+                "description": "Are you looking to take advantage of social media for your business or organization? With easy-to-understand introductions to blogging, forums, opinion and review sites, and social networks such as Twitter, Facebook, and LinkedIn, this book will help you choose the best -- and avoid the worst -- of the social web's unique marketing opportunities. \"The Social Media Marketing Book\" guides you through the maze of communities, platforms, and social media tools so you can decide which ones to use, and how to use them most effectively. With an objective approach and clear, straightforward language, Dan Zarrella, aka \"The Social Media &amp; Marketing Scientist,\" shows you how to plan and implement campaigns intelligently, and then measure results and track return on investment. Whether you're a seasoned pro or new to the social web, this book will take you beyond the jargon to social media marketing mastery.Make sense of this complicated environment with the help of screenshots, graphs, and visual explanations Understand the history and culture of each social media type, including features, functionality, and protocols Get clear-cut explanations of the methods you need to trigger viral marketing successes Choose the technologies and marketing tactics most relevant to your campaign goals Learn how to set specific goals for your campaigns and evaluate them according to key performance indicators Praise for \"The Social Media Marketing Book\" \"Let Zarrella take you to social-media marketing school. You'll learn more from reading this book than a month of research on the Internet.\" --Guy Kawasaki, co-founder of Alltop.com \"If I could be any other person for a day, it would be Dan Zarella. Either him or Brad Pitt. But Dan's smarter. This book is why I say that.\" --Chris Brogan, President of New Marketing Labs \"This book demonstrates a beginning to the endless possibilities of the Social Web.\" -- Brian Solis, publisher of leading marketing blog PR 2.0",
+                "authors": {
+                    "author": {
+                        "id": 3188029,
+                        "name": "Dan Zarrella",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1356497260p5/3188029.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1356497260p2/3188029.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3188029.Dan_Zarrella",
+                        "average_rating": 3.6,
+                        "ratings_count": 949,
+                        "text_reviews_count": 114
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 7822879,
+                    "uri": "kca://work/amzn1.gr.work.v1.H--NUCYYp4fRy7EDLcs17A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452283113
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:08:36 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710710977,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:08:36 -0700 2014",
+            "date_updated": "Sat Jun 07 06:08:36 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960342660",
+            "link": "https://www.goodreads.com/review/show/960342660",
+            "owned": 0
+        }
+    }
+}

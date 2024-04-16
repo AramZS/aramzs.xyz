@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2638059749,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 26030913
+                },
+                "isbn": 785196722,
+                "isbn13": 9780785196723,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 24
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.rHllXaDU79EwzyfL_Sbr9g",
+                "title": "Web Warriors of the Spider-Verse Vol. 1: Electroverse",
+                "title_without_series": "Web Warriors of the Spider-Verse Vol. 1: Electroverse",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519993578l/26030913._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519993578l/26030913._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/26030913-web-warriors-of-the-spider-verse-vol-1",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 24,
+                "publication_year": 2016,
+                "publication_month": 5,
+                "average_rating": 3.52,
+                "ratings_count": 225,
+                "description": "Join the team of Spider-People known as the Web Warriors for an interdimensional adventure as they hop to various realities that lost their Spider-Men and Women during Spider-Verse!<br /><br /><b>COLLECTING: </b><strong>Web Warriors 1-5, Amazing Spider-Man 1 (Web Warriors story)</strong><br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 2080599,
+                        "name": "Mike Costa",
+                        "role": "Text",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1587621182p5/2080599.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1587621182p2/2080599.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2080599.Mike_Costa",
+                        "average_rating": 3.63,
+                        "ratings_count": 11786,
+                        "text_reviews_count": 1283
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 45957171,
+                    "uri": "kca://work/amzn1.gr.work.v1.S2NbmMhiZpptejr29vU7tA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2677475423
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Dec 25 08:56:02 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Dec 22 00:00:00 -0800 2018",
+            "date_added": "Tue Dec 25 08:56:02 -0800 2018",
+            "date_updated": "Wed Dec 26 07:35:10 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2638059749",
+            "link": "https://www.goodreads.com/review/show/2638059749",
+            "owned": 0
+        }
+    }
+}

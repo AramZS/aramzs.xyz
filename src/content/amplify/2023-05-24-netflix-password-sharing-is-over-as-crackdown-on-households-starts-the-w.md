@@ -1,0 +1,13 @@
+---
+date: '2023-05-24T18:25:49.000Z'
+isBasedOn: >-
+  https://www.washingtonpost.com/technology/2023/05/23/netflix-password-account-sharing-ends-us/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjQ2MTYyOTQiLCJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNjg0OTAwODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNjg2MTk2Nzk5LCJpYXQiOjE2ODQ5MDA4MDAsImp0aSI6IjUxZWIyNTAwLWZkZmUtNGJhZi05NzlhLTAxOTI4MzFjN2IyYSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjMvMDUvMjMvbmV0ZmxpeC1wYXNzd29yZC1hY2NvdW50LXNoYXJpbmctZW5kcy11cy8ifQ.C5Sep0LbGib6lLQN-WMvU9_qZjInMhd0IpqVQiElZ2c
+link: >-
+  https://www.washingtonpost.com/technology/2023/05/23/netflix-password-account-sharing-ends-us/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjQ2MTYyOTQiLCJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNjg0OTAwODAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNjg2MTk2Nzk5LCJpYXQiOjE2ODQ5MDA4MDAsImp0aSI6IjUxZWIyNTAwLWZkZmUtNGJhZi05NzlhLTAxOTI4MzFjN2IyYSIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjMvMDUvMjMvbmV0ZmxpeC1wYXNzd29yZC1hY2NvdW50LXNoYXJpbmctZW5kcy11cy8ifQ.C5Sep0LbGib6lLQN-WMvU9_qZjInMhd0IpqVQiElZ2c
+slug: >-
+  2023-05-24-netflix-password-sharing-is-over-as-crackdown-on-households-starts-the-w
+tags:
+  - Tech
+title: 'Netflix password sharing is over, as crackdown on households starts - The W'
+---
+

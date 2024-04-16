@@ -1,0 +1,104 @@
+{
+    "name": "Donald M. Grant Publisher, Inc.",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Little Sisters of Eluria (The Dark Tower, #0.5)",
+            "id": "6356190",
+            "author": "Stephen King, Michael Whelan",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1291319497000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Little Sisters of Eluria (The Dark Tower, #0.5): Rating - 4/5",
+                    "date": 1291319497000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6356190",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Donald M. Grant Publisher, Inc.",
+            "tags": [
+                "Hardcover",
+                "Donald M. Grant Publisher, Inc.",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1880418738",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781880418734",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6356190",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Little Sisters of Eluria (The Dark Tower, #0.5)",
+            "id": 6356190,
+            "author": "Stephen King",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6356190",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Donald M. Grant Publisher, Inc.",
+            "tags": [
+                "Hardcover",
+                "Donald M. Grant Publisher, Inc.",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 6356190,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

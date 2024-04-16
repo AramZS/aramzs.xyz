@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2502241140,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25566235
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 178
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.M6eqB0g2heDuE3yq5pc45w",
+                "title": "Chew, Vol. 10: Blood Puddin'",
+                "title_without_series": "Chew, Vol. 10: Blood Puddin'",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438244985l/25566235._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438244985l/25566235._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25566235-chew-vol-10",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 5,
+                "publication_year": 2015,
+                "publication_month": 8,
+                "average_rating": 4.26,
+                "ratings_count": 2438,
+                "description": "CAN TONY STOP HIS MOST DANGEROUS ENEMY?<br /><br />Presenting a new storyline of the New York Times Best Selling, Harvey- and multiple Eisner Award-winning series about cops, crooks, cooks, cannibals, and clairvoyants.<br /><br />Collects CHEW #46-50.",
+                "authors": {
+                    "author": {
+                        "id": 93094,
+                        "name": "John Layman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1316046488p5/93094.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1316046488p2/93094.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/93094.John_Layman",
+                        "average_rating": 4.05,
+                        "ratings_count": 138007,
+                        "text_reviews_count": 8878
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 45364602,
+                    "uri": "kca://work/amzn1.gr.work.v1.MUP7g40h-LcUoqifG8cQAw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2497988569
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 21 11:07:52 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Aug 19 00:00:00 -0700 2018",
+            "date_added": "Tue Aug 21 11:07:52 -0700 2018",
+            "date_updated": "Tue Aug 21 11:10:14 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2502241140",
+            "link": "https://www.goodreads.com/review/show/2502241140",
+            "owned": 0
+        }
+    }
+}

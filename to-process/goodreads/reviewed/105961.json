@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071691968,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 105961
+                },
+                "isbn": 785118144,
+                "isbn13": 9780785118145,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 171
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.dXhd3cyYUYg02jALxfZn5Q",
+                "title": "The New Avengers, Volume 1: Breakout",
+                "title_without_series": "The New Avengers, Volume 1: Breakout",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483049569l/105961._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483049569l/105961._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/105961.The_New_Avengers_Volume_1",
+                "num_pages": 160,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 17,
+                "publication_year": 2005,
+                "publication_month": 8,
+                "average_rating": 4.04,
+                "ratings_count": 9852,
+                "description": "In the wake of the systematic destruction of the original Avengers, just what sort of threat to the world could persuade Captain America to assemble an all-new team? And following the events of Avengers Disassembled, who could possibly be on this team? <br /><br />How does Cap, Iron Man, Spider-Man, and Wolverine sound? Fate has brought them together, and now Captain America wants to make it permanent. Who will take his hand and join the new Avengers? And will they be strong enough to fight the mysterious forces at play around them? <br /><br /><b>Collecting</b>: <i>The New Avengers</i> 1-6",
+                "authors": {
+                    "author": {
+                        "id": 12424,
+                        "name": "Brian Michael Bendis",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1239763230p5/12424.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1239763230p2/12424.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12424.Brian_Michael_Bendis",
+                        "average_rating": 3.92,
+                        "ratings_count": 493910,
+                        "text_reviews_count": 30779
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 797451,
+                    "uri": "kca://work/amzn1.gr.work.v1._V3vdqWywxaDtg0Xw6zDNQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593083234
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:12:23 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813197927,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:12:22 -0700 2014",
+            "date_updated": "Mon Oct 23 16:35:11 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071691968",
+            "link": "https://www.goodreads.com/review/show/1071691968",
+            "owned": 0
+        }
+    }
+}

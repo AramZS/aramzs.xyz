@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333634896,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16059411
+                },
+                "isbn": 765333120,
+                "isbn13": 9780765333124,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 555
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.6rOF9UOXYR1y_7EaEeI-dg",
+                "title": "Two Serpents Rise (Craft Sequence, #2)",
+                "title_without_series": "Two Serpents Rise",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355469010l/16059411._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355469010l/16059411._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16059411-two-serpents-rise",
+                "num_pages": 347,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 29,
+                "publication_year": 2013,
+                "publication_month": 10,
+                "average_rating": 3.91,
+                "ratings_count": 5609,
+                "description": "<b>The new novel set in the addictive and compelling fantasy world of <i>Three Parts Dead</i></b><br /><br />Shadow demons plague the city reservoir, and Red King Consolidated has sent in Caleb Altemoc — casual gambler and professional risk manager — to cleanse the water for the sixteen million people of Dresediel Lex. At the scene of the crime, Caleb finds an alluring and clever cliff runner, crazy Mal, who easily outpaces him.<br /><br />But Caleb has more than the demon infestation, Mal, or job security to worry about when he discovers that his father — the last priest of the old gods and leader of the True Quechal terrorists — has broken into his home and is wanted in connection to the attacks on the water supply.<br /><br />From the beginning, Caleb and Mal are bound by lust, Craft, and chance, as both play a dangerous game where gods and people are pawns. They sleep on water, they dance in fire... and all the while the Twin Serpents slumbering beneath the earth are stirring, and they are hungry.",
+                "authors": {
+                    "author": {
+                        "id": 3405346,
+                        "name": "Max Gladstone",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440009008p5/3405346.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1440009008p2/3405346.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3405346.Max_Gladstone",
+                        "average_rating": 3.99,
+                        "ratings_count": 63811,
+                        "text_reviews_count": 11047
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21846173,
+                    "uri": "kca://work/amzn1.gr.work.v1.K1IkzjDLruQgsEWwanUEcA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2274327322
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Mar 20 05:23:00 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Mar 20 05:23:00 -0700 2018",
+            "date_updated": "Tue Mar 20 05:23:19 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333634896",
+            "link": "https://www.goodreads.com/review/show/2333634896",
+            "owned": 0
+        }
+    }
+}

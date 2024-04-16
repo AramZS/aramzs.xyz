@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 661200535,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 64216
+                },
+                "isbn": 61020648,
+                "isbn13": 9780061020643,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2743
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.2rp8a0vJ8clGzMzZf61R9Q",
+                "title": "Guards! Guards! (Discworld, #8; City Watch #1)",
+                "title_without_series": "Guards! Guards!",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431127356l/64216._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431127356l/64216._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/64216.Guards_Guards_",
+                "num_pages": 376,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "HarperTorch",
+                "publication_day": {},
+                "publication_year": 2001,
+                "publication_month": 8,
+                "average_rating": 4.33,
+                "ratings_count": 154791,
+                "description": "This is where the dragons went. They lie ... not dead, not asleep, but ... dormant. And although the space they occupy isn't like normal space, nevertheless they are packed in tightly. They could put you in mind of a can of sardines, if you thought sardines were huge and scaly. And presumably, somewhere, there's a key...<br /><br />GUARDS! GUARDS! is the eighth Discworld novel - and after this, dragons will never be the same again!",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 1128601,
+                    "uri": "kca://work/amzn1.gr.work.v1.FzSi-QMED8Xzrh1T0VFQpw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 79908069
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 07 12:11:36 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Jul 01 00:00:00 -0700 2013",
+            "date_added": "Sun Jul 07 12:11:36 -0700 2013",
+            "date_updated": "Wed Jan 22 13:23:51 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/661200535",
+            "link": "https://www.goodreads.com/review/show/661200535",
+            "owned": 0
+        }
+    }
+}

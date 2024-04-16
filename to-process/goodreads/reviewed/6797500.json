@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 992008461,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6797500
+                },
+                "isbn": 1401222048,
+                "isbn13": 9781401222048,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.b8yTxTfn2V7fbCgMgJsWMg",
+                "title": "James Robinson's Complete WildC.A.T.s",
+                "title_without_series": "James Robinson's Complete WildC.A.T.s",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456653866l/6797500._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456653866l/6797500._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6797500-james-robinson-s-complete-wildc-a-t-s",
+                "num_pages": 288,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "WildStorm",
+                "publication_day": 15,
+                "publication_year": 2009,
+                "publication_month": 9,
+                "average_rating": 3.13,
+                "ratings_count": 63,
+                "description": "Acclaimed writer James Robinson takes on WildStorm's flagship super-team<br /><br />James Robinson is considered by many to one the best modern comics writers. His landmark achievement in the medium is his acclaimed run on STARMAN, which <i>Entertainment Weekly</i> described as “the best written super-hero in comics.”<br /><br />Now Robinson's defining run on WildC.A.T.s is collected into a single volume, collecting his 1990s issues, which feature the impressive art of Travis Charest and other fine artists who provide breathtaking visuals. <br /><br />Robinson takes over the reins as writer of WildStorm's flagship super hero team from comics legend Alan Moore (WATCHMEN, V FOR VENDETTA) and continues the amazing adventures of the WILDC.A.T.S while stirring up the WildStorm Universe.",
+                "authors": {
+                    "author": {
+                        "id": 28055,
+                        "name": "James Robinson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1305435500p5/28055.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1305435500p2/28055.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/28055.James_Robinson",
+                        "average_rating": 3.8,
+                        "ratings_count": 65808,
+                        "text_reviews_count": 5454
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 7002988,
+                    "uri": "kca://work/amzn1.gr.work.v1.aWF-pjFwCZy3dNSEPpV6Rw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 491877109
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Jul 10 07:54:28 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813198064,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jul 10 07:54:28 -0700 2014",
+            "date_updated": "Mon Oct 23 16:35:22 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/992008461",
+            "link": "https://www.goodreads.com/review/show/992008461",
+            "owned": 0
+        }
+    }
+}

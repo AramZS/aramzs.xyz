@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2591747167,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17182126
+                },
+                "isbn": 385743564,
+                "isbn13": 9780385743563,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 9126
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.uzUXw9AIKKp3RLOzZjSmbA",
+                "title": "Steelheart (The Reckoners, #1)",
+                "title_without_series": "Steelheart",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357576738l/17182126._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357576738l/17182126._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17182126-steelheart",
+                "num_pages": 386,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Delacorte Press",
+                "publication_day": 24,
+                "publication_year": 2013,
+                "publication_month": 9,
+                "average_rating": 4.15,
+                "ratings_count": 140871,
+                "description": "Ten years ago, Calamity came. It was a burst in the sky that gave ordinary men and women extraordinary powers. The awed public started calling them Epics. But Epics are no friend of man. With incredible gifts came the desire to rule. And to rule man you must crush his will.<br /><br />Nobody fights the Epics...nobody but the Reckoners. A shadowy group of ordinary humans, they spend their lives studying Epics, finding their weaknesses, and then assassinating them.<br /><br />And David wants in. He wants Steelheart — the Epic who is said to be invincible. The Epic who killed David's father. For years, like the Reckoners, David's been studying, and planning — and he has something they need. Not an object, but an experience.<br /><br />He's seen Steelheart bleed. And he wants revenge.",
+                "authors": {
+                    "author": {
+                        "id": 38550,
+                        "name": "Brandon Sanderson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1394044556p5/38550.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1394044556p2/38550.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/38550.Brandon_Sanderson",
+                        "average_rating": 4.39,
+                        "ratings_count": 3270920,
+                        "text_reviews_count": 217241
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21366540,
+                    "uri": "kca://work/amzn1.gr.work.v1.Y783voS5m8qKv1g3a3vNOQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2616211907
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 12 04:51:36 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 12 04:51:36 -0800 2018",
+            "date_updated": "Mon Nov 12 04:51:52 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2591747167",
+            "link": "https://www.goodreads.com/review/show/2591747167",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "Paperless Publishing LLC",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Lucky Wander Boy",
+            "id": "20337518",
+            "author": "D.B. Weiss",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146590000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Lucky Wander Boy: Rating - 3/5",
+                    "date": 1402146590000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/20337518",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Paperless Publishing LLC",
+            "tags": [
+                "Kindle Edition",
+                "Paperless Publishing LLC",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "20337518",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

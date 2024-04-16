@@ -1,0 +1,103 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 294830191,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13453029
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8937
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.nd-CMn5seotcSCK6NAiLrQ",
+                "title": "Wool Omnibus (Silo, #1)",
+                "title_without_series": "Wool Omnibus",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349614200l/13453029._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349614200l/13453029._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13453029-wool-omnibus",
+                "num_pages": 509,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Broad Reach Publishing",
+                "publication_day": 25,
+                "publication_year": 2012,
+                "publication_month": 1,
+                "average_rating": 4.23,
+                "ratings_count": 152334,
+                "description": "This Omnibus Edition collects the five Wool books into a single volume. <br /><br />The first Wool story was released as a standalone short in July of 2011. Due to reviewer demand, the rest of the story was released over the next six months. <br /><br />This is the story of mankind clawing for survival, of mankind on the edge. The world outside has grown unkind, the view of it limited, talk of it forbidden. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they profess to want: They are allowed outside.<br /><br /><i>Alternate cover for <a href=\"https://www.goodreads.com/book/show/18626815-wool-omnibus-edition\" rel=\"nofollow\">B0071XO8RA</a></i>",
+                "authors": {
+                    "author": {
+                        "id": 3064305,
+                        "name": "Hugh Howey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1327581631p5/3064305.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1327581631p2/3064305.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3064305.Hugh_Howey",
+                        "average_rating": 4.15,
+                        "ratings_count": 569899,
+                        "text_reviews_count": 39800
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 18979356,
+                    "uri": "kca://work/amzn1.gr.work.v1.exDfVIzvR6ZIP8DTkKtXYQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Thu Mar 15 11:12:24 -0700 2012",
+            "read_at": "Thu Mar 15 14:15:25 -0700 2012",
+            "date_added": "Thu Mar 15 11:12:24 -0700 2012",
+            "date_updated": "Thu Mar 15 14:15:25 -0700 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/294830191",
+            "link": "https://www.goodreads.com/review/show/294830191",
+            "owned": 0
+        }
+    }
+}

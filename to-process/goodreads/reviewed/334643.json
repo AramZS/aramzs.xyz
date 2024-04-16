@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528940378,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 334643
+                },
+                "isbn": 60278250,
+                "isbn13": 9780060278250,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1744
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.1ZwNBKh0te5lk3LGQPsvJg",
+                "title": "Abhorsen (Abhorsen, #3)",
+                "title_without_series": "Abhorsen",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401683669l/334643._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401683669l/334643._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/334643.Abhorsen",
+                "num_pages": 358,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "HarperCollins",
+                "publication_day": 7,
+                "publication_year": 2003,
+                "publication_month": 1,
+                "average_rating": 4.23,
+                "ratings_count": 109254,
+                "description": "<i>The Ninth was strong and fought with might <br />But lone Orannis was put out of the light <br />Broken in two and buried under hill<br />Forever to lie there, wishing us ill.</i><br /><br />So says the song. But Orannis, the Destroyer, is no longer buried under hill. It has been freed from its subterranean prison and now seeks to escape the silver hemispheres, the final barrier to the unleashing of its terrible powers.<br /><br />Only Lirael, newly come into her inheritance as the Abhorsen-in-Waiting, has any chance of stopping the Destroyer. She and her companions -- Sam, the Disreputable Dog, and Mogget -- have to take that chance. For the Destroyer is the enemy of all Life, and it must be stopped, though Lirael does not know how.<br /><br />To make matters worse, Sam's best friend, Nick, is helping the Destroyer, as are the necromancer Hedge and the Greater Dead Chlorr, and there has been no word from the Abhorsen Sabriel or King Touchstone.<br /><br />Everything depends upon Lirael. A heavy, perhaps even impossible burden for a young woman who just days ago was merely a Second Assistant Librarian. With only a vision from the Clayr to guide her, and the rather mixed help of her companions, Lirael must search in both Life and Death for some means to defeat the Destroyer.<br /><br />Before it is too late. . . .",
+                "authors": {
+                    "author": {
+                        "id": 8347,
+                        "name": "Garth Nix",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p5/8347.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p2/8347.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8347.Garth_Nix",
+                        "average_rating": 4.05,
+                        "ratings_count": 769164,
+                        "text_reviews_count": 38472
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 2339177,
+                    "uri": "kca://work/amzn1.gr.work.v1.79Lr4lz_9dhhu5IAQv2b2g"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 07:57:03 -0800 2013",
+            "date_updated": "Thu Feb 07 07:57:03 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528940378",
+            "link": "https://www.goodreads.com/review/show/528940378",
+            "owned": 0
+        }
+    }
+}

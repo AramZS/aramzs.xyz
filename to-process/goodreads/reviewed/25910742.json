@@ -1,0 +1,137 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749129812,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25910742
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 9
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.uOn8FPq9_Sq5BfhNMS22yA",
+                "title": "The Internet Of Garbage",
+                "title_without_series": "The Internet Of Garbage",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436910514l/25910742._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436910514l/25910742._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25910742-the-internet-of-garbage",
+                "num_pages": 91,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Forbes Media",
+                "publication_day": 15,
+                "publication_year": 2015,
+                "publication_month": 7,
+                "average_rating": 4.08,
+                "ratings_count": 522,
+                "description": "Sarah Jeong, a journalist trained as a lawyer at Harvard Law School, discusses the problem of “online harassment,” with various accounts of harassment that have made their way into mainstream media, as well as lesser-known ones. The Internet of Garbageconsiders why and how to recalibrate this ongoing project of garbage-removal from content platforms and social media networks. It’s not as simple as policing offensive material and hitting the delete button online: Jeong tackles precarious issues like free speech, behavior vs. content, doxing and SPAM.<br />She writes, “Content platforms and social media networks do not have the power to restrain stalkers, end intimate partner violence, eliminate child abuse, or stop street harassment. But they can cultivate better interactions and better discourse, through thoughtful architecture, active moderation and community management.”<br />So how do we filter content from garbage? Read on.Sarah Jeong writes about technology, policy and law with bylines at Forbes, The Verge, The Guardian, Slate and WIRED.",
+                "authors": {
+                    "author": {
+                        "id": 13832843,
+                        "name": "Sarah Jeong",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1454121737p5/13832843.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1454121737p2/13832843.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13832843.Sarah_Jeong",
+                        "average_rating": 4.05,
+                        "ratings_count": 550,
+                        "text_reviews_count": 73
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 45797432,
+                    "uri": "kca://work/amzn1.gr.work.v1.MJAi_8Lw6QJPjXqFWKIlCA"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2573206858
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Oct 11 17:54:53 -0700 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1498303206
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Sep 05 07:42:58 -0700 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Sep 05 07:42:58 -0700 2016",
+            "read_at": "Thu Oct 11 17:54:53 -0700 2018",
+            "date_added": "Mon Sep 05 07:42:57 -0700 2016",
+            "date_updated": "Thu Oct 11 17:54:53 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "reading_notes_link_text": "8 highlights",
+            "reading_notes_url": "https://www.goodreads.com/notes/25910742-the-internet-of-garbage/1244876-aram",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749129812",
+            "link": "https://www.goodreads.com/review/show/1749129812",
+            "owned": 0
+        }
+    }
+}

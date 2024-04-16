@@ -1,0 +1,128 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960343974,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16153836
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 26
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8SUxe6d5DfQgppRJJ1C7pA",
+                "title": "Wonder Woman, Vol. 1: Blood",
+                "title_without_series": "Wonder Woman, Vol. 1: Blood",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395746577l/16153836._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395746577l/16153836._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16153836-wonder-woman-vol-1",
+                "num_pages": 160,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "DC Comics",
+                "publication_day": 5,
+                "publication_year": 2012,
+                "publication_month": 6,
+                "average_rating": 3.87,
+                "ratings_count": 19926,
+                "description": "As a part of the acclaimed DC Comics—The New 52 event of September 2011, the first six issues of the critically acclaimed new Wonder Woman series are collected in hardcover! <br /><br />Hippolyta, queen of the Amazons, has kept a secret from her daughter all her life–and when Wonder Woman learns who her father is, her life will shatter like brittle clay. The only one more shocked than Diana by this revelation? Bloodthirsty Hera–so why is her sinister daughter, Strife, so eager for the truth to be told? Superstar writer Brian Azzarello creates a new direction for one of DC's best-known heroes, with spectacular art by Cliff Chiang and Tony Akins!",
+                "authors": {
+                    "author": {
+                        "id": 17029,
+                        "name": "Brian Azzarello",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1589837637p5/17029.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1589837637p2/17029.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17029.Brian_Azzarello",
+                        "average_rating": 3.92,
+                        "ratings_count": 212891,
+                        "text_reviews_count": 11008
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 18841564,
+                    "uri": "kca://work/amzn1.gr.work.v1.-ZzuALcafU9bJekqT2ep6w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452284781
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:10:49 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813198472,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:10:49 -0700 2014",
+            "date_updated": "Mon Oct 23 16:35:55 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960343974",
+            "link": "https://www.goodreads.com/review/show/960343974",
+            "owned": 0
+        }
+    }
+}

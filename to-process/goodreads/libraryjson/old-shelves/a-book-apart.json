@@ -1,0 +1,104 @@
+{
+    "name": "A Book Apart",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Sass for Web Designers",
+            "id": "17249364",
+            "author": "Dan Cederholm",
+            "date_finished": 1409011200000,
+            "notes": [],
+            "date_started": 1433994491000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Sass for Web Designers: Rating - 5/5",
+                    "date": 1409011200000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/17249364",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "A Book Apart",
+            "tags": [
+                "ebook",
+                "A Book Apart",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781937557133",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "17249364",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Sass for Web Designers",
+            "id": 17249364,
+            "author": "Dan Cederholm",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/17249364",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "A Book Apart",
+            "tags": [
+                "ebook",
+                "A Book Apart",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 17249364,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

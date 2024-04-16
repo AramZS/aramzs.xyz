@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2028202937,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 30027121
+                },
+                "isbn": 1632158353,
+                "isbn13": 9781632158352,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 8
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.whwfNiE9Sw5iqHBHoSG_6w",
+                "title": "Roche Limit, Vol. 3: Monadic (Roche Limit, #3)",
+                "title_without_series": "Roche Limit, Vol. 3: Monadic",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465610653l/30027121._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465610653l/30027121._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/30027121-roche-limit-vol-3",
+                "num_pages": 120,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 13,
+                "publication_year": 2016,
+                "publication_month": 9,
+                "average_rating": 3.62,
+                "ratings_count": 105,
+                "description": "The critically acclaimed sci-fi hit returns for its third and final volume! Earth is in ruins after the Black Sun's annihilation of the planet. Now, in the last remaining human city, its inhabitants fight for survival while a chosen few realize that their world may not be what it seems. Coming off the heels of Clandestiny, Monadic continues Roche Limit's trademark existentialism with a breakneck story that will keep readers on the edge of their seats until the final page. Come discover why the Nerdist and io9 call Roche Limit \"the science fiction book you need to be reading.\"",
+                "authors": {
+                    "author": {
+                        "id": 4611286,
+                        "name": "Michael Moreci",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1486007129p5/4611286.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1486007129p2/4611286.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4611286.Michael_Moreci",
+                        "average_rating": 3.76,
+                        "ratings_count": 7189,
+                        "text_reviews_count": 994
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 50431929,
+                    "uri": "kca://work/amzn1.gr.work.v1.N-ya6m67uZ6icbSrKALjXw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1876436091
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Jun 13 06:05:08 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813191138,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Jun 10 00:00:00 -0700 2017",
+            "date_added": "Tue Jun 13 06:05:08 -0700 2017",
+            "date_updated": "Mon Oct 23 16:26:14 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2028202937",
+            "link": "https://www.goodreads.com/review/show/2028202937",
+            "owned": 0
+        }
+    }
+}

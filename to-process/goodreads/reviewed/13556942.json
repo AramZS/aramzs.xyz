@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2502240505,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13556942
+                },
+                "isbn": 1607065231,
+                "isbn13": 9781607065234,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 352
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.HKjljqGMVxQaRRC9zRQ2UA",
+                "title": "Chew, Vol. 5: Major League",
+                "title_without_series": "Chew, Vol. 5: Major League",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332447560l/13556942._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332447560l/13556942._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13556942-chew-vol-5",
+                "num_pages": 120,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 18,
+                "publication_year": 2012,
+                "publication_month": 4,
+                "average_rating": 4.12,
+                "ratings_count": 8809,
+                "description": "Tony Chu - the cibopathic federal agent with the ability to get psychic impressions from what he eats - has been kidnapped. He was ambushed, knocked out, brought to a remote location, and bound securely. His captor intends to feed Tony from a menu of his choosing, to find out what Tony can see, in order to learn from him. His daughter Olive has been kidnapped for the exact same reason. Two kidnappers, two captives, and two very different outcomes.<br /><br />Presenting fifth storyline of the New York Times Best Selling, Harvey and multiple Eisner Award-winner series about cops, crooks, cooks, cannibals, clairvoyants - and kidnappers!<br /><br />Collects CHEW #21-25",
+                "authors": {
+                    "author": {
+                        "id": 93094,
+                        "name": "John Layman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1316046488p5/93094.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1316046488p2/93094.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/93094.John_Layman",
+                        "average_rating": 4.05,
+                        "ratings_count": 138007,
+                        "text_reviews_count": 8878
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 19128556,
+                    "uri": "kca://work/amzn1.gr.work.v1.KFb0b8MiVTrs0LxmK8CTPA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2497987783
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 21 11:07:17 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Aug 14 00:00:00 -0700 2018",
+            "date_added": "Tue Aug 21 11:07:17 -0700 2018",
+            "date_updated": "Tue Aug 21 11:10:57 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2502240505",
+            "link": "https://www.goodreads.com/review/show/2502240505",
+            "owned": 0
+        }
+    }
+}

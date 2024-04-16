@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528960136,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8601702
+                },
+                "isbn": 1401230008,
+                "isbn13": 9781401230005,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 413
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.N_qzhXiL26n5arQK0ishTg",
+                "title": "Fables, Vol. 15: Rose Red",
+                "title_without_series": "Fables, Vol. 15: Rose Red",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375396417l/8601702._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375396417l/8601702._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8601702-fables-vol-15",
+                "num_pages": 256,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 12,
+                "publication_year": 2011,
+                "publication_month": 4,
+                "average_rating": 4.24,
+                "ratings_count": 10491,
+                "description": "<b>Winner of Fourteen <u>Eisner</u> Awards</b><br /><br /><b>Every Rose has its thorn.</b><br />As the Fables of the mundane world try desperately to shield themselves from the withering power of Mister Dark, Rose Red - the Farm's ostensible leader - is finally jolted out of her crippling depression and into action by a timely revelation from her storybook past. Her epiphany comes not a moment too soon - as more and more of New York City falls under Mister Dark's malign power, the chances of striking a decisive blow against him are getting smaller by the hour. Luckily, the survivors of Fabletown have the world's most powerful witch on their side - and she well may be the only entity more ruthless than the Dark Man himself.<br />Including the special oversized 100th issue of writer Bill Willingham's acclaimed creation.<br /><br /><b>Collecting</b>: <i>Fables</i> 94-100",
+                "authors": {
+                    "author": {
+                        "id": 12444,
+                        "name": "Bill Willingham",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p5/12444.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p2/12444.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12444.Bill_Willingham",
+                        "average_rating": 4.04,
+                        "ratings_count": 583176,
+                        "text_reviews_count": 25138
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 13471639,
+                    "uri": "kca://work/amzn1.gr.work.v1.bXzczNiRow0xOTfO_OPruw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051891631
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:43:24 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813203680,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:20:59 -0800 2013",
+            "date_updated": "Mon Oct 23 16:43:24 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528960136",
+            "link": "https://www.goodreads.com/review/show/528960136",
+            "owned": 0
+        }
+    }
+}

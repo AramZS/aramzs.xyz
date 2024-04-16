@@ -1,0 +1,729 @@
+{
+    "name": "Del Rey Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Iron Gold (Red Rising Saga, #4)",
+            "id": "33257757",
+            "author": "Pierce Brown",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1543267400000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/33257757",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Hardcover",
+                "Del Rey Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "042528591X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780425285916",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "33257757",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Only Human (Themis Files, #3)",
+            "id": "35820656",
+            "author": "Sylvain Neuvel",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1543267395000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/35820656",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Hardcover",
+                "Del Rey Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0399180117",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780399180118",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "35820656",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Canto Bight (Journey to Star Wars: The Last Jedi, #1)",
+            "id": "35798468",
+            "author": "Saladin Ahmed, Rae Carson, Mira Grant, John Jackson Miller",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1521548246000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Canto Bight (Journey to Star Wars: The Last Jedi, #1): Rating - 3/5",
+                    "date": 1521548246000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/35798468",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Hardcover",
+                "Del Rey Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "152479953X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781524799533",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "35798468",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",
+            "id": "13",
+            "author": "Douglas Adams",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1417711342000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5): Rating - 5/5",
+                    "date": 1417711342000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Paperback",
+                "Del Rey Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0345453743",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780345453747",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "13",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "How Few Remain (Timeline-191, #1)",
+            "id": "842939",
+            "author": "Harry Turtledove",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146601000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/842939",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Del Rey Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0345406141",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780345406149",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "842939",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+            "id": "11",
+            "author": "Douglas Adams",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360254969000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1): Rating - 5/5",
+                    "date": 1360254969000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Del Rey Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "11",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Running with the Demon (Word & Void, #1)",
+            "id": "187124",
+            "author": "Terry Brooks",
+            "date_finished": 1356652800000,
+            "notes": [],
+            "date_started": 1359432515000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Running with the Demon (Word & Void, #1): Rating - 5/5",
+                    "date": 1356652800000,
+                    "type": "long",
+                    "content": "Terry Brooks' Running with Demon is the prototypical urban fantasy novel. Published in 1997, it is one of the earliest novels to approach the genre and gain widespread readership.<br/><br/>Running with the Demon introduces Brooks' world of the Word and the Void, opposing forces of chaos and order that set the stage for a well-developed unique moral relativity that serves as the bedrock of a unique narrative. <br/><br/>The book features excellent characters, a unique and interesting approach to its world of magic, and a riveting plot. If you've ever enjoyed an urban fantasy novel, you're certain to like this book. Brooks manages to remain accessible while writing detailed and reasonably complex prose, so If you've never tried out the genre, this is a great place to start. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/187124",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Hardcover",
+                "Del Rey Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0345379624",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780345379627",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "187124",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "A Knight of the Word (Word & Void, #2)",
+            "id": "420496",
+            "author": "Terry Brooks",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1359431202000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of A Knight of the Word (Word & Void, #2): Rating - 5/5",
+                    "date": 1359431202000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/420496",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Del Rey Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0345424646",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780345424648",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "420496",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Man with the Iron Heart",
+            "id": "2175864",
+            "author": "Harry Turtledove",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1220443956000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Man with the Iron Heart: Rating - 5/5",
+                    "date": 1220443956000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2175864",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Hardcover",
+                "Del Rey Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0345504348",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780345504340",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "2175864",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Canto Bight (Journey to Star Wars: The Last Jedi, #1)",
+            "id": 35798468,
+            "author": "Saladin Ahmed",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/35798468",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Hardcover",
+                "Del Rey Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "152479953X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 35798468,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Man with the Iron Heart",
+            "id": 2175864,
+            "author": "Harry Turtledove",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/2175864",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Hardcover",
+                "Del Rey Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 2175864,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",
+            "id": 13,
+            "author": "Douglas Adams",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Paperback",
+                "Del Rey Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 13,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Running with the Demon (Word & Void, #1)",
+            "id": 187124,
+            "author": "Terry Brooks",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/187124",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Hardcover",
+                "Del Rey Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 187124,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "A Knight of the Word (Word & Void, #2)",
+            "id": 420496,
+            "author": "Terry Brooks",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/420496",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Del Rey Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 420496,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",
+            "id": 11,
+            "author": "Douglas Adams",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/11",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Del Rey Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Del Rey Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 11,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

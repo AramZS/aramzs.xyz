@@ -1,0 +1,141 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 39262769,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 11208
+                },
+                "isbn": 452287073,
+                "isbn13": 9780452287075,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1185
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.apoDNAKIt7M11KxHxoupgg",
+                "title": "How the García Girls Lost Their Accents",
+                "title_without_series": "How the García Girls Lost Their Accents",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/11208.How_the_Garc_a_Girls_Lost_Their_Accents",
+                "num_pages": 304,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Plume",
+                "publication_day": 4,
+                "publication_year": 2005,
+                "publication_month": 10,
+                "average_rating": 3.64,
+                "ratings_count": 23111,
+                "description": "Uprooted from their family home in the Dominican Republic, the four Garcia sisters - Carla, Sandra, Yolanda, and Sofia - arrive in New York City in 1960 to find a life far different from the genteel existence of maids, manicures, and extended family they left behind. What they have lost - and what they find - is revealed in the fifteen interconnected stories that make up this exquisite novel from one of the premier novelists of our time.",
+                "authors": {
+                    "author": {
+                        "id": 7277,
+                        "name": "Julia Alvarez",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1586195358p5/7277.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1586195358p2/7277.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7277.Julia_Alvarez",
+                        "average_rating": 3.93,
+                        "ratings_count": 107390,
+                        "text_reviews_count": 9847
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 92888,
+                    "uri": "kca://work/amzn1.gr.work.v1.QuZJ95DJTU97eEFYsrafHw"
+                }
+            },
+            "user_statuses": {
+                "user_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 147774
+                    },
+                    "page": {
+                        "type": "integer",
+                        "$t": 110
+                    },
+                    "chapter": {
+                        "type": "integer"
+                    },
+                    "comments_count": 0,
+                    "created_at": {
+                        "type": "datetime",
+                        "$t": "Wed Dec 03 22:42:55 -0800 2008"
+                    },
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Dec 03 22:42:55 -0800 2008"
+                    },
+                    "last_comment_at": {
+                        "type": "datetime"
+                    },
+                    "ratings_count": {
+                        "type": "integer",
+                        "$t": 0
+                    },
+                    "percent": {
+                        "type": "integer"
+                    },
+                    "work_id": {
+                        "type": "integer"
+                    },
+                    "note_uri": {},
+                    "note_updated_at": {
+                        "type": "datetime"
+                    },
+                    "body": {}
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Mar 02 10:08:10 -0800 2009",
+            "date_added": "Wed Dec 03 22:42:30 -0800 2008",
+            "date_updated": "Mon Mar 02 10:08:10 -0800 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/39262769",
+            "link": "https://www.goodreads.com/review/show/39262769",
+            "owned": 0
+        }
+    }
+}

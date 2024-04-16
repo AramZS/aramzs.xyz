@@ -1,0 +1,51 @@
+{
+    "name": "Holt Paperbacks",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Friends of Eddie Coyle",
+            "id": "8562108",
+            "author": "George V. Higgins",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1433543325000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8562108",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Holt Paperbacks",
+            "tags": [
+                "Kindle Edition",
+                "Holt Paperbacks",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "8562108",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

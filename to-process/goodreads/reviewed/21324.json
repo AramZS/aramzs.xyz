@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528959887,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 21324
+                },
+                "isbn": 1401210015,
+                "isbn13": 9781401210014,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 573
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.jNTp8wKGFBunusJXI5vaug",
+                "title": "Fables, Vol. 8: Wolves",
+                "title_without_series": "Fables, Vol. 8: Wolves",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375393296l/21324._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375393296l/21324._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/21324.Fables_Vol_8",
+                "num_pages": 160,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 20,
+                "publication_year": 2006,
+                "publication_month": 12,
+                "average_rating": 4.27,
+                "ratings_count": 19540,
+                "description": "<b>Winner of Fourteen <u>Eisner</u> Awards</b><br /><br /><b>Into the woods.</b><br />The community of Fables living undercover in our midst has endured plenty of suffering at the hands of their longtime antagonist, the Adversary. Now it's time to return the favor and put the would-be conqueror on notice that the cost of subjugating this last stronghold of magic will be higher than he can bear. The one Fable who can accomplish this mission, however, has hidden himself away in the wild and will take some convincing if he can even be found. Luckily for Fabletown, there's something more than a trip behind enemy lines awaiting Bigby Wolf's return...<br /><br /><b>Collecting</b>: <i>Fables</i> 48-51",
+                "authors": {
+                    "author": {
+                        "id": 12444,
+                        "name": "Bill Willingham",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p5/12444.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p2/12444.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12444.Bill_Willingham",
+                        "average_rating": 4.04,
+                        "ratings_count": 583176,
+                        "text_reviews_count": 25138
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 22505,
+                    "uri": "kca://work/amzn1.gr.work.v1.-BJJmhQznXePgfgY5emvNw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051892132
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:43:53 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813204094,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:20:36 -0800 2013",
+            "date_updated": "Mon Oct 23 16:43:55 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528959887",
+            "link": "https://www.goodreads.com/review/show/528959887",
+            "owned": 0
+        }
+    }
+}

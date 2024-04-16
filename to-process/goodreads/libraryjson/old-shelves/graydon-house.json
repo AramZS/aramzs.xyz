@@ -1,0 +1,104 @@
+{
+    "name": "Graydon House",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "One Night Gone",
+            "id": "42867786",
+            "author": "Tara Laskowski",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1580567816000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of One Night Gone: Rating - 4/5",
+                    "date": 1580567816000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/42867786",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Graydon House",
+            "tags": [
+                "Paperback",
+                "Graydon House",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1525832190",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781525832192",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "42867786",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "One Night Gone",
+            "id": 42867786,
+            "author": "Tara Laskowski",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/42867786",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Graydon House",
+            "tags": [
+                "Paperback",
+                "Graydon House",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 42867786,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2333633879,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20706284
+                },
+                "isbn": 316246654,
+                "isbn13": 9780316246651,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2802
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.fGIToZ6ji4Qh2U0x8YUCgg",
+                "title": "Ancillary Sword (Imperial Radch #2)",
+                "title_without_series": "Ancillary Sword",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413464739l/20706284._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413464739l/20706284._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20706284-ancillary-sword",
+                "num_pages": 356,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 7,
+                "publication_year": 2014,
+                "publication_month": 10,
+                "average_rating": 4.06,
+                "ratings_count": 38797,
+                "description": "Breq is a soldier who used to be a warship. Once a weapon of conquest controlling thousands of minds, now she has only a single body and serves the emperor.<br /><br />With a new ship and a troublesome crew, Breq is ordered to go to the only place in the galaxy she would agree to go: to Athoek Station to protect the family of a lieutenant she once knew - a lieutenant she murdered in cold blood.<br /><br />Ann Leckie's Imperial Radch trilogy has become one of the new classics of science fiction. Beautifully written and forward thinking, it does what good science fiction does best, taking readers to bold new worlds with plenty explosions along the way.",
+                "authors": {
+                    "author": {
+                        "id": 3365457,
+                        "name": "Ann Leckie",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1402526383p5/3365457.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1402526383p2/3365457.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3365457.Ann_Leckie",
+                        "average_rating": 4.02,
+                        "ratings_count": 173495,
+                        "text_reviews_count": 18640
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 40026175,
+                    "uri": "kca://work/amzn1.gr.work.v1.a7YgNWwhj-GJclDvhs0F0w"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2274326006
+                        },
+                        "old_status": "read",
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Mar 20 05:21:31 -0700 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2274326002
+                        },
+                        "old_status": {},
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Mar 20 05:21:31 -0700 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1979851282,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Mar 20 05:21:31 -0700 2018",
+            "date_updated": "Tue Mar 20 05:21:49 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2333633879",
+            "link": "https://www.goodreads.com/review/show/2333633879",
+            "owned": 0
+        }
+    }
+}

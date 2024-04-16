@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789424193,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 588138
+                },
+                "isbn": 691017840,
+                "isbn13": 9780691017846,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1409
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.N-Xoi09LX2EPWIsi3pPM7w",
+                "title": "The Hero With a Thousand Faces",
+                "title_without_series": "The Hero With a Thousand Faces",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces",
+                "num_pages": 416,
+                "format": {},
+                "edition_information": "2nd edition Bollingen Series XVII",
+                "publisher": "Princeton University Press",
+                "publication_day": 1,
+                "publication_year": 1972,
+                "publication_month": 3,
+                "average_rating": 4.18,
+                "ratings_count": 29718,
+                "description": "<p>The first popular work to combine the spiritual and psychological insights of modern psychoanalysis with the archetypes of world mythology, the book creates a roadmap for navigating the frustrating path of contemporary life. Examining heroic myths in the light of modern psychology, it considers not only the patterns and stages of mythology but also its relevance to our lives today--and to the life of any person seeking a fully realized existence.<br /><br />Myth, according to Campbell, is the projection of a culture's dreams onto a large screen; Campbell's book, like <i>Star Wars</i>, the film it helped inspire, is an exploration of the big-picture moments from the stage that is our world. It is a must-have resource for both experienced students of mythology and the explorer just beginning to approach myth as a source of knowledge.</p>",
+                "authors": {
+                    "author": {
+                        "id": 20105,
+                        "name": "Joseph Campbell",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1429114498p5/20105.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1429114498p2/20105.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/20105.Joseph_Campbell",
+                        "average_rating": 4.29,
+                        "ratings_count": 235313,
+                        "text_reviews_count": 6763
+                    }
+                },
+                "published": 1972,
+                "work": {
+                    "id": 971054,
+                    "uri": "kca://work/amzn1.gr.work.v1.aMdcL_VyBQKnTtb8yLzUKg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240476299
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 09:01:31 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2009",
+            "date_added": "Fri Dec 13 09:01:31 -0800 2013",
+            "date_updated": "Fri Dec 20 12:55:18 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789424193",
+            "link": "https://www.goodreads.com/review/show/789424193",
+            "owned": 0
+        }
+    }
+}

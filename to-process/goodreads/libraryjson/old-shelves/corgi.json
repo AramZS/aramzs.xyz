@@ -1,0 +1,843 @@
+{
+    "name": "Corgi",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Colour of Magic (Discworld, #1)",
+            "id": "601238",
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1455588009000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Colour of Magic (Discworld, #1): Rating - 5/5",
+                    "date": 1455588009000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/601238",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Mass Market Paperback",
+                "Corgi",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0552124753",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780552124751",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "601238",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Last Continent (Discworld, #22; Rincewind #6)",
+            "id": "47994",
+            "author": "Terry Pratchett",
+            "date_finished": 1372636800000,
+            "notes": [],
+            "date_started": 1390425860000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Last Continent (Discworld, #22; Rincewind #6): Rating - 3/5",
+                    "date": 1372636800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/47994",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0552154180",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780552154185",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "47994",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Reaper Man (Discworld, #11; Death, #2)",
+            "id": "34517",
+            "author": "Terry Pratchett",
+            "date_finished": 1372636800000,
+            "notes": [],
+            "date_started": 1390425853000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Reaper Man (Discworld, #11; Death, #2): Rating - 5/5",
+                    "date": 1372636800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34517",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0552152951",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780552152952",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34517",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Moving Pictures (Discworld, #10; Industrial Revolution, #1)",
+            "id": "34510",
+            "author": "Terry Pratchett",
+            "date_finished": 1375315200000,
+            "notes": [],
+            "date_started": 1390425800000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Moving Pictures (Discworld, #10; Industrial Revolution, #1): Rating - 4/5",
+                    "date": 1375315200000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34510",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0552152943",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780552152945",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34510",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Lords and Ladies (Discworld, #14; Witches #4)",
+            "id": "34529",
+            "author": "Terry Pratchett",
+            "date_finished": 1375315200000,
+            "notes": [],
+            "date_started": 1390425787000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Lords and Ladies (Discworld, #14; Witches #4): Rating - 4/5",
+                    "date": 1375315200000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34529",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "055215315X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780552153157",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34529",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Thud! (Discworld, #34; City Watch #7)",
+            "id": "62530",
+            "author": "Terry Pratchett",
+            "date_finished": 1377993600000,
+            "notes": [],
+            "date_started": 1390425705000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Thud! (Discworld, #34; City Watch #7): Rating - 5/5",
+                    "date": 1377993600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/62530",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "62530",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Night Watch (Discworld, #29; City Watch, #6)",
+            "id": "47989",
+            "author": "Terry Pratchett",
+            "date_finished": 1377993600000,
+            "notes": [],
+            "date_started": 1390425580000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Night Watch (Discworld, #29; City Watch, #6): Rating - 4/5",
+                    "date": 1377993600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/47989",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "055215430X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780552154307",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "47989",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Fifth Elephant (Discworld, #24; City Watch, #5)",
+            "id": "63720",
+            "author": "Terry Pratchett",
+            "date_finished": 1377993600000,
+            "notes": [],
+            "date_started": 1390425565000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Fifth Elephant (Discworld, #24; City Watch, #5): Rating - 5/5",
+                    "date": 1377993600000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/63720",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0552154229",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780552154222",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "63720",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Feet of Clay (Discworld, #19; City Watch, #3)",
+            "id": "34527",
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213668900000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Feet of Clay (Discworld, #19; City Watch, #3): Rating - 5/5",
+                    "date": 1213668900000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34527",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0552153257",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780552153256",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34527",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Colour of Magic (Discworld, #1)",
+            "id": 601238,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/601238",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Mass Market Paperback",
+                "Corgi",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 601238,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Feet of Clay (Discworld, #19; City Watch, #3)",
+            "id": 34527,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34527",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 34527,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Fifth Elephant (Discworld, #24; City Watch, #5)",
+            "id": 63720,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/63720",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 63720,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Lords and Ladies (Discworld, #14; Witches #4)",
+            "id": 34529,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34529",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "055215315X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 34529,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Moving Pictures (Discworld, #10; Industrial Revolution, #1)",
+            "id": 34510,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34510",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 34510,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Reaper Man (Discworld, #11; Death, #2)",
+            "id": 34517,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34517",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 34517,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Thud! (Discworld, #34; City Watch #7)",
+            "id": 62530,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/62530",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 62530,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Last Continent (Discworld, #22; Rincewind #6)",
+            "id": 47994,
+            "author": "Terry Pratchett",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/47994",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Corgi",
+            "tags": [
+                "Paperback",
+                "Corgi",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 47994,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

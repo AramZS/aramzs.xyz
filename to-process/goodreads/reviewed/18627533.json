@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340872,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18627533
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.GQsfdt_o65nadDc6UnSsTw",
+                "title": "Some Remarks: Essays and Other Writing",
+                "title_without_series": "Some Remarks: Essays and Other Writing",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18627533-some-remarks",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.71,
+                "ratings_count": 1863,
+                "description": "#1 <em>New York Times</em> bestselling author Neal Stephenson is, quite simply, one of the best and most respected writers alive. He’s taken sf to places it’s never been (<em>Snow Crash</em>, <em>Anathem</em>). He’s reinvented the historical novel (The Baroque Cycle), the international thriller (<em>Reamde</em>), and both at the same time (<em>Cryptonomicon</em>). Now he treats his legion of fans to <em>Some</em> <em>Remarks</em>, an enthralling collection of essays—Stephenson’s first nonfiction work since his long essay on technology, <em>In the Beginning…Was the Command Line</em>, more than a decade ago—as well as new and previously published short writings both fiction and non. <em>Some Remarks</em> is a magnificent showcase of a brilliantly inventive mind and talent, as he discourses on everything from Sir Isaac Newton to <em>Star Wars</em>. <br /><br /><br />Contents:<br />Arsebestos (2012) --<br />Slashdot interview (2004) --<br />Metaphysics in the Royal Society 1715-2010 (2010) --<br />It's all geek to me (2007) --<br />Turn on, tune in, veg out (2006) --<br />Gresham college lecture (2008) --<br />Spew (1994) --<br />In the kingdom of Mao Bell (selected excerpts) (1994) --<br />Under-Constable Proudfoot (2012) --<br />Mother Earth, mother board (1996) --<br />The Salon interview (2004) --<br />Blind secularism (1993) --<br />Time magazine article about Anathem (2012) --<br />Everything and more foreword (2003) --<br />The great simoleon caper (1995) --<br />Locked in (2011) --<br />Innovation starvation (2011) --<br />Why I am a bad correspondent (1998).",
+                "authors": {
+                    "author": {
+                        "id": 545,
+                        "name": "Neal Stephenson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430920344p5/545.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430920344p2/545.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/545.Neal_Stephenson",
+                        "average_rating": 4.05,
+                        "ratings_count": 785181,
+                        "text_reviews_count": 49927
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 18639168,
+                    "uri": "kca://work/amzn1.gr.work.v1.46RfudIvo7VP2RNx_I-gBw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452280908
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:05:25 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710709574,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:05:25 -0700 2014",
+            "date_updated": "Sat Jun 07 06:05:25 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340872",
+            "link": "https://www.goodreads.com/review/show/960340872",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 532180129,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 848837
+                },
+                "isbn": 1582406944,
+                "isbn13": 9781582406947,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 328
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Kh2PKU589Eiu8npCk2N3zw",
+                "title": "Phonogram, Vol. 1: Rue Britannia (Phonogram, #1)",
+                "title_without_series": "Phonogram, Vol. 1: Rue Britannia",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460947199l/848837._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460947199l/848837._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/848837.Phonogram_Vol_1",
+                "num_pages": 152,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 3,
+                "publication_year": 2007,
+                "publication_month": 7,
+                "average_rating": 3.41,
+                "ratings_count": 2694,
+                "description": "Britannia is ten years dead. Phonomancer David Kohl hadn't spared his old patron a thought for almost as long... at which point his mind starts to unravel. Can he discover what's happened to the Mod-Goddess of Britpop while there's still something of himself left? Dark modern-fantasy in a world where music is magic, where a song can save your life or end it.<br /><br />Collects Phonogram: Rue Britannia #1-6.",
+                "authors": {
+                    "author": {
+                        "id": 439887,
+                        "name": "Kieron Gillen",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1533663392p5/439887.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1533663392p2/439887.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/439887.Kieron_Gillen",
+                        "average_rating": 3.97,
+                        "ratings_count": 293977,
+                        "text_reviews_count": 25775
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 834350,
+                    "uri": "kca://work/amzn1.gr.work.v1.8XG2wBBnax0uD0K6b3Nftw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051890327
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:42:08 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 1813202767,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813202759,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Apr 16 12:37:42 -0700 2013",
+            "date_added": "Sun Feb 10 12:09:37 -0800 2013",
+            "date_updated": "Mon Oct 23 16:42:09 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/532180129",
+            "link": "https://www.goodreads.com/review/show/532180129",
+            "owned": 0
+        }
+    }
+}

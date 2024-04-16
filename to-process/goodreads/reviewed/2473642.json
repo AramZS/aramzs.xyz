@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071691679,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2473642
+                },
+                "isbn": 1401218199,
+                "isbn13": 9781401218195,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 56
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.YBrpB0vaB2YRcGWaucpW4g",
+                "title": "Superman and the Legion of Super-Heroes",
+                "title_without_series": "Superman and the Legion of Super-Heroes",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2473642.Superman_and_the_Legion_of_Super_Heroes",
+                "num_pages": 168,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "DC Comics",
+                "publication_day": 22,
+                "publication_year": 2008,
+                "publication_month": 7,
+                "average_rating": 4.01,
+                "ratings_count": 1677,
+                "description": "When he was a boy, Clark Kent was brought to the future by the Legion of Super-Heroes, the galaxy-spanning super-teen-team. Now he has been summoned once again, only to find the Legion broken and under attack by an Earth-based group of super-teens who claim that Superman was a human, and that all aliens must be destroyed!",
+                "authors": {
+                    "author": {
+                        "id": 10305,
+                        "name": "Geoff Johns",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1403679910p5/10305.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1403679910p2/10305.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10305.Geoff_Johns",
+                        "average_rating": 3.96,
+                        "ratings_count": 300460,
+                        "text_reviews_count": 18571
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2480839,
+                    "uri": "kca://work/amzn1.gr.work.v1.W1wVBsql4hvN-mzoQOhyVw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593082842
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:11:53 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813197903,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:11:53 -0700 2014",
+            "date_updated": "Mon Oct 23 16:35:09 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071691679",
+            "link": "https://www.goodreads.com/review/show/1071691679",
+            "owned": 0
+        }
+    }
+}

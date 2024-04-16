@@ -1,0 +1,128 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340382,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19852782
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.iRoy4B3iDovtkTWvS8D_Gw",
+                "title": "Justice League: Trinity War",
+                "title_without_series": "Justice League: Trinity War",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433543023l/19852782._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433543023l/19852782._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19852782-justice-league",
+                "num_pages": 352,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.52,
+                "ratings_count": 2091,
+                "description": "The event that the New 52 has been building towards since the beginning! #1 New York Times best-selling writer Geoff Johns (GREEN LANTERN, BATMAN: EARTH ONE) brings together almost two years of plot threads here in JUSTICE LEAGUE: TRINITY WAR. When the three Justice Leagues go to war with one another, who's side will everyone be on? Allies will be born, friends will become enemies and the DC Universe will never be the same.<br /><br />This new hardcover graphic novel features stunning art from some of the best talents in the industry, including Ivan Reis (AQUMAN VOL. 1: THE TRENCH), David Finch (BATMAN: THE DARK KNIGHT VOL. 1: KNIGHT TERRORS) and Mikel Janin (JUSTICE LEAGUE DARK VOL. 1: IN THE DARK).<br /><br />Collects: FREE COMIC BOOK DAY 2012, TRINITY OF SIN: PANDORA 1-3, TRINITY OF SIN: PHANTOM STRANGER 11, JUSTICE LEAGUE 22-23, JUSTICE LEAGUE DARK 22-23, JUSTICE LEAGUE OF AMERICA 6-7 and CONSTANTINE 5",
+                "authors": {
+                    "author": {
+                        "id": 10305,
+                        "name": "Geoff Johns",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1403679910p5/10305.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1403679910p2/10305.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10305.Geoff_Johns",
+                        "average_rating": 3.96,
+                        "ratings_count": 300460,
+                        "text_reviews_count": 18571
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 25701336,
+                    "uri": "kca://work/amzn1.gr.work.v1.f0d-tACH4E1OSo-sorEZ0w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452280284
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:04:34 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813198854,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:04:33 -0700 2014",
+            "date_updated": "Mon Oct 23 16:36:29 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340382",
+            "link": "https://www.goodreads.com/review/show/960340382",
+            "owned": 0
+        }
+    }
+}

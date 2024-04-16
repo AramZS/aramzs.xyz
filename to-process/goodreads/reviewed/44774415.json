@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065306641,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 44774415
+                },
+                "isbn": "154930304X",
+                "isbn13": 9781549303043,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2070
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.r4bDQwZOJGCF6KVtD4dYrg",
+                "title": "Mooncakes",
+                "title_without_series": "Mooncakes",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565183719l/44774415._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565183719l/44774415._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/44774415-mooncakes",
+                "num_pages": 256,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Oni Press",
+                "publication_day": 22,
+                "publication_year": 2019,
+                "publication_month": 10,
+                "average_rating": 3.88,
+                "ratings_count": 6497,
+                "description": "A story of love and demons, family and witchcraft.<br /><br />Nova Huang knows more about magic than your average teen witch. She works at her grandmothers' bookshop, where she helps them loan out spell books and investigate any supernatural occurrences in their New England town.<br /><br />One fateful night, she follows reports of a white wolf into the woods, and she comes across the unexpected: her childhood crush, Tam Lang, battling a horse demon in the woods. As a werewolf, Tam has been wandering from place to place for years, unable to call any town home.<br /><br />Pursued by dark forces eager to claim the magic of wolves and out of options, Tam turns to Nova for help. Their latent feelings are rekindled against the backdrop of witchcraft, untested magic, occult rituals, and family ties both new and old in this enchanting tale of self-discovery.",
+                "authors": {
+                    "author": {
+                        "id": 7008509,
+                        "name": "Suzanne  Walker",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7008509.Suzanne_Walker",
+                        "average_rating": 3.88,
+                        "ratings_count": 6519,
+                        "text_reviews_count": 2162
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 57982519,
+                    "uri": "kca://work/amzn1.gr.work.v1.V6o1ps_WkWD6HJIoJ97Q-Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244220354
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:21:13 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712840635,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:21:13 -0800 2019",
+            "date_updated": "Thu Nov 28 09:21:13 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065306641",
+            "link": "https://www.goodreads.com/review/show/3065306641",
+            "owned": 0
+        }
+    }
+}

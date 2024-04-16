@@ -1,0 +1,51 @@
+{
+    "name": "Clovercroft Publishing",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Ables",
+            "id": "22490206",
+            "author": "Jeremy  Scott",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1433543336000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22490206",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Clovercroft Publishing",
+            "tags": [
+                "Paperback",
+                "Clovercroft Publishing",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1940262658",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781940262659",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "22490206",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

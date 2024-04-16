@@ -1,0 +1,176 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2244258922,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 36595266
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1480
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-aiC_5rvQI0RiYheR2bmbg",
+                "title": "Fire and Fury: Inside the Trump White House",
+                "title_without_series": "Fire and Fury: Inside the Trump White House",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/36595266-fire-and-fury",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": 5,
+                "publication_year": 2018,
+                "publication_month": 1,
+                "average_rating": 3.43,
+                "ratings_count": 66591,
+                "description": "<b>With extraordinary access to the Trump White House, Michael Wolff tells the inside story of the most controversial presidency of our time</b><br /><br />The first nine months of Donald Trump's term were stormy, outrageous—and absolutely mesmerizing. Now, thanks to his deep access to the West Wing, bestselling author Michael Wolff tells the riveting story of how Trump launched a tenure as volatile and fiery as the man himself.<br /><br />In this explosive book, Wolff provides a wealth of new details about the chaos in the Oval Office. Among the revelations: <br /><br />— What President Trump's staff really thinks of him<br />— What inspired Trump to claim he was wire-tapped by President Obama <br />— Why FBI director James Comey was really fired<br />— Why chief strategist Steve Bannon and Trump's son-in-law Jared Kushner couldn't be in the same room<br />— Who is really directing the Trump administration's strategy in the wake of Bannon's firing<br />— What the secret to communicating with Trump is<br />— What the Trump administration has in common with the movie <i>The Producers</i><br /><br />Never before has a presidency so divided the American people. Brilliantly reported and astoundingly fresh, Michael Wolff's <i>Fire and Fury</i> shows us how and why Donald Trump has become the king of discord and disunion.",
+                "authors": {
+                    "author": {
+                        "id": 188983,
+                        "name": "Michael Wolff",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1516449693p5/188983.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1516449693p2/188983.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/188983.Michael_Wolff",
+                        "average_rating": 3.44,
+                        "ratings_count": 70249,
+                        "text_reviews_count": 9169
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 58345679,
+                    "uri": "kca://work/amzn1.gr.work.v1.XGvkGkw5i5JZcT-1XmCeSA"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2173971659
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sun Jan 14 06:10:00 -0800 2018"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2157419623
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Fri Jan 05 06:31:21 -0800 2018"
+                        },
+                        "ratings_count": 1,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 3,
+            "votes": 1,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Fri Jan 05 06:31:20 -0800 2018",
+            "read_at": "Sun Jan 14 06:10:00 -0800 2018",
+            "date_added": "Fri Jan 05 06:31:20 -0800 2018",
+            "date_updated": "Thu Jan 31 22:50:25 -0800 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 2,
+            "comments": {
+                "start": 1,
+                "end": 2,
+                "total": 2,
+                "comment": [
+                    {
+                        "id": 175291402,
+                        "body": "How is it?",
+                        "user": {
+                            "id": 74154753,
+                            "uri": "kca://profile:goodreads/A19KBA0OO314ZH",
+                            "name": "John",
+                            "display_name": "John Koblan",
+                            "location": "Bedminster, NJ",
+                            "link": "https://www.goodreads.com/user/show/74154753-john-koblan",
+                            "image_url": "https://images.gr-assets.com/users/1511492663p3/74154753.jpg",
+                            "small_image_url": "https://images.gr-assets.com/users/1511492663p2/74154753.jpg",
+                            "has_image": true
+                        },
+                        "created_at": "Tue Jan 09 19:48:22 -0800 2018",
+                        "updated_at": "Tue Jan 09 19:48:22 -0800 2018"
+                    },
+                    {
+                        "id": 175357091,
+                        "body": "<i>John wrote: \"How is it?\"</i><br /><br />Surprisingly poorly written for a book that contains a great deal of interesting events and accounts.",
+                        "user": {
+                            "id": 1244876,
+                            "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                            "name": "Aram",
+                            "display_name": "Aram",
+                            "location": "Long Island City, NY",
+                            "link": "https://www.goodreads.com/user/show/1244876-aram",
+                            "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                            "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                            "has_image": true
+                        },
+                        "created_at": "Thu Jan 11 11:21:29 -0800 2018",
+                        "updated_at": "Thu Jan 11 11:21:29 -0800 2018"
+                    }
+                ]
+            },
+            "url": "https://www.goodreads.com/review/show/2244258922",
+            "link": "https://www.goodreads.com/review/show/2244258922",
+            "owned": 0
+        }
+    }
+}

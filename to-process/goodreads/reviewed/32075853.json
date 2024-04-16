@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629409003,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 32075853
+                },
+                "isbn": 62645129,
+                "isbn13": 9780062645128,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4343
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.JSPLyarNKGMjoUpAYks7Fw",
+                "title": "Erotic Stories for Punjabi Widows",
+                "title_without_series": "Erotic Stories for Punjabi Widows",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493817315l/32075853._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493817315l/32075853._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/32075853-erotic-stories-for-punjabi-widows",
+                "num_pages": 304,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "William Morrow",
+                "publication_day": 13,
+                "publication_year": 2017,
+                "publication_month": 6,
+                "average_rating": 3.9,
+                "ratings_count": 48497,
+                "description": "A lively, sexy, and thought-provoking East-meets-West story about community, friendship, and women’s lives at all ages—a spicy and alluring mix of <em>Together Tea</em> and <em>Calendar Girls.</em><br /><br /><em>Every woman has a secret life . . .</em><br /><br />Nikki lives in cosmopolitan West London, where she tends bar at the local pub. The daughter of Indian immigrants, she’s spent most of her twenty-odd years distancing herself from the traditional Sikh community of her childhood, preferring a more independent (that is, Western) life. When her father’s death leaves the family financially strapped, Nikki, a law school dropout, impulsively takes a job teaching a \"creative writing\" course at the community center in the beating heart of London’s close-knit Punjabi community.<br /><br />Because of a miscommunication, the proper Sikh widows who show up are expecting to learn basic English literacy, not the art of short-story writing. When one of the widows finds a book of sexy stories in English and shares it with the class, Nikki realizes that beneath their white dupattas, her students have a wealth of fantasies and memories. Eager to liberate these modest women, she teaches them how to express their untold stories, unleashing creativity of the most unexpected—and exciting—kind.<br /><br />As more women are drawn to the class, Nikki warns her students to keep their work secret from the Brotherhood, a group of highly conservative young men who have appointed themselves the community’s \"moral police.\" But when the widows’ gossip offers shocking insights into the death of a young wife—a modern woman like Nikki—and some of the class erotica is shared among friends, it sparks a scandal that threatens them all.",
+                "authors": {
+                    "author": {
+                        "id": 6924387,
+                        "name": "Balli Kaur Jaswal",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1475718370p5/6924387.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1475718370p2/6924387.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6924387.Balli_Kaur_Jaswal",
+                        "average_rating": 3.88,
+                        "ratings_count": 56510,
+                        "text_reviews_count": 6851
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 51725836,
+                    "uri": "kca://work/amzn1.gr.work.v1.uC3-S_5bQ-zOVHQ7za2YCA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666055340
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:49:58 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274613204,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:49:57 -0800 2018",
+            "date_updated": "Mon Dec 17 07:49:58 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629409003",
+            "link": "https://www.goodreads.com/review/show/2629409003",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2152173398,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23014513
+                },
+                "isbn": 1628928530,
+                "isbn13": 9781628928532,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 38
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.fIpVJA-MrAoMA93l1sE0Zw",
+                "title": "Koji Kondo's Super Mario Bros. Soundtrack",
+                "title_without_series": "Koji Kondo's Super Mario Bros. Soundtrack",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420944798l/23014513._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420944798l/23014513._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23014513-koji-kondo-s-super-mario-bros-soundtrack",
+                "num_pages": 168,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Bloomsbury Academic",
+                "publication_day": 21,
+                "publication_year": 2015,
+                "publication_month": 5,
+                "average_rating": 3.68,
+                "ratings_count": 293,
+                "description": "Koji Kondo's <i>Super Mario Bros. </i>(1985) score redefined video game music. With under three minutes of music, Kondo put to rest an era of bleeps and bloops-the sterile products of a lab environment-replacing it with one in which game sounds constituted a legitimate form of artistic expression. Andrew Schartmann takes us through the various external factors (e.g., the video game crash of 1983, Nintendo's marketing tactics) that coalesced into a ripe environment in which Kondo's musical experiments could thrive. He then delves into the music itself, searching for reasons why our hearts still dance to the “primitive” 8-bit tunes of a bygone era.<br /><br />What musical features are responsible for Kondo's distinct “Mario sound”? How do the different themes underscore the vastness of Princess Peach's Mushroom Kingdom? And in what ways do the game's sound effects resonate with our physical experience of the world? These and other questions are explored within, through the lens of Kondo's compositional philosophy-one that would influence an entire generation of video game composers. As Kondo himself stated, “we [at Nintendo] were trying to do something that had never been done before.” In this book, Schartmann shows his readers how Kondo and his team not just succeeded, but heralded in a new era of video games.",
+                "authors": {
+                    "author": {
+                        "id": 7268325,
+                        "name": "Andrew Schartmann",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1442946942p5/7268325.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1442946942p2/7268325.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7268325.Andrew_Schartmann",
+                        "average_rating": 3.68,
+                        "ratings_count": 352,
+                        "text_reviews_count": 54
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 42580664,
+                    "uri": "kca://work/amzn1.gr.work.v1.K19u9ay7pNGGOSc8SJOA8A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2038856768
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Oct 13 11:20:35 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1803398173,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Oct 13 11:20:35 -0700 2017",
+            "date_updated": "Fri Oct 13 11:20:35 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2152173398",
+            "link": "https://www.goodreads.com/review/show/2152173398",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "name": "HarperCollins ",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Crooked Little Vein",
+            "id": "6583540",
+            "author": "Warren Ellis",
+            "date_finished": 1420070400000,
+            "notes": [],
+            "date_started": 1451576573000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Crooked Little Vein: Rating - 3/5",
+                    "date": 1420070400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6583540",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "HarperCollins ",
+            "tags": [
+                "Kindle Edition",
+                "HarperCollins ",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6583540",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

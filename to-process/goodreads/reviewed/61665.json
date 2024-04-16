@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1123153599,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 61665
+                },
+                "isbn": 345379187,
+                "isbn13": 9780345379184,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 394
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.5nvfFIXutgZ2hDzv1-ajag",
+                "title": "Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium",
+                "title_without_series": "Billions & Billions: Thoughts on Life and Death at the Brink of the Millennium",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366573520l/61665._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366573520l/61665._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/61665.Billions_Billions",
+                "num_pages": 296,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Ballantine Books",
+                "publication_day": 12,
+                "publication_year": 1998,
+                "publication_month": 5,
+                "average_rating": 4.28,
+                "ratings_count": 14261,
+                "description": "In the final book of his astonishing career, Carl Sagan brilliantly examines the burning questions of our lives, our world, and the universe around us. These luminous, entertaining essays travel both the vastness of the cosmos and the intimacy of the human mind, posing such fascinating questions as how did the universe originate and how will it end, and how can we meld science and compassion to meet the challenges of the coming century? Here, too, is a rare, private glimpse of Sagan's thoughts about love, death, and God as he struggled with fatal disease. Ever forward-looking and vibrant with the sparkle of his unquenchable curiosity, <i>Billions &amp; Billions</i> is a testament to one of the great scientific minds of our day.",
+                "authors": {
+                    "author": {
+                        "id": 10538,
+                        "name": "Carl Sagan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1475953320p5/10538.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1475953320p2/10538.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10538.Carl_Sagan",
+                        "average_rating": 4.24,
+                        "ratings_count": 393309,
+                        "text_reviews_count": 12912
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 1321045,
+                    "uri": "kca://work/amzn1.gr.work.v1.NyAYzQfeNM-ydhWoukW8vw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 658855207
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 04 08:53:34 -0800 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847061307,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 04 08:53:34 -0800 2014",
+            "date_updated": "Thu Dec 04 08:53:35 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1123153599",
+            "link": "https://www.goodreads.com/review/show/1123153599",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960344367,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13278636
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 47
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.VU8K2EquH_WhxGXZBXF0-A",
+                "title": "Glitches (Lunar Chronicles, #0.5)",
+                "title_without_series": "Glitches",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336363082l/13278636._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336363082l/13278636._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13278636-glitches",
+                "num_pages": 32,
+                "format": {},
+                "edition_information": {},
+                "publisher": "Tor Books",
+                "publication_day": 18,
+                "publication_year": 2012,
+                "publication_month": 1,
+                "average_rating": 3.99,
+                "ratings_count": 20388,
+                "description": "Cinder, a gifted mechanic, is a cyborg. She’s a second-class citizen with a mysterious past, reviled by her stepmother and blamed for her stepsister’s illness. In Glitches, a short prequel story to Cinder, we see the results of that illness play out, and the emotional toll that takes on Cinder. Something that may, or may not, be a glitch…",
+                "authors": {
+                    "author": {
+                        "id": 4684322,
+                        "name": "Marissa Meyer",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1558121336p5/4684322.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1558121336p2/4684322.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4684322.Marissa_Meyer",
+                        "average_rating": 4.23,
+                        "ratings_count": 1803354,
+                        "text_reviews_count": 196691
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 18455512,
+                    "uri": "kca://work/amzn1.gr.work.v1.LmvnpLVdzZQjLzm2pwNogA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452285260
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:11:21 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:11:21 -0700 2014",
+            "date_updated": "Sat Jun 07 06:11:21 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960344367",
+            "link": "https://www.goodreads.com/review/show/960344367",
+            "owned": 0
+        }
+    }
+}

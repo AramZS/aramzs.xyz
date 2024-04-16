@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 33839281,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3202905
+                },
+                "isbn": "044657788X",
+                "isbn13": 9780446577885,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1127
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.KWbnidCNgL9QWHw7vmfGSw",
+                "title": "The Book of Lies",
+                "title_without_series": "The Book of Lies",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3202905-the-book-of-lies",
+                "num_pages": 334,
+                "format": "Hardcover",
+                "edition_information": "First Edition",
+                "publisher": "Grand Central Publishing",
+                "publication_day": 2,
+                "publication_year": 2008,
+                "publication_month": 9,
+                "average_rating": 3.61,
+                "ratings_count": 11561,
+                "description": "<b>\n  <blockquote>In Chapter Four of the Bible, Cain kills Abel. It is the world's most famous murder. But the Bible is silent about one key detail: the weapon Cain used to kill his brother. That weapon is still lost to history.</blockquote>\n</b>In 1932, Mitchell Siegel was killed by three gunshots to his chest. While mourning, his son dreamed of a bulletproof man and created the world's greatest hero: Superman. And like Cain's murder weapon, the gun used in this unsolved murder has never been found.<p>Today in Fort Lauderdale, Florida, Cal Harper comes face-to-face with his own family tragedy: his long-missing father has been shot with a gun that traces back to Mitchell Siegel's 1932 murder. But soon after their surprising reunion, Cal and his father are attacked by a ruthless killer tattooed with the ancient markings of Cain.</p><p>So begins the chase for the world's first murder weapon. It is a race that will pull Cal back into his own past even as it propels him forward through the true story of Cain and Abel, an eighty-year-old unsolvable puzzle, and the deadly organization known for the past century as the Leadership.</p><p>What does Cain, history's greatest villain, have to do with Superman, the world's greatest hero? And what do two murders, committed thousands of years apart, have in common? This is the mystery at the heart of Brad Meltzer's new thriller.</p>",
+                "authors": {
+                    "author": {
+                        "id": 14610,
+                        "name": "Brad Meltzer",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1507411625p5/14610.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1507411625p2/14610.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14610.Brad_Meltzer",
+                        "average_rating": 3.87,
+                        "ratings_count": 206166,
+                        "text_reviews_count": 16532
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 3236143,
+                    "uri": "kca://work/amzn1.gr.work.v1.GioIenYDr-bbvN2fhyBwDg"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Sep 25 14:28:32 -0700 2008",
+            "date_updated": "Thu Sep 25 14:28:38 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/33839281",
+            "link": "https://www.goodreads.com/review/show/33839281",
+            "owned": 0
+        }
+    }
+}

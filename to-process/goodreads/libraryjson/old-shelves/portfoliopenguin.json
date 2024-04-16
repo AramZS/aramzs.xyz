@@ -1,0 +1,51 @@
+{
+    "name": "Portfolio/Penguin",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "All the Devils are Here: The Hidden History of the Financial Crisis",
+            "id": "8834784",
+            "author": "Bethany McLean, Joe Nocera",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1514491129000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/8834784",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Portfolio/Penguin",
+            "tags": [
+                "Hardcover",
+                "Portfolio/Penguin",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1591843634",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781591843634",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "8834784",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

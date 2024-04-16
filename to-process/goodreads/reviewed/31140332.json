@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1972231658,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 31140332
+                },
+                "isbn": 1780894848,
+                "isbn13": 9781780894843,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1819
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.EhRFr78akyV3FZZITI5VKg",
+                "title": "Thrawn (Star Wars: Thrawn, #1)",
+                "title_without_series": "Thrawn",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468787895l/31140332._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468787895l/31140332._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/31140332-thrawn",
+                "num_pages": 427,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Random House",
+                "publication_day": 6,
+                "publication_year": 2017,
+                "publication_month": 4,
+                "average_rating": 4.27,
+                "ratings_count": 24444,
+                "description": "One of the most cunning and ruthless warriors in the history of the Galactic Empire, Grand Admiral Thrawn is also one of the most captivating characters in the Star Wars universe, from his introduction in bestselling author Timothy Zahn’s classic Heir to the Empire through his continuing adventures in Dark Force Rising, The Last Command, and beyond. But Thrawn’s origins and the story of his rise in the Imperial ranks have remained mysterious. Now, in Star Wars: Thrawn, Timothy Zahn chronicles the fateful events that launched the blue-skinned, red-eyed master of military strategy and lethal warfare into the highest realms of power—and infamy.<br /><br />After Thrawn is rescued from exile by Imperial soldiers, his deadly ingenuity and keen tactical abilities swiftly capture the attention of Emperor Palpatine. And just as quickly, Thrawn proves to be as indispensable to the Empire as he is ambitious; as devoted as its most loyal servant, Darth Vader; and a brilliant warrior never to be underestimated. On missions to rout smugglers, snare spies, and defeat pirates, he triumphs time and again—even as his renegade methods infuriate superiors while inspiring ever greater admiration from the Empire. As one promotion follows another in his rapid ascension to greater power, he schools his trusted aide, Ensign Eli Vanto, in the arts of combat and leadership, and the secrets of claiming victory. But even though Thrawn dominates the battlefield, he has much to learn in the arena of politics, where ruthless administrator Arihnda Pryce holds the power to be a potent ally or a brutal enemy.<br /><br />All these lessons will be put to the ultimate test when Thrawn rises to admiral and must pit all the knowledge, instincts, and battle forces at his command against an insurgent uprising that threatens not only innocent lives but also the Empire’s grip on the galaxy—and his own carefully laid plans for future ascendancy.",
+                "authors": {
+                    "author": {
+                        "id": 12479,
+                        "name": "Timothy Zahn",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p5/12479.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1215545810p2/12479.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12479.Timothy_Zahn",
+                        "average_rating": 4.07,
+                        "ratings_count": 363187,
+                        "text_reviews_count": 15929
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 51766424,
+                    "uri": "kca://work/amzn1.gr.work.v1.ct8vl9orAWMC40j1wM9Blw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801149781
+                        },
+                        "old_status": {},
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:12:53 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801149773
+                        },
+                        "old_status": {},
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:12:52 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Apr 19 00:00:00 -0700 2017",
+            "date_added": "Sat Apr 15 07:12:51 -0700 2017",
+            "date_updated": "Thu May 18 07:27:47 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1972231658",
+            "link": "https://www.goodreads.com/review/show/1972231658",
+            "owned": 0
+        }
+    }
+}

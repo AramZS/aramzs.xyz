@@ -1,0 +1,104 @@
+{
+    "name": "William Morrow Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Ocean at the End of the Lane",
+            "id": "15783514",
+            "author": "Neil Gaiman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386947952000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Ocean at the End of the Lane: Rating - 4/5",
+                    "date": 1386947952000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/15783514",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "William Morrow Books",
+            "tags": [
+                "Hardcover",
+                "William Morrow Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0062255657",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780062255655",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "15783514",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Ocean at the End of the Lane",
+            "id": 15783514,
+            "author": "Neil Gaiman",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/15783514",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "William Morrow Books",
+            "tags": [
+                "Hardcover",
+                "William Morrow Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 15783514,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

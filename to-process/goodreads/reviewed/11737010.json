@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 462158461,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 11737010
+                },
+                "isbn": 143120352,
+                "isbn13": 9780143120353,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 126
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.7jHqYWbq02OzLumsofwD8Q",
+                "title": "Alien vs. Predator",
+                "title_without_series": "Alien vs. Predator",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336000197l/11737010._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336000197l/11737010._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/11737010-alien-vs-predator",
+                "num_pages": 88,
+                "format": "Paperback",
+                "edition_information": "Penguin Poets",
+                "publisher": "Penguin Books Ltd",
+                "publication_day": 27,
+                "publication_year": 2012,
+                "publication_month": 3,
+                "average_rating": 3.52,
+                "ratings_count": 1229,
+                "description": "<b> The debut collection of a poet whose savage, hilarious work has already received extraordinary notice. </b><br /><br />Since his poems first began to appear in the pages of <i>The New Yorker</i> and <i>Poetry</i>, there has been a lot of excited talk about the fresh and inventive work of Michael Robbins. Equal parts hip- hop, John Berryman, and capitalism seeking death and not finding it, Robbins's poems are strange, wonderful, wild, and completely unlike anything else being written today. As allusive as the Cantos, as aggressive as a circular saw, this debut collection will offend none but the virtuous, and is certain to receive an enormous amount of attention.",
+                "authors": {
+                    "author": {
+                        "id": 4953499,
+                        "name": "Michael  Robbins",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4953499.Michael_Robbins",
+                        "average_rating": 3.52,
+                        "ratings_count": 1568,
+                        "text_reviews_count": 187
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 16686193,
+                    "uri": "kca://work/amzn1.gr.work.v1.qpVzWOpExU64YXaDz0sTtg"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 307859017,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Nov 23 19:31:10 -0800 2012",
+            "date_updated": "Fri Nov 23 19:31:10 -0800 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/462158461",
+            "link": "https://www.goodreads.com/review/show/462158461",
+            "owned": 0
+        }
+    }
+}

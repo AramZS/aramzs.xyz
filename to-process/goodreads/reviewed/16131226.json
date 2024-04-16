@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 702950775,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16131226
+                },
+                "isbn": 1455529397,
+                "isbn13": 9781455529391,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 215
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.TLAg5sm_A8fSrwIPEXhIDQ",
+                "title": "This is How You Die: Stories of the Inscrutable, Infallible, Inescapable Machine of Death (Machine of Death, #2)",
+                "title_without_series": "This is How You Die: Stories of the Inscrutable, Infallible, Inescapable Machine of Death",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373996606l/16131226._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373996606l/16131226._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16131226-this-is-how-you-die",
+                "num_pages": 508,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Grand Central Publishing",
+                "publication_day": 16,
+                "publication_year": 2013,
+                "publication_month": 7,
+                "average_rating": 4.12,
+                "ratings_count": 1821,
+                "description": "If a machine could predict how you would die, would you want to know? This is the tantalizing premise of This Is How You Die, the brilliant follow-up anthology to the self-published best seller, Machine of Death.<br />The machines started popping up around the world. The offer was tempting: With a simple blood test, anyone could know how they would die. But the machines didn't give dates or specific circumstances - just a single word or phrase. DROWNED, CANCER, OLD AGE, CHOKED ON A HANDFUL OF POPCORN. And though the predictions were always accurate, they were also often frustratingly vague. OLD AGE, it turned out, could mean either dying of natural causes, or being shot by an elderly, bedridden man in a botched home invasion. The machines held on to that old-world sense of irony in death: You can know how it's going to happen, but you'll still be surprised when it does.<br />This addictive anthology - sinister, witty, existential, and fascinating - collects the best of the thousands of story submissions the editors received in the wake of the success of the first volume, and exceeds the first in every way.<br /><br />Length: 15 hrs and 38 mins <br />Unabridged Audiobook",
+                "authors": {
+                    "author": {
+                        "id": 45763,
+                        "name": "Ryan North",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1516738257p5/45763.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1516738257p2/45763.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/45763.Ryan_North",
+                        "average_rating": 4.14,
+                        "ratings_count": 96210,
+                        "text_reviews_count": 10349
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21956771,
+                    "uri": "kca://work/amzn1.gr.work.v1.-hfujrG4luIct4WgkuAA6w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 132189205
+                    },
+                    "old_status": {},
+                    "status": "currently-reading",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Aug 24 15:26:05 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 498066367,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Aug 24 15:26:05 -0700 2013",
+            "read_at": {},
+            "date_added": "Sat Aug 24 15:26:05 -0700 2013",
+            "date_updated": "Sat Aug 24 15:26:05 -0700 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/702950775",
+            "link": "https://www.goodreads.com/review/show/702950775",
+            "owned": 0
+        }
+    }
+}

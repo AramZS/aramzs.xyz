@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 702951364,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34541
+                },
+                "isbn": 61051586,
+                "isbn13": 9780061051586,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 769
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.DEyY6Hk0Z-4qy73-8Qqowg",
+                "title": "Carpe Jugulum (Discworld #23; Witches #6)",
+                "title_without_series": "Carpe Jugulum",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34541.Carpe_Jugulum",
+                "num_pages": 296,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Harper Voyager",
+                "publication_day": 8,
+                "publication_year": 1999,
+                "publication_month": 9,
+                "average_rating": 4.15,
+                "ratings_count": 50820,
+                "description": "In a fit of enlightenment democracy and ebullient goodwill, King Verence invites Uberwald's undead, the Magpyrs, into Lancre to celebrate the birth of his daughter. But once ensconced within the castle, these wine-drinking, garlic-eating, sun-loving modern vampires have no intention of leaving. Ever.<br /><br />Only an uneasy alliance between a nervous young priest and the argumentative local witches can save the country from being taken over by people with a cultivated bloodlust and bad taste in silk waistcoats. For them, there's only one way to fight.<br /><br />Go for the throat, or as the vampyres themselves say...Carpe Jugulum",
+                "authors": {
+                    "author": {
+                        "id": 1654,
+                        "name": "Terry Pratchett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p5/1654.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1235562205p2/1654.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1654.Terry_Pratchett",
+                        "average_rating": 4.16,
+                        "ratings_count": 4116478,
+                        "text_reviews_count": 146202
+                    }
+                },
+                "published": 1999,
+                "work": {
+                    "id": 1494234,
+                    "uri": "kca://work/amzn1.gr.work.v1.mvrEoBFiYYdvccj3T6i2sQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 132189947
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Aug 24 15:27:09 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Sep 01 00:00:00 -0700 2013",
+            "date_added": "Sat Aug 24 15:27:09 -0700 2013",
+            "date_updated": "Wed Jan 22 13:19:33 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/702951364",
+            "link": "https://www.goodreads.com/review/show/702951364",
+            "owned": 0
+        }
+    }
+}

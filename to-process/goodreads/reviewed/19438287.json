@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340915,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19438287
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 50
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.KRyCnptODQn0yJKkUG-Hdw",
+                "title": "The Mongoliad (The Mongoliad Cycle Book 1)",
+                "title_without_series": "The Mongoliad",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19438287-the-mongoliad",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.5,
+                "ratings_count": 8609,
+                "description": "<b>With bonus material!</b> This Kindle edition features extra content only found in the Collector’s Edition of <i>The Mongoliad: Book One</i>, including an illustrated character glossary, a Foreworld map, and Sinner, a prequel to the <i>Mongoliad</i> series.<br /><p>The first novel to be released in The Foreworld Saga, The Mongoliad: Book One, is an epic-within-an-epic, taking place in 13th century. In it, a small band of warriors and mystics raise their swords to save Europe from a bloodthirsty Mongol invasion. Inspired by their leader (an elder of an order of warrior monks), they embark on a perilous journey and uncover the history of hidden knowledge and conflict among powerful secret societies that had been shaping world events for millennia.<br /></p><p>But the saga reaches the modern world via a circuitous route. In the late 19th century, Sir Richard F. Burton, an expert on exotic languages and historical swordsmanship, is approached by a mysterious group of English martial arts aficionados about translating a collection of long-lost manuscripts. Burton dies before his work is finished, and his efforts were thought lost until recently rediscovered by a team of amateur archaeologists in the ruins of a mansion in Trieste, Italy. From this collection of arcana, the incredible tale of <i>The Mongoliad</i> was recreated.<br /></p><p>Full of high adventure, unforgettable characters, and unflinching battle scenes, <i>The Mongoliad</i> ignites a dangerous quest where willpower and blades are tested and the scope of world-building is redefined.<br /></p><p><b>A note on this edition:</b> <i>The Mongoliad</i> began as a social media experiment, combining serial story-telling with a unique level of interaction between authors and audience during the creative process. Since its original iteration, <i>The Mongoliad</i> has been restructured, edited, and rewritten under the supervision of its authors to create a more cohesive reading experience and will be published as a trilogy of novels. This edition is the definitive edition and is the authors' preferred text.</p>",
+                "authors": {
+                    "author": {
+                        "id": 545,
+                        "name": "Neal Stephenson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430920344p5/545.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430920344p2/545.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/545.Neal_Stephenson",
+                        "average_rating": 4.05,
+                        "ratings_count": 785181,
+                        "text_reviews_count": 49927
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 18004624,
+                    "uri": "kca://work/amzn1.gr.work.v1.X6Nd6qjyYHBI9miMvKPAqw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452280959
+                    },
+                    "old_status": {},
+                    "status": "currently-reading",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:05:30 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635325,
+                    "name": "currently-reading",
+                    "review_shelf_id": 710709605,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sat Jun 07 06:05:30 -0700 2014",
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:05:30 -0700 2014",
+            "date_updated": "Sat Jun 07 06:05:30 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340915",
+            "link": "https://www.goodreads.com/review/show/960340915",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Encounter Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Unlearning Liberty: Campus Censorship and the End of American Debate",
+            "id": "13587028",
+            "author": "Greg Lukianoff",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386953017000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/13587028",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Encounter Books",
+            "tags": [
+                "Hardcover",
+                "Encounter Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1594036357",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781594036354",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "13587028",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

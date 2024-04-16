@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629416703,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35820369
+                },
+                "isbn": 62490427,
+                "isbn13": 9780062490421,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 458
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Q8z9_0kF_2rDC6BpfnQpow",
+                "title": "The Rise and Fall of the Dinosaurs: A New History of a Lost World",
+                "title_without_series": "The Rise and Fall of the Dinosaurs: A New History of a Lost World",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515529573l/35820369._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515529573l/35820369._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35820369-the-rise-and-fall-of-the-dinosaurs",
+                "num_pages": 404,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "William Morrow",
+                "publication_day": 24,
+                "publication_year": 2018,
+                "publication_month": 4,
+                "average_rating": 4.16,
+                "ratings_count": 14521,
+                "description": "<em>The dinosaurs. </em>Sixty-six million years ago, the Earth’s most fearsome creatures vanished. Today they remain one of our planet’s great mysteries. Now <em>The Rise and Fall of the Dinosaurs </em>reveals their extraordinary, 200-million-year-long story as never before.<br /><br />In this captivating narrative (enlivened with more than seventy original illustrations and photographs), Steve Brusatte, a young American paleontologist who has emerged as one of the foremost stars of the field—naming fifteen new species and leading groundbreaking scientific studies and fieldwork—masterfully tells the complete, surprising, and <em>new </em>history of the dinosaurs, drawing on cutting-edge science to dramatically bring to life their lost world and illuminate their enigmatic origins, spectacular flourishing, astonishing diversity, cataclysmic extinction, and startling living legacy. Captivating and revelatory, <em>The Rise and Fall of the Dinosaurs</em> is a book for the ages.<br /><br />Brusatte traces the evolution of dinosaurs from their inauspicious start as small shadow dwellers—themselves the beneficiaries of a mass extinction caused by volcanic eruptions at the beginning of the Triassic period—into the dominant array of species every wide-eyed child memorizes today, <em>T. rex</em>,<em> Triceratops</em>, <em>Brontosaurus</em>, and more. This gifted scientist and writer re-creates the dinosaurs’ peak during the Jurassic and Cretaceous, when thousands of species thrived, and winged and feathered dinosaurs, the prehistoric ancestors of modern birds, emerged. The story continues to the end of the Cretaceous period, when a giant asteroid or comet struck the planet and nearly every dinosaur species (but not all) died out, in the most extraordinary extinction event in earth’s history, one full of lessons for today as we confront a “sixth extinction.”<br /><br />Brusatte also recalls compelling stories from his globe-trotting expeditions during one of the most exciting eras in dinosaur research—which he calls “a new golden age of discovery”—and offers thrilling accounts of some of the remarkable findings he and his colleagues have made, including primitive human-sized tyrannosaurs; monstrous carnivores even larger than <em>T. rex</em>; and paradigm-shifting feathered raptors from China.<br /><br />An electrifying scientific history that unearths the dinosaurs’ epic saga, <em>The Rise and Fall of the Dinosaurs</em> will be a definitive and treasured account for decades to come.",
+                "authors": {
+                    "author": {
+                        "id": 1212001,
+                        "name": "Stephen Brusatte",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1524585583p5/1212001.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1524585583p2/1212001.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1212001.Stephen_Brusatte",
+                        "average_rating": 4.15,
+                        "ratings_count": 12693,
+                        "text_reviews_count": 1902
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 56364062,
+                    "uri": "kca://work/amzn1.gr.work.v1._2WDkqkRUYn-cVEGb6dUug"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666065760
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:59:04 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274621598,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:59:03 -0800 2018",
+            "date_updated": "Mon Dec 17 07:59:04 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629416703",
+            "link": "https://www.goodreads.com/review/show/2629416703",
+            "owned": 0
+        }
+    }
+}

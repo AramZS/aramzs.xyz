@@ -1,0 +1,51 @@
+{
+    "name": "Alpha",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Complete Idiot's Guide to Publishing Science Fiction",
+            "id": "164076",
+            "author": "Cory Doctorow, Karl Schroeder",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213669817000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/164076",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Alpha",
+            "tags": [
+                "Paperback",
+                "Alpha",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0028639189",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780028639185",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "164076",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

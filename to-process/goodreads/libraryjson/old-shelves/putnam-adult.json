@@ -1,0 +1,255 @@
+{
+    "name": "Putnam Adult",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Peripheral",
+            "id": "22010718",
+            "author": "William Gibson",
+            "date_finished": 1490832000000,
+            "notes": [],
+            "date_started": 1490885320000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Peripheral: Rating - 4/5",
+                    "date": 1490832000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22010718",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Putnam Adult",
+            "tags": [
+                "Kindle Edition",
+                "Putnam Adult",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "22010718",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Zero History (Blue Ant, #3)",
+            "id": "7745031",
+            "author": "William Gibson",
+            "date_finished": 1351296000000,
+            "notes": [],
+            "date_started": 1351350623000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Zero History (Blue Ant, #3): Rating - 5/5",
+                    "date": 1351296000000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7745031",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Putnam Adult",
+            "tags": [
+                "Hardcover",
+                "Putnam Adult",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0399156828",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780399156823",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "7745031",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Spook Country (Blue Ant, #2)",
+            "id": "22322",
+            "author": "William Gibson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213669134000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Spook Country (Blue Ant, #2): Rating - 4/5",
+                    "date": 1213669134000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22322",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Putnam Adult",
+            "tags": [
+                "Hardcover",
+                "Putnam Adult",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0399154302",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780399154300",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "22322",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Zero History (Blue Ant, #3)",
+            "id": 7745031,
+            "author": "William Gibson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7745031",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Putnam Adult",
+            "tags": [
+                "Hardcover",
+                "Putnam Adult",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 7745031,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Spook Country (Blue Ant, #2)",
+            "id": 22322,
+            "author": "William Gibson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22322",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Putnam Adult",
+            "tags": [
+                "Hardcover",
+                "Putnam Adult",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 22322,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

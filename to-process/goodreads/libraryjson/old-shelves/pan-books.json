@@ -1,0 +1,104 @@
+{
+    "name": "Pan Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Sun Also Rises",
+            "id": "3876",
+            "author": "Ernest Hemingway",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360255164000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Sun Also Rises: Rating - 5/5",
+                    "date": 1360255164000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3876",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pan Books",
+            "tags": [
+                "Paperback",
+                "Pan Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "3876",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Sun Also Rises",
+            "id": 3876,
+            "author": "Ernest Hemingway",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3876",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pan Books",
+            "tags": [
+                "Paperback",
+                "Pan Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 3876,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

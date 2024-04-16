@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2229992281,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 30759083
+                },
+                "isbn": 753557495,
+                "isbn13": 9780753557495,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 206
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.9h74xDGEQtwgY3bWRyQYKg",
+                "title": "The Spider Network: The Wild Story of a Math Genius, a Gang of Backstabbing Bankers, and One of the Greatest Scams in Financial History",
+                "title_without_series": "The Spider Network: The Wild Story of a Math Genius, a Gang of Backstabbing Bankers, and One of the Greatest Scams in Financial History",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470598651l/30759083._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470598651l/30759083._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/30759083-the-spider-network",
+                "num_pages": 384,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Custom House/Harper Collins",
+                "publication_day": 21,
+                "publication_year": 2017,
+                "publication_month": 3,
+                "average_rating": 4.06,
+                "ratings_count": 3228,
+                "description": "In 2006, an oddball group of bankers, traders and brokers from some of the largest financial institutions made a startling realization: Libor—the London interbank offered rate, which determines the interest rates on trillions in loans worldwide—was set daily by a small group of easily manipulated administrators, and that they could reap huge profits by nudging it fractions of a percent to suit their trading portfolios. Tom Hayes, a brilliant but troubled mathematician, became the lynchpin of a wild alliance that included a prickly French trader nicknamed “Gollum”; the broker “Abbo,” who liked to publicly strip naked when drinking; a nervous Kazakh chicken farmer known as “Derka Derka”; a broker known as “Village” (short for “Village Idiot”) who racked up huge expense account bills; an executive called “Clumpy” because of his patchwork hair loss; and a broker uncreatively nicknamed “Big Nose” who had once been a semi-professional boxer. This group generated incredible riches —until it all unraveled in spectacularly vicious, backstabbing fashion.<br /><br />With exclusive access to key characters and evidence,<i> The Spider Network </i>is not only a rollicking account of the scam, but also a provocative examination of a financial system that was crooked throughout.",
+                "authors": {
+                    "author": {
+                        "id": 15376365,
+                        "name": "David Enrich",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1470498313p5/15376365.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1470498313p2/15376365.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/15376365.David_Enrich",
+                        "average_rating": 4.07,
+                        "ratings_count": 4423,
+                        "text_reviews_count": 412
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 51310144,
+                    "uri": "kca://work/amzn1.gr.work.v1.FSzpYezTSWIf5m4xPLVMaw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2139552381
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Dec 28 12:08:26 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1879169024,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 28 12:08:25 -0800 2017",
+            "date_updated": "Thu Dec 28 12:08:26 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2229992281",
+            "link": "https://www.goodreads.com/review/show/2229992281",
+            "owned": 0
+        }
+    }
+}

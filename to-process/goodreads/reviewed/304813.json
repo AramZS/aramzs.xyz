@@ -1,0 +1,103 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 82035891,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 304813
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 24
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.gBcgX1ysiq4OUG3NXtrz9g",
+                "title": "Mindplayers",
+                "title_without_series": "Mindplayers",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/304813.Mindplayers",
+                "num_pages": 288,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Gollancz",
+                "publication_day": {},
+                "publication_year": 1988,
+                "publication_month": 2,
+                "average_rating": 3.76,
+                "ratings_count": 620,
+                "description": {},
+                "authors": {
+                    "author": {
+                        "id": 27841,
+                        "name": "Pat Cadigan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/27841.Pat_Cadigan",
+                        "average_rating": 3.79,
+                        "ratings_count": 52442,
+                        "text_reviews_count": 5465
+                    }
+                },
+                "published": 1988,
+                "work": {
+                    "id": 3050926,
+                    "uri": "kca://work/amzn1.gr.work.v1.EwpmjbYiHscmH6eW99Y8kw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 25 18:13:33 -0800 2009",
+            "date_updated": "Fri Dec 25 18:13:33 -0800 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/82035891",
+            "link": "https://www.goodreads.com/review/show/82035891",
+            "owned": 0
+        }
+    }
+}

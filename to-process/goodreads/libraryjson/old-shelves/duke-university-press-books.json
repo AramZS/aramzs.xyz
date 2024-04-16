@@ -1,0 +1,51 @@
+{
+    "name": "Duke University Press Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "MP3: The Meaning of a Format (Sign, Storage, Transmission)",
+            "id": "19342816",
+            "author": "Jonathan Sterne",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1570109294000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/19342816",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Duke University Press Books",
+            "tags": [
+                "Kindle Edition",
+                "Duke University Press Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780822395522",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "19342816",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

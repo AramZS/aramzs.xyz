@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 661195468,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 298920
+                },
+                "isbn": 863223230,
+                "isbn13": 9780863223235,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 368
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.aFShcyXQmzJdpztYX0HPMA",
+                "title": "The Guards (Jack Taylor, #1)",
+                "title_without_series": "The Guards",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314809323l/298920._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314809323l/298920._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/298920.The_Guards",
+                "num_pages": 304,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Dingle",
+                "publication_day": {},
+                "publication_year": 2004,
+                "publication_month": {},
+                "average_rating": 3.86,
+                "ratings_count": 5412,
+                "description": "Still stinging from his unceremonious ouster from the Garda Síochána—the Guards, Ireland’s police force—and staring at the world through the smoky bottom of his beer mug, Jack Taylor is stuck in Galway with nothing to look forward to. In his sober moments Jack aspires to become Ireland’s best private investigator, not to mention its first—Irish history, full of betrayal and espionage, discourages any profession so closely related to informing. But in truth Jack is teetering on the brink of his life’s sharpest edges, his memories of the past cutting deep into his soul and his prospects for the future nonexistent.<br /><br />Nonexistent, that is, until a dazzling woman walks into the bar with a strange request and a rumor about Jack’s talent for finding things. Odds are he won’t be able to climb off his barstool long enough to get involved with his radiant new client, but when he surprises himself by getting hired, Jack has little idea of what he’s getting into.<br /><br />Stark, violent, sharp, and funny, <i>The Guards</i> is an exceptional novel, one that leaves you stunned and breathless, flipping back to the beginning in a mad dash to find Jack Taylor and enter his world all over again. It’s an unforgettable story that’s gritty, absorbing, and saturated with the rough-edged rhythms of the Galway streets. Praised by authors and critics around the globe, <i>The Guards</i> heralds the arrival of an essential new novelist in contemporary crime fiction.",
+                "authors": {
+                    "author": {
+                        "id": 63807,
+                        "name": "Ken Bruen",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1510492585p5/63807.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1510492585p2/63807.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/63807.Ken_Bruen",
+                        "average_rating": 3.83,
+                        "ratings_count": 40244,
+                        "text_reviews_count": 4489
+                    }
+                },
+                "published": 2004,
+                "work": {
+                    "id": 290013,
+                    "uri": "kca://work/amzn1.gr.work.v1.Dh1a7PGBYIHRRFR0TGitug"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 79901049
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Jul 07 12:05:16 -0700 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 463794332,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Jul 01 00:00:00 -0700 2013",
+            "date_added": "Sun Jul 07 12:05:16 -0700 2013",
+            "date_updated": "Wed Jan 22 13:24:30 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/661195468",
+            "link": "https://www.goodreads.com/review/show/661195468",
+            "owned": 0
+        }
+    }
+}

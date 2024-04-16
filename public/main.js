@@ -1,60 +1,60 @@
 function toggleThemePicker() {
-  const themePicker = document.querySelector('.theme-picker');
-  if (themePicker.classList.contains('is-open')) {
-    themePicker.classList.remove('is-open');
-  } else {
-    themePicker.classList.add('is-open');
-  }
+	const themePicker = document.querySelector(".theme-picker");
+	if (themePicker.classList.contains("is-open")) {
+		themePicker.classList.remove("is-open");
+	} else {
+		themePicker.classList.add("is-open");
+	}
 }
 
 function toggleJumboMenu() {
-  const jumboMenu = document.querySelector('#jumbo-nav');
-  if (jumboMenu.classList.contains('jumbo-nav__open')) {
-    jumboMenu.classList.remove('jumbo-nav__open');
-  } else {
-    jumboMenu.classList.add('jumbo-nav__open');
-  }
+	const jumboMenu = document.querySelector("#jumbo-nav");
+	if (jumboMenu.classList.contains("jumbo-nav__open")) {
+		jumboMenu.classList.remove("jumbo-nav__open");
+	} else {
+		jumboMenu.classList.add("jumbo-nav__open");
+	}
 }
 
 function setTheme(themeName) {
-  localStorage.setItem('theme', themeName);
-  document.documentElement.className = 'theme-' + themeName;
+	localStorage.setItem("theme", themeName);
+	document.documentElement.className = "theme-" + themeName;
 
-  let current = document.querySelector('.theme-picker li.current');
-  if (!current) {
-    return;
-  }
-  current
-    .classList
-    .remove('current');
+	let current = document.querySelector(".theme-picker li.current");
+	if (!current) {
+		return;
+	}
+	current.classList.remove("current");
 
-  current = document.querySelector('.theme-picker li.' + 'theme-' + themeName);
-  if (!current) {
-    return;
-  }
-  current
-    .classList
-    .add('current');
+	current = document.querySelector(
+		".theme-picker li." + "theme-" + themeName
+	);
+	if (!current) {
+		return;
+	}
+	current.classList.add("current");
 }
 
 // Set theme before page renders
 (function () {
-  setTheme(localStorage.getItem('theme') || 'dark');
+	setTheme(localStorage.getItem("theme") || "neon");
 })();
 
 // When document ready add event listeners
 document.addEventListener("DOMContentLoaded", function () {
-  const selectTheme = (e) => {
-    const btn = e.currentTarget;
-    if (!btn.dataset.theme) {
-      return;
-    }
-    setTheme(btn.dataset.theme);
-  };
+	const selectTheme = (e) => {
+		const btn = e.currentTarget;
+		if (!btn.dataset.theme) {
+			return;
+		}
+		setTheme(btn.dataset.theme);
+	};
 
-  Array.from(document.getElementsByClassName('theme-selector-btn')).forEach((el) => {
-    el.addEventListener('click', selectTheme)
-  });
+	Array.from(document.getElementsByClassName("theme-selector-btn")).forEach(
+		(el) => {
+			el.addEventListener("click", selectTheme);
+		}
+	);
 
-  setTheme(localStorage.getItem('theme') || 'dark');
+	setTheme(localStorage.getItem("theme") || "dark");
 });

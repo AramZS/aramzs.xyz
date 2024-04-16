@@ -1,7 +1,9 @@
-<section>
+<section data-source="src/_includes/layouts/list-default.njk">
     <ul>
         {%- for item in list.items -%}
-            <li><a href="{{ item.data.cite.href }}" rel="noopener" title="Visit {{ item.data.title }}">{{ item.data.title }}</a> [<a href="{{ item.url }}" title="My notes on {{ item.data.title }}">My Notes</a>]</li>
+            <li>
+				<a href="{{ item.url }}" title="My notes on {{ item.data.title }}">{{ item.data.title }}</a>
+			</li>
         {%- endfor -%}
     </ul>
 </section>

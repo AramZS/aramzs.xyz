@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 240674961,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7149287
+                },
+                "isbn": "044101867X",
+                "isbn13": 9780441018673,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 433
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.uLwHNNzEG8V_maYqbZGicA",
+                "title": "The Fuller Memorandum (Laundry Files, #3)",
+                "title_without_series": "The Fuller Memorandum",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1262645028l/7149287._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1262645028l/7149287._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7149287-the-fuller-memorandum",
+                "num_pages": 312,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Ace Books",
+                "publication_day": 6,
+                "publication_year": 2010,
+                "publication_month": 7,
+                "average_rating": 4.18,
+                "ratings_count": 10607,
+                "description": "Computational demonologist Bob Howard catches up on filing in the Laundry archives when the top secret Fuller Memorandum vanishes - and his boss, suspected of stealing the file. Bob faces Russian agents, ancient demons, a maniacal death cult, and finding the missing memorandum before the world disappears next.",
+                "authors": {
+                    "author": {
+                        "id": 8794,
+                        "name": "Charles Stross",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p5/8794.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p2/8794.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8794.Charles_Stross",
+                        "average_rating": 3.9,
+                        "ratings_count": 225995,
+                        "text_reviews_count": 14959
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 7414342,
+                    "uri": "kca://work/amzn1.gr.work.v1.RT6mH4WjAnrJ_RG3IVpsmw"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 28 11:02:02 -0800 2011",
+            "date_updated": "Mon Nov 28 11:02:02 -0800 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/240674961",
+            "link": "https://www.goodreads.com/review/show/240674961",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2832369695,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 29806086
+                },
+                "isbn": 1503939111,
+                "isbn13": 9781503939110,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1037
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4ALM_Wl_PM9wAhMZINDk2g",
+                "title": "The Book of the Unnamed Midwife (The Road to Nowhere, #1)",
+                "title_without_series": "The Book of the Unnamed Midwife",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465976614l/29806086._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465976614l/29806086._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/29806086-the-book-of-the-unnamed-midwife",
+                "num_pages": 291,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "47North",
+                "publication_day": 11,
+                "publication_year": 2016,
+                "publication_month": 10,
+                "average_rating": 4.14,
+                "ratings_count": 12592,
+                "description": "<b>Philip K. Dick Award Winner for Distinguished Science Fiction</b><br /><br /><b>When she fell asleep, the world was doomed. When she awoke, it was dead.</b><br /><br />In the wake of a fever that decimated the earth’s population—killing women and children and making childbirth deadly for the mother and infant—the midwife must pick her way through the bones of the world she once knew to find her place in this dangerous new one. Gone are the pillars of civilization. All that remains is power—and the strong who possess it.<br /><br />A few women like her survived, though they are scarce. Even fewer are safe from the clans of men, who, driven by fear, seek to control those remaining. To preserve her freedom, she dons men’s clothing, goes by false names, and avoids as many people as possible. But as the world continues to grapple with its terrible circumstances, she’ll discover a role greater than chasing a pale imitation of independence.<br /><br />After all, if humanity is to be reborn, someone must be its guide.",
+                "authors": {
+                    "author": {
+                        "id": 7793962,
+                        "name": "Meg Elison",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1429643916p5/7793962.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1429643916p2/7793962.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7793962.Meg_Elison",
+                        "average_rating": 4.06,
+                        "ratings_count": 19346,
+                        "text_reviews_count": 2763
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 41858562,
+                    "uri": "kca://work/amzn1.gr.work.v1.YjPTs0pjI3e2-di-HaAlvw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2934312258
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri May 24 05:50:18 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri May 24 05:50:18 -0700 2019",
+            "date_updated": "Fri May 24 05:50:30 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 3,
+            "comments": {
+                "start": 1,
+                "end": 3,
+                "total": 3,
+                "comment": [
+                    {
+                        "id": 192776042,
+                        "body": "So you liked it?",
+                        "user": {
+                            "id": 1914949,
+                            "uri": "kca://profile:goodreads/A2VZ6B4OC643M",
+                            "name": "Nika",
+                            "display_name": "Nika",
+                            "location": "The United States",
+                            "link": "https://www.goodreads.com/user/show/1914949-nika",
+                            "image_url": "https://images.gr-assets.com/users/1307483468p3/1914949.jpg",
+                            "small_image_url": "https://images.gr-assets.com/users/1307483468p2/1914949.jpg",
+                            "has_image": true
+                        },
+                        "created_at": "Wed May 29 06:14:56 -0700 2019",
+                        "updated_at": "Wed May 29 06:14:56 -0700 2019"
+                    },
+                    {
+                        "id": 192957202,
+                        "body": "Yeah, it was pretty depressing, but well written. I liked it!",
+                        "user": {
+                            "id": 1244876,
+                            "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                            "name": "Aram",
+                            "display_name": "Aram",
+                            "location": "Long Island City, NY",
+                            "link": "https://www.goodreads.com/user/show/1244876-aram",
+                            "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                            "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                            "has_image": true
+                        },
+                        "created_at": "Tue Jun 04 05:29:28 -0700 2019",
+                        "updated_at": "Tue Jun 04 05:29:28 -0700 2019"
+                    },
+                    {
+                        "id": 192995772,
+                        "body": "Oh.... uhg, I'm been reading too many depressing books this year, I'll probably hold off on this.",
+                        "user": {
+                            "id": 1914949,
+                            "uri": "kca://profile:goodreads/A2VZ6B4OC643M",
+                            "name": "Nika",
+                            "display_name": "Nika",
+                            "location": "The United States",
+                            "link": "https://www.goodreads.com/user/show/1914949-nika",
+                            "image_url": "https://images.gr-assets.com/users/1307483468p3/1914949.jpg",
+                            "small_image_url": "https://images.gr-assets.com/users/1307483468p2/1914949.jpg",
+                            "has_image": true
+                        },
+                        "created_at": "Wed Jun 05 11:02:24 -0700 2019",
+                        "updated_at": "Wed Jun 05 11:02:24 -0700 2019"
+                    }
+                ]
+            },
+            "url": "https://www.goodreads.com/review/show/2832369695",
+            "link": "https://www.goodreads.com/review/show/2832369695",
+            "owned": 0
+        }
+    }
+}

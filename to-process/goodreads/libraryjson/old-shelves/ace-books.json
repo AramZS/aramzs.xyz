@@ -1,0 +1,398 @@
+{
+    "name": "Ace Books",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Blackwing (Raven's Mark, #1)",
+            "id": "33916060",
+            "author": "Ed McDonald",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1570109039000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Blackwing (Raven's Mark, #1): Rating - 4/5",
+                    "date": 1570109039000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/33916060",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace Books",
+            "tags": [
+                "Paperback",
+                "Ace Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0399587799",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780399587795",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "33916060",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Neuromancer (Sprawl, #1)",
+            "id": "22328",
+            "author": "William Gibson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1417711345000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Neuromancer (Sprawl, #1): Rating - 5/5",
+                    "date": 1417711345000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22328",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Ace Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "22328",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Fuller Memorandum (Laundry Files, #3)",
+            "id": "7149287",
+            "author": "Charles Stross",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1322506922000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Fuller Memorandum (Laundry Files, #3): Rating - 4/5",
+                    "date": 1322506922000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7149287",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace Books",
+            "tags": [
+                "Hardcover",
+                "Ace Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "044101867X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780441018673",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "7149287",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Cat Who Walks Through Walls (The World As Myth)",
+            "id": "16685",
+            "author": "Robert A. Heinlein",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213669373000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of The Cat Who Walks Through Walls (The World As Myth): Rating - 3/5",
+                    "date": 1213669373000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16685",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace Books",
+            "tags": [
+                "Paperback",
+                "Ace Books",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0441094996",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780441094998",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16685",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Blackwing (Raven's Mark, #1)",
+            "id": 33916060,
+            "author": "Ed McDonald",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/33916060",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace Books",
+            "tags": [
+                "Paperback",
+                "Ace Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 33916060,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Cat Who Walks Through Walls",
+            "id": 16685,
+            "author": "Robert A. Heinlein",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16685",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace Books",
+            "tags": [
+                "Paperback",
+                "Ace Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 16685,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Neuromancer (Sprawl, #1)",
+            "id": 22328,
+            "author": "William Gibson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/22328",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace Books",
+            "tags": [
+                "Mass Market Paperback",
+                "Ace Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 22328,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Fuller Memorandum (Laundry Files, #3)",
+            "id": 7149287,
+            "author": "Charles Stross",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7149287",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Ace Books",
+            "tags": [
+                "Hardcover",
+                "Ace Books",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "044101867X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 7149287,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

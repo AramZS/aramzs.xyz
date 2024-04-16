@@ -1,0 +1,136 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1972232964,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 26878075
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6
+                },
+                "uri": "kca://book/amzn1.gr.book.v1._m0xLBG-ejFvGQkr_fRC9Q",
+                "title": "St. Marks Is Dead: The Many Lives of America's Hippest Street: The Many Lives of America’s Hippest Street",
+                "title_without_series": "St. Marks Is Dead: The Many Lives of America's Hippest Street: The Many Lives of America’s Hippest Street",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/26878075-st-marks-is-dead",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.04,
+                "ratings_count": 724,
+                "description": "<p>A vibrant narrative history of three hallowed Manhattan blocks—the epicenter of American cool.</p><br /><p>St. Marks Place in New York City has spawned countless artistic and political movements. Here Frank O’Hara caroused, Emma Goldman plotted, and the Velvet Underground wailed. But every generation of miscreant denizens believes that their era, and no other, marked the street’s apex. This idiosyncratic work of reportage tells the many layered history of the street—from its beginnings as Colonial Dutch Director-General Peter Stuyvesant’s pear orchard to today’s hipster playground—organized around those pivotal moments when critics declared “St. Marks is dead.”</p><br /><p>In a narrative enriched by hundreds of interviews and dozens of rare images, St. Marks native Ada Calhoun profiles iconic characters from W. H. Auden to Abbie Hoffman, from Keith Haring to the Beastie Boys, among many others. She argues that St. Marks has variously been an elite address, an immigrants’ haven, a mafia warzone, a hippie paradise, and a backdrop to the film Kids—but it has always been a place that outsiders call home.</p>",
+                "authors": {
+                    "author": {
+                        "id": 3000741,
+                        "name": "Ada Calhoun",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1564069079p5/3000741.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1564069079p2/3000741.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3000741.Ada_Calhoun",
+                        "average_rating": 4.06,
+                        "ratings_count": 19107,
+                        "text_reviews_count": 3198
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 45434381,
+                    "uri": "kca://work/amzn1.gr.work.v1.HF-p1oLeSdaB-8hsIGG5jw"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151697
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:44 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1801151695
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 15 07:14:44 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1627403504,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Apr 15 07:14:44 -0700 2017",
+            "date_updated": "Sat Apr 15 07:14:44 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1972232964",
+            "link": "https://www.goodreads.com/review/show/1972232964",
+            "owned": 0
+        }
+    }
+}

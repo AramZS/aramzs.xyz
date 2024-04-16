@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3065305574,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 41104077
+                },
+                "isbn": 1419729071,
+                "isbn13": 9781419729072,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2244
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.VM9iewa7jSDAg0ta9If7_Q",
+                "title": "Invisible Women: Data Bias in a World Designed for Men",
+                "title_without_series": "Invisible Women: Data Bias in a World Designed for Men",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550931169l/41104077._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550931169l/41104077._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/41104077-invisible-women",
+                "num_pages": 411,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Harry N. Abrams",
+                "publication_day": 12,
+                "publication_year": 2019,
+                "publication_month": 3,
+                "average_rating": 4.43,
+                "ratings_count": 17797,
+                "description": "Imagine a world where your phone is too big for your hand, where your doctor prescribes a drug that is wrong for your body, where in a car accident you are 47% more likely to be seriously injured, where every week the countless hours of work you do are not recognised or valued. If any of this sounds familiar, chances are that you're a woman.<br /><br />Invisible Women shows us how, in a world largely built for and by men, we are systematically ignoring half the population. It exposes the gender data gap – a gap in our knowledge that is at the root of perpetual, systemic discrimination against women, and that has created a pervasive but invisible bias with a profound effect on women’s lives.<br /><br />Award-winning campaigner and writer Caroline Criado Perez brings together for the first time an impressive range of case studies, stories and new research from across the world that illustrate the hidden ways in which women are forgotten, and the impact this has on their health and well-being. From government policy and medical research, to technology, workplaces, urban planning and the media, Invisible Women reveals the biased data that excludes women. In making the case for change, this powerful and provocative book will make you see the world anew.",
+                "authors": {
+                    "author": {
+                        "id": 19637490,
+                        "name": "Caroline Criado Perez",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1587321855p5/19637490.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1587321855p2/19637490.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/19637490.Caroline_Criado_Perez",
+                        "average_rating": 4.43,
+                        "ratings_count": 18174,
+                        "text_reviews_count": 2955
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 64218580,
+                    "uri": "kca://work/amzn1.gr.work.v1.m2Xg1jObd2iaOHEDaQjPuA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3244218990
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Nov 28 09:19:51 -0800 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2712839545,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Nov 28 09:19:50 -0800 2019",
+            "date_updated": "Thu Nov 28 09:19:50 -0800 2019",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3065305574",
+            "link": "https://www.goodreads.com/review/show/3065305574",
+            "owned": 0
+        }
+    }
+}

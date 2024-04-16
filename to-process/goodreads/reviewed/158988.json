@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528959908,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 158988
+                },
+                "isbn": 1401213162,
+                "isbn13": 9781401213169,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 453
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.jynAaTJzmpkvlbEMc-c1Ag",
+                "title": "Fables, Vol. 9: Sons of Empire",
+                "title_without_series": "Fables, Vol. 9: Sons of Empire",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375396700l/158988._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375396700l/158988._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/158988.Fables_Vol_9",
+                "num_pages": 200,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 13,
+                "publication_year": 2007,
+                "publication_month": 6,
+                "average_rating": 4.22,
+                "ratings_count": 17475,
+                "description": "<b>Winner of Fourteen <u>Eisner</u> Awards</b><br /><br /><b>The best-laid plans.</b><br />The free Fables living in the mundane world have struck a decisive blow against the Adversary, destroying one of his most valuable assets at the very heart of his empire - and setting the stage for an all-out war between the worlds in the process. Now, while the ruler of the Homelands licks his wounds and gathers his forces, the denizens of Fabletown have a rare chance to savor the brief peace their victory has brought them. Everyone, however, knows that this is just the calm before the storm - and that even the winds themselves will have to choose sides before it's over.<br /><br /><b>Collecting</b>: <i>Fables</i> 52-59",
+                "authors": {
+                    "author": {
+                        "id": 12444,
+                        "name": "Bill Willingham",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p5/12444.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p2/12444.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12444.Bill_Willingham",
+                        "average_rating": 4.04,
+                        "ratings_count": 583176,
+                        "text_reviews_count": 25138
+                    }
+                },
+                "published": 2007,
+                "work": {
+                    "id": 153455,
+                    "uri": "kca://work/amzn1.gr.work.v1.ql4Lyje2DvywgrJi8pYriQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051892056
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:43:49 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813204010,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:20:38 -0800 2013",
+            "date_updated": "Mon Oct 23 16:43:48 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528959908",
+            "link": "https://www.goodreads.com/review/show/528959908",
+            "owned": 0
+        }
+    }
+}

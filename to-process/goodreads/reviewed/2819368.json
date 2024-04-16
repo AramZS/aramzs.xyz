@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 792931177,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2819368
+                },
+                "isbn": "159780133X",
+                "isbn13": 9781597801331,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 657
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.4xg8HS3Z1Rjd1NZnYT_Ciw",
+                "title": "Pump Six and Other Stories",
+                "title_without_series": "Pump Six and Other Stories",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391343246l/2819368._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391343246l/2819368._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2819368-pump-six-and-other-stories",
+                "num_pages": 239,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Night Shade Books",
+                "publication_day": 1,
+                "publication_year": 2008,
+                "publication_month": 2,
+                "average_rating": 4.03,
+                "ratings_count": 7744,
+                "description": "Paolo Bacigalupi's debut collection demonstrates the power and reach of the science fiction short story. Social criticism, political parable, and environmental advocacy lie at the center of Paolo's work. Each of the stories herein is at once a warning, and a celebration of the tragic comedy of the human experience.<br /><br />The eleven stories in Pump Six represent the best Paolo's work, including the Hugo nominee \"Yellow Card Man,\" the nebula and Hugo nominated story \"The People of Sand and Slag,\" and the Sturgeon Award-winning story \"The Calorie Man.\"",
+                "authors": {
+                    "author": {
+                        "id": 1226977,
+                        "name": "Paolo Bacigalupi",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1375566282p5/1226977.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1375566282p2/1226977.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1226977.Paolo_Bacigalupi",
+                        "average_rating": 3.78,
+                        "ratings_count": 173920,
+                        "text_reviews_count": 20197
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2845301,
+                    "uri": "kca://work/amzn1.gr.work.v1.rtbKC83OyKrKQB_Jcigvzg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 244829472
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Dec 17 19:20:19 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Jan 01 00:00:00 -0800 2013",
+            "date_added": "Tue Dec 17 19:20:19 -0800 2013",
+            "date_updated": "Wed Jan 22 13:15:25 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/792931177",
+            "link": "https://www.goodreads.com/review/show/792931177",
+            "owned": 0
+        }
+    }
+}

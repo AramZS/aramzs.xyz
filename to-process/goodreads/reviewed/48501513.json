@@ -1,0 +1,118 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3336700627,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 48501513
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9781250625014,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5
+                },
+                "uri": "kca://book/amzn1.gr.book.v3.qmqoHjqm4diVJU2N",
+                "title": "This Guy",
+                "title_without_series": "This Guy",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571430216l/48501513._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571430216l/48501513._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/48501513-this-guy",
+                "num_pages": 1,
+                "format": "Audiobook",
+                "edition_information": {},
+                "publisher": "Nightfire Books",
+                "publication_day": 17,
+                "publication_year": 2019,
+                "publication_month": 10,
+                "average_rating": 3.5,
+                "ratings_count": 28,
+                "description": "A man begins losing time, but the one thing he always remembers is that guy he kills every single day.",
+                "authors": {
+                    "author": {
+                        "id": 17152,
+                        "name": "Chuck Wendig",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p5/17152.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p2/17152.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17152.Chuck_Wendig",
+                        "average_rating": 3.73,
+                        "ratings_count": 111871,
+                        "text_reviews_count": 16120
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 27262853,
+                    "uri": "kca://work/amzn1.gr.work.v1.Ge5pqqggZa7ca5QM1SwMgw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3600841921
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu May 14 14:12:06 -0700 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2976600356,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu May 14 14:12:05 -0700 2020",
+            "date_updated": "Thu May 14 14:12:06 -0700 2020",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3336700627",
+            "link": "https://www.goodreads.com/review/show/3336700627",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24670185,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 163
+                },
+                "isbn": 679767479,
+                "isbn13": 9780679767473,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 221
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.TGRzzF1CvDE7GkHxdzdpUA",
+                "title": "The Untouchable",
+                "title_without_series": "The Untouchable",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344111321l/163._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344111321l/163._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/163.The_Untouchable",
+                "num_pages": 368,
+                "format": "Paperback",
+                "edition_information": "First Vintage International Edition, July 1998",
+                "publisher": "Vintage Books",
+                "publication_day": 30,
+                "publication_year": 1998,
+                "publication_month": 6,
+                "average_rating": 3.95,
+                "ratings_count": 2704,
+                "description": "One of the most dazzling and adventurous writers now working in English takes on the enigma of the Cambridge spies in a novel of exquisite menace, biting social comedy, and vertiginous moral complexity. The narrator is the elderly Victor Maskell, formerly of British intelligence, for many years art expert to the Queen. Now he has been unmasked as a Russian agent and subjected to a disgrace that is almost a kind of death. But at whose instigation?<br /><br />As Maskell retraces his tortuous path from his recruitment at Cambridge to the airless upper regions of the establishment, we discover a figure of manifold doubleness: Irishman and Englishman; husband, father, and lover of men; betrayer and dupe. Beautifully written, filled with convincing fictional portraits of Maskell's co-conspirators, and vibrant with the mysteries of loyalty and identity, <i>The Untouchable</i> places John Banville in the select company of both Conrad and le Carre.<br /><br />Winner of the Lannan Literary Award for Fiction<br /><br />\"Contemporary fiction gets no better than this... Banville's books teem with life and humor.\" - Patrick McGrath, <i>The New York Times Book Review</i><br />\"Victor Maskell is one of the great characters in recent fiction... <i>The Untouchable</i> is the best work of art in any medium on [its] subject.\" -<i>Washington Post Book World</i><br />\"As remarkable a literary voice as any to come out of Ireland; Joyce and Beckett notwithstanding.\" -<i>San Francisco Chronicle</i>",
+                "authors": {
+                    "author": {
+                        "id": 91,
+                        "name": "John Banville",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1407383277p5/91.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1407383277p2/91.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/91.John_Banville",
+                        "average_rating": 3.57,
+                        "ratings_count": 73262,
+                        "text_reviews_count": 9627
+                    }
+                },
+                "published": 1998,
+                "work": {
+                    "id": 1196354,
+                    "uri": "kca://work/amzn1.gr.work.v1.I2cioRNRqjigqZpCXqk25w"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 122428914,
+                        "name": "recommended-best",
+                        "review_shelf_id": 847058345,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:07:16 -0700 2008",
+            "date_updated": "Thu Dec 04 08:48:37 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24670185",
+            "link": "https://www.goodreads.com/review/show/24670185",
+            "owned": 0
+        }
+    }
+}

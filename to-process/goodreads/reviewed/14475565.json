@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1991496790,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 14475565
+                },
+                "isbn": 1606996266,
+                "isbn13": 9781606996263,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.YUL16rsgkQu9XKhRf5Hh1w",
+                "title": "The Last Vispo Anthology: Visual Poetry 1998-2008",
+                "title_without_series": "The Last Vispo Anthology: Visual Poetry 1998-2008",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351031100l/14475565._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351031100l/14475565._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/14475565-the-last-vispo-anthology",
+                "num_pages": 336,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Fantagraphics",
+                "publication_day": 3,
+                "publication_year": 2012,
+                "publication_month": 11,
+                "average_rating": 4.08,
+                "ratings_count": 24,
+                "description": "With The Last Vispo Anthology, Fantagraphics spotlights the intersection of art and language in this innovative new collection without peer in English that gathers the work of visual poets from around the world into one stunning volume. The alphabet is turned on its head and inside-out and the results culminate in a compilation of daring and surprising verbo-visual gems.<br /><br />The Last Vispo is composed of visual poetry (a portmanteau of the words visual and poetry) from the years 1998 to 2008, during a burst of creative activity fueled by file sharing and e-mail, which made it possible for the vispo community to establish a more heightened and sophisticated dialogue with one another. The collection extends the dialectic between art and literature that began with ancient shaped text, medieval pattern poetry, and dada typography, pushing past the concrete poetics of the 1950s and the subsequent mail art movement of the 1980s to its current incarnation. Rather than settle into predictable, unchallenged patterns, this vibrant poetry seizes new tools to expand the body of work that inhabits the borderlands of visual art and poetic language.<br /><br />The Last Vispo features 148 contributors from 23 countries on five continents. It includes 12 essays that illuminate the abundant history and the state of vispo today. The anthology offers a broad amalgam of long-time practitioners and poets new to visual poetry over the last decade, underscoring the longevity and the continued vitality of the art form.",
+                "authors": {
+                    "author": {
+                        "id": 208011,
+                        "name": "Crag Hill",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/208011.Crag_Hill",
+                        "average_rating": 4.17,
+                        "ratings_count": 48,
+                        "text_reviews_count": 8
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 20118094,
+                    "uri": "kca://work/amzn1.gr.work.v1.KnHh8IWsaCz9hS4AuA0kxg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1828109508
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri May 05 04:19:50 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1646317802,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri May 05 04:19:50 -0700 2017",
+            "date_updated": "Fri May 05 04:19:50 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1991496790",
+            "link": "https://www.goodreads.com/review/show/1991496790",
+            "owned": 0
+        }
+    }
+}

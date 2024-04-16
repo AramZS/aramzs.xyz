@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749130681,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 21792828
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1579
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.k_ZXheZgqqQE4kYZvlulxw",
+                "title": "Station Eleven",
+                "title_without_series": "Station Eleven",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395943163l/21792828._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395943163l/21792828._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/21792828-station-eleven",
+                "num_pages": 354,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Knopf",
+                "publication_day": 9,
+                "publication_year": 2014,
+                "publication_month": 9,
+                "average_rating": 4.04,
+                "ratings_count": 295742,
+                "description": "Set in the days of civilization's collapse, <i>Station Eleven</i> tells the story of a Hollywood star, his would-be savior, and a nomadic group of actors roaming the scattered outposts of the Great Lakes region, risking everything for art and humanity.<br /><br />One snowy night a famous Hollywood actor slumps over and dies onstage during a production of <i>King Lear</i>. Hours later, the world as we know it begins to dissolve. Moving back and forth in time—from the actor's early days as a film star to fifteen years in the future, when a theater troupe known as the Traveling Symphony roams the wasteland of what remains—this suspenseful, elegiac, spellbinding novel charts the strange twists of fate that connect five people: the actor, the man who tried to save him, the actor's first wife, his oldest friend, and a young actress with the Traveling Symphony, caught in the crosshairs of a dangerous self-proclaimed prophet.",
+                "authors": {
+                    "author": {
+                        "id": 2786093,
+                        "name": "Emily St. John Mandel",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1576606299p5/2786093.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1576606299p2/2786093.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2786093.Emily_St_John_Mandel",
+                        "average_rating": 4.01,
+                        "ratings_count": 330668,
+                        "text_reviews_count": 41494
+                    }
+                },
+                "published": 2014,
+                "work": {
+                    "id": 28098716,
+                    "uri": "kca://work/amzn1.gr.work.v1.XymgjwJTWVJ3uQyqa3sGcw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498304330
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:43:55 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414467172,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:43:54 -0700 2016",
+            "date_updated": "Mon Sep 05 07:43:55 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749130681",
+            "link": "https://www.goodreads.com/review/show/1749130681",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749131120,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19417707
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.CdnRNzvQ37Gu3XEJOer7bQ",
+                "title": "The Death of Money: The Coming Collapse of the International Monetary System",
+                "title_without_series": "The Death of Money: The Coming Collapse of the International Monetary System",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19417707-the-death-of-money",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.91,
+                "ratings_count": 1539,
+                "description": "<i>\n  <b>The sequel to national bestseller </b>\n</i><b>Currency Wars </b><i>\n  <b>predicts the next collapse of the </b>\n</i><i>\n  <b>monetary system and shows investors how to survive it</b>\n</i><br /><br /> The international monetary system collapsed three times in the past hundred years—in 1914, 1939, and 1971—and the next collapse is already in sight. This time the dollar won’t save us. In fact, the dollar itself will be the cause of the crisis.<br /><br /> Central bankers and the head of the IMF candidly admit that monetary policy is in unchartered waters. The world is witnessing no less than a global money experiment. Savers, investors, and everyday citizens are the guinea pigs in the central bankers’ laboratory. <br /> Bestselling author James Rickards explains why money and wealth have now become separated. Money is transitory, ephemeral, and may soon be worthless if central bankers continue on their current path. Wealth is permanent, tangible, and has real value worldwide. Gold, fine art, and land are forms of wealth. Investors who convert paper money into real wealth will survive the coming monetary maelstrom. But those who do not will lose what they have. <br /> Rickards illuminates the death of money unfolding before our eyes, and helps readers prepare before it’s too late.<br /><br /> “ Unsettling . . . fascinating . . . a thorough analysis of how nations have manipulated their currencies . . . with disastrous consequences.” — <i>Fort Worth Star-Telegram</i><br /><br /> “ One of the scariest books I’ve read this year . . . The picture that emerges is dark yet comprehensive and satisfying.” — <i>Bloomberg BusinessWeek</i><br /><br /> “One of the most urgent books of the fall.” —<i> Politico</i><br /><br /><br />",
+                "authors": {
+                    "author": {
+                        "id": 4894295,
+                        "name": "James Rickards",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1438087525p5/4894295.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1438087525p2/4894295.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4894295.James_Rickards",
+                        "average_rating": 3.97,
+                        "ratings_count": 7518,
+                        "text_reviews_count": 699
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 25441428,
+                    "uri": "kca://work/amzn1.gr.work.v1.1RmlD4PzXF7Glv5OAL9UAg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498304889
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:44:25 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414467586,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:44:24 -0700 2016",
+            "date_updated": "Mon Sep 05 07:44:25 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749131120",
+            "link": "https://www.goodreads.com/review/show/1749131120",
+            "owned": 0
+        }
+    }
+}

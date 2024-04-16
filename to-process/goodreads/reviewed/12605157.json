@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 444527856,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12605157
+                },
+                "isbn": 307951529,
+                "isbn13": 9780307951526,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1487
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.uYB8W4ZiqEMqrCMX6pdWKQ",
+                "title": "The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future",
+                "title_without_series": "The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345666854l/12605157._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345666854l/12605157._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12605157-the-100-startup",
+                "num_pages": 268,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Crown Business",
+                "publication_day": 8,
+                "publication_year": 2012,
+                "publication_month": 5,
+                "average_rating": 3.85,
+                "ratings_count": 48721,
+                "description": "In <i><b>The $100 Startup</b>, </i>Chris Guillebeau shows you how to lead of life of adventure, meaning and purpose – <i>and </i>earn a good living.<br />  <br /> Still in his early thirties, Chris is on the verge of completing a tour of every country on earth – he’s already visited more than 175 nations – and yet he’s never held a “real job” or earned a regular paycheck.  Rather, he has a special genius for turning ideas into income, and he uses what he earns both to support his life of adventure and to give back.  <br />  <br /> There are <i>many</i> <i>others </i>like Chris – those who’ve found ways to opt out of traditional employment and create the time and income to pursue what they find meaningful.  Sometimes, achieving that perfect blend of passion and income doesn’t depend on shelving what you currently do.  You can start small with your venture, committing little time or money, and wait to take the real plunge when you're sure it's successful. <br />  <br /> In preparing to write this book, Chris identified 1,500 individuals who have built businesses earning $50,000 or more from a modest investment (in many cases, $100 or less), and from that group he’s chosen to focus on the 50 most intriguing case studies.  In nearly all cases, people with no special skills discovered aspects of their personal passions that could be monetized, and were able to restructure their lives in ways that gave them greater freedom and fulfillment.<br />  <br /> Here, finally, distilled into one easy-to-use guide, are the most valuable lessons from those who’ve learned how to turn what they do into a gateway to self-fulfillment.  It’s all about finding the intersection between your “expertise” – even if you don’t consider it such -- and what other people will pay for.  You don’t need an MBA, a business plan or even employees.  All you need is a product or service that springs from what you love to do anyway, people willing to pay, and a way to get paid.<br />  <br /> Not content to talk in generalities, Chris tells you exactly how many dollars his group of unexpected entrepreneurs required to get their projects up and running; what these individuals did in the first weeks and months to generate significant cash; some of the key mistakes they made along the way, and the crucial insights that made the business stick.  Among Chris’s key principles: if you’re good at one thing, you’re probably good at something else; never teach a man to fish – <i>sell</i> him the fish instead; and in the battle between planning and action, action wins. <br />  <br /> In ancient times, people who were dissatisfied with their lives dreamed of finding magic lamps, buried treasure, or streets paved with gold.  Today, we know that it’s up to us to change our lives.  And the best part is, if we change our <i>own</i> life, we can help others change <i>theirs.</i>  This remarkable book will start you on your way.",
+                "authors": {
+                    "author": {
+                        "id": 3367145,
+                        "name": "Chris Guillebeau",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1372087146p5/3367145.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1372087146p2/3367145.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3367145.Chris_Guillebeau",
+                        "average_rating": 3.84,
+                        "ratings_count": 69070,
+                        "text_reviews_count": 3493
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 17620461,
+                    "uri": "kca://work/amzn1.gr.work.v1.fOjV3aiAznyfpsdHYEQymw"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 294475444,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Oct 29 21:10:39 -0700 2012",
+            "date_updated": "Mon Oct 29 21:10:39 -0700 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/444527856",
+            "link": "https://www.goodreads.com/review/show/444527856",
+            "owned": 0
+        }
+    }
+}

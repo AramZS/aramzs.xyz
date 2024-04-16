@@ -1,0 +1,103 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528975616,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3876
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 9690
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.KHVp0yoMA4DE69IiV1jZbA",
+                "title": "The Sun Also Rises",
+                "title_without_series": "The Sun Also Rises",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509802323l/3876._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509802323l/3876._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3876.The_Sun_Also_Rises",
+                "num_pages": 189,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Pan Books",
+                "publication_day": {},
+                "publication_year": 1957,
+                "publication_month": {},
+                "average_rating": 3.82,
+                "ratings_count": 357206,
+                "description": "The quintessential novel of the Lost Generation, <i>The Sun Also Rises</i> is one of Ernest Hemingway's masterpieces, and a classic example of his spare but powerful writing style. A poignant look at the disillusionment and angst of the post-World War I generation, the novel introduces two of Hemingway's most unforgettable characters: Jake Barnes and Lady Brett Ashley. The story follows the flamboyant Brett and the hapless Jake as they journey from the wild nightlife of 1920s Paris to the brutal bullfighting rings of Spain with a motley group of expatriates. It is an age of moral bankruptcy, spiritual dissolution, unrealized love, and vanishing illusions. First published in 1926, <i>The Sun Also Rises</i> helped to establish Hemingway as one of the greatest writers of the twentieth century.",
+                "authors": {
+                    "author": {
+                        "id": 1455,
+                        "name": "Ernest Hemingway",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1574217836p5/1455.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1574217836p2/1455.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1455.Ernest_Hemingway",
+                        "average_rating": 3.83,
+                        "ratings_count": 2009768,
+                        "text_reviews_count": 73236
+                    }
+                },
+                "published": 1957,
+                "work": {
+                    "id": 589497,
+                    "uri": "kca://work/amzn1.gr.work.v1.lLRZ_SWNxRUF9BPjLuR7Hg"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:39:24 -0800 2013",
+            "date_updated": "Thu Feb 07 08:39:24 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528975616",
+            "link": "https://www.goodreads.com/review/show/528975616",
+            "owned": 0
+        }
+    }
+}

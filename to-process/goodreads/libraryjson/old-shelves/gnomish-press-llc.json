@@ -1,0 +1,149 @@
+{
+    "name": "Gnomish Press LLC",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Ebook Machine: Using Automation to Publish and Maintain Your Ebooks",
+            "id": "33122248",
+            "author": "J. Zachary Pike",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1580123961000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/33122248",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gnomish Press LLC",
+            "tags": [
+                "Kindle Edition",
+                "Gnomish Press LLC",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "33122248",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Orconomics (The Dark Profit Saga, #1)",
+            "id": "25326486",
+            "author": "J. Zachary Pike",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1580123881000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Orconomics (The Dark Profit Saga, #1): Rating - 5/5",
+                    "date": 1580123881000,
+                    "type": "short",
+                    "content": "It was a bit of a slow start, but it really picks up and while it has the ample wit to sustain its satire, it also has a surprising amount of heart, and in the end I couldn't put it down.",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25326486",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gnomish Press LLC",
+            "tags": [
+                "Paperback",
+                "Gnomish Press LLC",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25326486",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Orconomics (The Dark Profit Saga, #1)",
+            "id": 25326486,
+            "author": "J. Zachary Pike",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25326486",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Gnomish Press LLC",
+            "tags": [
+                "Paperback",
+                "Gnomish Press LLC",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 25326486,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

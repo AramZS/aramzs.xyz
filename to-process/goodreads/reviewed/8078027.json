@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789420556,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8078027
+                },
+                "isbn": 1401228364,
+                "isbn13": 9781401228361,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 171
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.7G8xQ3ebXwb3iBrnCZpwnA",
+                "title": "Ex Machina, Vol. 10: Term Limits (Ex Machina, #10)",
+                "title_without_series": "Ex Machina, Vol. 10: Term Limits",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8078027-ex-machina-vol-10",
+                "num_pages": 168,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "WildStorm",
+                "publication_day": 30,
+                "publication_year": 2010,
+                "publication_month": 11,
+                "average_rating": 3.96,
+                "ratings_count": 2063,
+                "description": "The shocking last storyline leading up to the issue #50 series finale! Mayor Hundred must navigate the most challenging hot-button issue of his career, while a powerful new archenemy reveals a terrifying plan that's been in the works since the very first issue of EX MACHINA!<br />  <br /> Will Mitchell Hundred's new archenemy, a dogged reporter with powers far beyond those of the Great Machine, finally bring down the mayor's administration? Will the tragedies that Mayor Hundred warned about in the very first issue finally come to pass? Collects Ex Machina issue #45-50",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 12798269,
+                    "uri": "kca://work/amzn1.gr.work.v1.x6Ye-LEYc500ZLb13GOI8A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240471910
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:56:07 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813199711,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:56:07 -0800 2013",
+            "date_updated": "Mon Oct 23 16:37:42 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789420556",
+            "link": "https://www.goodreads.com/review/show/789420556",
+            "owned": 0
+        }
+    }
+}

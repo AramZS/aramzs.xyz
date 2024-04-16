@@ -1,0 +1,104 @@
+{
+    "name": "Arthur A. Levine Books / Scholastic Inc.",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+            "id": "136251",
+            "author": "J.K. Rowling",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213669265000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Harry Potter and the Deathly Hallows (Harry Potter, #7): Rating - 4/5",
+                    "date": 1213669265000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/136251",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Arthur A. Levine Books / Scholastic Inc.",
+            "tags": [
+                "Hardcover",
+                "Arthur A. Levine Books / Scholastic Inc.",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0545010225",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780545010221",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "136251",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+            "id": 136251,
+            "author": "J.K. Rowling",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/136251",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Arthur A. Levine Books / Scholastic Inc.",
+            "tags": [
+                "Hardcover",
+                "Arthur A. Levine Books / Scholastic Inc.",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 136251,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

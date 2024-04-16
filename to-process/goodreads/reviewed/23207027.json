@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629412992,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23207027
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2624
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.-GSN1BasO9NTD_Nj8MM_mQ",
+                "title": "Three Dark Crowns (Three Dark Crowns, #1)",
+                "title_without_series": "Three Dark Crowns",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540076095l/23207027._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540076095l/23207027._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23207027-three-dark-crowns",
+                "num_pages": 416,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "HarperTeen",
+                "publication_day": 20,
+                "publication_year": 2016,
+                "publication_month": 9,
+                "average_rating": 3.86,
+                "ratings_count": 69607,
+                "description": "Every generation on the island of Fennbirn, a set of triplets is born: three queens, all equal heirs to the crown and each possessor of a coveted magic. Mirabella is a fierce elemental, able to spark hungry flames or vicious storms at the snap of her fingers. Katharine is a poisoner, one who can ingest the deadliest poisons without so much as a stomachache. Arsinoe, a naturalist, is said to have the ability to bloom the reddest rose and control the fiercest of lions.<br /><br />But becoming the Queen Crowned isn’t solely a matter of royal birth. Each sister has to fight for it. And it’s not just a game of win or lose … it’s life or death. The night the sisters turn sixteen, the battle begins. The last queen standing gets the crown.<br /><br />If only it was that simple. Katharine is unable to tolerate the weakest poison, and Arsinoe, no matter how hard she tries, can’t make even a weed grow. The two queens have been shamefully faking their powers, taking care to keep each other, the island, and their powerful sister Mirabella none the wiser. But with alliances being formed, betrayals taking shape, and ruthless revenge haunting the queens’ every move, one thing is certain: the last queen standing might not be the strongest … but she may be the darkest.",
+                "authors": {
+                    "author": {
+                        "id": 4086715,
+                        "name": "Kendare Blake",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1276645449p5/4086715.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1276645449p2/4086715.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4086715.Kendare_Blake",
+                        "average_rating": 3.93,
+                        "ratings_count": 296399,
+                        "text_reviews_count": 40240
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 42750582,
+                    "uri": "kca://work/amzn1.gr.work.v1.IoxicwDF8MXCU92Hui3wFA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666060641
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:54:39 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274617275,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:54:39 -0800 2018",
+            "date_updated": "Mon Dec 17 07:54:39 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629412992",
+            "link": "https://www.goodreads.com/review/show/2629412992",
+            "owned": 0
+        }
+    }
+}

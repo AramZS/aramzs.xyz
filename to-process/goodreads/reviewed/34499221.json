@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2606742567,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34499221
+                },
+                "isbn": 1250112680,
+                "isbn13": 9781250112682,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6143
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.tqmbanQ-fXga0BdiaiEzww",
+                "title": "To Kill a Kingdom",
+                "title_without_series": "To Kill a Kingdom",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524322945l/34499221._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524322945l/34499221._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34499221-to-kill-a-kingdom",
+                "num_pages": 344,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Feiwel & Friends",
+                "publication_day": 6,
+                "publication_year": 2018,
+                "publication_month": 3,
+                "average_rating": 3.94,
+                "ratings_count": 41606,
+                "description": "Princess Lira is siren royalty and the most lethal of them all. With the hearts of seventeen princes in her collection, she is revered across the sea. Until a twist of fate forces her to kill one of her own. To punish her daughter, the Sea Queen transforms Lira into the one thing they loathe most—a human. Robbed of her song, Lira has until the winter solstice to deliver Prince Elian’s heart to the Sea Queen or remain a human forever.<br /><br />The ocean is the only place Prince Elian calls home, even though he is heir to the most powerful kingdom in the world. Hunting sirens is more than an unsavory hobby—it’s his calling. When he rescues a drowning woman in the ocean, she’s more than what she appears. She promises to help him find the key to destroying all of sirenkind for good—But can he trust her? And just how many deals will Elian have to barter to eliminate mankind’s greatest enemy?",
+                "authors": {
+                    "author": {
+                        "id": 14684499,
+                        "name": "Alexandra Christo",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1520622199p5/14684499.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1520622199p2/14684499.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14684499.Alexandra_Christo",
+                        "average_rating": 3.92,
+                        "ratings_count": 42641,
+                        "text_reviews_count": 8640
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 47852101,
+                    "uri": "kca://work/amzn1.gr.work.v1.LLjrtdxVNuoYOlNWtypBxA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2636068098
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Nov 26 13:28:17 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2251648650,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Nov 26 13:28:16 -0800 2018",
+            "date_updated": "Mon Nov 26 13:28:17 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2606742567",
+            "link": "https://www.goodreads.com/review/show/2606742567",
+            "owned": 0
+        }
+    }
+}

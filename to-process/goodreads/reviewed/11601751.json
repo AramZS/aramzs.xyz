@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2118076610,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 11601751
+                },
+                "isbn": 1451651422,
+                "isbn13": 9781451651423,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 39
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ZUqsRZjo_ZDnzk5ttKNhgQ",
+                "title": "The Struggle Within (Star Trek: Typhon Pact #5)",
+                "title_without_series": "The Struggle Within",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317663290l/11601751._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317663290l/11601751._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/11601751-the-struggle-within",
+                "num_pages": 80,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Gallery Books",
+                "publication_day": 4,
+                "publication_year": 2011,
+                "publication_month": 10,
+                "average_rating": 3.61,
+                "ratings_count": 557,
+                "description": "<br />An original e-novella in the acclaimed Typhon Pact series! The Enterprise-E is on a diplomatic mission to the Talarian Republic, the last holdout in the Federation’s efforts to expand the Khitomer Accords in response to the emergence of the Typhon Pact. In the wake of Andor’s recent secession, the Federation is more concerned than ever with strengthening its alliances. The Talarians have been a tenuous potential partner at best, given the history of conflict and mistrust between them and the Federation. But the negotiations between Picard and the Talarians are disrupted by a growing public protest of those who are demanding greater rights—and before long, it becomes clear that the dissidents are not limiting themselves to nonviolent means….",
+                "authors": {
+                    "author": {
+                        "id": 58125,
+                        "name": "Christopher L. Bennett",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1523976230p5/58125.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1523976230p2/58125.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/58125.Christopher_L_Bennett",
+                        "average_rating": 3.86,
+                        "ratings_count": 12234,
+                        "text_reviews_count": 1187
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 16544010,
+                    "uri": "kca://work/amzn1.gr.work.v1.cz0805Uke2oXpmNsOm_Jng"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1994392541
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Sep 08 11:17:07 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Sep 08 11:17:05 -0700 2017",
+            "date_updated": "Fri Sep 08 11:17:05 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2118076610",
+            "link": "https://www.goodreads.com/review/show/2118076610",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "name": "Jacobs Brown Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "These are the Voyages - TOS: Season Two",
+            "id": "23004119",
+            "author": "Marc Cushman, Susan Osborn, Walter Koenig",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086621000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/23004119",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Jacobs Brown Press",
+            "tags": [
+                "Kindle Edition",
+                "Jacobs Brown Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "23004119",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

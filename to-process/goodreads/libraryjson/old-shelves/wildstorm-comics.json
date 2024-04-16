@@ -1,0 +1,202 @@
+{
+    "name": "Wildstorm Comics",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Sleeper: Season One",
+            "id": "6700070",
+            "author": "Ed Brubaker, Sean Phillips",
+            "date_finished": 1359676800000,
+            "notes": [],
+            "date_started": 1508802138000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Sleeper: Season One: Rating - 5/5",
+                    "date": 1359676800000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6700070",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Wildstorm Comics",
+            "tags": [
+                "Paperback",
+                "Wildstorm Comics",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1848562942",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781848562943",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "6700070",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Alan Moore's Complete WildC.A.T.s",
+            "id": "707835",
+            "author": "Alan Moore",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508801726000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Alan Moore's Complete WildC.A.T.s: Rating - 4/5",
+                    "date": 1508801726000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/707835",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Wildstorm Comics",
+            "tags": [
+                "Paperback",
+                "Wildstorm Comics",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1401215459",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781401215453",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "707835",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Alan Moore's Complete WildC.A.T.s",
+            "id": 707835,
+            "author": "Alan Moore",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/707835",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Wildstorm Comics",
+            "tags": [
+                "Paperback",
+                "Wildstorm Comics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 707835,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Sleeper: Season One",
+            "id": 6700070,
+            "author": "Ed Brubaker",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/6700070",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Wildstorm Comics",
+            "tags": [
+                "Paperback",
+                "Wildstorm Comics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 6700070,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

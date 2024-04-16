@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2777070264,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 39063
+                },
+                "isbn": 879514256,
+                "isbn13": 9780879514259,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 924
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UwXN3V6Qf-xKJahhF-kY4Q",
+                "title": "Titus Groan (Gormenghast, #1)",
+                "title_without_series": "Titus Groan",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327871204l/39063._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327871204l/39063._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/39063.Titus_Groan",
+                "num_pages": 396,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Overlook Press",
+                "publication_day": 1,
+                "publication_year": 1991,
+                "publication_month": 11,
+                "average_rating": 3.91,
+                "ratings_count": 15261,
+                "description": "Starts with the birth and ends with the first birthday celebrations of the heir to the grand, tradition-bound castle of Gormenghast. A grand miasma of doom and foreboding weaves over the sterile rituals of the castle. Villainous Steerpike seeks to exploit the gaps between the formal rituals and the emotional needs of the ruling family for his own profit.",
+                "authors": {
+                    "author": {
+                        "id": 22018,
+                        "name": "Mervyn Peake",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1341040504p5/22018.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1341040504p2/22018.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/22018.Mervyn_Peake",
+                        "average_rating": 3.83,
+                        "ratings_count": 349146,
+                        "text_reviews_count": 10478
+                    }
+                },
+                "published": 1991,
+                "work": {
+                    "id": 3250394,
+                    "uri": "kca://work/amzn1.gr.work.v1.7Xb0qKQzuF7j7lX8fLV6og"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2860528831
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Apr 06 10:00:06 -0700 2019"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Apr 06 10:00:05 -0700 2019",
+            "date_updated": "Sat Apr 06 10:00:06 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2777070264",
+            "link": "https://www.goodreads.com/review/show/2777070264",
+            "owned": 0
+        }
+    }
+}

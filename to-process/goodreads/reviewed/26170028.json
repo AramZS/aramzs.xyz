@@ -1,0 +1,145 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1487326417,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 26170028
+                },
+                "isbn": 316217565,
+                "isbn13": 9780316217569,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 380
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.1d-N7_r7mtDynV0X8GZgFw",
+                "title": "The Vital Abyss (The Expanse, #5.5)",
+                "title_without_series": "The Vital Abyss",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440610192l/26170028._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440610192l/26170028._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/26170028-the-vital-abyss",
+                "num_pages": 75,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 15,
+                "publication_year": 2015,
+                "publication_month": 10,
+                "average_rating": 3.88,
+                "ratings_count": 8696,
+                "description": "<p>\n  <b>From <i>New York Times </i>bestselling author James S. A. Corey . . .</b>\n</p><p>Somewhere in the vast expanse of space, a group of prisoners lives in permanent captivity.</p><p>The only company they have is each other and the Belters who guard them. The only stories they know are the triumphs and crimes that brought them there. The only future they see is an empty life in an enormous room.</p><p>And then the man from Mars came along . . .<b></b><br /><b></b><br /><b>Set in the hard-scrabble solar system of the Expanse, <i>The Vital Abyss </i>deepens James S. A. Corey's acclaimed series.</b></p>",
+                "authors": {
+                    "author": {
+                        "id": 4192148,
+                        "name": "James S.A. Corey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573162332p5/4192148.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1573162332p2/4192148.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4192148.James_S_A_Corey",
+                        "average_rating": 4.25,
+                        "ratings_count": 603133,
+                        "text_reviews_count": 37691
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 45335194,
+                    "uri": "kca://work/amzn1.gr.work.v1.WxW7EvTVWhdz4zs4Jx_kMg"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1778254793
+                        },
+                        "old_status": "to-read",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Mar 30 07:47:26 -0700 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1139141256
+                        },
+                        "old_status": "read",
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Dec 31 07:44:04 -0800 2015"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1139141242
+                        },
+                        "old_status": {},
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Thu Dec 31 07:44:04 -0800 2015"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Dec 31 07:44:03 -0800 2015",
+            "date_updated": "Thu Mar 30 07:47:26 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1487326417",
+            "link": "https://www.goodreads.com/review/show/1487326417",
+            "owned": 0
+        }
+    }
+}

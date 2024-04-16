@@ -1,0 +1,104 @@
+{
+    "name": "Baen",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Cobra Slave (Cobra Rebellion #1)",
+            "id": "16130296",
+            "author": "Timothy Zahn",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1412432394000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Cobra Slave (Cobra Rebellion #1): Rating - 3/5",
+                    "date": 1412432394000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16130296",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Baen",
+            "tags": [
+                "Paperback",
+                "Baen",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "145163899X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781451638998",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16130296",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Cobra Slave (Cobra Rebellion #1)",
+            "id": 16130296,
+            "author": "Timothy Zahn",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16130296",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Baen",
+            "tags": [
+                "Paperback",
+                "Baen",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "145163899X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 16130296,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

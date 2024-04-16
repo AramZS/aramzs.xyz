@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629413236,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 34647237
+                },
+                "isbn": 1786070898,
+                "isbn13": 9781786070890,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 15
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.6pvlLiKhMJR0283O1mGqCw",
+                "title": "Grunt: The Curious Science of Humans at War",
+                "title_without_series": "Grunt: The Curious Science of Humans at War",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/34647237-grunt",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.93,
+                "ratings_count": 16176,
+                "description": "Best-selling author Mary Roach explores the science of keeping human beings intact, awake, sane, uninfected, and uninfested in the bizarre and extreme circumstances of war. <em>Grunt</em> tackles the science behind some of a soldier's most challenging adversaries—panic, exhaustion, heat, noise—and introduces us to the scientists who seek to conquer them. <br /><br />Mary Roach dodges hostile fire with the U.S. Marine Corps Paintball Team as part of a study on hearing loss and survivability in combat. She visits the fashion design studio of U.S. Army Natick Labs and learns why a zipper is a problem for a sniper. She visits a repurposed movie studio where amputee actors help prepare Marine Corps medics for the shock and gore of combat wounds. <br /><br />At Camp Lemmonier, Djibouti, in east Africa, we learn how diarrhea can be a threat to national security. Roach samples caffeinated meat, sniffs an archival sample of a World War II stink bomb, and stays up all night with the crew tending the missiles on the nuclear submarine USS Tennessee. She answers questions not found in any other book on the military: Why is DARPA interested in ducks? How is a wedding gown like a bomb suit? Why are shrimp more dangerous to sailors than sharks? Take a tour of duty with Roach, and you’ll never see our nation’s defenders in the same way again.",
+                "authors": {
+                    "author": {
+                        "id": 7956,
+                        "name": "Mary Roach",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1463591979p5/7956.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1463591979p2/7956.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7956.Mary_Roach",
+                        "average_rating": 3.95,
+                        "ratings_count": 357349,
+                        "text_reviews_count": 32518
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 46521429,
+                    "uri": "kca://work/amzn1.gr.work.v1.72kGCpHRBgT5JgSPxfvLkw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666060968
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:54:56 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274617518,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:54:56 -0800 2018",
+            "date_updated": "Mon Dec 17 07:54:56 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629413236",
+            "link": "https://www.goodreads.com/review/show/2629413236",
+            "owned": 0
+        }
+    }
+}

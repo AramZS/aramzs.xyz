@@ -1,0 +1,51 @@
+{
+    "name": "Monte Cook Games",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Numenera Corebook",
+            "id": "18662792",
+            "author": "Monte Cook",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146335000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18662792",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Monte Cook Games",
+            "tags": [
+                "Hardcover",
+                "Monte Cook Games",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1939979005",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781939979001",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18662792",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

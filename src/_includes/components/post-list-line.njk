@@ -3,7 +3,12 @@
         {% if post.data.draft %}
         <span style="color: red">(D)</span>
         {% endif %}
-        <a href="{{ post.url }}" title="Read {{ post.data.title }}">{{ post.data.title }}</a>
+        {% if forward %}
+          {% set postUrl = post.data.isBasedOn or post.data.canonical %}
+        {% else %}
+          {% set postUrl = post.url %}
+        {% endif %}
+        <a href="{{ postUrl }}" title="Read {{ post.title or post.data.title }}">{{ post.title or post.data.title }}</a>
         {% if displayContentType %}
             <small class="content-type">{{ post.data.contentType }}</small>
         {% endif %}

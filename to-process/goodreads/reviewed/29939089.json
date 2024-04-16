@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3286331884,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 29939089
+                },
+                "isbn": 765390906,
+                "isbn13": 9780765390905,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 464
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.9fB7m1BjLFMugaGC5zmPyw",
+                "title": "Winter Tide (The Innsmouth Legacy, #1)",
+                "title_without_series": "Winter Tide",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463670456l/29939089._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463670456l/29939089._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/29939089-winter-tide",
+                "num_pages": 366,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Tor.com",
+                "publication_day": 4,
+                "publication_year": 2017,
+                "publication_month": 4,
+                "average_rating": 3.76,
+                "ratings_count": 2491,
+                "description": "After attacking Devil’s Reef in 1928, the U.S. government rounded up the people of Innsmouth and took them to the desert, far from their ocean, their Deep One ancestors, and their sleeping god Cthulhu. Only Aphra and Caleb Marsh survived the camps, and they emerged without a past or a future.<br /><br />The government that stole Aphra's life now needs her help. FBI agent Ron Spector believes that Communist spies have stolen dangerous magical secrets from Miskatonic University, secrets that could turn the Cold War hot in an instant, and hasten the end of the human race.<br /><br />Aphra must return to the ruins of her home, gather scraps of her stolen history, and assemble a new family to face the darkness of human nature.",
+                "authors": {
+                    "author": {
+                        "id": 8154083,
+                        "name": "Ruthanna Emrys",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1464921954p5/8154083.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1464921954p2/8154083.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8154083.Ruthanna_Emrys",
+                        "average_rating": 3.86,
+                        "ratings_count": 6274,
+                        "text_reviews_count": 1292
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 47306624,
+                    "uri": "kca://work/amzn1.gr.work.v1.jWiECSr3A5Gux0R-gf9b0w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3534738753
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Apr 17 13:59:23 -0700 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Apr 02 00:00:00 -0700 2020",
+            "date_added": "Fri Apr 17 13:59:23 -0700 2020",
+            "date_updated": "Fri Apr 17 14:06:26 -0700 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3286331884",
+            "link": "https://www.goodreads.com/review/show/3286331884",
+            "owned": 0
+        }
+    }
+}

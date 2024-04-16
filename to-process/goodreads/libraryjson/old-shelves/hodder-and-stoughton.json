@@ -1,0 +1,247 @@
+{
+    "name": "Hodder & Stoughton",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Record of a Spaceborn Few (Wayfarers #3)",
+            "id": "32802595",
+            "author": "Becky Chambers",
+            "date_finished": 1556323200000,
+            "notes": [],
+            "date_started": 1558380309000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Record of a Spaceborn Few (Wayfarers #3): Rating - 4/5",
+                    "date": 1556323200000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/32802595",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Hodder & Stoughton",
+            "tags": [
+                "Hardcover",
+                "Hodder & Stoughton",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1473647606",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781473647602",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "32802595",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "A Closed and Common Orbit (Wayfarers, #2)",
+            "id": "29475447",
+            "author": "Becky Chambers",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1542026950000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of A Closed and Common Orbit (Wayfarers, #2): Rating - 4/5",
+                    "date": 1542026950000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/29475447",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Hodder & Stoughton",
+            "tags": [
+                "Hardcover",
+                "Hodder & Stoughton",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1473621445",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781473621442",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "29475447",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Moon is a Harsh Mistress",
+            "id": "16690",
+            "author": "Robert A. Heinlein",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1213669660000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16690",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Hodder & Stoughton",
+            "tags": [
+                "Paperback",
+                "Hodder & Stoughton",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0340837942",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780340837948",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16690",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Record of a Spaceborn Few (Wayfarers #3)",
+            "id": 32802595,
+            "author": "Becky Chambers",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/32802595",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Hodder & Stoughton",
+            "tags": [
+                "Hardcover",
+                "Hodder & Stoughton",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 32802595,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "A Closed and Common Orbit (Wayfarers, #2)",
+            "id": 29475447,
+            "author": "Becky Chambers",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/29475447",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Hodder & Stoughton",
+            "tags": [
+                "Hardcover",
+                "Hodder & Stoughton",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 29475447,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

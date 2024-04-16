@@ -1,0 +1,104 @@
+{
+    "name": "Comics",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Preacher, Volume 1: Gone to Texas",
+            "id": "95431",
+            "author": "Garth Ennis, Steve Dillon, Joe R. Lansdale",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508801495000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Preacher, Volume 1: Gone to Texas: Rating - 3/5",
+                    "date": 1508801495000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/95431",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Vertigo",
+            "tags": [
+                "Comics",
+                "Vertigo",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1563892618",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781563892615",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "95431",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Preacher, Volume 1: Gone to Texas",
+            "id": 95431,
+            "author": "Garth Ennis",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/95431",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Vertigo",
+            "tags": [
+                "Comics",
+                "Vertigo",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 95431,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

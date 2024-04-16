@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 55169210,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2213661
+                },
+                "isbn": 60530928,
+                "isbn13": 9780060530921,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 24933
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.5AdcVR1XHSWVdy4G6zLkJw",
+                "title": "The Graveyard Book",
+                "title_without_series": "The Graveyard Book",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531295292l/2213661._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531295292l/2213661._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2213661.The_Graveyard_Book",
+                "num_pages": 307,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "HarperCollins",
+                "publication_day": 30,
+                "publication_year": 2008,
+                "publication_month": 9,
+                "average_rating": 4.14,
+                "ratings_count": 420218,
+                "description": "Nobody Owens, known to his friends as Bod, is a perfectly normal boy. Well, he would be perfectly normal if he didn't live in a graveyard, being raised and educated by ghosts, with a solitary guardian who belongs to neither the world of the living nor the world of the dead.<br /><br />There are dangers and adventures for Bod in the graveyard: the strange and terrible menace of the Sleer; a gravestone entrance to a desert that leads to the city of ghouls; friendship with a witch, and so much more.<br /><br />But it is in the land of the living that real danger lurks, for it is there that the man Jack lives and he has already killed Bod's family.<br /><br />A deliciously dark masterwork by bestselling author Neil Gaiman, with illustrations by award-winning Dave McKean.",
+                "authors": {
+                    "author": {
+                        "id": 1221698,
+                        "name": "Neil Gaiman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p5/1221698.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1234150163p2/1221698.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1221698.Neil_Gaiman",
+                        "average_rating": 4.13,
+                        "ratings_count": 5858776,
+                        "text_reviews_count": 352868
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 2219449,
+                    "uri": "kca://work/amzn1.gr.work.v1.YnnFS_yLguzjcV6XD-Xj0g"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed May 06 13:26:36 -0700 2009",
+            "date_updated": "Wed May 06 13:26:36 -0700 2009",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/55169210",
+            "link": "https://www.goodreads.com/review/show/55169210",
+            "owned": 0
+        }
+    }
+}

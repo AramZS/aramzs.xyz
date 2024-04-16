@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 162066789,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12017
+                },
+                "isbn": "074341196X",
+                "isbn13": 9780743411967,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 355
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.cTY3SoW91-GyK59iJvp-Zg",
+                "title": "Inversions (Culture, #6)",
+                "title_without_series": "Inversions",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930844l/12017._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1288930844l/12017._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12017.Inversions",
+                "num_pages": 343,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": 1,
+                "publication_year": 2001,
+                "publication_month": 5,
+                "average_rating": 3.92,
+                "ratings_count": 13614,
+                "description": "On a backward world with six moons, an alert spy reports on the doings of one Dr. Vosill, who has mysteriously become the personal physician to the king, despite being a foreigner and, even more unthinkably, a woman. Vosill has more enemies than she first realizes. But then she also has more remedies to hand than those who wish her ill can ever guess.<p>Elsewhere, in another palace across the mountains, a man named DeWar serves as chief bodyguard to the Protector General of Tassasen, a profession he describes as the business of \"assassinating assassins.\" DeWar, too, has his enemies, but his foes strike more swiftly, and his means of combating them are more direct.</p><p>None trust the doctor, while the bodyguard trusts no one, but what is the hidden commonality linking their disparate histories? Spiraling around a central core of mystery, deceit, love, and betrayal, <i>Inversions</i> is a dazzling work of science fiction from a versatile and imaginative author writing at the height of his remarkable powers.<br /></p><p>\n  <b>About the Author:</b>\n</p><p>Iain M. Banks, one of the United Kingdom's bestselling authors of science fiction, has written such highly-regarded novels as <i>Excession</i>, <i>Feersum Endjinn</i>, <i>Use of Weapons</i>, <i>The State of the Art</i>, and <i>Against a Dark Background</i>. As \"Iain Banks,\" he also writes mainstream novels, including <i>The Wasp Factory</i> and <i>A Song of Stone</i>. He lives in Scotland.</p>",
+                "authors": {
+                    "author": {
+                        "id": 5807106,
+                        "name": "Iain M. Banks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p5/5807106.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p2/5807106.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks",
+                        "average_rating": 4.08,
+                        "ratings_count": 349700,
+                        "text_reviews_count": 15763
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 21864462,
+                    "uri": "kca://work/amzn1.gr.work.v1.Lfa-_wQqe8ECQcFhHys77g"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Apr 19 06:34:38 -0700 2011",
+            "date_updated": "Sat Oct 06 15:37:50 -0700 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/162066789",
+            "link": "https://www.goodreads.com/review/show/162066789",
+            "owned": 0
+        }
+    }
+}

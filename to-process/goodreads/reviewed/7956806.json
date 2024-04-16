@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1757211237,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7956806
+                },
+                "isbn": 1439160813,
+                "isbn13": 9781439160817,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 74
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.k_K5Q3apVHIgr-fXK8klbg",
+                "title": "Rough Beasts of Empire (Star Trek: Typhon Pact, #3)",
+                "title_without_series": "Rough Beasts of Empire",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7956806-rough-beasts-of-empire",
+                "num_pages": 383,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": {},
+                "publication_year": 2011,
+                "publication_month": 1,
+                "average_rating": 3.6,
+                "ratings_count": 886,
+                "description": "Still on Romulus in pursuit of his goal of reunifying the Vulcans and Romulans, Spock finds himself in the middle of a massive power struggle. In the wake of the assassination of the Praetor and the Senate, the Romulans have cleaved in two. While Empress Donatra has led her nascent Imperial Romulan State to establish relations with the Federation, Praetor Tal’aura has guided the original Romulan Star Empire toward joining the newly formed Typhon Pact. But numerous factions within the two Romulan nations vie for power and undivided leadership, and Machiavellian plots unfold as forces within and without the empires conduct high-stakes political maneuvers. <p> </p><p>Meanwhile, four years after Benjamin Sisko returned from the Celestial Temple, circumstances have changed, his hopes for a peaceful life on Bajor with his wife and daughter beginning to slip away. After temporarily rejoining Starfleet for an all-hands-on-deck battle against the Borg, he must consider an offer to have him return for a longer stint. Beset by troubling events, he seeks spiritual guidance, facing demons new and old, including difficult memories from his time in the last Federation-Tzenkethi war.</p>",
+                "authors": {
+                    "author": {
+                        "id": 10487,
+                        "name": "David R. George III",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10487.David_R_George_III",
+                        "average_rating": 3.86,
+                        "ratings_count": 8304,
+                        "text_reviews_count": 732
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 11672360,
+                    "uri": "kca://work/amzn1.gr.work.v1.fdKXlgpwCq-Scy8hkCNzJw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1508827817
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Sep 13 15:45:03 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Aug 30 00:00:00 -0700 2016",
+            "date_added": "Tue Sep 13 15:45:02 -0700 2016",
+            "date_updated": "Sun Oct 16 07:11:50 -0700 2016",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1757211237",
+            "link": "https://www.goodreads.com/review/show/1757211237",
+            "owned": 0
+        }
+    }
+}

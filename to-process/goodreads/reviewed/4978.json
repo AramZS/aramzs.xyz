@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 138311954,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4978
+                },
+                "isbn": "141651693X",
+                "isbn13": 9781416516934,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2851
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UPS9HG4Hcab_kXPS-YQM2Q",
+                "title": "Wolves of the Calla (The Dark Tower, #5)",
+                "title_without_series": "Wolves of the Calla",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419360231l/4978._SY160_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419360231l/4978._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4978.Wolves_of_the_Calla",
+                "num_pages": 931,
+                "format": "Mass Market Paperback",
+                "edition_information": "Pocket Books Premium Edition",
+                "publisher": "Pocket Books",
+                "publication_day": 1,
+                "publication_year": 2006,
+                "publication_month": 2,
+                "average_rating": 4.18,
+                "ratings_count": 148519,
+                "description": "Roland and his tet have just returned to the path of the Beam when they discover that they are being followed by a group of inexperienced trackers. The trackers are from the town of Calla Bryn Sturgis, and they desperately need the help of gunslingers. Once every generation, a band of masked riders known as the Wolves gallop out of the dark land of Thunderclap to steal one half of all the twins born in the Callas. When the children are returned, they are roont, or mentally and physically ruined. In less than a month, the Wolves will raid again. In exchange for Roland’s aid, Father Callahan—a priest originally from our world—offers to give Roland a powerful but evil seeing sphere, a sinister globe called Black Thirteen which he has hidden below the floorboards of his church. Not only must Roland and his tet discover a way to defeat the invincible Wolves, but they must also return to New York so that they can save our world’s incarnation of the Dark Tower from the machinations of the evil Sombra Corporation.",
+                "authors": {
+                    "author": {
+                        "id": 3389,
+                        "name": "Stephen King",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1362814142p5/3389.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1362814142p2/3389.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3389.Stephen_King",
+                        "average_rating": 4.04,
+                        "ratings_count": 13914723,
+                        "text_reviews_count": 547021
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 2754911,
+                    "uri": "kca://work/amzn1.gr.work.v1.lWhubfTT-APrdI5I2_yOyg"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Jan 04 00:00:00 -0800 2011",
+            "date_added": "Mon Jan 03 21:59:19 -0800 2011",
+            "date_updated": "Mon Jan 03 22:00:07 -0800 2011",
+            "read_count": 1,
+            "body": "Really the best one I've read so far. Very much enjoyed it.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/138311954",
+            "link": "https://www.goodreads.com/review/show/138311954",
+            "owned": 0
+        }
+    }
+}

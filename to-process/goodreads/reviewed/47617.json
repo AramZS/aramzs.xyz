@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528940461,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 47617
+                },
+                "isbn": 60747153,
+                "isbn13": 9780060747152,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 445
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.wtT1REt70QnDT78APBLclw",
+                "title": "Across the Wall: A Tale of the Abhorsen and Other Stories (Abhorsen, #3.5)",
+                "title_without_series": "Across the Wall: A Tale of the Abhorsen and Other Stories",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302829636l/47617._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1302829636l/47617._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/47617.Across_the_Wall",
+                "num_pages": 415,
+                "format": "Mass Market Paperback",
+                "edition_information": "First Eos Paperback Edition",
+                "publisher": "Eos",
+                "publication_day": {},
+                "publication_year": 2005,
+                "publication_month": {},
+                "average_rating": 3.79,
+                "ratings_count": 14580,
+                "description": "<b>Nicholas Sayre will do anything to get across the Wall.</b><br /><br />Thoughts of Lirael and Sam haunt his dreams, and he has come to realize that his destiny lies with them, in the Old Kingdom. But here in Ancelstierre, Nick faces an obstacle that is not entirely human, with a strange power that seems to come from Nicholas himself.<br /><br />With <i>Nicholas Sayre and the Creature in the Case</i> Garth Nix continues to explore the magical world of the Abhorsen Trilogy. In additional short stories that range from two widely different takes on the Merlin myth to a gritty urban version of Hansel and Gretel and a heartbreaking story of children and war, Garth Nix displays the range and versatility that has made him one of today’s leading writers of fantasy for readers of all ages.",
+                "authors": {
+                    "author": {
+                        "id": 8347,
+                        "name": "Garth Nix",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p5/8347.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1207583754p2/8347.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8347.Garth_Nix",
+                        "average_rating": 4.05,
+                        "ratings_count": 769164,
+                        "text_reviews_count": 38472
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 46630,
+                    "uri": "kca://work/amzn1.gr.work.v1._UaI_yJLjK0VsM_C9wnumQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 07:57:09 -0800 2013",
+            "date_updated": "Thu Feb 07 07:57:09 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528940461",
+            "link": "https://www.goodreads.com/review/show/528940461",
+            "owned": 0
+        }
+    }
+}

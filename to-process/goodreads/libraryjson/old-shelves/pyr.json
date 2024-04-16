@@ -1,0 +1,96 @@
+{
+    "name": "Pyr",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Last Sun (The Tarot Sequence, #1)",
+            "id": "36466732",
+            "author": "K.D.  Edwards",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1587157140000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/36466732",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pyr",
+            "tags": [
+                "Kindle Edition",
+                "Pyr",
+                "currently-reading"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "36466732",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "The Fortress in Orion (DEAD ENDERS)",
+            "id": "23784201",
+            "author": "Mike Resnick",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1473086645000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/23784201",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Pyr",
+            "tags": [
+                "Kindle Edition",
+                "Pyr",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "23784201",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

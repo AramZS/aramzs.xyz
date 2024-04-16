@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2934563325,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20582841
+                },
+                "isbn": 1481448714,
+                "isbn13": 9781481448710,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 115
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.EBeU7tJgzEhK9g27rvWH1g",
+                "title": "Thunderbird (Miriam Black, #4)",
+                "title_without_series": "Thunderbird",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437925160l/20582841._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437925160l/20582841._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20582841-thunderbird",
+                "num_pages": 325,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Saga Press",
+                "publication_day": 28,
+                "publication_year": 2017,
+                "publication_month": 2,
+                "average_rating": 4.25,
+                "ratings_count": 924,
+                "description": "In the fourth installment of the Miriam Black series, Miriam heads to the southwest in search of another psychic who may be able to help her understand her curse, but instead finds a cult of domestic terrorists and the worst vision of death she’s had yet. Miriam Black is being developed as a TV series by Starz with the producers of Breaking Bad.<br /><br />Miriam is becoming addicted to seeing her death visions, but she is also trying out something new: Hope. She is in search of another psychic who can help her with her curse, but finds a group of domestic terrorists in her deadliest vision to date.",
+                "authors": {
+                    "author": {
+                        "id": 17152,
+                        "name": "Chuck Wendig",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p5/17152.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p2/17152.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17152.Chuck_Wendig",
+                        "average_rating": 3.73,
+                        "ratings_count": 111871,
+                        "text_reviews_count": 16120
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 39852225,
+                    "uri": "kca://work/amzn1.gr.work.v1.O2EjhNcw9qYk3ujUCqvWsw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3069751813
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Aug 12 12:20:24 -0700 2019"
+                    },
+                    "ratings_count": 2,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Jul 10 00:00:00 -0700 2019",
+            "date_added": "Mon Aug 12 12:20:24 -0700 2019",
+            "date_updated": "Mon Aug 12 12:26:01 -0700 2019",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2934563325",
+            "link": "https://www.goodreads.com/review/show/2934563325",
+            "owned": 0
+        }
+    }
+}

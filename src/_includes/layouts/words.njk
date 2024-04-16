@@ -1,0 +1,23 @@
+{% extends "./page.njk" %}
+{% set fullArray = words %}
+
+{% block pageContent %}
+<section class="word-list" data-source="src/_includes/layouts/words.njk">
+    <ul>
+        {%- for item in fullArray -%}
+                <li>
+                 <span class="term">"{{item.term}}"</span> <br />
+                  <div class="definition"> = {{item.definition}}</div> <br />
+                  {% if item.cite %}
+                  <div class="source"> - 
+                    {% if item.cite.href %}<a href="{{item.cite.href}}" target="_blank">{% endif %}{{item.cite.name}}{% if item.cite.href %}</a>{% endif %}
+                  </div>
+                  {% endif %}
+                </li>
+        {%- endfor -%}
+    </ul>
+</section>
+
+
+<hr/>
+{% endblock %}

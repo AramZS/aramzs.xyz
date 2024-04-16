@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960347912,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4229
+                },
+                "isbn": "044050306X",
+                "isbn13": 9780440503064,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 20
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.HRXVLW2BNEi_8I_20NREsA",
+                "title": "Masks of the Illuminati",
+                "title_without_series": "Masks of the Illuminati",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434157123l/4229._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434157123l/4229._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4229.Masks_of_the_Illuminati",
+                "num_pages": 368,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Dell",
+                "publication_day": {},
+                "publication_year": 1990,
+                "publication_month": 6,
+                "average_rating": 4.01,
+                "ratings_count": 1766,
+                "description": "One fateful evening in a suitably dark, beer-soaked Swiss rathskeller, a wild and obscure Irishman named James Joyce would become the drinking partner of an unknown physics professor called Albert Einstein. And on that momentous night, Sir John Babcock, a terror-stricken young Englishman, would rush through the tavern door bringing a mystery that the two most brilliant minds of the century could solve...or perhaps bringing only a figment of his imagination born of the paranoia of our times.",
+                "authors": {
+                    "author": {
+                        "id": 2918,
+                        "name": "Robert Anton Wilson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1196008603p5/2918.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1196008603p2/2918.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/2918.Robert_Anton_Wilson",
+                        "average_rating": 4.05,
+                        "ratings_count": 53789,
+                        "text_reviews_count": 2432
+                    }
+                },
+                "published": 1990,
+                "work": {
+                    "id": 132082,
+                    "uri": "kca://work/amzn1.gr.work.v1._E5JeseoTJf20WPV0nOr1w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452289612
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:16:59 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:16:59 -0700 2014",
+            "date_updated": "Sat Jun 07 06:16:59 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960347912",
+            "link": "https://www.goodreads.com/review/show/960347912",
+            "owned": 0
+        }
+    }
+}

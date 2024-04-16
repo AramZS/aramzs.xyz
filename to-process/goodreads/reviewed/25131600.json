@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1420948032,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25131600
+                },
+                "isbn": "080417766X",
+                "isbn13": 9780804177665,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2360
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.3kGc3Ta0AavS78iN-unYXw",
+                "title": "Aftermath (Star Wars: Aftermath, #1)",
+                "title_without_series": "Aftermath",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426620007l/25131600._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426620007l/25131600._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25131600-aftermath",
+                "num_pages": 366,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Del Rey",
+                "publication_day": 4,
+                "publication_year": 2015,
+                "publication_month": 9,
+                "average_rating": 3.22,
+                "ratings_count": 24854,
+                "description": "<i>New York Times</i> Bestseller • Journey to <i>Star Wars: The Force Awakens</i><br /> <br />“<i>Star Wars: Aftermath</i> [reveals] what happened after the events of 1983’s <i>Return of the Jedi</i>. It turns out, there’s more than just the Empire for the good guys to worry about.”—<i>The Hollywood Reporter</i><br /><br />As the Empire reels from its critical defeats at the Battle of Endor, the Rebel Alliance—now a fledgling New Republic—presses its advantage by hunting down the enemy’s scattered forces before they can regroup and retaliate. But above the remote planet Akiva, an ominous show of the enemy’s strength is unfolding. Out on a lone reconnaissance mission, pilot Wedge Antilles watches Imperial Star Destroyers gather like birds of prey circling for a kill, but he’s taken captive before he can report back to the New Republic leaders.<br /> <br />Meanwhile, on the planet’s surface, former rebel fighter Norra Wexley has returned to her native world—war weary, ready to reunite with her estranged son, and eager to build a new life in some distant place. But when Norra intercepts Wedge Antilles’s urgent distress call, she realizes her time as a freedom fighter is not yet over. What she doesn’t know is just how close the enemy is—or how decisive and dangerous her new mission will be.<br /> <br />Determined to preserve the Empire’s power, the surviving Imperial elite are converging on Akiva for a top-secret emergency summit—to consolidate their forces and rally for a counterstrike. But they haven’t reckoned on Norra and her newfound allies—her technical-genius son, a Zabrak bounty hunter, and a reprobate Imperial defector—who are prepared to do whatever they must to end the Empire’s oppressive reign once and for all.",
+                "authors": {
+                    "author": {
+                        "id": 17152,
+                        "name": "Chuck Wendig",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p5/17152.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1294919586p2/17152.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/17152.Chuck_Wendig",
+                        "average_rating": 3.73,
+                        "ratings_count": 111872,
+                        "text_reviews_count": 16121
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 44828548,
+                    "uri": "kca://work/amzn1.gr.work.v1.gVzFj2vWVKInwkePqjmLNA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1044249735
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Oct 20 06:17:35 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Tue Oct 20 06:17:35 -0700 2015",
+            "date_updated": "Thu Dec 31 07:39:03 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1420948032",
+            "link": "https://www.goodreads.com/review/show/1420948032",
+            "owned": 0
+        }
+    }
+}

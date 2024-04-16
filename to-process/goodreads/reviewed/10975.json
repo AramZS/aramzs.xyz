@@ -1,0 +1,104 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 25199864,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 10975
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5174
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.CD6UR5AfXIPwMU3FO2_Tyw",
+                "title": "The Sound and the Fury",
+                "title_without_series": "The Sound and the Fury",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433089995l/10975._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433089995l/10975._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/10975.The_Sound_and_the_Fury",
+                "num_pages": 366,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Vintage International",
+                "publication_day": {},
+                "publication_year": 1990,
+                "publication_month": 10,
+                "average_rating": 3.86,
+                "ratings_count": 155188,
+                "description": "<b>Alternate version of <a href=\"https://www.goodreads.com/book/show/26197314-the-sound-and-the-fury?ac=1&amp;from_search=true&amp;qid=nVyAiWvaqu&amp;rank=1?ac=1&quot;\" rel=\"nofollow\">this book</a>.</b><br /><br />The tragedy of the Compson family features some of the most memorable characters in literature: beautiful, rebellious Caddy; the manchild Benjy; haunted, neurotic Quentin; Jason, the brutal cynic; and Dilsey, their black servant. Their lives fragmented and harrowed by history and legacy, the character’s voices and actions mesh to create what is arguably Faulkner’s masterpiece and one of the greatest novels of the twentieth century.",
+                "authors": {
+                    "author": {
+                        "id": 3535,
+                        "name": "William Faulkner",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1437805575p5/3535.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1437805575p2/3535.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3535.William_Faulkner",
+                        "average_rating": 3.85,
+                        "ratings_count": 497221,
+                        "text_reviews_count": 25332
+                    }
+                },
+                "published": 1990,
+                "work": {
+                    "id": 1168289,
+                    "uri": "kca://work/amzn1.gr.work.v1.0CzjUlrjXj4OR9u0iipxhA"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 10607451,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 23 08:38:04 -0700 2008",
+            "date_updated": "Mon Jun 23 08:38:16 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/25199864",
+            "link": "https://www.goodreads.com/review/show/25199864",
+            "owned": 0
+        }
+    }
+}

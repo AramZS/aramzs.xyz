@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2608722945,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 32051577
+                },
+                "isbn": 62474189,
+                "isbn13": 9780062474186,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 177
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.NzZS6w3phW_UttPWZflczQ",
+                "title": "The Kill Society (Sandman Slim, #9)",
+                "title_without_series": "The Kill Society",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479762459l/32051577._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479762459l/32051577._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/32051577-the-kill-society",
+                "num_pages": 368,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Harper Voyager",
+                "publication_day": 6,
+                "publication_year": 2017,
+                "publication_month": 6,
+                "average_rating": 4.21,
+                "ratings_count": 3081,
+                "description": "Sandman Slim has been to Heaven and Hell and many places in between, but now he finds himself in an unknown land: the far, far edge of the Tenebrae, the desolate home of the lost dead. Making his way inland with nothing but his unerring instinct for trouble to guide him, he collides with a caravan of the damned on a mysterious crusade, led by the ruthless Magistrate. Alone and with no clue how to get back home, he throws in with this brutal bunch made up of human souls, Hellion deserters, rogue angels—and Father Traven.<br /><br />Slim didn’t land in Tenebrae by chance. His little stunt of trying to open Heaven has set off a tsunami across the universe. Now, the afterlife is falling apart because of the ensuing warfare. And when Heaven finds out Slim is close by, the angels put a fat bounty on his head.<br /><br />It’s one thing to ride with a ferocious criminal pack across the treacherous plains—it’s another to do it when everyone in the land of the dead is itching to keep you there permanently. But Slim’s not too worried. He’s been fighting cosmic forces bent on destroying Heaven, Hell, Earth, and him for years. A pack of vicious bounty hunters, vengeful angels, and dangerous enemies with friendly smiles isn’t going to stop him fixing the chaos he’s caused . . . one way or another.<br /><br />Also contains the first appearance in print of Sandman Slim short \"The Devil in the Dollhouse\" which was originally published as an ebook.",
+                "authors": {
+                    "author": {
+                        "id": 37557,
+                        "name": "Richard Kadrey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1252945001p5/37557.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1252945001p2/37557.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37557.Richard_Kadrey",
+                        "average_rating": 3.99,
+                        "ratings_count": 130478,
+                        "text_reviews_count": 8935
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 52691495,
+                    "uri": "kca://work/amzn1.gr.work.v1.lrD4wAUl7x2RHpYiNDgBpA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2638649578
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Nov 28 06:35:49 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Wed Nov 28 00:00:00 -0800 2018",
+            "date_added": "Wed Nov 28 06:35:49 -0800 2018",
+            "date_updated": "Wed Dec 26 09:27:03 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2608722945",
+            "link": "https://www.goodreads.com/review/show/2608722945",
+            "owned": 0
+        }
+    }
+}

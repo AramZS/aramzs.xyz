@@ -1,0 +1,239 @@
+{
+    "name": "Berkley",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Agency (The Peripheral #2)",
+            "id": "34943643",
+            "author": "William Gibson",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1554574815000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/34943643",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Berkley",
+            "tags": [
+                "Kindle Edition",
+                "Berkley",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "34943643",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Vox",
+            "id": "37796866",
+            "author": "Christina Dalcher",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1543267398000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/37796866",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Berkley",
+            "tags": [
+                "Hardcover",
+                "Berkley",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0440000785",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780440000785",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "37796866",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Guilty Pleasures (Anita Blake, Vampire Hunter, #1)",
+            "id": "30281",
+            "author": "Laurell K. Hamilton",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360252856000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/30281",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Berkley",
+            "tags": [
+                "Paperback",
+                "Berkley",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0425197549",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780425197547",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "30281",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Murder on the Orient Express (Hercule Poirot, #10)",
+            "id": "16304",
+            "author": "Agatha Christie",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1360252715000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Murder on the Orient Express (Hercule Poirot, #10): Rating - 5/5",
+                    "date": 1360252715000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16304",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Berkley",
+            "tags": [
+                "Paperback",
+                "Berkley",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0425200450",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780425200452",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16304",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Murder on the Orient Express (Hercule Poirot, #10)",
+            "id": 16304,
+            "author": "Agatha Christie",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16304",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Berkley",
+            "tags": [
+                "Paperback",
+                "Berkley",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 16304,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967408,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6432774
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 22
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.QL2S5WzwkJ9BFgpmuiZMvw",
+                "title": "The Night of the Gun",
+                "title_without_series": "The Night of the Gun",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6432774-the-night-of-the-gun",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.77,
+                "ratings_count": 5960,
+                "description": "Do we remember only the stories we can live with?The ones that make us look good in the rearview mirror? In \"The Night of the Gun,\" David Carr redefines memoir with the revelatory story of his years as an addict and chronicles his journey from crack-house regular to regular columnist for \"The New York Times.\" Built on sixty videotaped interviews, legal and medical records, and three years of reporting, \"The Night of the Gun\" is a ferocious tale that uses the tools of journalism to fact-check the past. Carr's investigation of his own history reveals that his odyssey through addiction, recovery, cancer, and life as a single parent was far more harrowing -- and, in the end, more miraculous -- than he allowed himself to remember. Over the course of the book, he digs his way through a past that continues to evolve as he reports it.<br /><br />That long-ago night he was so out of his mind that his best friend had to pull a gun on him to make him go away? A visit to the friend twenty years later reveals that Carr was pointing the gun.<br /><br />His lucrative side business as a cocaine dealer? Not all that lucrative, as it turned out, and filled with peril.<br /><br />His belief that after his twins were born, he quickly sobered up to become a parent? Nice story, if he could prove it.<br /><br />The notion that he was an easy choice as a custodial parent once he finally was sober? His lawyer pulls out the old file and gently explains it was a little more complicated than that.<br /><br />In one sense, the story of \"The Night of the Gun\" is a common one -- a white-boy misdemeanant lands in a ditch and is restored to sanity through the love of his family, a God of his understanding, and a support group that will go unnamed. But when the whole truth is told, it does not end there. After fourteen years -- or was it thirteen? -- Carr tried an experiment in social drinking. Double jeopardy turned out to be a game he did not play well. As a reporter and columnist at the nation's best newspaper, he prospered, but gained no more adeptness at mood-altering substances. He set out to become a nice suburban alcoholic and succeeded all too well, including two more arrests, one that included a night in jail wearing a tuxedo.<br /><br />Ferocious and eloquent, courageous and bitingly funny, \"The Night of the Gun\" unravels the ways memory helps us not only create our lives, but survive them.",
+                "authors": {
+                    "author": {
+                        "id": 58527,
+                        "name": "David Carr",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1423808417p5/58527.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1423808417p2/58527.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/58527.David_Carr",
+                        "average_rating": 3.77,
+                        "ratings_count": 6131,
+                        "text_reviews_count": 883
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 2516852,
+                    "uri": "kca://work/amzn1.gr.work.v1.bChZi5ntaXNHM7wK-B5CZA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886478901
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:29:00 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Fri Jun 05 15:29:00 -0700 2015",
+            "date_updated": "Thu Dec 31 07:42:31 -0800 2015",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967408",
+            "link": "https://www.goodreads.com/review/show/1299967408",
+            "owned": 0
+        }
+    }
+}

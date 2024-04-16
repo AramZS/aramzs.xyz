@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3156440647,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 43190272
+                },
+                "isbn": 62936018,
+                "isbn13": 9780062936011,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1181
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.3CPqOUFaulLJd95SU7QbGA",
+                "title": "To Be Taught, If Fortunate",
+                "title_without_series": "To Be Taught, If Fortunate",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552530326l/43190272._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552530326l/43190272._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/43190272-to-be-taught-if-fortunate",
+                "num_pages": 153,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Harper Voyager",
+                "publication_day": 3,
+                "publication_year": 2019,
+                "publication_month": 9,
+                "average_rating": 4.23,
+                "ratings_count": 10157,
+                "description": "In her new novella, Sunday Times best-selling author Becky Chambers imagines a future in which, instead of terraforming planets to sustain human life, explorers of the solar system instead transform themselves. <br /><br />Ariadne is one such explorer. As an astronaut on an extrasolar research vessel, she and her fellow crewmates sleep between worlds and wake up each time with different features. Her experience is one of fluid body and stable mind and of a unique perspective on the passage of time. Back on Earth, society changes dramatically from decade to decade, as it always does.<br /><br />Ariadne may awaken to find that support for space exploration back home has waned, or that her country of birth no longer exists, or that a cult has arisen around their cosmic findings, only to dissolve once more by the next waking. But the moods of Earth have little bearing on their mission: to explore, to study, and to send their learnings home. <br /><br />Carrying all the trademarks of her other beloved works, including brilliant writing, fantastic world-building and exceptional, diverse characters, Becky's first audiobook outside of the Wayfarers series is sure to capture the imagination of listeners all over the world.",
+                "authors": {
+                    "author": {
+                        "id": 8389735,
+                        "name": "Becky Chambers",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562580587p5/8389735.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1562580587p2/8389735.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8389735.Becky_Chambers",
+                        "average_rating": 4.2,
+                        "ratings_count": 125373,
+                        "text_reviews_count": 19970
+                    }
+                },
+                "published": 2019,
+                "work": {
+                    "id": 67034571,
+                    "uri": "kca://work/amzn1.gr.work.v1.3EYJatfP6BB1DmpaFZa3HQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3362015212
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Jan 23 03:40:03 -0800 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jan 23 03:40:03 -0800 2020",
+            "date_updated": "Thu Jan 23 03:40:25 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3156440647",
+            "link": "https://www.goodreads.com/review/show/3156440647",
+            "owned": 0
+        }
+    }
+}

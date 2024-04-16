@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 35299609,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 824
+                },
+                "isbn": 553383442,
+                "isbn13": 9780553383447,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 138
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.xTmmlCv3n3PltZmku2S97g",
+                "title": "The Cobweb",
+                "title_without_series": "The Cobweb",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/824.The_Cobweb",
+                "num_pages": 448,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Spectra Books",
+                "publication_day": 31,
+                "publication_year": 2005,
+                "publication_month": 5,
+                "average_rating": 3.61,
+                "ratings_count": 2920,
+                "description": "<b>From his triumphant debut with <i>Snow Crash</i> to the stunning success of his latest novel, <i>Quicksilver, </i> Neal Stephenson has quickly become the voice of a generation. In this now-classic political thriller, he and fellow author J. Frederick George tell a savagely witty, chillingly topical tale set in the tense moments of the Gulf War. </b><br /><br />When a foreign exchange student is found murdered at an Iowa University, Deputy Sheriff Clyde Banks finds that his investigation extends far beyond the small college town--all the way to the Middle East. Shady events at the school reveal that a powerful department is using federal grant money for highly dubious research. And what it's producing is a very nasty bug.<br /><br />Navigating a plot that leads from his own backyard to Washington, D.C., to the Gulf, where his Army Reservist wife has been called to duty, Banks realizes he may be the only person who can stop the wholesale slaughtering of thousands of Americans. It's a lesson in foreign policy he'll never forget.",
+                "authors": {
+                    "author": {
+                        "id": 545,
+                        "name": "Neal Stephenson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430920344p5/545.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1430920344p2/545.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/545.Neal_Stephenson",
+                        "average_rating": 4.05,
+                        "ratings_count": 785183,
+                        "text_reviews_count": 49929
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 905465,
+                    "uri": "kca://work/amzn1.gr.work.v1.j4a2B8adLX1P5qXGtkJU_Q"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Oct 14 12:45:22 -0700 2008",
+            "date_updated": "Tue Oct 14 12:45:22 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/35299609",
+            "link": "https://www.goodreads.com/review/show/35299609",
+            "owned": 0
+        }
+    }
+}

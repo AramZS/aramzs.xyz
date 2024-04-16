@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520207093,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3926174
+                },
+                "isbn": 743429613,
+                "isbn13": 9780743429610,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 22
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.w2xyVxyRmucQfHYOW2TuBQ",
+                "title": "Treason (Star Trek: New Frontier, #17)",
+                "title_without_series": "Treason",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320897436l/3926174._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320897436l/3926174._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3926174-treason",
+                "num_pages": 368,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Star Trek",
+                "publication_day": 14,
+                "publication_year": 2009,
+                "publication_month": 4,
+                "average_rating": 4.01,
+                "ratings_count": 503,
+                "description": "It is a time of political upheaval and uncertainty in the New Thallonian Protectorate. Following the brutal assassination of her husband, Si Cwan, former Starfleet officer-turned-newly-appointed-Prime Minister Robin Lefler must now face the growing danger and intrigue surrounding her newborn son and heir to the noble line of Cwan. Following a harrowing assassination attempt, Robin has no choice but to flee New Thallon with her child...seeking refuge with Captain Mackenzie Calhoun and the crew of the <i>U.S.S. Excalibur</i> and creating a major diplomatic crisis in Sector 221-G. <p> The political fallout between the Federation and the New Thallonian Protectorate pales, however, in comparison to the threat of an enigmatic alien race determined to seize the infant Cwan for its own mysterious purposes. But nothing could possibly prepare Calhoun for the shocking betrayal from within -- an act of treachery to aid and abet this alien race -- forever altering the lives of the <i>Excalibur</i> crew....</p>",
+                "authors": {
+                    "author": {
+                        "id": 13681,
+                        "name": "Peter David",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p5/13681.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p2/13681.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13681.Peter_David",
+                        "average_rating": 4.02,
+                        "ratings_count": 297991,
+                        "text_reviews_count": 13707
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 3150226,
+                    "uri": "kca://work/amzn1.gr.work.v1.6Y4izIz7Br7lRq9iZjCqFQ"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:45:55 -0800 2013",
+            "date_updated": "Mon Jan 28 19:45:55 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520207093",
+            "link": "https://www.goodreads.com/review/show/520207093",
+            "owned": 0
+        }
+    }
+}

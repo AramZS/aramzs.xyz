@@ -3,7 +3,11 @@ const getPageFolders = (page) => page.filePathStem.substring(
   page.filePathStem.indexOf(`/${page.fileSlug}`)
 );
 
-const getPageResourceType = (page) => getPageFolders(page).split('/')[0];
+const getPageResourceType = (page) => {
+  let resourceType = getPageFolders(page).split('/')[0]
+  // console.log('resourceType', resourceType, page)
+  return resourceType;
+};
 
 module.exports = {
   layout: "layouts/page-resource.njk",
@@ -14,12 +18,15 @@ module.exports = {
   eleventyComputed: {
     permalink(data) {
       const folders = getPageFolders(data.page);
-      return `resources/${folders}/${this.slugify(data.title)}/`
+      //console.log('resource data', data)
+      let slug = data.slug ? data.slug : this.slugify(data.title);
+      
+      return `resources/${folders}/${slug}/`
     },
 
     folder(data) {
       const resourceType = getPageResourceType(data.page);
-
+      // console.log('resourceType', resourceType, data);
       return [
         'resource',
         {href: `/resources/${resourceType}/`, text: resourceType, title: 'Goto Archive of all resources'}

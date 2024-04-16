@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960340691,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 19202134
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.u8yEuJSrICThD4R6NeJWQA",
+                "title": "Content Rules: How to Create Killer Blogs, Podcasts, Videos, Ebooks, Webinars (and More) That Engage Customers and Ignite Your Business (New Rules Social Media Series)",
+                "title_without_series": "Content Rules: How to Create Killer Blogs, Podcasts, Videos, Ebooks, Webinars (and More) That Engage Customers and Ignite Your Business",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/19202134-content-rules",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.92,
+                "ratings_count": 3477,
+                "description": "Blogs, YouTube, Facebook, Twitter and other publishing platforms are giving everyone a \"voice,\" including organizations and their customers. To be successful, businesses must speak directly with their customers or prospects through a comprehensive strategy that allows them to reach new customers at every stage of the buying cycle. They must find their voice and create bold and compelling content that people want to consume and which speaks to their needs or wants or desires.  <p> </p><p> Yeah, yeah… so you know all that. But <i>how</i> can you create bold stories, videos, and blog posts that cultivate fans, arouse passion for your products or services, and ignite your business? <i>Content Rules</i> is a how-to book of both the art and science of developing marketing content that people care about interwoven with case studies of companies that are successfully spreading their ideas online<b>—</b>and using them to establish credibility and build a loyal customer base. </p><p> </p><p> Business owners and marketers who read this book will learn: </p>   The art of storytelling and the science of journalism   What it means to be a \"publisher\" and why what you publish is the cornerstone of your marketing   How to find an authentic \"voice\" and craft bold content that will resonate with prospects and buyers and encourage them to share it with others   How to leverage social media and social tools to get your content and ideas distributed as widely as possible",
+                "authors": {
+                    "author": {
+                        "id": 3505923,
+                        "name": "Ann Handley",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1577833482p5/3505923.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1577833482p2/3505923.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3505923.Ann_Handley",
+                        "average_rating": 3.99,
+                        "ratings_count": 6665,
+                        "text_reviews_count": 456
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 12882811,
+                    "uri": "kca://work/amzn1.gr.work.v1.sDO_Y7LlKEkj9hjr2n2g8g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452280688
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:05:08 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 710709424,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:05:08 -0700 2014",
+            "date_updated": "Sat Jun 07 06:05:08 -0700 2014",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960340691",
+            "link": "https://www.goodreads.com/review/show/960340691",
+            "owned": 0
+        }
+    }
+}

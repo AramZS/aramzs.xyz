@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 3286344401,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 49803373
+                },
+                "isbn": 1401289789,
+                "isbn13": 9781401289782,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 209
+                },
+                "uri": "kca://book/amzn1.gr.book.v3.oriQvx6bTg1A7k3F",
+                "title": "Shadow of the Batgirl",
+                "title_without_series": "Shadow of the Batgirl",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/49803373-shadow-of-the-batgirl",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.1,
+                "ratings_count": 851,
+                "description": "Out Spring 2020.",
+                "authors": {
+                    "author": {
+                        "id": 612167,
+                        "name": "Sarah Kuhn",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1449618010p5/612167.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1449618010p2/612167.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/612167.Sarah_Kuhn",
+                        "average_rating": 3.79,
+                        "ratings_count": 10414,
+                        "text_reviews_count": 2373
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 71056960,
+                    "uri": "kca://work/amzn1.gr.work.v1.eBwHaq6MDs5GGpr_3D25pg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 3534755245
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Apr 17 14:07:47 -0700 2020"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Sun Mar 01 00:00:00 -0800 2020",
+            "read_at": "Mon Mar 02 00:00:00 -0800 2020",
+            "date_added": "Fri Apr 17 14:07:47 -0700 2020",
+            "date_updated": "Fri Apr 17 14:08:08 -0700 2020",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/3286344401",
+            "link": "https://www.goodreads.com/review/show/3286344401",
+            "owned": 0
+        }
+    }
+}

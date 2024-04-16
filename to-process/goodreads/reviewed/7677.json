@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528971669,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7677
+                },
+                "isbn": "030734813X",
+                "isbn13": 9780307348135,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 3734
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.uUqXL4Eu16W6hbWURGmzbg",
+                "title": "Jurassic Park (Jurassic Park, #1)",
+                "title_without_series": "Jurassic Park",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7677.Jurassic_Park",
+                "num_pages": 480,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Plaza y Janes",
+                "publication_day": 4,
+                "publication_year": 2006,
+                "publication_month": 4,
+                "average_rating": 4.03,
+                "ratings_count": 778357,
+                "description": "En esta espectacular novela, los dinosaurios vuelven a conquistar la Tierra. En una isla remota, un grupo de hombres y mujeres emprende una carrera contra el tiempo para evitar un desastre mundial provocado por la desmedida ambición de comercializar la ingeniería genética. Pero todos los esfuerzos resultarán vanos cuando el inescrupuloso proyecto quede fuera de control y el mundo a merced de unas bestias monstruosas...<br /><br /><i>Parque jurásico</i>, la novela más célebre de Michael Crichton y una de las más leídas en los últimos años, fue adaptada al cine por Steven Spielberg en una película que se convirtió en el gran acontecimiento cinematográfico de 1993 y en el origen del fenómeno de masas llamado «dinomanía».",
+                "authors": {
+                    "author": {
+                        "id": 5194,
+                        "name": "Michael Crichton",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1359042651p5/5194.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1359042651p2/5194.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5194.Michael_Crichton",
+                        "average_rating": 3.83,
+                        "ratings_count": 2345960,
+                        "text_reviews_count": 60450
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 3376836,
+                    "uri": "kca://work/amzn1.gr.work.v1.v2cKaHq9r_eDai7NkuOzJw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:34:33 -0800 2013",
+            "date_updated": "Thu Feb 07 08:34:33 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528971669",
+            "link": "https://www.goodreads.com/review/show/528971669",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749128864,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 24358527
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 444
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.g-7h6ef_tP3iVKN33g8Pdw",
+                "title": "Angles of Attack (Frontlines, #3)",
+                "title_without_series": "Angles of Attack",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/24358527-angles-of-attack",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.11,
+                "ratings_count": 12049,
+                "description": "The alien forces known as the Lankies are gathering on the solar system's edge, consolidating their conquest of Mars and setting their sights on Earth. The far-off colony of New Svalbard, cut off from the rest of the galaxy by the Lanky blockade, teeters on the verge of starvation and collapse. The forces of the two Earth alliances have won minor skirmishes but are in danger of losing the war. For battle-weary staff sergeant Andrew Grayson and the ragged forces of the North American Commonwealth, the fight for survival is entering a catastrophic new phase.<br /><br />Forging an uneasy alliance with their Sino-Russian enemies, the NAC launches a hybrid task force on a long shot: a stealth mission to breach the Lanky blockade and reestablish supply lines with Earth. Plunging into combat against a merciless alien species that outguns, outmaneuvers, and outfights them at every turn, Andrew and his fellow troopers could end up cornered on their home turf, with no way out and no hope for reinforcement. And this time the struggle for humanity's future can end only in either victory or annihilation.",
+                "authors": {
+                    "author": {
+                        "id": 6606349,
+                        "name": "Marko Kloos",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1565448645p5/6606349.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1565448645p2/6606349.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6606349.Marko_Kloos",
+                        "average_rating": 4.11,
+                        "ratings_count": 82089,
+                        "text_reviews_count": 4445
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 41876809,
+                    "uri": "kca://work/amzn1.gr.work.v1.38OnCP0djiM8m4UrzsggMA"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1673175295
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Wed Jan 18 12:15:48 -0800 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1669900159
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Jan 16 11:31:04 -0800 2017"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1498301922
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Sep 05 07:41:51 -0700 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Mon Jan 16 00:00:00 -0800 2017",
+            "read_at": "Wed Jan 18 00:00:00 -0800 2017",
+            "date_added": "Mon Sep 05 07:41:51 -0700 2016",
+            "date_updated": "Wed Jan 18 12:16:02 -0800 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749128864",
+            "link": "https://www.goodreads.com/review/show/1749128864",
+            "owned": 0
+        }
+    }
+}

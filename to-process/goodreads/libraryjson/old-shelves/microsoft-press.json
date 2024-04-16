@@ -1,0 +1,51 @@
+{
+    "name": "Microsoft Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Code Complete",
+            "id": "4845",
+            "author": "Steve McConnell",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1433539906000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/4845",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Microsoft Press",
+            "tags": [
+                "Paperback",
+                "Microsoft Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0735619670",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780735619678",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "4845",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

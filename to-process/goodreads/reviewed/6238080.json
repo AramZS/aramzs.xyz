@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071692619,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6238080
+                },
+                "isbn": 785131590,
+                "isbn13": 9780785131595,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1043
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.eESDN0t7TiN6MX4YGxp72Q",
+                "title": "Wolverine: Old Man Logan",
+                "title_without_series": "Wolverine: Old Man Logan",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560344879l/6238080._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560344879l/6238080._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6238080-wolverine",
+                "num_pages": 224,
+                "format": "Hardcover",
+                "edition_information": "Deluxe Edition",
+                "publisher": "Marvel",
+                "publication_day": 11,
+                "publication_year": 2009,
+                "publication_month": 11,
+                "average_rating": 4.31,
+                "ratings_count": 17806,
+                "description": "Mark Millar and Steve McNiven - who last teamed for the monumental Civil War - bring us the most important Wolverine story of the 21st Century. Nobody knows what happened on the night the heroes fell. All we know is that they disappeared and evil triumphed and the bad guys have been calling the shots ever since. What happened to Wolverine is the biggest mystery of all. For 50 years, no one has heard hide nor hair from him... and in his place stands an old man called Logan. A man concerned only about his family. A man pushed to the brink by the Hulk Gang. A man forced to help an old friend - the blind archer, Hawkeye - to drive three thousand miles to secure his family's safety. Get ready for the ride of your life, Logan!<br /><br /><b>Collecting</b>: <i>Wolverine</i> 66-72, <i>Wolverine Giant-Size</i> Old Man Logan",
+                "authors": {
+                    "author": {
+                        "id": 12736,
+                        "name": "Mark Millar",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1266561940p5/12736.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1266561940p2/12736.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12736.Mark_Millar",
+                        "average_rating": 3.99,
+                        "ratings_count": 311485,
+                        "text_reviews_count": 15279
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 6420803,
+                    "uri": "kca://work/amzn1.gr.work.v1.45-jZiBJrV5PcJRFp3er_g"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593084040
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:13:25 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813197830,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:13:24 -0700 2014",
+            "date_updated": "Mon Oct 23 16:35:03 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071692619",
+            "link": "https://www.goodreads.com/review/show/1071692619",
+            "owned": 0
+        }
+    }
+}

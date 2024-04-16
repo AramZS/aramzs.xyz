@@ -1,0 +1,104 @@
+{
+    "name": "HarperPerennial / Perennial Classics",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Brave New World",
+            "id": "5129",
+            "author": "Aldous Huxley",
+            "date_finished": 1296345600000,
+            "notes": [],
+            "date_started": 1417712511000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Brave New World: Rating - 5/5",
+                    "date": 1296345600000,
+                    "type": "short",
+                    "content": "Good, though not at all what I expected. Now that I've finished it, I'm not entirely sure what to think. ",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/5129",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "HarperPerennial / Perennial Classics",
+            "tags": [
+                "Paperback",
+                "HarperPerennial / Perennial Classics",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0060929871",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780060929879",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "5129",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Brave New World",
+            "id": 5129,
+            "author": "Aldous Huxley",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/5129",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "HarperPerennial / Perennial Classics",
+            "tags": [
+                "Paperback",
+                "HarperPerennial / Perennial Classics",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 5129,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

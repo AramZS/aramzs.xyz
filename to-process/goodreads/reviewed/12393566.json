@@ -1,0 +1,119 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 960350771,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12393566
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 399
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.gzdfeI8Tt02s3p92FxiqGw",
+                "title": "The Apocalypse Codex (Laundry Files, #4)",
+                "title_without_series": "The Apocalypse Codex",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318285337l/12393566._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318285337l/12393566._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12393566-the-apocalypse-codex",
+                "num_pages": 336,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Ace",
+                "publication_day": 3,
+                "publication_year": 2012,
+                "publication_month": 7,
+                "average_rating": 4.16,
+                "ratings_count": 9620,
+                "description": "Bob Howard used to fix computers for the Laundry, the branch of the British Secret Service that deals with otherworldly threats, but those days are over. He's not only been promoted to active service but actually survived missions against cultists, enemy spies and tentacled horrors from other dimensions.",
+                "authors": {
+                    "author": {
+                        "id": 8794,
+                        "name": "Charles Stross",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p5/8794.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1355510574p2/8794.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8794.Charles_Stross",
+                        "average_rating": 3.9,
+                        "ratings_count": 225995,
+                        "text_reviews_count": 14959
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 17374689,
+                    "uri": "kca://work/amzn1.gr.work.v1.KrrSZNyTANM2W7mbAaK34Q"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 452292989
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Jun 07 06:21:09 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Jun 07 06:21:09 -0700 2014",
+            "date_updated": "Sat Jun 07 06:21:09 -0700 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/960350771",
+            "link": "https://www.goodreads.com/review/show/960350771",
+            "owned": 0
+        }
+    }
+}

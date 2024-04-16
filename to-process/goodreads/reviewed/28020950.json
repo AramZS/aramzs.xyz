@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2638111108,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 28020950
+                },
+                "isbn": 1302900935,
+                "isbn13": 9781302900939,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 124
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.hv8laPpQbr-94G6ZS3SLYw",
+                "title": "Spider-Women",
+                "title_without_series": "Spider-Women",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525974046l/28020950._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525974046l/28020950._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/28020950-spider-women",
+                "num_pages": 200,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Marvel",
+                "publication_day": 26,
+                "publication_year": 2016,
+                "publication_month": 7,
+                "average_rating": 3.87,
+                "ratings_count": 955,
+                "description": "The Spider-Women of two worlds join Silk for a story too big for just one of their books! New mother Jessica Drew is taking a mentor role with Silk and Spider-Gwen, and the trio enjoys a brunch break on Gwen's Earth-65. But when nefarious spy organization S.I.L.K. and its leader — a certain Cindy Moon — notice the interdimensional interlopers, everything goes wrong! Can the arachnid adventurers find a way home, or will they be trapped in a world they never made? And if they do escape Earth-65, will their troubles follow? Jess meets the Mary Janes, and Silk comes face-to-face with her counterpart's family — but who's looking after little baby Drew? It's an epic that will shake all three Spider-Women to the core!<br /><br />Collects Spider-Women Alpha #1, Silk (2015B) #7-8, Spider-Gwen (2015B) #7-8, Spider-Woman (2015) #6-7, Spider-Women Omega #1",
+                "authors": {
+                    "author": {
+                        "id": 9857340,
+                        "name": "Robbie Thompson",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9857340.Robbie_Thompson",
+                        "average_rating": 3.91,
+                        "ratings_count": 28255,
+                        "text_reviews_count": 2438
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 51162505,
+                    "uri": "kca://work/amzn1.gr.work.v1.tyWqOaDoLjulG2iED2md_w"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2677537793
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Dec 25 09:37:05 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Dec 21 00:00:00 -0800 2018",
+            "date_added": "Tue Dec 25 09:37:04 -0800 2018",
+            "date_updated": "Wed Dec 26 07:34:14 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2638111108",
+            "link": "https://www.goodreads.com/review/show/2638111108",
+            "owned": 0
+        }
+    }
+}

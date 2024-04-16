@@ -1,0 +1,51 @@
+{
+    "name": "Random House Trade Paperbacks",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture",
+            "id": "222146",
+            "author": "David Kushner",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386966547000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/222146",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Random House Trade Paperbacks",
+            "tags": [
+                "Paperback",
+                "Random House Trade Paperbacks",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0812972155",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780812972153",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "222146",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

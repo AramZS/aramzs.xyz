@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 592222939,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7253433
+                },
+                "isbn": 1607061791,
+                "isbn13": 9781607061793,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 157
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.eR4DgnGNmjnhlrcEjz6Mvw",
+                "title": "Phonogram, Vol. 2: The Singles Club (Phonogram, #2)",
+                "title_without_series": "Phonogram, Vol. 2: The Singles Club",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7253433-phonogram-vol-2",
+                "num_pages": 160,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 1,
+                "publication_year": 2009,
+                "publication_month": 12,
+                "average_rating": 4,
+                "ratings_count": 1610,
+                "description": "We've put you on the guest list. Don't be late! This is one night you'll never forget! The second series of Phonogram separates itself from the frenzied mob of adoring critics just long enough to transform into this handsome collected volume, which features seven individual-yet-interconnected stories set in a single night in a single club, each starring a young phonomancer, and each exploring a different mystery of music and magic.<br /><br />Collects Phonogram: The Singles Club #1-7, including a cover gallery and \"Making Of\" extras.",
+                "authors": {
+                    "author": {
+                        "id": 439887,
+                        "name": "Kieron Gillen",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1533663392p5/439887.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1533663392p2/439887.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/439887.Kieron_Gillen",
+                        "average_rating": 3.97,
+                        "ratings_count": 293980,
+                        "text_reviews_count": 25776
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 8293899,
+                    "uri": "kca://work/amzn1.gr.work.v1.c2ZIhObMD2z2c6_uKZFR6Q"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Mon Apr 01 00:00:00 -0700 2013",
+            "date_added": "Tue Apr 16 12:37:48 -0700 2013",
+            "date_updated": "Wed Jan 22 13:25:05 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/592222939",
+            "link": "https://www.goodreads.com/review/show/592222939",
+            "owned": 0
+        }
+    }
+}

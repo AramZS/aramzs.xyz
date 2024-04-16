@@ -1,0 +1,51 @@
+{
+    "name": "Rough Guides",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Rough Guide to Cult Fiction",
+            "id": "726216",
+            "author": "Paul Simpson, Michaela Bushell, Helen Rodiss",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1354035309000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/726216",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Rough Guides",
+            "tags": [
+                "Paperback",
+                "Rough Guides",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1843533871",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781843533870",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "726216",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

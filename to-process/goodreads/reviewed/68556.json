@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789546619,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 68556
+                },
+                "isbn": "026202599X",
+                "isbn13": 9780262025997,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.KcLzl47Qfth6gsxTgxuG1Q",
+                "title": "Unit Operations: An Approach to Videogame Criticism",
+                "title_without_series": "Unit Operations: An Approach to Videogame Criticism",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/68556.Unit_Operations",
+                "num_pages": 243,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "MIT Press (MA)",
+                "publication_day": 10,
+                "publication_year": 2006,
+                "publication_month": 3,
+                "average_rating": 3.68,
+                "ratings_count": 197,
+                "description": "In Unit Operations, Ian Bogost argues that similar principles underlie both literary theory and computation, proposing a literary-technical theory that can be used to analyze particular videogames. Moreover, this approach can be applied beyond videogames: Bogost suggests that any medium--from videogames to poetry, literature, cinema, or art--can be read as a configurative system of discrete, interlocking units of meaning, and he illustrates this method of analysis with examples from all these fields. The marriage of literary theory and information technology, he argues, will help humanists take technology more seriously and hep technologists better understand software and videogames as cultural artifacts. This approach is especially useful for the comparative analysis of digital and nondigital artifacts and allows scholars from other fields who are interested in studying videogames to avoid the esoteric isolation of \"game studies.\"The richness of Bogost's comparative approach can be seen in his discussions of works by such philosophers and theorists as Plato, Badiou, Zizek, and McLuhan, and in his analysis of numerous videogames including Pong, Half-Life, and Star Wars Galaxies. Bogost draws on object technology and complex adaptive systems theory for his method of unit analysis, underscoring the configurative aspects of a wide variety of human processes. His extended analysis of freedom in large virtual spaces examines Grand Theft Auto 3, The Legend of Zelda, Flaubert's Madame Bovary, and Joyce's Ulysses. In Unit Operations, Bogost not only offers a new methodology for videogame criticism but argues for the possibility of real collaboration between the humanities and information technology.",
+                "authors": {
+                    "author": {
+                        "id": 38615,
+                        "name": "Ian Bogost",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1453136203p5/38615.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1453136203p2/38615.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/38615.Ian_Bogost",
+                        "average_rating": 3.71,
+                        "ratings_count": 4208,
+                        "text_reviews_count": 773
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 66431,
+                    "uri": "kca://work/amzn1.gr.work.v1.tyv-0UCCK86signZPi9CsQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240626562
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 12:29:21 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571769059,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 12:29:21 -0800 2013",
+            "date_updated": "Fri Dec 13 12:29:21 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789546619",
+            "link": "https://www.goodreads.com/review/show/789546619",
+            "owned": 0
+        }
+    }
+}

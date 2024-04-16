@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1881728745,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 17880298
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 105
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Bln0tf9U2Yx2ovWPGr5dcw",
+                "title": "Lucky Thirteen (Frontlines, #2.1)",
+                "title_without_series": "Lucky Thirteen",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/17880298-lucky-thirteen",
+                "num_pages": {},
+                "format": "ebook",
+                "edition_information": "Kindle",
+                "publisher": "Frostbite Publishing",
+                "publication_day": 14,
+                "publication_year": 2013,
+                "publication_month": 4,
+                "average_rating": 4.07,
+                "ratings_count": 2405,
+                "description": "Rookie pilot Halley's first drop ship command.<br /><br />A short story in the Terms of Enlistment universe.<br /><br />170 KB",
+                "authors": {
+                    "author": {
+                        "id": 6606349,
+                        "name": "Marko Kloos",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1565448645p5/6606349.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1565448645p2/6606349.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/6606349.Marko_Kloos",
+                        "average_rating": 4.11,
+                        "ratings_count": 82089,
+                        "text_reviews_count": 4445
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 25040007,
+                    "uri": "kca://work/amzn1.gr.work.v1.ArE_mCio9sYyy5zasVuMVw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1669900069
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Jan 16 11:31:01 -0800 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1539397798,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 16 11:31:00 -0800 2017",
+            "date_updated": "Mon Jan 16 11:31:01 -0800 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1881728745",
+            "link": "https://www.goodreads.com/review/show/1881728745",
+            "owned": 0
+        }
+    }
+}

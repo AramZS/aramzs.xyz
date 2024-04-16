@@ -1,0 +1,104 @@
+{
+    "name": "Harper Collins",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Sabriel (Abhorsen,  #1)",
+            "id": "518848",
+            "author": "Garth Nix",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1375899469000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Sabriel (Abhorsen,  #1): Rating - 5/5",
+                    "date": 1375899469000,
+                    "type": "long",
+                    "content": "Years ago I stumbled across Sabriel on a library bookshelf. Little did I know that it would set the standard for readable, engrossing, and superb fantasy.<br/><br/>Nix does world-building in a way that reads effortlessly and opens up a million windows into a unique and fascinating universe. When I discovered it was part of a trilogy I was thrilled.<br/><br/>This is the first book in the series, focused on a world split in half, on one side of the wall is a relatively normal early-modern nation, on the other side a kingdom of magic. In this novel we follow the titular character as she walks from one world to another. The plot runs at just the right speed, building into a fantastic story written flawlessly.<br/><br/>Most novels exploring a unique world fall into the trap of spending too much time trying to explain how it all works. Nix doesn't make that mistake, instead he imbues the work with a wonderful narrative flow, the likes of which I've rarely seen in any genre. The same is true in his characters, who build and grow naturally in the work, resulting in some of the more memorable literary personalities I've encountered. The result is an almost addictive read.<br/><br/>There are few books I can recommend more highly than Sabriel. You should read it. Right now.",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/518848",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper Collins",
+            "tags": [
+                "Mass Market Paperback",
+                "Harper Collins",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0064471837",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780064471831",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "518848",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Sabriel (Abhorsen,  #1)",
+            "id": 518848,
+            "author": "Garth Nix",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/518848",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harper Collins",
+            "tags": [
+                "Mass Market Paperback",
+                "Harper Collins",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 518848,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

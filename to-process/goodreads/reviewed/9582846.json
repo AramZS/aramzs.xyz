@@ -1,0 +1,135 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1757211311,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9582846
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 6
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.oe3GymY8FcirnHTWv3btAQ",
+                "title": "Paths of Disharmony (Star Trek: Typhon Pact, #4)",
+                "title_without_series": "Paths of Disharmony",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9582846-paths-of-disharmony",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.7,
+                "ratings_count": 928,
+                "description": "On a diplomatic mission to the planet Andor, Captain Picard and the crew of the Enterprise-E bear witness to the rank devastation resulting from the Borg invasion. With the reproductive issues that have long plagued the Andorian people reaching crisis level, avenues of research that at first held great promise have proven largely unhelpful, and may well indeed be worsening the problem.<br />Despite the Federation's seeming inability to provide assistance and growing doubt over its commitment to a staunch, longtime ally, Andorian scientists now offer renewed hope for a solution. However, many segments of Andorian society are protesting this controversial new approach, and more radical sects are beginning to make their displeasure known by any means available. In response, President Nanietta Bacco has sent the Enterprise crew and a team of diplomats and scientists to Andor to convene a summit, in the hope of demonstrating that the Federation's pledge to helping Andor is sincere. <br /><br />But the Typhon Pact is watching, and their interests may very well lead the Andorian people down an even more treacherous path. . . .",
+                "authors": {
+                    "author": {
+                        "id": 56607,
+                        "name": "Dayton Ward",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206045915p5/56607.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206045915p2/56607.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/56607.Dayton_Ward",
+                        "average_rating": 3.85,
+                        "ratings_count": 15373,
+                        "text_reviews_count": 1593
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 13172682,
+                    "uri": "kca://work/amzn1.gr.work.v1.c6je0uRLjZMeQ-G3fu0XDQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1516258535
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Mon Sep 19 21:45:23 -0700 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 1508827915
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Sep 13 15:45:09 -0700 2016"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Tue Sep 13 15:45:09 -0700 2016",
+            "read_at": "Mon Sep 19 21:45:22 -0700 2016",
+            "date_added": "Tue Sep 13 15:45:09 -0700 2016",
+            "date_updated": "Mon Sep 19 21:49:29 -0700 2016",
+            "read_count": 1,
+            "body": "<strong>One of the better entries in the series. </strong><br /><br />This entry in the Typhon Pact series stands up particularly well. It's characters and plot are solid and, though dealing more with politics than previous entries, is quite gripping.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1757211311",
+            "link": "https://www.goodreads.com/review/show/1757211311",
+            "owned": 0
+        }
+    }
+}

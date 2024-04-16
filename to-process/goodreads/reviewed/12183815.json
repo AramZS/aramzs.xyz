@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2073733785,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12183815
+                },
+                "isbn": 451492129,
+                "isbn13": 9780451492128,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 955
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.kHuunp3HdN7TvomcUGODrQ",
+                "title": "Brief Cases (The Dresden Files, #15.1)",
+                "title_without_series": "Brief Cases",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513644037l/12183815._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513644037l/12183815._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12183815-brief-cases",
+                "num_pages": 516,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "Ace",
+                "publication_day": 5,
+                "publication_year": 2018,
+                "publication_month": 6,
+                "average_rating": 4.42,
+                "ratings_count": 12289,
+                "description": "<i>Brief Cases</i> is the sequel anthology of <i>Side Jobs</i>, and will be released before <i>Peace Talks</i><br /><br />Set to include the following stories:<br /><br />An exclusive novellette from the perspective of Maggie and Mouse.<br /><br />“Curses” — from The Naked City, edited by Ellen Datlow<br />Takes place between Small Favor and Turn Coat.<br /><br />“AAAA Wizardry” — from the Dresden Files RPG, published by Evil Hat<br />Harry teaches a group of young Wardens his procedure for dealing with supernatural nasties.<br /><br />“Even Hand” — originally from Dark and Stormy Knights, edited by Pat Elrod. Reprinted in Beyond the Pale, edited by Henry Herz.<br />Gentleman Johnnie Marcone clashes with a rival supernatural power. Told from Marcone’s point of view.<br />Takes place between Turn Coat and Changes.<br /><br />“B is for Bigfoot” — from Under My Hat: Tales From the Cauldron, edited by Jonathan Strahan. Republished in Working for Bigfoot.<br />Takes place between Fool Moon and Grave Peril.<br /><br />“I Was A Teenage Bigfoot” — from Blood Lite 3: Aftertaste, edited by Kevin J. Anderson. Republished in Working for Bigfoot.<br />Takes place circa Dead Beat.<br /><br />“Bigfoot on Campus” — from Hex Appeal, edited by P.N. Elrod. Republished in Working for Bigfoot.<br />Takes place between Turn Coat and Changes.<br /><br />“Bombshells” — Molly-POV novella from Dangerous Women, edited by George R. R. Martin and Gardner Duzois.<br />Molly teams up with Justine and Andi to thwart a Fomor plot.<br />Takes place between Ghost Story and Cold Days.<br /><br />“Jury Duty” — short story for Unbound, edited by Shawn Speakman.<br />Harry endures Jury Duty.<br />Set after Skin Game.<br /><br />“Cold Case” — short story from Shadowed Souls, edited by Jim Butcher and Kerrie Hughes.<br />In Molly’s first job in her new role, she teams up with Ramirez to take on a Lovecraft-esque cult.<br />Takes place shortly after Cold Days.<br /><br />“Day One” — short story for Unfettered II, edited by Shawn Speakman.<br />Butters’ first mission.<br />Set after Skin Game.<br /><br />“A Fistful of Warlocks” — short story for Straight Outta Tombstone, edited by David Boop.<br />Luccio takes on necromancers in the Wild West.<br />Set long before the events of the series.",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 17155691,
+                    "uri": "kca://work/amzn1.gr.work.v1.GbUVM_9aCBX7QesV7lXBkQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1936139509
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Thu Jul 27 09:33:01 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1726712520,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Jul 27 09:33:01 -0700 2017",
+            "date_updated": "Thu Jul 27 09:33:01 -0700 2017",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2073733785",
+            "link": "https://www.goodreads.com/review/show/2073733785",
+            "owned": 0
+        }
+    }
+}

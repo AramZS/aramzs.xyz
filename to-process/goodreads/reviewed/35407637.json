@@ -1,0 +1,151 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2777131710,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 35407637
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.RC3pi-P9sPdXAYmlYPddFA",
+                "title": "Kids These Days: Human Capital and the Making of Millennials",
+                "title_without_series": "Kids These Days: Human Capital and the Making of Millennials",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/35407637-kids-these-days",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.84,
+                "ratings_count": 1559,
+                "description": "<b>A Millennial's groundbreaking investigation into why his generation, the most educated in American history, is economically worse off than their parents, challenging popular stereotypes and creating a radical and devastating picture of what it means to be young in America. </b><br /><br />They are the largest living generation in the United States, they are about to inherit the earth, and they're in trouble. Despite being the most educated, efficient and competitive generation in American history Millennials are poorer, deeper in debt, sadder, more anxious, more medicated, and less trusting of others than their parents and even their grandparents.<br /><br />To find out why, Malcolm Harris (b. 1988) decided to conduct a meticulous, data driven analysis of the cultural, technological, and (especially) economic forces over the past 40 years that have shaped Millennial lives. What he discovered, and the sense he made of it, will change how you see yourself, your country, and our future--whether you're a Millennial or not. <br /><br />Examining broad trends like the professionalization of childhood, runaway student debt, the rise of the intern, mass incarceration, social media, and more, <i>The Making of Millennials </i>is a devastating portrait of a generation conditioned from birth to treat their lives, their efforts, their very selves and futures as human capital. With the verve, wit, and breadth of knowledge of a true polemicist, Harris unmasks the school, the university, the job, the government, the social network--indeed, all institutions and corporations of the late 20th and early 21st centuries--as exploitative systems that increasingly offload costs and risks to young people. What are the consequences, and where do we go from here?<br /><br />Gripping, mercilessly argued, and deeply informed,<i> The Making of Millennials</i> is required reading not only for the birth cohort it describes, but for parents, people in business, policy-makers, teachers, and anyone ready to take a good, hard look at how America treats its young.",
+                "authors": {
+                    "author": {
+                        "id": 16872611,
+                        "name": "Malcolm   Harris",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1495408023p5/16872611.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1495408023p2/16872611.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/16872611.Malcolm_Harris",
+                        "average_rating": 3.84,
+                        "ratings_count": 1633,
+                        "text_reviews_count": 265
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 55657470,
+                    "uri": "kca://work/amzn1.gr.work.v1.nHSCJXT0HdLrmgsteLZzVA"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3361042467
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Wed Jan 22 15:14:14 -0800 2020"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 3133144571
+                        },
+                        "old_status": "to-read",
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Wed Sep 18 11:40:46 -0700 2019"
+                        },
+                        "ratings_count": 2,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 2860611778
+                        },
+                        "old_status": {},
+                        "status": "to-read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Sat Apr 06 11:08:45 -0700 2019"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Wed Sep 18 11:40:45 -0700 2019",
+            "read_at": "Wed Jan 22 15:14:13 -0800 2020",
+            "date_added": "Sat Apr 06 11:08:44 -0700 2019",
+            "date_updated": "Wed Jan 22 15:14:13 -0800 2020",
+            "read_count": 1,
+            "body": "",
+            "reading_notes_link_text": "165 highlights",
+            "reading_notes_url": "https://www.goodreads.com/notes/35407637-kids-these-days/1244876-aram",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2777131710",
+            "link": "https://www.goodreads.com/review/show/2777131710",
+            "owned": 0
+        }
+    }
+}

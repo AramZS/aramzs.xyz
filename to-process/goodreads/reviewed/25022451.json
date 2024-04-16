@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967347,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25022451
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 257
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.Eb3RtnHNGleFdUNDONwaVw",
+                "title": "The Aeronaut's Windlass (The Cinder Spires, #1)",
+                "title_without_series": "The Aeronaut's Windlass",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425511990l/25022451._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425511990l/25022451._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25022451-the-aeronaut-s-windlass",
+                "num_pages": 640,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Roc",
+                "publication_day": 29,
+                "publication_year": 2015,
+                "publication_month": 9,
+                "average_rating": 4.17,
+                "ratings_count": 35643,
+                "description": "<b>Jim Butcher, the #1 New York Times bestselling author of The Dresden Files and the Codex Alera novels, conjures up a new series set in a fantastic world of noble families, steam-powered technology, and magic-wielding warriors…</b><br /><br />Since time immemorial, the Spires have sheltered humanity, towering for miles over the mist-shrouded surface of the world. Within their halls, aristocratic houses have ruled for generations, developing scientific marvels, fostering trade alliances, and building fleets of airships to keep the peace.<br /><br />Captain Grimm commands the merchant ship, <i>Predator</i>. Fiercely loyal to Spire Albion, he has taken their side in the cold war with Spire Aurora, disrupting the enemy’s shipping lines by attacking their cargo vessels. But when the <i>Predator</i> is severely damaged in combat, leaving captain and crew grounded, Grimm is offered a proposition from the Spirearch of Albion—to join a team of agents on a vital mission in exchange for fully restoring <i>Predator</i> to its fighting glory.<br /><br />And even as Grimm undertakes this dangerous task, he will learn that the conflict between the Spires is merely a premonition of things to come. Humanity’s ancient enemy, silent for more than ten thousand years, has begun to stir once more. And death will follow in its wake…",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 24239884,
+                    "uri": "kca://work/amzn1.gr.work.v1.pV-V3ndPRENP6PgqOhK9UA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886478815
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:28:54 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1002423336,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:28:54 -0700 2015",
+            "date_updated": "Fri Jun 05 15:28:54 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967347",
+            "link": "https://www.goodreads.com/review/show/1299967347",
+            "owned": 0
+        }
+    }
+}

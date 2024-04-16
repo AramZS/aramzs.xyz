@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 209472467,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 7937744
+                },
+                "isbn": 316123404,
+                "isbn13": 9780316123402,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 836
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.N1WHHPLxF_ViL0wpNmiXlg",
+                "title": "Surface Detail (Culture #9)",
+                "title_without_series": "Surface Detail",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287893375l/7937744._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1287893375l/7937744._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/7937744-surface-detail",
+                "num_pages": 627,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Orbit/Hachette Book Group",
+                "publication_day": 28,
+                "publication_year": 2010,
+                "publication_month": 10,
+                "average_rating": 4.25,
+                "ratings_count": 22425,
+                "description": "It begins in the realm of the Real, where matter still matters. It begins with a murder. It will not end until the Culture has gone to war with death itself. Lededje Y'breq is one of the Intagliated, her marked body bearing witness to a family shame, her life belonging to a man whose lust for power is without limit. Prepared to risk everything for her freedom, her release, when it comes, is at a price. To put things right she will need the help of the Culture. Benevolent, enlightened and almost infinitely resourceful tho it may be, the Culture can only do so much for any individual. <br /><br />With the assistance of one of its most powerful - and arguably deranged - warships, Lededje finds herself heading into a combat zone not even sure which side the Culture is really on. <br /><br />A brutal, far-reaching war is already raging within the digital realms that store the souls of the dead and it's about to erupt into reality. It started in the realm of the Real &amp; that is where it will end. It will touch countless lives and affect entire civilizations, but at the center of it all is a young woman whose need for revenge masks another motive altogether.",
+                "authors": {
+                    "author": {
+                        "id": 5807106,
+                        "name": "Iain M. Banks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p5/5807106.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p2/5807106.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks",
+                        "average_rating": 4.08,
+                        "ratings_count": 349700,
+                        "text_reviews_count": 15763
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 11345814,
+                    "uri": "kca://work/amzn1.gr.work.v1.bDQEKwgFavbJ_Z9ZreKnqw"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Sep 16 13:54:57 -0700 2011",
+            "date_updated": "Fri Sep 16 13:54:57 -0700 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/209472467",
+            "link": "https://www.goodreads.com/review/show/209472467",
+            "owned": 0
+        }
+    }
+}

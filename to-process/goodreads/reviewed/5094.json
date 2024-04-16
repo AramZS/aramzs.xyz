@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 133685842,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 5094
+                },
+                "isbn": 451210859,
+                "isbn13": 9780451210852,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 5245
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.F20HkL7ti1j96wj37K1K8Q",
+                "title": "The Drawing of the Three (The Dark Tower, #2)",
+                "title_without_series": "The Drawing of the Three",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370918050l/5094._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370918050l/5094._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/5094.The_Drawing_of_the_Three",
+                "num_pages": 463,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Signet",
+                "publication_day": 5,
+                "publication_year": 2003,
+                "publication_month": 8,
+                "average_rating": 4.23,
+                "ratings_count": 206508,
+                "description": "While pursuing his quest for the Dark Tower through a world that is a nightmarishly distorted mirror image of our own, Roland, the last gunslinger, encounters three mysterious doorways on the beach. Each one enters into the life of a different person living in contemporary New York. <br /><br />Here he links forces with the defiant young Eddie Dean and the beautiful, brilliant, and brave Odetta Holmes, in a savage struggle against underworld evil and otherworldly enemies.<br /><br />Once again, Stephen King has masterfully interwoven dark, evocative fantasy and icy realism.",
+                "authors": {
+                    "author": {
+                        "id": 3389,
+                        "name": "Stephen King",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1362814142p5/3389.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1362814142p2/3389.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3389.Stephen_King",
+                        "average_rating": 4.04,
+                        "ratings_count": 13914723,
+                        "text_reviews_count": 547021
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 2113248,
+                    "uri": "kca://work/amzn1.gr.work.v1.3yPsKIQFC-mTra_3GP9KAg"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Dec 05 00:00:00 -0800 2010",
+            "date_added": "Sun Dec 05 07:57:44 -0800 2010",
+            "date_updated": "Sun Dec 05 07:58:22 -0800 2010",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/133685842",
+            "link": "https://www.goodreads.com/review/show/133685842",
+            "owned": 0
+        }
+    }
+}

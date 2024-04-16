@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24671570,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 16685
+                },
+                "isbn": 441094996,
+                "isbn13": 9780441094998,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 582
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.L0HeWPhGfxAVThdJqtuwpg",
+                "title": "The Cat Who Walks Through Walls",
+                "title_without_series": "The Cat Who Walks Through Walls",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/16685.The_Cat_Who_Walks_Through_Walls",
+                "num_pages": 388,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Ace Books",
+                "publication_day": 1,
+                "publication_year": 1988,
+                "publication_month": 6,
+                "average_rating": 3.7,
+                "ratings_count": 20219,
+                "description": "When a stranger attempting to deliver a cryptic message is shot dead at his table, Dr. Richard Ames is thrown headfirst into danger, intrigue, and other dimensions, where a plot to rescue a sentient computer could alter human history...",
+                "authors": {
+                    "author": {
+                        "id": 205,
+                        "name": "Robert A. Heinlein",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192826560p5/205.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192826560p2/205.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/205.Robert_A_Heinlein",
+                        "average_rating": 3.94,
+                        "ratings_count": 1071046,
+                        "text_reviews_count": 34737
+                    }
+                },
+                "published": 1988,
+                "work": {
+                    "id": 2270807,
+                    "uri": "kca://work/amzn1.gr.work.v1.n-U9-vLVgKPVNnxYnJFivw"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:22:53 -0700 2008",
+            "date_updated": "Mon Jun 16 19:22:53 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24671570",
+            "link": "https://www.goodreads.com/review/show/24671570",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528977700,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6499233
+                },
+                "isbn": 1607012146,
+                "isbn13": 9781607012146,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 10
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.eJ3a9B7YGnqnq2_NQTilqQ",
+                "title": "The Year's Best Science Fiction & Fantasy, 2009",
+                "title_without_series": "The Year's Best Science Fiction & Fantasy, 2009",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6499233-the-year-s-best-science-fiction-fantasy-2009",
+                "num_pages": 541,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Prime Books",
+                "publication_day": 23,
+                "publication_year": 2009,
+                "publication_month": 12,
+                "average_rating": 3.75,
+                "ratings_count": 163,
+                "description": "'The Year's Best Science Fiction &amp; Fantasy 2009' features over a quarter million words of fiction by some of the genre's greatest authors, including Peter S. Beagle, Elizabeth Bear, Jay Lake, Ian McDonald, Sarah Monette, Garth Nix, and Patrick Rothfuss.",
+                "authors": {
+                    "author": {
+                        "id": 152855,
+                        "name": "Rich Horton",
+                        "role": "Editor",
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/152855.Rich_Horton",
+                        "average_rating": 3.67,
+                        "ratings_count": 2746,
+                        "text_reviews_count": 399
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 6690741,
+                    "uri": "kca://work/amzn1.gr.work.v1.JTb3T3Mqtxc9a57UjzTH8A"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 358537627,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:41:59 -0800 2013",
+            "date_updated": "Thu Feb 07 08:41:59 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528977700",
+            "link": "https://www.goodreads.com/review/show/528977700",
+            "owned": 0
+        }
+    }
+}

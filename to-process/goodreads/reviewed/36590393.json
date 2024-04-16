@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2614210978,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 36590393
+                },
+                "isbn": 62474170,
+                "isbn13": 9780062474179,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 123
+                },
+                "uri": "kca://book/amzn1.gr.book.v1._GIi6PhQv4c-jWlYC8NUqw",
+                "title": "Hollywood Dead (Sandman Slim #10)",
+                "title_without_series": "Hollywood Dead",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515774118l/36590393._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515774118l/36590393._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/36590393-hollywood-dead",
+                "num_pages": 353,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Harper Voyager",
+                "publication_day": 28,
+                "publication_year": 2018,
+                "publication_month": 8,
+                "average_rating": 4.31,
+                "ratings_count": 2347,
+                "description": "Life and death takes on an entirely new meaning for half-angel, half-human hero James Stark, aka, Sandman Slim, in this insanely inventive, high-intensity tenth supernatural noir thriller in the <em>New York Times</em> bestselling series.<br /><br />James Stark is back from Hell, trailing more trouble in his wake. To return to L.A., he had to make a deal with the evil power brokers, Wormwood—an arrangement that came with a catch. While he may be home, Stark isn’t quite himself . . . because he’s only partially alive.<br /><br />There’s a time limit on his reanimated body, and unless Stark can find the people targeting Wormwood, he will die again—and this time there will be no coming back. Even though he’s armed with the Room of Thirteen Doors, Stark knows he can’t find Wormwood’s enemies alone. To succeed he’s got to enlist the help of new friends—plus a few unexpected old faces.<br /><br />Stark has been in dangerous situations before—you don’t get named Sandman Slim for nothing. But with a mysterious enemy on the loose, a debt to pay, and a clock ticking down, this may truly be the beginning of his end. . . .",
+                "authors": {
+                    "author": {
+                        "id": 37557,
+                        "name": "Richard Kadrey",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1252945001p5/37557.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1252945001p2/37557.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37557.Richard_Kadrey",
+                        "average_rating": 3.99,
+                        "ratings_count": 130478,
+                        "text_reviews_count": 8935
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 58338636,
+                    "uri": "kca://work/amzn1.gr.work.v1.VEVPVkDZqy46GUWuVSzHrQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2645948747
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 03 11:07:37 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun Dec 02 00:00:00 -0800 2018",
+            "date_added": "Mon Dec 03 11:07:36 -0800 2018",
+            "date_updated": "Wed Dec 26 09:27:24 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2614210978",
+            "link": "https://www.goodreads.com/review/show/2614210978",
+            "owned": 0
+        }
+    }
+}

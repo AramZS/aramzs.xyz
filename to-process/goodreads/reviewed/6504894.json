@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 90222088,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6504894
+                },
+                "isbn": 345501136,
+                "isbn13": 9780345501134,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 262
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.zXNyqrCpXiW3zeIbOicNYw",
+                "title": "Sleepless",
+                "title_without_series": "Sleepless",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320398852l/6504894._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320398852l/6504894._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6504894-sleepless",
+                "num_pages": 368,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Ballantine Books",
+                "publication_day": 12,
+                "publication_year": 2010,
+                "publication_month": 1,
+                "average_rating": 3.66,
+                "ratings_count": 2397,
+                "description": "From bestselling author Charlie Huston comes a novel about the fears that find us all during dark times and the courage and sacrifice that can save us in the face of unimaginable odds. Gripping, unnerving, exhilarating, and haunting, Sleepless is well worth staying up for.<br /><br />What former philosophy student Parker Hass wanted was a better world. A world both just and safe for his wife and infant daughter. So he joined the LAPD and tried to make it that way. But the world changed. Struck by waves of chaos carried in on a tide of insomnia. A plague of sleeplessness.<br /><br />Park can sleep, but he is wide awake. And as much as he wishes he was dreaming, his eyes are open. He has no choice but to see it all. That's his job. Working undercover as a drug dealer in a Los Angeles ruled in equal parts by martial law and insurgency, he's tasked with cutting off illegal trade in Dreamer, the only drug that can give the infected what they most crave: sleep.<br /><br />After a year of lost leads and false trails, Park stumbles into the perilous shadows cast by the pharmaceuticals giant behind Dreamer. Somewhere in those shadows, at the nexus of disease and drugs and money, a secret is hiding. Drawn into the inner circle of a tech guru with a warped agenda and a special use for the sleepless themselves, Park thinks he knows what that secret might be.<br /> <br />To know for certain, he will have to go deeper into the restless world. His wife has become sleepless, and their daughter may soon share the same fate. For them, he will risk what they need most from him: his belief that justice <br />must be served. Unknown to him, his choice ties all of their futures to the singularly deadly nature of an aging mercenary who stalks Park.<br /><br />The deeper Park stumbles through the dark, the more he is convinced that it is obscuring the real world. Bring enough light and the shadows will retreat. Bring enough light and everyone will see themselves again. Bring enough light and he will find his way to the safe corner, the harbor he's promised his family. Whatever the cost to himself.<br /><br />It is July 2010.<br /><br />The future is coming.<br /><br />Open your eyes.",
+                "authors": {
+                    "author": {
+                        "id": 4861,
+                        "name": "Charlie Huston",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1371253299p5/4861.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1371253299p2/4861.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4861.Charlie_Huston",
+                        "average_rating": 3.9,
+                        "ratings_count": 55250,
+                        "text_reviews_count": 3942
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 6696477,
+                    "uri": "kca://work/amzn1.gr.work.v1.8_M1KqptmI1JkvvHqiXGFQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 48871857,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Wed Feb 17 23:03:09 -0800 2010",
+            "date_updated": "Wed Feb 17 23:03:09 -0800 2010",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/90222088",
+            "link": "https://www.goodreads.com/review/show/90222088",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749132470,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15754046
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 16
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.HnyvTVuULVDNfeB5muyoAA",
+                "title": "Pronto, Riding the Rap, Fire in the Hole",
+                "title_without_series": "Pronto, Riding the Rap, Fire in the Hole",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342414017l/15754046._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342414017l/15754046._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15754046-pronto-riding-the-rap-fire-in-the-hole",
+                "num_pages": 657,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "William Morrow",
+                "publication_day": 14,
+                "publication_year": 2012,
+                "publication_month": 2,
+                "average_rating": 4.14,
+                "ratings_count": 811,
+                "description": "New York Times bestselling author Elmore Leonard's U.S. Marshal Raylan Givens is the mesmerizing hero of numerous books and the hit FX series Justified. Now the first three Raylan books—Pronto, Riding the Rap, and Fire in the Hole—are together in one ebook, along with an excerpt from Raylan, the brand new novel in the series.",
+                "authors": {
+                    "author": {
+                        "id": 12940,
+                        "name": "Elmore Leonard",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1240015224p5/12940.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1240015224p2/12940.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12940.Elmore_Leonard",
+                        "average_rating": 3.77,
+                        "ratings_count": 193288,
+                        "text_reviews_count": 13682
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 19189976,
+                    "uri": "kca://work/amzn1.gr.work.v1.NGKcb7-C6vwjaexXoZzzhA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498306587
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:46:00 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414468853,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:45:59 -0700 2016",
+            "date_updated": "Mon Sep 05 07:45:59 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749132470",
+            "link": "https://www.goodreads.com/review/show/1749132470",
+            "owned": 0
+        }
+    }
+}

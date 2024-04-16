@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 532177736,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6555278
+                },
+                "isbn": 1401224938,
+                "isbn13": 9781401224936,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 59
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.B-_WIAOG3j5UmzG6o_GYMA",
+                "title": "Sleeper Season Two",
+                "title_without_series": "Sleeper Season Two",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320524390l/6555278._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320524390l/6555278._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6555278-sleeper-season-two",
+                "num_pages": 288,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "WildStorm",
+                "publication_day": 6,
+                "publication_year": 2009,
+                "publication_month": 10,
+                "average_rating": 4.32,
+                "ratings_count": 836,
+                "description": "It's the final SLEEPER collection from the team of Ed Brubaker and Sean Phillips (Criminal). While spymaster John Lynch slept in a coma, his protégé Holden Carver was trapped undercover. Now that his star has risen in criminal mastermind Tao's organization, Carver is shocked by the news that Lynch is awake. Torn between new loyalties and his original mission, Carver must decide whose side he's really on – and if they're on his.<br /><br />This collection features SLEEPER SEASON TWO #1-12, the full second year of the critically acclaimed series by Brubaker and Phillips, plus the never-before-collected prequel story from COUP D'ETAT: AFTERWORD.<br /><br />\"SLEEPER could hold its own against any noir, from any medium...Brubaker is without a doubt the best crime fiction writer in comics today.\"--AIN'T IT COOL NEWS",
+                "authors": {
+                    "author": {
+                        "id": 37450,
+                        "name": "Ed Brubaker",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1230612199p5/37450.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1230612199p2/37450.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37450.Ed_Brubaker",
+                        "average_rating": 4.06,
+                        "ratings_count": 306082,
+                        "text_reviews_count": 17286
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 16355936,
+                    "uri": "kca://work/amzn1.gr.work.v1.6YeiXjwz7qFCx7Txdhy0zg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051890400
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:42:13 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813202809,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Feb 01 00:00:00 -0800 2013",
+            "date_added": "Sun Feb 10 12:08:06 -0800 2013",
+            "date_updated": "Mon Oct 23 16:42:14 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/532177736",
+            "link": "https://www.goodreads.com/review/show/532177736",
+            "owned": 0
+        }
+    }
+}

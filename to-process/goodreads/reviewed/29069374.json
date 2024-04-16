@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629410395,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 29069374
+                },
+                "isbn": 1606999591,
+                "isbn13": 9781606999592,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2024
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.remF2_ZTivtAaXjNUZarvQ",
+                "title": "My Favorite Thing Is Monsters, Vol. 1 (My Favorite Thing Is Monsters, #1)",
+                "title_without_series": "My Favorite Thing Is Monsters, Vol. 1",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580775137l/29069374._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580775137l/29069374._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/29069374-my-favorite-thing-is-monsters-vol-1",
+                "num_pages": 416,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Fantagraphics",
+                "publication_day": 14,
+                "publication_year": 2017,
+                "publication_month": 2,
+                "average_rating": 4.18,
+                "ratings_count": 15437,
+                "description": "Set against the tumultuous political backdrop of late ’60s Chicago, <i>My Favorite Thing Is Monsters</i> is the fictional graphic diary of 10-year-old Karen Reyes, filled with B-movie horror and pulp monster magazines iconography. Karen Reyes tries to solve the murder of her enigmatic upstairs neighbor, Anka Silverberg, a holocaust survivor, while the interconnected stories of those around her unfold. When Karen’s investigation takes us back to Anka’s life in Nazi Germany, the reader discovers how the personal, the political, the past, and the present converge. Full-color illustrations throughout.",
+                "authors": {
+                    "author": {
+                        "id": 14978890,
+                        "name": "Emil Ferris",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1500254593p5/14978890.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1500254593p2/14978890.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/14978890.Emil_Ferris",
+                        "average_rating": 4.18,
+                        "ratings_count": 15685,
+                        "text_reviews_count": 2368
+                    }
+                },
+                "published": 2017,
+                "work": {
+                    "id": 49299009,
+                    "uri": "kca://work/amzn1.gr.work.v1.EKs8-hz_ZzllrfbVIYMIGQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666057141
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:51:31 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274614626,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:51:30 -0800 2018",
+            "date_updated": "Mon Dec 17 07:51:31 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629410395",
+            "link": "https://www.goodreads.com/review/show/2629410395",
+            "owned": 0
+        }
+    }
+}

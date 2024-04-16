@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2629410111,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9850443
+                },
+                "isbn": 62041266,
+                "isbn13": 9780062041265,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 7296
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UH01RK9VYFnVGWpvOeLORQ",
+                "title": "The Sisters Brothers",
+                "title_without_series": "The Sisters Brothers",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1291999900l/9850443._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1291999900l/9850443._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9850443-the-sisters-brothers",
+                "num_pages": 328,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Ecco",
+                "publication_day": 26,
+                "publication_year": 2011,
+                "publication_month": 4,
+                "average_rating": 3.85,
+                "ratings_count": 77459,
+                "description": "Hermann Kermit Warm is going to die. The enigmatic and powerful man known only as the Commodore has ordered it, and his henchmen, Eli and Charlie Sisters, will make sure of it. Though Eli doesn't share his brother's appetite for whiskey and killing, he's never known anything else. But their prey isn't an easy mark, and on the road from Oregon City to Warm's gold-mining claim outside Sacramento, Eli begins to question what he does for a living - and whom he does it for.<br /><br />With <i>The Sisters Brothers</i>, Patrick deWitt pays homage to the classic Western, transforming it into an unforgettable comic tour de force. Filled with a remarkable cast of characters - losers, cheaters, and ne'er-do-wells from all stripes of life - and told by a complex and compelling narrator, it is a violent, lustful odyssey through the underworld of the 1850s frontier that beautifully captures the humor, melancholy, and grit of the Old West, and two brothers bound by blood, violence, and love.",
+                "authors": {
+                    "author": {
+                        "id": 1041872,
+                        "name": "Patrick deWitt",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1225095402p5/1041872.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1225095402p2/1041872.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/1041872.Patrick_deWitt",
+                        "average_rating": 3.79,
+                        "ratings_count": 109818,
+                        "text_reviews_count": 13063
+                    }
+                },
+                "published": 2011,
+                "work": {
+                    "id": 14741473,
+                    "uri": "kca://work/amzn1.gr.work.v1.yLBRqon2LgkrT8i8DjU0Kg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2666056762
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Dec 17 07:51:09 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 2274614348,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Dec 17 07:51:08 -0800 2018",
+            "date_updated": "Mon Dec 17 07:51:09 -0800 2018",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2629410111",
+            "link": "https://www.goodreads.com/review/show/2629410111",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528944764,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 781124
+                },
+                "isbn": 441010164,
+                "isbn13": 9780441010165,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 221
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.LssNutv0ZR4FzFc7PmEBqg",
+                "title": "Ombria in Shadow",
+                "title_without_series": "Ombria in Shadow",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309201482l/781124._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309201482l/781124._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/781124.Ombria_in_Shadow",
+                "num_pages": 298,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Ace",
+                "publication_day": 4,
+                "publication_year": 2003,
+                "publication_month": 2,
+                "average_rating": 3.99,
+                "ratings_count": 4460,
+                "description": "Ombria is a place heaped with history -- and secrets. There is a buried city beneath it inhabited by ghosts, accessible only through magical passages and long-forgotten doorways. When the Prince of Ombria dies suddenly, his wicked great-aunt Domina Pearl seizes power by becoming regent to the prince's young son, Kyel. Minutes after the prince's death, Domina kicks Lydea, the prince's longtime mistress, out into the streets to die. But she is saved by a strange girl named Mag, a supposed waxling created by a powerful sorceress who lives underneath the city. With the help of Mag and the prince's bastard nephew, a strange, silver-eyed man obsessed with drawing, Lydea tries to save Kyel and somehow defeat Domina.",
+                "authors": {
+                    "author": {
+                        "id": 25,
+                        "name": "Patricia A. McKillip",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1220752490p5/25.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1220752490p2/25.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/25.Patricia_A_McKillip",
+                        "average_rating": 3.99,
+                        "ratings_count": 141555,
+                        "text_reviews_count": 9045
+                    }
+                },
+                "published": 2003,
+                "work": {
+                    "id": 767145,
+                    "uri": "kca://work/amzn1.gr.work.v1.XFu4tDKa6BxsZYe2Ql7kxg"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 358511389,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:02:13 -0800 2013",
+            "date_updated": "Thu Feb 07 08:02:13 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528944764",
+            "link": "https://www.goodreads.com/review/show/528944764",
+            "owned": 0
+        }
+    }
+}

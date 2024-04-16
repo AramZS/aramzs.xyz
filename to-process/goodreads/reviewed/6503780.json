@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528960092,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 6503780
+                },
+                "isbn": 1401225721,
+                "isbn13": 9781401225728,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 608
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.ry8PLKzNYk1gy4vATrwAng",
+                "title": "Fables, Vol. 13: The Great Fables Crossover",
+                "title_without_series": "Fables, Vol. 13: The Great Fables Crossover",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/6503780-fables-vol-13",
+                "num_pages": 224,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 9,
+                "publication_year": 2010,
+                "publication_month": 2,
+                "average_rating": 3.43,
+                "ratings_count": 7847,
+                "description": "<b>Winner of Fourteen <u>Eisner</u> Awards</b><br /><br /><b>When Fables Collide!</b><br /><blockquote>This is it - a story so grand, so epic in scale that no single series could contain it!</blockquote><br />As the free Fables struggle to regroup following the destruction of their New York City stronghold, they are suddenly faced with a wholly new menace - one that threatens not only their adopted planet, but all of reality itself!<br />Against such a terrible power, can even the combined abilities of these legendary storybook heroes prevail? Only one thing is certain: once the battle is joined, the world of Fables will never be the same!<br />Deftly crafted by writers Bill Willingham and Matthew Sturges and artists Mark Buckingham, Russ Braun, Tony Akins, Andrew Pepoy, José Marzan, Jr. and Dan Green.<br /><br /><b>Collecting</b>: <i>Fables</i> 83-85, <i>Jack of Fables</i> 33-35, <i>The Literals</i> 1-3",
+                "authors": {
+                    "author": {
+                        "id": 12444,
+                        "name": "Bill Willingham",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p5/12444.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p2/12444.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12444.Bill_Willingham",
+                        "average_rating": 4.04,
+                        "ratings_count": 583176,
+                        "text_reviews_count": 25138
+                    }
+                },
+                "published": 2010,
+                "work": {
+                    "id": 6695339,
+                    "uri": "kca://work/amzn1.gr.work.v1.gxu1Vuc-TsHTikM5qvuIKQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051891818
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:43:35 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813203827,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:20:56 -0800 2013",
+            "date_updated": "Mon Oct 23 16:43:35 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528960092",
+            "link": "https://www.goodreads.com/review/show/528960092",
+            "owned": 0
+        }
+    }
+}

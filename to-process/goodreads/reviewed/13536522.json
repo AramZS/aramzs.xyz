@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 520208005,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13536522
+                },
+                "isbn": 1401235506,
+                "isbn13": 9781401235505,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 378
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.QwQHBBoiQovEdvhA5C9Xbg",
+                "title": "Fairest, Volume 1: Wide Awake",
+                "title_without_series": "Fairest, Volume 1: Wide Awake",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375405869l/13536522._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375405869l/13536522._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13536522-fairest-volume-1",
+                "num_pages": 160,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 27,
+                "publication_year": 2012,
+                "publication_month": 11,
+                "average_rating": 3.81,
+                "ratings_count": 4307,
+                "description": "<i>New York Times</i> bestselling, award-winning creator Bill Willingham presents a new series starring the female Fables. Balancing horror, humor and adventure in the <i>Fables</i> tradition, <i>Fairest</i> explores the secret histories of Sleeping Beauty, Rapunzel, Cinderella, The Snow Queen, Thumbelina, Snow White, Rose Red and others<br />The first 6-issue tale follows the misadventures of Briar Rose immediately after the events of <i>Fables</i> 107 (collected in <i>Fables</i>, Volume 16: <i>Super Team</i>), in which she was stolen away by the goblin army.<br />Fan-favorite artist Phil Jimenez (<i>Wonder Woman</i>, <i>The Invisibles</i>) returns to Vertigo to pencil the opening storyline. Award-winning cover artist Adam Hughes (<i>Wonder Woman</i>, <i>Batgirl</i>) provides covers, starting with a wraparound cover on issue 1 that spotlights the lovely ladies who will star in the series.<br /><br /><b>Collecting</b>: <i>Fairest</i> 1-7",
+                "authors": {
+                    "author": {
+                        "id": 12444,
+                        "name": "Bill Willingham",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p5/12444.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p2/12444.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12444.Bill_Willingham",
+                        "average_rating": 4.04,
+                        "ratings_count": 583176,
+                        "text_reviews_count": 25138
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 19098237,
+                    "uri": "kca://work/amzn1.gr.work.v1.TIxQwN4F-n_Eu9kz043KcA"
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jan 28 19:46:54 -0800 2013",
+            "date_updated": "Mon Jan 28 19:46:54 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/520208005",
+            "link": "https://www.goodreads.com/review/show/520208005",
+            "owned": 0
+        }
+    }
+}

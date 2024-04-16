@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749129477,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25711240
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 25
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.HnytW3JSgVasdiR5tQsc2A",
+                "title": "Saving Capitalism: For the Many, Not the Few",
+                "title_without_series": "Saving Capitalism: For the Many, Not the Few",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25711240-saving-capitalism",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.22,
+                "ratings_count": 3740,
+                "description": "<b>From the author of <i>Aftershock</i> and <i>The Work of Nation</i>s, his most important book to date--a passionate yet practical, sweeping yet minutely argued, myth-shattering breakdown of what's wrong with our political-economic system, and what it will take to fix it.</b><br /><br />Perhaps no one is better acquainted with the intersection of finance and politics than Robert B. Reich, and now he reveals the cycles of power and influence that have perpetuated a new American oligarchy, a shrinking middle class, and the greatest income inequality and wealth disparity in eighty years. He makes clear how centrally problematic our veneration of the \"free market\" is, and how it has masked the power of the moneyed interests to tilt the market to their benefit. He exposes the falsehoods that have been bolstered by the corruption of our democracy by big corporations and the revolving door between Washington and Wall Street-- that all workers are paid what they're \"worth,\" a higher minimum wage equals fewer jobs, corporations must serve shareholders before employees. Ever the pragmatist, Reich sees hope for reversing our slide toward inequality and diminished opportunity by shoring up the countervailing power of everyone else. Here is a revelatory indictment of our economic status quo and an empowering call to civic action.",
+                "authors": {
+                    "author": {
+                        "id": 43932,
+                        "name": "Robert B. Reich",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1288662196p5/43932.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1288662196p2/43932.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/43932.Robert_B_Reich",
+                        "average_rating": 4.02,
+                        "ratings_count": 16074,
+                        "text_reviews_count": 1857
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 44960922,
+                    "uri": "kca://work/amzn1.gr.work.v1.hvjh6sUK9-N57DdcgA6okg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498302713
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:42:35 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414465962,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:42:34 -0700 2016",
+            "date_updated": "Mon Sep 05 07:42:35 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749129477",
+            "link": "https://www.goodreads.com/review/show/1749129477",
+            "owned": 0
+        }
+    }
+}

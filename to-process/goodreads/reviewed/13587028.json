@@ -1,0 +1,116 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789412868,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13587028
+                },
+                "isbn": 1594036357,
+                "isbn13": 9781594036354,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 45
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.KHWuL9i_KWDVKo59_5CiNw",
+                "title": "Unlearning Liberty: Campus Censorship and the End of American Debate",
+                "title_without_series": "Unlearning Liberty: Campus Censorship and the End of American Debate",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344696893l/13587028._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344696893l/13587028._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13587028-unlearning-liberty",
+                "num_pages": 336,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Encounter Books",
+                "publication_day": 23,
+                "publication_year": 2012,
+                "publication_month": 10,
+                "average_rating": 4.28,
+                "ratings_count": 313,
+                "description": "For over a generation, shocking cases of censorship at America’s colleges and universities have taught students the wrong lessons about living in a free society. Drawing on a decade of experience battling for freedom of speech on campus, First Amendment lawyer Greg Lukianoff reveals how higher education fails to teach its students to become critical thinkers by supercharging ideological divisions, promoting groupthink, and encouraging an unscholarly certainty about complex issues.<br /><br />Lukianoff walks readers through the life of a modern-day college student, from orientation to the end of freshman year. Through this lens, he describes startling violations of free speech rights: a student in Indiana punished for publicly reading a book, a student in Georgia expelled for a pro-environment collage he posted on Facebook, students at Yale banned from putting an F. Scott Fitzgerald quote on a t-shirt, and students across the country banished to tiny “free speech zones.” But Lukianoff goes further, demonstrating how this culture of censorship is bleeding into the larger society. As he explores public controversies involving Juan Williams, Rush Limbaugh, Bill Maher, Richard Dawkins, and Larry Summers, along with campus uproars in which Dave Barry and Jon Stewart's <i>The Daily Show</i> played a role, Lukianoff paints a stark picture of our ability as a nation to rationally discuss important issues. <i>Unlearning Liberty: Campus Censorship and the End of American Debate</i> reveals how the intolerance for dissent and debate on today’s campus threatens the freedom of every citizen—and makes us all just a little bit dumber.<br />",
+                "authors": {
+                    "author": {
+                        "id": 5810256,
+                        "name": "Greg Lukianoff",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5810256.Greg_Lukianoff",
+                        "average_rating": 4.23,
+                        "ratings_count": 13780,
+                        "text_reviews_count": 1843
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 19174380,
+                    "uri": "kca://work/amzn1.gr.work.v1.4f8oiOJAWjKNgtWz3GBwdA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240462463
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:43:37 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 571651636,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:43:37 -0800 2013",
+            "date_updated": "Fri Dec 13 08:43:37 -0800 2013",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789412868",
+            "link": "https://www.goodreads.com/review/show/789412868",
+            "owned": 0
+        }
+    }
+}

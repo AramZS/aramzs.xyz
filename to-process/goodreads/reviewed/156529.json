@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 789419950,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 156529
+                },
+                "isbn": 1401205011,
+                "isbn13": 9781401205010,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 456
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.nUXqRtaFb5Tqv6nYTAAjZQ",
+                "title": "Y: The Last Man, Vol. 6: Girl on Girl (Y: The Last Man, #6)",
+                "title_without_series": "Y: The Last Man, Vol. 6: Girl on Girl",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/156529.Y",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Vertigo",
+                "publication_day": 23,
+                "publication_year": 2005,
+                "publication_month": 11,
+                "average_rating": 4.2,
+                "ratings_count": 25621,
+                "description": "More than two years after the unexplained plague killed every other male mammal on the planet, the two exceptions - aspiring escape artist Yorick Brown and his pet monkey Ampersand - have traveled across the remains of the U.S. with biochemist Dr. Allison Mann and goverment operative Agent 355 to Dr. Mann's lab in San Francisco, where she managed to finally isolate the source of their immunity.<br /><br />Unfortunately, that source is within Ampersand's body, which was last seen disappearing under the arm of a mysterious Japanese mercenary. Now, accompanied by 355 and Dr. Mann, the last man on Earth has embarked on a new and even more hazardous journey - following Ampersand's trail across the Pacific, where danger threatens from below as well as above the waves. <br /><br />Collects issues 32-36",
+                "authors": {
+                    "author": {
+                        "id": 24514,
+                        "name": "Brian K. Vaughan",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p5/24514.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1557530189p2/24514.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/24514.Brian_K_Vaughan",
+                        "average_rating": 4.24,
+                        "ratings_count": 1509452,
+                        "text_reviews_count": 88064
+                    }
+                },
+                "published": 2005,
+                "work": {
+                    "id": 1584089,
+                    "uri": "kca://work/amzn1.gr.work.v1.H0EOLUsGGM4cqJH3vkR0jw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 240471135
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Dec 13 08:55:11 -0800 2013"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813200411,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Dec 13 08:55:11 -0800 2013",
+            "date_updated": "Mon Oct 23 16:38:46 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/789419950",
+            "link": "https://www.goodreads.com/review/show/789419950",
+            "owned": 0
+        }
+    }
+}

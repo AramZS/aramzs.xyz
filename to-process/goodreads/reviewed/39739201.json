@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2638059084,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 39739201
+                },
+                "isbn": 1302911929,
+                "isbn13": 9781302911928,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 64
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.tin1SObQepVRWbk2LyTKYQ",
+                "title": "Spider-Gwen, Vol. 6: The Life of Gwen Stacy",
+                "title_without_series": "Spider-Gwen, Vol. 6: The Life of Gwen Stacy",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537205647l/39739201._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537205647l/39739201._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/39739201-spider-gwen-vol-6",
+                "num_pages": 112,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 2,
+                "publication_year": 2018,
+                "publication_month": 10,
+                "average_rating": 3.73,
+                "ratings_count": 433,
+                "description": "To defeat Matt Murdock, the Kingpin of her dimension, Gwen has to let Venom win! But there's a problem -if Murdock dies, then so does Gwen! But that's the least of her worries, as after recent events Gwen has found herself on a one-way road into darkness. And the only one that can help her find her way back to the light...is Gwen Stacy. Is the universe trying to save her, or does fate only hold one end for Gwen? And will the drastic move of going public with her double identity fix the timeline -and more importantly, get Gwen out from under the Kingpin's thumb? Or will it just add one more layer of complication to Gwen's already impossible life?<br /><b> COLLECTING: </b>SPIDER-GWEN 30-34",
+                "authors": {
+                    "author": {
+                        "id": 4456310,
+                        "name": "Jason Latour",
+                        "role": "Text",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1488513529p5/4456310.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1488513529p2/4456310.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4456310.Jason_Latour",
+                        "average_rating": 3.89,
+                        "ratings_count": 55187,
+                        "text_reviews_count": 5288
+                    }
+                },
+                "published": 2018,
+                "work": {
+                    "id": 61435218,
+                    "uri": "kca://work/amzn1.gr.work.v1.rLij04XXDE00IFWaeHBLyQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2677474619
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Dec 25 08:55:29 -0800 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Dec 20 00:00:00 -0800 2018",
+            "date_added": "Tue Dec 25 08:55:28 -0800 2018",
+            "date_updated": "Wed Dec 26 07:35:22 -0800 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2638059084",
+            "link": "https://www.goodreads.com/review/show/2638059084",
+            "owned": 0
+        }
+    }
+}

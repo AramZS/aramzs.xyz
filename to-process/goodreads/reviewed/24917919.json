@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967282,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 24917919
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 724
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.oVleiPs59j9mVCTV70hlGw",
+                "title": "Winter (The Lunar Chronicles, #4)",
+                "title_without_series": "Winter",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441293228l/24917919._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441293228l/24917919._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/24917919-winter",
+                "num_pages": 833,
+                "format": "Kindle Edition",
+                "edition_information": {},
+                "publisher": "Feiwel & Friends",
+                "publication_day": 10,
+                "publication_year": 2015,
+                "publication_month": 11,
+                "average_rating": 4.46,
+                "ratings_count": 178336,
+                "description": "Princess Winter is admired by the Lunar people for her grace and kindness, and despite the scars that mar her face, her beauty is said to be even more breathtaking than that of her stepmother, Queen Levana.<br /><br />Winter despises her stepmother, and knows Levana won't approve of her feelings for her childhood friend--the handsome palace guard, Jacin. But Winter isn't as weak as Levana believes her to be and she's been undermining her stepmother's wishes for years. Together with the cyborg mechanic, Cinder, and her allies, Winter might even have the power to launch a revolution and win a war that's been raging for far too long.<br /><br />Can Cinder, Scarlet, Cress, and Winter defeat Levana and find their happily ever afters? Fans will not want to miss this thrilling conclusion to Marissa Meyer's national bestselling Lunar Chronicles series.",
+                "authors": {
+                    "author": {
+                        "id": 4684322,
+                        "name": "Marissa Meyer",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1558121336p5/4684322.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1558121336p2/4684322.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4684322.Marissa_Meyer",
+                        "average_rating": 4.23,
+                        "ratings_count": 1803354,
+                        "text_reviews_count": 196691
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 18390887,
+                    "uri": "kca://work/amzn1.gr.work.v1.-i5NRrG56P-m4qAxgLAtYw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886478727
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:28:49 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1002423281,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:28:48 -0700 2015",
+            "date_updated": "Fri Jun 05 15:28:49 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967282",
+            "link": "https://www.goodreads.com/review/show/1299967282",
+            "owned": 0
+        }
+    }
+}

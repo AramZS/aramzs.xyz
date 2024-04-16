@@ -1,0 +1,115 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2502240947,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 22605161
+                },
+                "isbn": 1632152894,
+                "isbn13": 9781632152893,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 258
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.8gKb5WVJTnD1GOyfzvDIsQ",
+                "title": "Chew, Vol. 9: Chicken Tenders",
+                "title_without_series": "Chew, Vol. 9: Chicken Tenders",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430166856l/22605161._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430166856l/22605161._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/22605161-chew-vol-9",
+                "num_pages": 160,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 10,
+                "publication_year": 2015,
+                "publication_month": 3,
+                "average_rating": 4.24,
+                "ratings_count": 3186,
+                "description": "Tony Chu, the cibopathic federal agent with the ability to get psychic impressions from what he eats, has been busy – busy settling into married life, busy investigating one assignment after another that takes him to the most remote corners of the planet. Meanwhile, the people closest to Tony are conspiring to take on the brutal killer who murdered Tony’s twin sister. And this conspiracy includes Tony’s partner, his arch enemy – and his teenage daughter!<br /><br />Presenting a new storyline of the New York Times Best Selling, Harvey and multiple Eisner Award-winner series about cops, crooks, cooks, cannibals, and clairvoyants. <br /><br />Collects CHEW #41-45, plus the blockbuster spin-off one-shot CHEW: WARRIOR CHICKEN POYO",
+                "authors": {
+                    "author": {
+                        "id": 93094,
+                        "name": "John Layman",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1316046488p5/93094.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1316046488p2/93094.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/93094.John_Layman",
+                        "average_rating": 4.05,
+                        "ratings_count": 138007,
+                        "text_reviews_count": 8878
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 42093208,
+                    "uri": "kca://work/amzn1.gr.work.v1.sWAB3GETGA2LC-7Ldy9GIw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2497988344
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Aug 21 11:07:41 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Aug 18 00:00:00 -0700 2018",
+            "date_added": "Tue Aug 21 11:07:40 -0700 2018",
+            "date_updated": "Tue Aug 21 11:10:28 -0700 2018",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2502240947",
+            "link": "https://www.goodreads.com/review/show/2502240947",
+            "owned": 0
+        }
+    }
+}

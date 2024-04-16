@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528961004,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 15791586
+                },
+                "isbn": "140123769X",
+                "isbn13": 9781401237691,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 522
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.FrUJIYfQKOat-hbNojDGvA",
+                "title": "Fables, Vol. 18: Cubs in Toyland",
+                "title_without_series": "Fables, Vol. 18: Cubs in Toyland",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375405494l/15791586._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375405494l/15791586._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/15791586-fables-vol-18",
+                "num_pages": 192,
+                "format": "Paperback",
+                "edition_information": "Trade",
+                "publisher": "Vertigo",
+                "publication_day": 22,
+                "publication_year": 2013,
+                "publication_month": 1,
+                "average_rating": 4.18,
+                "ratings_count": 6433,
+                "description": "The most harrowing epic since the inception of the series starts when Snow and Bigby's cub Therese receives a Christmas gift from an unknown admirer. This red plastic boat may hold the key to a deep, disturbing secret that will incite a series of soul-crushing events for the denizens of Fabletown. Plus, a backup feature that shows how Bigby received his fate, drawn by artist Gene Ha.<br /><br /><b>Collecting</b>: <i>Fables</i> 114-123",
+                "authors": {
+                    "author": {
+                        "id": 12444,
+                        "name": "Bill Willingham",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p5/12444.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1347423972p2/12444.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12444.Bill_Willingham",
+                        "average_rating": 4.04,
+                        "ratings_count": 583176,
+                        "text_reviews_count": 25138
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 21513205,
+                    "uri": "kca://work/amzn1.gr.work.v1.bbrW_PEuz-JZtZx2w6Urbw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2051891359
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Oct 23 16:43:07 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813203492,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Feb 01 00:00:00 -0800 2013",
+            "date_added": "Thu Feb 07 08:22:05 -0800 2013",
+            "date_updated": "Mon Oct 23 16:43:07 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528961004",
+            "link": "https://www.goodreads.com/review/show/528961004",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 464706961,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 56829
+                },
+                "isbn": 141000511,
+                "isbn13": 9780141000510,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 282
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.2UmKm2oH-0uI5LkzTAKi9A",
+                "title": "Hackers: Heroes of the Computer Revolution",
+                "title_without_series": "Hackers: Heroes of the Computer Revolution",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/56829.Hackers",
+                "num_pages": 464,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Penguin Books",
+                "publication_day": 1,
+                "publication_year": 2001,
+                "publication_month": 1,
+                "average_rating": 4.14,
+                "ratings_count": 6944,
+                "description": "A mere fifteen years ago, computer nerds were seen as marginal weirdos, outsiders whose world would never resonate with the mainstream. That was before one pioneering work documented the underground computer revolution that was about to change our world forever. With groundbreaking profiles of Bill Gates, Steve Wozniak, MIT's Tech Model Railroad Club, and more, Steven Levy's <i>Hackers</i> brilliantly captured a seminal moment when the risk-takers and explorers were poised to conquer twentieth-century America's last great frontier. And in the Internet age, the hacker ethic-first espoused here-is alive and well.",
+                "authors": {
+                    "author": {
+                        "id": 32131,
+                        "name": "Steven Levy",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1577488431p5/32131.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1577488431p2/32131.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/32131.Steven_Levy",
+                        "average_rating": 3.89,
+                        "ratings_count": 39726,
+                        "text_reviews_count": 1538
+                    }
+                },
+                "published": 2001,
+                "work": {
+                    "id": 1407224,
+                    "uri": "kca://work/amzn1.gr.work.v1.WHjr8CMpYIe9JgdioU1n_Q"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sat Nov 27 00:00:00 -0800 2004",
+            "date_added": "Tue Nov 27 08:55:03 -0800 2012",
+            "date_updated": "Tue Nov 27 08:56:04 -0800 2012",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/464706961",
+            "link": "https://www.goodreads.com/review/show/464706961",
+            "owned": 0
+        }
+    }
+}

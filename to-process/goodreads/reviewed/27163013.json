@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1785918013,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 27163013
+                },
+                "isbn": 785196110,
+                "isbn13": 9780785196112,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 875
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.zcA2UOPVtQr5W4rUuLIgpg",
+                "title": "Ms. Marvel, Vol. 5: Super Famous",
+                "title_without_series": "Ms. Marvel, Vol. 5: Super Famous",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466479965l/27163013._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1466479965l/27163013._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/27163013-ms-marvel-vol-5",
+                "num_pages": 144,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Marvel",
+                "publication_day": 12,
+                "publication_year": 2016,
+                "publication_month": 7,
+                "average_rating": 4.24,
+                "ratings_count": 9745,
+                "description": "<b>Look out world, Kamala Khan is officially an Avenger!</b> <br /><br />She's your new favorite. She's everyone's new favorite. And now she's joining the big leagues. But is she really cut out to be one of Earth's Mightiest Heroes? Saving the world is important, but Jersey City still needs its protector--especially now that a development company has picked it for a \"renovation\" project. When they co-opt Ms. Marvel's face to advertise, the fight against gentrification gets personal--but they've got more in mind that just real estate! Can Kamala take down the evil suits destroying her home without ruining her grades and personal life? Speaking of which, who's the new girl hanging around Bruno? And when Kamala creates an army of automatons to help her fight crime, will she learn that too much Ms. Marvel is actually a bad thing? Get back on board, Kamala Korps--the ride is about to get wild!<br /><br /><b>COLLECTING:</b> MS. MARVEL #1-6",
+                "authors": {
+                    "author": {
+                        "id": 815259,
+                        "name": "G. Willow Wilson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1569026621p5/815259.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1569026621p2/815259.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/815259.G_Willow_Wilson",
+                        "average_rating": 4.09,
+                        "ratings_count": 257006,
+                        "text_reviews_count": 22120
+                    }
+                },
+                "published": 2016,
+                "work": {
+                    "id": 47202278,
+                    "uri": "kca://work/amzn1.gr.work.v1.tUkaPog2Q5l8BPQXYerOHQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1546322778
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sun Oct 16 07:10:10 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813193855,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Oct 14 00:00:00 -0700 2016",
+            "date_added": "Sun Oct 16 07:10:09 -0700 2016",
+            "date_updated": "Mon Oct 23 16:29:49 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1785918013",
+            "link": "https://www.goodreads.com/review/show/1785918013",
+            "owned": 0
+        }
+    }
+}

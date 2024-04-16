@@ -1,0 +1,59 @@
+{
+    "name": "Avalon Travel Publishing",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Rick Steves' Europe Through the Back Door 2013: The Travel Skills Handbook",
+            "id": "18803218",
+            "author": "Rick Steves",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146395000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Rick Steves' Europe Through the Back Door 2013: The Travel Skills Handbook: Rating - 0/5",
+                    "date": 1402146395000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/18803218",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Avalon Travel Publishing",
+            "tags": [
+                "Kindle Edition",
+                "Avalon Travel Publishing",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781612383705",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "18803218",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

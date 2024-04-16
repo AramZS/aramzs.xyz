@@ -1,0 +1,51 @@
+{
+    "name": "Genever Benning",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Game Programming Patterns",
+            "id": "23638548",
+            "author": "Robert Nystrom",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1492265670000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/23638548",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Genever Benning",
+            "tags": [
+                "Kindle Edition",
+                "Genever Benning",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "23638548",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

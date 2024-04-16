@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 528975275,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 37442
+                },
+                "isbn": 60987103,
+                "isbn13": 9780060987107,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 21236
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.e8ZoxhBqe9eTMe7cVGcD7g",
+                "title": "Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",
+                "title_without_series": "Wicked: The Life and Times of the Wicked Witch of the West",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437733293l/37442._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437733293l/37442._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/37442.Wicked",
+                "num_pages": 406,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "William Morrow Paperbacks",
+                "publication_day": {},
+                "publication_year": 2000,
+                "publication_month": {},
+                "average_rating": 3.53,
+                "ratings_count": 563984,
+                "description": "When Dorothy triumphed over the Wicked Witch of the West in L. Frank Baum's classic tale we heard only her side of the story. But what about her arch-nemesis, the mysterious Witch? Where did she come from? How did she become so wicked? And what is the true nature of evil?<br /><br />Gregory Maguire creates a fantasy world so rich and vivid that we will never look at Oz the same way again. <i>Wicked</i> is about a land where animals talk and strive to be treated like first-class citizens, Munchkinlanders seek the comfort of middle-class stability, and the Tin Man becomes a victim of domestic violence. And then there is the little green-skinned girl named Elphaba, who will grow up to become the infamous Wicked Witch of the West, a smart, prickly, and misunderstood creature who challenges all our preconceived notions about the nature of good and evil.<br /><br />An astonishingly rich re-creation of the land of Oz, this book retells the story of Elphaba, the Wicked Witch of the West, who wasn't so wicked after all. Taking readers past the yellow brick road and into a phantasmagoric world rich with imagination and allegory, Gregory Maguire just might change the reputation of one of the most sinister characters in literature.",
+                "authors": {
+                    "author": {
+                        "id": 7025,
+                        "name": "Gregory Maguire",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1319068553p5/7025.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1319068553p2/7025.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/7025.Gregory_Maguire",
+                        "average_rating": 3.53,
+                        "ratings_count": 875862,
+                        "text_reviews_count": 47883
+                    }
+                },
+                "published": 2000,
+                "work": {
+                    "id": 1479280,
+                    "uri": "kca://work/amzn1.gr.work.v1.Gn45Alkqz_RUsIJxC1n1mQ"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Thu Feb 07 08:38:55 -0800 2013",
+            "date_updated": "Thu Feb 07 08:38:55 -0800 2013",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/528975275",
+            "link": "https://www.goodreads.com/review/show/528975275",
+            "owned": 0
+        }
+    }
+}

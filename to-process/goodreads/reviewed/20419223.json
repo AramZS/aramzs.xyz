@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1749130706,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 20419223
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 94
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.NiVinA21CZRVijc5JLp8hg",
+                "title": "The Monogram Murders",
+                "title_without_series": "The Monogram Murders",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409689144l/20419223._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409689144l/20419223._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/20419223-the-monogram-murders",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.32,
+                "ratings_count": 16614,
+                "description": "<em>‘I’m a dead woman, or I shall be soon…’</em><br /><br />Hercule Poirot's quiet supper in a London coffeehouse is interrupted when a young woman confides to him that she is about to be murdered.  She is terrified – but begs Poirot not to find and punish her killer. Once she is dead, she insists, justice will have been done.<br /><br />Later that night, Poirot learns that three guests at a fashionable London Hotel have been murdered, and a cufflink has been placed in each one’s mouth. Could there be a connection with the frightened woman? While Poirot struggles to put together the bizarre pieces of the puzzle, the murderer prepares another hotel bedroom for a fourth victim...",
+                "authors": {
+                    "author": {
+                        "id": 232473,
+                        "name": "Sophie Hannah",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1384943094p5/232473.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1384943094p2/232473.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/232473.Sophie_Hannah",
+                        "average_rating": 3.42,
+                        "ratings_count": 107609,
+                        "text_reviews_count": 15046
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 27431535,
+                    "uri": "kca://work/amzn1.gr.work.v1.Bn8WgXxnlSIlCdO7l3FLKw"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1498304355
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Mon Sep 05 07:43:56 -0700 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1414467192,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Sep 05 07:43:56 -0700 2016",
+            "date_updated": "Mon Sep 05 07:43:56 -0700 2016",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1749130706",
+            "link": "https://www.goodreads.com/review/show/1749130706",
+            "owned": 0
+        }
+    }
+}

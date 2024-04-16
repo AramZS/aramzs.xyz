@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 2024380897,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 23228586
+                },
+                "isbn": 1632151995,
+                "isbn13": 9781632151995,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 71
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.UBrMB19LIHGz_FuHt_XX7A",
+                "title": "Roche Limit, Vol. 1: Anomalous (Roche Limit, #1)",
+                "title_without_series": "Roche Limit, Vol. 1: Anomalous",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415589920l/23228586._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415589920l/23228586._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/23228586-roche-limit-vol-1",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 7,
+                "publication_year": 2015,
+                "publication_month": 4,
+                "average_rating": 3.32,
+                "ratings_count": 526,
+                "description": "-Our destiny is the stars, and I will lead us there.- Twenty years after this promise, billionaire Langford Skaargard's dream of cosmic exploration is no more. Roche Limit, a colony situated on the cusp of a mysterious energy anomaly, is a melting pot of crime and terrible secrets. When Bekkah Hudson goes missing, the search to find her will plunge her sister and a cadre of the colony's underworld figures into an odyssey that reveals a grim future for mankind. Blending <i>2001</i> with <i>Blade Runner</i>, <i>Roche Limit</i> is the first part of a bold sci-fi/noir trilogy.",
+                "authors": {
+                    "author": {
+                        "id": 4611286,
+                        "name": "Michael Moreci",
+                        "role": "Writer",
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1486007129p5/4611286.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1486007129p2/4611286.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4611286.Michael_Moreci",
+                        "average_rating": 3.76,
+                        "ratings_count": 7189,
+                        "text_reviews_count": 994
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 42769901,
+                    "uri": "kca://work/amzn1.gr.work.v1.ZhgPYdV-SRg2pRE6D8sTMA"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1871387137
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 09 05:34:01 -0700 2017"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813191323,
+                        "sortable": false
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 1813222628,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Fri Jun 09 05:34:11 -0700 2017",
+            "date_added": "Fri Jun 09 05:34:00 -0700 2017",
+            "date_updated": "Mon Oct 23 17:09:30 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/2024380897",
+            "link": "https://www.goodreads.com/review/show/2024380897",
+            "owned": 0
+        }
+    }
+}

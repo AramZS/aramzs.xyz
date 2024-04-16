@@ -1,0 +1,131 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 816023217,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 18194449
+                },
+                "isbn": 374711879,
+                "isbn13": 9780374711870,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 171
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.50abEkgjytPn0orZbXaxzA",
+                "title": "Dead Pig Collector",
+                "title_without_series": "Dead Pig Collector",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374921598l/18194449._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374921598l/18194449._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/18194449-dead-pig-collector",
+                "num_pages": 36,
+                "format": "ebook",
+                "edition_information": {},
+                "publisher": "FSG Originals",
+                "publication_day": 30,
+                "publication_year": 2013,
+                "publication_month": 7,
+                "average_rating": 3.9,
+                "ratings_count": 2069,
+                "description": "From the wicked imagination of award-winning writer Warren Ellis comes DEAD PIG COLLECTOR, a love story with a classic Ellis twist. So while it might be a love story, it's also about killing people and disposing of their bodies in the most efficient manner possible.<br /><br />DEAD PIG COLLECTOR introduces readers to Mister Sun, a very proficient businessman whose trade is the murder and spotless removal of human beings. Like any businessman, he knows each transaction is only as good as his client - and today's client, in Los Angeles, has turned out to be so dangerously stupid that Mister Sun's work and life are now in jeopardy...",
+                "authors": {
+                    "author": {
+                        "id": 12772,
+                        "name": "Warren Ellis",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p5/12772.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1447009436p2/12772.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/12772.Warren_Ellis",
+                        "average_rating": 4.13,
+                        "ratings_count": 411463,
+                        "text_reviews_count": 19050
+                    }
+                },
+                "published": 2013,
+                "work": {
+                    "id": 25186911,
+                    "uri": "kca://work/amzn1.gr.work.v1.QMYyB0I8PKj1P9wXmyA14w"
+                }
+            },
+            "read_statuses": {
+                "read_status": [
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 291626859
+                        },
+                        "old_status": "currently-reading",
+                        "status": "read",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Wed Jan 22 13:08:57 -0800 2014"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    },
+                    {
+                        "id": {
+                            "type": "integer",
+                            "$t": 272646002
+                        },
+                        "old_status": {},
+                        "status": "currently-reading",
+                        "updated_at": {
+                            "type": "datetime",
+                            "$t": "Tue Jan 07 15:09:01 -0800 2014"
+                        },
+                        "ratings_count": 0,
+                        "comments_count": 0
+                    }
+                ]
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": "Tue Jan 07 00:00:00 -0800 2014",
+            "read_at": "Wed Jan 22 13:09:04 -0800 2014",
+            "date_added": "Tue Jan 07 15:09:01 -0800 2014",
+            "date_updated": "Wed Jan 22 13:09:04 -0800 2014",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/816023217",
+            "link": "https://www.goodreads.com/review/show/816023217",
+            "owned": 0
+        }
+    }
+}

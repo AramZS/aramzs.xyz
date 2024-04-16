@@ -1,0 +1,51 @@
+{
+    "name": "J. Zachary Pike",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Son of a Liche (The Dark Profit Saga, #2)",
+            "id": "39977753",
+            "author": "J. Zachary Pike",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1580123903000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/39977753",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "J. Zachary Pike",
+            "tags": [
+                "ebook",
+                "J. Zachary Pike",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780990859659",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "39977753",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

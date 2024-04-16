@@ -1,0 +1,126 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1304800520,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 25047175
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": 9781632153791,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 104
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.WLXN6NYohSXXZWw4JK6kgA",
+                "title": "Revival, Vol. 5 : Gathering Of Waters",
+                "title_without_series": "Revival, Vol. 5 : Gathering Of Waters",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426607988l/25047175._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426607988l/25047175._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/25047175-revival-vol-5",
+                "num_pages": 128,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Image Comics",
+                "publication_day": 13,
+                "publication_year": 2015,
+                "publication_month": 5,
+                "average_rating": 3.98,
+                "ratings_count": 1210,
+                "description": "For one day in rural central Wisconsin, the dead came back to life. Now it’s up to Officer Dana Cypress to deal with the media scrutiny, religious zealots, and government quarantine that have come with them. As the pregnant Em searches for the missing father of her child, Dana is embroiled in a conspiracy to contain Revivers that ends in fire. Collects REVIVAL #24-29.",
+                "authors": {
+                    "author": {
+                        "id": 37607,
+                        "name": "Tim Seeley",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1398803367p5/37607.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1398803367p2/37607.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/37607.Tim_Seeley",
+                        "average_rating": 3.97,
+                        "ratings_count": 103897,
+                        "text_reviews_count": 7925
+                    }
+                },
+                "published": 2015,
+                "work": {
+                    "id": 44726136,
+                    "uri": "kca://work/amzn1.gr.work.v1.Fqx5LzfPA0KBGUriSBOHag"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 892739711
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Wed Jun 10 20:36:40 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813196062,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Thu Jan 01 00:00:00 -0800 2015",
+            "date_added": "Wed Jun 10 20:36:40 -0700 2015",
+            "date_updated": "Mon Oct 23 16:32:44 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1304800520",
+            "link": "https://www.goodreads.com/review/show/1304800520",
+            "owned": 0
+        }
+    }
+}

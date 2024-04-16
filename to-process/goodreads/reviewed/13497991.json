@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 460169350,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 13497991
+                },
+                "isbn": 356501507,
+                "isbn13": 9780356501505,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1009
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.lJneUo5V0e143BlkSXP6oA",
+                "title": "The Hydrogen Sonata (Culture #10)",
+                "title_without_series": "The Hydrogen Sonata",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340894566l/13497991._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340894566l/13497991._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/13497991-the-hydrogen-sonata",
+                "num_pages": 517,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Orbit",
+                "publication_day": 4,
+                "publication_year": 2012,
+                "publication_month": 10,
+                "average_rating": 4.18,
+                "ratings_count": 18167,
+                "description": "The Scavenger species are circling. It is, truly, provably, the End Days for the Gzilt civilization.<br /><br />An ancient people, organized on military principles and yet almost perversely peaceful, the Gzilt helped set up the Culture ten thousand years earlier and were very nearly one of its founding societies, deciding not to join only at the last moment. Now they've made the collective decision to follow the well-trodden path of millions of other civilizations; they are going to Sublime, elevating themselves to a new and almost infinitely more rich and complex existence.<br /><br />Amid preparations though, the Regimental High Command is destroyed. Lieutenant Commander (reserve) Vyr Cossont appears to have been involved, and she is now wanted - dead, not alive. Aided only by an ancient, reconditioned android and a suspicious Culture avatar, Cossont must complete her last mission given to her by the High Command. She must find the oldest person in the Culture, a man over nine thousand years old, who might have some idea what really happened all that time ago.<br /><br />It seems that the final days of the Gzilt civilization are likely to prove its most perilous.",
+                "authors": {
+                    "author": {
+                        "id": 5807106,
+                        "name": "Iain M. Banks",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p5/5807106.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1352410520p2/5807106.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5807106.Iain_M_Banks",
+                        "average_rating": 4.08,
+                        "ratings_count": 349698,
+                        "text_reviews_count": 15763
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 19042585,
+                    "uri": "kca://work/amzn1.gr.work.v1.NQcYGhrsmVRB-yz77c6QrQ"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 2295156594
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Apr 03 13:01:09 -0700 2018"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 5,
+            "votes": 6,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 306306749,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Tue Nov 20 14:03:18 -0800 2012",
+            "date_added": "Tue Nov 20 13:34:32 -0800 2012",
+            "date_updated": "Tue Nov 20 14:03:18 -0800 2012",
+            "read_count": 1,
+            "body": "It is clear that Iain Banks is one of our generations' greatest science fiction authors, a peer of Asimov for the new century, and one of last keepers of Asimov-style SF (that being both high concept and soft science). It's too bad that (failing an unlikely pop adaptation into another format like film) the soft-ish nature of the SF (mostly abandoned for hard SF, like Karl Schroeder or outright Sci-Fi Fantasy of the Star Wars variety), the extensive length of most works and the regular slower-than-average start to his narrative arcs will keep his work from gaining the mainstream acceptance it deserves. <br /><br />Like all of Banks's books (especially from the Culture series) Hydrogen Sonata starts off with a bang of an inciting incident, moves sort of lazily for a while with a great deal of exposition and an initial sluggish rising action while all the plans are hatched and pieces moved into place. About 20% of the way through the novel his rising action finally catches and begins immense acceleration. Past that point it takes off at great speed, with good humor, great plotting and significant pull. Once caught in the gravity well of the primary conflict, things move excitingly apace and the book becomes difficult to put down.<br /><br />That first 20% is, like most of Banks's works, the greatest obstacle, especially to a new reader because it cannot easily be skipped (like say, The Lord of the Rings' ridiculous initial world-building exercise). The exposition is necessary to entry in Banks's increasingly complex universe of the Culture, especially because it allows the reader to move through the subsequent action of the narrative without ever having to slow down. Still, it's a shame because the average reader will never make it through this portion of the novel, putting it down never to pick it up again. <br /><br />Don't be that reader. The Hydrogen Sonata is yet another excellent entry in the series, perhaps in the top 3 in terms of quality, and well worth the wait. <br /><br />Like all Culture novels, reading previous entries is not required but will greatly enhance the experience. <br />",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/460169350",
+            "link": "https://www.goodreads.com/review/show/460169350",
+            "owned": 0
+        }
+    }
+}

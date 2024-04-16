@@ -1,0 +1,99 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 149168267,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 175934
+                },
+                "isbn": 671020803,
+                "isbn13": 9780671020804,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 18
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.9sdw43S7WYUKRuX8q9AoMA",
+                "title": "Dark Allies (Star Trek: New Frontier, #8)",
+                "title_without_series": "Dark Allies",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/175934.Dark_Allies",
+                "num_pages": 256,
+                "format": "Mass Market Paperback",
+                "edition_information": {},
+                "publisher": "Pocket Books",
+                "publication_day": {},
+                "publication_year": 1999,
+                "publication_month": 11,
+                "average_rating": 3.97,
+                "ratings_count": 802,
+                "description": "Many years ago, a bizarre alien lifeform known as the Black Mass consumed and destroyed an entire solar system in what was then the Thallonion Empire. Now the Black Mass has returned and its target is Tulan IV, homeworld of the fearsome Redeemers. Faced with near-certain destruction the Overlord of the Redeemers is forced to turn to an unlikely ally: Captain Calhoun and the Starship Excalibur.<br /><br />Busy coping with the return of his rebellious son, Calhoun is none too eager to come to the aid of his despotic enemy, but when innocent lives are threatened he has no choice but to confront the unstoppable Black Mass. But how can one starship turn back a force capable of consuming entire suns?",
+                "authors": {
+                    "author": {
+                        "id": 13681,
+                        "name": "Peter David",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p5/13681.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1206732772p2/13681.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/13681.Peter_David",
+                        "average_rating": 4.02,
+                        "ratings_count": 297991,
+                        "text_reviews_count": 13707
+                    }
+                },
+                "published": 1999,
+                "work": {
+                    "id": 169973,
+                    "uri": "kca://work/amzn1.gr.work.v1.afdPT8xmYwatQ-nKEGpOpw"
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "name": "read",
+                    "exclusive": true,
+                    "id": 5632897,
+                    "review_shelf_id": ""
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Feb 19 06:08:03 -0800 2011",
+            "date_updated": "Sat Feb 19 06:08:03 -0800 2011",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/149168267",
+            "link": "https://www.goodreads.com/review/show/149168267",
+            "owned": 0
+        }
+    }
+}

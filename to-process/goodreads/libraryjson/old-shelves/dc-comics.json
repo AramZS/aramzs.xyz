@@ -1,0 +1,59 @@
+{
+    "name": "DC Comics ",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Wonder Woman, Vol. 1: Blood",
+            "id": "16153836",
+            "author": "Brian Azzarello, Cliff Chiang, Tony Akins",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1508801755000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Wonder Woman, Vol. 1: Blood: Rating - 4/5",
+                    "date": 1508801755000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/16153836",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "DC Comics ",
+            "tags": [
+                "Kindle Edition",
+                "DC Comics ",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "16153836",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

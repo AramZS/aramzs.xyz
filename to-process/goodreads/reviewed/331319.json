@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24672305,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 331319
+                },
+                "isbn": 451527704,
+                "isbn13": 9780451527707,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 1044
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.cpm0eLW--jaDcD9YPTZXkA",
+                "title": "An American Tragedy",
+                "title_without_series": "An American Tragedy",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309283443l/331319._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309283443l/331319._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/331319.An_American_Tragedy",
+                "num_pages": 859,
+                "format": "Mass Market Paperback",
+                "edition_information": "First Signet Classic Printing (Lingeman Introduction)",
+                "publisher": "Signet Classics",
+                "publication_day": 1,
+                "publication_year": 2000,
+                "publication_month": 9,
+                "average_rating": 3.95,
+                "ratings_count": 31360,
+                "description": "'An American Tragedy' is the story of Clyde Griffiths, who spends his life in the desperate pursuit of success. On a deeper, more profound level, it is the masterful portrayal of the society whose values both shape Clyde's ambitions and seal his fate; it is an unsurpassed depiction of the harsh realities of American life and of the dark side of the American dream. Extraordinary in scope and power, vivid in its sense of wholesale human waste, unceasing in its rich compassion, 'An American Tragedy' stands as Theodore Dreiser's supreme achievement.<br /><br />Based on an actual criminal case, 'An American Tragedy' was the inspiration for the film 'A Place in the Sun', which won six Academy Awards and starred Elizabeth Taylor and Montgomery Cliff.",
+                "authors": {
+                    "author": {
+                        "id": 8987,
+                        "name": "Theodore Dreiser",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192652485p5/8987.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1192652485p2/8987.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/8987.Theodore_Dreiser",
+                        "average_rating": 3.91,
+                        "ratings_count": 82516,
+                        "text_reviews_count": 3386
+                    }
+                },
+                "published": 2000,
+                "work": {
+                    "id": 6170936,
+                    "uri": "kca://work/amzn1.gr.work.v1.RE1d9xGockJRYotgnOSb6w"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 10337571,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:31:43 -0700 2008",
+            "date_updated": "Mon Jun 16 19:31:43 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24672305",
+            "link": "https://www.goodreads.com/review/show/24672305",
+            "owned": 0
+        }
+    }
+}

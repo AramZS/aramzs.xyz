@@ -1,0 +1,120 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1299967451,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 9665501
+                },
+                "isbn": {
+                    "nil": true
+                },
+                "isbn13": {
+                    "nil": true
+                },
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 2
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.GD0IV4Iw3pAHEzNblh3oFA",
+                "title": "The Monster: How a Gang of Predatory Lenders and Wall Street Bankers Fleeced America--and Spawned a Global Crisis",
+                "title_without_series": "The Monster: How a Gang of Predatory Lenders and Wall Street Bankers Fleeced America--and Spawned a Global Crisis",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/9665501-the-monster",
+                "num_pages": {},
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 4.11,
+                "ratings_count": 189,
+                "description": "<br /><p>\n  <b>\"Magnificently and heartbreakingly told. . . . [Hudson] shows vividly that really filthy, face-to-face fraud and hard-sell bullying . . . brought the economy down around our ears.\"—<i>The Boston Globe</i></b>\n</p><p>In this page-turning, true-crime exposé, award-winning reporter Michael W. Hudson reveals the story of the rise and fall of the biggest subprime lender and Wall Street's biggest patron of subprime: Ameriquest and Lehman Brothers. They did more than any other institutions to produce the biggest financial scandal in American history.</p><p>It's a tale populated by a remarkable cast of characters: a shadowy billionaire who created the subprime industry out of the ashes of the 1980s S&amp;L scandal; insatiable Wall Street executives; ensnared home owners; investigators who tried to expose the fraud; politicians who turned a blind eye; and, most of all, the drug-snorting, high-living salesman who tell all about the money they made, the lies they told, the deals they closed.</p><p>Provocative and gripping, <i>The Monster</i> is a searing look at the bottom-feeding fraud and top-down greed that fueled the financial collapse. </p><br />",
+                "authors": {
+                    "author": {
+                        "id": 3450540,
+                        "name": "Michael W. Hudson",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png"
+                        },
+                        "small_image_url": {
+                            "nophoto": true,
+                            "$t": "https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png"
+                        },
+                        "link": "https://www.goodreads.com/author/show/3450540.Michael_W_Hudson",
+                        "average_rating": 4.11,
+                        "ratings_count": 189,
+                        "text_reviews_count": 30
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 11436379,
+                    "uri": "kca://work/amzn1.gr.work.v1.u_EOM_6otJa4kPtjp_VSNg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 886478955
+                    },
+                    "old_status": {},
+                    "status": "to-read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Fri Jun 05 15:29:04 -0700 2015"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 1002423454,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Jun 05 15:29:04 -0700 2015",
+            "date_updated": "Fri Jun 05 15:29:04 -0700 2015",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1299967451",
+            "link": "https://www.goodreads.com/review/show/1299967451",
+            "owned": 0
+        }
+    }
+}

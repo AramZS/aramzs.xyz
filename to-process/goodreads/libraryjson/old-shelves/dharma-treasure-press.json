@@ -1,0 +1,51 @@
+{
+    "name": "Dharma Treasure Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science",
+            "id": "25942786",
+            "author": "Culadasa (John Yates), Matthew Immergut, Jeremy Graves, John Yates",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1545062122000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25942786",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Dharma Treasure Press",
+            "tags": [
+                "Paperback",
+                "Dharma Treasure Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0990847705",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780990847700",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25942786",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

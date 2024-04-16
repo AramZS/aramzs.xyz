@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24669256,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 2529777
+                },
+                "isbn": 1400064902,
+                "isbn13": 9781400064908,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 313
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.APMYLfWC0mpRKfSwqIqXCQ",
+                "title": "Panic in Level 4: Cannibals, Killer Viruses, and Other Journeys to the Edge of Science",
+                "title_without_series": "Panic in Level 4: Cannibals, Killer Viruses, and Other Journeys to the Edge of Science",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320446687l/2529777._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320446687l/2529777._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/2529777.Panic_in_Level_4",
+                "num_pages": 188,
+                "format": {},
+                "edition_information": {},
+                "publisher": {},
+                "publication_day": {},
+                "publication_year": {},
+                "publication_month": {},
+                "average_rating": 3.76,
+                "ratings_count": 4026,
+                "description": "Bizarre illnesses and plagues that kill people in the most unspeakable ways. Obsessive and inspired efforts by scientists to solve mysteries and save lives. From <i>The Hot Zone </i>to The Demon in the Freezer and beyond, Richard Preston’s bestselling works have mesmerized readers everywhere by showing them strange worlds of nature they never dreamed of.<br /><br /><i>Panic in Level 4</i> is a grand tour through the eerie and unforgettable universe of Richard Preston, filled with incredible characters and mysteries that refuse to leave one’s mind. Here are dramatic true stories from this acclaimed and award-winning author, including:<br /><br />• The phenomenon of “self-cannibals,” who suffer from a rare genetic condition caused by one wrong letter in their DNA that forces them to compulsively chew their own flesh–and why everyone may have a touch of this disease.<br />• The search for the unknown host of Ebola virus, an organism hidden somewhere in African rain forests, where the disease finds its way into the human species, causing outbreaks of unparalleled horror.<br />• The brilliant Russian brothers–“one mathematician divided between two bodies”–who built a supercomputer in their apartment from mail-order parts in an attempt to find hidden order in the number pi (π).<br /><br />In fascinating, intimate, and exhilarating detail, Richard Preston portrays the frightening forces and constructive discoveries that are currently roiling and reordering our world, once again proving himself a master of the nonfiction narrative and, as noted in <i>The Washington Post</i>, “a science writer with an uncommon gift for turning complex biology into riveting page-turners.”<br /><br /><br /><i>From the Hardcover edition.</i>",
+                "authors": {
+                    "author": {
+                        "id": 9996,
+                        "name": "Richard   Preston",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1328565865p5/9996.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1328565865p2/9996.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/9996.Richard_Preston",
+                        "average_rating": 3.82,
+                        "ratings_count": 75051,
+                        "text_reviews_count": 6883
+                    }
+                },
+                "published": {},
+                "work": {
+                    "id": 2537289,
+                    "uri": "kca://work/amzn1.gr.work.v1.sZumjlND9kQRVnCF7olLWQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 10336340,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 18:56:54 -0700 2008",
+            "date_updated": "Mon Jun 16 18:56:54 -0700 2008",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24669256",
+            "link": "https://www.goodreads.com/review/show/24669256",
+            "owned": 0
+        }
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 24670530,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 8600
+                },
+                "isbn": 1592402038,
+                "isbn13": 9781592402038,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 4112
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.pZF2wdAlkrUUfQjQVDjH7Q",
+                "title": "Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation",
+                "title_without_series": "Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473392595l/8600._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473392595l/8600._SX50_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/8600.Eats_Shoots_Leaves",
+                "num_pages": 209,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "The Penguin Group",
+                "publication_day": {},
+                "publication_year": 2006,
+                "publication_month": 4,
+                "average_rating": 3.87,
+                "ratings_count": 95188,
+                "description": "In <i>Eats, Shoots &amp; Leaves</i>, former editor Lynne Truss, gravely concerned about our current grammatical state, boldly defends proper punctuation. She proclaims, in her delightfully urbane, witty, and very English way, that it is time to look at our commas and semicolons and see them as the wonderful and necessary things they are. Using examples from literature, history, neighborhood signage, and her own imagination, Truss shows how meaning is shaped by commas and apostrophes, and the hilarious consequences of punctuation gone awry.<br /><br />Featuring a foreword by Frank McCourt, and interspersed with a lively history of punctuation from the invention of the question mark in the time of Charlemagne to George Orwell shunning the semicolon, <i>Eats, Shoots &amp; Leaves</i> makes a powerful case for the preservation of proper punctuation.",
+                "authors": {
+                    "author": {
+                        "id": 5571,
+                        "name": "Lynne Truss",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1424915883p5/5571.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1424915883p2/5571.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/5571.Lynne_Truss",
+                        "average_rating": 3.86,
+                        "ratings_count": 143016,
+                        "text_reviews_count": 9638
+                    }
+                },
+                "published": 2006,
+                "work": {
+                    "id": 854886,
+                    "uri": "kca://work/amzn1.gr.work.v1.337t0YuI6CFD4mcUA_-o3g"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 45109740,
+                        "name": "reference",
+                        "review_shelf_id": 293109339,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Mon Jun 16 19:12:08 -0700 2008",
+            "date_updated": "Mon Jun 16 19:12:08 -0700 2008",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/24670530",
+            "link": "https://www.goodreads.com/review/show/24670530",
+            "owned": 0
+        }
+    }
+}

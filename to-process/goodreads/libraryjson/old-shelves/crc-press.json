@@ -1,0 +1,51 @@
+{
+    "name": "CRC Press",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "The Art of Game Design: A Book of Lenses",
+            "id": "3396933",
+            "author": "Jesse Schell",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1386966528000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/3396933",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "CRC Press",
+            "tags": [
+                "Paperback",
+                "CRC Press",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0123694965",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780123694966",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "3396933",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

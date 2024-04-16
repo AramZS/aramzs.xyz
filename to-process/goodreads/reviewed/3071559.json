@@ -1,0 +1,100 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 461941257,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 3071559
+                },
+                "isbn": 575083093,
+                "isbn13": 9780575083097,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 38
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.QfyDu4PgLGR8n_GvdQGHgQ",
+                "title": "Revelation Space (Revelation Space, #1)",
+                "title_without_series": "Revelation Space",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421009366l/3071559._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421009366l/3071559._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/3071559-revelation-space",
+                "num_pages": 568,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "Orion Publishing Group",
+                "publication_day": {},
+                "publication_year": 2008,
+                "publication_month": 12,
+                "average_rating": 3.98,
+                "ratings_count": 42621,
+                "description": "Alastair Reynolds's first novel is \"hard\" SF on an epic scale, crammed with technological marvels and immensities. Its events take place over a relatively short period, but have roots a billion years old--when the Dawn War ravaged our galaxy.<p> Sylveste is the only man ever to return alive and sane from a Shroud, an enclave in space protected by awesome gravity-warping defenses: \"a folding a billion times less severe should have required more energy than was stored in the entire rest-mass of the galaxy.\" Now an intuition he doesn't understand makes him explore the dead world Resurgam, whose birdlike natives long ago tripped some booby trap that made their own sun erupt in a deadly flare.</p><p> Meanwhile, the vast, decaying lightship <i>Nostalgia for Infinity</i> is coming for Sylveste, whose dead father (in AI simulation) could perhaps help the Captain, frozen near absolute zero yet still suffering monstrous transformation by nanotech plague. Most of <i>Infinity</i>'s tiny crew have hidden agendas--Khouri the reluctant contract assassin believes she must kill Sylveste to save humanity--and there are two bodiless stowaways, one no longer human and one never human. Shocking truths emerge from bluff, betrayal, and ingenious lies.</p><p> The trail leads to a neutron star where an orbiting alien construct has defenses to challenge the Infinity's planet-wrecking superweapons.</p><p> At the heart of this artifact, the final revelations detonate--most satisfyingly. Dense with information and incident, this longish novel has no surplus fat and seems almost too short. A sparkling SF debut. <i>--David Langford, Amazon.co.uk</i></p>",
+                "authors": {
+                    "author": {
+                        "id": 51204,
+                        "name": "Alastair Reynolds",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1521740247p5/51204.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1521740247p2/51204.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/51204.Alastair_Reynolds",
+                        "average_rating": 4.01,
+                        "ratings_count": 255921,
+                        "text_reviews_count": 15266
+                    }
+                },
+                "published": 2008,
+                "work": {
+                    "id": 219037,
+                    "uri": "kca://work/amzn1.gr.work.v1.0AHNmSw9X_vk4cGsPwJHLQ"
+                }
+            },
+            "rating": 0,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": {
+                    "exclusive": true,
+                    "id": 2635324,
+                    "name": "to-read",
+                    "review_shelf_id": 307691770,
+                    "sortable": true
+                }
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Fri Nov 23 12:42:42 -0800 2012",
+            "date_updated": "Fri Nov 23 12:42:42 -0800 2012",
+            "read_count": 0,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/461941257",
+            "link": "https://www.goodreads.com/review/show/461941257",
+            "owned": 0
+        }
+    }
+}

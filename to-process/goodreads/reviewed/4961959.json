@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1507571446,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 4961959
+                },
+                "isbn": 345506391,
+                "isbn13": 9780345506399,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 226
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.E6FOMQID-lWg8BUXlEcjFw",
+                "title": "Jim Butcher's The Dresden Files: Storm Front, Volume 1: The Gathering Storm",
+                "title_without_series": "Jim Butcher's The Dresden Files: Storm Front, Volume 1: The Gathering Storm",
+                "image_url": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+                "small_image_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/4961959-jim-butcher-s-the-dresden-files",
+                "num_pages": 128,
+                "format": "Hardcover",
+                "edition_information": {},
+                "publisher": "Del Rey/Dabel Brothers",
+                "publication_day": 2,
+                "publication_year": 2009,
+                "publication_month": 6,
+                "average_rating": 4.36,
+                "ratings_count": 12454,
+                "description": "A graphic novel based on the bestselling Harry Dresden books by Jim Butcher!<br /><br />If circumstances surrounding a crime defy the ordinary and evidence points to a suspect who is anything but human, the men and women of the Chicago Police Department call in the one guy who can handle bizarre and often brutal phenomena. Harry Dresden is a wizard who knows firsthand that the everyday world is actually full of strange and magical things—most of which don't play well with humans.<br /><br />Now the cops have turned to Dresden to investigate a horrifying double murder that was committed with black magic. Never one to turn down a paycheck, Dresden also takes on another case—to find a missing husband who has quite likely been dabbling in sorcery. As Dresden tries to solve the seemingly unrelated cases, he is confronted with all the Windy City can blow at him, from the mob to mages and all creatures in between.",
+                "authors": {
+                    "author": {
+                        "id": 10746,
+                        "name": "Jim Butcher",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p5/10746.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1400640324p2/10746.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/10746.Jim_Butcher",
+                        "average_rating": 4.26,
+                        "ratings_count": 2364187,
+                        "text_reviews_count": 98042
+                    }
+                },
+                "published": 2009,
+                "work": {
+                    "id": 6793325,
+                    "uri": "kca://work/amzn1.gr.work.v1.j0sL7NGzOwY_IctjshgV6A"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 1174109648
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Tue Jan 12 19:37:39 -0800 2016"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 4,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813195043,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Tue Jan 12 19:37:38 -0800 2016",
+            "date_updated": "Mon Oct 23 16:31:23 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1507571446",
+            "link": "https://www.goodreads.com/review/show/1507571446",
+            "owned": 0
+        }
+    }
+}

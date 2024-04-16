@@ -1,0 +1,108 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 333426120,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 11235712
+                },
+                "isbn": 312641893,
+                "isbn13": 9780312641894,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 37061
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.3hzVUpIclH4Ff2TtWHrJNg",
+                "title": "Cinder (The Lunar Chronicles, #1)",
+                "title_without_series": "Cinder",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470056948l/11235712._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470056948l/11235712._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/11235712-cinder",
+                "num_pages": 390,
+                "format": "Hardcover",
+                "edition_information": "First Edition",
+                "publisher": "Feiwel and Friends",
+                "publication_day": 3,
+                "publication_year": 2012,
+                "publication_month": 1,
+                "average_rating": 4.15,
+                "ratings_count": 643607,
+                "description": "Sixteen-year-old Cinder is considered a technological mistake by most of society and a burden by her stepmother. Being cyborg does have its benefits, though: Cinder's brain interference has given her an uncanny ability to fix things (robots, hovers, her own malfunctioning parts), making her the best mechanic in New Beijing. This reputation brings Prince Kai himself to her weekly market booth, needing her to repair a broken android before the annual ball. He jokingly calls it \"a matter of national security,\" but Cinder suspects it's more serious than he's letting on.<br /><br />Although eager to impress the prince, Cinder's intentions are derailed when her younger stepsister, and only human friend, is infected with the fatal plague that's been devastating Earth for a decade. Blaming Cinder for her daughter's illness, Cinder's stepmother volunteers her body for plague research, an \"honor\" that no one has survived.<br /><br />But it doesn't take long for the scientists to discover something unusual about their new guinea pig. Something others would kill for.",
+                "authors": {
+                    "author": {
+                        "id": 4684322,
+                        "name": "Marissa Meyer",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1558121336p5/4684322.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1558121336p2/4684322.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/4684322.Marissa_Meyer",
+                        "average_rating": 4.23,
+                        "ratings_count": 1803379,
+                        "text_reviews_count": 196692
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 15545385,
+                    "uri": "kca://work/amzn1.gr.work.v1.C74bpw0rAAARwZF4C6c_IQ"
+                }
+            },
+            "rating": 5,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 2635374,
+                        "name": "worth_re-reading",
+                        "review_shelf_id": 293108006,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": "Sun May 20 00:00:00 -0700 2012",
+            "date_added": "Sun May 20 13:56:35 -0700 2012",
+            "date_updated": "Sat Oct 27 08:15:58 -0700 2012",
+            "read_count": 1,
+            "body": "A remarkably well written and well put together novel. The cyberpunk-meets-Cinderella could have very easily gone wrong, but instead everything about this novel is right. The only downside is that the next book in the series is not out yet.",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/333426120",
+            "link": "https://www.goodreads.com/review/show/333426120",
+            "owned": 0
+        }
+    }
+}

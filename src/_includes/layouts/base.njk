@@ -6,24 +6,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"/>
 
     <!-- Feeds -->
-    <link rel="alternate" href="{{ metadata.feedUrl }}" type="application/atom+xml" title="Simon Dann's Digital Garden">
+    <link rel="alternate" href="{{ metadata.feedUrl }}" type="application/atom+xml" title="Aram Zucker-Scharff's Digital Garden">
     
-    <!-- Mastodon Verification -->
-    <link rel="me" href="https://notacult.social/@carbontwelve" title="Mastodon: Not A Cult"/>
-    <link rel="me" href="https://phpc.social/@carbontwelve" title="Mastodon: PHPC"/>
-
+    <!-- Identity Verification -->
+	{%- for rel in me.rels -%}
+		    <link rel="me" href="{{rel.href}}" title="{{rel.title}}"/>
+ 	{% endfor %}
+      <!-- Webmentions -->
+    <link rel="webmention" href="https://webmention.io/aramzs.xyz/webmention" />
     <!-- SEO -->
-    <title>{{ title or metadata.title }}</title>
+    <title>{{ title or metadata.title | safe }}</title>
     <meta name="description" content="{{ description or metadata.description }}"/>
-    <link rel="canonical" href="{{ canonical or page.url }}"/>
+    <link rel="canonical" href="{{ canonical or isBasedOn or page.url }}"/><!-- @TODO: Add canonical URL with domain for internal links -->
+    {% if isBasedOn %}
+    <meta http-equiv="Link" rel="canonical" content="{{ isBasedOn }}" />
+    {% endif %}
     <meta name="robots" content="index, follow"/>
     <meta name="generator" content="Eleventy">
     {% block head %}{% endblock %}
 
     <!-- Open Graph -->
-    <meta property="og:locale" content="en_GB"/>
-    <meta property="og:site_name" content="{{ metadata.title }}"/>
-    <meta property="og:title" content="{{ title or metadata.title }}"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:site_name" content="{{ metadata.title | safe }}"/>
+    <meta property="og:title" content="{{ title or metadata.title | safe }}"/>
     <meta property="og:type" content="{{ ogtype or 'website' }}"/>
     <meta property="og:url" content="{{ metadata.url }}{{ page.url }}"/>
     {% if ogImageHref %}
@@ -33,9 +38,9 @@
     <meta name="twitter:card" content="summary"/>
     {% endif %}
 
-    <meta name="twitter:site" content="@carbontwelve"/>
-    <meta name="twitter:creator" content="@carbontwelve"/>
-    <meta name="twitter:title" content="{{ title or metadata.title }}"/>
+    <meta name="twitter:site" content="@Chronotope"/>
+    <meta name="twitter:creator" content="@Chronotope"/>
+    <meta name="twitter:title" content="{{ title or metadata.title | safe }}"/>
 
     {% if ogtype === 'article' %}
         <meta name="twitter:label1" content="Words"/>
@@ -73,7 +78,8 @@
     <link rel="preload" href="/fonts/iosevka-etoile-bolditalic.subset.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/fonts/iosevka-etoile-italic.subset.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="stylesheet" href="/styles/main.css"/>
-    <script data-goatcounter="https://photogabble.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
+    <script data-domain="aramzs.xyz" src="https://plausible.io/js/plausible.js"></script>
+    {% block stylesheet %}{% endblock %}
     <script src="/main.js"></script>
 </head>
 <body>
@@ -100,8 +106,8 @@
     </nav>
 </aside>
 
-<header id="jumbo-nav">
-    <div class="container">
+<header id="jumbo-nav" class="content-grid">
+    <div class="breakout">
         {% block header %}
             {{ header | safe }}
         {% endblock %}
@@ -109,16 +115,19 @@
     {% include "../components/jumbo-nav.njk" %}
 </header>
 
-<main class="container">
+<main {{ ('class="'+ mainClass +'"') | safe if mainClass }}>
     {% block content %}
         {{ content | safe }}
     {% endblock %}
 </main>
-<footer>
-    <nav>
-        <div class="container">
+
+{% include "components/git-history.njk" %}
+
+<footer class="content-grid">
+    <nav class="full-width">
+        <div class="breakout">
             <dl>
-                <dt><a href="/forest" title="Return to the forest" class="no-underline">🌱</a> Simon Dann</dt>
+                <dt><a href="/nyc" title="New York City Work" class="no-underline">🌃</a> Aram Zucker-Scharff</dt>
                 <dd><a href="/topic" title="All topics in use">Topics</a></dd>
                 <dd><a href="/projects" title="My Current and past projects">Projects</a></dd>
                 <dd><a href="/writing" title="The Digital Garden Archive">Writing</a></dd>
@@ -128,18 +137,20 @@
 
             <dl>
                 <dd><a href="/elsewhere" title="Other places on the internet you can find me">Elsewhere</a></dd>
-                <dd><a href="https://github.com/carbontwelve">GitHub</a></dd>
-                <dd><a href="https://notacult.social/@carbontwelve">Mastodon</a></dd>
+				<dd><a href="https://aramzs.glitch.me/">Glitch in Bio</a></dd>
+                <dd><a href="https://github.com/AramZS">GitHub</a></dd>
+                <dd><a href="https://indieweb.social/@Chronotope">Mastodon</a></dd>
+				<dd><a href="https://twitter.com/Chronotope">Twitter</a></dd>
             </dl>
         </div>
     </nav>
 
-    <nav class="container">
+    <nav class="breakout">
         <dl>
             <dt>Me</dt>
             <dd><a href="/about/" title="About me">About Me</a></dd>
             <dd><a href="/projects/" title="My Current and past projects">My Projects</a></dd>
-            <dd><a href="/books/" title="What I have been reading">My Bookshelf</a></dd>
+            <!-- <dd><a href="/books/" title="What I have been reading">My Bookshelf</a></dd> -->
             <dd><a href="/antilibrary/" title="What I have every intention of reading..."><em>The</em> Antilibrary</a></dd>
             <dd><a href="/elsewhere/" title="Other places on the internet you can find me">Elsewhere</a></dd>
             <dd><a href="/uses/" title="A somewhat complete list of tools, applications, hardware and services that I used on a day-to-day basis.">/uses</a></dd>
@@ -164,23 +175,22 @@
             <dd><a href="/resources/bookmarks/" title="Links to webpages I have found useful or interesting">Bookmarks</a></dd>
             <dd><a href="/resources/snippets/" title="Snippets of code or console commands that I would like to remember/reuse">Snippets</a></dd>
             <dd><a href="/resources/quotes/" title="Referenced Quotes">Quotes</a></dd>
-            <dd><a href="/resources/jokes/" title="Mostly terrible Dad jokes">Jokes</a></dd>
             <dd><a href="/resources/books/" title="All books I have read, or intend to read">Books</a></dd>
+            
         </dl>
 
         <dl>
             <dt>Lists/Collections</dt>
             <dd><a href="/lists/" title="All Lists">List of Lists</a></dd>
-            <dd><a href="/topic/week-in-review/" title="Review of the week just past">Week In Review</a></dd>
             <dd><a href="/lists/film-and-tv/" title="List of Films and TV Series I have watched">Films/TV Series</a></dd>
+            <dd><a href="/lists/words/" title="Cool and interesting words I want to remember and maybe use.">Words</a></dd>
             <dd><a href="/lists/listened-to/" title="What I have been listening to">Listened To</a></dd>
+            <dd><a href="/amplify/" title="Amplified Links">Amplified Links</a></dd>
+            <dd><a href="/lists/contrasts/" title="Interesting color combinations">Contrasts</a></dd>
         </dl>
 
         <dl>
             <dt>Community</dt>
-            <dd><a href="https://webring.xxiivv.com/#random" target="_blank" title="XXIIVV webring" class="icon" rel="noopener"><img src="/img/xxiivv.black.svg" alt="XXIIVV webring"/> Webring</a></dd>
-            <dd><a href="https://notacult.social/explore" target="_blank" title="Not A Cult, Mastodon Instance" rel="noopener">notacult.social</a></dd>
-            <dd><a href="/button-board/" title="Ye Ole Button Board">Button Board</a></dd>
             <dd><a href="/links/" title="Links to websites I have found interesting">Blogroll</a></dd>
         </dl>
 
@@ -194,12 +204,15 @@
         </dl>
     </nav>
 
-    <nav class="container">
+    <nav class="breakout">
         <p>
-            © {{ build.timestamp | dateToFormat('yyyy') }} Simon Dann. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Licensed CC BY-NC 4.0">CC BY-NC-SA 4.0</a> | <a href="https://github.com/photogabble/website">src</a> | <a href="/legal/privacy">cookies &amp; privacy</a>.<br/>
+            CC {{ build.timestamp | dateToFormat('yyyy') }} Aram Zucker-Scharff. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="Licensed CC BY-NC 4.0">CC BY-NC-SA 4.0</a>. | <a href="https://github.com/AramZS/aramzs.xyz">src</a> | <a href="/legal/privacy">cookies &amp; privacy</a>.<br/>
             <small>
-                Any and all opinions listed here are my own and not representative of my employers; future, past and present.<br/> I may earn a portion of sales from
-                products that are purchased through this site as part of <a href="/legal/affiliate-partnerships/" title="Disclosure of affiliate partnerships">Affiliate Partnerships</a> with retailers.<br/>
+                Any and all opinions listed here are my own and not representative of my employers; future, past and present.<br/> 
+                Shared Alike from <a href="https://photogabble.co.uk/colophon/" target="_blank">Simon Dann</a>. <br />
+
+                This product uses the TMDb API but is not endorsed or certified by <a href="https://www.themoviedb.org/" target="_blank">TMDb</a>. <img class="tmdb-logo" src="/img/tmdb-short.svg" />
+                <br />
                 <small>Page built {% if metadata.commit.ref %} from <a href="{{ metadata.commit.url }}/commit/{{ metadata.commit.ref }}">{{ metadata.commit.ref | limit(7) }}</a> {% endif %} on {{ build.timestamp | dateToFormat('DDDD') }} at {{ build.timestamp | dateToFormat('TT') }} by <a href="https://www.netlify.com/">Netlify Elves</a>.</small>
             </small>
         </p>

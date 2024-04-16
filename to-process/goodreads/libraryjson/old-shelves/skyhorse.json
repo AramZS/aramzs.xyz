@@ -1,0 +1,104 @@
+{
+    "name": "Skyhorse",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Good Luck Have Fun: The Rise of eSports",
+            "id": "25898824",
+            "author": "Roland Li",
+            "date_finished": 1451606400000,
+            "notes": [],
+            "date_started": 1473806543000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Good Luck Have Fun: The Rise of eSports: Rating - 5/5",
+                    "date": 1451606400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25898824",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Skyhorse",
+            "tags": [
+                "Hardcover",
+                "Skyhorse",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "163450657X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781634506571",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "25898824",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Good Luck Have Fun: The Rise of eSports",
+            "id": 25898824,
+            "author": "Roland Li",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/25898824",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Skyhorse",
+            "tags": [
+                "Hardcover",
+                "Skyhorse",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "163450657X",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 25898824,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

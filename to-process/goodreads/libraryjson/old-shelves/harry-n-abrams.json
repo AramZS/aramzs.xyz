@@ -1,0 +1,149 @@
+{
+    "name": "Harry N. Abrams",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Invisible Women: Data Bias in a World Designed for Men",
+            "id": "41104077",
+            "author": "Caroline Criado Perez",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1574961590000,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/41104077",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harry N. Abrams",
+            "tags": [
+                "Hardcover",
+                "Harry N. Abrams",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1419729071",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781419729072",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "41104077",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Meanwhile",
+            "id": "7229730",
+            "author": "Jason Shiga",
+            "date_finished": null,
+            "notes": [],
+            "date_started": 1402146511000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Meanwhile: Rating - 5/5",
+                    "date": 1402146511000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7229730",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harry N. Abrams",
+            "tags": [
+                "Hardcover",
+                "Harry N. Abrams",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "0810984237",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9780810984233",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "7229730",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Meanwhile",
+            "id": 7229730,
+            "author": "Jason Shiga",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/7229730",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Harry N. Abrams",
+            "tags": [
+                "Hardcover",
+                "Harry N. Abrams",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 7229730,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

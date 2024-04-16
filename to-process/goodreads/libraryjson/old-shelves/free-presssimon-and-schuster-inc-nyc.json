@@ -1,0 +1,104 @@
+{
+    "name": "Free Press/Simon & Schuster, Inc. (NYC)",
+    "url": "http://goodreads-exporter.glitch.me/library.json",
+    "books": [
+        {
+            "title": "Bailout: An Inside Account of How Washington Abandoned Main Street While Rescuing Wall Street",
+            "id": "15737379",
+            "author": "Neil Barofsky",
+            "date_finished": 1356998400000,
+            "notes": [],
+            "date_started": 1387572884000,
+            "last_updated": null,
+            "reviews": [
+                {
+                    "title": "GoodReads Review of Bailout: An Inside Account of How Washington Abandoned Main Street While Rescuing Wall Street: Rating - 5/5",
+                    "date": 1356998400000,
+                    "type": "short",
+                    "content": "",
+                    "read_status": "done"
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/15737379",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Free Press/Simon & Schuster, Inc. (NYC)",
+            "tags": [
+                "Hardcover",
+                "Free Press/Simon & Schuster, Inc. (NYC)",
+                "read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": "1451684932",
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": "9781451684933",
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": "15737379",
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        },
+        {
+            "title": "Bailout: An Inside Account of How Washington Abandoned Main Street While Rescuing Wall Street",
+            "id": 15737379,
+            "author": "Neil Barofsky",
+            "date_finished": null,
+            "notes": [],
+            "date_started": null,
+            "last_updated": null,
+            "reviews": [],
+            "links": [
+                {
+                    "url": "https://www.goodreads.com/book/show/15737379",
+                    "last_accessed": null,
+                    "type": "external"
+                }
+            ],
+            "publisher": "Free Press/Simon & Schuster, Inc. (NYC)",
+            "tags": [
+                "Hardcover",
+                "Free Press/Simon & Schuster, Inc. (NYC)",
+                "to-read"
+            ],
+            "bookIds": [
+                {
+                    "type": "ISBN",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "ISBN13",
+                    "id": false,
+                    "note": null
+                },
+                {
+                    "type": "GOODREADS",
+                    "id": 15737379,
+                    "note": null
+                },
+                {
+                    "type": "BCID",
+                    "id": null,
+                    "note": null
+                }
+            ]
+        }
+    ]
+}

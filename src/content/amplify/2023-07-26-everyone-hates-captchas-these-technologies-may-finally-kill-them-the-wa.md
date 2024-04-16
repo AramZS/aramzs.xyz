@@ -1,0 +1,13 @@
+---
+date: '2023-07-26T19:04:57.000Z'
+isBasedOn: >-
+  https://www.washingtonpost.com/technology/2023/07/25/captchas-hate-privacy-pass/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjUyMTcwOTY4IiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTY5MDI1NzYwMCwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTY5MTU1MzU5OSwiaWF0IjoxNjkwMjU3NjAwLCJqdGkiOiIxMmEyOGNmMC03M2M1LTQ4ZjgtODJjZS0zYWE1M2FjYzY5ZGIiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vdGVjaG5vbG9neS8yMDIzLzA3LzI1L2NhcHRjaGFzLWhhdGUtcHJpdmFjeS1wYXNzLyJ9.KYQDLgSu7-pHEHDH5xr8jtrjo30qajNHeX6NTu5A4hg
+link: >-
+  https://www.washingtonpost.com/technology/2023/07/25/captchas-hate-privacy-pass/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjUyMTcwOTY4IiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTY5MDI1NzYwMCwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTY5MTU1MzU5OSwiaWF0IjoxNjkwMjU3NjAwLCJqdGkiOiIxMmEyOGNmMC03M2M1LTQ4ZjgtODJjZS0zYWE1M2FjYzY5ZGIiLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vdGVjaG5vbG9neS8yMDIzLzA3LzI1L2NhcHRjaGFzLWhhdGUtcHJpdmFjeS1wYXNzLyJ9.KYQDLgSu7-pHEHDH5xr8jtrjo30qajNHeX6NTu5A4hg
+slug: >-
+  2023-07-26-everyone-hates-captchas-these-technologies-may-finally-kill-them-the-wa
+tags:
+  - Tech
+title: Everyone hates Captchas. These technologies may finally kill them. - The Wa
+---
+

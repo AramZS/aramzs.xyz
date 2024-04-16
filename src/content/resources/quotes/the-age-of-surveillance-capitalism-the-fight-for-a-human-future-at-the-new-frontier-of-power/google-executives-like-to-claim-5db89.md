@@ -1,0 +1,35 @@
+---
+annotationType: Highlight
+blockquote: >-
+  Google executives like to claim their privacy purity because they do not sell
+  their raw material. Instead, the company sells the predictions that only it
+  can fabricate from its world-historic private hoard of behavioral surplus.
+cite:
+  name: Shoshana Zuboff
+  href: false
+createdDate: '2024-01-25T05:00:00'
+date: '2024-01-25T10:00:00.000Z'
+handedFrom: Kindle
+id: 5db898b98b12d7f8ecdc3136b14a5b63
+location: '1795'
+notes: []
+pageNum: '96'
+publish: true
+publishDate: '2024-03-10T17:53:21.203'
+referringUri: false
+slug: google-executives-like-to-claim-5db89
+sourceSlug: >-
+  the-age-of-surveillance-capitalism-the-fight-for-a-human-future-at-the-new-frontier-of-power
+sourceTitle: >-
+  The Age of Surveillance Capitalism: The Fight for a Human Future at the New
+  Frontier of Power
+tags:
+  - Quote
+title: >-
+  Google executives like to claim their privacy purity because they... - The Age
+  of Surveillance Capitalism: The Fight for a Human Future at the New Frontier
+  of Power
+type: quote
+---
+
+> Google executives like to claim their privacy purity because they do not sell their raw material. Instead, the company sells the predictions that only it can fabricate from its world-historic private hoard of behavioral surplus.

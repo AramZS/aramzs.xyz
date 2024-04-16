@@ -1,0 +1,124 @@
+{
+    "GoodreadsResponse": {
+        "Request": {
+            "authentication": true,
+            "method": "review_show_by_user_and_book"
+        },
+        "review": {
+            "id": 1071698230,
+            "user": {
+                "id": 1244876,
+                "uri": "kca://profile:goodreads/A16LWBNV0WWTM1",
+                "name": "Aram",
+                "display_name": "Aram",
+                "location": "Long Island City, NY",
+                "link": "https://www.goodreads.com/user/show/1244876-aram",
+                "image_url": "https://images.gr-assets.com/users/1434238832p3/1244876.jpg",
+                "small_image_url": "https://images.gr-assets.com/users/1434238832p2/1244876.jpg",
+                "has_image": true
+            },
+            "book": {
+                "id": {
+                    "type": "integer",
+                    "$t": 12188261
+                },
+                "isbn": 1401233740,
+                "isbn13": 9781401233747,
+                "text_reviews_count": {
+                    "type": "integer",
+                    "$t": 33
+                },
+                "uri": "kca://book/amzn1.gr.book.v1.K3h0dNdsRWhJlZYswbf0PA",
+                "title": "Batman Beyond: Industrial Revolution",
+                "title_without_series": "Batman Beyond: Industrial Revolution",
+                "image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567621988l/12188261._SX98_.jpg",
+                "small_image_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567621988l/12188261._SY75_.jpg",
+                "large_image_url": {},
+                "link": "https://www.goodreads.com/book/show/12188261-batman-beyond",
+                "num_pages": 176,
+                "format": "Paperback",
+                "edition_information": {},
+                "publisher": "DC Comics",
+                "publication_day": 31,
+                "publication_year": 2012,
+                "publication_month": 1,
+                "average_rating": 3.56,
+                "ratings_count": 335,
+                "description": "The alliance of Terry McGinnis and Bruce Wayne is stronger than ever after their battles in \"Hush Beyond\". But now a superpowered criminal has gotten in way over his head - and the whole Justice League has come to Neo-Gotham to hunt him down! Also, there is much unrest at Wayne-Power Industries. Who is starting these riots and more importantly, will Batman be able to stop them?<br /><br />Collecting BATMAN BEYOND #1-8.",
+                "authors": {
+                    "author": {
+                        "id": 77093,
+                        "name": "Adam Beechen",
+                        "role": {},
+                        "image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1501794960p5/77093.jpg"
+                        },
+                        "small_image_url": {
+                            "nophoto": false,
+                            "$t": "https://images.gr-assets.com/authors/1501794960p2/77093.jpg"
+                        },
+                        "link": "https://www.goodreads.com/author/show/77093.Adam_Beechen",
+                        "average_rating": 3.6,
+                        "ratings_count": 8809,
+                        "text_reviews_count": 764
+                    }
+                },
+                "published": 2012,
+                "work": {
+                    "id": 17160442,
+                    "uri": "kca://work/amzn1.gr.work.v1.6WKS4K99qKQKKkX-qonVlg"
+                }
+            },
+            "read_statuses": {
+                "read_status": {
+                    "id": {
+                        "type": "integer",
+                        "$t": 593091135
+                    },
+                    "old_status": {},
+                    "status": "read",
+                    "updated_at": {
+                        "type": "datetime",
+                        "$t": "Sat Oct 04 07:22:24 -0700 2014"
+                    },
+                    "ratings_count": 0,
+                    "comments_count": 0
+                }
+            },
+            "rating": 3,
+            "votes": 0,
+            "spoiler_flag": false,
+            "spoilers_state": "none",
+            "shelves": {
+                "shelf": [
+                    {
+                        "name": "read",
+                        "exclusive": true,
+                        "id": 5632897,
+                        "review_shelf_id": ""
+                    },
+                    {
+                        "exclusive": false,
+                        "id": 237868305,
+                        "name": "comics",
+                        "review_shelf_id": 1813197461,
+                        "sortable": false
+                    }
+                ]
+            },
+            "recommended_for": {},
+            "recommended_by": {},
+            "started_at": {},
+            "read_at": {},
+            "date_added": "Sat Oct 04 07:22:24 -0700 2014",
+            "date_updated": "Mon Oct 23 16:34:36 -0700 2017",
+            "read_count": 1,
+            "body": "",
+            "comments_count": 0,
+            "url": "https://www.goodreads.com/review/show/1071698230",
+            "link": "https://www.goodreads.com/review/show/1071698230",
+            "owned": 0
+        }
+    }
+}
