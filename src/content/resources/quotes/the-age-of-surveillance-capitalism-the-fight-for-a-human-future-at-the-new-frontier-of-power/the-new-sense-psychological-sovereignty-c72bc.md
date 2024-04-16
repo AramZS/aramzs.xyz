@@ -13,7 +13,7 @@ handedFrom: Kindle
 id: c72bca021dec78fe69a5821059d1890c
 location: '657'
 notes:
-  - '><'
+  - '*sigh*'
 pageNum: '36'
 publish: true
 publishDate: '2024-03-10T17:53:21.203'

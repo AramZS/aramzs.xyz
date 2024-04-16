@@ -14,7 +14,7 @@ handedFrom: Kindle
 id: 41400948211f5ba5324c8118fc8898b6
 location: '591'
 notes:
-  - '><'
+  - 'oy vey'
 pageNum: '32'
 publish: true
 publishDate: '2024-03-10T17:53:21.203'

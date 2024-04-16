@@ -164,6 +164,46 @@ module.exports = function (eleventyConfig) {
 		eleventyConfig.addCollection(name, collection);
 	}
 
+/*
+  eleventyConfig.addCollection('cleantags', async function(collectionApi) {
+    let starter = collectionApi.getAll();
+    let starterTags = new Set(); 
+    starter.forEach(item => {
+      if (item.data.tags && item.data.tags.length > 0){
+        starterTags.add(...item.data.tags)
+      }
+    });
+
+    console.log('this collections', eleventyConfig.collections)
+
+    let alphabeticalArray = Array.from(starterTags).sort();
+    let cleanCollections = {};
+    alphabeticalArray.forEach(tag => { 
+      //eleventyConfig.addCollection(tag.toLowerCase(), (collectionApi) => {
+        let results = starter.filter((item) => {
+          if (item.data.tags && item.data.tags.length > 0){
+            let lowerTags = item.data.tags.map(tag => tag.toLowerCase())
+            return lowerTags.includes(tag.toLowerCase())
+          } else {
+            return false;
+          }
+        
+        })
+        cleanCollections[tag.toLowerCase()] = {
+          slug: tag.toLowerCase(),
+          title: tag.toLowerCase(),
+          pageNumber: 1,
+          totalPages: 1,
+          items: results
+        };
+        //return results;
+      //});
+    })
+    // console.log('eleventyConfig', eleventyConfig.collections)
+    console.log('starterTags', cleanCollections)
+    return cleanCollections;
+  });
+*/
 	Object.keys(transforms).forEach((transformName) => {
 		eleventyConfig.addTransform(transformName, transforms[transformName]);
 	});
