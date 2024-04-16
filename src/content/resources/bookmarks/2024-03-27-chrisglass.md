@@ -1,7 +1,7 @@
 ---
 title: Chris Glass
 tags:
-  - design
+  - Design
 basedOn: https://chrisglass.com/
 cite:
   name: Chris Glass

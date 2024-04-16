@@ -1,8 +1,8 @@
 ---
 title: Service Workies
 tags:
-  - code
-  - games
+  - Code
+  - Games
 basedOn: https://serviceworkies.com/
 cite:
   name: Service Workies

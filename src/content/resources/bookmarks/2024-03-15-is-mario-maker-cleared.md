@@ -2,8 +2,8 @@
 title: IS SUPER MARIO MAKER BEATEN YET?
 tags:
   - list/design
-  - games
-  - gaming
+  - Games
+  - Gaming
 basedOn: https://www.issmmbeatenyet.com/
 cite:
   name: IS SUPER MARIO MAKER BEATEN YET?
