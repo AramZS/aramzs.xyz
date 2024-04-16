@@ -7,9 +7,13 @@
 {% for movie in movies %}
 	{% set videoMediafullArray = (videoMediafullArray.push(movie), videoMediafullArray) %}
 {% endfor %}
-{% for media in list.items %}
+{% for item in tv %}
 
-	{% set videoMediafullArray = (videoMediafullArray.push(media), videoMediafullArray) %}
+	{% set videoMediafullArray = (videoMediafullArray.push(item), videoMediafullArray) %}
+{% endfor %}
+{% for item in film %}
+
+	{% set videoMediafullArray = (videoMediafullArray.push(item), videoMediafullArray) %}
 {% endfor %}
 
 {% set videoMediaCount = videoMediafullArray.length %}
