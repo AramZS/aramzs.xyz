@@ -47,6 +47,7 @@
 
 #media .poster-image {
     width: 50%;
+    min-height: 590px;
 }
 
 #media .metadata-text {
