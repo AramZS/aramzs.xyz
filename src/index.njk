@@ -39,8 +39,9 @@
     <section>
       <h2>Recent Amplifications</h2>
       {% set postsList = collections.contentTypes | findBySlug('amplify') | values('items') | limit(10) %}
-      {% include "components/post-list.njk" %}
       {% set forward = true %}
+      {% include "components/post-list.njk" %}
+      
       <p>
         Subscribe to the <a href="/amplify/feed.xml">Amplified Items RSS Feed</a> or view the entire <a href="/amplify">archive</a> for more.
       </p>
