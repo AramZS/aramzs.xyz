@@ -3,6 +3,8 @@ const fetch = require("node-fetch");
 const chalk = require("chalk");
 const buildData = require("./build");
 
+// I don't think this one actually does anything. 
+
 const username = buildData.bookwyrm.username;
 let hasTimedOut = false;
 const fetchUrl = async (url, timeout = 8000) => {
@@ -18,7 +20,7 @@ const fetchUrl = async (url, timeout = 8000) => {
 module.exports = async function () {
 	if (hasTimedOut) {
 		console.log(
-			chalk.blue("[@photogabble/bookwyrm]"),
+			chalk.blue("[@photogabble/bookwyrm-books]"),
 			chalk.yellow("WARNING"),
 			"Not re-fetching upstream feed. Restart process to try again"
 		);
@@ -26,7 +28,7 @@ module.exports = async function () {
 	}
 
 	console.log(
-		chalk.blue("[@photogabble/bookwyrm]"),
+		chalk.blue("[@photogabble/bookwyrm-books]"),
 		"Fetching bookwrym feed"
 	);
 
@@ -39,7 +41,7 @@ module.exports = async function () {
 
 		if (ttl > 0) {
 			console.log(
-				chalk.blue("[@photogabble/bookwyrm]"),
+				chalk.blue("[@photogabble/bookwyrm-books]"),
 				`Found Cached bookwyrm feed for [${username}]…`
 			);
 			return cachedItem.data;
@@ -57,7 +59,7 @@ module.exports = async function () {
 		})
 		.catch((e) => {
 			console.warn(
-				chalk.blue("[@photogabble/bookwyrm]"),
+				chalk.blue("[@photogabble/bookwyrm-books]"),
 				chalk.yellow("WARNING"),
 				"Upstream has gone away, unable to fetch bookwyrm outbox before timeout"
 			);
@@ -121,7 +123,7 @@ module.exports = async function () {
 			)
 			.catch((e) => {
 				console.warn(
-					chalk.blue("[@photogabble/bookwyrm]"),
+					chalk.blue("[@photogabble/bookwyrm-books]"),
 					chalk.yellow("WARNING"),
 					"Upstream has gone away, unable to fetch bookwyrm outbox before timeout"
 				);
@@ -134,7 +136,7 @@ module.exports = async function () {
 
 	for (let page = 1; page <= numberOfPages; page++) {
 		console.log(
-			chalk.blue("[@photogabble/bookwyrm]"),
+			chalk.blue("[@photogabble/bookwyrm-books]"),
 			`Fetching bookwyrm feed for [${username}] page ${page} of ${numberOfPages}…`
 		);
 		const items = await fetchPage(page);
@@ -160,7 +162,7 @@ module.exports = async function () {
 			data: items,
 		});
 		cache.save();
-		console.log(chalk.blue("[@photogabble/bookwyrm]"), "cache persisted");
+		console.log(chalk.blue("[@photogabble/bookwyrm-books]"), "cache persisted");
 	}
 
 	return items;
