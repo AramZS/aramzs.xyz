@@ -15,7 +15,7 @@
 <div id="{{ item.id }}-details" class="folderContent {{ item.id }} full-width">
     <div class="jaf-container content-grid">
         <div>
-            <div class="art-wrap"><img width="250" height="250" src="{{ item.image }}"></div>
+            <div class="art-wrap"><img loading="lazy" width="250" height="250" src="{{ item.image }}"></div>
             <h2><a href="{{ item.url }}" target="_blank" rel="noopener" class="primary-color">{{ item.name | safe }}</a></h2>
             <h3 class="secondary-color">{{ item.artist | joinList }} {% if item.year %}({{ item.year }}){% endif %}</h3>
             {% if item.description %}

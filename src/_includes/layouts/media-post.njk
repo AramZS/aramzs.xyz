@@ -8,7 +8,7 @@
 {% block pageContent %}
   {% if cover_image %}
     <div class="featured-image full-width breakout">
-      <img src="/img/retrieved/{{mediaType}}/{{cover_image}}" />
+      <img src="/img/retrieved/{{mediaType}}/{{cover_image}}" loading="lazy" />
     </div>
   {% endif %}
     <section class="post-content" data-source="src/_includes/layouts/media-post.njk">
@@ -21,7 +21,7 @@
     <div class="media-metadata-container">
       <section class="media-metadata">
         <div class="poster-image">
-          <img src="/img/retrieved/{{mediaType}}/{{poster}}" />
+          <img src="/img/retrieved/{{mediaType}}/{{poster}}" loading="lazy" />
         </div>
         <div class="metadata-text">
           <h3>Metadata</h3>

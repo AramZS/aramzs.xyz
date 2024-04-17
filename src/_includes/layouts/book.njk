@@ -13,7 +13,7 @@
     <section data-source="src/_includes/layouts/book.njk">
         <aside class="margin-note">
             {% if book.cover %}
-            <img height="200px" src="{{ book.cover.url }}" alt="{{ book.cover.name }}">
+            <img height="200px" loading="lazy" src="{{ book.cover.url }}" alt="{{ book.cover.name }}">
             {% endif %}
             <ul style="list-style: none;padding:0;">
                 {% if rating %}

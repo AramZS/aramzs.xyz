@@ -17,7 +17,8 @@
     <!-- SEO -->
     <title>{{ title or metadata.title | safe }}</title>
     <meta name="description" content="{{ description or metadata.description }}"/>
-    <link rel="canonical" href="{{ canonical or isBasedOn or page.url }}"/><!-- @TODO: Add canonical URL with domain for internal links -->
+    {% set mainPageUrl = metadata.url + page.url %}
+    <link rel="canonical" href="{{ canonical or isBasedOn or mainPageUrl }}"/><!-- @TODO: Add canonical URL with domain for internal links -->
     {% if isBasedOn %}
     <meta http-equiv="Link" rel="canonical" content="{{ isBasedOn }}" />
     {% endif %}
@@ -30,8 +31,7 @@
     <meta property="og:site_name" content="{{ metadata.title | safe }}"/>
     <meta property="og:title" content="{{ title or metadata.title | safe }}"/>
     <meta property="og:type" content="{{ ogtype or 'website' }}"/>
-    {% set ogPageUrl = metadata.url + page.url %}
-    <meta property="og:url" content="{{ canonical or isBasedOn or ogPageUrl }}"/>
+    <meta property="og:url" content="{{ canonical or isBasedOn or mainPageUrl }}"/>
     {% if ogImageHref %}
     <meta property="og:image" content="{{ ogImageHref }}">
     <meta name="twitter:card" content="summary_large_image"/>
@@ -174,7 +174,8 @@
             <dt>Resources</dt>
             <dd><a href="/resources/" title="Archive of all resources">All Resources</a></dd>
             <dd><a href="/resources/bookmarks/" title="Links to webpages I have found useful or interesting">Bookmarks</a></dd>
-            <dd><a href="/resources/snippets/" title="Snippets of code or console commands that I would like to remember/reuse">Snippets</a></dd>
+            <dd><a href="/resources/snippets/" title="Snippets of things that I would like to remember/reuse">Snippets</a></dd>
+            <dd><a href="/resources/mirrored/" title="Saved code or console commands that I would like to remember/reuse">Code Snippets</a></dd>
             <dd><a href="/resources/quotes/" title="Referenced Quotes">Quotes</a></dd>
             <!-- <dd><a href="/resources/books/" title="All books I have read, or intend to read">Books</a></dd> -->
             
