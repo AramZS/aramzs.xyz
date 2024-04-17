@@ -247,6 +247,15 @@ module.exports = function (eleventyConfig) {
 		}
 	});
  */
+
+  // Dev Time Build Ignores 
+  if (process.env.IS_LOCAL){
+    eleventyConfig.ignores.add("src/content/amplify/2023**");
+    eleventyConfig.ignores.add("src/content/amplify/2024-01**");
+    eleventyConfig.ignores.add("src/content/amplify/2024-02**");
+    eleventyConfig.ignores.add("src/content/amplify/2024-03**");
+  }
+
 	//
 	// Pass through
 	//
