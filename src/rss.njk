@@ -22,7 +22,11 @@
             {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
             <entry>
                 <title>{{ post.data.title }}</title>
+                {%- if post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite and post.data.cite.href -%}
+                <link href="{{post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite.href }}"/>
+                {%- else -%}
                 <link href="{{ absolutePostUrl }}"/>
+                {%- endif -%}
                 <updated>{{ post.date | dateToRfc3339 }}</updated>
                 <id>{{ absolutePostUrl }}</id>
                 <content type="html">
