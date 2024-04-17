@@ -39,6 +39,8 @@
         {% block pageContent %}
             {{ content | safe }}
         {% endblock %}
-                {% if cite and cite.href or referringUri or isBasedOn %}<small>&mdash; <a href="{{ cite.href or referringUri or isBasedOn }}">link</a></small>{% endif %}
+          {% if pageMetaType == 'resource' %}
+
+          {% elseif cite and cite.href or referringUri or isBasedOn %}<small>&mdash; <a href="{{ cite.href or referringUri or isBasedOn }}">link</a></small>{% endif %}
     </article>
 {% endblock %}

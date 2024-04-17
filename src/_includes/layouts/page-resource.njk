@@ -1,5 +1,6 @@
 {% extends "./page.njk" %}
 {% set ogtype = 'article' %}
+{% set pageMetaType = 'resource' %}
 {% set subTitle %}
     posted on <time datetime="{{ page.date | isoDate }}">{{ page.date | dateToFormat("DDD") }}</time> in: {% include "../components/tag-list.njk" %}.
 {% endset %}
