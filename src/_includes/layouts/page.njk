@@ -41,6 +41,16 @@
         {% endblock %}
           {% if pageMetaType == 'resource' %}
 
-          {% elseif cite and cite.href or referringUri or isBasedOn %}<small>&mdash; <a href="{{ cite.href or referringUri or isBasedOn }}">link</a></small>{% endif %}
+          {% elseif cite and cite.href or referringUri or isBasedOn or canonical %}
+            {% set citeAnchorText = "link" %}
+            <small>&mdash;
+            {% if cite and cite.author %}
+              {{ cite.author }},
+            {% endif %}
+            {% if cite and cite.name %}
+              {% set citeAnchorText = cite.name %}
+            {% endif %}
+            <a href="{{referringUri or isBasedOn or canonical or cite.href }}" target="_blank" title="{{citeAnchorText}}">{{citeAnchorText}}</a></small>
+          {% endif %}
     </article>
 {% endblock %}
