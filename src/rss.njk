@@ -20,6 +20,19 @@
     {%- for post in postsList | reverse %}
         {%- if loop.index0 "<" 10 -%}
             {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+            {% set postContent = post.templateContent %}
+            {%- if post.data.cite and post.data.cite.href or post.data.referringUri or post.data.isBasedOn or post.data.canonical -%}
+              {%- set citeAnchorText = "link" -%}
+              {%- if post.data.cite and post.data.cite.name -%}
+                {%- set citeAnchorText = post.data.cite.name -%}
+              {%- endif -%}
+              {%- if post.data.cite and post.data.cite.author -%}
+                {%- set citeAnchorText = citeAnchorText + " by " + post.data.cite.author -%}
+              {%- endif -%}
+              {% set externalLink = post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite.href %}
+              {% set anchorText = citeAnchorText | stripAllQuotes %}
+              {%- set postContent = post.templateContent + '<p>Read the article at <a href="' + externalLink + '">' + anchorText + '</a></p>' | htmlToAbsoluteUrls(absolutePostUrl) -%}                                
+            {% endif %}
             <entry>
                 <title>{{ post.data.title }}</title>
                 {%- if post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite and post.data.cite.href -%}
@@ -30,7 +43,7 @@
                 <updated>{{ post.date | dateToRfc3339 }}</updated>
                 <id>{{ absolutePostUrl }}</id>
                 <content type="html">
-                    {{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}
+                    {{- postContent -}}
                 </content>
             </entry>
         {%- endif -%}

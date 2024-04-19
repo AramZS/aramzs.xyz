@@ -50,7 +50,7 @@
             {% if cite and cite.name %}
               {% set citeAnchorText = cite.name %}
             {% endif %}
-            <a href="{{referringUri or isBasedOn or canonical or cite.href }}" target="_blank" title="{{citeAnchorText}}">{{citeAnchorText}}</a></small>
+            <a href="{{referringUri or isBasedOn or canonical or cite.href }}" target="_blank" title="{{citeAnchorText | stripAllQuotes}}">{{citeAnchorText}}</a></small>
           {% endif %}
     </article>
 {% endblock %}
