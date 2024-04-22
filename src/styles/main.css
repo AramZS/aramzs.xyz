@@ -569,6 +569,10 @@ aside.notes ul li {
     grid-row: 1 / span 4;
 }
 
+article#page-post header h1 {
+    font-size: 5rem;
+}
+
 @media (max-width: 864px) {
     .container {
         margin: 0;

@@ -1,8 +1,8 @@
 ---
 title: The Internet is a Series of Webs
 draft: false
-cover_image: /img/test.png
-growthStage: evergreen
+cover_image: test.png
+growthStage: seedling
 tags:
   - IndieWeb
   - Web Development
@@ -10,4 +10,4 @@ tags:
   - Tech
 ---
 
-`growthStage:` can be any of ` stub, budding, seedling, evergreen`
+TKTK

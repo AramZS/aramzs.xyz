@@ -2,6 +2,7 @@
 {% set ogtype = 'article' %}
 {% set readingTime = content | wordStats %}
 {% set headingClass = 'note' %}
+{% set templateName = 'page-post' %}
 {% set titlePrefix %}
     {% include "components/growth.njk" %} {{ contentType }}
 {% endset %}
@@ -35,7 +36,12 @@
         </section>
     {% endif %}
 
-    <section class="full-width" data-source="src/_includes/layouts/page-post.njk">
+    <section class="full-width page-post" data-source="src/_includes/layouts/page-post.njk">
+    {% if cover_image %}
+      <div class="featured-image full-width breakout">
+        <img src="/img/posts/{{cover_image}}" loading="lazy" />
+      </div>
+    {% endif %}
         {{ content | safe }}
     </section>
 

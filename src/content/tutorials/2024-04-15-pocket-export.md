@@ -1,7 +1,7 @@
 ---
 title: How to export your links from Pocket
 draft: false
-cover_image: /img/pocket-export.png
+cover_image: pocket-export.png
 tags:
   - JavaScript
   - Archiving
