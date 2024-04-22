@@ -13,6 +13,11 @@ module.exports = {
 			"Hand curated list of websites and blogs I find interesting",
 	},
 
+	"list/code": {
+		title: "Coding and Software Development",
+		description: "Useful resources, references, and cool ideas around writing code.",
+	},  
+
 	"list/webring": {
 		title: "Webrings",
 		description: "The OG method of discovering interesting websites",
