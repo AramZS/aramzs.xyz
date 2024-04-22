@@ -5,6 +5,7 @@
 {% set previousLink = bookmarks | getPreviousCollectionItem %}
 {% set nextLink = bookmarks | getNextCollectionItem %}
 {% set index = bookmarks | getCollectionItemIndex %}
+{% set pageMetaType = "resource" %}
 {% set subTitle %}
     posted on <time datetime="{{ page.date.toISOString() }}">{{ page.date | dateToFormat("DDD") }}</time> in: {% include "../components/tag-list.njk" %}.
 {% endset %}
