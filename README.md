@@ -1,4 +1,4 @@
-# PhotoGabble Website
+# AramZS.xyz Website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/214d6bc5-dcf0-4416-b04b-9f7c3d791386/deploy-status)](https://app.netlify.com/sites/aramzsxyz/deploys)
 
