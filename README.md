@@ -1,12 +1,14 @@
 # PhotoGabble Website
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6c8303d1-5395-4372-8359-e346e8896cba/deploy-status)](https://app.netlify.com/sites/photogabble/deploys)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/214d6bc5-dcf0-4416-b04b-9f7c3d791386/deploy-status)](https://app.netlify.com/sites/aramzsxyz/deploys)
 
 ## About this repository
-This repository contains the source code for [www.photogabble.co.uk](https://www.photogabble.co.uk). It is built with [Eleventy](https://www.11ty.dev/) and deployed on [Netlify](https://www.netlify.com/).
+
+This repository contains the source code for [aramzs.xyz](https://aramzs.xyz). It is built with [Eleventy](https://www.11ty.dev/) and deployed on [Netlify](https://www.netlify.com/).
 
 ## Prerequisites
 
-- Node.js v16+
+- Node.js v18.20.2
 
 ## Getting Started
 You will need to install the required packages using `npm install`. There are three commands for building:
