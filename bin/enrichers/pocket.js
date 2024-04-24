@@ -38,7 +38,7 @@ const transformExportToJSON = (data) => {
     let dataSet = { 
       link: aChild.href, 
       date: isoDate, 
-      tags: aChild.getAttribute('tags').split(',').filter(e => e).map(tag => capitalize(tag)),
+      tags: aChild.getAttribute('tags').split(',').filter(e => e).map(tag => tag.toLowerCase()),
       title: aChild.textContent,
       content: '',
       isBasedOn: aChild.href,
