@@ -1,6 +1,6 @@
 ---
 title: "AI isn't useless. But is it worth it?"
-tags: [AI]
+tags: [ai]
 growthStage: seedling
 group: AI
 cite:
