@@ -28,9 +28,16 @@ const transformExportToJSON = (data) => {
           let month = String(date.getMonth() + 1).padStart(2, "0");
           let day = String(date.getDate()).padStart(2, "0");
           let dateFileString = `${year}-${month}-${day}`;
+          let isoDate = '';
+    try {
+      isoDate = dateObj.toISOString();
+    } catch (e) {
+      console.log('Date error', e, dateString);
+      throw new Error('Could not parse date' + dateString)
+    }
     let dataSet = { 
       link: aChild.href, 
-      date: dateObj.toISOString(), 
+      date: isoDate, 
       tags: aChild.getAttribute('tags').split(',').filter(e => e).map(tag => capitalize(tag)),
       title: aChild.textContent,
       content: '',
