@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-23-ai-is-poisoning-reddit-to-promote-products-and-game-google-with-parasite-s
 tags:
-  - Ai
+  - ai
   - Social media
 title: AI Is Poisoning Reddit to Promote Products and Game Google With 'Parasite S
 ---

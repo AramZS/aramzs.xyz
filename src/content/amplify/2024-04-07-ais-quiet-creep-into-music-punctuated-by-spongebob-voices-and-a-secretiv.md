@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-07-ais-quiet-creep-into-music-punctuated-by-spongebob-voices-and-a-secretiv
 tags:
-  - Ai
+  - ai
   - Music
 title: AI’s quiet creep into music punctuated by ‘SpongeBob’ voices and a secretiv
 ---

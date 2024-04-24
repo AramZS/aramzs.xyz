@@ -6,7 +6,7 @@ link: >-
   https://www.404media.co/a-spy-site-is-scraping-discord-and-selling-users-messages/
 slug: 2024-04-18-a-spy-site-is-scraping-discord-and-selling-users-messages
 tags:
-  - Ai
+  - ai
   - Media
   - Tech
 title: A Spy Site Is Scraping Discord and Selling Users’ Messages

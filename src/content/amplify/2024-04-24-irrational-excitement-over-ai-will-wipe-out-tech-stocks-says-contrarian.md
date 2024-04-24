@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-24-irrational-excitement-over-ai-will-wipe-out-tech-stocks-says-contrarian
 tags:
-  - Ai
+  - ai
 title: '''Irrational excitement'' over AI will wipe out tech stocks, says contrarian '
 ---
 

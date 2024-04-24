@@ -5,7 +5,7 @@ link: 'https://pluralistic.net/2024/04/23/maximal-plausibility/'
 slug: >-
   2024-04-23-pluralistic-humans-in-the-loop-must-detect-the-hardest-to-spot-errors-a
 tags:
-  - Ai
+  - ai
   - Tech
 title: 'Pluralistic: “Humans in the loop” must detect the hardest-to-spot errors, a'
 ---

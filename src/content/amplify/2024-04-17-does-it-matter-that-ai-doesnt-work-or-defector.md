@@ -4,7 +4,7 @@ isBasedOn: 'https://defector.com/does-it-matter-that-ai-doesnt-work'
 link: 'https://defector.com/does-it-matter-that-ai-doesnt-work'
 slug: 2024-04-17-does-it-matter-that-ai-doesnt-work-or-defector
 tags:
-  - Ai
+  - ai
   - Politics
 title: Does It Matter That AI Doesn't Work? | Defector
 ---

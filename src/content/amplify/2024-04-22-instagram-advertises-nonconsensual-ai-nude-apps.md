@@ -5,7 +5,7 @@ link: 'https://www.404media.co/instagram-advertises-nonconsensual-ai-nude-apps/'
 slug: 2024-04-22-instagram-advertises-nonconsensual-ai-nude-apps
 tags:
   - Ad tech
-  - Ai
+  - ai
   - Social media
 title: Instagram Advertises Nonconsensual AI Nude Apps
 ---

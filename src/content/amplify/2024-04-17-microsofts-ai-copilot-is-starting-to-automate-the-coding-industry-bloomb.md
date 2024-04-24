@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-17-microsofts-ai-copilot-is-starting-to-automate-the-coding-industry-bloomb
 tags:
-  - Ai
+  - ai
 title: Microsoft’s AI Copilot Is Starting to Automate the Coding Industry - Bloomb
 ---
 

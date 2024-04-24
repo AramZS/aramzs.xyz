@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-18-community-or-five-llms-battled-pokemon-claude-opus-was-super-effective
 tags:
-  - Ai
+  - ai
   - Code
 title: Community | Five LLMs battled Pokemon. Claude Opus was super effective
 ---

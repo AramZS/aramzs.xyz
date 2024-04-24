@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-22-metas-ai-chatbot-is-now-on-facebook-and-instagram-experts-are-wary-the
 tags:
-  - Ai
+  - ai
   - Social media
 title: Meta’s AI chatbot is now on Facebook and Instagram. Experts are wary. - The
 ---

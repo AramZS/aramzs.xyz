@@ -5,7 +5,7 @@ link: 'https://softwarecrisis.dev/letters/llmentalist/'
 slug: >-
   2024-04-14-the-llmentalist-effect-how-chat-based-large-language-models-replicate-the
 tags:
-  - Ai
+  - ai
 title: 'The LLMentalist Effect: how chat-based Large Language Models replicate the '
 ---
 

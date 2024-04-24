@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-04-09-ai-instagram-influencers-are-deepfaking-their-faces-onto-real-womens-bod
 tags:
-  - Ai
+  - ai
   - Culture
   - Social media
 title: ‘AI Instagram Influencers’ Are Deepfaking Their Faces Onto Real Women’s Bod

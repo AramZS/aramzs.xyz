@@ -6,7 +6,7 @@ link: >-
   https://hai.stanford.edu/news/privacy-ai-era-how-do-we-protect-our-personal-information
 slug: 2024-04-17-privacy-in-an-ai-era-how-do-we-protect-our-personal-information
 tags:
-  - Ai
+  - ai
   - Privacy
 title: 'Privacy in an AI Era: How Do We Protect Our Personal Information?'
 ---

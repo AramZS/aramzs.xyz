@@ -5,7 +5,7 @@ link: 'https://www.therebooting.com/curating-possibilities/'
 slug: 2024-04-22-curating-possibilities
 tags:
   - Ad tech
-  - Ai
+  - ai
 title: Curating possibilities
 ---
 

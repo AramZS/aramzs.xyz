@@ -4,7 +4,7 @@ isBasedOn: 'https://www.nytimes.com/2024/04/15/technology/ai-models-measurement.
 link: 'https://www.nytimes.com/2024/04/15/technology/ai-models-measurement.html'
 slug: 2024-04-16-ai-has-a-measurement-problem-the-new-york-times
 tags:
-  - Ai
+  - ai
 title: A.I. Has a Measurement Problem - The New York Times
 ---
 

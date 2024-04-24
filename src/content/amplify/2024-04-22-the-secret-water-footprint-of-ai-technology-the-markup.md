@@ -6,7 +6,7 @@ link: >-
   https://themarkup.org/hello-world/2023/04/15/the-secret-water-footprint-of-ai-technology
 slug: 2024-04-22-the-secret-water-footprint-of-ai-technology-the-markup
 tags:
-  - Ai
+  - ai
   - Climate
 title: The Secret Water Footprint of AI Technology – The Markup
 ---

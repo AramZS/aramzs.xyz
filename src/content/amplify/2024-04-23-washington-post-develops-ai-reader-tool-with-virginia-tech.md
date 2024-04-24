@@ -6,7 +6,7 @@ link: >-
   https://technical.ly/software-development/washington-post-ai-tool-virginia-tech/
 slug: 2024-04-23-washington-post-develops-ai-reader-tool-with-virginia-tech
 tags:
-  - Ai
+  - ai
   - Media
 title: Washington Post develops AI reader tool with Virginia Tech
 ---
