@@ -185,9 +185,7 @@ article.resource.bookmark aside + h1 {
 }
 
 article p {
-  text-align: justify;
-  text-align-last: left;
-  text-justify: inter-word;
+  text-align: left;
 }
 
 article.note img:not(.btn-88x31) {
