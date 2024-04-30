@@ -26,7 +26,8 @@ module.exports = {
     ["#8c7eb7", "#000000", "#7373ad", "#d1c5cf", "#80829c", "#e3c193", "#9fb1cb", "#8a97b6", "#d4a09c", "#687184"], // https://www.tumblr.com/aramzs/124511828648/aramzs-a-clint-barton-kate-bishop-comic-book?source=share
     ["#e6504c", "#221e19", "#fbc67f"], // https://www.tumblr.com/zegalba/746226453402796032?source=share
     ["#131415", "#ffffff", "#262626", "#f55678", "#6ef596", "#f7f086", "#71a8fe", "#f27b92", "#56c7f5", "#ededed"], // https://github.com/benjifs/sylveon/tree/main
-    ["#131415", "#ffffff", "#666666", "#f66e8b", "#86f7a7", "#f9f39e", "#8ab8fe", "#f492a5", "#6ecff6", "#fbfbfb"] // https://github.com/benjifs/sylveon/tree/main
+    ["#131415", "#ffffff", "#666666", "#f66e8b", "#86f7a7", "#f9f39e", "#8ab8fe", "#f492a5", "#6ecff6", "#fbfbfb"], // https://github.com/benjifs/sylveon/tree/main
+    ["3FA8C4", "#412922"] // https://botsin.space/@randomColorContrasts/112355161134056752
 	]
 };
 
