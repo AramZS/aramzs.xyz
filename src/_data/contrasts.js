@@ -30,7 +30,8 @@ module.exports = {
     ["#131415", "#ffffff", "#666666", "#f66e8b", "#86f7a7", "#f9f39e", "#8ab8fe", "#f492a5", "#6ecff6", "#fbfbfb"], // https://github.com/benjifs/sylveon/tree/main
     ["#3FA8C4", "#412922"], // https://botsin.space/@randomColorContrasts/112355161134056752
     ["#210e06", "#2f5779", "#2d754d", "#bb2915", "#bb5912", "#1e3758", "#ba545c"], // https://www.tumblr.com/sanctus-ingenium/747128345254330368?source=share
-    ["#1f3859", "#210e06", "#2f5779", "#2d754d", "#bb2915", "#bb5912", "#ba545c"] //https://www.tumblr.com/sanctus-ingenium/747128345254330368?source=share
+    ["#1f3859", "#210e06", "#2f5779", "#2d754d", "#bb2915", "#bb5912", "#ba545c"], //https://www.tumblr.com/sanctus-ingenium/747128345254330368?source=share
+    ["#270b3d", "#ff0836", "#f4edef", "#9e91b9", "#1a98ff", "#fec141", "#eb59c1"] // https://hazbinhotel.com/
 
 	]
 };
