@@ -2,7 +2,7 @@
 	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" viewBox="0 0 2692 2692" enable-background="new 0 0 2692 2692" xml:space="preserve">
 	<script type="text/javascript">
-        window.addEventListener('load',function(){
+        
 			fetch("https://plausible.io/api/event", {
 				"headers": {
 					"accept": "*/*",
@@ -24,7 +24,7 @@
 				"mode": "cors",
 				"credentials": "omit"
 			});
-        })
+
 	</script>
 	<path fill="#03092B" opacity="1.000000" stroke="none" d="
 M1260.000000,2694.000000 
