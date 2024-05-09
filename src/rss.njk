@@ -31,7 +31,7 @@
               {%- endif -%}
               {% set externalLink = post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite.href %}
               {% set anchorText = citeAnchorText | stripAllQuotes %}
-              {%- set postContent = post.templateContent + '<p>Read the article at <a href="' + externalLink + '">' + anchorText + '</a></p>' | htmlToAbsoluteUrls(absolutePostUrl) -%}                                
+              {%- set postContent = post.templateContent + '<p>Read the article at <a href="' + externalLink + '">' + anchorText + '</a></p>' + '<br></br><img src="/feed-img.svg" width="50" height="50" alt="Site logo">' | htmlToAbsoluteUrls(absolutePostUrl) -%}                                
             {% endif %}
             <entry>
                 <title>{{ post.data.title }}</title>
