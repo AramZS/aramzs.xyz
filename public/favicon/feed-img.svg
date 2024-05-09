@@ -19,7 +19,7 @@
 				},
 				"referrer": "https://aramzs.xyz/",
 				"referrerPolicy": "strict-origin-when-cross-origin",
-				"body": "{\"n\":\"pageview\",\"u\":\"https://aramzs.xyz/rss-feed-item\",\"d\":\"aramzs.xyz\",\"r\":null}",
+				"body": "{\"n\":\"pageview\",\"u\":\"https://aramzs.xyz/\",\"d\":\"aramzs.xyz\",\"r\":\"https://aramzs.xyz/rss-feed-item\"}",
 				"method": "POST",
 				"mode": "cors",
 				"credentials": "omit"
