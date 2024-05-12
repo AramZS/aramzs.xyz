@@ -16,7 +16,7 @@ async function fetchWithBackoff(url, retries = 1, delay = 1000) {
 }
 
 const films = fs.readFileSync(
-	"./to-process/letterboxd/export/watched.csv",
+	"./to-process/letterboxd/export/reviews.csv",
 	"utf8"
 );
 const { processObjectToMarkdown } = require("../json-to-markdown");
