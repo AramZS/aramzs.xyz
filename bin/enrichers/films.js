@@ -2,8 +2,21 @@ const fs = require("fs");
 const ObjectCache = require("../../lib/helpers/cache");
 const processImageUrl = require("../../lib/helpers/processImageUrl");
 // Date,Name,Year,Letterboxd URI,Rating,Rewatch,Review,Tags,Watched Date
+
+async function fetchWithBackoff(url, retries = 1, delay = 1000) {
+  try {
+    let response = await fetch(url);
+    if (!response.ok) throw new Error('Fetch failed');
+    return response;
+  } catch (error) {
+    if (retries === 0) throw new Error(`Fetch failed after ${retries} retries`);
+    await new Promise(resolve => setTimeout(resolve, delay));
+    return fetchWithBackoff(url, retries - 1, delay * 2);
+  }
+}
+
 const films = fs.readFileSync(
-	"./to-process/letterboxd/export/reviews.csv",
+	"./to-process/letterboxd/export/ratings.csv",
 	"utf8"
 );
 const { processObjectToMarkdown } = require("../json-to-markdown");
@@ -41,7 +54,7 @@ if (cache.has("movie_genres")) {
 		process.env.TMDB_KEY
 	);
 	genreResult = new Promise((resolve, reject) => {
-		fetch(movieDBFilmGenreListUrl.href)
+		fetchWithBackoff(movieDBFilmGenreListUrl.href)
 			.then((response) => response.json())
 			.then((data) => {
 				console.log("movie genres response", data);
@@ -65,7 +78,7 @@ const moviePageBuild = async (mediaName, showData) => {
 	if (showData.hasOwnProperty("genre_ids")) {
 		console.log("film no genre IDs found", mediaName, showData);
 	}
-	tags = showData.genre_ids.reduce(
+	tags = showData.genre_ids && showData.genre_ids.reduce(
 		(accumulator, genre) => {
 			let genreObj = moviesGenresSet.genres.find(
 				(genreItem) => genreItem.id === genre
@@ -199,10 +212,10 @@ const filmArray = records.map(async (line) => {
 			movieDBUrl.searchParams.delete("year");
 			movieDBUrl.searchParams.append("query", mediaName);
 			movieDBUrl.searchParams.append("year", filmInfo.Year);
-			fetch(movieDBUrl.href)
+			fetchWithBackoff(movieDBUrl.href)
 				.then((response) => response.json())
 				.then((data) => {
-					if (data.results.length) {
+					if (data && data.results && data.results.length) {
 						console.log(
 							"film retrieved from db query",
 							JSON.stringify(movieDBUrl.href),
