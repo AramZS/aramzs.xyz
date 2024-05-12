@@ -1,9 +1,6 @@
 {# "Media Items List check" | inspect #}
 
 {% set fullArray = [] %}
-{% for movie in movies %}
-	{% set fullArray = (fullArray.push(movie), fullArray) %}
-{% endfor %}
 {% for media in list.items %}
 
 	{% set fullArray = (fullArray.push(media), fullArray) %}
