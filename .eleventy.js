@@ -254,6 +254,8 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.ignores.add("src/content/amplify/2024-01**");
     eleventyConfig.ignores.add("src/content/amplify/2024-02**");
     eleventyConfig.ignores.add("src/content/amplify/2024-03**");
+    eleventyConfig.ignores.add("src/content/resources/film/[b-z]**");
+    eleventyConfig.ignores.add("src/content/resources/film/t**");
   }
 
 	//
