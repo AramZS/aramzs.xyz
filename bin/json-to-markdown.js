@@ -63,7 +63,9 @@ const dataToMarkdown = (dataObj) => {
 			obj[key] = dataObj.data[key];
 			return obj;
 		}, {});
-
+  if (!dataObj.hasOwnProperty("content")  || !dataObj.content || dataObj.content.length < 1) {
+    dataObj.content = " ";
+  }
 	const mdReadyString = matter.stringify(dataObj.content, ordered);
 	return mdReadyString;
 };

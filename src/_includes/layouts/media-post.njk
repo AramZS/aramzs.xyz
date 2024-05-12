@@ -15,7 +15,9 @@
         {% if rating %}
           <p>Rating: {{ rating | ratingToStars }}</p>
         {% endif %}
+        {% if content %}
         {{ content | safe }}
+        {% endif %}
         <small>&mdash;  <a href="https://www.themoviedb.org/{{mediaType}}/{{ id }}">TMDB link</a></small>
     </section>
     <div class="media-metadata-container">

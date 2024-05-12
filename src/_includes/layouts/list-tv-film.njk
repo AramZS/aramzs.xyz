@@ -1,9 +1,6 @@
 {# "Media Items List check" | inspect #}
 
 {% set fullArray = [] %}
-{% for movie in movies %}
-	{% set fullArray = (fullArray.push(movie), fullArray) %}
-{% endfor %}
 {% for media in list.items %}
 
 	{% set fullArray = (fullArray.push(media), fullArray) %}
@@ -26,7 +23,7 @@
                     {% if item.review %}
                         <br /><small><em><p>{{ item.review }}</p></em></small>
                     {% endif %}
-					{% if item.content %}
+					          {% if item.content %}
                         <small><em>{{ item.content | safe }}</em></small>
                     {% endif %}
                 </li>
