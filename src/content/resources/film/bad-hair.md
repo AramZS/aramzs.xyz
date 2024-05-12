@@ -35,4 +35,5 @@ vote_count: 66
 watchedDate: '2020-11-02T00:00:00.000Z'
 year: '2020'
 ---
+
 A lot more serious and clever than implied by its marketing, this one is a solid smart horror flick that's well put together and entirely engaging. I recommend it.

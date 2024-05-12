@@ -34,4 +34,4 @@ vote_count: 197
 watchedDate: '2021-05-24T00:00:00.000Z'
 year: '2019'
 ---
-+ a half star for some seriously fun toy on toy fights.
+Plus a half star for some seriously fun toy on toy fights.

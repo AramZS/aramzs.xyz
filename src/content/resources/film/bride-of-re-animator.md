@@ -14,7 +14,7 @@ original_language: en
 original_title: Bride of Re-Animator
 overview: >-
   Unperturbed by the disastrous outcome of his previous meddling with the dead,
-  Dr. West continues his research into the phenomenon of re-animation; only this
+  Dr. West continues his research into the phenomenon of re-animation, only this
   time, he plans to create life – starting with the heart of his young protégé
   Dan's dearly deceased Meg Halsey.
 popularity: 15.892

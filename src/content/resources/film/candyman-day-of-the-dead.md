@@ -13,8 +13,7 @@ original_language: en
 original_title: 'Candyman: Day of the Dead'
 overview: >-
   As the Day of the Dead celebration approaches the barrio of East Los Angeles,
-  Caroline is challenged to control the horrifying legend of her ancestor, the
-  "Candyman".
+  Caroline is challenged to control the horrifying legend of her ancestor, the Candyman.
 popularity: 11.307
 poster: candyman-day-of-the-dead-poster.jpg
 poster_path: /sqr0imYSvDu8Q5nZLNjgAXppVSt.jpg
