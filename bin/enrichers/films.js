@@ -273,6 +273,12 @@ const writeFilms = async (filmPromiseArray) => {
 			console.log("show has no name", show);
 			return;
 		}
+    if (
+			!show.hasOwnProperty("tags")
+		) {
+			console.log("show has no tags", show);
+			return;
+		}
 		show.rating = show.rating ? Number(show.rating) : false;
 		show.title = show.mediaName;
 		console.log("show", show.mediaName);
