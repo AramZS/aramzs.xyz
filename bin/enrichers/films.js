@@ -3,7 +3,7 @@ const ObjectCache = require("../../lib/helpers/cache");
 const processImageUrl = require("../../lib/helpers/processImageUrl");
 // Date,Name,Year,Letterboxd URI,Rating,Rewatch,Review,Tags,Watched Date
 const films = fs.readFileSync(
-	"./to-process/letterboxd/export/watched.csv",
+	"./to-process/letterboxd/export/reviews.csv",
 	"utf8"
 );
 const { processObjectToMarkdown } = require("../json-to-markdown");
@@ -202,7 +202,7 @@ const filmArray = records.map(async (line) => {
 			fetch(movieDBUrl.href)
 				.then((response) => response.json())
 				.then((data) => {
-					if (data && data.results && data.results.length) {
+					if (data.results.length) {
 						console.log(
 							"film retrieved from db query",
 							JSON.stringify(movieDBUrl.href),
@@ -262,7 +262,6 @@ const writeFilms = async (filmPromiseArray) => {
 		}
 		show.rating = show.rating ? Number(show.rating) : false;
 		show.title = show.mediaName;
-    show.Review = show.Review ? show.Review : "";
 		console.log("show", show.mediaName);
 		processObjectToMarkdown(
 			"mediaName",
