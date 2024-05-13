@@ -2,6 +2,7 @@
 title: We Need To Rewild The Internet
 tags:
   - list/inspiration
+  - list/a-future-for-the-web
   - "series:The Wild Web"
 series: The Wild Web
 group: The Wild Web

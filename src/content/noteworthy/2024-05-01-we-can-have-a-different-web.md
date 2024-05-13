@@ -2,6 +2,7 @@
 title: We can have a different web
 tags:
   - list/inspiration
+  - list/a-future-for-the-web
   - "series:The Wild Web" 
 series: The Wild Web
 group: The Wild Web
