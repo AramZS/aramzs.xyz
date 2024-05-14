@@ -39,10 +39,15 @@ module.exports = {
 		description: "List of digital gardens",
 	},
 
+	"list/a-future-for-the-web": {
+		title: "A Future for the Web",
+		description: "Optimistic projects and ideas for the future of the web",
+	},
+
 	"list/inspiration": {
 		title: "Inspiration",
 		description: "Websites and People who have inspired me",
-	},
+	},  
 
 	"list/games": {
 		title: "My Games Library",
