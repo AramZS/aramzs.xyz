@@ -132,4 +132,23 @@ module.exports = {
 		description: "My attempt at writing a thought a day for a year",
 		layout: "layouts/list-posts.njk",
 	},
+  'list/digital-garden': {
+    title: 'Digital Gardens',
+    description: 'List of digital gardens',
+  },
+
+  'list/inspiration': {
+    title: 'Inspiration',
+    description: 'Websites and People who have inspired me',
+  },
+
+  'list/youtube-video': {
+    title: 'YouTube Videos',
+    description: 'List of videos I recommend'
+  },
+
+  'list/forum': {
+    title: 'Forums & Communities',
+    description: 'List of Forums, communities and online hubs'
+  },
 };
