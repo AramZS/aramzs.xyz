@@ -9,6 +9,7 @@ module.exports = {
 	feedUrl: "https://aramzs.xyz/writing/feed.xml",
 	author: {
 		name: "Aram Zucker-Scharff",
+    shortname: "Aram",
 		email: "aramzs@hacktext.com",
 	},
 };
