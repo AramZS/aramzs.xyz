@@ -56,6 +56,6 @@ document.addEventListener("DOMContentLoaded", function () {
 		}
 	);
 
-	setTheme(localStorage.getItem("theme") || "dark");
+	setTheme(localStorage.getItem("theme") || "neon");
 });
 
