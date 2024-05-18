@@ -555,6 +555,12 @@ aside.notes ul li {
     display: grid;
 }
 
+#front-content-display > section {
+    text-wrap: balance;
+    text-wrap: pretty;
+    overflow: hidden;
+}
+
 #front-content-display section:nth-child(1) {
     grid-column: 1;
     grid-row: 1;
