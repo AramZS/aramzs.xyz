@@ -17,7 +17,8 @@
     "make:tv": "node -e 'var w = require(\"./bin/enrichers/tv.js\"); w.writeTVShows().then(() => console.log(\"complete tv\"))' > ./buildlog.txt",
     "make:songs": "node -e 'var w = require(\"./bin/enrichers/rss-music.js\"); w.writeSongs().then(() => console.log(\"complete write songs\"))' > ./buildlog.txt",
     "make:pocket": "node -e 'var w = require(\"./bin/enrichers/pocket.js\"); w.writeAmplify().then(() => console.log(\"complete write amplify\"))' > ./buildlog.txt",
-    "make:books": "node -e 'var w = require(\"./bin/enrichers/books.js\"); w.writeBooks().then(() => console.log(\"complete books\"))' > ./buildlog.txt"
+    "make:books": "node -e 'var w = require(\"./bin/enrichers/books.js\"); w.writeBooks().then(() => console.log(\"complete books\"))' > ./buildlog.txt",
+    "make:noteworthy": "node ./bin/add-noteworthy.js"
   },
   "bin": {
     "add-bookmark": "./bin/add-bookmark.js",
