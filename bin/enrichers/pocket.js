@@ -17,10 +17,16 @@ const transformExportToJSON = (data) => {
 	//const customElements = window.customElements;
 	//const HTMLElement = window.HTMLElement;
   var linkList = [...document.querySelectorAll('li')].map(el => { 
-    console.log(el, el.outerHTML, el.firstChild.tagName, el.querySelector('A') )
+    console.log("el ", el, "el.outerHTML ", el.outerHTML, "el.firstChild.tagName ", el.firstChild.tagName, "el.querySelector", el.querySelector('A') )
     if (el.firstChild.tagName !== 'A') return;
-    let aChild = el.querySelector('A'); 
-    let dateString =  aChild.getAttribute('time_added');
+    let aChild = el.firstChild; 
+    let dateString = '';
+    try {
+      dateString =  aChild.getAttribute('time_added');
+    } catch (e) { 
+      console.log('Date error', el, aChild);
+      throw new Error('Could not parse date' + el)
+    }
     let dateObj = new Date(parseInt(dateString) * 1000);
           // Generate a file-slug YYYY-MM-DD string from the date
           let date = dateObj;
