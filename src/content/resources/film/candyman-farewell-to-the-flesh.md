@@ -13,8 +13,8 @@ original_language: en
 original_title: 'Candyman: Farewell to the Flesh'
 overview: >-
   Annie, a young schoolteacher struggling to solve the brutal murder of her
-  father, unwittingly summons the Candyman to New Orleans, where she learns
-  the secret of his power, and discovers the link that connects them.
+  father, unwittingly summons the Candyman to New Orleans, where she learns the
+  secret of his power, and discovers the link that connects them.
 popularity: 20.542
 poster: candyman-farewell-to-the-flesh-poster.jpg
 poster_path: /2scgM9dFaHEppWb3tS99gCAh8KX.jpg
