@@ -20,6 +20,8 @@ I'm sorry, how the fk is this legal?
 
 It's wild that the headline has been 'Red Lobster gave away too much food' when ya know every single property suddenly went from not having to pay rent to paying fking rent. Seems like a more likely issue!
 
+More on this [here](https://prospect.org/economy/2024-05-22-raiding-red-lobster/).
+
 And then:
 
 > Thai Union was a top supplier of shrimp to Red Lobster for more than 20 years. In 2016, Thai Union took a $575 million minority stake in the brand. In 2020, Thai Union deepened its financial interest in Red Lobster.
