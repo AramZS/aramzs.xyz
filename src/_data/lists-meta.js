@@ -49,11 +49,6 @@ module.exports = {
 		description: "Websites and People who have inspired me",
 	},  
 
-	"list/games": {
-		title: "My Games Library",
-		description: "List of games that I would like to one day play",
-	},
-
 	"list/youtube-channel": {
 		title: "YouTube Channels",
 		description: "List of channels I enjoy watching",
@@ -74,6 +69,25 @@ module.exports = {
 		description: "Articles and commentaries on current events",
 	},
 
+	"list/events": {
+		title: "Interesting Events",
+		description: "Events that are happening in the real world or virtually that are interesting to me.",
+	},  
+
+	"list/privacy": {
+		title: "Privacy",
+		description: "Articles and commentaries on privacy issues",
+	},
+
+  "list/ad-tech": {
+		title: "Ad Tech",
+		description: "Articles and commentaries on advertising technology",
+	},
+  "list/gaming": {
+		title: "Gaming",
+		description: "Information about gaming as a practice and industry",
+    //layout: "layouts/media-post.njk",
+	}, 
 	"list/film-and-tv": {
 		title: "What I've been watching lately",
 		description: "Keeping track of everything I've been watching",
@@ -93,6 +107,11 @@ module.exports = {
   "list/music": {
 		title: "Music",
 		description: "Music I've really enjoyed recently",
+    //layout: "layouts/media-post.njk",
+	}, 
+  "list/games": {
+		title: "Games",
+		description: "Games I've really enjoyed recently",
     //layout: "layouts/media-post.njk",
 	}, 
   "list/design": {
