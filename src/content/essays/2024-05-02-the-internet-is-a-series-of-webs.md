@@ -14,7 +14,7 @@ group: The Wild Web
 ---
 
 > When I envision the web, I picture an infinite expanse of empty space that stretches as far as the eye can see. It's full of fertile soil, but no seeds have taken root. That is, except for about an acre of it.
-  -  [Molly White, We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
+  -  Molly White, [[We can have a different web]]
 
 The future of the internet seems up in the air. Not just because it is being consumed by rotting bemoliths but because the internet is part of our every-day life, our politics, our scoiaty, our communities and our frendships and all of those seem at risk. 
 

@@ -6,6 +6,6 @@ slug: 2024-05-01-we-can-have-a-different-web
 tags:
   - culture
   - tech
-title: We can have a different web
+title: "Molly White: We can have a different web"
 ---
 
