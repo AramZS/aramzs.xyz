@@ -582,6 +582,10 @@ article#page-post header {
   word-wrap: break-word;
 }
 
+article#page-post li {
+  margin-bottom: 1em;
+}
+
 @media (max-width: 864px) {
   .container {
     margin: 0;
