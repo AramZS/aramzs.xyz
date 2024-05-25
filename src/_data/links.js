@@ -17,5 +17,11 @@ module.exports = [
         tags: ['Gaming'],
         reason: 'Wonderful essays',
     },
+    {
+      title: "Cooking Code and Eating Knowledge",
+      href: "https://davidchicopham.com/", 
+      tags: ['Blogging', 'Tech'],
+      reason: null,
+    }
 
 ];
