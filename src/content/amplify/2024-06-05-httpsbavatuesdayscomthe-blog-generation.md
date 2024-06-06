@@ -5,6 +5,6 @@ link: 'https://bavatuesdays.com/the-blog-generation/'
 slug: 2024-06-05-httpsbavatuesdayscomthe-blog-generation
 tags:
   - blogging
-title: 'The Blog Generation'
+title: The Blog Generation
 ---
  
