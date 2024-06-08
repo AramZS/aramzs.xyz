@@ -46,7 +46,9 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  transition: background-color 300ms, color 200ms;
+  transition:
+    background-color 300ms,
+    color 200ms;
 }
 
 details summary {
@@ -116,11 +118,12 @@ a[href]:not(:where(
   /* exclude relative but not double slash only links */
   [href^="/"]:not([href^="//"]),
   /* domains to exclude */
-  [href*="//photogabble.co.uk"],
+  [href*="//aramzs.xyz"],
+  [href*="//localhost"]
   /* subdomains to exclude */
-  [href*="//www.photogabble.co.uk"]
+  [href*="//www.aramzs.xyz"]
 )):not(.no-ext):after {
-  content: "↗️";
+  content: "↗";
   margin-left: 0.25rem;
   vertical-align: super;
   font-size: 0.5rem;
@@ -584,6 +587,14 @@ article#page-post header {
 
 article#page-post li {
   margin-bottom: 1em;
+}
+
+#page-post .featured-image {
+  padding: 10px;
+}
+
+#page-post .featured-image img {
+  max-height: 600px;
 }
 
 @media (max-width: 864px) {

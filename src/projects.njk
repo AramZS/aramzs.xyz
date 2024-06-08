@@ -36,6 +36,15 @@
     </section>
 
     <section>
+        <h2>Rough Starts</h2>
+        <ul>
+            {% for project in projects | whereKeyEquals('featured', false) | whereKeyEquals('status', 'rough') %}
+                <li><a href="{{ project.url }}" title="Read {{ project.data.title }}">{{ project.data.title }}</a> <small>{{ project.data.language }}</small></li>
+            {% endfor %}
+        </ul>
+    </section>
+
+    <section>
         <h2>Abandoned / Shelved</h2>
         <ul>
             {% for project in projects | whereKeyEquals('featured', false) | whereKeyEquals('status', 'abandoned') %}

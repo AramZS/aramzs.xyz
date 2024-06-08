@@ -3,13 +3,9 @@
 {% set antilibrary = bookwyrm | whereKeyEquals('shelf', 'to-read') %}
 {% set read = bookwyrm | whereKeyEquals('shelf', 'read') %}
 {% set resources = collections.resources | groupByKey('resourceType') %}
-{% set videoMediafullArray = [] %}
-{% for media in list.items %}
+{% set videoMediaMap = collections.resources | groupByKey('mediaType') %}
+{% set videoMediaCount = videoMediaMap.get('film').length + videoMediaMap.get('tv').length %}
 
-	{% set videoMediafullArray = (fullArray.push(media), fullArray) | mixedDataSortWatchedMedia %}
-{% endfor %}
-
-{% set videoMediaCount = videoMediafullArray.length %}
 
 <section class="jumbo-nav breakout" data-source="src/_includes/components/jumbo-nav.njk">
     <nav>

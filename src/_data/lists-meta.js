@@ -89,8 +89,8 @@ module.exports = {
     //layout: "layouts/media-post.njk",
 	}, 
 	"list/film-and-tv": {
-		title: "What I've been watching lately",
-		description: "Keeping track of everything I've been watching",
+		title: "Watched Film and TV",
+		description: "What I've been watching lately",
 		layout: "layouts/list-tv-film.njk",
 	},
 
