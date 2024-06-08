@@ -15,21 +15,23 @@ ogImageHref: 1443px-Typical-orb-web-photo.jpg
 > When I envision the web, I picture an infinite expanse of empty space that stretches as far as the eye can see. It's full of fertile soil, but no seeds have taken root. That is, except for about an acre of it.
   -  Molly White, [[We can have a different web]]
 
-The future of the internet seems up in the air. It is being consumed by rotting behemoths. What we have now is part of our every-day life, our politics, our society, our communities and our friendships; but all of those are at risk, in part because the ways we communicate are under attack but also because the changes to the open web are inextricable from the other ways our world is in crisis. 
+The future of the internet seems up in the air. Consumed by rotting behemoths. What we have now is failing, but it is also part of our every-day life, our politics, our society, our communities and our friendships. All of those are at risk, in part because the ways we communicate are under attack. Also because the changes to the open web are inextricable from the other ways our world is in crisis. 
 
-These things are connected. As we face down an endless series of political, social, and medical disasters on a melting planet there is no doubt that the internet is deeply integrated into everything that is going both right and wrong. So our solutions must be holistic. 
+As we face down a seemingly endless series of political, social, and medical disasters on a melting planet there is no doubt that the internet is deeply integrated into everything that is going both right and wrong. Our way to a better web can't be purely technical. 
 
 Today, at the moment, [we are actively discussing how to build a future for our shared global telecommunications network](https://aramzs.xyz/lists/a-future-for-the-web/). This is very good. We need this discussion. We also need to acknowledge that the wide open platform for infinite data, innovation and communication isn't a shelter from the disaster, it *is* at the heart of everything we do. The day we could go back from that, even if we wanted to, is long gone. That means [rewilding the web](https://www.noemamag.com/we-need-to-rewild-the-internet/) isn't **just** a matter of a better internet. It's the matter of being part of the making of a better world. 
 
 With the problem so large, how do we approach a solution? If we want to plant a forest how do we grow the ground cover? 
 
-De-abstract the internet. The internet seems big, huge, infinite. What is it really? It's wires, and waves (and occasionally, joking aside, [pipes](https://www.windsystemsmag.com/the-latest-advancements-in-submarine-cables-protection/)) all put to the purpose of connecting people to each other. The internet then is the series of connections between people, at a huge scale. Not everyone is connected to each other, but if you're on the internet, you're connecting to *someone*. So it isn't so much a world wide web, it is world wide **webs**. 
+De-abstract the internet. The internet seems big, huge, infinite. What is it really? It's wires, and waves (and occasionally, joking aside, [pipes](https://www.windsystemsmag.com/the-latest-advancements-in-submarine-cables-protection/)) all put to the purpose of connecting people to each other. 
 
-The future core of the internet, if it is going to be [humane](https://humanewebmanifesto.com/) and if we are going to be able to use it to do the essential work of surviving this century, is a series of linked routes that stick us all together and support our communities.
+The internet then is the series of connections between people, at a huge scale. Not everyone is connected to everyone, but if you're on the internet, you're connecting to *someone*. So it isn't so much a world wide web as it is world wide **webs**. 
 
-This is what the webs need to accomplish, how to we make that happen? How do we improve not just our telecommunication platform but leverage it towards a better world for all participants? 
+The future core of a internet [humane](https://humanewebmanifesto.com/) internet,  if we are going to be able to use it to do the essential work of surviving this century, is a series of linked routes that stick us all together and support our communities.
 
-I don't think there is only one solution, I suspect I don't even have them all in mind, but I have one approach that has led me to launch this particular website (and [some others](/projects/)). 
+This is what the internet needs to accomplish. How to we make that happen? How do we improve not just our telecommunication platform but leverage it towards a better world for all participants? 
+
+I don't think there is only one solution, I couldn't possibly know them all, but I have one approach that has led me to launch this particular website (and [some others](/projects/)). 
 
 The thing about webs is [they are failure resistent, one strand falling won't take the whole thing down](https://news.mit.edu/2012/spider-web-strength-0202). You can punch a hole through them, but webs are also rebuilt regularly, they can fail and come back quickly. 
 
@@ -37,13 +39,13 @@ We need to think of our connections and how we transmit information to each othe
 
 I think what really put this into sharp focus for me is [the long death of Twitter](https://www.schizochronotopia.com/p/on-twitter-we-look-down). Twitter is still a platform where, for professional reasons, I'm quite active, but its biggest utility--directing me to information that I'm interested in or that is important to me--that's gone. 
 
-So how do we replace this chunk of essential function in a way that's wild, and not contained by monopolies or monopolist-wannabes? We need to be able to support, amplify, and extend the reach of good works on our webs.
+So how do we replace this chunk of essential function in a way that's wild, and not contained by monopolies or monopolist-wannabes? We need to be able to support, amplify, and extend the reach of good works on our webs. We weave our communities together by establishing bedrocks of shared knowledge. 
 
-We need to rethink how amplification works without requiring big tech or even a steady internet connection. I think there's two categories that are really important to consider while building how we move forward: 
+We need to rethink how amplification works without requiring big tech or even a steady internet connection. There are three big assumptions sitting inside this larger question of how best to build our webs. 
 
 1. Amplification through cross-linking between individual entities and feeds is essentially rejuvenating for the web. 
 2. We [can't](https://ahrefs.com/blog/link-rot-study/) [take the life of those links for granted](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/) and an essential part of this rejuvenation process is archiving links that are important enough to amplify.
-3. In the current world it is nearly impossible to build without touching or using the technology of a mega-corporation in some way so we should expect to build on things that will fail, enshittify, or rot, and need to be moved off from quickly.
+3. In the current world [it is nearly impossible](https://www.nytimes.com/2020/07/31/technology/blocking-the-tech-giants.html) to build without touching or using the technology of a mega-corporation in some way so we should expect to build on things that will fail, enshittify, or rot, and need to be moved off from quickly.
 
 ## To that end I've considered some principles for my own projects.
 
@@ -97,11 +99,13 @@ Once you have reclaimed your own works, you can do all sorts of things with it. 
 
 Redirect or cross link your own sites and platform over the big tech ones whenever possible. Once you've linked off a enshittified platform and brought someone out of the walled garden and into your web, it's important to give them ways to interact with the internet that don't just push them right back into the hands of big tech. Whenever possible, push readers to open and wild web alternatives. 
 
+Create sites and networks that aren't just informative, but also fun to explore. 
+
 ### Transform 
 
-Take the posts you've checked out or otherwise extracted and turn them into something new and cool. Everything we post on social media platforms owned by big tech companies is limited by the business models and requirement to render ad targeting data. It shapes our participation in ways we aren't aware of. Once we free our *own* work from those platforms, take the time and effort to turn them into something cool and new, no longer limited by the constraints from inside the wall. 
+Take the posts you've checked out or otherwise extracted and turn them into something new and cool. Everything we post on social media platforms owned by big tech companies is limited by the business models and requirement to render ad targeting data. It shapes our participation in ways we aren't aware of. Once we free our *own* works from those platforms, take the time and effort to turn them into something cool and new, no longer limited by the constraints from inside the wall. 
 
-This is one of my main projects for this site which is transforming data extractions from [Letterboxd](/lists/film-and-tv/), [Pocket](/amplify/), and [Kindle](/resources/quotes/).
+One of my main projects for this site which is transforming data extractions from [Letterboxd](/lists/film-and-tv/), [Pocket](/amplify/), and [Kindle](/resources/quotes/).
 
 ### Exchange 
 
@@ -117,21 +121,28 @@ We should understand that there is no "Long Now". VCs, big clocks and big money 
 
 Let me be blunt: The present isn't worth preserving. 
 
-Let's think instead about **The Long Next**, a future where we build sustainably; live with the knowledge that [we can't be always-online](low-tech-magazine); and consider a world that **we** sustain in our projects, groups and communities. The Long Next isn't about preserving wealth and capital long enough to catapult the rich to Mars, it is about holistic rewilding of the web, the Earth, the future. A world we can live in, not one we are going to sacrifice on the alter of wealthy egos.   
+Let's think instead about **The Long Next**, a future where we build sustainably; live with the knowledge that [we can't be always-online](/resources/bookmarks/low-tech-magazine/); and consider a world that **we** sustain in our projects, groups and communities. The Long Next isn't about preserving wealth and capital long enough to catapult the rich to Mars, it is about holistic rewilding of the web, the Earth, the future. A world we can live in, not one we are going to sacrifice on the alter of wealthy egos.   
 
 Central archives are incredibly important, but they're also central points of failure, vulnerable not just to physical attacks, but to legal ones as well. Worse, it is at the mercy of big donors who have proved time and again that they'd rather burn the present to build their personal vision of the future than sustain it. It's hard to believe such people will forever consider supporting projects like The Internet Archive in their best interest, especially as they sit above companies whose works are focused on essentially in-housing that work *as a competitive advantage*.  
 
-We should continue to support big important archival projects. I think their work is amazing and deserves all our support to keep them going as long as we can. A long next, a sustainable future, means that we need to do more than that, we need to think about how to keep the archives of what is important to us close to home, replicate them across our local networks and retain their information in case of the worst. 
+We should continue to support big important archival projects. I think their work is amazing and deserves all our support to keep them going as long as we can. 
 
-So use your newly wild websites to preserve the parts of the web that are important to you. Host local archives with indicators that point back to and [300s](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#3xx_redirection) back to the originals, but kept with you so you'll have them *just in case*. Make sure to set up those local archives so they can be accessed by you, by others, and using search. Contribute back to central archives at the same time. 
+A long next, a sustainable future, means that we need to do more than that, we need to think about how to keep the archives of what is important to us close to home, replicate them across our local networks and retain their information in case of the worst. 
 
-At the same time, [make sure what you build is easy for others to archive](https://jeffhuang.com/designed_to_last/).
+The parts of the web that are most important to you should be available to you, even if the internet isn't.
+
+So use your newly wild websites to preserve the parts of the web that matter to you. Host site-local archives with indicators that point back to and [300s](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#3xx_redirection) back to the originals. Keep the option to take them with you, or to drop redirects if they die so you'll have them *just in case*. Make sure to set up those local archives so they can be accessed by you, by others, and using your own search tools. Submit those links to The Internet Archive at the same time. 
+
+[Make sure what you build is easy for others to archive](https://jeffhuang.com/designed_to_last/).
 
 ## The Future Soon 
 
 This is a summary. I think I could explore any one of these points more deeply and maybe I will. This is a good start at trying to describe what I want to do with this site and the other sites I'm working on.
 
-I think that working in public and thinking in public keeps me honest, so that's what I've got here. If it's interesting to you, maybe it is something you can explore as well, try to follow through with on your own websites. We can join our own little webs together. One thing is certain, making the web a better place isn't a project to undertake alone or in private. 
+I think that working in public and thinking in public keeps me honest, so that's what I've got here. If it's interesting to you, maybe it is something you can explore as well, try to follow through with on your own websites. Increasingly I wish for a **zine-web** filled with tiny one-off websites and fun projects, a million well-tended webs intersecting with each other. 
+
+
+We can join our own little webs together. One thing is certain, making the web a better place isn't a project to undertake alone or in private. 
 
 [Reach out on Mastodon to talk](https://indieweb.social/@Chronotope). 
 
