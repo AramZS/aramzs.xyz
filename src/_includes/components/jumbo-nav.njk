@@ -4,16 +4,9 @@
 {% set read = bookwyrm | whereKeyEquals('shelf', 'read') %}
 {% set resources = collections.resources | groupByKey('resourceType') %}
 {% set videoMediafullArray = [] %}
-{% for movie in movies %}
-	{% set videoMediafullArray = (videoMediafullArray.push(movie), videoMediafullArray) %}
-{% endfor %}
-{% for item in tv %}
+{% for media in list.items %}
 
-	{% set videoMediafullArray = (videoMediafullArray.push(item), videoMediafullArray) %}
-{% endfor %}
-{% for item in film %}
-
-	{% set videoMediafullArray = (videoMediafullArray.push(item), videoMediafullArray) %}
+	{% set videoMediafullArray = (fullArray.push(media), fullArray) | mixedDataSortWatchedMedia %}
 {% endfor %}
 
 {% set videoMediaCount = videoMediafullArray.length %}

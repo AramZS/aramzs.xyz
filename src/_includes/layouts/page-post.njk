@@ -44,14 +44,15 @@
     {% endif %}
         {{ content | safe }}
     </section>
+    
+    {% if isBasedOn and git %}
+        <hr/>
+        {% include "components/ref-to-project-log.njk" %}
+    {% endif %}
 
     {% if tags | includesTag('wayback machine') %}
         <hr/>
         {% include "components/wayback-machine.njk" %}
-    {% endif %}
-    {% if isBasedOn && git %}
-        <hr/>
-        {% include "components/ref-to-project-log.njk" %}
     {% endif %}
 
     {% include "components/backlinks.njk" %}
