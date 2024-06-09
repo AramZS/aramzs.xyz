@@ -35,6 +35,9 @@
     {% if ogImageHref %}
     <meta property="og:image" content="{{ ogImageHref }}">
     <meta name="twitter:card" content="summary_large_image"/>
+    {% elif cover_image %}
+    <meta property="og:image" content="{{ metadata.url }}/img/posts/{{ cover_image }}">
+    <meta name="twitter:card" content="summary_large_image"/>       
     {% else %}
     <meta name="twitter:card" content="summary"/>
     {% endif %}

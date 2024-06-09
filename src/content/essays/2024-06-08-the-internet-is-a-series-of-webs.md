@@ -9,7 +9,6 @@ tags:
 series: The Wild Web
 group: The Wild Web
 cover_image: 1443px-Typical-orb-web-photo.jpg
-ogImageHref: 1443px-Typical-orb-web-photo.jpg
 ---
 
 > When I envision the web, I picture an infinite expanse of empty space that stretches as far as the eye can see. It's full of fertile soil, but no seeds have taken root. That is, except for about an acre of it.
@@ -17,7 +16,7 @@ ogImageHref: 1443px-Typical-orb-web-photo.jpg
 
 The future of the internet seems up in the air. Consumed by rotting behemoths. What we have now is failing, but it is also part of our every-day life, our politics, our society, our communities and our friendships. All of those are at risk, in part because the ways we communicate are under attack. Also because the changes to the open web are inextricable from the other ways our world is in crisis. 
 
-As we face down a seemingly endless series of political, social, and medical disasters on a melting planet there is no doubt that the internet is deeply integrated into everything that is going both right and wrong. Our way to a better web can't be purely technical. 
+As we face down a seemingly endless series of political, social, economic, and medical disasters on a melting planet there is no doubt that the internet is deeply integrated into everything that is going both right and wrong. Our way to a better web can't be purely technical. 
 
 Today, at the moment, [we are actively discussing how to build a future for our shared global telecommunications network](https://aramzs.xyz/lists/a-future-for-the-web/). This is very good. We need this discussion. We also need to acknowledge that the wide open platform for infinite data, innovation and communication isn't a shelter from the disaster, it *is* at the heart of everything we do. The day we could go back from that, even if we wanted to, is long gone. That means [rewilding the web](https://www.noemamag.com/we-need-to-rewild-the-internet/) isn't **just** a matter of a better internet. It's the matter of being part of the making of a better world. 
 
@@ -25,9 +24,9 @@ With the problem so large, how do we approach a solution? If we want to plant a 
 
 De-abstract the internet. The internet seems big, huge, infinite. What is it really? It's wires, and waves (and occasionally, joking aside, [pipes](https://www.windsystemsmag.com/the-latest-advancements-in-submarine-cables-protection/)) all put to the purpose of connecting people to each other. 
 
-The internet then is the series of connections between people, at a huge scale. Not everyone is connected to everyone, but if you're on the internet, you're connecting to *someone*. So it isn't so much a world wide web as it is world wide **webs**. 
+The internet then is the series of connections between [people](https://adactio.com/journal/18337), at a huge scale. Not everyone is connected to everyone, but if you're on the internet, you're connecting to *someone*. So it isn't so much a world wide web as it is world wide **webs**. 
 
-The future core of a internet [humane](https://humanewebmanifesto.com/) internet,  if we are going to be able to use it to do the essential work of surviving this century, is a series of linked routes that stick us all together and support our communities.
+The future core of a internet [humane](https://humanewebmanifesto.com/) internet,  if we are going to be able to use it to do the essential work of surviving this century, is a series of linked routes that stick us all together and supports our communities.
 
 This is what the internet needs to accomplish. How to we make that happen? How do we improve not just our telecommunication platform but leverage it towards a better world for all participants? 
 
@@ -58,14 +57,14 @@ These (and the project of crafting them) are heavily inspired by [the IndieWeb p
 - If it has to query a backend to load it will one day die. 
 - Amplification is power, use it responsibly. 
 - Massive replication of your own work is good. Massive aggregation between members of a community is even better. 
-- Amplification is a method to build community
+- [Amplification](/thoughts/using-amplify-as-a-type/) is a method to build community
 - You can always [check out](https://dataprivacymanager.net/what-is-data-subject-access-request-dsar/), copy, or scrape your work from other platforms and take ownership.
 
 ### Principles of Archiving for better webs
 
 - Using the web downloads it to your computer, you should get to keep it for your personal use.
 - [Kill the app](https://tweets.aramzs.com/1390071898202120192/). They are black boxes filled with content and knowledge that will one day be lost forever.
-- Everyone should support the Internet Archive, but no one should pretend it is invulnerable. 
+- Everyone should support the Internet Archive, but we [shouldn't](https://www.forbes.com/sites/mattnovak/2023/05/28/internet-archive-suffers-major-global-outage/) assume it is invulnerable. 
 - Own your own archive. 
 - Single points of failure are dangerous and, as an expected operating tool, destroy innovation.
 - Anything that can't fit on its own offline drive will die.
