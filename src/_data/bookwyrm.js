@@ -93,16 +93,25 @@ module.exports = async function () {
 							(author) => author.id === id
 						);
 						if (found) return found;
-
-						const data = await fetchUrl(`${id}.json`).then((res) =>
-							res.json()
-						);
+            let data;
+            try {
+              data = await fetchUrl(`${id}.json`).then((res) =>
+                res.json()
+              );
+            } catch (e) {
+              console.warn(
+                chalk.blue("[@photogabble/bookwyrm]"),
+                chalk.yellow("FETCH FAILED"),
+                "Upstream has gone away, unable to fetch bookwyrm authors before timeout"
+              );
+              return false
+            }
 						authorCache.push(data);
 						return data;
 					})
 				);
-
-				books.push({ ...item, shelf, authors });
+        const authorsClean = authors.filter((author) => author !== false)
+				books.push({ ...item, shelf, authorsClean });
 			}
 
 			if (data.next) {
