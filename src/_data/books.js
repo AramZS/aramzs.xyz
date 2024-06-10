@@ -21,7 +21,7 @@ module.exports = async function () {
 	if (hasTimedOut) {
 		console.log(
 			chalk.blue("[@photogabble/bookwyrm-books]"),
-			chalk.yellow("WARNING"),
+			chalk.yellow("TIMEOUT"),
 			"Not re-fetching upstream feed. Restart process to try again"
 		);
 		return [];
@@ -60,7 +60,7 @@ module.exports = async function () {
 		.catch((e) => {
 			console.warn(
 				chalk.blue("[@photogabble/bookwyrm-books]"),
-				chalk.yellow("WARNING"),
+				chalk.yellow("TIMEOUT"),
 				"Upstream has gone away, unable to fetch bookwyrm outbox before timeout"
 			);
 			hasTimedOut = true;
@@ -124,7 +124,7 @@ module.exports = async function () {
 			.catch((e) => {
 				console.warn(
 					chalk.blue("[@photogabble/bookwyrm-books]"),
-					chalk.yellow("WARNING"),
+					chalk.yellow("TIMEOUT"),
 					"Upstream has gone away, unable to fetch bookwyrm outbox before timeout"
 				);
 				hasTimedOut = true;

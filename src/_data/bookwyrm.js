@@ -72,7 +72,7 @@ module.exports = async function () {
 				if (!item.openlibraryKey) {
 					console.warn(
 						chalk.blue("[@photogabble/bookwyrm]"),
-						chalk.yellow("WARNING"),
+						chalk.yellow("OPEN LIBRARY KEY MISSING"),
 						`Book ${item.title} <${item.id}> has no open library key set, skipping.`
 					);
 					continue;
