@@ -66,7 +66,17 @@ module.exports = async function () {
 				`Fetching bookwyrm shelf [${shelf}/${nextPage}]`
 			);
 			let url = `https://${buildData.bookwyrm.instance}/user/${username}/shelf/${shelf}.json?page=${nextPage}`;
-			const data = await fetchUrl(url).then((res) => res.json());
+      let data = { next: false }
+      try {
+			  data = await fetchUrl(url).then((res) => res.json());
+      } catch (e) {
+        console.log(
+          chalk.blue("[@photogabble/bookwyrm]"),
+          chalk.yellow("TIMEOUT"),
+          "Retrieval of Bookwyrm shelf failed, skipping."
+        );
+        return books;
+      }
 
 			for (const item of data.orderedItems) {
 				if (!item.openlibraryKey) {
