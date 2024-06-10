@@ -1,5 +1,6 @@
 ---
 title: The Internet is a Series of Webs
+description: The fate of the open web is inextricable from the other ways our world is in crisis. What can we do about it?
 growthStage: budding
 tags:
   - IndieWeb
