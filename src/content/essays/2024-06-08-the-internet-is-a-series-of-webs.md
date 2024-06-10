@@ -101,7 +101,7 @@ Create sites and networks that aren't just informative, but also fun to explore.
 
 Take the posts you've checked out or otherwise extracted and turn them into something new and cool. Everything we post on social media platforms owned by big tech companies is limited by the business models and requirement to render ad targeting data. It shapes our participation in ways we aren't aware of. Once we free our *own* works from those platforms, take the time and effort to turn them into something cool and new, no longer limited by the constraints from inside the wall. 
 
-One of my main projects for this site which is transforming data extractions from [Letterboxd](/lists/film-and-tv/), [Pocket](/amplify/), and [Kindle](/resources/quotes/).
+One of my main projects for this site is building tools for transforming data extractions from [Letterboxd](/lists/film-and-tv/), [Pocket](/amplify/), and [Kindle](/resources/quotes/).
 
 ### Exchange 
 
