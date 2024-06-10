@@ -17,9 +17,9 @@ cover_image: 1443px-Typical-orb-web-photo.jpg
 
 The future of the internet seems up in the air. Consumed by rotting behemoths. What we have now is failing, but it is also part of our every-day life, our politics, our society, our communities and our friendships. All of those are at risk, in part because the ways we communicate are under attack. The fate of the open web is inextricable from the other ways our world is in crisis. 
 
-We face down a seemingly endless series of political, social, economic, and medical disasters on a melting planet. There is no doubt that the internet is deeply integrated into everything that is going both right and wrong. Our way to a better web can't be purely technical. 
+We face down a seemingly endless series of political, social, economic, and medical disasters on a melting planet. There is no doubt that the internet is deeply integrated into everything that is going both right and wrong.
 
-At this moment, [we are actively discussing how to build a future for our shared global telecommunications network](https://aramzs.xyz/lists/a-future-for-the-web/). This is good. We need this discussion. We also need to acknowledge that the wide open platform for infinite data, innovation and communication isn't a shelter from the disaster, but it *is* at the heart of everything we do. The day we could go back from that, even if we wanted to, is long gone. That means [rewilding the web](https://www.noemamag.com/we-need-to-rewild-the-internet/) isn't **just** a matter of a better internet. It's the matter of being part of the making of a better world. 
+At this moment, [we are actively discussing how to build a future for our shared global telecommunications network](https://aramzs.xyz/lists/a-future-for-the-web/). This is good. We need this discussion. We also need to acknowledge that the wide open platform for infinite data, innovation and communication isn't a shelter from the disaster, but it *is* at the heart of everything we do. The day we could go back from that, even if we wanted to, is long gone. That means [rewilding the web](https://www.noemamag.com/we-need-to-rewild-the-internet/) isn't **just** a matter of a better internet.  Our way to a better web can't be purely technical. It's the matter of being part of the making of a better world. 
 
 With the problem so large, how do we approach a solution? If we want to plant a forest how do we grow the ground cover? 
 
@@ -27,9 +27,7 @@ De-abstract. What is the internet really? It's wires, and waves (and occasionall
 
 The internet then is the series of connections between [people](https://adactio.com/journal/18337), at a huge scale. Not everyone is connected to everyone, but if you're on the internet, you're connecting to *someone*. So it isn't so much a world wide web as it is world wide **webs**. 
 
-The future core of a internet [humane](https://humanewebmanifesto.com/) internet,  if we are going to be able to use it to do the essential work of surviving this century, is a series of linked routes that stick us all together and supports our communities.
-
-This is what the internet needs to accomplish. How to we make that happen? How do we improve not just our telecommunication platform but leverage it towards a better world for all participants? 
+The future core of a [humane](https://humanewebmanifesto.com/) internet,  if we are going to be able to use it to do the essential work of surviving this century, is a series of linked routes that stick us all together and supports our communities.
 
 I don't think there is only one solution, I couldn't possibly know them all, but I have one approach that has led me to launch this particular website (and [some others](/projects/)). 
 
