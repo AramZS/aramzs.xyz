@@ -43,7 +43,8 @@
 
           {% elseif cite and cite.href or referringUri or isBasedOn or canonical %}
             {% set citeAnchorText = "link" %}
-            <small>&mdash;
+            <br /><span>&mdash;</span> <br />
+            <small>&mdash; Via 
             {% if cite and cite.author %}
               {{ cite.author }},
             {% endif %}
@@ -52,5 +53,8 @@
             {% endif %}
             <a href="{{referringUri or isBasedOn or canonical or cite.href }}" target="_blank" title="{{citeAnchorText | stripAllQuotes}}">{{citeAnchorText}}</a></small>
           {% endif %}
+
+          <hr />
+          {% include "components/backlinks.njk" %}
     </article>
 {% endblock %}
