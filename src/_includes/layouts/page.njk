@@ -54,7 +54,6 @@
             <a href="{{referringUri or isBasedOn or canonical or cite.href }}" target="_blank" title="{{citeAnchorText | stripAllQuotes}}">{{citeAnchorText}}</a></small>
           {% endif %}
 
-          <hr />
           {% include "components/backlinks.njk" %}
     </article>
 {% endblock %}
