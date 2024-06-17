@@ -1,0 +1,13 @@
+---
+date: '2024-06-17T13:40:06.000Z'
+isBasedOn: >-
+  https://www.washingtonpost.com/politics/2024/06/14/cheapfake-biden-videos-enrapture-right-wing-media-deeply-mislead/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzE4MzM3NjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE5NzE5OTk5LCJpYXQiOjE3MTgzMzc2MDAsImp0aSI6ImFiNTkwYzc1LWUyZDItNGZlZi05ODA0LWVlOGM2MjMwYzY1YiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzA2LzE0L2NoZWFwZmFrZS1iaWRlbi12aWRlb3MtZW5yYXB0dXJlLXJpZ2h0LXdpbmctbWVkaWEtZGVlcGx5LW1pc2xlYWQvIn0.KBo3wwKmgwLi2bfRndy9f3e6kdb6nfegR-UhAbDEG7c
+link: >-
+  https://www.washingtonpost.com/politics/2024/06/14/cheapfake-biden-videos-enrapture-right-wing-media-deeply-mislead/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzE4MzM3NjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzE5NzE5OTk5LCJpYXQiOjE3MTgzMzc2MDAsImp0aSI6ImFiNTkwYzc1LWUyZDItNGZlZi05ODA0LWVlOGM2MjMwYzY1YiIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzA2LzE0L2NoZWFwZmFrZS1iaWRlbi12aWRlb3MtZW5yYXB0dXJlLXJpZ2h0LXdpbmctbWVkaWEtZGVlcGx5LW1pc2xlYWQvIn0.KBo3wwKmgwLi2bfRndy9f3e6kdb6nfegR-UhAbDEG7c
+slug: >-
+  2024-06-17-cheapfake-biden-videos-enrapture-right-wing-media-but-deeply-mislead-t
+tags:
+  - politics
+title: '‘Cheapfake’ Biden videos enrapture right-wing media, but deeply mislead - T'
+---
+ 
