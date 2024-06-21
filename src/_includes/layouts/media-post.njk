@@ -7,8 +7,8 @@
 
 {% block pageContent %}
   {% if cover_image %}
-    <div class="featured-image full-width breakout">
-      <img src="/img/retrieved/{{mediaType}}/{{cover_image}}" loading="lazy" />
+    <div class="featured-image full-width breakout" data-source="src/_includes/layouts/media-post.njk">
+      <img src="/img/retrieved/{{mediaType}}/{{cover_image}}" />
     </div>
   {% endif %}
     <section class="post-content" data-source="src/_includes/layouts/media-post.njk">
