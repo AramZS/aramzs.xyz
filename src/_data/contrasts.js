@@ -44,7 +44,9 @@ module.exports = {
     ["#d75938", "#fff05b", "#0b0f49", "#0c0c0c", "#fff7ea", "#d94ddb", "#79ab2d", "#f8ffea", "#0e78db", "#932126", ],
     ["#fffdf6", "#dd6c49", "#192520", "#dafdf0", "#0d0000", "#d618b7", "#e14f5a", "#13f39a", "#874ff5", "#1c954c"],
     ["#f2f2f2", "#f79c4b", "#227ed7", "#fe4f35", "#39aa33", "#e7d23f", "#c25f95", "#242321"], // Mob Psycho 100 S2
-    ["#58B9FF", "#850C0C"] //https://botsin.space/@randomColorContrasts/112592978051712717
+    ["#58B9FF", "#850C0C"], //https://botsin.space/@randomColorContrasts/112592978051712717
+    ["#b3c5cc", "#000000", "#ffffff", "#b6b8ba", "#ecd8a0", "#e3ac98"],
+    ["#ffffff", "#b3c5cc", "#000000", "#b6b8ba", "#ecd8a0", "#e3ac98"], // https://www.texasobserver.org/white-people-rural-arkansas-recession-forgotten-girls/
 	]
 };
 
