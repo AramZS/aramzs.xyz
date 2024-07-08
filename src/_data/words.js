@@ -231,6 +231,18 @@ module.exports = (() => {
         name: "Wiktionary"
       }
     },
+    {
+      term: "susurrus",
+      definition: "whispering, murmuring, or rustling",
+    },
+    {
+      term: "Trews",
+      definition:"Modern trews are more like trousers with the fabric cut on the straight grain but without a side seam, and are often high-waisted, usually to be worn with a short jacket, as an alternative to the kilt.",
+      cite: {
+        href: "https://en.wikipedia.org/wiki/Trews",
+        name: "Wiktionary"
+      }
+    }
   ].sort((a, b) => {
     if (a.term < b.term) {
       return -1;
