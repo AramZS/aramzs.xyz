@@ -1,5 +1,5 @@
 ---
-title: Google's reCAPTCHAv2 has stolen $6.1 billion in labor, created 7.5 million kWhs of energy and aggressively tracks you (PDF).
+title: Google's reCAPTCHAv2 has stolen 6.1 billion dollars in labor, wasted 7.5 million kWhs of energy, and aggressively tracks you (PDF).
 tags:
   - Notable Articles
   - Social Media
