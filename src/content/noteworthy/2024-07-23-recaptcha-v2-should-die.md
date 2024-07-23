@@ -9,7 +9,7 @@ cite:
   name: "Dazed & Confused: A Large-Scale Real-World User Study of reCAPTCHAv2"
   author: "Andrew Searles, Renascence Tarafder Prapty, Gene Tsudik"
   href: https://arxiv.org/pdf/2311.10911
-
+slug: googles-recaptchav2-has-stolen-dollar61-billion-in-labor-created-75-million-kwhs-of-energy-and-aggressively-tracks-you-pdf
 ---
 
 This is a great study. I really appreciate [the analysis](https://arxiv.org/pdf/2311.10911) of reCAPTCHA not only on its pollution and privacy-invasiveness but also on the understanding that it is stealing labor. 
