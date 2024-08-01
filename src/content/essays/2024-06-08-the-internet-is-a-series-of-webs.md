@@ -148,6 +148,7 @@ Selected Responses:
 
 - [Don Marti](https://federate.social/@dmarti/112587045311696156)
 - I really like [the idea of bringing back Diskmags](https://elk.zone/indieweb.social/@teajaygrey@rap.social/112606872290801809). I was not familiar with the concept at all, but ended up [finding out about it when I researched the response](https://diskmags.de/index.php?title=Introduction) and I like the idea of removable media used as a potential model for a sometimes-on web. 
+- There is [a really cool list of articles that talk about this topic of the future of a better web which you can check out](https://projects.kwon.nyc/internet-is-fun/). 
 
 ~~
 
