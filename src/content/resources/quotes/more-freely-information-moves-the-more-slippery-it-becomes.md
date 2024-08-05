@@ -6,7 +6,7 @@ cite:
   name: Chris Heath
   href: https://www.gq.com/contributor/chris-heath
 createdDate: '2012-02-24T09:00:00.000Z'
-date: '2012-02-24T09:00:00.000Z'
+date: '2024-08-05T12:52:07.58'
 handedFrom: Pocket
 publish: true
 publishDate: '2024-08-05T12:52:07.58'
