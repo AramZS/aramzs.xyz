@@ -2,6 +2,7 @@
 title: Advertisers say their Google ads are showing up on X. Why?
 tags:
   - list/ad-tech
+  - social media
 cite:
   name: Advertisers say their Google ads are showing up on X. Why?
   author: Ryan Barwick
