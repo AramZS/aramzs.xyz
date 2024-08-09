@@ -12,4 +12,5 @@ module.exports = {
     shortname: "Aram",
 		email: "aramzs@hacktext.com",
 	},
+  defaultSocialImage: "zs-favicon-1200-600.png"
 };
