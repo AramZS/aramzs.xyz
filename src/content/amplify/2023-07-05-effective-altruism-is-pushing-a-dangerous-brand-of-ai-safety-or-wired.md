@@ -8,6 +8,7 @@ slug: >-
   2023-07-05-effective-altruism-is-pushing-a-dangerous-brand-of-ai-safety-or-wired
 tags:
   - ai
+  - Effective Altruism
 title: Effective Altruism Is Pushing a Dangerous Brand of ‘AI Safety’ | WIRED
 ---
 
