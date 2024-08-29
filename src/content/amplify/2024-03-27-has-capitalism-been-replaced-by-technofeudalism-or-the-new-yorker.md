@@ -8,6 +8,7 @@ slug: 2024-03-27-has-capitalism-been-replaced-by-technofeudalism-or-the-new-york
 tags:
   - economy
   - Tech
+  - post-left
 title: Has Capitalism Been Replaced by “Technofeudalism”? | The New Yorker
 ---
 

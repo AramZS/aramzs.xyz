@@ -6,7 +6,7 @@ slug: 2024-03-31-the-deaths-of-effective-altruism-or-wired
 tags:
   - crypto currency
   - Tech
-  - Effective Altruism
+  - effective altruism
 title: The Deaths of Effective Altruism | WIRED
 ---
 

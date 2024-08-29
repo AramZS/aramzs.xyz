@@ -7,6 +7,7 @@ slug: >-
 tags:
   - economy
   - gaming
+  - post-left
 title: 'Yanis Varoufakis Thinks Capitalism Has Been Killed By Technofeudalism, Some'
 ---
  

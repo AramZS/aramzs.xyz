@@ -7,6 +7,7 @@ slug: >-
 tags:
   - Privacy
   - Tech
+  - post-left
 title: 'Pluralistic: Yanis Varoufakis’s “Technofeudalism: What Killed Capitalism?” '
 ---
 

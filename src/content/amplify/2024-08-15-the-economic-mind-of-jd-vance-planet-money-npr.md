@@ -8,6 +8,7 @@ slug: 2024-08-15-the-economic-mind-of-jd-vance-planet-money-npr
 tags:
   - economy
   - politics
+  - post-left
 title: 'The economic mind of JD Vance : Planet Money : NPR'
 ---
  
