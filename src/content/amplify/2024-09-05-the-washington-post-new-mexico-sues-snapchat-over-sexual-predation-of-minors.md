@@ -8,8 +8,6 @@ slug: >-
   2024-09-05-the-washington-post-new-mexico-sues-snapchat-over-sexual-predation-of-minors
 tags:
   - social media
-title: >-
-  [The Washington Post] New Mexico sues Snapchat over sexual predation of
-  minors
+title: '[The Washington Post] New Mexico sues Snapchat over sexual predation of minors'
 ---
  
