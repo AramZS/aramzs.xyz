@@ -15,6 +15,8 @@ I'm not sure if it was ever sustainable but I think things have been getting wor
 
 I think we are robbing ourselves of a lot, both tech and culture wise, by saying these major contributors to how the web works shouldn't be compensated like their work is work and shouldn't expect to make a living off it on their own. Something is broken and the fix is unclear to me. 
 
+([Additional context in these links](https://context.center/topics/maintaining-open-source/))
+
 > We’ve had a lot of great discussions about best practices for sustainable open source with the Font Awesome folks in the past few months and they have a well established record of maintaining open source projects—as evidenced by the [path already paved by Cory Laviska with Shoelace and Web Awesome](https://www.abeautifulsite.net/posts/the-future-of-shoelace/) (October 2022).
 
 > We’re excited that Eleventy is going to play a deeper role in the Awesome ecosystem and believe that this partnership will extend the life expectancy of the project well beyond our original ten-year goal!
