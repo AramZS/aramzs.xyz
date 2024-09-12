@@ -9,7 +9,7 @@ cite:
 
 ---
 
-I think this is great for 11ty and the folks working on it, but also I think it is a sign.  No judgement on them but If 11ty, a beloved and widely used open source project that has been adopted by major companies, cannot run itself sustainably as an independent operation I don't think new FOSS stuff can be sustainably run as independent projects that are not side gigs to full time jobs by their admins.
+I think this is great for 11ty and the folks working on it, but also I think it is a sign.  No judgement on them but, if 11ty, a beloved and widely used open source project that has been adopted by major companies, cannot run itself sustainably as an independent operation I don't think new FOSS stuff can be sustainably run as independent projects that are not side gigs to full time jobs by their admins.
 
 I'm not sure if it was ever sustainable but I think things have been getting worse. It is harder to get donations, sponsorships, grants, etc... and at the same time, people who might normally put money towards these projects are getting pulled in a lot of directions, with less stable jobs and more expensive basic requirements for their lives than ever before. I really think that the open web has to consider broadly that we ask a lot of open source maintainers and there have been no truly successful models where they can be successfully independent other than WordPress and Linux and those are wild exceptions that have their own set of difficulties. Even the model where people would essentially be hired to contribute to open source projects on behalf of their company interests seem to be shifting as employment becomes tighter in tech and more precarious. 
 
