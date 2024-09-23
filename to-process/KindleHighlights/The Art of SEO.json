@@ -1,0 +1,645 @@
+[
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Flat Versus Deep Architecture One very strict rule for search friendliness is the creation of a flat site architecture. Flat sites require a minimal number of clicks to access any given page, whereas deep sites create long paths of links required to access detailed content.",
+    "Location": "3929",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Designing site architecture Although site architecture — the creation of structure and flow in a website’s topical hierarchy — is typically the territory of information architects and is created without assistance from a company’s internal content team, its impact on search engine rankings, particularly in the long run, is substantial, thus making it wise to follow basic guidelines of search friendliness. The process itself should not be overly arduous, if you follow this simple protocol: List all of the requisite content pages (blog posts, articles, product detail pages, etc.). Create top-level navigation that can comfortably hold all of the unique types of detailed content on the site. Reverse the traditional top-down process by starting with the detailed content and working your way up to an organizational structure capable of holding each page. Once you understand the bottom, fill in the middle. Build out a structure for subnavigation to sensibly connect top-level pages with detailed content. In small sites, there may be no need for this level, whereas in larger sites, two or even three levels of subnavigation may be required. Include secondary pages such as copyright, contact information, and other nonessentials. Build a visual hierarchy that shows (to at least the last level of subnavigation) each page on the site. Figure 6-7 shows an example of a structured site architecture.",
+    "Location": "3887",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Spiderable Link Structures",
+    "Location": "3660",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "You can help expedite the cheaters’ fall from grace by reporting them to Google at http://www.google.com/contact/spamreport.html, or better yet, via the dashboard in your Google Webmaster Tools account (where your report will carry more weight).",
+    "Location": "2558",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Search analytics tools specifically monitor how your website interacts with the search engines. Compete (http://www.compete.com) offers search-specific analytic tools, as do many smaller vendors.",
+    "Location": "2545",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Logfiles contain a detailed click-by-click history of all requests to your web server. Make sure you have access to the logfiles and some method for analyzing them. If you use a third-party hosting company for your site, chances are it provides some sort of free logfile analyzer, such as AWStats, Webalizer",
+    "Location": "2523",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Interestingly, the massive increase in weight given to domain authority over the past two to three years appears to be an attempt by the search engines to overrule potentially poor internal link structures (as designing websites for PageRank flow doesn’t always serve users particularly well), and to reward sites that have great authority, trust, and high-quality inbound links.",
+    "Location": "2477",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "The solution is simple, at least in principle: have the link-rich pages spread the wealth to their link-bereft brethren. As easy as this may sound, in execution it can be incredibly complex. Inside the architecture of a site with several hundred thousand or a million pages, it can be nearly impossible to identify link-rich and link-poor pages, never mind adding code that helps to distribute link juice equitably.",
+    "Location": "2470",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Solution to keyword cannibalization The difference in this example is that instead of every page targeting the single term snowboards, the pages are focused on unique, valuable variations and all of them link back to an original, canonical source for the single term. Google can now easily identify the most relevant page for each of these queries.",
+    "Location": "2452",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "You can use a tool such as SEO Browser (http://www.seo-browser.com) to see how the search engines see the page.",
+    "Location": "2402",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Page load time Is the page load time",
+    "Location": "2393",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Check the inbound links to the site. Use a backlinking tool such as Open Site Explorer (http://www.opensiteexplorer.org) or Majestic SEO (http://www.majesticseo.com) to collect data about your links.",
+    "Location": "2380",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Avoidance of unnecessary subdomains",
+    "Location": "2370",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Use a server header checker such as Live HTTP Headers (http://livehttpheaders.mozdev.org) to check that all the redirects used on the site return a 301 HTTP status code. Check all redirects this way to make sure",
+    "Location": "2351",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Check for a meta robots tag on the pages of the site. If you find one, you may have already spotted trouble. An unintentional NoIndex or NoFollow tag (we define these in Content Delivery and Search Spider Control) could really mess up your search ranking plans.",
+    "Location": "2340",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Make sure you have clean, short, descriptive URLs.",
+    "Location": "2330",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "The easiest way to do this is to take unique strings from each of the major content pages on the site and search on them in Google. Make sure you enclose the string inside double quotes (e.g., “a phrase from your website that you are using to check for duplicate content”) so that Google will search for that exact string.",
+    "Location": "2317",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "While you are at it, check that you don’t have https: pages that are duplicates of your http: pages. You should check the rest of the content on the site as well.",
+    "Location": "2315",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Duplicate content checks",
+    "Location": "2311",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Make sure the site is friendly to search engine spiders. We discuss this in detail in Making Your Site Accessible to Search Engines and Creating an Optimal Information Architecture (IA)",
+    "Location": "2297",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Minimize link depth",
+    "Location": "2273",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Use breadcrumb navigation Breadcrumb navigation is a way",
+    "Location": "2266",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Anchor text is one of the golden opportunities of internal linking. As an SEO practitioner, you need to have in your plan from the very beginning a way to use keyword-rich anchor text in your internal links. Avoid using text such as “More” or “Click here,” and make sure the technical and creative teams understand this.",
+    "Location": "2262",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "The “Frequently Bought Together” and “What Do Customers Ultimately Buy After Viewing This Item?” sections are brilliant ways to group products into categories that establish the relevance of the page to certain topic areas, as well as to create links between relevant pages.",
+    "Location": "2255",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "302 redirects block the passing of PageRank.",
+    "Location": "2223",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Temporary (302) redirects This is also a common problem in web server platforms and CMSs. The 302 redirect blocks a search engine from recognizing that you have permanently moved the content,",
+    "Location": "2221",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "If you are not able to do this, make sure you use rel=\"canonical\" on your URLs (what this is, and how to use it, is explained in Chapter 6).",
+    "Location": "2211",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Defining Your Site’s Information Architecture",
+    "Location": "2200",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Finding Creative Commons (CC) licensed content",
+    "Location": "1578",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Identifying neighborhoods The related: operator will look at the sites linking to the specified site (the “Linking Sites”),",
+    "Location": "1573",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Determining keyword difficulty",
+    "Location": "1537",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Bing Advanced Search Operators",
+    "Location": "1493",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "To learn more about Google advanced search operators, check out Stephan Spencer’s book Google Power Search (O’Reilly).",
+    "Location": "1405",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "You can obtain a more accurate count of the pages of your site indexed by Google by appending &start=990&filter=0 to the URL of a Google result set for a site: command.",
+    "Location": "1387",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Advanced Google Search Operators Google supports a number of advanced search operators (http://www.google.com/support/websearch/bin/static.py?hl=en&page=guide.cs&guide=1221265&answer=136861&rd=1",
+    "Location": "1299",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Using Advanced Search Techniques",
+    "Location": "1280",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "You can also depersonalize your search results by performing your search query, and then appending &pws=0",
+    "Location": "1271",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "concept of considering temporal factors in link analysis is documented in a US patent held by Google that you can look up by searching for patent number 20050071741.",
+    "Location": "1259",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "The SEOmoz survey also identified a number of negative ranking factors. Some of the most significant ones included:",
+    "Location": "1243",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Page Level Keyword Agnostic Features Factors included here are on-page elements such as the number of links on the page, number of internal links, number of followed links, number of NoFollowed links, and other similar factors.",
+    "Location": "1235",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Page Level Link Metrics Domain Level Link Authority Features Page Level Keyword Usage Domain Level Keyword Usage Page Level Social Metrics Domain Level Brand Metrics Page Level Keyword Agnostic Features Page Level Traffic/Query Data Domain Level Keyword Agnostic Features",
+    "Location": "1217",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "http://www.seomoz.org/article/search-ranking-factors",
+    "Location": "1216",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "For more information on reasons why search algorithms sometimes fail, you can read the following SEOmoz article, which was written by Hamlet Batista: http://www.seomoz.org/blog/7-reasons-why-search-engines-dont-return-relevant-results-100-of-the-time",
+    "Location": "1210",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Google refers to this concept as query deserves freshness (QDF). According to the New York Times (http://www.nytimes.com/2007/06/03/business/yourmoney/03google.html?pagewanted=3), QDF takes several factors into account, such as: Search volume News coverage Blog coverage Social signals from Google+, Facebook, Twitter, and other sites Toolbar data (maybe) QDF applies to up-to-the-minute news coverage, as well as to other scenarios such as hot, new discount deals or new product releases that get strong search volumes and media coverage.",
+    "Location": "1197",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Introducing a bit of variety allows Google to also provide a satisfactory answer to those who are looking for something different from the government pages. Google’s testing has shown that this diversity-based approach has resulted in a higher level of satisfaction among its users.",
+    "Location": "1173",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "The semantic analysis of a link’s value does go deeper than just the anchor text. For example, if that “Dog Grooming Salon” anchor text appears on a web page that is not about dogs or dog grooming, the value of the link is less than if the page is about dog grooming. Search engines also look at the content on the page immediately surrounding the link, as well as the overall context and authority of the website that is providing the link. All of these factors are components",
+    "Location": "1118",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "For example, anchor text of “Dog Grooming Salon” will bring more value to a dog grooming salon’s website than anchor text of “Click",
+    "Location": "1115",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "In this scenario, Site C is not authoritative because the right sites do not link to it.",
+    "Location": "1105",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Interaction with web search results For example, if a user clicks through on a SERP listing and comes to your site, clicks the Back button, and then clicks on another result in the same set",
+    "Location": "1046",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Engagement with a website began to emerge as a ranking factor with the release of the Panda update by Google on February 23, 2011 (http://searchengineland.com/google-forecloses-on-content-farms-with-farmer-algorithm-update-66071). Google has access to a large number of data sources that it can use to measure how visitors interact with your website.",
+    "Location": "1042",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Term weighting refers to the importance of a particular search term to the query. The idea is to weight particular terms more heavily than others to produce superior search results. For example, the word the in a query will receive very little weight in selecting the results because it appears in nearly all English-language documents.",
+    "Location": "990",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "proximity search uses the order of the search phrase to find related documents. For example, when you search for “sweet German mustard” you are specifying only a precise proximity match. If the quotes are removed, the proximity of the search terms still matters to the search engine, but it will now show documents whose contents don’t exactly match the order of the search phrase, such as Sweet Mustard — German.",
+    "Location": "981",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Set Theory and certain equations (described at http://forums.searchenginewatch.com/showthread.php?threadid=48) to connect terms and start to understand web pages/sites more like a human does.",
+    "Location": "970",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "To measure these factors, search engines perform document analysis (including semantic analysis of concepts across documents) and link (or citation) analysis.",
+    "Location": "961",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "relevance and importance",
+    "Location": "960",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "However, the search engines recognize an iframe or a frame used to pull in another site’s content for what it is, and therefore ignore the content inside the iframe or frame as it is content published by another publisher.",
+    "Location": "953",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Google does offer specific tips on how to make AJAX applications crawlable, which you can see here: http://code.google.com/web/ajaxcrawling/docs/getting-started.html",
+    "Location": "935",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "There are a few exceptions where the search engines can extract some limited data, such as ID3 tags within MP3 files, or enhanced podcasts in AAC format with textual “show notes,” images, and chapter markers embedded.",
+    "Location": "924",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "The NoScript tag should be used only to accurately represent the content of the JavaScript.",
+    "Location": "903",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Another element that search engines read is the NoScript tag.",
+    "Location": "892",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Search engines also read the text contained in the alt attribute of an image tag.",
+    "Location": "885",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "TripAdvisor is in boldface at the beginning of the description. This is called keywords in context (KWIC).",
+    "Location": "876",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "The meta description tag has no influence in search engine rankings (see http://searchengineland.com/21-essential-seo-tips-techniques-11580),",
+    "Location": "866",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "Google never used this tag for ranking at all, but Bing seems to make some reference to it (you can read about this in detail at http://searchengineland.com/meta-keywords-tag-101-how-to-legally-hide-words-on-your-pages-for-search-engines-12099",
+    "Location": "862",
+    "Page": "",
+    "CreatedKindle": "2015-06-27T04:00:00",
+    "CreatedWebsite": "2024-03-10T17:53:21.203",
+    "AnnotationType": "Highlight"
+  },
+  {
+    "BookTitle": "The Art of SEO",
+    "BookAuthor": "Eric Enge and Stephan  Spencer and Jessie  Stricchiola and and Rand Fishkin",
+    "Content": "DMOZ (Open D
