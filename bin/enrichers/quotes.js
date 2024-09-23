@@ -1,4 +1,5 @@
 const fs = require("fs");
+const path = require('path');
 const ObjectCache = require("../../lib/helpers/cache");
 const processImageUrl = require("../../lib/helpers/processImageUrl");
 const { processObjectToMarkdown } = require("../json-to-markdown");
@@ -117,7 +118,7 @@ function idGen(quoteObj) {
 	return crypto.createHash("md5").update(idCandidate).digest("hex");
 }
 
-async function writeQuoteFile() {
+async function writeQuoteFile(quotes) {
 	var existing = await existingQuotes();
 	console.log("existing", existing);
 	var candidateQuotesToProcess = JSON.parse(quotes);
@@ -178,10 +179,25 @@ async function writeQuoteFile() {
 	);
 }
 
+function readJsonFilesFromFolder(folderPath) {
+  const files = fs.readdirSync(folderPath);
+  const jsonFiles = files.filter(file => path.extname(file) === '.json');
+  const jsonContents = jsonFiles.map(file => {
+    const filePath = path.join(folderPath, file);
+    return fs.readFileSync(filePath, 'utf8');
+  });
+  return jsonContents;
+}
+
 module.exports = {
 	writeQuotes: async () => {
 		//var finishedArray = await Promise.all(quoteArray);
-		var result = await writeQuoteFile();
+    let arrayOfBooks = readJsonFilesFromFolder('./to-process/KindleHighlights');
+    let promisedResultForAllQuotes = arrayOfBooks.reduce((promiseChain, quoteBlock) => {
+      promiseChain.push(writeQuoteFile(quoteBlock));
+      return promiseChain;
+    }, [])
+		var result = await Promise.all(promisedResultForAllQuotes);
 		return result;
 	},
 };
