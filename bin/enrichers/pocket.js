@@ -30,9 +30,15 @@ const transformExportToJSON = (data) => {
     let dateObj = new Date(parseInt(dateString) * 1000);
           // Generate a file-slug YYYY-MM-DD string from the date
           let date = dateObj;
-          let year = date.getFullYear();
-          let month = String(date.getMonth() + 1).padStart(2, "0");
-          let day = String(date.getDate()).padStart(2, "0");
+          let yearFormatter = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', year: 'numeric' });
+
+          let year = yearFormatter.format(dateObj);
+          // Use Intl.DateTimeFormat to get the month in New York timezone
+          let monthFormatter = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', month: '2-digit' });
+          let month = monthFormatter.format(date);
+          // Use Intl.DateTimeFormat to get the day in New York timezone
+          let dayFormatter = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', day: '2-digit' });
+          let day = dayFormatter.format(date);
           let dateFileString = `${year}-${month}-${day}`;
           let isoDate = '';
     try {
