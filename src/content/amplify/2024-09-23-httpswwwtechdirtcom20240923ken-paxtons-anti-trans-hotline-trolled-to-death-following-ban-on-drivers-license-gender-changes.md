@@ -7,7 +7,7 @@ link: >-
 slug: >-
   2024-09-23-httpswwwtechdirtcom20240923ken-paxtons-anti-trans-hotline-trolled-to-death-following-ban-on-drivers-license-gender-changes
 tags:
-  - lgbtq
+  - lgbtq+
   - texas
   - trans rights
 title: >-
