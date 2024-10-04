@@ -120,8 +120,22 @@ function idGen(quoteObj) {
 
 async function writeQuoteFile(quotes) {
 	var existing = await existingQuotes();
-	console.log("existing", existing);
-	var candidateQuotesToProcess = JSON.parse(quotes);
+  if (quotes.length < 1){
+    console.log('File has no content')
+    return;
+  }
+	//console.log("existing", existing);
+  try {
+    //quotes = quotes.replace(/[\u0000-\u0019]+/g,"");
+    quotes = quotes.replace('&#39;',"'");
+    var candidateQuotesToProcess = JSON.parse(quotes);
+  } catch (e) {
+    console.log('Error parsing JSON', e);
+    console.log('JSON', quotes);
+    //throw new Error('Could not parse JSON');
+    return false;
+  }
+	// var candidateQuotesToProcess = JSON.parse(quotes);
 	var existingIds = existing.map((quoteObj) => {
 		return quoteObj.id;
 	});
@@ -140,6 +154,7 @@ async function writeQuoteFile(quotes) {
 		.filter((quoteObj) => quoteObj.blockquote.length > 1)
 		.map((quoteObj) => {
 			var quote = new Quote(quoteObj);
+      console.log('Quote', quote);
       quote.sourceSlug = '';
 			quote.id = idGen(quote);
 			quote.slug = generateFileSlug(quote);
@@ -182,8 +197,10 @@ async function writeQuoteFile(quotes) {
 function readJsonFilesFromFolder(folderPath) {
   const files = fs.readdirSync(folderPath);
   const jsonFiles = files.filter(file => path.extname(file) === '.json');
+  console.log('jsonFiles', jsonFiles);
   const jsonContents = jsonFiles.map(file => {
     const filePath = path.join(folderPath, file);
+    console.log('Reading file', filePath);
     return fs.readFileSync(filePath, 'utf8');
   });
   return jsonContents;
