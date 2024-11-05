@@ -19,7 +19,7 @@
 {% endblock %}
 
 {% block content %}
-    <article  class="content-grid {{ headingClass | safe }}" {% if templateName %}id="{{templateName}}"{% endif %} data-source="src/_includes/layouts/page.njk">
+    <article  class="content-grid {{ headingClass | safe }} {% if contentType %}{{ contentType | safe }}{% endif %}" {% if templateName %}id="{{templateName}}"{% endif %} data-source="src/_includes/layouts/page.njk">
         <header>
             <div>
                 {% block pageHeaderBefore %}
@@ -44,7 +44,7 @@
           {% elseif cite and cite.href or referringUri or isBasedOn or canonical %}
             {% set citeAnchorText = "link" %}
             <br /><span>&mdash;</span> <br />
-            <small>&mdash; Via 
+            <small class="bottom-cite">&mdash; Via 
             {% if cite and cite.author %}
               {{ cite.author }},
             {% endif %}

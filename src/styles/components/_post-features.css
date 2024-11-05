@@ -1,0 +1,9 @@
+#page-post.noteworthy small.bottom-cite {
+  font-size: 100%;
+  margin: 10px;
+  border: 1px solid;
+  padding: 10px;
+  border-top: 0px;
+  border-left: 0px;
+  text-align: right;
+}
