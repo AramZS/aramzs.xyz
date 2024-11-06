@@ -13,5 +13,6 @@ featured: false
 - [WashPost Vote Counting Status](https://www.washingtonpost.com/elections/interactive/2024/11/05/remaining-vote-count/)
 - [WashPost Homepage](https://www.washingtonpost.com/)
 - [PA State Self-Reporting](https://www.electionreturns.pa.gov/General/VoteByMethod?officeId=1&districtId=1&ElectionID=105&ElectionType=G&IsActive=1&isRetention=0)
+- [AP Live Stream](https://www.youtube.com/watch?v=RMprlMfsHAU)
 
 I'm not checking NYT in support of their striking tech workers. 
