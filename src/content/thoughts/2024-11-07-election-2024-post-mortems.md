@@ -13,3 +13,4 @@ featured: false
 - [The Oligarch Election](https://www.motherjones.com/politics/2024/11/the-2024-election-was-defined-by-oligarchs-musk-mellon-bezos-zuckerberg/)
 - [Harris defeat is a stinging verdict for the left](https://www.washingtonpost.com/politics/2024/11/06/kamala-harris-loses-presidential-election/)
 - [The single-guy surge didn’t arrive — nor did a leftward shift for women](https://www.washingtonpost.com/politics/2024/11/06/single-guy-surge-didnt-arrive-nor-did-leftward-shift-women/)
+- [After Election Day](https://www.hamiltonnolan.com/p/after-election-day)
