@@ -119,6 +119,11 @@ module.exports = {
 		description: "Interesting designs I like and want to reference.",
     //layout: "layouts/media-post.njk",
 	}, 
+  "list/good-youtube": {
+		title: "Good YouTube Channels",
+		description: "YouTube channels I like and recommend.",
+    //layout: "layouts/media-post.njk",
+	}, 
 
 	// Continuous Writing Projects
 
