@@ -112,10 +112,12 @@ const writeDataToMarkdown = (
  * @param   {str}  contentProp The key to use as the content
  * @param   {str}  pathString        The path to write the file to
  * @param   {obj}  obj         The object to write
+ * @param   {bool}  neverOverwrite True to never 
+ *                             overwrite an existing file
  *
  * @return  {bool}             True if the file was written
  */
-const processObjectToMarkdown = (titleProp, contentProp, pathString, obj) => {
+const processObjectToMarkdown = (titleProp, contentProp, pathString, obj, neverOverwrite) => {
 	const fileSlug =
 		obj.hasOwnProperty("slug") && obj.slug.length > 1
 			? obj.slug
@@ -130,6 +132,10 @@ const processObjectToMarkdown = (titleProp, contentProp, pathString, obj) => {
 	}
 	if (fs.existsSync(`${pathString}/${fileSlug}.md`)) {
 		console.log("File Exists", `${pathString}/${fileSlug}.md`);
+    if (neverOverwrite){
+      console.log('Never overwriting existing file')
+      return true;
+    }
 		let oldMarkdown = "";
 		try {
 			oldMarkdown = fs.readFileSync(

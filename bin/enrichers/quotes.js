@@ -3,8 +3,9 @@ const path = require('path');
 const ObjectCache = require("../../lib/helpers/cache");
 const processImageUrl = require("../../lib/helpers/processImageUrl");
 const { processObjectToMarkdown } = require("../json-to-markdown");
+const csvParse = require('csv-parse');
 const quotes = fs.readFileSync(
-	"./to-process/ClippingsIoKindleHighlights.json",
+	"./to-process/readwise-data.csv",
 	"utf8"
 );
 const existingQuotes = require("../../src/_data/quotes");
@@ -67,6 +68,29 @@ function clippingsIoToQuoteObj(clipping) {
 	console.log("Clipping transformed", clipping, quoteObj);
 	return quoteObj;
 }
+
+function readwiseReformatQuote(clipping) {
+	// console.log("Clipping", clipping);
+	var quoteObj = {
+		sourceTitle: clipping["Book Title"],
+		cite: { 
+      name: clipping["Book Author"],
+      href: false 
+    },
+		blockquote: clipping.Highlight,
+		location: clipping['Location Type'] === "location" ? clipping.Location : null,
+		page: null,
+		createdDate: clipping["Highlighted at"],
+    date: new Date(clipping["Highlighted at"]).toISOString(),
+		publishDate: null,
+		annotationType: "Highlight",
+		notes: clipping.Note ? [clipping.Note] : [],
+		publish: clipping.publish ? clipping.publish : true,
+    tags: clipping["Document tags"] ? clipping["Document tags"].split(',') : [],
+	};
+	console.log("Readwise transformed", clipping, quoteObj);
+	return quoteObj;
+}
 /**
  * 	{
 		"BookTitle": "Reality Is Broken: Why Games Make Us Better and How They Can Change the World",
@@ -118,6 +142,44 @@ function idGen(quoteObj) {
 	return crypto.createHash("md5").update(idCandidate).digest("hex");
 }
 
+function quoteObjCreator(quoteObj) {
+    var quote = new Quote(quoteObj);
+    console.log('Quote', quote);
+    quote.sourceSlug = '';
+    quote.id = idGen(quote);
+    quote.slug = generateFileSlug(quote);
+    // Some quotes are too long to be used as a title. Let's split it out at 10 words. 
+    var ending = quote.blockquote.split(" ").length > 10 ? "..." : "";
+    quote.title =
+      quote.blockquote.split(" ").slice(0, 10).join(" ") + ending;
+    if (quote.sourceTitle && quote.sourceTitle.length > 0) {
+      quote.title = quote.title + " - " + quote.sourceTitle;
+      var titleSlug = slugger(quote.sourceTitle);
+      quote.sourceSlug = titleSlug;
+    }
+    if (quote.blockquote.split(" ").length < 2){
+      quote.publish = false;
+    }
+    quote.content = `
+> ${quote.blockquote}`;
+    console.log("Quote Obj", quote);
+    return quote;
+}
+
+function quoteObjectWriter(quoteObj){
+  let sourcePath = '';
+  if (quoteObj.sourceSlug && quoteObj.sourceSlug.length > 0) {
+    sourcePath = `/${quoteObj.sourceSlug}`;
+  }
+  return processObjectToMarkdown(
+    "title",
+    "content",
+    "./src/content/resources/quotes"+sourcePath,
+    quoteObj,
+    true
+  )
+}
+
 async function writeQuoteFile(quotes) {
 	var existing = await existingQuotes();
   if (quotes.length < 1){
@@ -152,41 +214,9 @@ async function writeQuoteFile(quotes) {
 	];
 	let finalQuotes = candidates
 		.filter((quoteObj) => quoteObj.blockquote.length > 1)
-		.map((quoteObj) => {
-			var quote = new Quote(quoteObj);
-      console.log('Quote', quote);
-      quote.sourceSlug = '';
-			quote.id = idGen(quote);
-			quote.slug = generateFileSlug(quote);
-			var ending = quote.blockquote.split(" ").length > 10 ? "..." : "";
-			quote.title =
-				quote.blockquote.split(" ").slice(0, 10).join(" ") + ending;
-			if (quote.sourceTitle && quote.sourceTitle.length > 0) {
-				quote.title = quote.title + " - " + quote.sourceTitle;
-        var titleSlug = slugger(quote.sourceTitle);
-        quote.sourceSlug = titleSlug;
-			}
-      if (quote.blockquote.split(" ").length < 2){
-        quote.publish = false;
-      }
-			quote.content = `
-> ${quote.blockquote}`;
-			console.log("Quote Obj", quote);
-			return quote;
-		});
+		.map(quoteObjCreator);
 
-	var finalQuotesActioned = finalQuotes.map((quoteObj) => {
-    let sourcePath = '';
-    if (quoteObj.sourceSlug && quoteObj.sourceSlug.length > 0) {
-      sourcePath = `/${quoteObj.sourceSlug}`;;
-    }
-		return processObjectToMarkdown(
-			"title",
-			"content",
-			"./src/content/resources/quotes"+sourcePath,
-			quoteObj
-		)
-  });
+	var finalQuotesActioned = finalQuotes.map(quoteObjectWriter);
 	return finalQuotesActioned;
 	return fs.writeFileSync(
 		"./src/_dataSources/quotes.json",
@@ -206,9 +236,42 @@ function readJsonFilesFromFolder(folderPath) {
   return jsonContents;
 }
 
+async function readCSVFromFolder(folderPath) {
+  //let parse = csvParse.parse({delimiter: ":"});
+  const records = [];
+  let counter = 0;
+  let headers = [];
+  const parser = fs
+  .createReadStream(`./to-process/readwise-data.csv`)
+  .pipe(csvParse.parse({
+    trim: true,
+  // CSV options if any
+  }));
+  for await (const record of parser) {
+    if (counter === 0) {
+      // Skip the first row
+      counter++;
+      headers = record;
+      continue;
+    }
+    counter++;
+    // Work with each record
+    let jsonRecord = record.reduce((acc, value, index) => {
+      acc[headers[index]] = value;
+      return acc;
+    }, {});
+    const quoteObj = quoteObjCreator(readwiseReformatQuote(jsonRecord));
+    // quoteObjectWriter(quoteObj);
+    records.push(quoteObj);
+    console.log(quoteObj);
+  }
+  console.log(records);
+}
+
 module.exports = {
 	writeQuotes: async () => {
 		//var finishedArray = await Promise.all(quoteArray);
+    readCSVFromFolder(); return;
     let arrayOfBooks = readJsonFilesFromFolder('./to-process/KindleHighlights');
     let promisedResultForAllQuotes = arrayOfBooks.reduce((promiseChain, quoteBlock) => {
       promiseChain.push(writeQuoteFile(quoteBlock));
