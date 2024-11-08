@@ -24,7 +24,7 @@ This is only compounded by the Democrats failure to promote labor protections. T
 
 As I thought about this more and more I came to a second thought: Leftist influencers by definition wouldn't work the same way either. The next generation of new media on the left is going to have to be a different shape by their very nature. They'd be co-ops like Defector, creator-owned alt projects like Nebula, or collectives like Pussy Riot.
 
-The nature of leftist influence would work against right-wing individualism. They would not be solo acts. Leftist politics is, by philosophical nature, opposed to operations that scale like Joe Rogan, The question of the future of media on the left is complicated by this fact: not only do we not have a methodology to fund individualist influencers, we sort of don't *want* to run things that way either, right?
+The nature of leftist influence would work against right-wing individualism. They would not be solo acts. Leftist politics is, by philosophical nature, opposed to operations that scale like Joe Rogan. The question of the future of media on the left is complicated by this fact: not only do we not have a methodology to fund individualist influencers, we sort of don't *want* to run things that way either, right?
 
 This complicates the problem because the big funders are, unlike the right-wing, not just unwilling to fund such projects, but ideologically opposed to their organization (where they are not just ideologically opposed to their values). It isn't just that leftist media won't deliver profit, it is that they will not stand for **control**. That friction of top down vs bottom up control has killed or ripped the heart out of the attempts at leftist media like HuffPost and Mic. 
 
