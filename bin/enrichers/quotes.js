@@ -83,7 +83,7 @@ function readwiseReformatQuote(clipping) {
 		page: null,
 		createdDate: clipping["Highlighted at"],
     date: new Date(clipping["Highlighted at"]).toISOString(),
-		publishDate: null,
+		// publishDate: null,
 		annotationType: "Highlight",
 		notes: clipping.Note ? [clipping.Note] : [],
 		publish: clipping.publish ? clipping.publish : true,
