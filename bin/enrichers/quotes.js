@@ -71,6 +71,7 @@ function clippingsIoToQuoteObj(clipping) {
 
 function readwiseReformatQuote(clipping) {
 	// console.log("Clipping", clipping);
+  var isKindle = clipping['Location Type'] === "location" && clipping['Amazon Book ID'].length > 0;
 	var quoteObj = {
 		sourceTitle: clipping["Book Title"],
 		cite: { 
@@ -88,6 +89,9 @@ function readwiseReformatQuote(clipping) {
 		publish: clipping.publish ? clipping.publish : true,
     tags: clipping["Document tags"] ? clipping["Document tags"].split(',') : [],
 	};
+  if (!isKindle){
+    quoteObj.handedFrom = "Pocket";
+  }
 	console.log("Readwise transformed", clipping, quoteObj);
 	return quoteObj;
 }
@@ -261,7 +265,7 @@ async function readCSVFromFolder(folderPath) {
       return acc;
     }, {});
     const quoteObj = quoteObjCreator(readwiseReformatQuote(jsonRecord));
-    // quoteObjectWriter(quoteObj);
+    quoteObjectWriter(quoteObj);
     records.push(quoteObj);
     console.log(quoteObj);
   }
