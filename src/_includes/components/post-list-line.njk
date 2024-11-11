@@ -10,7 +10,7 @@
         {% else %}
           {% set postUrl = post.url %}
         {% endif %}
-        <a href="{{ postUrl }}" title="Read {{ post.title or post.data.title }}" {{ postAttrs }}>{{ post.title or post.data.title }}</a>
+        <a href="{{ postUrl }}" title="Read {{ post.title or post.data.title }}" {{ postAttrs }} data-internal-url="{{ post.url }}">{{ post.title or post.data.title }}</a>
         {% if displayContentType %}
             <small class="content-type">{{ post.data.contentType }}</small>
         {% endif %}
