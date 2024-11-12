@@ -1,8 +1,8 @@
 # Bluesky 
 https://chronotope.aramzs.xyz/ https://bsky.app/profile/chronotope.aramzs.xyz 301!
 http://chronotope.aramzs.xyz/ https://bsky.app/profile/chronotope.aramzs.xyz 301!
-http://chronotope.aramzs.xyz/* https://bsky.app/profile/chronotope.aramzs.xyz 301!
-https://chronotope.aramzs.xyz/* https://bsky.app/profile/chronotope.aramzs.xyz 301!
+http://chronotope.aramzs.xyz/* https://bsky.app/profile/chronotope.aramzs.xyz/:splat 301!
+https://chronotope.aramzs.xyz/* https://bsky.app/profile/chronotope.aramzs.xyz/:splat 301!
 
 # Feed
 /atom.xml /blog/feed.xml
