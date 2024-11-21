@@ -1,5 +1,5 @@
 let getPocket = require('pocket-api');
-
+const util = require('util')
 
 const processPocketExport = async () => {
   require('dotenv').config()
@@ -10,12 +10,17 @@ const processPocketExport = async () => {
   let pocket = new getPocket(consumer_key);
   //sets access_token
   pocket.setAccessToken(access_token)
-  
+  const pocketConfigForGet = {
+    state: 'all',
+    sort: 'newest',
+    detailType: 'complete',
+    count: 4,
+    offset: 0
+  }
   //returns articles
-  let response = await pocket.getArticles()
+  let response = await pocket.getArticles(pocketConfigForGet)
   
-  console.log(response);
-  
+  console.log(util.inspect(response, {showHidden: false, depth: null, colors: true}))
 };
 
 
