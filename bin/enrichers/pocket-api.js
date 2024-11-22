@@ -1,9 +1,71 @@
 let getPocket = require('pocket-api');
-const util = require('util')
+const util = require('util');
+const slugger = require("../slugger");
+
+const dateInfoObjMaker = (initialDateString) => {
+  let dateString = '';
+  try {
+    dateString = initialDateString || '';
+  } catch (e) { 
+    console.log('Date error', el, aChild);
+    throw new Error('Could not parse date' + el)
+  }  
+  let dateObj = new Date(parseInt(dateString) * 1000);
+  // Generate a file-slug YYYY-MM-DD string from the date
+  let date = dateObj;
+  let yearFormatter = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', year: 'numeric' });
+
+  let year = yearFormatter.format(dateObj);
+  // Use Intl.DateTimeFormat to get the month in New York timezone
+  let monthFormatter = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', month: '2-digit' });
+  let month = monthFormatter.format(date);
+  // Use Intl.DateTimeFormat to get the day in New York timezone
+  let dayFormatter = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', day: '2-digit' });
+  let day = dayFormatter.format(date);
+  let dateFileString = `${year}-${month}-${day}`;
+  let isoDate = '';
+  try {
+    isoDate = dateObj.toISOString();
+  } catch (e) {
+    console.log('Date error', e, dateString);
+    throw new Error('Could not parse date' + dateString)
+  }
+  return {
+    year: year,
+    month: month,
+    day: day,
+    dateFileString: dateFileString,
+    isoDate: isoDate
+  }  
+}
+
+const createPocketObj = (data) => {
+  const dateInfoObj = dateInfoObjMaker(data.time_added);
+
+  const { isoDate, day, month, year, dateFileString } = dateInfoObj;
+
+  const tagsArray = Object.values(data.tags).reduce((acc, item) => {
+    acc.push(item.tag.toLowerCase());
+    return acc;
+  }, []);
+  let dataSet = { 
+    link: data.resolved_url, 
+    date: isoDate, 
+    tags: tagsArray,
+    title: data.resolved_title,
+    description: data.excerpt,
+    content: data.excerpt,
+    isBasedOn: data.resolved_url,
+    slug: slugger(dateFileString + "-" + data.resolved_url),
+    dateFolder: `${year}/${month}/${day}`
+  }
+
+  return dataSet;
+}
 
 const processPocketExport = async () => {
   require('dotenv').config()
-  
+  console.log('processPocketExport');
   let consumer_key = process.env.CON_KEY;
   let access_token = process.env.ACCESS_TOKEN;
 
@@ -20,7 +82,14 @@ const processPocketExport = async () => {
   //returns articles
   let response = await pocket.getArticles(pocketConfigForGet)
   
-  console.log(util.inspect(response, {showHidden: false, depth: null, colors: true}))
+  console.log(util.inspect(response, {showHidden: false, depth: null, colors: true}));
+
+  let linkList = Object.values(response.list).map((data) => {
+    return createPocketObj(data);
+  });
+
+  var fullLinkSet = linkList.filter(e => e);
+  console.log(util.inspect(fullLinkSet, {showHidden: false, depth: null, colors: true}));
 };
 
 
