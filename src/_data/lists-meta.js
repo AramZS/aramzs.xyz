@@ -53,11 +53,6 @@ module.exports = {
 		title: "YouTube Channels",
 		description: "List of channels I enjoy watching",
 	},
-
-	"list/forum": {
-		title: "Forums & Communities",
-		description: "List of Forums, communities and online hubs",
-	},
   
   'list/search-engines': {
     title: 'Search Engines',
@@ -125,23 +120,6 @@ module.exports = {
     //layout: "layouts/media-post.njk",
 	}, 
 
-	// Continuous Writing Projects
-
-	"list/365-writing": {
-		title: "365 day writing project",
-		description: "My attempt at writing a thought a day for a year",
-		layout: "layouts/list-posts.njk",
-	},
-  'list/digital-garden': {
-    title: 'Digital Gardens',
-    description: 'List of digital gardens',
-  },
-
-  'list/inspiration': {
-    title: 'Inspiration',
-    description: 'Websites and People who have inspired me',
-  },
-
   'list/youtube-video': {
     title: 'YouTube Videos',
     description: 'List of videos I recommend'
@@ -151,4 +129,12 @@ module.exports = {
     title: 'Forums & Communities',
     description: 'List of Forums, communities and online hubs'
   },
+
+	// Continuous Writing Projects
+
+	"list/365-writing": {
+		title: "365 day writing project",
+		description: "My attempt at writing a thought a day for a year",
+		layout: "layouts/list-posts.njk",
+	},
 };
