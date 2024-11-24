@@ -2,6 +2,8 @@ let getPocket = require('pocket-api');
 const util = require('util');
 const slugger = require("../slugger");
 const { processObjectToMarkdown } = require("../json-to-markdown");
+const fs = require('fs');
+const path = require('path');
 
 const dateInfoObjMaker = (initialDateString) => {
   let dateString = '';
@@ -97,11 +99,19 @@ const writeLinkToAmplify = (linkObj) => {
   )
 }
 
-const processPocketExport = async () => {
-  require('dotenv').config()
+const processPocketExport = async (offset) => {
+  require('dotenv').config();
+  var offsetCount = offset || 0;
   console.log('processPocketExport');
   let consumer_key = process.env.CON_KEY;
   let access_token = process.env.ACCESS_TOKEN;
+
+  const filePath = path.join(process.cwd(), 'pocket-since.txt');
+  // Read the string from pocket-since.txt
+  let since = false; // Default value if file does not exist or is empty
+  if (fs.existsSync(filePath)) {
+    since = fs.readFileSync(filePath, 'utf8').trim();
+  }  
 
   let pocket = new getPocket(consumer_key);
   //sets access_token
@@ -111,13 +121,20 @@ const processPocketExport = async () => {
     sort: 'newest',
     detailType: 'complete',
     count: 30, // Never more than 30
-    offset: 0
+    offset: offsetCount
   }
+
+  // since ? pocketConfigForGet.since = since : null;
   //returns articles
   let response = await pocket.getArticles(pocketConfigForGet)
   
   console.log(util.inspect(response, {showHidden: false, depth: null, colors: true}));
-
+  if (response.list.length === 0) {
+    console.log('No more items to process');
+    return { resultSet: [], total: 0 }
+  }
+  let lastSince = response.since;
+  fs.writeFileSync(filePath, lastSince.toString(), 'utf8');
   let linkList = Object.values(response.list).map((data) => {
     return createPocketObj(data);
   });
@@ -129,8 +146,19 @@ const processPocketExport = async () => {
     console.log("link write result", result);
     return result;
   })
-  return await Promise.all(results);
+  let resultSet = await Promise.all(results);
+  let total = response.total;
+  return {
+    resultSet,
+    total
+  }
 };
+
+const walkPocketAPI = async () => {
+  let resultObj = await processPocketExport(0);
+  
+  return result;
+}
 
 
 module.exports = {
