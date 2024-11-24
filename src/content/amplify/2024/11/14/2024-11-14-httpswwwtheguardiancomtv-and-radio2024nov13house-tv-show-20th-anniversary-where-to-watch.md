@@ -12,7 +12,7 @@ link: >-
   https://www.theguardian.com/tv-and-radio/2024/nov/13/house-tv-show-20th-anniversary-where-to-watch
 slug: >-
   2024-11-14-httpswwwtheguardiancomtv-and-radio2024nov13house-tv-show-20th-anniversary-where-to-watch
-tags: []
+tags: ["entertainment"]
 title: >-
   House at 20: Perfectly Mad 2000s Television That Has Aged Better Than You’d
   Think
