@@ -9,7 +9,7 @@ description: >-
 isBasedOn: 'https://getpocket.com/explore/item/gaytopia'
 link: 'https://getpocket.com/explore/item/gaytopia'
 slug: 2024-11-16-httpsgetpocketcomexploreitemgaytopia
-tags: []
+tags: ['lgbtq+', 'politics']
 title: Gaytopia
 ---
 Fed up with the horrific discrimination and violence against his community, Don Jackson had a plan: turn a remote spot in Northern California into the world’s first gay-majority county.

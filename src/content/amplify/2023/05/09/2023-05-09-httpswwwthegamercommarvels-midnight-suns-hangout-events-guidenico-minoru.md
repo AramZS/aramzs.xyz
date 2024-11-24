@@ -6,8 +6,9 @@ link: >-
   https://www.thegamer.com/marvels-midnight-suns-hangout-events-guide/#nico-minoru
 slug: >-
   2023-05-09-httpswwwthegamercommarvels-midnight-suns-hangout-events-guidenico-minoru
-tags: []
+tags: ['gaming']
 title: >-
   https://www.thegamer.com/marvels-midnight-suns-hangout-events-guide/#nico-minoru
+public: false
 ---
  

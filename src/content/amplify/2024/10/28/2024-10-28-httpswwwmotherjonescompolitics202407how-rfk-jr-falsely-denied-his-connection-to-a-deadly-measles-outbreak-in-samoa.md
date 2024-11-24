@@ -13,7 +13,7 @@ link: >-
   https://www.motherjones.com/politics/2024/07/how-rfk-jr-falsely-denied-his-connection-to-a-deadly-measles-outbreak-in-samoa/
 slug: >-
   2024-10-28-httpswwwmotherjonescompolitics202407how-rfk-jr-falsely-denied-his-connection-to-a-deadly-measles-outbreak-in-samoa
-tags: []
+tags: ['politics']
 title: >-
   How RFK Jr. Falsely Denied His Connection to a Deadly Measles Outbreak in
   Samoa

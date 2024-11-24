@@ -13,7 +13,7 @@ link: >-
   https://www.notus.org/congress/security-legal-insurance-disguises-democrats-preparing-for-worst
 slug: >-
   2024-11-04-httpswwwnotusorgcongresssecurity-legal-insurance-disguises-democrats-preparing-for-worst
-tags: []
+tags: ['politics']
 title: >-
   Security, Legal Insurance, Disguises: Democrats Are Preparing for the Worst
   After the Election

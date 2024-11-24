@@ -10,7 +10,7 @@ link: >-
   https://www.vox.com/money/381538/toilet-paper-marketing-roll-sizes-shrinkflation
 slug: >-
   2024-11-14-httpswwwvoxcommoney381538toilet-paper-marketing-roll-sizes-shrinkflation
-tags: []
+tags: ['politics', 'business']
 title: How Big Toilet Paper Dupes Us All
 ---
 The wild, nonsensical world of toilet paper math, explained.

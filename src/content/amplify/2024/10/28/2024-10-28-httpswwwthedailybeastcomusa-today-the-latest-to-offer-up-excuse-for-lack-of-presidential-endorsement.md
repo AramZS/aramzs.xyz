@@ -13,7 +13,7 @@ link: >-
   https://www.thedailybeast.com/usa-today-the-latest-to-offer-up-excuse-for-lack-of-presidential-endorsement/
 slug: >-
   2024-10-28-httpswwwthedailybeastcomusa-today-the-latest-to-offer-up-excuse-for-lack-of-presidential-endorsement
-tags: []
+tags: ['media']
 title: USA Today the Latest to Offer Up Excuse for Lack of Presidential Endorsement
 ---
 USA Today, the nation’s fourth largest newspaper, says it’s joining The Washington Post and the Los Angeles Times in not endorsing a presidential candidate this election.

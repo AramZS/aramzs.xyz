@@ -14,7 +14,7 @@ link: >-
   https://theconversation.com/im-a-neuroscientist-who-taught-rats-to-drive-their-joy-suggests-how-anticipating-fun-can-enrich-human-life-239029
 slug: >-
   2024-11-19-httpstheconversationcomim-a-neuroscientist-who-taught-rats-to-drive-their-joy-suggests-how-anticipating-fun-can-enrich-human-life-239029
-tags: []
+tags: ['health', 'culture']
 title: >-
   I’m a neuroscientist who taught rats to drive − their joy suggests how
   anticipating fun can enrich human life

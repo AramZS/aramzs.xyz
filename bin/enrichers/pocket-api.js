@@ -92,6 +92,10 @@ const createPocketObj = (data) => {
 
 
 const writeLinkToAmplify = (linkObj) => {
+  if (!linkObj.hasOwnProperty('title')) {
+    console.log('Skipping writing a link with no title', linkObj);
+    return
+  }
   return processObjectToMarkdown(
     "title",
     "content",

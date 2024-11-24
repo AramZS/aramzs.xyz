@@ -6,7 +6,7 @@ link: >-
   https://www.fastcompany.com/91166696/crowdstrike-showed-us-the-risks-of-over-automation
 slug: >-
   2024-08-03-httpswwwfastcompanycom91166696crowdstrike-showed-us-the-risks-of-over-automation
-tags: []
+tags: ['infosec']
 title: >-
   https://www.fastcompany.com/91166696/crowdstrike-showed-us-the-risks-of-over-automation
 ---

@@ -10,7 +10,7 @@ link: >-
   https://www.theguardian.com/commentisfree/2024/nov/18/wales-20mph-speed-limit-lives-money-policy
 slug: >-
   2024-11-19-httpswwwtheguardiancomcommentisfree2024nov18wales-20mph-speed-limit-lives-money-policy
-tags: []
+tags: ['cars']
 title: >-
   Wales’s 20mph speed limit saves lives and money. So why has it become a
   culture-war battlefield?

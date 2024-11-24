@@ -10,7 +10,7 @@ description: >-
 isBasedOn: 'https://unwinnable.com/2024/11/15/webslinging-the-homesickness-away/'
 link: 'https://unwinnable.com/2024/11/15/webslinging-the-homesickness-away/'
 slug: 2024-11-18-httpsunwinnablecom20241115webslinging-the-homesickness-away
-tags: []
+tags: ['gaming', 'culture']
 title: Webslinging the Homesickness Away
 ---
 I moved out of New York City, to Oregon, right before the pandemic began. I didn’t realize how much I missed it right away. This homesickness burned through my blood slowly, radioactive and toxic.

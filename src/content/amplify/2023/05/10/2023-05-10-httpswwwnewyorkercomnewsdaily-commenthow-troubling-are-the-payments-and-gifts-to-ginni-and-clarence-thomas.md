@@ -6,7 +6,7 @@ link: >-
   https://www.newyorker.com/news/daily-comment/how-troubling-are-the-payments-and-gifts-to-ginni-and-clarence-thomas
 slug: >-
   2023-05-10-httpswwwnewyorkercomnewsdaily-commenthow-troubling-are-the-payments-and-gifts-to-ginni-and-clarence-thomas
-tags: []
+tags: ['politics', 'law and order']
 title: >-
   https://www.newyorker.com/news/daily-comment/how-troubling-are-the-payments-and-gifts-to-ginni-and-clarence-thomas
 ---

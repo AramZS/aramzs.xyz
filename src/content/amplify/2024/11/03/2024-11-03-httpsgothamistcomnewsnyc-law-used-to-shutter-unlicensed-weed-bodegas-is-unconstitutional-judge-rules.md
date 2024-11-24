@@ -14,7 +14,7 @@ link: >-
   https://gothamist.com/news/nyc-law-used-to-shutter-unlicensed-weed-bodegas-is-unconstitutional-judge-rules
 slug: >-
   2024-11-03-httpsgothamistcomnewsnyc-law-used-to-shutter-unlicensed-weed-bodegas-is-unconstitutional-judge-rules
-tags: []
+tags: ['nyc']
 title: >-
   NYC law used to shutter unlicensed weed bodegas is unconstitutional, judge
   rules

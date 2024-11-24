@@ -6,7 +6,7 @@ link: >-
   https://loudwire.com/summer-slaughter-2024-response-negative-reaction/?ref=salvo.ghost.io
 slug: >-
   2024-08-08-httpsloudwirecomsummer-slaughter-2024-response-negative-reactionrefsalvoghostio
-tags: []
+tags: ['music']
 title: >-
   https://loudwire.com/summer-slaughter-2024-response-negative-reaction/?ref=salvo.ghost.io
 ---

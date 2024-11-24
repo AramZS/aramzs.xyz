@@ -13,7 +13,7 @@ link: >-
   https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring
 slug: >-
   2024-10-23-httpswwwftcgovnews-eventsnewspress-releases202410federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring
-tags: []
+tags: ['law and order']
 title: >-
   Federal Trade Commission Announces Final “Click-to-Cancel” Rule Making It
   Easier for Consumers to End Recurring Subscriptions and Memberships

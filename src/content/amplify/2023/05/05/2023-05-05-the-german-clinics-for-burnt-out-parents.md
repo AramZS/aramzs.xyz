@@ -5,7 +5,7 @@ isBasedOn: >-
 link: >-
   https://www.bbc.com/future/article/20230228-the-german-clinics-for-burnt-out-parents?utm_source=pocket-newtab
 slug: 2023-05-05-the-german-clinics-for-burnt-out-parents
-tags: []
+tags: ['culture']
 title: The German clinics for burnt-out parents
 ---
 
