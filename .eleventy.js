@@ -248,12 +248,19 @@ module.exports = function (eleventyConfig) {
 	});
  */
 
+  // Don't let Netlify run out of memory - do something about this later.
+  // Maybe write to _redirects from these in the future?
+  eleventyConfig.ignores.add("src/content/amplify/2023**");
+  eleventyConfig.ignores.add("src/content/amplify/2024-01**");
+  eleventyConfig.ignores.add("src/content/amplify/2024-02**");
+  eleventyConfig.ignores.add("src/content/amplify/2024-03**");
+  eleventyConfig.ignores.add("src/content/amplify/2024-04**");
+  eleventyConfig.ignores.add("src/content/amplify/2024-05**");
   // Dev Time Build Ignores 
   if (process.env.IS_LOCAL === "true"){
-    eleventyConfig.ignores.add("src/content/amplify/2023**");
-    eleventyConfig.ignores.add("src/content/amplify/2024-01**");
-    eleventyConfig.ignores.add("src/content/amplify/2024-02**");
-    eleventyConfig.ignores.add("src/content/amplify/2024-03**");
+
+    eleventyConfig.ignores.add("src/content/amplify/2024-06**");
+    eleventyConfig.ignores.add("src/content/amplify/2024-07**");
     //eleventyConfig.ignores.add("src/content/resources/film/[e-t]**");
     // eleventyConfig.ignores.add("src/content/resources/film/b[u-z]**");
     eleventyConfig.ignores.add("src/content/resources/film/t**");
