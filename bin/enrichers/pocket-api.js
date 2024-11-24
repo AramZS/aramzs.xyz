@@ -1,6 +1,7 @@
 let getPocket = require('pocket-api');
 const util = require('util');
 const slugger = require("../slugger");
+const { processObjectToMarkdown } = require("../json-to-markdown");
 
 const dateInfoObjMaker = (initialDateString) => {
   let dateString = '';
@@ -9,8 +10,14 @@ const dateInfoObjMaker = (initialDateString) => {
   } catch (e) { 
     console.log('Date error', el, aChild);
     throw new Error('Could not parse date' + el)
-  }  
-  let dateObj = new Date(parseInt(dateString) * 1000);
+  }
+  let dateObj = {};
+  try {
+    dateObj = new Date(parseInt(dateString) * 1000);
+  } catch (e) {
+    console.log('Date error at date parse time', e, dateString);
+    throw new Error('Could not parse date' + dateString)
+  }
   // Generate a file-slug YYYY-MM-DD string from the date
   let date = dateObj;
   let yearFormatter = new Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York', year: 'numeric' });
@@ -40,8 +47,22 @@ const dateInfoObjMaker = (initialDateString) => {
 }
 
 const createPocketObj = (data) => {
-  const dateInfoObj = dateInfoObjMaker(data.time_added);
-
+  if (data.hasOwnProperty('status') && data.status === '2') {
+    console.log('Skipping deleted item', data);
+    return
+  }
+  if (!data.hasOwnProperty('time_added') || !data.hasOwnProperty('resolved_url')) {
+    console.log('Skipping item that does not have the needed properties', data);
+    return
+  }
+  let dateInfoObj = {};
+  try {
+    dateInfoObj = dateInfoObjMaker(data.time_added);
+  } catch (e) {
+    console.log('Date error', e, data.time_added);
+    throw new Error('Could not parse date ' + data.time_added)
+  }
+  console.log('Date processed to', dateInfoObj);
   const { isoDate, day, month, year, dateFileString } = dateInfoObj;
 
   const tagsArray = Object.values(data.tags).reduce((acc, item) => {
@@ -57,10 +78,23 @@ const createPocketObj = (data) => {
     content: data.excerpt,
     isBasedOn: data.resolved_url,
     slug: slugger(dateFileString + "-" + data.resolved_url),
-    dateFolder: `${year}/${month}/${day}`
+    dateFolder: `${year}/${month}/${day}`,
+    cover_image: data.hasOwnProperty('top_image_url') ? data.top_image_url : false
+
   }
 
   return dataSet;
+}
+
+
+const writeLinkToAmplify = (linkObj) => {
+  return processObjectToMarkdown(
+    "title",
+    "content",
+    `./src/content/amplify/${linkObj.dateFolder}`,
+    linkObj,
+    true
+  )
 }
 
 const processPocketExport = async () => {
@@ -76,7 +110,7 @@ const processPocketExport = async () => {
     state: 'all',
     sort: 'newest',
     detailType: 'complete',
-    count: 4,
+    count: 5,
     offset: 0
   }
   //returns articles
@@ -90,6 +124,12 @@ const processPocketExport = async () => {
 
   var fullLinkSet = linkList.filter(e => e);
   console.log(util.inspect(fullLinkSet, {showHidden: false, depth: null, colors: true}));
+  const results = fullLinkSet.map((link) => {
+    const result = writeLinkToAmplify(link);
+    console.log("link write result", result);
+    return result;
+  })
+  return await Promise.all(results);
 };
 
 

@@ -39,7 +39,7 @@
     <section class="full-width page-post" data-source="src/_includes/layouts/page-post.njk">
     {% if cover_image %}
       <div class="featured-image full-width breakout">
-        <img src="/img/posts/{{cover_image}}" loading="lazy" />
+        <img src="{{ cover_image | urlImageCheck('/img/posts/') }}" loading="lazy" />
       </div>
     {% endif %}
         {{ content | safe }}

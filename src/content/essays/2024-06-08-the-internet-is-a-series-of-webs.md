@@ -10,6 +10,7 @@ tags:
 series: The Wild Web
 group: The Wild Web
 cover_image: 1443px-Typical-orb-web-photo.jpg
+featured: true
 ---
 
 > When I envision the web, I picture an infinite expanse of empty space that stretches as far as the eye can see. It's full of fertile soil, but no seeds have taken root. That is, except for about an acre of it.

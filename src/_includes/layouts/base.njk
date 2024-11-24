@@ -36,7 +36,7 @@
     <meta property="og:image" content="{{ ogImageHref }}">
     <meta name="twitter:card" content="summary_large_image"/>
     {% elif cover_image %}
-    <meta property="og:image" content="{{ metadata.url }}/img/posts/{{ cover_image }}">
+    <meta property="og:image" content="{{ cover_image | urlImageCheck(metadata.url+'/img/posts/') }}">
     <meta name="twitter:card" content="summary_large_image"/>       
     {% else %}
     <meta property="og:image" content="{{ metadata.url }}/{{metadata.defaultSocialImage}}">
