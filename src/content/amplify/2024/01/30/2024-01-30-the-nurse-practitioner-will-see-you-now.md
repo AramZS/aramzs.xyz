@@ -5,7 +5,7 @@ isBasedOn: >-
 link: >-
   https://www.vox.com/even-better/24050901/nurse-practitioner-physician-assistant-doctor-health-care-quality
 slug: 2024-01-30-the-nurse-practitioner-will-see-you-now
-tags: []
+tags: ["health"]
 title: The nurse practitioner will see you now
 ---
 

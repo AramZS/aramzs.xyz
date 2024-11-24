@@ -5,7 +5,7 @@ isBasedOn: >-
 link: >-
   https://www.bbc.com/future/article/20240126-sleep-tight-a-curious-history-of-beds-through-the-centuries
 slug: 2024-01-30-sleep-tight-a-curious-history-of-beds-through-the-centuries
-tags: []
+tags: ['history']
 title: 'Sleep tight: A curious history of beds through the centuries'
 ---
 
