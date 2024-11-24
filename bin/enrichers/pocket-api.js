@@ -105,7 +105,10 @@ const processPocketExport = async (offset) => {
   console.log('processPocketExport');
   let consumer_key = process.env.CON_KEY;
   let access_token = process.env.ACCESS_TOKEN;
-
+  if (offset > 30*29){
+    console.log('Offset is too high, stopping');
+    return { resultSet: [], total: 0 }
+  }
   const filePath = path.join(process.cwd(), 'pocket-since.txt');
   // Read the string from pocket-since.txt
   let since = false; // Default value if file does not exist or is empty
@@ -125,11 +128,12 @@ const processPocketExport = async (offset) => {
   }
 
   // since ? pocketConfigForGet.since = since : null;
+  pocketConfigForGet.since = "1532166480";
   //returns articles
   let response = await pocket.getArticles(pocketConfigForGet)
   
   console.log(util.inspect(response, {showHidden: false, depth: null, colors: true}));
-  if (response.list.length === 0) {
+  if (response.list.length === 0 || response.error != null) {
     console.log('No more items to process');
     return { resultSet: [], total: 0 }
   }
@@ -155,9 +159,20 @@ const processPocketExport = async (offset) => {
 };
 
 const walkPocketAPI = async () => {
-  let resultObj = await processPocketExport(0);
-  
-  return result;
+  // let resultObj = await processPocketExport(0);
+  let offset = 0;
+  let total = 0;
+  // let resultSet = [];
+
+  do {
+    let resultObj = await processPocketExport(offset);
+    // resultSet = resultSet.concat(resultObj.resultSet);
+    total = resultObj.total;
+    offset += resultObj.resultSet.length;
+  } while (total > 0);
+
+  return resultSet;
+  // return result;
 }
 
 
