@@ -110,7 +110,7 @@ const processPocketExport = async () => {
     state: 'all',
     sort: 'newest',
     detailType: 'complete',
-    count: 5,
+    count: 30, // Never more than 30
     offset: 0
   }
   //returns articles
