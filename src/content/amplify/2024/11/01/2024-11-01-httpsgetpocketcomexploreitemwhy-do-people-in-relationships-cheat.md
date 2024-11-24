@@ -7,7 +7,7 @@ description: A study breaks down the reasons—they’re complicated.
 isBasedOn: 'https://getpocket.com/explore/item/why-do-people-in-relationships-cheat'
 link: 'https://getpocket.com/explore/item/why-do-people-in-relationships-cheat'
 slug: 2024-11-01-httpsgetpocketcomexploreitemwhy-do-people-in-relationships-cheat
-tags: []
+tags: ["culture", "relationships"]
 title: Why Do People in Relationships Cheat?
 ---
 A study breaks down the reasons—they’re complicated.

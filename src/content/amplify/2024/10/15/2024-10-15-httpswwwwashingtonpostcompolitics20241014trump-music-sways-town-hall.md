@@ -14,7 +14,7 @@ link: >-
   https://www.washingtonpost.com/politics/2024/10/14/trump-music-sways-town-hall/
 slug: >-
   2024-10-15-httpswwwwashingtonpostcompolitics20241014trump-music-sways-town-hall
-tags: []
+tags: ["politics"]
 title: Trump sways and bops to music for 39 minutes in bizarre town hall episode
 ---
 OAKS, Pa. — The town hall, moderated by South Dakota Gov. Kristi L. Noem (R), began with questions from preselected attendees for the former president. Donald Trump offered meandering answers on how he would address housing affordability and help small businesses.

@@ -12,7 +12,7 @@ isBasedOn: 'https://www.splinter.com/democrats-are-more-excited-to-vote-than-rep
 link: 'https://www.splinter.com/democrats-are-more-excited-to-vote-than-republicans'
 slug: >-
   2024-10-31-httpswwwsplintercomdemocrats-are-more-excited-to-vote-than-republicans
-tags: []
+tags: ["politics"]
 title: Democrats Are More Excited to Vote than Republicans
 ---
 We are in the tea leaves phase of the election cycle, where votes are being cast but we will not have the full picture until after election day, and so we are all slowly driving ourselves insane looking for clues as to how next week’s election may go.
