@@ -67,14 +67,9 @@ const createPocketObj = (data) => {
   console.log('Date processed to', dateInfoObj);
   const { isoDate, day, month, year, dateFileString } = dateInfoObj;
 
-  const tagsArray = Object.values(data.tags).reduce((acc, item) => {
-    acc.push(item.tag.toLowerCase());
-    return acc;
-  }, []);
   let dataSet = { 
     link: data.resolved_url, 
     date: isoDate, 
-    tags: tagsArray,
     title: data.resolved_title,
     description: data.excerpt,
     content: data.excerpt,
@@ -85,6 +80,13 @@ const createPocketObj = (data) => {
 
   }
 
+  if (data.hasOwnProperty('tags')) {
+    const tagsArray = Object.values(data.tags).reduce((acc, item) => {
+      acc.push(item.tag.toLowerCase());
+      return acc;
+    }, []);
+    dataSet.tags = tagsArray;
+  }
   return dataSet;
 }
 
@@ -124,16 +126,17 @@ const processPocketExport = async (offset) => {
     sort: 'newest',
     detailType: 'complete',
     count: 30, // Never more than 30
-    offset: offsetCount
+    offset: offsetCount,
+    total: 1
   }
 
-  // since ? pocketConfigForGet.since = since : null;
-  pocketConfigForGet.since = "1532166480";
+  since ? pocketConfigForGet.since = since : null;
+  // pocketConfigForGet.since = "1532166480";
   //returns articles
   let response = await pocket.getArticles(pocketConfigForGet)
   
   console.log(util.inspect(response, {showHidden: false, depth: null, colors: true}));
-  if (response.list.length === 0 || response.error != null) {
+  if (Object.keys(response.list).length === 0 || response.error != null) {
     console.log('No more items to process');
     return { resultSet: [], total: 0 }
   }
@@ -145,33 +148,48 @@ const processPocketExport = async (offset) => {
 
   var fullLinkSet = linkList.filter(e => e);
   console.log(util.inspect(fullLinkSet, {showHidden: false, depth: null, colors: true}));
+  if (!linkList || linkList.length === 0 ) {
+    console.log('No more items to process');
+    return { resultSet: [], total: 0 }
+  }
   const results = fullLinkSet.map((link) => {
     const result = writeLinkToAmplify(link);
     console.log("link write result", result);
     return result;
   })
   let resultSet = await Promise.all(results);
-  let total = response.total;
+  let total = response.hasOwnProperty('total') ? response.total : 1; // keep going if there is no total.
   return {
     resultSet,
     total
   }
 };
 
+const appendToEnvFileSync = (stringToAppend) => {
+  const envFilePath = path.join(process.cwd(), '.env');
+  try {
+    fs.appendFileSync(envFilePath, stringToAppend + '\n', 'utf8');
+    console.log('Successfully appended to .env file');
+  } catch (err) {
+    console.error('Error appending to .env file:', err);
+  }
+};
+
 const walkPocketAPI = async () => {
   // let resultObj = await processPocketExport(0);
   let offset = 0;
-  let total = 0;
+  let total = 1;
   // let resultSet = [];
 
   do {
     let resultObj = await processPocketExport(offset);
     // resultSet = resultSet.concat(resultObj.resultSet);
     total = resultObj.total;
+    console.log('Total', total);
     offset += resultObj.resultSet.length;
   } while (total > 0);
-
-  return resultSet;
+  appendToEnvFileSync('IS_LOCAL=true');
+  return offset;
   // return result;
 }
 
@@ -180,7 +198,7 @@ module.exports = {
   make: async () => {},
 	writeAmplify: async () => {
 		//var finishedArray = await Promise.all(quoteArray);
-		var result = processPocketExport();
+		var result = walkPocketAPI();
 		return result;
 	},
 };
