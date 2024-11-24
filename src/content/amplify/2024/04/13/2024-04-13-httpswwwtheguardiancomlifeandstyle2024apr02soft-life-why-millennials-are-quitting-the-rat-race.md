@@ -6,7 +6,7 @@ link: >-
   https://www.theguardian.com/lifeandstyle/2024/apr/02/soft-life-why-millennials-are-quitting-the-rat-race
 slug: >-
   2024-04-13-httpswwwtheguardiancomlifeandstyle2024apr02soft-life-why-millennials-are-quitting-the-rat-race
-tags: []
+tags: ["labor"]
 title: >-
   https://www.theguardian.com/lifeandstyle/2024/apr/02/soft-life-why-millennials-are-quitting-the-rat-race
 ---

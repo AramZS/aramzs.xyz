@@ -10,7 +10,7 @@ description: >-
 isBasedOn: 'https://www.lifewire.com/install-apk-on-android-4177185'
 link: 'https://www.lifewire.com/install-apk-on-android-4177185'
 slug: 2024-11-13-httpswwwlifewirecominstall-apk-on-android-4177185
-tags: []
+tags: ["tech", "code"]
 title: How to Install APK on Android
 ---
 This article explains what you need to do to permit your Android device to install apps from outside the Play Store via APK files. This works on Android 7 and later.

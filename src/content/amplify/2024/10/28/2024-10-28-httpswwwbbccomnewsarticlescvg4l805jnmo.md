@@ -11,7 +11,7 @@ description: >-
 isBasedOn: 'https://www.bbc.com/news/articles/cvg4l805jnmo'
 link: 'https://www.bbc.com/news/articles/cvg4l805jnmo'
 slug: 2024-10-28-httpswwwbbccomnewsarticlescvg4l805jnmo
-tags: []
+tags: ["media", "journalism"]
 title: Washington Post declines to endorse presidential candidate
 ---
 The Washington Post has announced it will not endorse a presidential candidate in the upcoming election. CEO William Lewis said the decision was a return "to our roots of not endorsing presidential candidates", adding that the newspaper will not be endorsing any president in the future either.

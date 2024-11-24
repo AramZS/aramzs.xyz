@@ -10,7 +10,7 @@ description: >-
 isBasedOn: 'https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/'
 link: 'https://www.404media.co/automattic-buyout-offer-wordpress-matt-mullenweg/'
 slug: 2024-10-17-httpswww404mediacoautomattic-buyout-offer-wordpress-matt-mullenweg
-tags: []
+tags: ["tech"]
 title: >-
   Employees Describe an Environment of Paranoia and Fear Inside Automattic Over
   WordPress Chaos

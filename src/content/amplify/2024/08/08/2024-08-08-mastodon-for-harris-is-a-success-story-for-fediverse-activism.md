@@ -5,7 +5,7 @@ isBasedOn: >-
 link: >-
   https://werd.io/2024/mastodon-for-harris-is-a-success-story-for-fediverse-activism
 slug: 2024-08-08-mastodon-for-harris-is-a-success-story-for-fediverse-activism
-tags: []
+tags: ["politics", "social media"]
 title: '"Mastodon for Harris" is a Success Story for Fediverse Activism'
 ---
  

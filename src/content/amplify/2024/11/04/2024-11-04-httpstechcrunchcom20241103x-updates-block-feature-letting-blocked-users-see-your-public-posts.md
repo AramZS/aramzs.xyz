@@ -14,7 +14,7 @@ link: >-
   https://techcrunch.com/2024/11/03/x-updates-block-feature-letting-blocked-users-see-your-public-posts/
 slug: >-
   2024-11-04-httpstechcrunchcom20241103x-updates-block-feature-letting-blocked-users-see-your-public-posts
-tags: []
+tags: ["social media", "tech"]
 title: 'X updates block feature, letting blocked users see your public posts'
 ---
 X is rolling out its controversial update to the block feature, allowing people to view your public posts even if you have blocked them. People have protested this change, arguing that they don’t want blocked users to see their posts for reasons of safety.

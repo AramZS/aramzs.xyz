@@ -4,7 +4,7 @@ isBasedOn: 'https://www.wired.com/story/internet-archive-backed-up-aruba-caribbe
 link: 'https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/'
 slug: >-
   2024-04-13-httpswwwwiredcomstoryinternet-archive-backed-up-aruba-caribbean-island
-tags: []
+tags: ["archiving"]
 title: 'https://www.wired.com/story/internet-archive-backed-up-aruba-caribbean-island/'
 ---
 

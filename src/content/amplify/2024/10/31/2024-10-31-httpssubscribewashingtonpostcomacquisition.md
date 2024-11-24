@@ -6,7 +6,8 @@ description: Subscribe to The Washington Post
 isBasedOn: 'https://subscribe.washingtonpost.com/acquisition'
 link: 'https://subscribe.washingtonpost.com/acquisition'
 slug: 2024-10-31-httpssubscribewashingtonpostcomacquisition
-tags: []
+tags: ['media']
 title: Subscribe to The Washington Post
+public: false
 ---
 Subscribe to The Washington Post

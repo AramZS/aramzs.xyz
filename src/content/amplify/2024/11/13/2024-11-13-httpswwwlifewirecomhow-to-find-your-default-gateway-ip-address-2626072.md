@@ -11,7 +11,7 @@ isBasedOn: 'https://www.lifewire.com/how-to-find-your-default-gateway-ip-address
 link: 'https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072'
 slug: >-
   2024-11-13-httpswwwlifewirecomhow-to-find-your-default-gateway-ip-address-2626072
-tags: []
+tags: ["tech", "code"]
 title: How to Find Your Default Gateway IP Address
 ---
 Knowing the IP address of the default gateway (usually a router) on a home or business network is important information to successfully troubleshoot a network problem or gain access to the router's web-based management.
