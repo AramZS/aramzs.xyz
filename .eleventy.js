@@ -260,6 +260,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add("src/content/amplify/2024-07**");
   eleventyConfig.ignores.add("src/content/amplify/2024-08**");
   eleventyConfig.ignores.add("src/content/amplify/2024-09**");
+
+  eleventyConfig.ignores.add("src/content/amplify/2024-10**");
+  eleventyConfig.ignores.add("src/content/amplify/2024-11**");
   // Dev Time Build Ignores 
   if (process.env.IS_LOCAL === "true"){
     //eleventyConfig.ignores.add("src/content/resources/film/[e-t]**");
