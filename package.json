@@ -84,6 +84,7 @@
   },
   "dependencies": {
     "@11ty/eleventy-img": "^3.1.8",
+    "@11ty/eleventy-plugin-directory-output": "^1.0.1",
     "cheerio": "^1.0.0-rc.12",
     "colorthief": "^2.4.0",
     "convert-csv-to-json": "^2.49.0",

@@ -16,6 +16,6 @@ module.exports = {
       const slug = data?.slug ?? this.slugify(data.title);
       return `${path}/${slug}/`;
     },
-    ogImageHref: (data) => ogImageFromSlug(slugify(data.title)),
+    ogImageHref: (data) => ogImageFromSlug(slugify(data.title), data),
   }
 };

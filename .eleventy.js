@@ -7,6 +7,8 @@ const asyncFilters = require('./lib/async-filters');
 const ObjectCache = require("./lib/helpers/cache");
 const fs = require("fs");
 const pluginDrafts = require("./eleventy.config.drafts.js");
+const directoryOutputPlugin = require("@11ty/eleventy-plugin-directory-output");
+
 
 require("dotenv").config();
 
@@ -14,6 +16,16 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
 	// So that file creation on `.before` doesn't trigger a rebuild
 	eleventyConfig.setWatchThrottleWaitTime(5000);
+  eleventyConfig.addPlugin(directoryOutputPlugin, {
+    // Customize columns
+    columns: {
+      filesize: false, // Use `false` to disable
+      benchmark: true, // Use `false` to disable
+    },
+
+    // Will show in yellow if greater than this number of bytes
+    warningFileSize: 400 * 1000,
+  });
 	eleventyConfig.on(
 		"eleventy.before",
 		async ({ dir, runMode, outputMode }) => {
@@ -252,17 +264,17 @@ module.exports = function (eleventyConfig) {
   // Maybe write to _redirects from these in the future?
   // Or fiddle with `--max_old_space_size` in the build command?
   eleventyConfig.ignores.add("src/content/amplify/2023**");
-  eleventyConfig.ignores.add("src/content/amplify/2024-01**");
-  eleventyConfig.ignores.add("src/content/amplify/2024-02**");
-  eleventyConfig.ignores.add("src/content/amplify/2024-03**");
-  eleventyConfig.ignores.add("src/content/amplify/2024-04**");
-  eleventyConfig.ignores.add("src/content/amplify/2024-05**");    eleventyConfig.ignores.add("src/content/amplify/2024-06**");
-  eleventyConfig.ignores.add("src/content/amplify/2024-07**");
-  eleventyConfig.ignores.add("src/content/amplify/2024-08**");
-  eleventyConfig.ignores.add("src/content/amplify/2024-09**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/01**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/02**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/03**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/04**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/05**");    eleventyConfig.ignores.add("src/content/amplify/2024/06**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/07**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/08**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/09**");
 
-  eleventyConfig.ignores.add("src/content/amplify/2024-10**");
-  eleventyConfig.ignores.add("src/content/amplify/2024-11**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/10**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/11**");
   // Dev Time Build Ignores 
   if (process.env.IS_LOCAL === "true"){
     //eleventyConfig.ignores.add("src/content/resources/film/[e-t]**");
