@@ -4,18 +4,18 @@
 {% set read = bookwyrm | whereKeyEquals('shelf', 'read') %}
 {% set resources = collections.resources | groupByKey('resourceType') %}
 {% set videoMediaMap = collections.resources | groupByKey('mediaType') %}
-{% set videoMediaCount = videoMediaMap.get('film').length + videoMediaMap.get('tv').length %}
+{% set videoMediaCount = videoMediaMap.film.length + videoMediaMap.tv.length %}
 
 
 <section class="jumbo-nav breakout" data-source="src/_includes/components/jumbo-nav.njk">
     <nav>
         <dl>
             <dt>Writing</dt>
-            <dd><a href="/essays"><span>{{ grouped.get('essay').length }}</span><span>Essays</span></a></dd>
-            <dd><a href="/tutorials"><span>{{ grouped.get('tutorial').length }}</span><span>Tutorials</span></a></dd>
-            <dd><a href="/noteworthy"><span>{{ grouped.get('noteworthy').length }}</span><span>Noteworthy</span></a></dd>
-            <dd><a href="/thoughts"><span>{{ grouped.get('thought').length }}</span><span>Thoughts</span></a></dd>
-            <dd><a href="/glossary"><span>{{ grouped.get('glossary').length }}</span><span>Glossary</span></a></dd>
+            <dd><a href="/essays"><span>{{ grouped.essay.length }}</span><span>Essays</span></a></dd>
+            <dd><a href="/tutorials"><span>{{ grouped.tutorial.length }}</span><span>Tutorials</span></a></dd>
+            <dd><a href="/noteworthy"><span>{{ grouped.noteworthy.length }}</span><span>Noteworthy</span></a></dd>
+            <dd><a href="/thoughts"><span>{{ grouped.thought.length }}</span><span>Thoughts</span></a></dd>
+            <dd><a href="/glossary"><span>{{ grouped.glossary.length }}</span><span>Glossary</span></a></dd>
             <dd><a href="/stubs"><span>{{ stubs.length }}</span><span>Stubs</span></a></dd>
             <dd><a href="/writing" title="View all Writing (archive)"><small>View all <span aria-hidden="true">→</span></small></a></dd>
         </dl>
@@ -30,8 +30,8 @@
         </dl>
         <dl> 
             <dt>Resources</dt>
-            <dd><a href="/resources/bookmarks"><span>{{ resources.get('bookmarks').length }}</span><span>Bookmarks</span></a></dd>
-            <dd><a href="/resources/quotes"><span>{{ resources.get('quotes').length }}</span><span>Quotes</span></a></dd>
+            <dd><a href="/resources/bookmarks"><span>{{ resources.bookmarks.length }}</span><span>Bookmarks</span></a></dd>
+            <dd><a href="/resources/quotes"><span>{{ resources.quotes.length }}</span><span>Quotes</span></a></dd>
             <dd><a href="/resources" title="View all Resources (archive)"><small>View all <span aria-hidden="true">→</span></small></a></dd>
         </dl>
         <dl>
