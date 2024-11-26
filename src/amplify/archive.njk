@@ -25,7 +25,7 @@ titlePrefix: Index
 <nav class="dates-list">
     <h2>{{ collectionTerm }} throughout the seasons</h2>
 
-    {%- set allPosts = collections.contentTypes | findBySlug('amplify') | values('items') | reverse -%}
+    {%- set allPosts = collections.amplify | reverse -%}
     {%- set postsByYear = allPosts | groupByYear -%}
 
     <ol class="post-list">

@@ -3,7 +3,7 @@ permalink: /amplify/feed.xml
 folder: amplify
 eleventyExcludeFromCollections: true
 ---
-{% set postsList = collections.contentTypes | findBySlug('amplify') | values('items') | limit(500) %}<?xml version="1.0" encoding="utf-8"?>
+{% set postsList = collections.amplify | limit(300) %}<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
     <title type="text">Links Amplified by {{metadata.author.shortname or metadata.author.name}}</title>
     <subtitle type="text">Posts and writing by others that I think are worth sharing.</subtitle>

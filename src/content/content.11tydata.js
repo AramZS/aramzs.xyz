@@ -7,7 +7,7 @@ module.exports = {
   excludeFromFeed: false,
   layout: 'layouts/page-post.njk',
   growthStage: 'seedling', // seedling, budding, evergreen
-  contentType: 'thought', // thought, noteworthy, essay, tutorial, project
+  // contentType: 'thought', // thought, noteworthy, essay, tutorial, project
   folder: ['writing'],
   eleventyComputed: {
     changes: data => getChanges(data),

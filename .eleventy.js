@@ -16,10 +16,11 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
 	// So that file creation on `.before` doesn't trigger a rebuild
 	eleventyConfig.setWatchThrottleWaitTime(5000);
+  eleventyConfig.setQuietMode(true);
   eleventyConfig.addPlugin(directoryOutputPlugin, {
     // Customize columns
     columns: {
-      filesize: false, // Use `false` to disable
+      filesize: true, // Use `false` to disable
       benchmark: true, // Use `false` to disable
     },
 
@@ -175,6 +176,10 @@ module.exports = function (eleventyConfig) {
 	)) {
 		eleventyConfig.addCollection(name, collection);
 	}
+
+  eleventyConfig.addCollection("amplify", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("content/amplify/**/*.md");
+  });
 
 /*
   eleventyConfig.addCollection('cleantags', async function(collectionApi) {

@@ -38,7 +38,7 @@
     {% endif %}
     <section>
       <h2>Recent Amplifications</h2>
-      {% set postsList = collections.contentTypes | findBySlug('amplify') | values('items') | limit(10) %}
+      {% set postsList = collections.amplify | limit(10) %}
       {% set forward = true %}
       {% include "components/post-list.njk" %}
       

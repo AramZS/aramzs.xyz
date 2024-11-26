@@ -6,7 +6,7 @@ folder: amplify
 
 {% extends "layouts/page.njk" %}
 
-{% set allPosts = collections.contentTypes | findBySlug('amplify') | values('items') %}
+{% set allPosts = collections.amplify %}
 {% set postsByYear = allPosts | groupByYear %}
 {% set titlePrefix = 'Index' %}
 {% set title = 'Amplify Archive' %}

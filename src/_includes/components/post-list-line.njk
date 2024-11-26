@@ -4,7 +4,7 @@
         {% set postAttrs = "" %}
         <span style="color: red">(D)</span>
         {% endif %}
-        {% if forward or post.data.contentType == 'amplify' %}
+        {% if forward or post.data.permalinkBase == 'amplify' %}
           {% set postUrl = post.data.isBasedOn or post.data.canonical %}
           {% set postAttrs = ' target="_blank" ' %}
         {% else %}

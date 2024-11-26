@@ -114,7 +114,7 @@ eleventyExcludeFromCollections: true
             <div class="handle">@Chronotope</div>
         </div>
         <div class="date">
-            #{{ article.data.contentType }}
+            #{{ article.data.contentType ||  article.data.resourceType }}
         </div>
     </div>
     <div class="ball">&nbsp;</div>
