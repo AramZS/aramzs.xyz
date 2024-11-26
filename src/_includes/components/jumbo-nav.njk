@@ -1,21 +1,21 @@
-{% set grouped = collections.post | excludeStubs | groupByKey('contentType') %}
+{% set grouped = collections.post | excludeStubs | countByKey('contentType') %}
 {% set stubs = collections.post | onlyGrowthStages('stub') %}
 {% set antilibrary = bookwyrm | whereKeyEquals('shelf', 'to-read') %}
 {% set read = bookwyrm | whereKeyEquals('shelf', 'read') %}
-{% set resources = collections.resources | groupByKey('resourceType') %}
-{% set videoMediaMap = collections.resources | groupByKey('mediaType') %}
-{% set videoMediaCount = videoMediaMap.film.length + videoMediaMap.tv.length %}
+{% set resources = collections.resources | countByKey('resourceType') %}
+{% set videoMediaMap = collections.resources | countByKey('mediaType') %}
+{% set videoMediaCount = videoMediaMap.film.count + videoMediaMap.tv.count %}
 
 
 <section class="jumbo-nav breakout" data-source="src/_includes/components/jumbo-nav.njk">
     <nav>
         <dl>
             <dt>Writing</dt>
-            <dd><a href="/essays"><span>{{ grouped.essay.length }}</span><span>Essays</span></a></dd>
-            <dd><a href="/tutorials"><span>{{ grouped.tutorial.length }}</span><span>Tutorials</span></a></dd>
-            <dd><a href="/noteworthy"><span>{{ grouped.noteworthy.length }}</span><span>Noteworthy</span></a></dd>
-            <dd><a href="/thoughts"><span>{{ grouped.thought.length }}</span><span>Thoughts</span></a></dd>
-            <dd><a href="/glossary"><span>{{ grouped.glossary.length }}</span><span>Glossary</span></a></dd>
+            <dd><a href="/essays"><span>{{ grouped.essay.count }}</span><span>Essays</span></a></dd>
+            <dd><a href="/tutorials"><span>{{ grouped.tutorial.count }}</span><span>Tutorials</span></a></dd>
+            <dd><a href="/noteworthy"><span>{{ grouped.noteworthy.count }}</span><span>Noteworthy</span></a></dd>
+            <dd><a href="/thoughts"><span>{{ grouped.thought.count }}</span><span>Thoughts</span></a></dd>
+            <dd><a href="/glossary"><span>{{ grouped.glossary.count }}</span><span>Glossary</span></a></dd>
             <dd><a href="/stubs"><span>{{ stubs.length }}</span><span>Stubs</span></a></dd>
             <dd><a href="/writing" title="View all Writing (archive)"><small>View all <span aria-hidden="true">→</span></small></a></dd>
         </dl>
@@ -30,8 +30,8 @@
         </dl>
         <dl> 
             <dt>Resources</dt>
-            <dd><a href="/resources/bookmarks"><span>{{ resources.bookmarks.length }}</span><span>Bookmarks</span></a></dd>
-            <dd><a href="/resources/quotes"><span>{{ resources.quotes.length }}</span><span>Quotes</span></a></dd>
+            <dd><a href="/resources/bookmarks"><span>{{ resources.bookmarks.count }}</span><span>Bookmarks</span></a></dd>
+            <dd><a href="/resources/quotes"><span>{{ resources.quotes.count }}</span><span>Quotes</span></a></dd>
             <dd><a href="/resources" title="View all Resources (archive)"><small>View all <span aria-hidden="true">→</span></small></a></dd>
         </dl>
         <dl>
