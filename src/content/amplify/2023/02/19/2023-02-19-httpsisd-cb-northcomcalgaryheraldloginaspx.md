@@ -5,5 +5,6 @@ link: 'https://isd-cb-north.com/calgaryherald/login.aspx'
 slug: 2023-02-19-httpsisd-cb-northcomcalgaryheraldloginaspx
 tags: []
 title: 'https://isd-cb-north.com/calgaryherald/login.aspx'
+public: false
 ---
 

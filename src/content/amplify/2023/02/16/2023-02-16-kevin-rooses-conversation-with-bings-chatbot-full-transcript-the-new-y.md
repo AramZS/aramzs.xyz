@@ -4,7 +4,7 @@ isBasedOn: 'https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcrip
 link: 'https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html'
 slug: >-
   2023-02-16-kevin-rooses-conversation-with-bings-chatbot-full-transcript-the-new-y
-tags: []
-title: 'Kevin Roose’s Conversation With Bing’s Chatbot: Full Transcript - The New Y'
+tags: ["ai"]
+title: 'Kevin Roose’s Conversation With Bing’s Chatbot: Full Transcript'
 ---
 

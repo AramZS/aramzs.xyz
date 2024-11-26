@@ -6,7 +6,7 @@ link: >-
   https://www.newyorker.com/culture/persons-of-interest/the-rules-according-to-pamela-paul
 slug: >-
   2023-02-16-httpswwwnewyorkercomculturepersons-of-interestthe-rules-according-to-pamela-paul
-tags: []
+tags: ["media"]
 title: >-
   https://www.newyorker.com/culture/persons-of-interest/the-rules-according-to-pamela-paul
 ---

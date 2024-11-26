@@ -1,5 +1,5 @@
 module.exports = {
-  contentType: 'amplify',
+//  sideContentType: 'amplify',
   permalinkBase: 'amplify',
   excludeFromFeed: true
 };
