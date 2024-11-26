@@ -6,7 +6,7 @@ link: >-
   https://www.niemanlab.org/2024/06/is-journalisms-trust-problem-about-money-not-politics/
 slug: >-
   2024-06-26-is-journalisms-trust-problem-about-money-not-politics-or-nieman-journalis
-tags: []
+tags: ["journalism", "media"]
 title: 'Is journalism’s trust problem about money, not politics? | Nieman Journalis'
 ---
  
