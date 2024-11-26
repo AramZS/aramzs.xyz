@@ -5,7 +5,7 @@ isBasedOn: >-
 link: >-
   https://getpocket.com/explore/item/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told
 slug: 2024-07-17-the-full-story-of-the-stunning-rsa-hack-can-finally-be-told
-tags: []
+tags: ["tech", "infosec"]
 title: The Full Story of the Stunning RSA Hack Can Finally Be Told
 ---
  

@@ -6,7 +6,7 @@ link: >-
   https://www.bloomberg.com/news/articles/2024-07-19/mark-zuckerberg-calls-donald-trump-badass-without-endorsing-for-president?sref=fqqmZ8gi
 slug: >-
   2024-07-19-mark-zuckerberg-calls-donald-trump-badass-without-endorsing-for-president
-tags: []
+tags: ["tech", "politics"]
 title: Mark Zuckerberg Calls Donald Trump 'Badass' Without Endorsing for President
 ---
  

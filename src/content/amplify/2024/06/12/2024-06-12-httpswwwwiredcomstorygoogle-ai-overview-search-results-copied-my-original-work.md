@@ -6,7 +6,7 @@ link: >-
   https://www.wired.com/story/google-ai-overview-search-results-copied-my-original-work/
 slug: >-
   2024-06-12-httpswwwwiredcomstorygoogle-ai-overview-search-results-copied-my-original-work
-tags: []
+tags: ["ai", "search"]
 title: >-
   https://www.wired.com/story/google-ai-overview-search-results-copied-my-original-work/
 ---

@@ -6,7 +6,7 @@ link: >-
   https://www.6sqft.com/a-million-nyc-households-could-lose-affordable-high-speed-internet/
 slug: >-
   2024-05-29-nearly-a-million-nyc-households-could-lose-affordable-high-speed-internet
-tags: []
+tags: ["tech", "nyc"]
 title: Nearly a million NYC households could lose affordable high-speed internet
 ---
  

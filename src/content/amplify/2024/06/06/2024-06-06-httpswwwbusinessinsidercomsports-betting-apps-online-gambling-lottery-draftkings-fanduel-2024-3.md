@@ -6,7 +6,7 @@ link: >-
   https://www.businessinsider.com/sports-betting-apps-online-gambling-lottery-draftkings-fanduel-2024-3
 slug: >-
   2024-06-06-httpswwwbusinessinsidercomsports-betting-apps-online-gambling-lottery-draftkings-fanduel-2024-3
-tags: []
+tags: ["tech", "gambling"]
 title: >-
   https://www.businessinsider.com/sports-betting-apps-online-gambling-lottery-draftkings-fanduel-2024-3
 ---

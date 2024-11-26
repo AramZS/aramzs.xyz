@@ -5,7 +5,7 @@ isBasedOn: >-
 link: >-
   https://www.missionmag.org/seeking-new-sounds-how-spotify-influences-musical-discovery/
 slug: 2024-07-18-seeking-new-sounds-how-spotify-influences-musical-discovery-mission
-tags: []
+tags: ["music"]
 title: Seeking New Sounds - How Spotify Influences Musical Discovery - Mission
 ---
  
