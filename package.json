@@ -23,7 +23,8 @@
     "write:pocket-info-user": "node -e \"console.log('POCKET_UN=\\\"'+$(sed '3q;d' .env-json.json).username.trim()+'\\\"');\" >> .env",
     "write:pocket-info-access": "node -e \"console.log('ACCESS_TOKEN=\\\"'+$(sed '3q;d' .env-json.json).access_token.trim()+'\\\"');\" >> .env",
     "activate:pocket": "node_modules/pocket-auth-cli/bin/pocket-auth $CON_KEY > .env-json.json && total_string=\"CON_KEY=\\\"$CON_KEY\\\"\" && echo $total_string > .env && npm run write:pocket-info-access && npm run write:pocket-info-user && node -e 'var w = require(\"./bin/enrichers/pocket-api.js\"); w.writeAmplify()'",
-    "get:pocket": "node node_modules/dotenv-cli/cli.js -- npm run activate:pocket"
+    "get:pocket": "node node_modules/dotenv-cli/cli.js -- npm run activate:pocket",
+    "update:subtree-html": "git subtree pull --prefix plugins/netlify-plugin-html-minify git@github.com:AramZS/netlify-plugin-html-minify.git master --squash"
   },
   "bin": {
     "add-bookmark": "./bin/add-bookmark.js",
