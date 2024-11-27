@@ -1,9 +1,11 @@
 [[plugins]]
 package = "netlify-plugin-cache"
-package = "@netlify/plugin-local-install-core"
 
 [plugins.inputs]
 paths = [".cache"]
+
+[[plugins]]
+package = "@netlify/plugin-local-install-core"
 
 # Config for the Netlify Build Plugin: netlify-plugin-minify-html
 [[plugins]]
