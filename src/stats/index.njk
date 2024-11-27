@@ -5,7 +5,7 @@ folder: [writing]
 
 {% set title = 'Content Stats' %}
 {% set titlePrefix = 'Writing' %}
-{% set postStats = collections.post | excludeTypes(['mirror', 'resource']) | excludeStubs | collectionStats %}
+{% set postStats = collections.post | excludeTypes(['mirror', 'resource', 'amplify']) | excludeStubs | collectionStats %}
 {% set subTitle = 'A shameless copy of <a href="https://timharek.no/stats/">Tim Hårek Andreassen\'s blog stats page</a>' %}
 {% set headingClass = 'stats__header' %}
 
