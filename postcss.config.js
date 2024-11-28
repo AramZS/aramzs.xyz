@@ -25,4 +25,5 @@ if (process.env.ELEVENTY_ENV === 'production') {
 module.exports = {
     plugins,
     configLocation: './postcss.config.js',
+    env: process.env.ELEVENTY_ENV
 };
