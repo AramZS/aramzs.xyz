@@ -3,7 +3,7 @@ description: Information about amplification on this site.
 permalink: /amplify/index.html
 folder: amplify
 ---
-
+{% set simpleNav = true %} 
 {% extends "layouts/page.njk" %}
 
 {% set allPosts = collections.contentTypes | findBySlug('amplify') | values('items') %}

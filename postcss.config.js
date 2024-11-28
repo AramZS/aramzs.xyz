@@ -21,7 +21,9 @@ if (process.env.ELEVENTY_ENV === 'production') {
         require('postcss-minify'),
     ];
 }
-
+// everything other than plugins here gets passed in as `options`. 
 module.exports = {
-    plugins
+    plugins,
+    configLocation: './postcss.config.js',
+    env: process.env.ELEVENTY_ENV
 };

@@ -2,7 +2,7 @@
 <nav class="dates-list">
     <h2>{{ collectionTerm }} throughout the seasons</h2>
 
-    {% set allPosts = collections.post | excludeStubs | excludeTypes(['mirror']) | reverse %}
+    {% set allPosts = collections.post | excludeStubs | excludeTypes(['mirror', 'amplify']) | reverse %}
     {% set postsByYear = allPosts | filterByWritingOnly | groupByYear %}
 
     <ol class="post-list">

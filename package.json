@@ -19,7 +19,8 @@
     "make:pocket": "node -e 'var w = require(\"./bin/enrichers/pocket.js\"); w.writeAmplify().then(() => console.log(\"complete write amplify\"))' > ./buildlog.txt",
     "make:books": "node -e 'var w = require(\"./bin/enrichers/books.js\"); w.writeBooks().then(() => console.log(\"complete books\"))' > ./buildlog.txt",
     "make:noteworthy": "node ./bin/add-noteworthy.js",
-    "set:pocket": "npm run make:pocket && git add src/content/amplify/* && git add to-process/ril_export.html && git commit -m \"chore: new amplify\""
+    "set:pocket": "npm run make:pocket && git add src/content/amplify/* && git add to-process/ril_export.html && git commit -m \"chore: new amplify\"",
+    "subtree:update": "git subtree pull --prefix plugins/netlify-plugin-html-minify git@github.com:AramZS/netlify-plugin-html-minify.git master --squash"
   },
   "bin": {
     "add-bookmark": "./bin/add-bookmark.js",
@@ -66,11 +67,12 @@
     "markdown-it-link-attributes": "^4.0.1",
     "markdown-it-replace-link": "^1.2.1",
     "markdown-it-todo": "^1.0.5",
+    "netlify-cli": "^17.37.2",
     "netlify-plugin-cache": "^1.0.3",
     "node-fetch": "^2.6.7",
     "normalize.css": "^8.0.1",
     "postcss": "^8.4.16",
-    "postcss-import": "^15.0.0",
+    "postcss-import": "^15.1.0",
     "postcss-minify": "^1.1.0",
     "puppeteer": "^17.1.3",
     "rss-parser": "^3.13.0",
@@ -80,6 +82,7 @@
   },
   "dependencies": {
     "@11ty/eleventy-img": "^3.1.8",
+    "@11ty/eleventy-plugin-directory-output": "^1.0.1",
     "cheerio": "^1.0.0-rc.12",
     "colorthief": "^2.4.0",
     "convert-csv-to-json": "^2.49.0",
@@ -88,6 +91,7 @@
     "enquirer": "^2.3.6",
     "js-yaml": "^4.1.0",
     "outdent": "^0.8.0",
+    "postcss-load-config": "^6.0.1",
     "simple-git": "^3.20.0",
     "yargs": "^17.7.2"
   }
