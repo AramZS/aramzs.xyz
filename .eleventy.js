@@ -3,6 +3,7 @@ const collections = require("./lib/collections");
 const { slugify } = require("./lib/filters");
 const shortcodes = require("./lib/shortcodes");
 const transforms = require("./lib/transforms");
+const extensions = require("./lib/extensions");
 const asyncFilters = require('./lib/async-filters');
 const ObjectCache = require("./lib/helpers/cache");
 const fs = require("fs");
@@ -104,7 +105,7 @@ module.exports = function (eleventyConfig) {
 		}
 	);
 
-	eleventyConfig.addPlugin(require("eleventy-plugin-postcss"));
+	//eleventyConfig.addPlugin(require("eleventy-plugin-postcss"));
 
 	eleventyConfig.addPlugin(
 		require("@photogabble/eleventy-plugin-blogtimes"),
@@ -217,6 +218,12 @@ module.exports = function (eleventyConfig) {
 */
 	Object.keys(transforms).forEach((transformName) => {
 		eleventyConfig.addTransform(transformName, transforms[transformName]);
+	});
+
+  eleventyConfig.addTemplateFormats('css');
+
+  Object.keys(extensions).forEach((extensionName) => {
+		eleventyConfig.addExtension(extensionName, extensions[extensionName]);
 	});
 
 	Object.keys(shortcodes).forEach((shortCodeName) => {
