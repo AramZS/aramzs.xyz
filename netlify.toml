@@ -25,3 +25,8 @@ contexts = [
 # https://github.com/kangax/html-minifier#options-quick-reference
 [plugins.inputs.minifierOptions]
 collapseInlineTagWhitespace = false
+collapseWhitespace = true
+conservativeCollapse = true
+preserveLineBreaks = false
+removeComments = true
+useShortDoctype = true

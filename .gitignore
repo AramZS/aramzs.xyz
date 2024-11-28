@@ -17,3 +17,6 @@ gh-pages
 gh-pages.pub
 testLast.html
 .env-json.json
+
+# Local Netlify folder
+.netlify
