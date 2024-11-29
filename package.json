@@ -20,6 +20,10 @@
     "make:books": "node -e 'var w = require(\"./bin/enrichers/books.js\"); w.writeBooks().then(() => console.log(\"complete books\"))' > ./buildlog.txt",
     "make:noteworthy": "node ./bin/add-noteworthy.js",
     "set:pocket": "npm run make:pocket && git add src/content/amplify/* && git add to-process/ril_export.html && git commit -m \"chore: new amplify\"",
+    "write:pocket-info-user": "node -e \"console.log('POCKET_UN=\\\"'+$(sed '3q;d' .env-json.json).username.trim()+'\\\"');\" >> .env",
+    "write:pocket-info-access": "node -e \"console.log('ACCESS_TOKEN=\\\"'+$(sed '3q;d' .env-json.json).access_token.trim()+'\\\"');\" >> .env",
+    "activate:pocket": "node_modules/pocket-auth-cli/bin/pocket-auth $CON_KEY > .env-json.json && total_string=\"CON_KEY=\\\"$CON_KEY\\\"\" && echo $total_string > .env && npm run write:pocket-info-access && npm run write:pocket-info-user && node -e 'var w = require(\"./bin/enrichers/pocket-api.js\"); w.writeAmplify()'",
+    "get:pocket": "node node_modules/dotenv-cli/cli.js -- npm run activate:pocket",
     "subtree:update": "git subtree pull --prefix plugins/netlify-plugin-html-minify git@github.com:AramZS/netlify-plugin-html-minify.git master --squash"
   },
   "bin": {
@@ -50,7 +54,7 @@
     "characterset": "^2.0.0",
     "cross-env": "^7.0.3",
     "csv-parse": "^5.5.6",
-    "dotenv": "^16.4.4",
+    "dotenv": "^16.4.5",
     "eleventy-plugin-postcss": "^1.0.4",
     "esbuild": "^0.20.2",
     "flat-cache": "^3.0.4",
@@ -88,9 +92,12 @@
     "convert-csv-to-json": "^2.49.0",
     "csv": "^6.3.10",
     "csvtojson": "^2.0.10",
+    "dotenv-cli": "^7.4.4",
     "enquirer": "^2.3.6",
     "js-yaml": "^4.1.0",
     "outdent": "^0.8.0",
+    "pocket-api": "^1.0.2",
+    "pocket-auth-cli": "^1.0.0",
     "postcss-load-config": "^6.0.1",
     "simple-git": "^3.20.0",
     "yargs": "^17.7.2"

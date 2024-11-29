@@ -119,7 +119,7 @@ const processPocketExport = async (offset) => {
   // Read the string from pocket-since.txt
   let since = false; // Default value if file does not exist or is empty
   if (fs.existsSync(filePath)) {
-    //since = fs.readFileSync(filePath, 'utf8').trim();
+      since = fs.readFileSync(filePath, 'utf8').trim();
   }  
 
   let pocket = new getPocket(consumer_key);
