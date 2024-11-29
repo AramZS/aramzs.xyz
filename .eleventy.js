@@ -16,16 +16,18 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
 	// So that file creation on `.before` doesn't trigger a rebuild
 	eleventyConfig.setWatchThrottleWaitTime(5000);
-  eleventyConfig.addPlugin(directoryOutputPlugin, {
-    // Customize columns
-    columns: {
-      filesize: true, // Use `false` to disable
-      benchmark: true, // Use `false` to disable
-    },
+  if (process.env.IS_LOCAL === "true"){
+    eleventyConfig.addPlugin(directoryOutputPlugin, {
+      // Customize columns
+      columns: {
+        filesize: true, // Use `false` to disable
+        benchmark: true, // Use `false` to disable
+      },
 
-    // Will show in yellow if greater than this number of bytes
-    warningFileSize: 400 * 1000,
-  });
+      // Will show in yellow if greater than this number of bytes
+      warningFileSize: 400 * 1000,
+    });
+  }
 	eleventyConfig.on(
 		"eleventy.before",
 		async ({ dir, runMode, outputMode }) => {
