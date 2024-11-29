@@ -16,16 +16,18 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
 	// So that file creation on `.before` doesn't trigger a rebuild
 	eleventyConfig.setWatchThrottleWaitTime(5000);
-  eleventyConfig.addPlugin(directoryOutputPlugin, {
-    // Customize columns
-    columns: {
-      filesize: true, // Use `false` to disable
-      benchmark: true, // Use `false` to disable
-    },
+  if (process.env.IS_LOCAL === "true"){
+    eleventyConfig.addPlugin(directoryOutputPlugin, {
+      // Customize columns
+      columns: {
+        filesize: true, // Use `false` to disable
+        benchmark: true, // Use `false` to disable
+      },
 
-    // Will show in yellow if greater than this number of bytes
-    warningFileSize: 400 * 1000,
-  });
+      // Will show in yellow if greater than this number of bytes
+      warningFileSize: 400 * 1000,
+    });
+  }
 	eleventyConfig.on(
 		"eleventy.before",
 		async ({ dir, runMode, outputMode }) => {
@@ -265,13 +267,15 @@ module.exports = function (eleventyConfig) {
 		}
 	});
  */
-
+  eleventyConfig.ignores.add("src/content/amplify/2023/**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/01/**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/02/**");
+  // eleventyConfig.ignores.add("src/content/amplify/2024/03/**");
+  // eleventyConfig.ignores.add("src/content/amplify/2024/04/**");
+  // eleventyConfig.ignores.add("src/content/amplify/2024/05/**");
   // Dev Time Build Ignores 
   if (process.env.IS_LOCAL === "true"){
-    eleventyConfig.ignores.add("src/content/amplify/2023**");
-    eleventyConfig.ignores.add("src/content/amplify/2024-01**");
-    eleventyConfig.ignores.add("src/content/amplify/2024-02**");
-    eleventyConfig.ignores.add("src/content/amplify/2024-03**");
+
     //eleventyConfig.ignores.add("src/content/resources/film/[e-t]**");
     // eleventyConfig.ignores.add("src/content/resources/film/b[u-z]**");
     eleventyConfig.ignores.add("src/content/resources/film/t**");

@@ -55,6 +55,7 @@ const transformExportToJSON = (data) => {
       content: '',
       isBasedOn: aChild.href,
       slug: slugger(dateFileString + "-" + aChild.textContent),
+      dateFolder: `${year}/${month}/${day}`
     }
     console.log('dataset', dataSet);
     return dataSet;
@@ -75,7 +76,7 @@ const writeLinkToAmplify = (linkObj) => {
   return processObjectToMarkdown(
     "title",
     "content",
-    "./src/content/amplify",
+    `./src/content/amplify/${linkObj.dateFolder}`,
     linkObj
   )
 }
