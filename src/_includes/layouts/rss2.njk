@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>{{ metadata.title }}</title>
+	<atom:link href="{{ metadata.feedUrl }}" rel="self" type="application/rss+xml" />
+	<link>{{ metadata.url }}</link>
+	<description>{{ metadata.subtitle }}</description>
+	<lastBuildDate>{{ metadata.lastBuildDate }}</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://11ty.dev/</generator>
+	<managingEditor>
+		{{ metadata.author.email }} ({{ metadata.author.name }})
+	</managingEditor>
+	{%- for post in postList %}
+	{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  {% set postContent = post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) %}
+  {%- if post.data.cite and post.data.cite.href or post.data.referringUri or post.data.isBasedOn or post.data.canonical -%}
+      {%- set citeAnchorText = "link" -%}
+      {%- if post.data.cite and post.data.cite.name -%}
+        {%- set citeAnchorText = post.data.cite.name -%}
+      {%- endif -%}
+      {%- if post.data.cite and post.data.cite.author -%}
+        {%- set citeAnchorText = citeAnchorText + " by " + post.data.cite.author -%}
+      {%- endif -%}
+      {% set externalLink = post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite.href %}
+      {% set anchorText = citeAnchorText | stripAllQuotes %}
+      {%- set postContent = post.templateContent + '<p>Read the article at <a href="' + externalLink + '">' + anchorText + '</a></p>' + '<br></br><img src="/feed-img.svg" width="50" height="50" alt="Site logo">' | htmlToAbsoluteUrls(absolutePostUrl) -%}                                
+  {% endif %}
+  {% set finalDescription = post.data.excerpt or post.data.description or "An aramzs.xyz post" %}
+	<item>
+		<title>{{ post.data.title | escapeForRSS | safe }}</title>
+    {% if post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite and post.data.cite.href -%}
+      <link>{{post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite.href }}</link>
+    {%- else -%}
+      <link>{{ absolutePostUrl }}</link>
+    {%- endif %}
+		<pubDate>{{ post.date.toUTCString() }}</pubDate>
+		<dc:creator>{{ metadata.author.name }}</dc:creator>
+		<guid isPermaLink="true">{{ absolutePostUrl }}</guid>
+		<description>{{ finalDescription | escapeForRSS }}</description>
+		<content:encoded><![CDATA[{{ postContent | safe}}]]></content:encoded>
+		{%- for tag in post.data.tags %}
+		    <category><![CDATA[{{tag}}]]></category>
+		{%- endfor %}
+	</item>
+	{%- endfor %}
+	</channel>
+</rss>

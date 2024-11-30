@@ -1,0 +1,27 @@
+---js
+{
+  "eleventyExcludeFromCollections": true,
+  "folder": "amplify",
+  "permalink": "/amplify/rss/index.xml",
+  "metadata": {
+    "url": (function(){ return process.env.DOMAIN + "/" })(),
+	  "lastBuildDate": (function(){
+		  var date = new Date();
+		  return date.toUTCString()
+	  })(),
+    "title": "Amplify RSS Feed",
+    "subtitle": "A feed of all the articles I've saved to read or think others should read.",
+    "feedUrl": "https://aramzs.xyz/amplify/rss/index.xml",
+    "author": {
+      "name": "Aram Zucker-Scharff",
+      "email": "xyz@aramzs.me"
+    }
+  },
+  "internalPageTypes": [ "feed" ]
+}
+---
+
+{% extends "layouts/rss2.njk" %}
+
+{% set allPosts = collections.contentTypes | findBySlug('amplify') | values('items') %}
+{% set postList = allPosts.slice(0, 100) %}

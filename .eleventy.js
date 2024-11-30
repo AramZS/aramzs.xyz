@@ -12,6 +12,19 @@ const directoryOutputPlugin = require("@11ty/eleventy-plugin-directory-output");
 
 require("dotenv").config();
 
+require("dotenv").config();
+
+let domain_name = "https://aramzs.xyz";
+let throwOnUndefinedSetting = false;
+
+if (process.env.IS_LOCAL) {
+	domain_name = "http://localhost:8080";
+	throwOnUndefinedSetting = true;
+	console.log("Dev env");
+}
+
+process.env.DOMAIN = domain_name;
+
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
 	// So that file creation on `.before` doesn't trigger a rebuild

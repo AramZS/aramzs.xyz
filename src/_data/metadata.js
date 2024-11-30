@@ -10,7 +10,7 @@ module.exports = {
 	author: {
 		name: "Aram Zucker-Scharff",
     shortname: "Aram",
-		email: "aramzs@hacktext.com",
+		email: "xyz@aramzs.me",
 	},
   defaultSocialImage: "zs-favicon-1200-600.png"
 };
