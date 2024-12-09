@@ -2,6 +2,8 @@
 title: For 8 Months, Traffic Enforcement on New Jersey’s Highways Plummeted
 tags:
   - list/in-the-news
+  - acab
+  - law and order
 cite:
   name: For 8 Months, Traffic Enforcement on New Jersey’s Highways Plummeted
   author: Tracey Tully
