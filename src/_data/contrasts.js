@@ -47,6 +47,12 @@ module.exports = {
     ["#58B9FF", "#850C0C"], //https://botsin.space/@randomColorContrasts/112592978051712717
     ["#b3c5cc", "#000000", "#ffffff", "#b6b8ba", "#ecd8a0", "#e3ac98"],
     ["#ffffff", "#b3c5cc", "#000000", "#b6b8ba", "#ecd8a0", "#e3ac98"], // https://www.texasobserver.org/white-people-rural-arkansas-recession-forgotten-girls/
+    ["#52c2a8", "#c91618", "#a87559", "#db626d", "#9ddacb", "#733e34"], // DAN DA DAN S1E4 17:43
+    ["#06fde8", "#fdb160", "#fd3927", "#d9ffd7"], // https://www.tumblr.com/warakami-vaporwave/749232140506529792?source=share
+    ["#231c2e", "#d6c699", "#fd5c61", "#03415f", "#725071", "#ff5676", "#ff7955", "#f5a045"], // https://www.tumblr.com/warakami-vaporwave/767670438095716352?source=share
+    ["#fdfed2", "#fc3388", "#fe8a42", "#4bb3cc", "#c1b9fe", "#a9a53f", "#f9dbb8", "#feb2e0"],
+    ["#000000", "#02aeee", "#fff800", "#85c89d", "#fff696", "#f599c0", "#80a5dc"], // https://64.media.tumblr.com/baf3db5d0c08494e0d5113da98697959/073e57456067860a-a3/s640x960/a6a2f3f3a3b61cd94e0aa8890910f262de99f11e.jpg
+    ["#d2c7bf", "#e5cc60", "#3a81a0", "#bf808d", "#130f0f", "#b46293" ], // https://64.media.tumblr.com/6e70a76ae158b0a137c560d364f8d152/e4fed1fba016716d-e0/s1280x1920/f1d14d477733f742903f3fd8508dd3afb0cf441b.pnj
 	]
 };
 
