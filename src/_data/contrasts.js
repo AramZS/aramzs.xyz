@@ -53,6 +53,8 @@ module.exports = {
     ["#fdfed2", "#fc3388", "#fe8a42", "#4bb3cc", "#c1b9fe", "#a9a53f", "#f9dbb8", "#feb2e0"],
     ["#000000", "#02aeee", "#fff800", "#85c89d", "#fff696", "#f599c0", "#80a5dc"], // https://64.media.tumblr.com/baf3db5d0c08494e0d5113da98697959/073e57456067860a-a3/s640x960/a6a2f3f3a3b61cd94e0aa8890910f262de99f11e.jpg
     ["#d2c7bf", "#e5cc60", "#3a81a0", "#bf808d", "#130f0f", "#b46293" ], // https://64.media.tumblr.com/6e70a76ae158b0a137c560d364f8d152/e4fed1fba016716d-e0/s1280x1920/f1d14d477733f742903f3fd8508dd3afb0cf441b.pnj
+    ["#b4dbf3", "#d76d95", "#0198e4", "#46df91", "#eb7582", "#015447", "#5ed7d8", "#121021"], // Jentry Chau vs the Underworld, S1E2 18:58
+    ["#26261e", "#d75ec3", "#d6e17a", "#446e74", "#d9cb71", "#14e369", "#874329", "#db8faa", "#6b93c1", "#3f316b", "#7839dc", "#38be9b"], // Jentry Chau vs the Underworld, S1E2 18:58
 	]
 };
 
