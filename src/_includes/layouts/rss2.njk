@@ -23,6 +23,7 @@
 	</managingEditor>
 	{%- for post in postList %}
 	{% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  {% set sitePageUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
   {% set postContent = post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) %}
   {%- if post.data.cite and post.data.cite.href or post.data.referringUri or post.data.isBasedOn or post.data.canonical -%}
       {%- set citeAnchorText = "link" -%}
@@ -39,7 +40,9 @@
   {% set finalDescription = post.data.excerpt or post.data.description or "An aramzs.xyz post" %}
 	<item>
 		<title>{{ post.data.title | escapeForRSS | safe }}</title>
-    {% if post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite and post.data.cite.href -%}
+    {% if post.data.linkInternal -%}
+      <link>{{sitePageUrl}}</link>    
+    {% elseif post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite and post.data.cite.href -%}
       <link>{{post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite.href }}</link>
     {%- else -%}
       <link>{{ absolutePostUrl }}</link>

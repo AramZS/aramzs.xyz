@@ -20,6 +20,7 @@
     {%- for post in postsList | reverse %}
         {%- if loop.index0 "<" 10 -%}
             {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+            {% set sitePageUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
             {% set postContent = post.templateContent %}
             {%- if post.data.cite and post.data.cite.href or post.data.referringUri or post.data.isBasedOn or post.data.canonical -%}
               {%- set citeAnchorText = "link" -%}
@@ -35,7 +36,9 @@
             {% endif %}
             <entry>
                 <title>{{ post.data.title }}</title>
-                {%- if post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite and post.data.cite.href -%}
+                {%- if post.data.linkInternal -%}
+                <link href="{{sitePageUrl}}" />    
+                {%- elseif post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite and post.data.cite.href -%}
                 <link href="{{post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite.href }}"/>
                 {%- else -%}
                 <link href="{{ absolutePostUrl }}"/>

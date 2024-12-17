@@ -7,7 +7,7 @@ cite:
   author: Elizabeth Lopatto
   href: >-
     https://www.theverge.com/2024/12/5/24313222/chatgpt-pardon-biden-bush-esquire
-
+linkInternal: true
 ---
 
 This article is great at noting how ridiculous and harmful the framing of products like ChatGPT. I also noted on [Bluesky](https://bsky.app/profile/chronotope.aramzs.xyz/post/3lcih4gj4w32w): 
