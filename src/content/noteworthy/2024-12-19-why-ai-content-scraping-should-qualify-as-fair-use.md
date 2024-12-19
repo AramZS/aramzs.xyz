@@ -1,5 +1,5 @@
 ---
-title: Why AI content scraping should qualify as fair use
+title: The questions to ask when considering if AI content scraping should qualify as fair use
 tags:
   - Notable Articles
   - tech
