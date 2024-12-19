@@ -2,6 +2,11 @@
 title: Stop using generative AI as a search engine
 tags:
   - list/in-the-news
+  - tech
+  - ai
+  - "series:Generative AI is Bad For Us"
+series: Generative AI is Bad For Us
+group: Generative AI is Bad For Us
 cite:
   name: Stop using generative AI as a search engine
   author: Elizabeth Lopatto

@@ -4,6 +4,9 @@ tags:
   - Notable Articles
   - ai
   - tech
+  - "series:Generative AI is Bad For Us"
+series: Generative AI is Bad For Us
+group: Generative AI is Bad For Us
 cite:
   name: The phony comforts of useful idiots
   author: Edward Ongweso Jr

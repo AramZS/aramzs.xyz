@@ -6,6 +6,9 @@ tags:
   - tech
   - politics
   - labor
+  - "series:Generative AI is Bad For Us"
+series: Generative AI is Bad For Us
+group: Generative AI is Bad For Us
 cite:
   name: Defining AI
   author: Ali Alkhatib
