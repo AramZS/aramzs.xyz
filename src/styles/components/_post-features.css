@@ -17,3 +17,7 @@
 .cite-header-block .forward-icon {
   font-size: 100%;
 }
+
+section.page-post p strong {
+  text-shadow: 0px 0px 1px var(--accent), 0px 0px 8px var(--foreground-muted);
+}
