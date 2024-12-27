@@ -13,7 +13,7 @@ link: >-
   https://www.newyorker.com/news/the-lede/what-the-murder-of-the-unitedhealthcare-ceo-brian-thompson-means-to-america
 slug: >-
   2024-12-08-httpswwwnewyorkercomnewsthe-ledewhat-the-murder-of-the-unitedhealthcare-ceo-brian-thompson-means-to-america
-tags: []
+tags: ["law and order", "culture"]
 title: A Man Was Murdered in Cold Blood and You’re Laughing?
 ---
 As you know, the C.E.O. of UnitedHealthcare, fifty-year-old Brian Thompson, was murdered on the street in midtown Manhattan, on Wednesday morning, twenty minutes before sunrise.

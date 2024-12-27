@@ -7,3 +7,13 @@
   border-left: 0px;
   text-align: right;
 }
+
+.cite-header-block {
+  margin: 2px;
+  color: var(--foreground-muted);
+  vertical-align: middle;
+}
+
+.cite-header-block .forward-icon {
+  font-size: 100%;
+}

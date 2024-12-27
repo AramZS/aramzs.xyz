@@ -29,8 +29,25 @@
                 {% elseif title or headerTitle %}
                 <h1>{{ (title or headerTitle) | safe }}</h1>
                 {% endif %}
+
+                <div class="cite-header-block">
+                {% if cite and cite.href or referringUri or isBasedOn or canonical %}
+                    {% set citeTopAnchorText = referringUri or isBasedOn or canonical or cite.href | getBaseURL %}
+                    <span class="forward-icon">⇥</span>
+                    {% if cite and cite.name and cite.name != title %}
+                        {% set citeTopAnchorText = cite.name %}
+                    {% endif %}
+                    <small class="top-cite">
+                    {% if cite and cite.author %}
+                        {{ cite.author }},
+                    {% endif %}
+                    <a href="{{referringUri or isBasedOn or canonical or cite.href }}" target="_blank" title="{{citeTopAnchorText | stripAllQuotes}}">{{citeTopAnchorText}}</a></small>
+                {% endif %}
+                </div>
+
                 {% if subTitle %}<h2>{{ subTitle | safe }}</h2>{% endif %}
             </div>
+
             {% block pageHeaderAfter %}{% endblock %}
         </header>
 

@@ -47,9 +47,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  transition:
-    background-color 300ms,
-    color 200ms;
+  transition: background-color 300ms, color 200ms;
 }
 
 details summary {
@@ -169,7 +167,8 @@ article > header h2 {
   margin: 0;
 }
 
-article > header h1 + h2 {
+article > header h1 + h2,
+article > header h1 + div.cite-header-block + h2 {
   font-size: 1.1rem;
   margin-top: 0;
   font-weight: normal;
@@ -577,7 +576,7 @@ aside.notes ul li {
 }
 
 article#page-post header h1 {
-  font-size: clamp(2rem, 11vw, 6rem);
+  font-size: clamp(2rem, 9vw, 6rem);
 }
 
 article#page-post header {
