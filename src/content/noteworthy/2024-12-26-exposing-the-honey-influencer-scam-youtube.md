@@ -18,4 +18,10 @@ I think that the unique moment of scam hunter influencers has produced the condi
 
 Hopefully someone follows up in a more mainstream platform and finally does the work to chase them off the web. Down with Honey. It is a blight on the web and the potential of the media to run as a stable business online.
 
+More coverage: 
+
+- [The Honey Scam Explained by Marques Brownlee](https://youtu.be/EAx_RtMKPm8?si=cRruoAFQ7ZSy32ao)
+- [How Honey Got Away WIth It (A Developer's Perspective) by Theo](https://youtu.be/cN3tKgzb-dw?si=5xuamtiT0wHjz78w)
+- [The Honey Scam and the Ridiculous Mess of Affiliate Marketing by Hank Green](https://youtu.be/efLN9yZvaWo?si=d_ROAWaHhG5WdGuZ)
+
 > Was Honey a legitimate money saving tool? Or just an affiliate marketing scam promoted by some of YouTube's biggest influencers? [Yes]
