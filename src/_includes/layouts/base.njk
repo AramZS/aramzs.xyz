@@ -39,6 +39,7 @@
     <meta property="og:url" content="{{ mainPageUrl }}"/>
     {%- else -%}
     <meta property="og:url" content="{{ canonical or isBasedOn or mainPageUrl }}"/>
+    <meta property="og:description" content="{{ description or metadata.description }}"/>
     {% endif %}
 
     
