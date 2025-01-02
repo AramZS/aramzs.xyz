@@ -28,3 +28,5 @@ Finally, there is the biggest problem om pretending the chat system is an expert
 I'm not a moron, I don't need you to AI Summarize and article, or AI Pseudo Code it, or AI Make Up an Answer. I also can use ChatGPT et al for free. If I wanted to talk to an AI agent, I would do that, I wouldn't ask you to do it for me. You've lost the point of human interaction. You've completely missed the whole idea of why we talk to each other. You're failing society and I'm going to start becoming concerned about what your values are. 
 
 Don't post AI at me. 
+
+[Also](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/).
