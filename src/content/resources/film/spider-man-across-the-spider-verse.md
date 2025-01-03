@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /9xfDWXAUbFXQK585JvByT5pEAhe.jpg
 cover_image: spider-man-across-the-spider-verse-featured.jpg
