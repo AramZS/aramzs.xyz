@@ -1,5 +1,4 @@
 ---
-Rewatch: 'Yes'
 adult: false
 backdrop_path: /vl8c6eG2i61nqKnU1uXOlYvRalG.jpg
 cover_image: things-heard-and-seen-featured.jpg

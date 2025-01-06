@@ -14,7 +14,7 @@ async function fetchWithBackoff(url, retries = 1, delay = 1000) {
     return fetchWithBackoff(url, retries - 1, delay * 2);
   }
 }
-// reviews, ratings
+
 const films = fs.readFileSync(
 	"./to-process/letterboxd/export/reviews.csv",
 	"utf8"
