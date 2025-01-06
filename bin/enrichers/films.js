@@ -16,7 +16,7 @@ async function fetchWithBackoff(url, retries = 1, delay = 1000) {
 }
 // reviews, diary
 const films = fs.readFileSync(
-	"./to-process/letterboxd/export/diary.csv",
+	"./to-process/letterboxd/export/reviews.csv",
 	"utf8"
 );
 const { processObjectToMarkdown } = require("../json-to-markdown");
@@ -122,7 +122,7 @@ const moviePageBuild = async (mediaName, showData) => {
 	showData.mediaName = showData.mediaName.replaceAll(/^"|"$/gm, "");
 	// Enforce particular requirements for the output
 	if (!showData.hasOwnProperty("watchedDate")) {
-		showData.watchedDate = new Date("2023-12-01").toISOString();
+		showData.watchedDate = new Date().toISOString();
 	}
 	if (showData.hasOwnProperty("Watched Date")) {
 		showData.watchedDate = new Date(showData["Watched Date"]).toISOString();
