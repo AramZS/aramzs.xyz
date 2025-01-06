@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /g1h8OE4ZPg5aLbwUm7DPeCOBuHC.jpg
 cover_image: spaceballs-featured.jpg

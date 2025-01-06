@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /mXELcGjyU0osFfUCiz1YdAn470M.jpg
 cover_image: jackie-brown-featured.jpg

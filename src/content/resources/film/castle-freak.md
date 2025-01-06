@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /gggdkmSWasCCwtEItnvQw9NpFLi.jpg
 cover_image: castle-freak-featured.jpg

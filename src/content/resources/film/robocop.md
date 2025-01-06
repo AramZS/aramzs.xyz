@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg
 cover_image: robocop-featured.jpg

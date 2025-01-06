@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /zRBavxSuEpcv6kPhGVGTDDT23uY.jpg
 cover_image: event-horizon-featured.jpg

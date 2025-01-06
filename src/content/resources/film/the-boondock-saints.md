@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /w2k4BxmSeetAaDWqE8e3NpJq0BK.jpg
 cover_image: the-boondock-saints-featured.jpg

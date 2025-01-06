@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /e8G0YZYDAUtFrGqs2jNzTLoS0Rp.jpg
 cover_image: habit-featured.jpg
@@ -37,4 +38,4 @@ vote_count: 36
 watchedDate: '2023-12-01T00:00:00.000Z'
 year: '1995'
 ---
- 
+It was so good to re-watch this on the big screen at Nighthawk, for the Brooklyn Horror Festival! It has all these amazing details that I missed, watching it before. The way this film moves, the tension, the genre balance, all exceptional. But it would be easy to forget subtle but great shooting choices as well: the moment at the party where the camera pushes in on his face when he's attracted to the woman across the room. The sickining angles on the ferris wheel. The moment out in the rain. The movie is fun and interesting, and it's so engaging it's easy to miss when it's also a gorgeous record of a particular era of NYC as well.

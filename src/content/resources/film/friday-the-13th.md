@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /j1PzqAMU4LzUnz60q9EEqmeX24n.jpg
 cover_image: friday-the-13th-featured.jpg

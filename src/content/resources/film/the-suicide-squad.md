@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg
 cover_image: the-suicide-squad-featured.jpg

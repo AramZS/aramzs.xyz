@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /lIaScLu7ndNWQN2lGc8L8cBIXt4.jpg
 cover_image: anna-and-the-apocalypse-featured.jpg

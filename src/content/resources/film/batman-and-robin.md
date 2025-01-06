@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /tgPFZxhDuxWd4VXYaz8eAUznGTF.jpg
 cover_image: batman-and-robin-featured.jpg

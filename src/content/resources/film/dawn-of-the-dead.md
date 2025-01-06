@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /ex2N7etWyKwDMw7mVhjKrA2GCy6.jpg
 cover_image: dawn-of-the-dead-featured.jpg

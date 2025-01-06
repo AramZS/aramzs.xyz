@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /uozb2VeD87YmhoUP1RrGWfzuCrr.jpg
 cover_image: >-

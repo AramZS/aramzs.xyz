@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /qdd5lrgBYL4fMSwYAhfLUwdJRu1.jpg
 cover_image: war-for-the-planet-of-the-apes-featured.jpg

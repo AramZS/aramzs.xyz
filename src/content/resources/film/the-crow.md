@@ -36,4 +36,4 @@ vote_count: 3771
 watchedDate: '2023-12-01T00:00:00.000Z'
 year: '1994'
 ---
- 
+Sometimes the hero can just skip the "refusing the call' step, like here where it doesn't make a lick of sense.

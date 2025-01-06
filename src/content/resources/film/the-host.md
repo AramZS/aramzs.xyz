@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /f8lQnoUG0UVK6xXOvfoP0alVJrW.jpg
 cover_image: the-host-featured.jpg

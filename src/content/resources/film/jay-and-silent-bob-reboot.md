@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /68I3UBIXgcCpXXEimkvnMQZFKGa.jpg
 cover_image: jay-and-silent-bob-reboot-featured.jpg

@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /r9leYNa8nTRCceZrZhP1DXkgKVb.jpg
 cover_image: the-thing-featured.jpg

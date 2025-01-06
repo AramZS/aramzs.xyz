@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /5uLqjVQlKNR4MbOeuheaRihPxAx.jpg
 cover_image: 10-cloverfield-lane-featured.jpg

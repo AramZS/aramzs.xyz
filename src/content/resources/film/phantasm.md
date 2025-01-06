@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /A9RGeKpuG7KuG5XPLIjHuznUBLP.jpg
 cover_image: phantasm-featured.jpg

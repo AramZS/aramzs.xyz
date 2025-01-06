@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /b9YkKJcW3pPaXgMZu9uoT7v9yRB.jpg
 cover_image: spider-man-into-the-spider-verse-featured.jpg

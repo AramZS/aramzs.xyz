@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg
 cover_image: scream-featured.jpg

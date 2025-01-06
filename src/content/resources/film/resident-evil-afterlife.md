@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /u2kimx9kh16InyhAe6s7Bm5wMr4.jpg
 cover_image: resident-evil-afterlife-featured.jpg

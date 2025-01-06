@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /x7fK0oOUX8Ks1B1lZsACmCXUybI.jpg
 cover_image: catwoman-featured.jpg

@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg
 cover_image: the-shining-featured.jpg

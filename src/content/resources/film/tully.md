@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /808PRFyIR04myiBwBuDlZ0DT2DS.jpg
 cover_image: tully-featured.jpg

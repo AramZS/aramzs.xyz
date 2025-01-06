@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /vl8c6eG2i61nqKnU1uXOlYvRalG.jpg
 cover_image: things-heard-and-seen-featured.jpg
@@ -36,4 +37,4 @@ vote_count: 904
 watchedDate: '2023-12-01T00:00:00.000Z'
 year: '2021'
 ---
- 
+Accidentally watched this movie a second time and didn't realize until the mess kicked in. It is a film that asks you not to pay full attention to it and punishes you when you do. All the more frustrating because the first act and the last scene prove this could have been a lot better, which damns the film even worse.

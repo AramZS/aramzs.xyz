@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg
 cover_image: alien-featured.jpg

@@ -153,7 +153,7 @@ const processObjectToMarkdown = (titleProp, contentProp, pathString, obj, neverO
 			const newContent =
 				oldData.content.length > 3 ? oldData.content : content;
       // Don't touch the file if we don't need to.
-      if (oldData.content.length > 1 && oldData.content == content && deepEqual(newData, oldData.data)) {
+      if (((oldData.content.length > 1 && content.length <= 3) || oldData.content == content) && deepEqual(newData, oldData.data)) {
         return true;
       }
 			return writeDataToMarkdown(

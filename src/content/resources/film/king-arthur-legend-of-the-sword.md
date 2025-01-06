@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /sVkjgKq8cwKm95LCyfrLldLbQIG.jpg
 cover_image: king-arthur-legend-of-the-sword-featured.jpg

@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /x8WHhVifVZ5tC5cPuTEBvMZUzSw.jpg
 cover_image: ghost-ship-featured.jpg

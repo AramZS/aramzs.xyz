@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /5PJP3NaiH9ZJRzrEHLeqSY5rNxb.jpg
 cover_image: resident-evil-apocalypse-featured.jpg

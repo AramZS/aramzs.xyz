@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /g5hN9Kp4ShUcXmnjoaqg3LSWcHr.jpg
 cover_image: casper-featured.jpg

@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /55885wQeb8XISRccwnfVJ7DDJFM.jpg
 cover_image: blade-trinity-featured.jpg

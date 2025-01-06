@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /phWTf9WMNXeCO7W96QdX9Yp0n38.jpg
 cover_image: tenacious-d-in-the-pick-of-destiny-featured.jpg

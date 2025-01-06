@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /nTRVMNxlz4xNE9XnpmVphU40dJd.jpg
 cover_image: drag-me-to-hell-featured.jpg

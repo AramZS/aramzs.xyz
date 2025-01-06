@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg
 cover_image: die-hard-featured.jpg

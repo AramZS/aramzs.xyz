@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /rl6TA8Hhvc3f5LR59WiCBo9QxSa.jpg
 cover_image: scott-pilgrim-vs-the-world-featured.jpg

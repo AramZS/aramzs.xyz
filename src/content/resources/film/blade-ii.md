@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /ftVcl83v6RlH0yiK1Ubkw70VwIf.jpg
 cover_image: blade-ii-featured.jpg

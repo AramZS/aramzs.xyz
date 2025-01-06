@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /dAJwLijbcUJemJaf8HHRjFI5Mte.jpg
 cover_image: mallrats-featured.jpg

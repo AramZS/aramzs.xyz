@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /7SOUwC0hhq37MtcWLfXg5E5ZNXQ.jpg
 cover_image: popstar-never-stop-never-stopping-featured.jpg

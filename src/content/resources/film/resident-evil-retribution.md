@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /fxLktTZcpt8O7JtmlVY6YSfOtOS.jpg
 cover_image: resident-evil-retribution-featured.jpg

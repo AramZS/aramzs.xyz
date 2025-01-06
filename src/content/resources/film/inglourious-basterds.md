@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /1Jpkm9qZcsT0mSyVXgs4VlGjPNI.jpg
 cover_image: inglourious-basterds-featured.jpg

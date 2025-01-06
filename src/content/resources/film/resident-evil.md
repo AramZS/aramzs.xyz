@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /5pGWjnM62Zs0S1xRf3TDL1Xizr.jpg
 cover_image: resident-evil-featured.jpg

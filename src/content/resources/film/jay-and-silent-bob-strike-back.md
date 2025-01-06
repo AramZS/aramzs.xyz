@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /2K4ZRi6bYrl9Ha53uRi4ZyoYuft.jpg
 cover_image: jay-and-silent-bob-strike-back-featured.jpg

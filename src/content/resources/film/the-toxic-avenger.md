@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /ofIwwNjI0TDOPZeAOIXSrXJQqwi.jpg
 cover_image: the-toxic-avenger-featured.jpg
