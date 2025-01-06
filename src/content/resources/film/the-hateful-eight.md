@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /7g1zO5t0bd27Iqn5ZUDJmksOGPJ.jpg
 cover_image: the-hateful-eight-featured.jpg

@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /5hLKTJrwZ8F6c2xLAaWrUdCP2Zi.jpg
 cover_image: hail-satan-featured.jpg

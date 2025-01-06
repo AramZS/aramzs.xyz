@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /yeIpgoZWzbNqkeSYPwhNZQ5xCRX.jpg
 cover_image: faceoff-featured.jpg

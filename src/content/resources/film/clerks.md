@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /2zU6nh8h9WS4aiwoaxgAEv7QPCm.jpg
 cover_image: clerks-featured.jpg

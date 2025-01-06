@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /jqFjgNnxpXIXWuPsyfqmcLXRo9p.jpg
 cover_image: reservoir-dogs-featured.jpg

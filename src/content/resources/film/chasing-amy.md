@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /9dsOweKYJ6XAJteBIKEGOI0T2bf.jpg
 cover_image: chasing-amy-featured.jpg

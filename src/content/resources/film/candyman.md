@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /xENKhotB6aYBlnDH2lE0m2y22v1.jpg
 cover_image: candyman-featured.jpg

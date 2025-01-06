@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /5SUJYI5kdfktjPqSQSj2dpqmaL8.jpg
 cover_image: johnny-mnemonic-featured.jpg

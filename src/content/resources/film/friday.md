@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /eDY7eBe5EE2djDGwdTPhfH9ZcdG.jpg
 cover_image: friday-featured.jpg

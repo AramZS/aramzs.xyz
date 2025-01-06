@@ -1,4 +1,5 @@
 ---
+Rewatch: 'Yes'
 adult: false
 backdrop_path: /4Yihb0wD1Jd2sQtNrKo9TOs8S3l.jpg
 cover_image: dope-featured.jpg
