@@ -151,9 +151,9 @@ const processObjectToMarkdown = (titleProp, contentProp, pathString, obj, neverO
 			// console.log("Old Data", oldData);
 			const newData = { ...obj, ...oldData.data };
 			const newContent =
-				oldData.content.length > 1 ? oldData.content : content;
+				oldData.content.length > 3 ? oldData.content : content;
       // Don't touch the file if we don't need to.
-      if (newContent == content && deepEqual(newData, oldData.data)) {
+      if (oldData.content.length > 1 && oldData.content == content && deepEqual(newData, oldData.data)) {
         return true;
       }
 			return writeDataToMarkdown(
