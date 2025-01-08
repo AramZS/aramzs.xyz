@@ -10,7 +10,7 @@ description: >-
 isBasedOn: 'https://raspberrytips.com/portainer-on-raspberry-pi/'
 link: 'https://raspberrytips.com/portainer-on-raspberry-pi/'
 slug: 2025-01-04-httpsraspberrytipscomportainer-on-raspberry-pi
-tags: []
+tags: ['code']
 title: Install Portainer on Raspberry Pi for Easy Docker Control
 ---
 If you click our links and make a purchase, we may earn an affiliate commission. Learn more If you’re using a Raspberry Pi to run multiple Docker containers, managing them can quickly get complicated.

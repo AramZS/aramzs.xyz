@@ -242,7 +242,55 @@ module.exports = (() => {
         href: "https://en.wikipedia.org/wiki/Trews",
         name: "Wiktionary"
       }
-    }
+    },
+    {
+      term: "Echt",
+      definition:"True or genuine.",
+      cite: {
+        href: "https://www.merriam-webster.com/dictionary/echt",
+        name: "Merriam-Webster"
+      }
+    },   
+    {
+      term: "Amanuensis",
+      definition:"A person employed to write or type what another dictates or to copy what has been written by another. It may also be a person who signs a document on behalf of another under the latter's authority.",
+      cite: {
+        href: "https://en.wikipedia.org/wiki/Amanuensis",
+        name: "Wikipedia"
+      }
+    },
+    {
+      term: "Curring",
+      definition:"To make a murmuring sound (as of doves)",
+      cite: {
+        href: "https://www.merriam-webster.com/dictionary/curring",
+        name: "Merriam-Webster"
+      }
+    }, 
+    {
+      term: "Ludo-Capitalism",
+      definition:"the idea of ludo-capitalism explores the relationship between playing games, having fun/feeling pleasure, and creating value (in an economic sense). [...] If people are willing to perform some activity, which they view as play and from which they derive enough pleasure to keep doing, and another person or entity can create value from that activity, then you are entering the space of ludo-capitalism.",
+      cite: {
+        href: "https://profalexreid.com/2007/11/15/ludo-capitalism/",
+        name: "Alex Reid, professor of digital rhetoric and media, university at Buffalo"
+      }
+    },
+    {
+      term: "Paralipsis",
+      definition:"Paralipsis is from the Greek word paraleipein, which means “to omit,” or “to leave something on one side.” It is defined as a rhetorical device in which an idea is deliberately suggested through a brief treatment of a subject, while most of the significant points are omitted. It is explained through the use of this device that some points are too obvious to mention. Also, paralipsis is a way of emphasizing a subject by apparently passing over it. Example from Merriam-Webster: \"I confine to this page the volume of his treacheries and debaucheries\"",
+      cite: {
+        href: "https://literarydevices.net/paralipsis/",
+        name: "Literary Devices"
+      }
+    },
+    {
+      term: "Splenetic",
+      definition:"used to describe a person who easily becomes angry or annoyed, or their behavior. Marked by a bad temper, spiteful, or malevolent",
+      cite: {
+        href: "https://dictionary.cambridge.org/dictionary/english/splenetic",
+        name: "Cambridge Dictionary"
+      }      
+    }                    
   ].sort((a, b) => {
     if (a.term < b.term) {
       return -1;

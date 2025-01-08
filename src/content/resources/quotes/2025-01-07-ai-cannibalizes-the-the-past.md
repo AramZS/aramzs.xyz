@@ -1,6 +1,4 @@
 ---
-tags: ["Quote"]
-date: '2025-01-07T15:37:49.765Z'
 cite:
     name: Violet B. Fox
     href: https://drive.usercontent.google.com/download?id=1i7f9b6vN4Hojz5SHwV-IMDKBDuFBnzNE&export=download&authuser=0
