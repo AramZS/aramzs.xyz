@@ -35,9 +35,9 @@ We face a new future where bounty hunters will come for people who get abortions
 
 It turns out we don't have to wait for neural implants to allow ad tech to violate our bodily autonomy. Data brokers are set to power the next generation of citizens hunting citizens, and make their next billion doing it. The plans are rolling out in front of us. 
 
-Activist organizations are trying to do good work around these issues, but this front seems mostly ignored by privacy organizations who primarily aim to stop the underlying data sets from being created. This is a great goal, but we cannot ignore these bounty hunting bills either, they threaten to be just as dangerous to the cause of privacy as any other issue. 
+Activist organizations are trying to do good work around these issues, but this front seems mostly ignored by privacy organizations who primarily aim to stop the underlying data sets from being created. This is a great goal, but we cannot ignore these bounty hunting bills either. 
 
-We have to stand up and say no. We have to marshall the privacy movement as strongly against these bills as any other invasive program. 
+We have to stand up and say no. We have to marshall the privacy movement as strongly against these bills as any other program or law that supports invasive surveillance. 
 
 
 > The Missouri GOP is proposing SB 72, which includes a "certified bounty hunter program" to pay private citizens to track down undocumented immigrants.
