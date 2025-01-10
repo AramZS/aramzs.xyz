@@ -17,11 +17,12 @@ cite:
   author: Jessica Kant
   href: https://bsky.app/profile/jessdkant.bsky.social/post/3lf4i2aef2s2u
 linkInternal: true
+growthStage: budding
 ---
 
-I'm seeing a very disturbing trend lately. There appears to be a definite push to create an ecosystem of bounty hunters across America, to allow angry right wing citizens to not just pontificate on the internet, but act as agents of the state to shut down the behaviors they have collectively decided they don't like. 
+I'm seeing a very disturbing trend lately. There appears to be a definite push to create an ecosystem of bounty hunters across America, to allow angry right-wing citizens to not just pontificate on the internet, but act as agents of the state to shut down the behaviors they have collectively decided they don't like. 
 
-It's notable that these types of bounty hunter programs are being created pretty quickly. Also that they are being created specifically to shunt rage at immigration, trans people, and women into extra-judicial action. The goal seems to be to allow the type of people who rant about woke-ness on the internet to not just take action to stop it, but be in the position where that implicitly excuses violence. 
+It's notable that these types of bounty hunter programs are being created pretty quickly. Also that they are being created specifically to shunt rage at immigration, trans people, and women into extra-judicial action. The type of action that implicitly excuses violence. 
 
 Americans love of extra-judicial violence has [been around for a while](https://youtu.be/smQsfNw_7V4?si=NziZidAOro6kjtmi). We've also seen some [very](https://en.wikipedia.org/wiki/Daniel_Penny) [prominent](https://en.wikipedia.org/wiki/George_Zimmerman) examples over the last few years. This take on bounty hunting, however, has a unique property in the modern context and how it has been presented: it is deeply tied into the lack of US privacy laws and the end of [Roe v Wade](https://en.wikipedia.org/wiki/Roe_v._Wade).
 
@@ -31,7 +32,7 @@ The most successful bounty hunters will leverage technology [across hacked datas
 
 [Surveillance capitalism has assured that the systems of commercial ad tech can be very good at tracking you individually](https://tweets.aramzs.com/1574062356409221122/). This tracking turns out to not be particularly useful for marketing, but it is going to be terrifyingly useful for these new bounty hunters. 
 
-We face a new future where bounty hunters will come for people who get abortions; transition their gender; or dare to want to come across a border to live in our country; and spend major money with data brokers and credit score companies to do so. As these bounty hunters become a profit center for data storage and query companies, they will funnel that revenue back into an ever-more-desperate ad tech industry increasing the collection of individualized user data. In turn, this new arena of profit will pay for lobbyists who will make sure the US will never have an effective privacy law. After all, it is in the best interest of the right-wing politicians who are pushing these laws out to make it as easy as possible to for bounty hunters to enforce the new social order they are trying to create. 
+We face a new future where bounty hunters will come for people who get abortions; transition their gender; or dare to want to come across a border to live in our country; and spend major money with data brokers and credit score companies to do so. As these bounty hunters become a profit center for data storage and query companies, they will funnel that revenue back into an ever-more-desperate ad tech industry increasing the collection of individualized user data. In turn, this new arena of profit will pay for lobbyists who will make sure the US will never have an effective privacy law. After all, it is in the best interest of the right-wing politicians who are pushing these laws out to make it as easy as possible for bounty hunters to enforce the new social order they are trying to create. 
 
 It turns out we don't have to wait for neural implants to allow ad tech to violate our bodily autonomy. Data brokers are set to power the next generation of citizens hunting citizens, and make their next billion doing it. The plans are rolling out in front of us. 
 
@@ -40,5 +41,5 @@ Activist organizations are trying to do good work around these issues, but this 
 We have to stand up and say no. We have to marshall the privacy movement as strongly against these bills as any other program or law that supports invasive surveillance. 
 
 
-> The Missouri GOP is proposing SB 72, which includes a "certified bounty hunter program" to pay private citizens to track down undocumented immigrants.
+> In case you're thinking that paying private citizens to report their neighbors, enlisting them as a private secret police and sending those reported for life imprisonment and entry into a mass database that catalogs people deemed undesirable to the state sounds really familiar, it should.
 
