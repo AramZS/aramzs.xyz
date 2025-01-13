@@ -3,7 +3,7 @@ title: Vulture Report on Neil Gaiman Makes it All Too Real
 tags:
   - Notable Articles
 cite:
-  name: Vulture Report on Neil Gaiman Makes it All Too Real
+  name: How the best-selling fantasy author Neil Gaiman hid the darkest parts of himself for decades.
   author: Lila Shapiro
   href: >-
     https://www.vulture.com/article/neil-gaiman-allegations-controversy-amanda-palmer-sandman-madoc.html
