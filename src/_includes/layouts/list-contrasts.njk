@@ -19,12 +19,13 @@
         <ul id="color-contrast-list">
             {%- for colorSet in contrasts.colorSets -%}
                 <li class="color-item">
-                    <div class="color-set" style="background-color: {{ colorSet[0] }}">
-                        {%- for colorHex in colorSet -%}
+                    <div class="color-set" style="background-color: {{ colorSet.colors[0] }}">
+                        {%- for colorHex in colorSet.colors -%}
                         <div class="color-set__swatch-container" style="background-color: {{ colorHex }}80">
                             <div class="color-set__swatch compare-ready-color" style="background-color: {{ colorHex }}"></div>
                         </div>
                         {%- endfor -%}
+                        <div class="extra-colorset-data"></div>
                     </div>
                 </li>
             {%- endfor -%}

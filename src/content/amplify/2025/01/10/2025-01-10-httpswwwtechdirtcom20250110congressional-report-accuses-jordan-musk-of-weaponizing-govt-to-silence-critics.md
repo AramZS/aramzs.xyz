@@ -14,7 +14,7 @@ link: >-
   https://www.techdirt.com/2025/01/10/congressional-report-accuses-jordan-musk-of-weaponizing-govt-to-silence-critics/
 slug: >-
   2025-01-10-httpswwwtechdirtcom20250110congressional-report-accuses-jordan-musk-of-weaponizing-govt-to-silence-critics
-tags: []
+tags: ["politics", "tech"]
 title: >-
   Congressional Report Accuses Jordan, Musk Of Weaponizing Gov’t To Silence
   Critics
