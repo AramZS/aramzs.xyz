@@ -26,7 +26,7 @@ Finally, don't forget you can always print to PDF. If the page is obscured, open
 
 Last time around a lot of folks got real worried, but the admin proved very bad at taking down parts of the federal government's web presence. They're already more effective today than they were in two years of the last time he was in office.
 
-If something does disappear from The Internet Archive, do not get mad at The Archive. Their very existence is at risk [due to the publishing houses' and music labels' bs lawsuits](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/). They are doing what they have to do in order to keep one of humanities greatest achievements keep running. [Donate so they can resist takedowns in the future](https://help.archive.org/help/how-do-i-donate-to-the-internet-archive/)
+If something does disappear from The Internet Archive, do not get mad at The Archive. Their very existence is at risk [due to the publishing houses' and music labels' bs lawsuits](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/). They are doing what they have to do in order to keep one of humanity's greatest achievements keep running. [Donate so they can resist takedowns in the future](https://help.archive.org/help/how-do-i-donate-to-the-internet-archive/)
 
 One last tip: if you believe something is at particular risk to disappear from The Internet Archive and is already offline from the web, you can use all these techniques to archive an Internet Archive page.
 
