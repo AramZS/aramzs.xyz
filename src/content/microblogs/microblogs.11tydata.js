@@ -1,5 +1,5 @@
 module.exports = {
-  contentType: 'microblogs',
+  contentType: 'microblog',
   permalinkBase: 'microblogs',
   excludeFromFeed: false,
 };

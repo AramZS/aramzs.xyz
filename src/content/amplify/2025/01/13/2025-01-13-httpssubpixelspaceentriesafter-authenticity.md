@@ -9,7 +9,7 @@ description: >-
 isBasedOn: 'https://subpixel.space/entries/after-authenticity/'
 link: 'https://subpixel.space/entries/after-authenticity/'
 slug: 2025-01-13-httpssubpixelspaceentriesafter-authenticity
-tags: []
+tags: ["culture"]
 title: After Authenticity
 ---
 Has it occurred to you that nobody talks about sellouts anymore? Recently on my commute I passed someone wearing an Obey shirt. I was reminded of friends and internet commenters on forums I once frequented.
