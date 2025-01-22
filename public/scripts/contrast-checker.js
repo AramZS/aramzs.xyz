@@ -43,7 +43,7 @@ function activateSwatchWatcher() {
       window.colorContrastSet = {background: bgColor, foreground: fgColor}
       const contrastCalc = generateContrastStats();
       placeContrastStats(bgColor, fgColor);
-      swatch.closest('.color-item').append(window['compare']);
+      swatch.closest('.color-set').after(window['compare']);
       window["color-contrast-list"].style.marginTop = "14px";
     });
 

@@ -95,6 +95,10 @@ li .color-set__swatch-container:first-of-type {
   display: inline-block;
 }
 
+.extra-colorset-data {
+  text-align: right;
+}
+
 @media (max-width: 864px) {
   #compare {
     margin: 0;

@@ -25,7 +25,16 @@
                             <div class="color-set__swatch compare-ready-color" style="background-color: {{ colorHex }}"></div>
                         </div>
                         {%- endfor -%}
-                        <div class="extra-colorset-data"></div>
+
+                    </div>
+                    <div class="extra-colorset-data">
+                      {%- if colorSet.source and not colorSet.sourceInfo -%}
+                      <a href="{{ colorSet.source }}" target="_blank">Via.</a>
+                      {% elseif colorSet.source and colorSet.sourceInfo %}
+                      From: <a href="{{ colorSet.source }}" target="_blank">{{ colorSet.sourceInfo }}</a>
+                      {% elseif colorSet.sourceInfo %}
+                      From: {{ colorSet.sourceInfo }}
+                      {%- endif -%}
                     </div>
                 </li>
             {%- endfor -%}
