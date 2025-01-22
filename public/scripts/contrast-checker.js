@@ -45,6 +45,7 @@ function activateSwatchWatcher() {
       placeContrastStats(bgColor, fgColor);
       swatch.closest('.color-set').after(window['compare']);
       window["color-contrast-list"].style.marginTop = "14px";
+      document.getElementById('contrast-colors-info').classList.add('hidden');
     });
 
 
@@ -59,5 +60,10 @@ function activateSwatchWatcher() {
       swatch.style.backgroundColor = background;
       container.style.backgroundColor = foreground;
     });
+  });
+  document.querySelector('#foreground-contraster').addEventListener('click', (event) => {
+    document.getElementById('contrast-colors-info').classList.remove('hidden');
+    document.getElementById('contrast-background-info').innerText = window.colorContrastSet.background;
+    document.getElementById('contrast-foreground-info').innerText = window.colorContrastSet.foreground;
   });
 }

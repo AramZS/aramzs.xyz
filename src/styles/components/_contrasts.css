@@ -89,6 +89,7 @@ li .color-set__swatch-container:first-of-type {
   padding: 12px;
   background-color: var(--background);
   color: var(--foreground);
+  text-align: center;
 }
 
 #results-container div {
