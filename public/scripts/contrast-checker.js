@@ -43,7 +43,21 @@ function activateSwatchWatcher() {
       window.colorContrastSet = {background: bgColor, foreground: fgColor}
       const contrastCalc = generateContrastStats();
       placeContrastStats(bgColor, fgColor);
+      swatch.closest('.color-set').after(window['compare']);
+      window["color-contrast-list"].style.marginTop = "14px";
+    });
 
+
+    swatch.addEventListener("dblclick", (event) => {
+      const swatch = event.target;
+      const foreground = swatch.style.backgroundColor
+      console.log(swatch,foreground);
+      event.stopPropagation();
+      const container = swatch.closest('.color-set');
+      const background = container.style.backgroundColor
+      console.log(container, background)
+      swatch.style.backgroundColor = background;
+      container.style.backgroundColor = foreground;
     });
   });
 }

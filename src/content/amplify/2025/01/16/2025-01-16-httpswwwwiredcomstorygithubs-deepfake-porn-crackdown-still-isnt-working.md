@@ -14,7 +14,7 @@ link: >-
   https://www.wired.com/story/githubs-deepfake-porn-crackdown-still-isnt-working/
 slug: >-
   2025-01-16-httpswwwwiredcomstorygithubs-deepfake-porn-crackdown-still-isnt-working
-tags: []
+tags: ['tech']
 title: GitHub’s Deepfake Porn Crackdown Still Isn’t Working
 ---
 In late November, a deepfake porn maker claiming to be based in the US uploaded a sexually explicit video to the world’s largest site for pornographic deepfakes, featuring TikTok influencer Charli D’Amelio’s face superimposed onto a porn performer’s body.
