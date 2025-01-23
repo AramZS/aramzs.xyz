@@ -289,8 +289,16 @@ module.exports = (() => {
       cite: {
         href: "https://dictionary.cambridge.org/dictionary/english/splenetic",
         name: "Cambridge Dictionary"
-      }      
-    }                    
+      },
+    },      
+      {
+        term: "Scrim",
+        definition: "a very light textile made from fiber based materials, such as yarn. Also a name for the the fade out effect that goes behind walls that sit in front of websites",
+        cite: {
+          href: "https://en.wikipedia.org/wiki/Scrim_(material)",
+          name: "Wikipedia"
+        }            
+      }                    
   ].sort((a, b) => {
     if (a.term < b.term) {
       return -1;

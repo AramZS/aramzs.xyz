@@ -31,3 +31,5 @@ If something does disappear from The Internet Archive, do not get mad at The Arc
 One last tip: if you believe something is at particular risk to disappear from The Internet Archive and is already offline from the web, you can use all these techniques to archive an Internet Archive page.
 
 More detailed instructions for all this coming soon. 
+
+EDIT (01/22/2025): [Check out this great zine on web archiving techniques and tools](https://zinebakery.com/homemade-zines/bakeshop-2-diywebarchiving).
