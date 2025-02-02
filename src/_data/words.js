@@ -291,14 +291,70 @@ module.exports = (() => {
         name: "Cambridge Dictionary"
       },
     },      
-      {
-        term: "Scrim",
-        definition: "a very light textile made from fiber based materials, such as yarn. Also a name for the the fade out effect that goes behind walls that sit in front of websites",
-        cite: {
-          href: "https://en.wikipedia.org/wiki/Scrim_(material)",
-          name: "Wikipedia"
-        }            
-      }                    
+    {
+      term: "Scrim",
+      definition: "a very light textile made from fiber based materials, such as yarn. Also a name for the the fade out effect that goes behind walls that sit in front of websites",
+      cite: {
+        href: "https://en.wikipedia.org/wiki/Scrim_(material)",
+        name: "Wikipedia"
+      }            
+    },
+    {
+      term: "satrap",
+      definition: "a governor of the provinces of the ancient Median and Persian (Achaemenid) Empires and in several of their successors, such as in the Sasanian Empire and the Hellenistic empires. A satrapy is the territory governed by a satrap. A satrap served as a viceroy to the king, though with considerable autonomy. The word came to suggest tyranny or ostentatious splendour, and its modern usage is a pejorative and refers to any subordinate or local ruler, usually with unfavourable connotations of corruption.",
+      cite: {
+        href: "https://en.wikipedia.org/wiki/Satrap",
+        name: "Wikipedia"
+      }            
+    },
+    {
+      term: "Encomium",
+      definition: 'a Latin word deriving from the Ancient Greek enkomion (ἐγκώμιον), meaning "the praise of a person or thing." Another Latin equivalent is laudatio, a speech in praise of someone or something. Originally was the song sung by the chorus at the κῶμος, or festal procession, held at the Panhellenic Games in honour of the victor, either on the day of his victory or on its anniversary. The word came afterwards to denote any song written in celebration of distinguished persons, and in later times any spoken or written panegyric whatever.',
+      cite: {
+        href: "https://en.wikipedia.org/wiki/Encomium",
+        name: "Wikipedia"
+      }            
+    },
+    {
+      term: "furze",
+      definition: "Ulex (commonly known as gorse, furze, or whin) is a genus of flowering plants in the family Fabaceae. The genus comprises about 20 species of thorny evergreen shrubs in the subfamily Faboideae of the pea family Fabaceae. The species are native to parts of western Europe and northwest Africa, with the majority of species in Iberia.",
+      cite: {
+        href: "https://en.wikipedia.org/wiki/Ulex",
+        name: "Wikipedia"
+      }            
+    }, 
+    {
+      term: "Phonophobia",
+      definition: "also called ligyrophobia or sonophobia, is a fear of or aversion to loud sounds (for example firecrackers)—a type of specific phobia. It is a very rare phobia which is often the symptom of hyperacusis. Sonophobia can refer to the hypersensitivity of a patient to sound and can be part of the diagnosis of a migraine. Occasionally it is called acousticophobia.",
+      cite: {
+        href: "https://en.wikipedia.org/wiki/Phonophobia",
+        name: "Wikipedia"
+      }            
+    },   
+    {
+      term: "Pianoforte",
+      definition: "[The] pianoforte instrument used hammers to strike the string. Not only is the sound different, but it also feels very different to play. Leather-covered hammers hit the strings on the fortepiano/pianoforte. The strings themselves, in the first instance, were not vastly different from those of harpsichords, but this would soon change. Equally, the casing of the pianoforte was quite slight in comparison to today’s robust pianos. Pianofortes were a very responsive instrument with a reasonably light touch. This is quite different from many of the pianos built today.",
+      cite: {
+        href: "https://www.cmuse.org/pianoforte-vs-piano/",
+        name: "CMUSE"
+      }            
+    },
+    {
+      term: "Mythopoeic",
+      definition: "of or pertaining to myth-making.",
+      cite: {
+        href: "https://en.wikipedia.org/wiki/Mythopoeic",
+        name: "Wikipedia"
+      }            
+    },
+    {
+      term: "penates",
+      definition: "The household deities thought to watch over the houses and storerooms of ancient Rome. Synonym of household deities in other contexts.",
+      cite: {
+        href: "https://en.wiktionary.org/wiki/penates",
+        name: "Wiktionary"
+      }            
+    },                     
   ].sort((a, b) => {
     if (a.term < b.term) {
       return -1;
