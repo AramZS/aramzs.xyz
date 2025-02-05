@@ -25,7 +25,7 @@ eleventyExcludeFromCollections: true
                 <title>{{ post.data.title }}</title>
                 <link href="{{ post.data.isBasedOn }}"/>
                 <updated>{{ post.date | dateToRfc3339 }}</updated>
-                <id>{{ absolutePostUrl }}</id>
+                <id>{{ post.data.slug }}</id>
                 <content type="html">
                     {{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}
                 </content>
