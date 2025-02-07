@@ -140,7 +140,7 @@ const processPocketExport = async (offset) => {
   let response = await pocket.getArticles(pocketConfigForGet)
   
   console.log(util.inspect(response, {showHidden: false, depth: null, colors: true}));
-  if (Object.keys(response.list).length === 0 || response.error != null) {
+  if (!response || response.error != null && !response.hasOwnProperty('list') || Object.keys(response.list).length === 0 ) {
     console.log('No more items to process');
     return { resultSet: [], total: 0 }
   }
