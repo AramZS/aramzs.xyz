@@ -9,7 +9,7 @@ description: >-
 isBasedOn: 'https://heatmap.news/politics/epa-lee-zeldin-climate-grants'
 link: 'https://heatmap.news/politics/epa-lee-zeldin-climate-grants'
 slug: 2025-02-13-httpsheatmapnewspoliticsepa-lee-zeldin-climate-grants
-tags: []
+tags: ['climate', 'baselines', 'politics']
 title: The EPA Wants that $20 Billion Back
 ---
 Continuing this freeze for longer than 45 days would take an act of Congress, and it’s unclear whether the Trump administration intends to get one.
