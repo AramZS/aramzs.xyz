@@ -20,6 +20,8 @@ I find it extremely depressing that Shopify can't come out and say that being re
 
 It should be the reason. 
 
+Or maybe the implication is indeed that they don't actually care about selling symbols of hate intended to incite people to violence. 
+
 [Via](https://pxlnv.com/linklog/shopify-kanye-store/).
 
 > Shopify’s general counsel said the company took down musician Kanye West’s online store because of the potential for fraud, not because it was selling a Nazi T-shirt, an internal staff announcement obtained by The Logic reveals.
