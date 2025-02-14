@@ -9,6 +9,7 @@ const ObjectCache = require("./lib/helpers/cache");
 const fs = require("fs");
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const directoryOutputPlugin = require("@11ty/eleventy-plugin-directory-output");
+const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 require("dotenv").config();
 
@@ -81,6 +82,20 @@ module.exports = function (eleventyConfig) {
 	});
 
 	eleventyConfig.addPlugin(require("./lib/helpers/screenshot"));
+
+  eleventyConfig.addPlugin(sitemap, {
+		// Name of the property for the last modification date.
+		// By default it is undefined and the plugin will fallback to `date`.
+		// When set, the plugin will try to use this property and it will fallback
+		// to the `date` property when needed.
+		lastModifiedProperty: "modified",
+
+		sitemap: {
+			// Options for SitemapStream. See https://github.com/ekalinin/sitemap.js/blob/master/api.md#sitemapstream
+			// Hostname is needed when the URLs of the items don't include it.
+			hostname: domain_name,
+		},
+	});
 
 	eleventyConfig.addPlugin(
 		require("@photogabble/eleventy-plugin-interlinker"),
