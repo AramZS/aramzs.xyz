@@ -10,7 +10,7 @@ link: >-
   https://www.washingtonpost.com/health/2025/02/13/robert-kennedy-hhs-secretary-confirmation-vote/
 slug: >-
   2025-02-13-httpswwwwashingtonpostcomhealth20250213robert-kennedy-hhs-secretary-confirmation-vote
-tags: []
+tags: ["politics", "healthcare"]
 title: RFK Jr. faces confirmation for Health and Human Services Cabinet post
 ---
 Robert F. Kennedy Jr.
