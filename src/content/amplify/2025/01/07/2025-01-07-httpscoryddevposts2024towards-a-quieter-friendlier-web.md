@@ -10,7 +10,7 @@ description: >-
 isBasedOn: 'https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/'
 link: 'https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/'
 slug: 2025-01-07-httpscoryddevposts2024towards-a-quieter-friendlier-web
-tags: []
+tags: ["tech", "the web"]
 title: 'Towards a quieter, friendlier web'
 ---
 I love the internet, I grew up on it and (probably) spend too much time on it. I found the music I love on it, I've made friends on it, I went to school for business but built a career on the web instead.

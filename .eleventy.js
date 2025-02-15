@@ -13,15 +13,17 @@ const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 require("dotenv").config();
 
-require("dotenv").config();
-
 let domain_name = "https://aramzs.xyz";
 let throwOnUndefinedSetting = false;
 
-if (process.env.IS_LOCAL) {
+console.log('process.env.IS_LOCAL', process.env.IS_LOCAL, typeof process.env.IS_LOCAL)
+
+if (process.env.IS_LOCAL === "true") {
 	domain_name = "http://localhost:8080";
 	throwOnUndefinedSetting = true;
 	console.log("Dev env");
+} else {
+  console.log("Prod env");
 }
 
 process.env.DOMAIN = domain_name;

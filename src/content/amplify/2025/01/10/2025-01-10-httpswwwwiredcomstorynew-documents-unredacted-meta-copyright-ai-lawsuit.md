@@ -13,7 +13,7 @@ link: >-
   https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsuit/
 slug: >-
   2025-01-10-httpswwwwiredcomstorynew-documents-unredacted-meta-copyright-ai-lawsuit
-tags: []
+tags: ["ai"]
 title: >-
   Meta Secretly Trained Its AI on a Notorious Piracy Database, Newly Unredacted
   Court Docs Reveal
