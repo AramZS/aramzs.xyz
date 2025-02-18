@@ -12,7 +12,7 @@ growthStage: seedling
 
 The Weimar Triangle is back, and expanding, in reaction to the US's statements about withdrawal from NATO. It may signal the end of the US's role in cross-continental affairs. 
 
-The [Weimar Triangle](https://en.wikipedia.org/wiki/Weimar_Triangle) was formed in the 90s as a way for the EU to deal with the impact of the end of communism in Europe. It has basically done nothing since the 90s until, in reaction to the threats of the first Trump administration around NATO and Brexit. It has more recently been active in allowing the EU countries to react in a uniform way to Russia. 
+The [Weimar Triangle](https://en.wikipedia.org/wiki/Weimar_Triangle) was formed in the 90s as a way for the EU to deal with the impact of the end of communism in Europe. It has basically done nothing since the 90s until the 2010s. It became especially motivated to be more active in reaction to the threats of the first Trump administration's threats around NATO and Brexit. It has more recently been active in allowing the EU countries to react in a uniform way to Russia. 
 
 In the run-up to the election it strategically "[focuses firstly on the need to strengthen European security and defense by creating a strong European pillar inside NATO](https://carnegieendowment.org/europe/strategic-europe/2024/06/the-timely-revival-of-the-weimar-triangle?lang=en)."
 
