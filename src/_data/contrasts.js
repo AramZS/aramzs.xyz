@@ -107,6 +107,10 @@ module.exports = {
     { colors: ["#d2c7bf", "#e5cc60", "#3a81a0", "#bf808d", "#130f0f", "#b46293"], source: " https://64.media.tumblr.com/6e70a76ae158b0a137c560d364f8d152/e4fed1fba016716d-e0/s1280x1920/f1d14d477733f742903f3fd8508dd3afb0cf441b.png" }, // https://64.media.tumblr.com/6e70a76ae158b0a137c560d364f8d152/e4fed1fba016716d-e0/s1280x1920/f1d14d477733f742903f3fd8508dd3afb0cf441b.pnj
     { colors: ["#b4dbf3", "#d76d95", "#0198e4", "#46df91", "#eb7582", "#015447", "#5ed7d8", "#121021"], sourceInfo: "Jentry Chau vs the Underworld, S1E2 18:58" }, // Jentry Chau vs the Underworld, S1E2 18:58
     { colors: ["#26261e", "#d75ec3", "#d6e17a", "#446e74", "#d9cb71", "#14e369", "#874329", "#db8faa", "#6b93c1", "#3f316b", "#7839dc", "#38be9b"], sourceInfo: "Jentry Chau vs the Underworld, S1E2" }, // Jentry Chau vs the Underworld, S1E2 18:58
+    {
+      colors:["#f75b9a", "#130912", "#63dcf4", "#cfb52e", "#e8b5d1", "#94cdce", "#ebecc0"],
+      sourceInfo: "Castlevania: Nocturne, S2E7"
+    }
   ]
 };
 
