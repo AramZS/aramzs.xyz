@@ -1,0 +1,22 @@
+---
+pagination:
+  data: collections.microblogsPaginatedByYearMonth
+  size: 1
+  alias: yearMonth
+permalink: /microblogs/{{ yearMonth.slug }}/index.html
+folder: microblogs
+titlePrefix: Index
+paginationBase: microblogs
+---
+{% set title = yearMonth.title %}
+{% extends "layouts/page.njk" %}
+
+{% block pageContent %}
+  <section>
+    {% set displayContentType = true %}
+    {% set postsList = yearMonth.items | reverse %}
+    {% include "components/post-list.njk" %}
+  </section>
+
+  {% include 'components/planting-times-microblogs.njk' %}
+{% endblock %}

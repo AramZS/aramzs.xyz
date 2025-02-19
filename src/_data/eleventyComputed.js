@@ -23,6 +23,9 @@ module.exports = {
           case 'writing':
             crumbs.push({href: '/writing/', text: 'writing', title: 'Goto Archive of all posts'});
             break;
+          case 'microblogs':
+            crumbs.push({href: '/microblogs/', text: 'microblogs', title: 'Goto Archive of all posts'});
+            break;
           case 'topic':
             crumbs.push({href: '/topic/', text: 'topics', title: 'Goto list of all topics'});
             break;

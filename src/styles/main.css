@@ -208,7 +208,8 @@ article.book > header h1 + h2 {
   font-size: 1.4rem;
 }
 
-article.writing-index section > header {
+article.writing-index section > header,
+article.microblog-index section > header {
   display: flex;
   flex-direction: row;
   align-items: center;
