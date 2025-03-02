@@ -13,7 +13,7 @@ link: >-
   https://www.journalism.co.uk/news/the-four-step-subscription-lifecycle-engagement-conversion-registration-and-cancellation-win-backs/s2/a1224426/
 slug: >-
   2025-03-02-httpswwwjournalismcouknewsthe-four-step-subscription-lifecycle-engagement-conversion-registration-and-cancellation-win-backss2a1224426
-tags: []
+tags: ['media']
 title: >-
   The four-step subscription lifecycle: engagement, conversion, retention and
   win-backs
