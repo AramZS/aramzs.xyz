@@ -7,5 +7,5 @@ module.exports = {
 		username: "aramzs",
 		instance: "bookwyrm.tilde.zone",
 	},
-  footerInlineScript: shareActions.js()
+  footerInlineScript: `<script>${shareActions.js()}</script>`,
 };

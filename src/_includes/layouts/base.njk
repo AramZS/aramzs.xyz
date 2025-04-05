@@ -140,7 +140,7 @@
         {{ content | safe }}
     {% endblock %}
 </main>
-
+{% include "../../../plugins/share-actions/share-component.njk" %}
 {% include "components/git-history.njk" %}
 
 <footer class="content-grid">
@@ -239,6 +239,6 @@
         </p>
     </nav>
 </footer>
-<script>{{ build.footerInlineScript | safe }}</script>
+{{ build.footerInlineScript | safe }}
 </body>
 </html>
