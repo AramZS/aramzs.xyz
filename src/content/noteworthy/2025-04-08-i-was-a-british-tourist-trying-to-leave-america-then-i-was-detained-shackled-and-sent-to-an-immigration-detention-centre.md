@@ -18,7 +18,9 @@ cite:
 
 ---
 
-Every one of these stories are terrifying, incredibly saddening and important. I have noticed a tendency for them to be focused on white-passing English-speaking women though. What's even worse than reading these is thinking about the many many people among the "[32,809](https://www.dhs.gov/news/2025/03/13/ice-arrests-first-50-days-trump-administration) people to be arrested by Ice during the first 50 days of Donald Trump’s presidency" but who cannot get press coverage so easily. 
+Every one of these awful ICE stories are terrifying, incredibly saddening and important to witness. 
+
+I have noticed a tendency for them to be focused on white-passing English-speaking women though. What's even worse than reading these is thinking about the many many people among the "[32,809](https://www.dhs.gov/news/2025/03/13/ice-arrests-first-50-days-trump-administration) people to be arrested by Ice during the first 50 days of Donald Trump’s presidency" but who cannot get press coverage so easily. 
 
 That said, the additional impact of the author's personal connection here and the realization of the situation through the subject (who is an artist) providing sketches of the conditions and people gives this whole article even more of a gut punch than the previous iterations. 
 
