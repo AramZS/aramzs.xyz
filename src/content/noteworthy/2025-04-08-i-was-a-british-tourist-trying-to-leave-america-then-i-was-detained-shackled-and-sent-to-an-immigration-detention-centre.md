@@ -1,6 +1,6 @@
 ---
 title: >-
-  I was a British tourist trying to leave America. Then I was detained, shackled
+  A British tourist was trying to leave America. Then she was detained, shackled
   and sent to an immigration detention centre
 tags:
   - list/in-the-news
