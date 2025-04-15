@@ -1,7 +1,6 @@
 ---
 title: >-
-  Developers See Brooklyn’s Gowanus Canal as an Alluring New Waterfront. But for
-  Years, It Stunk
+  Gowanus Canal's history of waste and pollution doesn't sync well with developer aspirations. 
 tags:
   - list/in-the-news
   - nyc
