@@ -11,7 +11,7 @@ description: >-
 isBasedOn: 'https://www.theunpopulist.net/p/the-free-press-passage-into-the-dark'
 link: 'https://www.theunpopulist.net/p/the-free-press-passage-into-the-dark'
 slug: 2025-04-10-httpswwwtheunpopulistnetpthe-free-press-passage-into-the-dark
-tags: []
+tags: ["media"]
 title: The Free Press' Passage Into the Dark Side
 ---
 Consider just one headline after Trump issued his directive purging executive agencies of alleged DEI hires: “EXCLUSIVE: Inside the U.S. Mint’s Scramble to Conceal DEI Personnel.” The article highlights a “whistleblower” who busted his colleagues at the U.S.
