@@ -354,7 +354,17 @@ module.exports = (() => {
         href: "https://en.wiktionary.org/wiki/penates",
         name: "Wiktionary"
       }            
-    },                     
+    },
+    {
+      term: "phatic",
+      definition: `In linguistics, a phatic expression is a communication which primarily serves to establish or maintain social relationships. In other words, phatic expressions have mostly socio-pragmatic rather than semantic functions. They can be observed in everyday conversational exchanges, as in, for instance, exchanges of social pleasantries that do not seek or offer information of intrinsic value but rather signal willingness to observe conventional local expectations for politeness. 
+      
+      Other uses of the term include the category of "small talk" (conversation for its own sake) in speech communication, where it is also called social grooming, In Roman Jakobson's typology of communication functions, the 'phatic' function of language concerns the channel of communication; for instance, when one says "I can't hear you, you're breaking up" in the middle of a cell-phone conversation. This usage appears in research on online communities and micro-blogging.`,
+      cite: {
+        href: "https://en.wikipedia.org/wiki/Phatic_expression",
+        name: "Wikipedia"
+      }           
+    }                     
   ].sort((a, b) => {
     if (a.term < b.term) {
       return -1;
