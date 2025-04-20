@@ -12,7 +12,7 @@ cite:
   author: Seb Joseph
   href: >-
     https://digiday.com/marketing/how-google-took-control-over-online-advertising-according-to-those-who-watched-it-happen/
-
+date: '2025-04-18T13:39:23.000Z'
 ---
 
 I'm sure now that Google has lost their antitrust case more people will be coming out of the woodwork who were afraid to before, this is a good look at how long Ad Tech has been bad for publishers and buyers alike. 

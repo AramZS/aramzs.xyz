@@ -13,7 +13,7 @@ link: >-
   https://kottke.org/25/04/heres-what-life-was-like-before-the-affordable-care-act
 slug: >-
   2025-04-01-httpskottkeorg2504heres-what-life-was-like-before-the-affordable-care-act
-tags: []
+tags: [health, healthcare]
 title: Here’s What Life Was Like Before the Affordable Care Act
 ---
 From Aubrey Hirsch, It Could Be Much, Much Worse, an illustrated guide to what health care and insurance was like in the US before the ACA. You can also find this guide on Instagram.
