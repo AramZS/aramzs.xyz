@@ -10,7 +10,7 @@ cite:
   name: The Daily Dot's Doom
   author: Oliver Darcy
   href: https://www.status.news/p/daily-dot-layoffs-traffic
-
+date: '2025-05-07T13:39:23.000Z'
 ---
 
 Bad news from The Daily Dot, with the site experiencing a sudden drop in traffic that forces layoffs. The speculation here is this is a change in one of the major platforms, with the referral traffic dropping off. 
