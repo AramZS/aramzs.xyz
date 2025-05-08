@@ -103,6 +103,8 @@ const fetchUrl = async (url, date) => {
     const frontMatter = {
       title,
       tags: [topic],
+      //add date and time for days with more than one noteworthy. Date should be output in the format YYYY-MM-DDTHH:mm:ssZ
+      date: DateTime.fromFormat(date, 'yyyy-LL-dd').toISO(),
       cite: {
         name: title,
         author: author,
