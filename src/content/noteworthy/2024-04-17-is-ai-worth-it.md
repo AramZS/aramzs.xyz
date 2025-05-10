@@ -1,6 +1,10 @@
 ---
 title: "AI isn't useless. But is it worth it?"
-tags: [ai]
+tags: 
+  - ai
+  - "series:Generative AI is Bad For Us"
+series: Generative AI is Bad For Us
+group: Generative AI is Bad For Us
 growthStage: seedling
 group: AI
 cite:
