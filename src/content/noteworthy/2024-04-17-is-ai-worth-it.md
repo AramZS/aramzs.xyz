@@ -6,7 +6,6 @@ tags:
 series: Generative AI is Bad For Us
 group: Generative AI is Bad For Us
 growthStage: seedling
-group: AI
 cite:
   name: “AI isn't useless. But is it worth it?”
   href: https://www.citationneeded.news/ai-isnt-useless/
