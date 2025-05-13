@@ -576,6 +576,10 @@ aside.notes ul li {
 }
 
 #front-content-display section:nth-child(3) {
+  grid-column: 1;
+}
+
+#front-content-display section:nth-child(4) {
   grid-column: 2;
   grid-row: 1 / span 4;
 }
@@ -613,7 +617,7 @@ article#page-post li {
     margin-top: 40px;
   }
 
-  #front-content-display section:nth-child(3) {
+  #front-content-display section:nth-child(4) {
     grid-column: 1;
     grid-row: auto;
   }
