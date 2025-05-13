@@ -1,5 +1,6 @@
 ---
 title: Open Source Code from ATProto Event Platform SmokeSignal (in Rust!)
+description: Rust and ATProto combine to make a slim Meetup-style decentralized system.
 tags:
   - list/code
   - rust
