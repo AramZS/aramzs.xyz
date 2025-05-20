@@ -110,6 +110,10 @@ module.exports = {
     {
       colors:["#f75b9a", "#130912", "#63dcf4", "#cfb52e", "#e8b5d1", "#94cdce", "#ebecc0"],
       sourceInfo: "Castlevania: Nocturne, S2E7"
+    },
+    {
+      colors: ["#d2e2f4", "#262624", "#d3432a", "#933176", "#d0792a", "#e6b647", "#e9d16e", ],
+      sourceInfo: "NEH Buttons", source: "https://bsky.app/profile/nehafge3403.bsky.social/post/3lpjzvqsmp227"
     }
   ]
 };

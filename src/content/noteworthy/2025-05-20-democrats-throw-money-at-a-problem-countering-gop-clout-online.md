@@ -29,7 +29,7 @@ Fundamentally the problem is if you want to match the philosophy of the core of 
 
 Rogan isn't even right wing per-se, it's just that his show perfectly matches his values and his values are "be a dude, get buff, and seriously discuss the inane ramblings of morons who have no proof or support for anything they say" and you can't create a liberal version of that!
 
-I really have to emphasize the Dems screwed themselves by letter the liberal press die. Alternative weeklies were fundamentally the core of left wing political work in America and they've basically all been killed off. Big wallets can get started funding them again but: 
+I really have to emphasize the Dems screwed themselves by letting the liberal press die. Alternative weeklies were fundamentally the core of left wing political work in America and they've basically all been killed off. Big wallets can get started funding them again but: 
 
 1. it will take time to liftoff
 2. Rich Dem funders are going to have to deal w/the fact that a well funded & independent alt press is the only way to move forward but that alt press will insult them and regularly oppose their interests. 
@@ -49,6 +49,8 @@ You want a media that favors Dems in a time when the right is fundamentally defi
 Support your local NPR and PBS stations! Just funnel Dem money into getting real educational programs back on to public broadcasting and watch a new generation show up to 2032 ready to lock in Dems up and down the line. If we last that long.
 
 One of the most prominent right wing political figures just dived into raw sewage and posted it to Instagram. It won't take much to get people to realize these people are not very smart and not very engaged in helping anyone but themselves.
+
+([An additional good thread on this](https://bsky.app/profile/aelkus.bsky.social/post/3lpn4pavvg22h))
 
 It's not hard, it's just not going to help the ultra wealthy and so the Dems will do literally anything other than funding educational or leftwing programming and publications. Can't wait for them to give Destiny his own TV channel or something equally stupid and wasteful.
 
