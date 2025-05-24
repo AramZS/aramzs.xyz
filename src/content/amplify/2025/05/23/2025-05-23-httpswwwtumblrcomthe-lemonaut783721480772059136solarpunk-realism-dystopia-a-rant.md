@@ -13,7 +13,7 @@ link: >-
   https://www.tumblr.com/the-lemonaut/783721480772059136/solarpunk-realism-dystopia-a-rant
 slug: >-
   2025-05-23-httpswwwtumblrcomthe-lemonaut783721480772059136solarpunk-realism-dystopia-a-rant
-tags: []
+tags: ["culture", "philosophy", "writing", "solarpunk"]
 title: Post by @the-lemonaut · 6 images
 ---
 You can find the Prompts podcast here, I drew some of the covers :D Also check out this digital library full of Creative Commons Solarpunk art (neither of these are sponsored).
