@@ -30,3 +30,9 @@ conservativeCollapse = true
 preserveLineBreaks = false
 removeComments = true
 useShortDoctype = true
+
+[plugins.inputs.inputOptions]
+paths = [
+  '[DIRSUB]/**/*.html',
+  '![DIRSUB]/**/amplify/**/*.html',
+]
