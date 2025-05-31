@@ -8,6 +8,7 @@ featured: false
 description: Code only matters when it is made by people, with people and for people. 
 growthStage: seedling
 cover_image: trebuchet.png
+date: '2025-05-30T22:00:00.000-04:00'
 ---
 
 In the truly terrible Techno-Optimist Manifesto by Marc Andreessen there is a lot of conversations about what technology does. What technology mines out of the world and to what ends and why those ends matter more than the means. One thing it does not mention is people making things. In the Andreessen Horowitz vision of the techno-optimist future humans are shaped, conducted, born, bred and used as resources but they **do not create**. Technology in the VC model is fashioned by no one, merely processed out of factories by market forces. 
