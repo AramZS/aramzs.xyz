@@ -1,31 +1,7 @@
 <svg version="1.1" id="Layer_1"
 	xmlns="http://www.w3.org/2000/svg"
 	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100%" viewBox="0 0 2692 2692" enable-background="new 0 0 2692 2692" xml:space="preserve">
-	<script type="text/javascript">
-        
-			fetch("https://plausible.io/api/event", {
-				"headers": {
-					"accept": "*/*",
-					"accept-language": "en-US,en;q=0.9",
-					"cache-control": "no-cache",
-					"content-type": "text/plain",
-					"pragma": "no-cache",
-					"sec-ch-ua": "\"Not)A;Brand\";v=\"24\", \"Chromium\";v=\"116\"",
-					"sec-ch-ua-mobile": "?0",
-					"sec-ch-ua-platform": "\"macOS\"",
-					"sec-fetch-dest": "empty",
-					"sec-fetch-mode": "cors",
-					"sec-fetch-site": "cross-site"
-				},
-				"referrer": "https://aramzs.xyz/",
-				"referrerPolicy": "strict-origin-when-cross-origin",
-				"body": "{\"n\":\"pageview\",\"u\":\"https://aramzs.xyz/\",\"d\":\"aramzs.xyz\",\"r\":\"https://aramzs.xyz/rss-feed-item\"}",
-				"method": "POST",
-				"mode": "cors",
-				"credentials": "omit"
-			});
 
-	</script>
 	<path fill="#03092B" opacity="1.000000" stroke="none" d="
 M1260.000000,2694.000000 
 	C840.000000,2694.000000 421.000000,2694.000000 2.000000,2694.000000 

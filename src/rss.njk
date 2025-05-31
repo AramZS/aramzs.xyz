@@ -32,7 +32,7 @@
               {%- endif -%}
               {% set externalLink = post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite.href %}
               {% set anchorText = citeAnchorText | stripAllQuotes %}
-              {%- set postContent = post.templateContent + '<p>This is an amplified story. <a href="'+absolutePostUrl+ '" target="_blank">Read this on aramzs.xyz</a> or read the original article at <a href="' + externalLink + '">' + anchorText + '</a></p>' + '<br></br><img src="/feed-img.svg" width="50" height="50" alt="Site logo">' | htmlToAbsoluteUrls(absolutePostUrl) -%}                                
+              {%- set postContent = post.templateContent + '<p>This is an amplified story. <a href="'+absolutePostUrl+ '" target="_blank">Read this on aramzs.xyz</a> or read the original article: <a href="' + externalLink + '">' + anchorText + '</a></p>' + '<br></br><iframe width="50" height="50" src="/private-feed-tracker" title="Privacy-respecting tracker for feed readers" frameborder="0" allow="web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>' | htmlToAbsoluteUrls(absolutePostUrl) -%}                                
             {% endif %}
             <entry>
                 <title>{{ post.data.title }}</title>
