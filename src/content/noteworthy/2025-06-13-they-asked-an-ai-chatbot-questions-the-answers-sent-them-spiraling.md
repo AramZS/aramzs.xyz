@@ -2,7 +2,11 @@
 title: AI systems (mostly ChatGPT) keep sending people into mental health spirals
 tags:
   - Notable Articles
-date: '2025-06-13T00:00:00.000-04:00'
+  - ai
+  - tech
+  - culture
+  - health
+date: '2025-06-13T13:00:00.000-04:00'
 cite:
   name: They Asked an A.I. Chatbot Questions. The Answers Sent Them Spiraling.
   author: Kashmir Hill
