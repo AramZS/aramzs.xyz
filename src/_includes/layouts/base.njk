@@ -140,7 +140,7 @@
         {{ content | safe }}
     {% endblock %}
 </main>
-{% include "../../../plugins/share-actions/share-component.njk" %}
+{% sharebutton page.url %}
 {% include "components/git-history.njk" %}
 
 <footer class="content-grid">
@@ -240,5 +240,6 @@
     </nav>
 </footer>
 {{ build.footerInlineScript | safe }}
+{% sharejs %}
 </body>
 </html>
