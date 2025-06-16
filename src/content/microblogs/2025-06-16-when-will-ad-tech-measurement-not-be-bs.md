@@ -29,13 +29,13 @@ Almost every major analytics vendor is, at some level, paid by the supply and th
 
 It's profoundly broken! Why have I been tweeting basically this thread since 2011 and the buyers have never put their money behind an alternative approach? I've been doing publisher side ad tech for over a decade & I'm still having the same problems with the same metrics vendors
 
-https://x.com/i/status/1934679237128044681
+{% image 'src/images/face-palm-crowd.gif' 'crowd face-palming' 'in-post-gif center-in-text' %}
 
 When will the people with all the money step up and do something? Billions of dollars flow into this system *daily* from advertisers, from ad buyers of all stripes, and you'd think a few hundred million might be used to improve something but nope.
 
 The open web isn't dying. The measurement vendors of the world are out to kill it so advertisers move spend to platforms it is even easier to lie about.
 
-https://x.com/i/status/1934680615095554448
+{% image 'src/images/offfs.gif' 'women pouring herself a drink with meme text stating oh for fks sake' 'in-post-gif center-in-text' %}
 
 *record scratch* you might be asking yourself, how did I get here, well... *video tape rewind sound* [this thread](https://tweets.aramzs.com/1346095563582935041/).
 
