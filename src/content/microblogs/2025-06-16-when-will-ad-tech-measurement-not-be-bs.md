@@ -6,6 +6,7 @@ tags:
   - ad tech
 featured: false
 canonical: https://x.com/Chronotope/status/1934674533052764327
+date: '2025-06-16T16:00:00.000-04:00'
 ---
 
 I think the wildest thing about ad tech work is the industry talks a ton about transparency and accuracy and report-ability and then the bedrock of all of that is a bunch of blackbox vendors working on 20 year old tech with no proof anything works and every incentive to lie.
