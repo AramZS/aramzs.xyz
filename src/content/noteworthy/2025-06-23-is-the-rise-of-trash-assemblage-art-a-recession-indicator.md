@@ -5,7 +5,7 @@ tags:
   - economy
   - art
   - culture
-date: '2025-06-23T00:00:00.000-04:00'
+date: '2025-06-23T16:00:00.000-04:00'
 cite:
   name: Is the Rise of Trash Assemblage Art a Recession Indicator?
   author: Alex Greenberger
