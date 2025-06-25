@@ -11,7 +11,7 @@ cite:
 
 ---
 
-As Ryan says, you are going to see a lot of *T*akes about why Mamdani won, but I think he has hit on the fundamental truth of why: Mamdani is a normal guy who cares about the same things his constituency does and talked about them like a normal person. This was especially striking in the NYC mayoral race because Cuomo--a lifetime politician steeped in the deep weirdness of corrupt politics in general and corrupt NY politics in particular, along with bring a full-on creep--is not a normal person, he's not even close. Cuomo's capability to talk like a normal person or level normal opposing ideas about his opponents is nil. 
+As Ryan says, you are going to see a lot of *T*akes about why Mamdani won, but I think he has hit on the fundamental truth of why: Mamdani is a normal guy who cares about the same things his constituency does and talked about them like a normal person. This was especially striking in the NYC mayoral race because Cuomo--a lifetime politician steeped in the deep weirdness of corrupt politics in general and corrupt NY politics in particular, along with being a full-on creep--is not a normal person, he's not even close. Cuomo's capability to talk like a normal person or level normal opposing ideas about his opponents is nil. 
 
 I hope more people take Mamdani's lead here. Let a million roses bloom. 
 
