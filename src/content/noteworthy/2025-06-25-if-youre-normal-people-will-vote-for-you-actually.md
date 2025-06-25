@@ -2,7 +2,7 @@
 title: If you're normal, people will vote for you actually
 tags:
   - list/in-the-news
-date: '2025-06-25T00:00:00.000-04:00'
+date: '2025-06-25T14:00:00.000-04:00'
 cite:
   name: If you're normal, people will vote for you actually
   author: Ryan Broderick
