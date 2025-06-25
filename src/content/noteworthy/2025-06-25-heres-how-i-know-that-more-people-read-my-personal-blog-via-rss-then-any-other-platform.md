@@ -106,7 +106,7 @@ This is super exciting to me! I want people to consume the two RSS feeds I produ
 
 ## Some Interesting Information
 
-I specifically use Plausible as my analytics provider because it is non-invasive, quick, and privacy preserving. I don't want detailed user data, or even anything other than the most generic data about users. But I do like having referrer data and when I looked at Top Sources I was surprised to see a whole bunch of sites.
+I specifically use [Plausible](https://plausible.io) as my analytics provider because it is non-invasive, quick, and privacy preserving. I don't want detailed user data, or even anything other than the most generic data about users. But I do like having referrer data and when I looked at Top Sources I was surprised to see a whole bunch of sites.
 
 I am not sure what exactly is happening there, or how to figure out more information with my current setup, but I assume some of these are people flowing from those sites into my RSS feed when their browser has something that renders the feed directly. The presence of [Inoreader](https://www.inoreader.com/) makes me realize that readers will also show up as referrers in this process. I think this means that a bunch of these sites are running their own white-labeled in-house RSS readers for their employees or users, which is really cool!
 
