@@ -4,7 +4,7 @@ tags:
   - Notable Articles
   - nyc
   - politics
-date: '2025-06-27T00:00:00.000-04:00'
+date: '2025-06-27T12:00:00.000-04:00'
 cite:
   name: 'Dingus of the week: Everyone who is mad about Zohran Mamdani'
   author: lyz
