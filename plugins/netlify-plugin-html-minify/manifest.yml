@@ -7,3 +7,5 @@ inputs:
     - deploy-preview
   - name: minifierOptions
     required: false
+  - name: inputOptions
+    required: false

@@ -120,8 +120,8 @@ module.exports = {
     //layout: "layouts/media-post.njk",
 	}, 
   "list/good-youtube": {
-		title: "Good YouTube Channels",
-		description: "YouTube channels I like and recommend.",
+		title: "Good YouTube Videos",
+		description: "YouTube videos I like and recommend.",
     //layout: "layouts/media-post.njk",
 	}, 
 
