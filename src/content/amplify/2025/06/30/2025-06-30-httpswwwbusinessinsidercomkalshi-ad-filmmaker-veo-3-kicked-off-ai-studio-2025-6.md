@@ -11,7 +11,7 @@ link: >-
   https://www.businessinsider.com/kalshi-ad-filmmaker-veo-3-kicked-off-ai-studio-2025-6
 slug: >-
   2025-06-30-httpswwwbusinessinsidercomkalshi-ad-filmmaker-veo-3-kicked-off-ai-studio-2025-6
-tags: []
+tags: ["ai"]
 title: >-
   The Filmmaker Behind the AI-Generated Kalshi Ad Built an AI Studio. It Didn’t
   Kick Off Until Veo 3 Launched.
