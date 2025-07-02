@@ -6,6 +6,9 @@ tags:
   - tech
   - culture
   - health
+  - "series:Generative AI is Bad For Us"
+series: Generative AI is Bad For Us
+group: Generative AI is Bad For Us
 date: '2025-06-13T13:00:00.000-04:00'
 cite:
   name: They Asked an A.I. Chatbot Questions. The Answers Sent Them Spiraling.

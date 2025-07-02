@@ -5,6 +5,7 @@ title: >-
 tags:
   - list/ad-tech
   - history
+  - ad tech
 cite:
   name: >-
     How Google took control over online advertising, according to those who

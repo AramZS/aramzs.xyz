@@ -2,6 +2,7 @@
 title: Randy Pitchford is terrible
 tags:
   - list/gaming
+  - gaming
 date: '2025-05-20T18:34:00.000-04:00'
 cite:
   name: Borderlands 4 Boss Says 'A Real Fan' Will Pay $80 For Games

@@ -4,7 +4,10 @@ tags:
   - Notable Articles
   - tech
   - ai
-  - economy
+  - economy  
+  - "series:Generative AI is Bad For Us"
+series: Generative AI is Bad For Us
+group: Generative AI is Bad For Us
 date: '2025-06-26T15:00:00.000-04:00'
 cite:
   name: At Work, at School, and Online, It’s Now AI Versus AI
