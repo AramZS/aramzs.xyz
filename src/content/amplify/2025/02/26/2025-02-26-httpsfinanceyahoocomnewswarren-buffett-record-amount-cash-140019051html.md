@@ -14,7 +14,7 @@ link: >-
   https://finance.yahoo.com/news/warren-buffett-record-amount-cash-140019051.html
 slug: >-
   2025-02-26-httpsfinanceyahoocomnewswarren-buffett-record-amount-cash-140019051html
-tags: []
+tags: ["economy"]
 title: >-
   Warren Buffett Has a Record Amount of Cash — What Does It Mean for Your
   Portfolio?

@@ -11,7 +11,7 @@ description: >-
 isBasedOn: 'https://etymology.substack.com/p/slop-capitalism-and-dead-internet'
 link: 'https://etymology.substack.com/p/slop-capitalism-and-dead-internet'
 slug: 2025-04-01-httpsetymologysubstackcompslop-capitalism-and-dead-internet
-tags: []
+tags: ["ai", "tech", "economics", "the web"]
 title: slop capitalism and dead internet theory
 ---
 Early this January, while we were all looking the other way, the slop revolution unfolded right under our noses. The warning bells, of course, had been sounding off for over a year. Boomers being tricked by AI-generated images of poor African children or disabled veterans.
