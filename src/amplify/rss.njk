@@ -2,7 +2,7 @@
 {
   "eleventyExcludeFromCollections": true,
   "folder": "amplify",
-  "permalink": "/amplify/rss/index.xml",
+  "permalink": "/amplify/feed.xml",
   "metadata": {
     "url": (function(){ return process.env.DOMAIN + "/" })(),
 	  "lastBuildDate": (function(){
@@ -11,7 +11,7 @@
 	  })(),
     "title": "Amplify RSS Feed",
     "subtitle": "A feed of all the articles I've saved to read or think others should read.",
-    "feedUrl": "https://aramzs.xyz/amplify/rss/index.xml",
+    "feedUrl": "https://aramzs.xyz/amplify/feed.xml",
     "author": {
       "name": "Aram Zucker-Scharff",
       "email": "xyz@aramzs.me"
@@ -25,3 +25,4 @@
 
 {% set allPosts = collections.contentTypes | findBySlug('amplify') | values('items') %}
 {% set postList = allPosts.slice(0, 100) %}
+{% set trackerUrl = "private-amplifeed-tracker" %}

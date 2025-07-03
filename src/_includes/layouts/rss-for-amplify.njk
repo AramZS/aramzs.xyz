@@ -1,0 +1,52 @@
+{% set postsList = allPosts %}{% set trackerUrl = trackerUrl or '/private-feed-tracker' %}<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+    <title type="text">{{ metadata.title }}</title>
+    <subtitle type="text">{{ metadata.description }}</subtitle>
+
+    <id>{{ metadata.feedUrl }}</id>
+    <link rel="alternate" type="text/html" href="{{ metadata.url }}" />
+    <link rel="self" type="application/atom+xml" href="{{ metadata.feedUrl }}" />
+
+    <updated>{{ allPosts | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+    <author>
+        <name>{{ metadata.author.name }}</name>
+        <email>{{ metadata.author.email }}</email>
+    </author>
+    <generator uri="https://www.11ty.dev/">Eleventy.js</generator>
+    {%- for post in postsList | reverse %}
+        {%- if loop.index0 "<" 10 -%}
+            {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+            {% set sitePageUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+            {% set postContent = post.templateContent %}
+            {%- if post.data.cite and post.data.cite.href or post.data.referringUri or post.data.isBasedOn or post.data.canonical -%}
+              {%- set citeAnchorText = "link" -%}
+              {%- if post.data.cite and post.data.cite.name -%}
+                {%- set citeAnchorText = post.data.cite.name -%}
+              {%- endif -%}
+              {%- if post.data.cite and post.data.cite.author -%}
+                {%- set citeAnchorText = citeAnchorText + " by " + post.data.cite.author -%}
+              {%- endif -%}
+              {% set externalLink = post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite.href %}
+              {% set anchorText = citeAnchorText | stripAllQuotes %}
+              {%- set postContent = post.templateContent + '<p>This is an amplified story. <a href="'+absolutePostUrl+ '" target="_blank">Read this on aramzs.xyz</a> or read the original article: <a href="' + externalLink + '">' + anchorText + '</a></p>' + '<br></br><iframe width="50" height="50" src="' + metadata.url + trackerUrl + '" title="Privacy-respecting tracker for feed readers" frameborder="0" allow="web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>' | htmlToAbsoluteUrls(absolutePostUrl) -%}
+            {%- else -%}                                
+              {%- set postContent = post.templateContent + '<br></br><iframe width="50" height="50" src="' + metadata.url + trackerUrl + '" title="Privacy-respecting tracker for feed readers" frameborder="0" allow="web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>' | htmlToAbsoluteUrls(absolutePostUrl) -%}
+            {% endif %}
+            <entry>
+                <title>{{ post.data.title }}</title>
+                {%- if post.data.linkInternal -%}
+                <link href="{{sitePageUrl}}" />    
+                {%- elseif post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite and post.data.cite.href -%}
+                <link href="{{post.data.referringUri or post.data.isBasedOn or post.data.canonical or post.data.cite.href }}"/>
+                {%- else -%}
+                <link href="{{ absolutePostUrl }}"/>
+                {%- endif -%}
+                <updated>{{ post.date | dateToRfc3339 }}</updated>
+                <id>{{ absolutePostUrl }}</id>
+                <content type="html">
+                    {{- postContent -}}
+                </content>
+            </entry>
+        {%- endif -%}
+    {%- endfor %}
+</feed>
