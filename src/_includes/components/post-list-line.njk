@@ -2,15 +2,17 @@
     <span>
         {% if post.data.draft %}
         {% set postAttrs = "" %}
+        {% set linkClass = "standard-link" %}
         <span style="color: red">(D)</span>
         {% endif %}
         {% if forward or post.data.contentType == 'amplify' %}
           {% set postUrl = post.data.isBasedOn or post.data.canonical %}
           {% set postAttrs = ' target="_blank" ' %}
+          {% set linkClass = 'plausible-event-name=amplify_click' %}
         {% else %}
           {% set postUrl = post.url %}
         {% endif %}
-        <a href="{{ postUrl }}" data-internal-url="{{post.url}}" title="Read {{ post.title or post.data.title }}" {{ postAttrs }}>{{ post.title or post.data.title }}</a>
+        <a href="{{ postUrl }}" data-internal-url="{{post.url}}" title="Read {{ post.title or post.data.title }}" {{ postAttrs }} class="{{ linkClass }}">{{ post.title or post.data.title }}</a>
         {% if displayContentType %}
             <small class="content-type">{{ post.data.contentType }}</small>
         {% endif %}
