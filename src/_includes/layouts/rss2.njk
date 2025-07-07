@@ -7,6 +7,9 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
+{%- set feedImg = feedImg or metadata.defaultSocialImage | url | absoluteUrl(metadata.defaultSocialImage) -%}
+{%- set feedImgLink = feedImgLink or metadata.url -%}
+{%- set feedImgDescription = feedImgDescription or "" -%}
 
 <channel>
 	<title>{{ metadata.title }}</title>
@@ -18,6 +21,12 @@
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://11ty.dev/</generator>
+  <image>
+    <title>{{ metadata.title }}</title>
+    <url>{{feedImg}}</url>
+    <link>{{ metadata.url }}</link>
+    <description>{{feedImgDescription}}</description>
+  </image>
 	<managingEditor>
 		{{ metadata.author.email }} ({{ metadata.author.name }})
 	</managingEditor>

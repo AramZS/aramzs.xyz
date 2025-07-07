@@ -9,7 +9,7 @@
 		  var date = new Date();
 		  return date.toUTCString()
 	  })(),
-    "title": "Amplify RSS Feed",
+    "title": "AramZS's Amplify RSS Feed",
     "subtitle": "A feed of all the articles I've saved to read or think others should read.",
     "feedUrl": "https://aramzs.xyz/amplify/feed.xml",
     "author": {
@@ -26,3 +26,13 @@
 {% set allPosts = collections.contentTypes | findBySlug('amplify') | values('items') %}
 {% set postList = allPosts.slice(0, 100) %}
 {% set trackerUrl = "private-amplifeed-tracker" %}
+{% set feedImg = "https://aramzs.xyz/zs-favicon-1200-600.png" %}
+{% set feedImgLink = "https://aramzs.xyz/amplify/" %}
+{% set feedImgDescription = "Aram ZS's Amplify feed is for amplifying content posted by other people and on other sites. Think of it as somewhere between a link post and a reblog. It pulls together posts and writing by others that I think are worth sharing, but where I don't have much that I want to write about them." %}
+
+<image>
+<title>DW's WordPress linkblog</title>
+<url>https://imgs.scripting.com/2025/06/13/tomatoSoup.png</url>
+<link>https://linkblog3.wordpress.com</link>
+<description>I'm doing this linkblog entirely in WordLand, it's new! :-)</description>
+</image>
