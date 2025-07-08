@@ -6,7 +6,7 @@ tags:
   - film
   - politics
   - culture
-date: '2025-07-08T00:00:00.000-04:00'
+date: '2025-07-08T15:00:00.000-04:00'
 cite:
   name: They're Literally Angry at Superman for Being Nice
   author: Parker Molloy
