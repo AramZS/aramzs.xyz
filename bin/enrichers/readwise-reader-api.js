@@ -114,7 +114,7 @@ const writeLinkToAmplify = (linkObj) => {
 }
 
 const processReadwiseExport = async (allData) => {
-  
+  if (!allData || allData.length === 0) { return false; }
   let linkList = Object.values(allData).map((data) => {
     return createReadwiseObj(data);
   });
@@ -188,13 +188,13 @@ const getReadwiseAPI = async (authKey, since) => {
           //console.log('response', await response.text());
           const responseJson = await response.json();
           // Only documents with no `parent_id` or `parent_id` set to `null` are valid bookmarks, the rest are highlights or notes.
+          responseJson['results'].length === 0 ? console.log('No results found') : console.log('Found ' + responseJson['results'].length + ' results');
           const bookmarks = responseJson['results'].filter(doc => !doc.parent_id);
           fullData.push(...bookmarks);
           nextPageCursor = responseJson['nextPageCursor'];
           if (!nextPageCursor) {
             break;
           }
-          break;
         } catch (e) {
           console.error('Error parsing response JSON:', e);
           console.error('Response text:', await response.text());
@@ -205,6 +205,12 @@ const getReadwiseAPI = async (authKey, since) => {
   };
   // Get all of a user's documents from all time
   const allData = await fetchDocumentListApi(since);
+  if(allData.length === 0){ 
+    console.log('No bookmarks found');
+    return;
+   } else {
+     console.log('Found ' + allData.length + ' bookmarks');
+   }
   console.log('last document', allData[0]);
   const lastUpdated = allData[0].updated_at;
   
@@ -223,7 +229,7 @@ const getReadwiseAPI = async (authKey, since) => {
     }
   }
   const filePath = path.join(process.cwd(), 'readwise-since.txt');
-  fs.writeFileSync(filePath, JSON.stringify(newSinceDate), 'utf8');
+  fs.writeFileSync(filePath, JSON.stringify(newSinceDate+5), 'utf8');
 
   return allData;
 
