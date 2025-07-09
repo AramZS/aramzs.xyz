@@ -207,19 +207,22 @@ const getReadwiseAPI = async (authKey, since) => {
   console.log('last document', allData[0]);
   const lastUpdated = allData[0].updated_at;
   
-  const sinceDateObj = new Date(lastUpdated);
+  const newSinceDateObj = new Date(lastUpdated);
+  const newSinceDate = newSinceDateObj.valueOf()/1000;
+
+  const sinceDateObj = new Date(since);
   const sinceDate = sinceDateObj.valueOf()/1000;
 
   if (since){
 
-    if (lastUpdated > sinceDate) {
+    if (newSinceDate > sinceDate) {
       console.log('New documents found');
     } else {
       console.log('No new documents found');
     }
   }
-
-  fs.writeFileSync(filePath, sinceDate, 'utf8');
+  const filePath = path.join(process.cwd(), 'readwise-since.txt');
+  fs.writeFileSync(filePath, newSinceDate, 'utf8');
 
   return allData;
 
@@ -255,6 +258,7 @@ const walkReadwiseReaderAPI = async () => {
     return false;
   } else {
     console.log('Using READWISE_TOKEN from .env file');
+    console.log('Since date is', since);
     const allData = await getReadwiseAPI(readwiseToken, since);
     let resultObj = await processReadwiseExport(allData);
   }
