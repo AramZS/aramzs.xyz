@@ -297,9 +297,13 @@ module.exports = function (eleventyConfig) {
 		}
 	});
  */
-  
+  eleventyConfig.ignores.add("src/content/amplify/2019/**");
+  eleventyConfig.ignores.add("src/content/amplify/2020/**");
+  eleventyConfig.ignores.add("src/content/amplify/2021/**");
+  eleventyConfig.ignores.add("src/content/amplify/2022/**");
   // Dev Time Build Ignores 
   if (process.env.IS_LOCAL === "true"){
+
   eleventyConfig.ignores.add("src/content/amplify/2023/**");
     eleventyConfig.ignores.add("src/content/amplify/2024/01/**");
     eleventyConfig.ignores.add("src/content/amplify/2024/02/**");
@@ -316,6 +320,9 @@ module.exports = function (eleventyConfig) {
     //eleventyConfig.ignores.add("src/content/resources/film/[e-t]**");
     //eleventyConfig.ignores.add("src/content/resources/film/b[u-z]**");
     eleventyConfig.ignores.add("src/content/resources/film/t**");
+  } else {
+    eleventyConfig.ignores.add("src/content/amplify/2023/**");
+    eleventyConfig.ignores.add("src/content/amplify/2024/01/**");
   }
 
 	//
