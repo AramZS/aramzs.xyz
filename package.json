@@ -25,8 +25,7 @@
     "activate:pocket": "node_modules/pocket-auth-cli/bin/pocket-auth $CON_KEY > .env-json.json && total_string=\"CON_KEY=\\\"$CON_KEY\\\"\" && echo $total_string > .env && npm run write:pocket-info-access && npm run write:pocket-info-user && node -e 'var w = require(\"./bin/enrichers/pocket-api.js\"); w.writeAmplify()'",
     "get:pocket": "node node_modules/dotenv-cli/cli.js -- npm run activate:pocket && git add src/content/amplify/* && git add pocket-since.txt && git commit -m \"chore: new amplify\"",
     "make:readwise": "node -e 'var w = require(\"./bin/enrichers/readwise-reader-api.js\"); w.writeAmplify().then(() => console.log(\"complete write amplify\"))' > ./buildlog.txt",
-    "get:readwise": "node node_modules/dotenv-cli/cli.js -- npm run make:readwise",
-    "readwise:scrap": "// && git add src/content/amplify/* && git add pocket-since.txt && git commit -m \"chore: new amplify\"",
+    "get:readwise": "node node_modules/dotenv-cli/cli.js -- npm run make:readwise && git add src/content/amplify/* && git add readwise-since.txt && git commit -m \"chore: new amplify\"",
     "subtree:update": "git subtree pull --prefix plugins/netlify-plugin-html-minify git@github.com:AramZS/netlify-plugin-html-minify.git master --squash"
   },
   "bin": {
