@@ -1,0 +1,28 @@
+---
+author: Lexi Pandell
+cover_image: >-
+  https://miro.medium.com/v2/resize:fill:1200:632/g:fp:0.55:0.4/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg
+date: '2019-06-25T17:07:23.000Z'
+dateFolder: 2019/06/25
+description: >-
+  A Texas oil heiress named Carolyne Cass was scammed by Jacob Wohl, a young
+  right-wing provocateur. Wohl and a lawyer held a disastrous press conference,
+  falsely accusing Robert Mueller of rape without Cass being present. Cass had
+  been misled into believing Wohl was a private investigator before discovering
+  the truth.
+isBasedOn: 'https://gen.medium.com/catfished-by-jacob-wohl-23f35da1cbcc'
+link: 'https://gen.medium.com/catfished-by-jacob-wohl-23f35da1cbcc'
+slug: 2019-06-25-httpsgenmediumcomcatfished-by-jacob-wohl-23f35da1cbcc
+tags:
+  - favorite
+title: Catfished by Jacob Wohl
+---
+<figure><picture><source sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 100vw" srcset="https://miro.medium.com/v2/resize:fit:640/format:webp/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 640w, https://miro.medium.com/v2/resize:fit:720/format:webp/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 720w, https://miro.medium.com/v2/resize:fit:750/format:webp/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 750w, https://miro.medium.com/v2/resize:fit:786/format:webp/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 786w, https://miro.medium.com/v2/resize:fit:828/format:webp/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 828w, https://miro.medium.com/v2/resize:fit:1100/format:webp/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 1100w, https://miro.medium.com/v2/resize:fit:4800/format:webp/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 4800w" type="image/webp"/><source data-testid="og" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 100vw" srcset="https://miro.medium.com/v2/resize:fit:640/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 640w, https://miro.medium.com/v2/resize:fit:720/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 720w, https://miro.medium.com/v2/resize:fit:750/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 750w, https://miro.medium.com/v2/resize:fit:786/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 786w, https://miro.medium.com/v2/resize:fit:828/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 828w, https://miro.medium.com/v2/resize:fit:1100/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 1100w, https://miro.medium.com/v2/resize:fit:4800/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg 4800w"/><img alt="" src="https://miro.medium.com/v2/resize:fit:2400/1*F0OfEBqMJJm3lQdzRC1YkQ.jpeg"/></picture><figcaption>Illustrations: <a href="https://jowoho.co/">Joan Wong</a></figcaption></figure>
+<h2 data-selectable-paragraph="">How a Texas oil heiress got scammed — and then seduced — by Twitter’s most inept Trump-loving troll</h2>
+<figure><img alt="L" src="https://miro.medium.com/v2/resize:fit:79/1*E8iJs7axO64I2-0ZrWJ-AA.png"/></figure>
+<p>Last October, two men came forward with a staggering claim: Robert Mueller, the two-year thorn in Trump’s side, had committed rape. They would hold a press conference in Arlington, Virginia, with Mueller’s alleged victim, a woman named Carolyne Cass. It was time, the two men said, to hear her story.</p>
+<p>One of them was Jacob Wohl, a then-20-year-old, right-wing provocateur from Southern California. The other was Jack Burkman, a middle-aged lawyer, Republican lobbyist, and noted conspiracy theorist.</p>
+<p>The conference, held in a drab room at a Holiday Inn, was a disaster. Wohl and Burkman arrived without Cass, whom they claimed had been scared off by death threats. Not that her presence would have mattered much: By the time the news conference had begun, the rape accusations had already been debunked, as reporters and internet sleuths easily discovered that Mueller was in Washington, D.C. on jury duty during the week of the alleged rape, which Wohl and Burkman say happened in New York City. The presser quickly devolved into an exercise in ignominy. When Wohl speculated that Mueller could have somehow been in both places at once, the journalists broke into laughter. Oh, and Burkman’s fly was down during the entire event.</p>
+<p>At one point, a journalist asked whether they’d received permission to use Cass’ name in the accusation. “Yes, of course we have permission,” Burkman answered crossly.</p>
+<p>As the debacle unfolded on livestream, people across social media asked what the hell was going on. Sitting in a friend’s New York City apartment, Carolyne Cass wondered the same thing. Just 24 hours earlier, she’d believed Wohl was a 25-year-old, Mossad-trained private investigator named “Matthew Cohen.” Now, she didn’t know what to think.</p>
+<p>I first met Cass in mid-April at Hugo’s, a nondescript restaurant in West Hollywood known for its occasional celebrity clientele. She arrived wearing a low-cut black dress, a gemstone-studded choker, and snakeskin cowboy boots. She looks like a cross between Ivanka Trump and Heidi Montag and, though she’s from Texas, her voice carries a Southern Californian lilt, a trace of the five…</p>
