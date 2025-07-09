@@ -7,6 +7,7 @@ const path = require('path');
 
 const dateInfoObjMaker = (initialDateString) => {
   let dateString = '';
+  console.log('initialDateString', initialDateString);
   try {
     dateString = initialDateString || '';
   } catch (e) { 
@@ -15,7 +16,7 @@ const dateInfoObjMaker = (initialDateString) => {
   }
   let dateObj = {};
   try {
-    dateObj = new Date(parseInt(dateString) * 1000);
+    dateObj = new Date(dateString);
   } catch (e) {
     console.log('Date error at date parse time', e, dateString);
     throw new Error('Could not parse date' + dateString)
