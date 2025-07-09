@@ -141,12 +141,19 @@ const processReadwiseExport = async (allData) => {
 const getReadwiseAPI = async (authKey, since) => {
   // via https://readwise.io/reader_api?__readwiseLocation=
   const token = authKey; // use your access token here
+  let queryCount = 0;
 
   const fetchDocumentListApi = async (updatedAfter=null, location=null) => {
       let fullData = [];
       let nextPageCursor = null;
 
       while (true) {
+        // Maximum is 20 queries per minute so we pause if we near that.
+        if (queryCount >= 18) {
+          console.log('Query limit reached, pausing for a minute');
+          await new Promise(resolve => setTimeout(resolve, 60000));
+          queryCount = 0;
+        }
         const queryParams = new URLSearchParams();
         if (nextPageCursor) {
           queryParams.append('pageCursor', nextPageCursor);
@@ -165,13 +172,32 @@ const getReadwiseAPI = async (authKey, since) => {
             Authorization: `Token ${token}`,
           },
         });
-        const responseJson = await response.json();
-        // Only documents with no `parent_id` or `parent_id` set to `null` are valid bookmarks, the rest are highlights or notes.
-        const bookmarks = responseJson['results'].filter(doc => !doc.parent_id);
-        fullData.push(...bookmarks);
-        nextPageCursor = responseJson['nextPageCursor'];
-        if (!nextPageCursor) {
-          break;
+        try {
+          queryCount += 1;
+          console.log('Query count', queryCount);
+          if (!response.ok) {
+            console.error('Error fetching data from Readwise API:', response.status, response.statusText);
+            if (response.status === 502) {
+                console.log('Query limit reached, pausing for a minute');
+                await new Promise(resolve => setTimeout(resolve, 60000));
+                queryCount = 0;
+            } else {
+              break;
+            }
+          }
+          //console.log('response', await response.text());
+          const responseJson = await response.json();
+          // Only documents with no `parent_id` or `parent_id` set to `null` are valid bookmarks, the rest are highlights or notes.
+          const bookmarks = responseJson['results'].filter(doc => !doc.parent_id);
+          fullData.push(...bookmarks);
+          nextPageCursor = responseJson['nextPageCursor'];
+          if (!nextPageCursor) {
+            break;
+          }
+        } catch (e) {
+          console.error('Error parsing response JSON:', e);
+          console.error('Response text:', await response.text());
+          break
         }
       }
       return fullData;
@@ -182,7 +208,7 @@ const getReadwiseAPI = async (authKey, since) => {
   const lastUpdated = allData[0].updated_at;
   
   const sinceDateObj = new Date(lastUpdated);
-  const sinceDate = sinceDateObj.toISOString();
+  const sinceDate = sinceDateObj.valueOf()/1000;
 
   if (since){
 
@@ -219,7 +245,8 @@ const walkReadwiseReaderAPI = async () => {
   let since = false; // Default value if file does not exist or is empty
   if (fs.existsSync(filePath)) {
       since = fs.readFileSync(filePath, 'utf8').trim();
-      let sinceObj = new Date(since);
+      console.log('Read since date from file', since);
+      let sinceObj = new Date(parseInt(since)*1000);
       since = sinceObj.toISOString();
   }  
 
