@@ -222,7 +222,7 @@ const getReadwiseAPI = async (authKey, since) => {
     }
   }
   const filePath = path.join(process.cwd(), 'readwise-since.txt');
-  fs.writeFileSync(filePath, newSinceDate, 'utf8');
+  fs.writeFileSync(filePath, JSON.stringify(newSinceDate), 'utf8');
 
   return allData;
 
