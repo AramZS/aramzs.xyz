@@ -51,10 +51,10 @@ const dateInfoObjMaker = (initialDateString) => {
 const createReadwiseObj = (data) => {
   let dateInfoObj = {};
   try {
-    dateInfoObj = dateInfoObjMaker(data.saved_at);
+    dateInfoObj = dateInfoObjMaker(data.created_at);
   } catch (e) {
-    console.log('Date error', e, data.saved_at);
-    throw new Error('Could not parse date ' + data.saved_at)
+    console.log('Date error', e, data.created_at);
+    throw new Error('Could not parse date ' + data.created_at)
   }
   console.log('Date processed to', dateInfoObj);
   const { isoDate, day, month, year, dateFileString } = dateInfoObj;
@@ -130,10 +130,9 @@ const processReadwiseExport = async (allData) => {
     return result;
   })
   let resultSet = await Promise.all(results);
-  let total = response.hasOwnProperty('total') ? response.total : 1; // keep going if there is no total.
   return {
     resultSet,
-    total
+    total: resultSet.length
   }
 };
 
@@ -194,6 +193,7 @@ const getReadwiseAPI = async (authKey, since) => {
           if (!nextPageCursor) {
             break;
           }
+          break;
         } catch (e) {
           console.error('Error parsing response JSON:', e);
           console.error('Response text:', await response.text());
