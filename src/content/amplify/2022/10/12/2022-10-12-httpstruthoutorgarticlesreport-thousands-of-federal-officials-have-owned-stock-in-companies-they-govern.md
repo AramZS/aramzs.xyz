@@ -1,0 +1,33 @@
+---
+author: Sharon Zhang
+cover_image: 'https://truthout.org/app/uploads/2022/10/2022_1011-federal-reserve-scaled.jpg'
+date: '2022-10-12T16:02:34.000Z'
+dateFolder: 2022/10/12
+description: >-
+  Officials at the EPA report trading oil and gas stocks, while Pentagon
+  officials buy stock in Lockheed Martin.
+isBasedOn: >-
+  https://truthout.org/articles/report-thousands-of-federal-officials-have-owned-stock-in-companies-they-govern/
+link: >-
+  https://truthout.org/articles/report-thousands-of-federal-officials-have-owned-stock-in-companies-they-govern/
+slug: >-
+  2022-10-12-httpstruthoutorgarticlesreport-thousands-of-federal-officials-have-owned-stock-in-companies-they-govern
+tags:
+  - favorite
+title: >-
+  Report: Thousands of Federal Officials Have Owned Stock in Companies They
+  Govern
+---
+<figure><img alt="The U.S. Federal Reserve building is seen past caution tape in Washington, D.C., on September 19, 2022." sizes="(max-width: 1200px) 100vw, 1200px" src="https://truthout.org/app/uploads/2022/10/2022_1011-federal-reserve-2400x1461.jpg" srcset="https://truthout.org/app/uploads/2022/10/2022_1011-federal-reserve-1200x730.jpg 1200w, https://truthout.org/app/uploads/2022/10/2022_1011-federal-reserve-400x243.jpg 400w, https://truthout.org/app/uploads/2022/10/2022_1011-federal-reserve-200x122.jpg 200w, https://truthout.org/app/uploads/2022/10/2022_1011-federal-reserve-800x487.jpg 800w, https://truthout.org/app/uploads/2022/10/2022_1011-federal-reserve-1536x935.jpg 1536w, https://truthout.org/app/uploads/2022/10/2022_1011-federal-reserve-2048x1246.jpg 2048w, https://truthout.org/app/uploads/2022/10/2022_1011-federal-reserve-2400x1461.jpg 2400w"/><figcaption>The U.S. Federal Reserve building is seen past caution tape in Washington, D.C., on September 19, 2022.</figcaption></figure>
+<p>Thousands of federal officials in the executive branch over the last two presidential administrations have disclosed trading stocks in companies that their agencies oversee, representing thousands of potential conflicts of interest, a new investigation finds.</p>
+<p><a href="https://www.wsj.com/articles/government-officials-invest-in-companies-their-agencies-oversee-11665489653?mod=hp_lead_pos7"><i>The Wall Street Journal</i></a> analyzed over 31,000 financial disclosure forms dated between 2016 and 2021, which included information on over 315,000 trades in stocks, bonds and funds by officials and their immediate families. These documents showed that over 2,600 senior officials across 50 federal agencies have disclosed owning stock in companies that have lobbied the agency that they work in. This represents more than one in five senior federal executive branch officials, the report found.</p>
+<p>These trades represent many potential conflicts of interest — and explicit conflicts of interest that agency officials seem to have simply swept aside and “waived the rules” for, the report says. These stock holdings reveal that not only do officials have personal financial interest in companies they are responsible for regulating, but also that they may be trading stocks at seemingly opportune times.</p>
+<p>Nearly one in three Environmental Protection Agency (EPA) officials have reported owning investments in companies lobbying the agency, holding up to $2 million in shares in fossil fuel companies on average yearly between 2016 and 2021. Donald Trump official Michael Molina, for instance, a senior adviser to the deputy EPA administrator, had owned oil and gas stocks that could have benefited from Trump’s policies favoring fossil fuel companies.</p>
+<p>In another potential conflict of interest, Food and Drug Administration (FDA) official Malcolm Bertoni owned a number of stocks in food and drug companies that he said the agency gave him permission to own — despite those companies being on the <a href="https://www.fda.gov/about-fda/ethics/listing-prohibited-investment-funds">agency’s no-buy list</a>. And Defense Secretary office officials collectively owned between $1.2 and $3.4 million in defense contractors or defense companies on average in the studied years.</p>
+<p>The timing of these trades is suspect, potentially suggesting insider trading. The report found that more than 60 officials had traded stocks in companies just before their agencies announced actions against them. One Defense Department official, Greg Zacharias, had bought stock in Lockheed Martin five times just before the Pentagon awarded it a new $1 billion contract.</p>
+<p>It’s possible that many of these trades were legal, even if there are conflicts of interest. While officials aren’t allowed to do work that could affect their personal finances, laws around trading are regularly unenforced — and the laws are often weak enough that officials can work around them.</p>
+<p>Many of these potentially conflicted trades “clearly violate the spirit behind the law, which is to maintain the public’s confidence in the integrity of the government,” ethics lawyer and former general counsel for the <a href="https://www.acus.gov/contacts/don-fox">U.S. Office of Government Ethics</a> Don Fox told <i>The Wall Street Journal</i>.</p>
+<p>The report comes at a time when government officials’ ability to trade stocks is under scrutiny. Democrats and Republicans have been pushing for a ban on Congress members’ ability to trade stocks for months, and many of the officials whose stock trades were analyzed by the report <a href="https://truthout.org/articles/democratic-leaders-will-likely-delay-vote-on-stock-ban-until-after-the-election/">may be banned</a> from trading stocks under Democrats’ latest bill, introduced by Democratic leaders late last month.</p>
+<p>Ethics experts say high level lawmakers and officials should indeed be banned from trading stocks, not only to prevent potential conflicts of interest but also to restore public trust in government agencies and decision making. But advocates for a stock ban say that the issue of banning executive and judiciary branch officials from trading stocks should be brought to a separate vote, rather than included in the same proposal for members of Congress, noting that Democratic leaders included a vast range of officials in their bill in order to garner opposition from Republicans and potentially doom its passage.</p>
+<p>Truthout is funded almost entirely by readers — that’s why we can speak truth to power and cut against the mainstream narrative. But independent journalists at Truthout face mounting political repression under Trump.</p>
+<p>We rely on your support to survive McCarthyist censorship. <strong>Please make a tax-deductible one-time or monthly donation.</strong></p>
