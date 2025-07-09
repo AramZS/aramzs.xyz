@@ -52,10 +52,10 @@ const dateInfoObjMaker = (initialDateString) => {
 const createReadwiseObj = (data) => {
   let dateInfoObj = {};
   try {
-    dateInfoObj = dateInfoObjMaker(data.created_at);
+    dateInfoObj = dateInfoObjMaker(data.saved_at);
   } catch (e) {
-    console.log('Date error', e, data.created_at);
-    throw new Error('Could not parse date ' + data.created_at)
+    console.log('Date error', e, data.saved_at);
+    throw new Error('Could not parse date ' + data.saved_at)
   }
   console.log('Date processed to', dateInfoObj);
   const { isoDate, day, month, year, dateFileString } = dateInfoObj;
