@@ -1,0 +1,52 @@
+---
+author: 'By Cleve R. Wootson Jr., Maeve Reston, Marianna Sotomayor'
+cover_image: >-
+  https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SFKJP7P7LJZR6WCUPNZBP2LV4M.jpg&w=1440
+date: '2025-07-10T00:59:39.874Z'
+dateFolder: 2025/07/09
+description: >-
+  California Gov. Gavin Newsom (D), during a trip to South Carolina, highlighted
+  the plight of Los Angeles communities still recovering from devastating
+  wildfires.
+isBasedOn: >-
+  https://www.washingtonpost.com/politics/2025/07/09/texas-flooding-trump-politics-disaster-relief/
+link: >-
+  https://www.washingtonpost.com/politics/2025/07/09/texas-flooding-trump-politics-disaster-relief/
+slug: >-
+  2025-07-09-httpswwwwashingtonpostcompolitics20250709texas-flooding-trump-politics-disaster-relief
+tags:
+  - climate
+  - politics
+  - baselines
+title: >-
+  Texas flooding focuses attention on Trump’s disaster relief - The Washington
+  Post
+---
+<p>California Gov. Gavin Newsom (D), during a trip to South Carolina this week, highlighted the plight of Los Angeles-area communities still reeling from January’s devastating wildfires.</p>
+<p>For months, California Gov. Gavin Newsom (D) has pressed the GOP-led Congress to free up $40 billion in federal relief for swaths of Los Angeles consumed by devastating wildfires.</p>
+<p>President Donald Trump and other Republicans have so far withheld the funds, with many arguing that Newsom and other Democrats in the deep-blue state have mishandled the fires and should be forced to rescind liberal policies in exchange for aid.</p>
+<p>But now deadly floods have struck ruby-red Texas — and the Republican response is much different, with Trump and others promising unfettered and prompt federal support in the months and years to come.</p>
+<p>The contrast underscores the extent to which the Trump administration treats blue and red states differently, whether in disaster response or in targeting liberal areas for aggressive immigration enforcement.</p>
+<p>“In Texas, they have very different points of view than we do in California on policy, but I would never imagine conditioning or arguing that our congressional delegation condition aid to Texas until they changed some policy on an ancillary issue,” Newsom said during an appearance in South Carolina this week.</p>
+<p>The tone of Newsom’s comments, tame in contrast to the barbs that often fly between him and Trump, reflect the efforts of politicians on both sides to avoid being seen as politicizing the catastrophe in Texas, where at least 117 people — nearly a quarter of them children — were killed during holiday weekend flash floods. More than 160 people remain unaccounted for, meaning the death toll is sure to rise.</p>
+<p>Trump is slated to visit the state on Friday, fulfilling a unifying public ritual for commanders in chief as he and other White House officials continue to deflect questions about whether anything could have prevented the devastation. The stance is unusual for Trump, who is not shy about assigning blame and has done so repeatedly in the aftermath of past tragedies — at several points critiquing Newsom and other California Democrats.</p>
+<p>When Hurricane Helene hit North Carolina last year, Trump accused his Democratic predecessor, Joe Biden, of playing politics with the federal response to a Republican area. He dashed to storm-ravaged parts of the South, drawing criticism of his own that the security footprint of a presidential candidate diminished recovery efforts and that his <a href="https://www.washingtonpost.com/politics/2024/10/04/trump-hurricane-helene-fema-money-misinformation/">false claims about the federal response stopped victims</a> from getting needed help.</p>
+<p>In the case of Kerr County, four months’ worth of rain fell in just a few hours. Thunderstorms parked over a swath of Hill Country known as Flash Flood Alley and sent a wall of water downstream as people slept. “This is a hundred-year catastrophe, and it’s just so horrible to watch,” Trump told reporters on Sunday.</p>
+<p>While no one has so far publicly accused any officials of negligence or criminality in failing to prevent the deaths — among them more than a dozen girls attending a camp on the banks of the Guadalupe River — questions remain about forecasting and communications as conditions worsened, among others.</p>
+<p>Kendall Scudder, chairman of the Texas Democratic Party, in an interview said Republicans “up and down the ballot” deserved blame for not doing more to prepare for the floods, and he rejected the notion that it was too soon to scrutinize their actions.</p>
+<p>“This is an atrocious situation, but we’re doing everyone a disservice if every time something like this happens, we say, ‘Now’s not the time for politics,’” Scudder said, acknowledging he was an outlier in his party for raising concerns at this stage.</p>
+<p>The conversations occur against the backdrop of the Trump administration’s widespread cuts to the federal workforce, which include agencies that deal with forecasting and emergency preparedness. Trump’s White House has bashed the Federal Emergency Management Agency since his second inauguration, and, in May, pushed out the agency’s acting head. Both the president and Homeland Security Secretary Kristi L. Noem have expressed a desire to eradicate the disaster relief agency, even as a council studies whether it should continue to exist.</p>
+<p>The White House has cast as insensitive critics who questioned the performance of the government’s weather warning system. “Blaming President Trump for these floods is a depraved lie, and it serves no purpose during this time of national mourning,” White House press secretary Karoline Leavitt said on Monday, defending the National Weather Service.</p>
+<p>But Republicans, including Trump and House Speaker Mike Johnson (R-Louisiana), have <a href="https://www.washingtonpost.com/politics/2025/01/08/california-fires-trump-newsom-biden-politicians/">sought to hold Newsom responsible</a> during fraught moments for California — including in the aftermath of wildfires in January.</p>
+<p>The state and its prominent cities have long been in Trump’s crosshairs, held up as examples of places poorly run by leaders who, in Trump’s estimation, don’t do enough to mitigate the disasters that befall them. Newsom, who may run for president in 2028, has especially drawn Trump’s public ire, but several Democratic leaders in California have openly sparred with the president on a wide range of issues — from immigration enforcement in “sanctuary cities” to the president’s ability to put troops on the street in California communities. Newsom himself is named in a lawsuit that seeks to restrict Trump’s use of the National Guard to quell protests in Los Angeles. Trump, for his part, offered to have Newsom arrested.</p>
+<p>Congress has not yet acted on California’s $40 billion request. Still, despite the president’s bluster on Truth Social, the Trump administration has honored a commitment by the Biden administration that the federal government would cover all of California’s recovery costs for the first 180 days. In addition, California recently received $3 billion in federal loan assistance for small businesses damaged by the fires (That was part of Newsom’s original $40 billion request).</p>
+<p>Disaster relief and recovery are always emotionally and politically charged, as governments surge relief to their constituents at the moment of greatest duress. But the response also offers an instant report card on the party in power, and can present an opportunity for political opponents to highlight inadequacies of the government response. George W. Bush’s handling of the Hurricane Katrina response continues to haunt his legacy. Both Trump and Democratic nominee Kamala Harris sprinted to Georgia and North Carolina after Helene, to make the argument about who would most competently handle the response.</p>
+<p>Congressional Democrats have been largely muted on the response in Texas. On Monday, Sen. Charles E. Schumer (New York) the body’s top Democrat, asked the Commerce Department’s inspector general to investigate whether cuts to the National Weather Service helped balloon the death toll. Two House Democrats who are longtime Trump critics — Bennie G. Thompson (Mississippi) and Joaquin Castro (Texas) — also have called for an investigation into whether staffing cuts played a role in the death toll.</p>
+<p>Republicans have not voiced major concerns about warnings in advance of the deadly floods, though the political calculus of conservatives in disaster-prone states is more nuanced, said Chris Cooper, a political science professor at Western Carolina University whose home was damaged by Hurricane Helene.</p>
+<p>“It’s a political suicide note to say FEMA is doing a great job, nothing to see here. And it’s political suicide to say ‘kill FEMA entirely’ and that whole thing needs to be funded by or overseen by state and nonprofit organizations,” Cooper said. “They have a brand that says government isn’t the solution, but if there’s one time when people look for government as the solution, it’s times like this.”</p>
+<p>Sen. Ted Cruz, a Texas Republican who is chairman of the Senate committee that oversees the National Weather Service, said any initial cuts to FEMA should be surgical.</p>
+<p>“Whether FEMA is structured as a freestanding agency or restructured in another form — I think everyone also agrees reforms that make FEMA more nimble, able to respond more quickly to a disaster, those reforms are beneficial,” he told reporters. “But regardless of the precise structure, the role is critical.”</p>
+<p>Cruz said that he was open to discussing whether the Weather Service needs more staff and what other steps could be taken, but that it was not short-staffed during the floods. Any examination “should be done calmly based on the facts and not an exercise in political rock-throwing,” he said.</p>
+<p>Sen. John Cornyn (R-Texas) echoed Cruz in a speech Tuesday on the Senate floor.</p>
+<p>“Some here in the nation’s capital and elsewhere are asking: How could this happen? And what, if anything, could we possibly do to prevent a recurrence?” Cornyn said. “We can, and we should, try to answer those questions — but not now. Now, we need to focus on recovery efforts that are currently underway.”</p>
+<p><i>Patrick Svitek and Theodoric Meyer contributed to this report.</i></p>
