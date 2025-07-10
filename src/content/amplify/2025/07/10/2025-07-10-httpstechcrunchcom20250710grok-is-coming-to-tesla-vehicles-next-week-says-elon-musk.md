@@ -1,0 +1,27 @@
+---
+author: Rebecca Bellan
+cover_image: >-
+  https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804
+date: '2025-07-10T18:57:55.961Z'
+dateFolder: 2025/07/10
+description: "Elon Musk said in a post on X early Thursday morning that Grok – the chatbot from his AI company, xAI – will be coming to Tesla vehicles “very soon.”\_“Next week at the latest,” he said."
+isBasedOn: >-
+  https://techcrunch.com/2025/07/10/grok-is-coming-to-tesla-vehicles-next-week-says-elon-musk/
+link: >-
+  https://techcrunch.com/2025/07/10/grok-is-coming-to-tesla-vehicles-next-week-says-elon-musk/
+slug: >-
+  2025-07-10-httpstechcrunchcom20250710grok-is-coming-to-tesla-vehicles-next-week-says-elon-musk
+tags:
+  - cars
+  - tech
+title: 'Grok is coming to Tesla vehicles ‘next week,’ says Elon Musk'
+---
+<figure><img alt="The Grok app on a smartphone" sizes="(max-width: 1024px) 100vw, 1024px" src="https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg" srcset="https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg 1920w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=150,101 150w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=300,201 300w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=768,515 768w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=680,456 680w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804 1200w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1280,858 1280w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=430,288 430w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=720,483 720w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=900,603 900w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=800,536 800w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1536,1030 1536w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=668,448 668w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=559,375 559w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=920,617 920w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=708,475 708w, https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=50,34 50w"/><figcaption>Image Credits:Andrey Rudakov / Bloomberg / Getty Images</figcaption></figure>
+<p>Elon Musk said in a <a href="https://x.com/elonmusk/status/1943251229511160001">post on X</a> early Thursday morning that Grok, the chatbot from his AI company, xAI, will be coming to Tesla vehicles “very soon.”</p>
+<p>“Next week at the latest,” he said.</p>
+<p>The news that Grok would be coming to Tesla vehicles soon comes several hours after <a href="https://techcrunch.com/2025/07/09/elon-musks-xai-launches-grok-4-alongside-a-300-monthly-subscription/">xAI debuted</a> the latest flagship AI model, Grok 4. Fans had wondered loudly why Musk spent an hour late on Wednesday talking about Grok with no mention of a Tesla integration, which likely prompted the billionaire’s early morning announcement.</p>
+<p>The update also comes as adjustments to Grok have made the chatbot more prone to misbehavior — including making <a href="https://techcrunch.com/2025/07/08/grok-is-being-antisemitic-again-and-also-the-sky-is-blue/">antisemitic comments</a>, slating the Democrats, and <a href="https://bsky.app/profile/whstancil.bsky.social/post/3lti3mouuyc2x">even rape threats</a>. X <a href="https://techcrunch.com/2025/07/09/x-takes-grok-offline-changes-system-prompts-after-more-antisemitic-outbursts/">took down Grok</a> temporarily on Wednesday to attempt to solve the problem.</p>
+<p>Musk is known for making Tesla-related announcements on X, the social media platform he owns, oftentimes before he even tells his own engineers. In this case, they might have seen it coming. Musk has teased that Grok would end up in Tesla vehicles as an AI assistant for months, saying that Tesla drivers would be able to chat conversationally with their cars and ask Grok to perform certain tasks.</p>
+<p>While poking around in Tesla’s firmware, a hacker who goes by the name “green” last week <a href="https://x.com/greentheonly/status/1939887217536557268?s=46&amp;t=Mj3Wz0ulX1Eu1u4P8DTbQg">found</a> that drivers can choose between certain Grok “personalities,” including ones that are NSFW (not safe for work). There seem to be a<a href="https://x.com/greentheonly/status/1934410916470137029?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1934410916470137029%7Ctwgr%5E6847b13644f29f8dde3630aa22e866e80c2f3920%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.teslarati.com%2Ftesla-grok-integrationmore-realistic-this-cool-feature%2F"> lot of personalities</a> to choose from, including argumentative, conspiracy, kids story, sexy, therapist, unhinged, and more.</p>
+<p>Green’s findings also suggest that Grok will only be available on newer vehicles with Hardware 3.</p>
+<p>Grok will also be the voice and brain for Tesla’s humanoid robot Optimus, Musk <a href="https://x.com/elonmusk/status/1937776062328668469">confirmed</a> recently.</p>
