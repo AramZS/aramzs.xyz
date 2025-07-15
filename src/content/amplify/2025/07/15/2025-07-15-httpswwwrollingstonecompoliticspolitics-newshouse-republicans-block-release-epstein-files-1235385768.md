@@ -1,0 +1,33 @@
+---
+author: Nikki McCann Ramirez
+cover_image: >-
+  https://www.rollingstone.com/wp-content/uploads/2025/07/gop-house-blocks-epstein-release.jpg?w=1600&h=900&crop=1
+date: '2025-07-15T16:54:33.926Z'
+dateFolder: 2025/07/15
+description: >-
+  House Republicans blocked a Democratic effort to compel the Justice Department
+  to release documents related to the case against Jeffrey Epstein.
+isBasedOn: >-
+  https://www.rollingstone.com/politics/politics-news/house-republicans-block-release-epstein-files-1235385768/
+link: >-
+  https://www.rollingstone.com/politics/politics-news/house-republicans-block-release-epstein-files-1235385768/
+slug: >-
+  2025-07-15-httpswwwrollingstonecompoliticspolitics-newshouse-republicans-block-release-epstein-files-1235385768
+tags:
+  - culture
+  - politics
+title: House Republicans Block Release of Epstein Files
+---
+<figure><img alt="In this handout, the mug shot of Jeffrey Epstein, 2019.  (Photo by Kypros/Getty Images)" data-lazy-loaded="1" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" src="https://www.rollingstone.com/wp-content/uploads/2025/07/gop-house-blocks-epstein-release.jpg?w=1581&amp;h=1054&amp;crop=1" srcset="https://www.rollingstone.com/wp-content/uploads/2025/07/gop-house-blocks-epstein-release.jpg?w=1581&amp;h=1054&amp;crop=1 1800w, https://www.rollingstone.com/wp-content/uploads/2025/07/gop-house-blocks-epstein-release.jpg?w=1581&amp;h=1054&amp;crop=1&amp;resize=300%2C200 300w"/><figcaption>The mug shot of Jeffrey Epstein, 2019. Kypros/Getty Images</figcaption></figure>
+<p>In a late night vote at the Capitol on Monday, House Republicans blocked a Democratic effort to unseal documents related to the investigation into convicted sex offender <a data-tag="jeffrey-epstein" href="https://www.rollingstone.com/t/jeffrey-epstein/">Jeffrey Epstein</a>. Republicans have long stoked conspiracies about the disgraced financier’s death, voted against the resolution in the heat of <a href="https://www.rollingstone.com/politics/politics-news/andrew-schulz-trump-epstein-campaign-promises-1235383715/">a MAGA civil war</a> over the Trump administration’s backtracking on the release of the files.</p>
+<p>The House Rules Committee voted down a bid by Democrats to attach an amendment <a href="https://www.rollingstone.com/politics/politics-features/elizabeth-warren-crypto-bill-genius-act-bad-idea-1235362570/">to the GENIUS Act</a> — a controversial piece of cryptocurrency legislation currently making its way through <a data-tag="congress" href="https://www.rollingstone.com/t/congress/">Congress</a> — that would have allowed Congress to vote on whether to compel the Justice Department to make public documents and information related to the case. The vote failed 6-5, with only one Republican joining Democrats to vote in favor of the amendment.</p>
+<p>Last week, the Justice Department <a href="https://www.rollingstone.com/politics/politics-features/trump-epstein-files-maga-obama-clinton-created-1235384494/">shocked the MAGA media universe</a> by releasing a memo announcing that they are closing the investigation into Epstein, that Epstein died by suicide, and there is no “incriminating” client list of people who potentially participated in Epstein’s sex trafficking ring that merits further inquiry. The memo contradicted preaching from prominent figures within the administration — including Attorney General Pam Bondi and FBI Director Kash Patel — about the need to expose the real circumstances surrounding Epstein’s death, and bring justice to victims.</p>
+<p><em>Rolling Stone </em><a href="https://www.rollingstone.com/politics/politics-features/epstein-memo-justice-department-maga-1235380042/">reported</a> that the administration knew the memo would cause a revolt within their base. Now that the administration is struggling to put the lid back on the <a href="https://www.rollingstone.com/culture/culture-news/epstein-video-missing-minute-1235380702/">conspiratorial Pandora’s Box</a>, Democrats are making a point to egg on the strife on the other side of the aisle.</p>
+<p>“Why are the Epstein files still hidden? Who are the rich &amp; powerful being protected?” Rep. Ro Khanna (D-Calif.), who introduced the failed amendment, <a href="https://x.com/RoKhanna/status/1944243029981770104">wrote</a> Saturday night on X. “On Tuesday, I’m introducing an amendment to force a vote demanding the FULL Epstein files be released to the public. The Speaker must call a vote &amp; put every Congress member on record.”</p>
+<p>Rep. Hank Johnson (D-Ga.) even <a href="https://x.com/rephankjohnson/status/1944919273031274956?s=46">composed a parody song</a> to the tune of Jason Isbell’s “Dreamsicle,” in which he mocked Republicans for “telling us you’d release the files.”</p>
+<p>“You’ve had plenty of time / You’re in control / But now you say / You will withhold — the Epstein files,” Johnson sang.</p>
+<p>Last week the Democratic National Committee <a href="https://x.com/TrumpEpsteinBot">launched an automated X account</a> dubbed the “TrumpEpsteinBot.” Every day the bot, with the name “Has Trump Released the Epstein Files,” posts the word “no.”</p>
+<p>“Wow who would have thought that electing a rapist would have complicated the release of the Epstein Files?” Rep. Alexandria Ocasio-Cortez (D-N.Y.), <a href="https://x.com/AOC/status/1943736675877658637">wrote last Friday on X</a>, referencing longstanding <a href="https://19thnews.org/2023/10/donald-trump-associates-sexual-misconduct-allegations/">allegations of sexual assault</a> against President Trump.</p>
+<p>For his own part, Trump is trying to combat the fallout with a conspiracy theory of his own: that the Democrats actually created the files.</p>
+<p>“We’re on one Team, MAGA, and I don’t like what’s happening. We have a PERFECT Administration, THE TALK OF THE WORLD, and ‘selfish people’; are trying to hurt it, all over a guy who never dies, Jeffrey Epstein. For years, it’s Epstein, over and over again,” he wrote <a href="https://truthsocial.com/@realDonaldTrump/posts/114842356238631061">Saturday on Truth Social.</a> “Why are we giving publicity to Files written by Obama, Crooked Hillary, Comey, Brennan, and the Losers and Criminals of the Biden Administration, who conned the World with the Russia, Russia, Russia Hoax, 51 ‘Intelligence” Agents, ‘HE LAPTOP FROM HELL,’ and more? They created the Epstein Files, just like they created the FAKE Hillary Clinton/Christopher Steele Dossier that they used on me, and now my so-called ‘friends’ are playing right into their hands.”</p>
+<p>Epstein died in 2019, in the middle of Trump’s first presidency. The government’s files on the matter will apparently remain hidden through the course of his second.</p>

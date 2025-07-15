@@ -1,0 +1,49 @@
+---
+author: 'By Hannah Natanson, Ellen Nakashima, Cate Cadell'
+cover_image: >-
+  https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FFW3NTNKP55GTR4AXMTCTKW2FI_size-normalized.jpg&w=1440
+date: '2025-07-14T22:07:08.912Z'
+dateFolder: 2025/07/14
+description: >-
+  The State Department fired personnel and consolidated offices that help craft
+  the U.S. diplomatic response to China’s aggression in Asia and global tech
+  competition.
+isBasedOn: >-
+  https://www.washingtonpost.com/national-security/2025/07/14/state-department-rubio-firings-china/
+link: >-
+  https://www.washingtonpost.com/national-security/2025/07/14/state-department-rubio-firings-china/
+slug: >-
+  2025-07-14-httpswwwwashingtonpostcomnational-security20250714state-department-rubio-firings-china
+tags:
+  - china
+  - politics
+  - baselines
+title: >-
+  State Department cuts China policy staff amid major overhaul - The Washington
+  Post
+---
+<p>Personnel involved in crafting the U.S. response to Beijing’s aggression in the South China Sea, and efforts in AI and quantum competition have been laid off as the agency cut more than 1,300 jobs.</p>
+<p>As Secretary of State Marco Rubio was making his first trip to Asia last week, staff members who coordinated the policy engagements with partner countries and drafted his talking points were about to be fired, according to two State Department officials.</p>
+<p>The sweeping State Department reorganization that was launched last week has <a href="https://www.washingtonpost.com/politics/2025/07/10/state-department-layoffs-federal-employees/">trimmed personnel and consolidated offices</a> that help craft the U.S. diplomatic response to Beijing’s aggression in Asia and deal with the global tech competition with China, said current and former officials, who, like others interviewed, spoke on the condition of anonymity to avoid reprisals.</p>
+<p>A State Department spokesperson said that mission-critical functions will be integrated elsewhere in the department. “Many of the offices that we plan to eliminate originally were created to address specific needs,” the spokesperson said in a statement to The Washington Post. “But the world has changed … we saw that many of these offices had served an outdated purpose, had strayed from their original purpose, or were simply duplicative.”</p>
+<p>But other current and former officials and personnel fear that the effort, which targeted civil service employees with years of expertise, will primarily benefit China — not the American taxpayer. They warn that against the backdrop of President Donald Trump’s aggressive tariff policy and China’s concerted efforts to woo countries in the region, the moves will hand the advantage to Beijing in the global contest for influence.</p>
+<p>Among the offices cut was the Office of Multilateral Affairs within the Bureau of East Asian and Pacific Affairs, which managed U.S. engagement with the countries that make up the Association of Southeast Asian Nations (ASEAN) and coordinated the diplomatic response to China’s aggression in the South China Sea, according to several current and former officials.</p>
+<p>Also gone is the Office of Security and Transnational Affairs in the Bureau of South and Central Asian Affairs, which handled hundreds of millions of dollars in foreign assistance programs and had expertise on issues related to technology and security involving the “Quad,” a group of partners key to countering China’s assertiveness in the region and which includes Australia, India and Japan, the current and former officials said.</p>
+<p>Two experts in quantum technology, including a scientist with a PhD in quantum physics, and three experts in artificial intelligence were fired as well as most of the team in the Bureau of Cyberspace and Digital Policy that handles U.S. engagement with partner countries to prevent China from prevailing in AI and 5G wireless technologies, and in global data policy.</p>
+<p>“Technology is the center of the overall competition with China, and AI is foundational,” said one official familiar with the cuts. “You’ve just gutted the heart of the tech competition with China.’’</p>
+<p>Beijing has been seeking to pick off U.S. partners in Southeast Asia one by one, enticing them with infrastructure projects. By shuttering the multilateral affairs office, which sought to coordinate a response on a regional level, “they’ll be playing into China’s hand,” said another official, noting that Beijing prefers to see the United States handle countries bilaterally.</p>
+<p>“From the perspective of competing with China in the Indo-Pacific, it is confounding to see the State Department eliminate teams responsible for some of the most critical elements of that competition, even as Rubio claims that China is his number one priority,” said Henrietta Levin, former deputy China coordinator for global affairs at State in the Biden administration.</p>
+<p>One senior department official pushed back on the ramifications of the cuts. Ending redundancies was long overdue, said the official, noting that South China Sea issues were being handled by three different offices, including multilateral affairs, within the Bureau of East Asian and Pacific Affairs (EAP). “How does that make any sense?” the official said.</p>
+<p>The multilateral affairs office once handled foreign assistance to countries in the region. That responsibility will now move to the East Asian and Pacific Affairs bureau’s Office of Regional Assistance and Security Policy Affairs, which will also lead coordination on regional security issues and policy engagement with the Quad.</p>
+<p>The EAP bureau “will end up much stronger in the end,” said the official.</p>
+<p>According to a congressional aide, ASEAN functions will be transferred to the ASEAN mission office in Jakarta, Indonesia. Another office that handled maritime Southeast Asia issues will be merged into a new Office of Southeast Asian affairs. That office will also be responsible for bilateral engagement on South China Sea issues with Southeast Asian states.</p>
+<p>The cuts are part of the largest wave of layoffs at the State Department in decades, affecting diplomats who worked on global women’s issues and U.S. soft power initiatives, as well as those in charge of chemical weapons policy and multilateral nuclear diplomacy. The agency described the effort as a move to eliminate “bloat” and root out inefficiencies. Notices were sent Friday to more than 1,100 civil servants and 240 Foreign Service officers, officials said.</p>
+<p>“I can empathize with Secretary Rubio’s desire to streamline operations,” said Ryan Fedasiuk, a former bilateral affairs adviser in the Office of China Coordination. “The old system was nearly unworkable. But the cuts to these specific [Asia] bureaus and offices are hamstringing American presence in precisely the key battlegrounds of Sino-American competition for influence — Southeast Asia prime among them.”</p>
+<p>The most effective way to counter China’s military and economic coercion in the region involves strengthening alliances and crafting strategic partnerships with the countries affected, said Mira Rapp-Hooper, a former Asia policy aide in the Biden White House. “U.S.-China competition doesn’t occur in a bilateral vacuum,” she said. “Cutting foreign aid and the diplomats who know how to engage in this critical region is tantamount to surrender.”</p>
+<p>Among those laid off Friday were desk officers who helped draft policy for Rubio’s trip to the ASEAN summit in Malaysia last week, where he met with counterparts from the Southeast Asian bloc and laid the groundwork for a potential meeting between Trump and Chinese leader Xi Jinping.</p>
+<p>While the United States is not a member of ASEAN, the forum serves as a key platform for dialogue between Washington and regional partners as they navigate tensions with Beijing.</p>
+<p>Separately, the White House Office of Management and Budget last month directed State to scrap nearly all of its foreign assistance programs in the Bureau of Democracy, Human Rights, and Labor, including its initiatives in China, effectively gutting its efforts to promote civil liberties and political reform there.</p>
+<p>The top Democrat on the Senate Foreign Relations Committee released a <a href="https://www.foreign.senate.gov/imo/media/doc/sfrc_minority_china_report.pdf">report</a> Monday concluding that over the past six months the United States has abandoned many tools long used to counter Beijing’s tactics of disinformation, maritime harassment and economic coercion. “President Trump’s sweeping and non-strategic cuts,” his trade war against allies, gutting of the U.S. Agency for International Development have “deeply undermined U.S. competitiveness” against China, said Sen. Jeanne Shaheen (D-New Hampshire).</p>
+<p>Rubio — who has long been a China hawk and described Beijing as an unprecedented rival in his confirmation hearing in January — spoke positively of the progress made between the two countries. Following a meeting with his Chinese counterpart, Foreign Minister Wang Yi, on the sidelines of the ASEAN summit Friday, he said he expects Trump and Xi <a href="https://www.washingtonpost.com/national-security/2025/07/10/rubio-meets-chinese-counterpart/">could soon meet.</a></p>
+<p>Rubio noted that the United States has had long relationships with ASEAN’s 10 member states and cited 6,000 American companies invested in Southeast Asian economies. “We’re not walking away from our defense ties that we have in the region,” he said. “We’re not walking away from the strong economic ties we have in the region. On the contrary we want to build on it.”</p>
+<p><i>Adam Taylor and Aaron Schaffer contributed to this report.</i></p>
