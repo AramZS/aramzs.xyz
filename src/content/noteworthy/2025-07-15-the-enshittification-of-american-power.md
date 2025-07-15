@@ -1,5 +1,5 @@
 ---
-title: "Everything works badly, everything can be turned against you, and everyone else has fled"
+title: "\"Everything works badly, everything can be turned against you, and everyone else has fled\""
 tags:
   - Notable Articles
   - foreign affairs
