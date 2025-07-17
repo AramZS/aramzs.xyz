@@ -1,0 +1,44 @@
+---
+author: Maldita.es - Periodismo para que no te la cuelen
+cover_image: >-
+  https://files.maldita.es/maldita/uploads/images/2025/07/68764fa4d93e9network-international-scam-public-transport-facebook-webp.webp
+date: '2025-07-17T16:54:31.683Z'
+dateFolder: 2025/07/17
+description: >-
+  From Dakar in Senegal to Astana in Kazakhstan, the same scheme repeats itself:
+  Facebook pages pretending to be local public…
+isBasedOn: >-
+  https://maldita.es/investigaciones/20250716/transport-scam-network-international-facebook/
+link: >-
+  https://maldita.es/investigaciones/20250716/transport-scam-network-international-facebook/
+slug: >-
+  2025-07-17-httpsmalditaesinvestigaciones20250716transport-scam-network-international-facebook
+tags:
+  - tech
+  - fraud
+  - social media
+title: >-
+  More than 1,000 fraudulent Facebook pages in 60 countries: the international
+  network of public transport scams and its links to Russia and Vietnam
+---
+<figure><img src="https://files.maldita.es/maldita/uploads/images/2025/07/68764fa4d93e9network-international-scam-public-transport-facebook-webp.webp"/></figure>
+<p>Claves:</p>
+<ul><li><em>Maldita.es</em> has identified 1,075 Facebook pages impersonating public transportation services in 746 cities and regions around the world, but they are phishing scams</li><li>More than half of the Facebook pages involved are linked to domains hosted on two IP addresses from the same provider in Russia, and according to Meta’s data, over 50% of the administrators with known locations are based in Vietnam.</li><li>Meta was aware of the scam: 37% of the pages used ads that were removed for violating policies, and <em>Maldita.es</em> had already <a href="https://maldita.es/investigaciones/20250619/report-meta-posts-scam-facebook-dsa/"><em>reported 58 similar fraudulent pages</em></a> in Spain</li></ul>
+<p>From <a href="https://web.archive.org/web/20250703113211/https://www.facebook.com/people/Dakar-Dem-Dikk/61573050370868/">Dakar in Senegal</a> to <a href="https://web.archive.org/web/20250704071237/https://www.facebook.com/people/%D0%90%D0%BB%D0%BC%D0%B0%D1%82%D1%8B-%D2%9B%D0%B0%D0%BB%D0%B0%D1%81%D1%8B%D0%BD%D0%B4%D0%B0%D2%93%D1%8B-%D2%9B%D0%BE%D2%93%D0%B0%D0%BC%D0%B4%D1%8B%D2%9B-%D0%BA%D3%A9%D0%BB%D1%96%D0%BA/61576675478011/">Astana in Kazakhstan</a>, the same scheme repeats itself: Facebook pages <a href="https://maldita.es/investigaciones/20250612/facebook-pages-scam-transportation-card-spain/">pretending to be local public transportation services</a> offer travel cards at very low prices. <strong>That’s how the scam begins</strong>. The real goal is to lead users to phishing websites in order to steal their credit card information. We identified <strong>1,075 pages replicating this scam</strong> between July 2024 and July 2025 across <strong>746 cities and regions in 60 different countries</strong>.</p>
+<p>Not only the reach of this scam is global, its structure is as well. According to data provided by Meta, <strong>more than half of the administrators are believed to be located in Vietnam</strong>, while the <strong>majority of the promoted domains are hosted on just two IP addresses from the same provider in Russia</strong>.</p>
+<p>In this scam, Meta’s own advertising system plays a key role. Even though these pages generally have few followers, many managed to massively spread their <em>phishing</em> posts thanks to more than <strong>9,000 paid ads on Facebook and Instagram</strong>. Although Meta removed at least one ad on 55% of these pages for violating advertising rules, <strong>all of the pages were still publicly accessible</strong> at the time the data was collected (July 2025), even months after their initial activity.</p>
+<h2>An international structure for scamming</h2>
+<p>Beyond the content of the promoted posts, Meta had other warning signs indicating this wasn’t an isolated case but rather coordinated networks that could have been acted upon. Nearly one in five pages changed names at some point, and many were recycled to offer supposed transportation services in different cities. For example, one page initially posed as the public transport agency of Le Havre (France), but later transformed into the supposed transport company of Peterborough, United Kingdom.</p>
+<p>Additionally, other pages followed <strong>repetitive naming patterns</strong> before being activated for the scam.</p>
+<p>This scam isn’t international just because it affects 60 countries, but also because the structure of those carrying it out seems to be spread across the globe. Meta provides location data for the administrators of many of these fraudulent pages that pretend to offer local transport services, but <strong>in only one case does the administrator’s location match the country claimed by the page</strong>. On the contrary, there are cases like the supposed <a href="https://web.archive.org/web/20250627094045/https://www.facebook.com/people/Public-Transport-in-Brighton/61570152395251/">public transportation system of Brighton</a>, UK, which is managed by two administrators based in Thailand and Vietnam.</p>
+<p>Of the 515 administrators whose location Meta provides, <strong>more than half are in Vietnam</strong>. The next most common countries are Ukraine, Bangladesh, and the United States.</p>
+<p>Although only seven of the administrators with available location data (1.3%) are in European Union countries, <strong>68% of the fraudulent pages impersonate public transportation services that are located within the EU</strong>. The countries with the highest number of detected pages were France, Spain, the United Kingdom, and Italy. <strong>Barcelona was the most affected city in the world</strong>, with more than 20 different pages attempting to impersonate its public transport service.</p>
+<p>Back in June, we reported 58 fraudulent Facebook pages to Meta that had promoted their scams through ads in Spain. We used the reporting mechanisms established by the European Union’s Digital Services Act (DSA), but a week later, <a href="https://maldita.es/investigaciones/20250619/report-meta-posts-scam-facebook-dsa/">93% of those pages were still active</a>.</p>
+<p>A similar trend of a European focus exists in the use of Meta’s own ad platforms to promote the scam. Of the more than <strong>9,100 ads</strong> these pages ran, only <strong>20 were in non-European countries</strong>, according to Meta’s ad repository.</p>
+<h2>Domains based in Russia</h2>
+<p>According to Meta's information, the fraudulent pages are operated from over 30 different countries, with Vietnam appearing most frequently. But when analyzing the links promoted in these posts, <strong>another key country emerges: Russia</strong>.</p>
+<p>The goal of these pages is to get people to click on a link that leads to a website where users are asked to enter their <strong>credit card number</strong>, supposedly to pay for a discounted transport pass. Based on our analysis, <strong>more than half of these Facebook pages link to domains hosted on just two IP addresses</strong>, both belonging to the same provider in Russia.</p>
+<figure><img src="https://files.maldita.es/maldita/uploads/2025/07/68764ec5dc4ebfile-png.png"/><figcaption> Form asking for personal and banking information on one of the promoted websites.</figcaption></figure>
+<p><strong>590 of the 1,075 detected Facebook pages</strong> involved in the scam promoted links to domains hosted by the same Russian provider, JSC Selectel, sharing the same server across two IP addresses and DNS registration. When combined with the fact that the content was almost identical, just adapted to each targeted city, and that the ads followed the same promotion patterns, this suggests that the pages may have been managed by the <strong>same person or organization</strong>.</p>
+<p><strong>An investigation with international support</strong></p>
+<p>After uncovering <a href="https://maldita.es/investigaciones/20250612/facebook-pages-scam-transportation-card-spain/">the fraud in 47 Spanish cities</a>, fact-checking organizations from around the world contacted <a href="https://Maldita.es">Maldita.es</a> to report that they had identified the same scam in their own countries. We thank our colleagues from the European Fact-Checking Standards Network (EFCSN) and the International Fact-Checking Network (IFCN) for their collaboration, especially <a href="http://Facta.News">Facta.News</a> and <a href="http://Open.online">Open.online</a> (Italy), DPA (Germany), Faktograf and Lupa (Croatia), Teyit (Turkey), Fact Review and Ellinika Hoaxes (Greece), <a href="http://Vistinomer.mk">Vistinomer.mk</a> (North Macedonia), Raskrinkavanje (Bosnia and Herzegovina), Myth Detector and Geofacts (Georgia), <a href="http://Factcheck.bg">Factcheck.bg</a> (Bulgaria), Raskrinkavanje (Montenegro), CongoCheck (Congo)m and Sure And Share Center MCOT (Thailand).</p>
