@@ -1,0 +1,30 @@
+---
+author: Benjamin Lee
+cover_image: >-
+  https://i.guim.co.uk/img/media/312bbb0bacc438d06df6f8dd8dfa5ea9ec1f7c62/327_0_3743_2995/master/3743.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d36167e1267d272622626cc60c6bdc57
+date: '2025-07-18T12:28:57.352Z'
+dateFolder: 2025/07/18
+description: >-
+  Oscar-winning writer-director, known for Jojo Rabbit and Thor sequels,
+  attached to new take on comic book character
+isBasedOn: >-
+  https://www.theguardian.com/film/2025/jul/17/taika-waititi-judge-dredd-movie?CMP=bsky_gu
+link: >-
+  https://www.theguardian.com/film/2025/jul/17/taika-waititi-judge-dredd-movie?CMP=bsky_gu
+slug: >-
+  2025-07-18-httpswwwtheguardiancomfilm2025jul17taika-waititi-judge-dredd-moviecmpbskygu
+tags:
+  - film
+  - entertainment
+title: Taika Waititi to take on new Judge Dredd movie
+---
+<figure><picture><source media="(min-width: 980px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 980px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/312bbb0bacc438d06df6f8dd8dfa5ea9ec1f7c62/327_0_3743_2995/master/3743.jpg?width=620&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 980px)" srcset="https://i.guim.co.uk/img/media/312bbb0bacc438d06df6f8dd8dfa5ea9ec1f7c62/327_0_3743_2995/master/3743.jpg?width=620&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 740px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 740px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/312bbb0bacc438d06df6f8dd8dfa5ea9ec1f7c62/327_0_3743_2995/master/3743.jpg?width=700&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 740px)" srcset="https://i.guim.co.uk/img/media/312bbb0bacc438d06df6f8dd8dfa5ea9ec1f7c62/327_0_3743_2995/master/3743.jpg?width=700&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 660px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 660px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/312bbb0bacc438d06df6f8dd8dfa5ea9ec1f7c62/327_0_3743_2995/master/3743.jpg?width=620&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 660px)" srcset="https://i.guim.co.uk/img/media/312bbb0bacc438d06df6f8dd8dfa5ea9ec1f7c62/327_0_3743_2995/master/3743.jpg?width=620&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 480px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/312bbb0bacc438d06df6f8dd8dfa5ea9ec1f7c62/327_0_3743_2995/master/3743.jpg?width=645&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 480px)" srcset="https://i.guim.co.uk/img/media/312bbb0bacc438d06df6f8dd8dfa5ea9ec1f7c62/327_0_3743_2995/master/3743.jpg?width=645&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 320px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 320px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/312bbb0bacc438d06df6f8dd8dfa5ea9ec1f7c62/327_0_3743_2995/master/3743.jpg?width=465&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 320px)" srcset="https://i.guim.co.uk/img/media/312bbb0bacc438d06df6f8dd8dfa5ea9ec1f7c62/327_0_3743_2995/master/3743.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none"/><img alt="Taika Waititi in 2023" src="https://i.guim.co.uk/img/media/312bbb0bacc438d06df6f8dd8dfa5ea9ec1f7c62/327_0_3743_2995/master/3743.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none"/></picture><figcaption data-spacefinder-role="inline">Taika Waititi in 2023. Photograph: Eduardo Lima/EPA</figcaption></figure>
+<h2 data-gu-name="standfirst">Oscar-winning writer-director, known for Jojo Rabbit and Thor sequels, attached to new take on comic book character</h2>
+<p>Oscar-winner <a data-component="auto-linked-tag" data-link-name="in body link" href="https://www.theguardian.com/film/taika-waititi">Taika Waititi</a> is set to take on a new Judge Dredd movie.</p>
+<p>According to the <a data-link-name="in body link" href="https://www.hollywoodreporter.com/movies/movie-news/taika-waititi-tackling-judge-dredd-movie-1236311752/">Hollywood Reporter</a>, the writer-director will take the reins of the latest attempt to bring the comic book character to the screen with Drew Pearce set to take on the script.</p>
+<p>Pearce’s credits include Iron Man 3, Hobbs &amp; Shaw and The Fall Guy. He has also written the script for a new take on The Thomas Crown Affair led by Michael B Jordan.</p>
+<p>Sources tell the Hollywood Reporter that both Waititi and Pearce were childhood fans of the character. In <a data-link-name="in body link" href="https://www.youtube.com/watch?app=desktop&amp;v=uPpy81ijQJk&amp;t=47s">a 2022 interview</a>, Waititi name-checked Judge Dredd as an influence on his Marvel films.</p>
+<p>Judge Dredd is a law enforcement officer working in a dystopian society who first appeared in the British publication 2000 AD in the late 70s. In 1995, Sylvester Stallone played him in a film that underperformed at the box office and received negative reviews. The character was brought back in 2012 and played by Karl Urban in the Alex Garland-scripted Dredd which received stronger notices, but was also a commercial disappointment.</p>
+<p>The new version is reportedly more faithful to the original comics and will lean into dark humour. The aim is to kick off a new universe that could expand to both the big and small screen.</p>
+<p>New Zealand-born Waititi won the Oscar for best original screenplay for his second world war comedy Jojo Rabbit and has also directed two Thor sequels.</p>
+<p>His last film, the fact-based football comedy Next Goal Wins, was a critical and financial failure. His next is an adaptation of Kazuo Ishiguro’s Klara and the Sun starring Amy Adams and Jenna Ortega. Last year saw reports that he was looking to team up with Steven Spielberg for an adaptation of Percival Everett’s Pulitzer prize-winning novel James.</p>

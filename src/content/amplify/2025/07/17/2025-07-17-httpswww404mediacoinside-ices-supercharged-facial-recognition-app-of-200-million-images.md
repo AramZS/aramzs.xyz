@@ -1,0 +1,54 @@
+---
+author: Joseph Cox
+cover_image: >-
+  https://www.404media.co/content/images/size/w1200/2025/07/54351601887_863069b84b_k.jpg
+date: '2025-07-18T01:21:28.608Z'
+dateFolder: 2025/07/17
+description: >-
+  404 Media has seen user manuals for Mobile Fortify, ICE’s new facial
+  recognition app which allows officers to instantly look up DHS, State
+  Department, and state law enforcement databases by just pointing a phone at
+  someone’s face.
+isBasedOn: >-
+  https://www.404media.co/inside-ices-supercharged-facial-recognition-app-of-200-million-images/
+link: >-
+  https://www.404media.co/inside-ices-supercharged-facial-recognition-app-of-200-million-images/
+slug: >-
+  2025-07-17-httpswww404mediacoinside-ices-supercharged-facial-recognition-app-of-200-million-images
+tags:
+  - acab
+  - privacy
+  - immigration
+  - law and order
+title: Inside ICE’s Supercharged Facial Recognition App of 200 Million Images
+---
+<p><a href="https://www.404media.co/tag/news/">News</a> </p>
+<p>404 Media has seen user manuals for Mobile Fortify, ICE’s new facial recognition app which allows officers to instantly look up DHS, State Department, and state law enforcement databases by just pointing a phone at someone’s face.</p>
+<figure><img alt="Inside ICE’s Supercharged Facial Recognition App of 200 Million Images" data-ll-status="loading" data-sizes="(max-width: 800px) 50vw,
+                (max-width: 1170px) 60vw,
+                1400px" data-src="/content/images/size/w2000/2025/07/54351601887_863069b84b_k.jpg" data-srcset="/content/images/size/w300/2025/07/54351601887_863069b84b_k.jpg 300w,
+                /content/images/size/w600/2025/07/54351601887_863069b84b_k.jpg 600w,
+                /content/images/size/w1000/2025/07/54351601887_863069b84b_k.jpg 1000w,
+                /content/images/size/w2000/2025/07/54351601887_863069b84b_k.jpg 2000w" sizes="(max-width: 800px) 50vw,
+                (max-width: 1170px) 60vw,
+                1400px" src="https://www.404media.co/content/images/size/w2000/2025/07/54351601887_863069b84b_k.jpg" srcset="https://www.404media.co/content/images/size/w300/2025/07/54351601887_863069b84b_k.jpg%20300w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w600/2025/07/54351601887_863069b84b_k.jpg%20600w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w1000/2025/07/54351601887_863069b84b_k.jpg%201000w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w2000/2025/07/54351601887_863069b84b_k.jpg%202000w"/><figcaption>Image: U.S. Immigration and Customs Enforcement. </figcaption></figure>
+<p>ICE officers are able to point their smartphone’s camera at a person and near instantaneously run their face against a bank of 200 million images, then pull up their name, date of birth, nationality, unique identifiers such as their “alien” number, and whether an immigration judge has determined they should be deported from the country, according to ICE material viewed by 404 Media.</p>
+<p>The new material, which includes user manuals for ICE’s recently launched internal app called Mobile Fortify, provides granular insight into exactly how ICE’s new facial recognition app works, what data it can return on a subject, and where ICE is sourcing that data. The app represents an unprecedented linking of government databases into a single tool, including from the State Department, Customs and Border Protection (CBP), the FBI, and state records. It also includes the potential for ICE to later add commercially available databases that contain even more personal data on people inside the United States.</p>
+<p><b><strong>Do you know anything else about this app? I would love to hear from you. Using a non-work device, you can message me securely on Signal at joseph.404 or send me an email at joseph@404media.co.</strong></b></p>
+<p>“This app shows that biometric technology has moved well beyond just confirming someone's identity. In the hands of ICE officers, it's becoming a way to retrieve vast amounts of data about a person on demand just by pointing a camera in their face,” Dave Maass, director of investigations at the Electronic Frontier Foundation (EFF), told 404 Media. “The more they streamline its use, the more they streamline its abuse. When an officer says, ‘papers please,’ you could choose to say nothing and face the consequences; with face recognition, your options are diminished.”</p>
+<p>A memo sent to ICE officials describes Mobile Fortify as “Biometric Capture Made Easy.” Beyond facial recognition, it has a feature that allows ICE officers to use a smartphone camera to scan and save a person’s fingerprints with a feature it called “contactless fingerprints.” It says the app “allows officers to run remote identity checks in the field by capturing contactless fingerprints and facial images using their ICE-issued iPhones. The application runs facial images against over 200 million DHS and Department of State records.”</p>
+<p>A demonstration included in the material shows a person standing in front of a phone’s camera with an ellipse on the screen where their face will be scanned. “Searching Face,” the app says.</p>
+<p>The material adds that fingerprints are run against DHS’s central repository of biometrics. To capture these, the user manual tells ICE officers to “align the subject’s fingers inside of the blue box and hold until the camera has captured the prints.”</p>
+<p>ICE officers can use the tool to perform what the material describes as a “Super Query.” This includes querying multiple datasets at once related to “individuals, vehicles, airplanes, vessels, addresses, phone numbers and firearms,” according to the memo.</p>
+<p>According to screenshots of the app viewed by 404 Media, the Super Query feature can search the National Crime Information Center (NCIC), which is <a href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/national-crime-information-center-ncic-investigative-tool-guide-use?ref=404media.co"><u>an FBI-maintained database</u></a> containing “missing persons and criminal information;” the Nlets system which includes whether someone has an outstanding state warrant against them; CBP’s system that <a href="https://www.dhs.gov/publication/tecs-system-cbp-primary-and-secondary-processing-tecs-national-sar-initiative?ref=404media.co"><u>screens people at the border called TECS</u></a>; and another CBP database called the Seized Assets and Case Tracking System (SEACATS) that tracks material previously seized by CBP and ICE.</p>
+<p>After scanning a face, fingerprints, or entering details about an identity document, the app can return a “SCREENED HITS FOUND” message, according to the user manuals. Those results include the subject’s name, nationality, age and date of birth, and unique identifiers such as their “alien registration,” <a href="https://www.dhs.gov/publication/customer-identity-verification-civ-system-update?ref=404media.co"><u>and “CIV ID,”</u></a> which is a system issued by United States Citizenship and Immigration Services (USCIS). The results also include “Immig. Judge Decision,” presumably referring to whether an immigration judge has ruled on this person’s case, and “final order.” In the example given in the user manual, the immigration judge decision section says “remove.”</p>
+<p>404 Media <a href="https://www.404media.co/ice-is-using-a-new-facial-recognition-app-to-identify-people-leaked-emails-show/"><u>first revealed the existence</u></a> of Mobile Fortify in June, based on leaked ICE emails, which showed ICE was repurposing data collected when people enter or exit the United States for enforcement inside the country.</p>
+<p>Mobile Fortify differs from more well-known facial recognition tools, such as Clearview AI, because Clearview doesn’t necessarily have access to government databases. When a law enforcement officer uses Clearview, it checks a subject’s face against a massive archive of images Clearview has scraped from social media and the wider web. That can return someone’s name, potentially, and their social media presence. Mobile Fortify, meanwhile, takes someone’s identity and then burrows into DHS’s and other agencies' databases to surface much more information about the person, and information that only the government may possess.</p>
+<figure><a href="https://www.404media.co/flight-manifests-reveal-dozens-of-previously-unknown-people-on-three-deportation-flights-to-el-salvador/"><img alt="" src="https://www.404media.co/content/images/icon/favicon-3-101.svg"/>404 MediaJason Koebler<img alt="" src="https://www.404media.co/content/images/thumbnail/CECOT_tour-1.jpg"/></a></figure>
+<p>The material indicates that Mobile Fortify may soon include data from commercial providers too. One section says that “currently, LexisNexis is not supported in the application.” LexisNexis is a massive data broker <a href="https://risk.lexisnexis.com/products/accurint-for-law-enforcement?ref=404media.co"><u>that collates data</u></a> including peoples’ addresses, phone numbers, and associates. LexisNexis did not respond to a request for comment.</p>
+<p>In videos posted to social media, ICE officers have repeatedly been seen pointing their phones in a way that suggested they were scanning or taking a photo of someone’s face. It is unclear whether the officers were using this tool or not.</p>
+<p>Facial recognition technology can be inaccurate and lead to wrongful arrests. In one case, a Detroit man spent 30 hours in a jail cell because the technology thought he was a criminal, the <a href="https://www.nytimes.com/2024/06/29/technology/detroit-facial-recognition-false-arrests.html?ref=404media.co"><u><em>New York Times </em>previously reported</u></a>.</p>
+<p>“I worry ICE could be embracing a less accurate system because they’re indifferent to mistakes or even trying to build in systems that maximize chances of producing a ‘match’ that gives them a pro forma basis for stopping or detaining people, an especially accrue risk as ICE is being criticized in court for improper stops and racial profiling,” Jake Laperruque, deputy director of the Center of Democracy and Technology's Security and Surveillance Project, told 404 Media.</p>
+<p>ICE has repeatedly made mistakes during its ongoing mass deportation effort, including <a href="https://apnews.com/article/us-army-veteran-immigration-raid-53cb22251a01599a0c4d1a8d5650d050?ref=404media.co"><u>detaining American citizens</u></a> or <a href="https://www.youtube.com/watch?v=MQgtOZVU8JU&amp;ref=404media.co"><u>raiding the wrong house</u></a>.</p>
+<p>DHS did not respond to a request for comment. The FBI deferred a request for comment to ICE. The State Department did not respond.</p>
+<figure><img alt="Joseph Cox" data-src="/content/images/2023/08/404-joseph-01-1.jpg" src="https://www.404media.co/content/images/2023/08/404-joseph-01-1.jpg"/><figcaption>Joseph Cox</figcaption></figure>

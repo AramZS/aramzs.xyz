@@ -1,0 +1,38 @@
+---
+author: Mark Sweney
+cover_image: >-
+  https://i.guim.co.uk/img/media/bedb24fd55be4d151812ad050d56681b9cd1b425/1150_350_4537_3631/master/4537.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=48e22d2349ff23fe3303c5a96854e043
+date: '2025-07-18T12:22:40.711Z'
+dateFolder: 2025/07/18
+description: >-
+  Firm says technology used in El Eternauta is chance ‘to help creators make
+  films and series better, not just cheaper’
+isBasedOn: >-
+  https://www.theguardian.com/media/2025/jul/18/netflix-uses-generative-ai-in-show-for-first-time-el-eternauta?CMP=share_btn_url
+link: >-
+  https://www.theguardian.com/media/2025/jul/18/netflix-uses-generative-ai-in-show-for-first-time-el-eternauta?CMP=share_btn_url
+slug: >-
+  2025-07-18-httpswwwtheguardiancommedia2025jul18netflix-uses-generative-ai-in-show-for-first-time-el-eternautacmpsharebtnurl
+tags:
+  - ai
+  - tv
+  - entertainment
+title: Netflix uses generative AI in one of its shows for first time
+---
+<figure><picture><source media="(min-width: 980px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 980px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/bedb24fd55be4d151812ad050d56681b9cd1b425/1150_350_4537_3631/master/4537.jpg?width=620&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 980px)" srcset="https://i.guim.co.uk/img/media/bedb24fd55be4d151812ad050d56681b9cd1b425/1150_350_4537_3631/master/4537.jpg?width=620&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 740px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 740px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/bedb24fd55be4d151812ad050d56681b9cd1b425/1150_350_4537_3631/master/4537.jpg?width=700&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 740px)" srcset="https://i.guim.co.uk/img/media/bedb24fd55be4d151812ad050d56681b9cd1b425/1150_350_4537_3631/master/4537.jpg?width=700&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 660px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 660px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/bedb24fd55be4d151812ad050d56681b9cd1b425/1150_350_4537_3631/master/4537.jpg?width=620&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 660px)" srcset="https://i.guim.co.uk/img/media/bedb24fd55be4d151812ad050d56681b9cd1b425/1150_350_4537_3631/master/4537.jpg?width=620&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 480px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/bedb24fd55be4d151812ad050d56681b9cd1b425/1150_350_4537_3631/master/4537.jpg?width=645&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 480px)" srcset="https://i.guim.co.uk/img/media/bedb24fd55be4d151812ad050d56681b9cd1b425/1150_350_4537_3631/master/4537.jpg?width=645&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 320px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 320px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/bedb24fd55be4d151812ad050d56681b9cd1b425/1150_350_4537_3631/master/4537.jpg?width=465&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 320px)" srcset="https://i.guim.co.uk/img/media/bedb24fd55be4d151812ad050d56681b9cd1b425/1150_350_4537_3631/master/4537.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none"/><img alt="A scene from series one of El Eternauta (The Eternaut)." src="https://i.guim.co.uk/img/media/bedb24fd55be4d151812ad050d56681b9cd1b425/1150_350_4537_3631/master/4537.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none"/></picture><figcaption data-spacefinder-role="inline">A scene from series one of El Eternauta (The Eternaut). Photograph: Mariano Landet/Netflix</figcaption></figure>
+<h2 data-gu-name="standfirst">Firm says technology used in El Eternauta is chance ‘to help creators make films and series better, not just cheaper’</h2>
+<p>Netflix has used artificial intelligence in one of its TV shows for the first time, in a move the streaming company’s boss said will make films and programmes cheaper and of better quality.</p>
+<p>Ted Sarandos, a co-chief executive of Netflix, said the Argentinian science fiction series <a data-link-name="in body link" href="https://www.theguardian.com/world/2025/may/11/el-eternauta-netflix-series-hector-german-oesterheld">El Eternauta (The Eternaut)</a> is the first it has made that involved using generative AI footage.</p>
+<p>“We remain convinced that AI represents an incredible opportunity to help creators make films and series better, not just cheaper,” he told analysts on Thursday after Netflix reported its second-quarter results.</p>
+<p>He said the series, which follows survivors of a rapid and devastating toxic snowfall, involved Netflix and visual effects (VFX) artists using AI to show a building collapsing in Buenos Aires.</p>
+<p>“Using AI-powered tools, they were able to achieve an amazing result with remarkable speed and, in fact, that VFX sequence was completed 10 times faster than it could have been completed with traditional VFX tools and workflows,” he said.</p>
+<p>He said that the use of AI tools allowed Netflix to fund the show at a much lower cost than is typical for a big-budget production.</p>
+<p>“The cost of [the special effects without AI] just wouldn’t have been feasible for a show in that budget,” Sarandos said.</p>
+<p>The use of generative AI in the entertainment industry has sparked fears of job cuts, particularly in areas such as the production and special effects industry.</p>
+<p>In 2023, AI was a <a data-link-name="in body link" href="https://www.theguardian.com/technology/2023/jul/22/sag-aftra-wga-strike-artificial-intelligence">key sticking point</a> in dual strikes by Hollywood actors and writers, which secured agreements to ensure the new technology stays in the control of workers rather than being used to replace them.</p>
+<p>Sarandos said: “This is real people doing real work with better tools. Our creators are already seeing the benefits in production through pre-visualisation and shot planning work, and certainly visual effects. I think these tools are helping creators expand the possibilities of storytelling on screen, and that is endlessly exciting.”</p>
+<p>His comments came after Netflix reported $11bn revenue for the quarter to the end of June, a 16% year-on-year increase.</p>
+<figure data-spacefinder-role="inline" data-spacefinder-type="model.dotcomrendering.pageElements.NewsletterSignupBlockElement"></figure>
+<p>The company said that its better-than-expected performance was boosted by the success of the third and final series of the Korean thriller Squid Game.</p>
+<p>Netflix expects its small <a data-link-name="in body link" href="https://www.theguardian.com/media/2025/jun/14/uk-broadcasters-netflix-battle-streaming-ads">but fast-growing</a> advertising business to “roughly double” in size this year.</p>
+<p>“Netflix’s better than expected quarter is a result of great content, increased pricing, and advertising momentum hitting all at once,” said Mike Proulx, the vice-president of research at Forrester. “While there’s still work to be done to bolster its ad capabilities, the <a data-link-name="in body link" href="https://www.theguardian.com/media/2025/jun/14/uk-broadcasters-netflix-battle-streaming-ads">hardest part is in Netflix’s rear-view mirror</a> with the full rollout of its proprietary ad tech platform.”</p>
