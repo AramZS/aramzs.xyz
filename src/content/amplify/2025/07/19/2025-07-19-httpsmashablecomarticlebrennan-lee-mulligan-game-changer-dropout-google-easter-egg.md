@@ -1,0 +1,29 @@
+---
+author: Amanda Yeo
+cover_image: >-
+  https://helios-i.mashable.com/imagery/articles/05nDoL5oFnDJn5epCYGdFLu/hero-image.fill.size_1200x675.v1752736288.png
+date: '2025-07-19T22:00:58.733Z'
+dateFolder: 2025/07/19
+description: The 'Dropout' fan favourite made an unexpected announcement earlier this week.
+isBasedOn: >-
+  https://mashable.com/article/brennan-lee-mulligan-game-changer-dropout-google-easter-egg
+link: >-
+  https://mashable.com/article/brennan-lee-mulligan-game-changer-dropout-google-easter-egg
+slug: >-
+  2025-07-19-httpsmashablecomarticlebrennan-lee-mulligan-game-changer-dropout-google-easter-egg
+tags:
+  - culture
+title: Google's new 'Game Changer' Easter egg farewells Brennan Lee Mulligan
+---
+<figure><img alt='A screenshot of Brennan Lee Mulligan from @gamechangershow on TikTok, next to a screenshot of a Google Easter egg displaying a blue heart and message that reads, "Good luck with your next venture. We support you every step of the way."' sizes="(max-width: 1280px) 100vw, 1280px" src="https://helios-i.mashable.com/imagery/articles/05nDoL5oFnDJn5epCYGdFLu/hero-image.fill.size_1248x702.v1752736288.png" srcset="https://helios-i.mashable.com/imagery/articles/05nDoL5oFnDJn5epCYGdFLu/hero-image.fill.size_400x225.v1752736288.png 400w, https://helios-i.mashable.com/imagery/articles/05nDoL5oFnDJn5epCYGdFLu/hero-image.fill.size_800x450.v1752736288.png 800w, https://helios-i.mashable.com/imagery/articles/05nDoL5oFnDJn5epCYGdFLu/hero-image.fill.size_1248x702.v1752736288.png 1600w"/><figcaption>Credit: Mashable screenshot: @gamechangershow on TikTok; Google</figcaption></figure>
+<p><a data-ga-click="1" data-ga-item="text-link" data-ga-label="$text" data-ga-module="content_body" href="https://mashable.com/article/game-changer-season-7-episode-8-fools-gold-social-media-sam-reich">Dropout released the latest episode</a> of its viral game show <a data-ga-click="1" data-ga-item="text-link" data-ga-label="$text" data-ga-module="content_body" href="https://mashable.com/article/game-changer-dropout-sam-reich-interview"><em>Game Changer</em></a> on Monday, in which players tried to rack up the most social media views by choosing which ideas from their colleagues they'd fund. Now the video currently in the lead is getting a further boost, with Google adding an Easter egg specifically referencing the clip.</p>
+<p>If you currently use Google to search for the name of popular cast member <a data-ga-click="1" data-ga-item="text-link" data-ga-label="$text" data-ga-module="content_body" href="https://mashable.com/article/brennan-lee-mulligan-dimension-20-cloudward-ho-interview">Brennan Lee Mulligan</a>, the results page features a farewell message attached to an animated blue heart rising from the bottom of the screen.</p>
+<p>"Good luck with your next venture," it reads. "We support you every step of the way."</p>
+<p>A blue heart button will also appear at the bottom of the screen. Pressing it will cause shoe emojis to rain from on high, with more footwear appearing with every click.</p>
+<figure><img alt='A screenshot of a Google search for "Brennan Lee Mulligan" on July 16, 2025, showing shoe emojis and a farewell message.' sizes="(max-width: 1408px) 100vw, 1408px" src="https://helios-i.mashable.com/imagery/articles/05nDoL5oFnDJn5epCYGdFLu/images-1.fill.size_2000x1125.v1752736288.png" srcset="https://helios-i.mashable.com/imagery/articles/05nDoL5oFnDJn5epCYGdFLu/images-1.fill.size_800x450.v1752736288.png 800w, https://helios-i.mashable.com/imagery/articles/05nDoL5oFnDJn5epCYGdFLu/images-1.fill.size_1400x788.v1752736288.png 1400w, https://helios-i.mashable.com/imagery/articles/05nDoL5oFnDJn5epCYGdFLu/images-1.fill.size_2000x1125.v1752736288.png 2000w"/><figcaption>Credit: Mashable screenshot: Google</figcaption></figure>
+<p>This is a nod to a video created as part of <em>Game Changer</em>'s "Fool's Gold" episode, in which <a data-ga-click="1" data-ga-item="text-link" data-ga-label="$text" data-ga-module="content_body" href="https://www.tiktok.com/@gamechangershow/video/7527087942339267895">Mulligan ostensibly revealed that he was leaving Dropout</a>. In the clip posted to <em>Game Changer</em>'s social media channels, Mulligan sat down to directly address the camera, replicating the sombre tone often seen in serious video messages from online personalities.</p>
+<p>However, it soon became apparent that this was a prank once Mulligan explained why he and Dropout were supposedly parting ways.</p>
+<p>"As of today, I have dedicated myself to the craft and profession of making custom shoes for American Girl dolls," said Mulligan. "This is me!"</p>
+<p>Of course, such an apparently serious and unexpected announcement concerning a fan-favourite cast member was inevitably going to get a ton of views. As of writing, Mulligan's announcement has a combined 3.5 million views across TikTok and YouTube. Of the other competing videos, <a data-ga-click="1" data-ga-item="text-link" data-ga-label="$text" data-ga-module="content_body" href="https://www.tiktok.com/@gamechangershow/video/7527080453610704183">Katie Marovich's brilliant season premiere of <em>Dimension 20: On a Bus</em></a> has accumulated 1.9 million views, while <a data-ga-click="1" data-ga-item="text-link" data-ga-label="$text" data-ga-module="content_body" href="https://www.tiktok.com/@gamechangershow/video/7527086642415422734">Izzy Roland's animated butthole pitch</a> has earned 1.1 million.</p>
+<p>Dropout has acknowledged Google's Easter egg, posting a screen recording of it to their social media.</p>
+<p>"A lovely send off to our former colleague on his new endeavour," <a data-ga-click="1" data-ga-item="text-link" data-ga-label="$text" data-ga-module="content_body" href="https://www.tiktok.com/embed/7527848447672732983">wrote the official Game Changer TikTok account.</a> The statement was accompanied by five shoe emojis.</p>
