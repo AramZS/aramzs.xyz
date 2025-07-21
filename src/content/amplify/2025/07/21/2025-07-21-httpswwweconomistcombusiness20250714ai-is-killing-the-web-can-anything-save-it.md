@@ -15,6 +15,7 @@ slug: >-
 tags:
   - ai
   - tech
+  - ai-created-labor
 title: 'AI is killing the web. Can anything save it? '
 ---
 <p><a data-analytics="sidebar:section" href="https://www.economist.com/business">Business</a> | World wide worries</p>

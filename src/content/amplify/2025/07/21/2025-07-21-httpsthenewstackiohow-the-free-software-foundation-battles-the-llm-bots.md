@@ -14,6 +14,7 @@ slug: >-
 tags:
   - ai
   - tech
+  - ai-created-labor
 title: How the Free Software Foundation Battles the LLM Bots
 ---
 <figure><img alt="Featued image for: How the Free Software Foundation Battles the LLM Bots" src="https://cdn.thenewstack.io/media/2025/07/71053e97-sculpture-outside-san-franciscos-metreon-photo-by-david-cassel-1024x768-2-1024x685.jpg"/><figcaption>Featued image for: How the Free Software Foundation Battles the LLM Bots</figcaption></figure>

@@ -12,6 +12,7 @@ tags:
   - ai
   - tech
   - labor
+  - ai-created-labor
 title: >-
   Measuring The Impact Of Early-2025 AI On Experienced Open-Source Developer
   Productivity

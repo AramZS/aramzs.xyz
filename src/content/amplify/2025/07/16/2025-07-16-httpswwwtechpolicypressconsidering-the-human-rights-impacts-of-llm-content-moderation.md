@@ -15,6 +15,7 @@ slug: >-
   2025-07-16-httpswwwtechpolicypressconsidering-the-human-rights-impacts-of-llm-content-moderation
 tags:
   - ai
+  - ai-created-labor
 title: Considering the Human Rights Impacts of LLM Content Moderation
 ---
 <p><a href="https://techpolicypress.captivate.fm/listen"><em>Audio of this conversation is available via your favorite podcast service.</em></a></p>

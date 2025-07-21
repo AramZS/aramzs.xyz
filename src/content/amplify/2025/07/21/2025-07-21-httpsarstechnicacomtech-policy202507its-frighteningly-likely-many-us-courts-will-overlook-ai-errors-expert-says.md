@@ -14,6 +14,7 @@ slug: >-
 tags:
   - ai
   - law and order
+  - ai-created-labor
 title: >-
   A judge apparently fell for fake AI citations. She’s probably not the only
   one.
