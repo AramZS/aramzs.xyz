@@ -83,7 +83,10 @@ ZSH_AUTOSUGGEST_USE_ASYNC=1</code></pre>
 <ol><li><p>Add the profiling code (I showed you earlier) to see what’s slow</p></li> <li><p>Try the fixes one at a time - that way you know what’s actually helping</p></li> <li><p>Keep what works for you - everyone’s setup is different!</p></li></ol>
 <h2><a href="https://scottspence.com/posts/speeding-up-my-zsh-shell#before-and-after">Before and after</a></h2>
 <p>For comparison here’s a before and after configs:</p>
-<pre><code># Path to your Oh My Zsh installation.
+
+{% raw %}
+```bash
+# Path to your Oh My Zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
@@ -223,7 +226,10 @@ PATH="$VOLTA_HOME/bin:$PATH:/home/scott/.turso"
 export PATH
 
 # Source aliases last
-[ -f ~/.zsh_aliases ] &amp;&amp; source ~/.zsh_aliases</code></pre>
+[ -f ~/.zsh_aliases ] &amp;&amp; source ~/.zsh_aliases<
+```
+{% endraw %}
+
 <h2><a href="https://scottspence.com/posts/speeding-up-my-zsh-shell#other-things">Other things</a></h2>
 <p>As per usual when I do this sort of thing I alway search around for alternitives, I tried <a href="https://starship.rs">Starship</a> and to be honest, I’m pretty happy with zsh, what it was for me (when trying it) is I don’t use <code>cd</code> I’m so used to just entering the directory name I was pretty put off straight away. 😅</p>
 <p>There were other things out there, like:</p>
