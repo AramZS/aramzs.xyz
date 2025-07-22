@@ -43,3 +43,12 @@ Until we hit that point, AI companies are making much much more work for everyon
 On the tech side, the 'makes more work' part is apparent more immediately [from the work dealing with crawlers](https://thenewstack.io/how-the-free-software-foundation-battles-the-llm-bots/).
 
 It seems like this creation of shitty work by bad and misinformed use of LLMs is only growing, so I'm opening a topic to track it: [ai-created-labor](https://aramzs.xyz/topic/ai-created-labor/). I suspect there's a strong connection here to the phenomenon identified by [David Graeber's book Bullshit Jobs](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs). Like with the unproductive and dispiriting jobs in that book, I think a lot of the people pushing AI badly into their workplace are more interested in how it brings power to the top than makes anyone's life easier. 
+
+---
+<small>
+
+Image credit: Photo, "In the beginning was the word, for the LLM" by Steve Jurvetson. Licensed via CC-BY 2.0 [via Flickr](https://flickr.com/photos/jurvetson/52985047804/). 
+
+</small>
+
+---
