@@ -2,7 +2,7 @@
     permalink: "writing/feed.xml"
     eleventyExcludeFromCollections: true
 ---
-{% set postsList = collections.post | excludeStubs | excludeTypes(['project', 'mirror', 'resource', 'amplify'], ['list/music']) %}<?xml version="1.0" encoding="utf-8"?>
+{% set postsList = collections.post | excludeStubs | excludeTypes(['project', 'mirror', 'resource', 'amplify']) %}<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
     <title type="text">{{ metadata.title }}</title>
     <subtitle type="text">{{ metadata.description }}</subtitle>
@@ -17,7 +17,7 @@
     </author>
     <generator uri="https://www.11ty.dev/">Eleventy.js</generator>
     {%- for post in postsList | reverse %}
-        {%- if loop.index0 "<" 10 -%}
+        {%- if loop.index0 "<" 15 -%}
             {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
             {% set sitePageUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
             {% set postContent = post.templateContent %}
