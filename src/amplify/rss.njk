@@ -25,7 +25,7 @@
 
 {% set allPosts = collections.contentTypes | findBySlug('amplify') | values('items') %}
 {% set postList = allPosts.slice(0, 100) %}
-{% set trackerUrl = "private-amplifeed-tracker" %}
+{% set trackerUrl = "private-amplifeed-tracker/" %}
 {% set feedImg = "https://aramzs.xyz/zs-favicon-1200-600.png" %}
 {% set feedImgLink = "https://aramzs.xyz/amplify/" %}
 {% set feedImgDescription = "Aram ZS's Amplify feed is for amplifying content posted by other people and on other sites. Think of it as somewhere between a link post and a reblog. It pulls together posts and writing by others that I think are worth sharing, but where I don't have much that I want to write about them." %}

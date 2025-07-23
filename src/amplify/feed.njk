@@ -27,7 +27,7 @@ eleventyExcludeFromCollections: true
                 <updated>{{ post.date | dateToRfc3339 }}</updated>
                 <id>{{ post.data.slug }}</id>
                 <content type="html">
-                    {{ post.templateContent + '<br /><p>Post amplified from <a href="' + post.data.isBasedOn + '">' + post.data.isBasedOn + '</a></p><br></br><iframe width="50" height="50" src="' + metadata.url + '/private-amplifeed-tracker" title="Privacy-respecting tracker for feed readers" frameborder="0" allow="web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>'  | htmlToAbsoluteUrls(absolutePostUrl) }}
+                    {{ post.templateContent + '<br /><p>Post amplified from <a href="' + post.data.isBasedOn + '">' + post.data.isBasedOn + '</a></p><br></br><iframe width="50" height="50" src="' + metadata.url + '/private-amplifeed-tracker/" title="Privacy-respecting tracker for feed readers" frameborder="0" allow="web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>'  | htmlToAbsoluteUrls(absolutePostUrl) }}
                 </content>
             </entry>
         {%- endif -%}
