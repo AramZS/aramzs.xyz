@@ -33,6 +33,12 @@ export default async (request: Request, context: Context) => {
   console.log(`Adding a custom header to the response for ${url}`);
 */
 	const response = await context.next();
+	const type = response.headers.get("Content-Type")
+	console.log("Content type considered for tollbit logger:", type);
+	if (!type || (!type.includes("html") && !type.includes("xml")) || type.includes("svg")) {
+		console.log("Tollbit logger skipped for non-HTML/XML content type:", type);
+		return response;
+	}
 	console.log("Tollbit logger running");
 	const jsonObjectForLog: TollbitLog = {
 		timestamp: new Date().toISOString(),
