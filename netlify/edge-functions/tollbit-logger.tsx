@@ -23,7 +23,7 @@ interface TollbitLog {
 
 export default async (request: Request, context: Context) => {
   // throw new Error("error");
-
+	/*
   const url = new URL(request.url);
 
   if (url.searchParams.get("method") !== "set-response-header") {
@@ -31,12 +31,9 @@ export default async (request: Request, context: Context) => {
   }
 
   console.log(`Adding a custom header to the response for ${url}`);
-
-  const response = await context.next();
-  response.headers.set("X-Your-Custom-Header", "Your custom header value");
-  return response;
-/**
+*/
 	const response = await context.next();
+	console.log("Tollbit logger running");
 	const jsonObjectForLog: TollbitLog = {
 		timestamp: new Date().toISOString(),
 		geo_country: context.geo.country?.name || "",
@@ -54,17 +51,20 @@ export default async (request: Request, context: Context) => {
 		response_reason: response.statusText,
 		response_body_size: response.headers.get("content-length") || ""
 	}
+	console.log("Tollbit log:", jsonObjectForLog);
 	fetch("https://log.tollbit.com/log", {
 		method: "POST",
 		headers: {
 			"Content-Type": "application/json",
-			"TollbitKey": process.env.TOLLBIT_KEY || "",
+			"TollbitKey":  Netlify.env.get('TOLLBITKEY') || "",
+			// https://docs.netlify.com/build/functions/environment-variables/#access-environment-variables
 		},
 		body: jsonObjectForLog ? JSON.stringify(jsonObjectForLog) : "{}"
 	});
-
-  response.headers.set("X-tollbit-logged", "true");
-  return response; */
+	//console.log("Tollbit log sent", check.status, check.statusText);
+	console.log("Tollbit log sent");
+	response.headers.set("X-tollbit-logged", "true");
+	return response;
 };
 
 export const config: Config = {
