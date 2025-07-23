@@ -26,7 +26,8 @@
     "get:pocket": "node node_modules/dotenv-cli/cli.js -- npm run activate:pocket && git add src/content/amplify/* && git add pocket-since.txt && git commit -m \"chore: new amplify\"",
     "make:readwise": "node -e 'var w = require(\"./bin/enrichers/readwise-reader-api.js\"); w.writeAmplify().then(() => console.log(\"complete write amplify\"))' > ./buildlog.txt",
     "get:readwise": "node node_modules/dotenv-cli/cli.js -- npm run make:readwise && git add src/content/amplify/* && git add readwise-since.txt && git commit -m \"chore: new amplify\"",
-    "subtree:update": "git subtree pull --prefix plugins/netlify-plugin-html-minify git@github.com:AramZS/netlify-plugin-html-minify.git master --squash"
+    "subtree:update": "git subtree pull --prefix plugins/netlify-plugin-html-minify git@github.com:AramZS/netlify-plugin-html-minify.git master --squash",
+    "netlify:dev": "npx netlify dev"
   },
   "bin": {
     "add-bookmark": "./bin/add-bookmark.js",
@@ -73,7 +74,7 @@
     "markdown-it-link-attributes": "^4.0.1",
     "markdown-it-replace-link": "^1.2.1",
     "markdown-it-todo": "^1.0.5",
-    "netlify-cli": "^17.37.2",
+    "netlify-cli": "^17.38.1",
     "netlify-plugin-cache": "^1.0.3",
     "node-fetch": "^2.6.7",
     "normalize.css": "^8.0.1",
