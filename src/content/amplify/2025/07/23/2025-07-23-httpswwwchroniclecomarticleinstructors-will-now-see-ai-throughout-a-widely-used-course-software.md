@@ -1,0 +1,28 @@
+---
+author: Sarah Huddleston
+cover_image: >-
+  https://chronicle.brightspotcdn.com/dims4/default/9590f96/2147483647/strip/true/crop/3444x1808+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fa3%2F6a%2Fbf7c52e044b88278ba46ec3bd369%2Fcassuto-july-campbell.jpg
+date: '2025-07-24T03:28:04.539Z'
+dateFolder: 2025/07/23
+description: >-
+  New features integrated into Canvas include a grading assistant, a
+  discussion-post summarizer, and even a way to pair assignments with generative
+  AI tools.
+isBasedOn: >-
+  https://www.chronicle.com/article/instructors-will-now-see-ai-throughout-a-widely-used-course-software
+link: >-
+  https://www.chronicle.com/article/instructors-will-now-see-ai-throughout-a-widely-used-course-software
+slug: >-
+  2025-07-23-httpswwwchroniclecomarticleinstructors-will-now-see-ai-throughout-a-widely-used-course-software
+tags:
+  - ai
+title: Instructors Will Now See AI Throughout a Widely Used Course Software
+---
+<figure><picture><source data-image-size="articleImage_lh_sm" media="(max-width: 412px)" srcset="https://chronicle.brightspotcdn.com/dims4/default/96b43d0/2147483647/strip/true/crop/3540x2360+1+0/resize/420x280!/format/webp/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fa3%2F6a%2Fbf7c52e044b88278ba46ec3bd369%2Fcassuto-july-campbell.jpg" type="image/webp"/><source data-image-size="articleImage_lh_sm" media="(max-width: 412px)" srcset="https://chronicle.brightspotcdn.com/dims4/default/b500efc/2147483647/strip/true/crop/3540x2360+1+0/resize/420x280!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fa3%2F6a%2Fbf7c52e044b88278ba46ec3bd369%2Fcassuto-july-campbell.jpg"/><source data-image-size="articleImage_sm" media="(max-width: 568px)" srcset="https://chronicle.brightspotcdn.com/dims4/default/8ddabd9/2147483647/strip/true/crop/3540x2360+1+0/resize/570x380!/format/webp/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fa3%2F6a%2Fbf7c52e044b88278ba46ec3bd369%2Fcassuto-july-campbell.jpg 1x,https://chronicle.brightspotcdn.com/dims4/default/2eba049/2147483647/strip/true/crop/3540x2360+1+0/resize/1140x760!/format/webp/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fa3%2F6a%2Fbf7c52e044b88278ba46ec3bd369%2Fcassuto-july-campbell.jpg 2x" type="image/webp"/><source data-image-size="articleImage_sm" media="(max-width: 568px)" srcset="https://chronicle.brightspotcdn.com/dims4/default/56e5547/2147483647/strip/true/crop/3540x2360+1+0/resize/570x380!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fa3%2F6a%2Fbf7c52e044b88278ba46ec3bd369%2Fcassuto-july-campbell.jpg"/><source data-image-size="articleImage" srcset="https://chronicle.brightspotcdn.com/dims4/default/b2c0949/2147483647/strip/true/crop/3540x2360+1+0/resize/840x560!/format/webp/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fa3%2F6a%2Fbf7c52e044b88278ba46ec3bd369%2Fcassuto-july-campbell.jpg 1x,https://chronicle.brightspotcdn.com/dims4/default/aa217d6/2147483647/strip/true/crop/3540x2360+1+0/resize/1680x1120!/format/webp/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fa3%2F6a%2Fbf7c52e044b88278ba46ec3bd369%2Fcassuto-july-campbell.jpg 2x" type="image/webp"/><source data-image-size="articleImage" srcset="https://chronicle.brightspotcdn.com/dims4/default/11ec533/2147483647/strip/true/crop/3540x2360+1+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fa3%2F6a%2Fbf7c52e044b88278ba46ec3bd369%2Fcassuto-july-campbell.jpg"/><img alt="illustration of a robot hand holding an ink quill pen writing" data-image-size="articleImage" src="https://chronicle.brightspotcdn.com/dims4/default/11ec533/2147483647/strip/true/crop/3540x2360+1+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fa3%2F6a%2Fbf7c52e044b88278ba46ec3bd369%2Fcassuto-july-campbell.jpg" srcset="https://chronicle.brightspotcdn.com/dims4/default/11ec533/2147483647/strip/true/crop/3540x2360+1+0/resize/840x560!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fa3%2F6a%2Fbf7c52e044b88278ba46ec3bd369%2Fcassuto-july-campbell.jpg 1x,https://chronicle.brightspotcdn.com/dims4/default/3bf3261/2147483647/strip/true/crop/3540x2360+1+0/resize/1680x1120!/quality/90/?url=http%3A%2F%2Fchronicle-brightspot.s3.us-east-1.amazonaws.com%2Fa3%2F6a%2Fbf7c52e044b88278ba46ec3bd369%2Fcassuto-july-campbell.jpg 2x"/></picture><figcaption>Harry Campbell for The Chronicle</figcaption></figure>
+<h2>What’s New</h2>
+<p>Artificial-intelligence tools — including generative AI — will now be integrated into Canvas, a learning-management platform used by a large share of the nation’s colleges, its parent company announced on Wednesday.</p>
+<p>On the Canvas platform, faculty members will be able to click an icon that connects them with various AI features aimed at streamlining and aiding instructional workload, like a grading tool, a discussion-post summarizer, and a generator for image alternative text.</p>
+<h3>To continue reading for FREE, please sign in.</h3>
+<p>Or <a data-cms-ai="0" href="https://www.chronicle.com/subscribe?offer=defaultwall&amp;cid=DEFWALL&amp;ref=default-message-page=1">subscribe now</a> to read with unlimited access for as low as $10/month.</p>
+<h3>Don’t have an account? Sign up now.</h3>
+<p>A free account provides you access to a limited number of free articles each month, plus newsletters, job postings, salary data, and exclusive store discounts.</p>

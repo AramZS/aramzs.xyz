@@ -1,0 +1,40 @@
+---
+author: Alex Weprin
+cover_image: >-
+  https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2208838144.jpg?w=1440&h=810&crop=1
+date: '2025-07-24T02:55:55.646Z'
+dateFolder: 2025/07/23
+description: >-
+  The owner of the venerable but fledgling news outlet says he wants to take it
+  public, is it about giving the public a stake in the company, or bailing it
+  out?
+isBasedOn: >-
+  https://www.hollywoodreporter.com/business/business-news/la-times-memestock-newspaper-public-1236325683/
+link: >-
+  https://www.hollywoodreporter.com/business/business-news/la-times-memestock-newspaper-public-1236325683/
+slug: >-
+  2025-07-23-httpswwwhollywoodreportercombusinessbusiness-newsla-times-memestock-newspaper-public-1236325683
+tags:
+  - media
+title: Does Patrick Soon-Shiong Want to Turn the L.A. Times Into a MAHA Memestock?
+---
+<figure><img alt="The Los Angeles Times building." sizes="(min-width: 87.5rem) 1000px, (min-width: 78.75rem) 681px, (min-width: 48rem) 450px, (max-width: 48rem) 250px" src="https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2208838144.jpg?w=2000&amp;h=1126&amp;crop=1" srcset="https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2208838144.jpg?w=2000&amp;h=1126&amp;crop=1 2000w, https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2208838144.jpg?w=2000&amp;h=1126&amp;crop=1&amp;resize=1500%2C845 1500w, https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2208838144.jpg?w=2000&amp;h=1126&amp;crop=1&amp;resize=125%2C70 125w, https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2208838144.jpg?w=2000&amp;h=1126&amp;crop=1&amp;resize=200%2C113 200w, https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2208838144.jpg?w=2000&amp;h=1126&amp;crop=1&amp;resize=295%2C166 295w, https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2208838144.jpg?w=2000&amp;h=1126&amp;crop=1&amp;resize=435%2C245 435w, https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2208838144.jpg?w=2000&amp;h=1126&amp;crop=1&amp;resize=1000%2C564 1000w, https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2208838144.jpg?w=2000&amp;h=1126&amp;crop=1&amp;resize=681%2C383 681w, https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2208838144.jpg?w=2000&amp;h=1126&amp;crop=1&amp;resize=450%2C253 450w, https://www.hollywoodreporter.com/wp-content/uploads/2025/07/GettyImages-2208838144.jpg?w=2000&amp;h=1126&amp;crop=1&amp;resize=1440%2C810 1440w"/><figcaption>Getty Images</figcaption></figure>
+<p>Four and a half years ago, AMC Theatres was still reeling from the COVID-19 pandemic. Attendance in theaters had collapsed, and studios were sending their films directly to streaming instead of giving them an exclusive theatrical window.</p>
+<p>In fact, the movie theater business has not been able to return to its pre-COVID business (though the financials have improved, along with the film slates), and multiple theater operators, including Regal, the number two U.S. operator, have since filed for bankruptcy.</p>
+<p>There’s a good chance that AMC would have filed for bankruptcy too, had it not been saved by becoming a memestock.</p>
+<p>On Monday’s <em>Daily Show</em>, <em>Times</em> owner Dr. Patrick Soon-Shiong told host Jon Stewart that he wants to take the challenged news outlet public, an unusual maneuver for a media company of that scale. (As part of Tribune Publishing, and then Tronc, it had been housed in a publicly traded company until its sale to Soon-Shiong in 2018. Tribune papers were sold off to private equity company Alden in 2021.)</p>
+<p>“Whether you’re right, left, Democrat, Republican, you’re an American. So the opportunity for us is to provide a paper that is the voices of the people,” Soon-Shiong told Stewart. “So I’m going to announce something with you tonight … we are going to take <em>LA Times </em>public and allow it to be democratized and allow the public to have ownership of this paper.”</p>
+<p>The timing was vague (Soon-Shiong said they had a team “working through” the matter, and hoped to do it in the “next year”), as was the structure (Soon-Shiong said he was envisioning it “very much like the football team,” in an apparent reference to the non-profit but semi-publicly owned Green Bay Packers), but making such a public announcement certainly suggests a level of commitment to the cause.</p>
+<p>But is that commitment about giving the community a stake in its news, or is it about giving the <em>Times</em> a potential financial lifeline (or, frankly, could it be both?).</p>
+<p>One of the enduring quirks of the post-pandemic economy is the surge, and surprising resilience, of memestocks: Companies whose stock becomes popular among online retail traders, who make their case for what to buy and what to sell on Reddit, YouTube, TikTok and other platforms, effectively gamifying day-trading.</p>
+<p>GameStop, the erstwhile video game mall retailer, was likely Patient Zero, seeing its share price surge even as its core financials deteriorated. Many other companies have followed, from the quirky, like Microstrategy and Bed, Bath and Beyond, to megacaps like Tesla and Nvidia. And of course AMC, where CEO Adam Aron has embraced the online traders who call themselves “AMC Apes,” creating memes about him and his company.</p>
+<p>What binds the companies together is abundant online enthusiasm, a willingness from executives to indulge and wink at that audience, and a share price that seems disconnected from what is on the balance sheet.</p>
+<p>Soon-Shiong has been bringing his message to an audience that may be receptive to seeing a public <em>LA Times</em> as a fun bet that could be ripe for memeing, and perhaps one that is aligned with the MAHA movement (Make America Healthy Again), which Health and Human Services Secretary RFK Jr. spearheaded. Any attempt to shift the editorial focus of the paper, however, have to contend with the L.A. Times Guild, which has publicly criticized its owner over Soon-Shiong’s AI initiatives and blocked endorsement of Kamala Harris during the 2024 campaign.</p>
+<p>Earlier this month he talked COVID and cancer on digital shows hosted by Megyn Kelly and Sean Spicer.</p>
+<p>Last month he launched a recurring series called <em>Cancer Decoded </em>alongside journalist Mark Halperin on his 2Way platform, talking about his cancer research. And in March he sat for an extended interview with Tucker Carlson, with the headline “You’re Being Lied to About Cancer.”</p>
+<p>He’s also been very active on X, sharing clips of his appearances, commenting on moves from RFK Jr. and other health officials (“he knows more about the science than most doctors,” Soon-Shiong said of the HHS chief earlier this year on Halperin’s platform).</p>
+<p>And then this week he goes on<em> The Daily Show</em>, to talk about his cancer research, and make the <em>Times</em> news.</p>
+<p>It adds up to what seems like a company that could be poised to ride that online wave at the intersection of tech, health and politics that could be appealing to retail traders.</p>
+<p>And that could end up being a very good thing.</p>
+<p>AMC has been able to raise about $2 billion since the memestock surge, and has been able to refinance a good deal of its debt, both providing a lifeline to a business that was on the brink. Indeed, a memestock company that can sell into the market can rise capital to turn itself around, or to invest in something more stable, as Microstrategy has done by turning its stock sales into Bitcoin purchases.</p>
+<p>Soon-Shiong’s long-term vision for the <em>Times</em> remains somewhat cloudy, though it includes video and podcasts, as well as amplifying more voices, including conservatives that feel they had been left out of the <em>Times</em>‘ editorial pages in the past. But he may be pursuing a plan that could raise the funds necessary to execute on a plan, or at the very least give himself a possible exit strategy.</p>
