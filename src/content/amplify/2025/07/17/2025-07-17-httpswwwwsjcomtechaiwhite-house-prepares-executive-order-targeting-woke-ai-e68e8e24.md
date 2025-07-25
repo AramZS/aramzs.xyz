@@ -15,7 +15,7 @@ link: >-
   https://www.wsj.com/tech/ai/white-house-prepares-executive-order-targeting-woke-ai-e68e8e24
 slug: >-
   2025-07-17-httpswwwwsjcomtechaiwhite-house-prepares-executive-order-targeting-woke-ai-e68e8e24
-tags: []
+tags: ['ai']
 title: Exclusive | White House Prepares Executive Order Targeting ‘Woke AI’
 ---
 <ol><li>exclusive</li><li><a href="https://archive.is/o/vWm5e/https://www.wsj.com/tech/ai">Artificial Intelligence</a></li></ol>

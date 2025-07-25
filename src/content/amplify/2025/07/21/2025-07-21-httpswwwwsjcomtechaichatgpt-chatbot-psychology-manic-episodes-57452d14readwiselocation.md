@@ -13,7 +13,7 @@ link: >-
   https://www.wsj.com/tech/ai/chatgpt-chatbot-psychology-manic-episodes-57452d14?__readwiseLocation=
 slug: >-
   2025-07-21-httpswwwwsjcomtechaichatgpt-chatbot-psychology-manic-episodes-57452d14readwiselocation
-tags: []
+tags: ["ai"]
 title: He Had Dangerous Delusions. ChatGPT Admitted It Made Them Worse.
 ---
 <h2>OpenAI’s chatbot self-reported it blurred line between fantasy and reality with man on autism spectrum. ‘Stakes are higher’ for vulnerable people, firm says.</h2>

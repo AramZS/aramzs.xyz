@@ -13,7 +13,7 @@ link: >-
   https://www.cnbc.com/2025/07/16/nvidia-ceo-wants-to-sell-advanced-chips-to-china-after-h20-ban-lifted.html?ref=wheresyoured.at
 slug: >-
   2025-07-22-httpswwwcnbccom20250716nvidia-ceo-wants-to-sell-advanced-chips-to-china-after-h20-ban-liftedhtmlrefwheresyouredat
-tags: []
+tags: ['ai', 'china']
 title: >-
   Nvidia CEO Jensen Huang wants to sell more advanced chips to China after H20
   ban is lifted
