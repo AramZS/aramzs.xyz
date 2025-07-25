@@ -17,6 +17,9 @@ title: Minifying HTML on my Jekyll website
 <p>I build this website using <a href="https://jekyllrb.com">Jekyll</a>, so I’ve looked for Jekyll or Ruby-based solutions.</p>
 <p>This is a Jekyll layout that compresses HTML. It’s a single HTML file written in pure <a href="https://shopify.github.io/liquid/">Liquid</a> (the templating language used by Jekyll).</p>
 <p>First you save the HTML file to <code>_layouts/compress.html</code>, then reference it in your highest-level layout. For example, in <code>_layouts/default.html</code> you might write:</p>
+
+{% raw %}
+
 <pre><code>---
 layout: compress
 ---
@@ -60,6 +63,7 @@ end
 
 Liquid::Template.register_filter(Jekyll::CompressHtmlFilter)
 </code></pre>
+{% endraw %}
 <p>I mostly stick with the default options; the only extra rule I enabled was to remove inter-tag spaces. Consider the following example:</p>
 <pre><code>&lt;p&gt;hello world&lt;/p&gt; &lt;p&gt;my name is Alex&lt;/p&gt;
 </code></pre>
@@ -69,6 +73,7 @@ Liquid::Template.register_filter(Jekyll::CompressHtmlFilter)
 <h2>Approach #3: The <a href="https://github.com/wilsonzlin/minify-html">minify-html library</a>, by Wilson Lin</h2>
 <p>This is a Rust-based HTML minifier, with bindings for a variety of languages, including Ruby, Python, and Node. It’s very fast, and even more aggressive than other minifiers.</p>
 <p>I use it in a very similar way to <code>htmlcompressor</code>. I call the same <code>compress_html</code> filter in <code>_layouts/compress.html</code>, and then my <code>run_compress_html</code> in <code>_plugins/compress_html.rb</code> is a bit different:</p>
+{% raw %}
 <pre><code>def run_compress_html(html)
   require 'minify_html'
 
@@ -82,6 +87,7 @@ Liquid::Template.register_filter(Jekyll::CompressHtmlFilter)
   minify_html(html, options)
 end
 </code></pre>
+{% endraw %}
 <p>This is a much more aggressive minifier. For example, it turns out that the <code>&lt;html&gt;</code> and <code>&lt;head&gt;</code> elements are optional in an HTML5 document, so this minifier removes them if it can. I’ve disabled this behaviour, because I’m old-fashioned and I like my pages to have <code>&lt;html&gt;</code> and <code>&lt;head&gt;</code> tags.</p>
 <p>This library also allows minifying inline CSS and JavaScript, which is a nice bonus. That has some rough edges though: there’s <a href="https://github.com/wilsonzlin/minify-html/issues/242">an open issue with JS minification</a>, and I had to tweak several of my if-else statements to work with the minifier. Activity on the GitHub repository is sporadic, so I don’t know if that will get fixed any time soon.</p>
 <h2>Minify, but verify</h2>
