@@ -12,6 +12,7 @@ tags:
   - The Long Next
 date: '2025-07-29T14:00:00.000-04:00'
 cover_image: open-door.jpg
+description: Our freedom is tied up with our attention, we risk everything if we cede it to big AI platforms.
 cite:
   name: 'Attention Machines and Future Politics'
   author: Jac Mullen
