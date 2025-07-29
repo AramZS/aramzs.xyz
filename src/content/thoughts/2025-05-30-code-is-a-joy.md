@@ -59,7 +59,7 @@ Code is a tool of art. To code is a joy.
 
 Never forget that the "techno-optimists" have no room, no time, and no interest in that joy. All they have is cold equations for someone else to execute for them--over and over, ever faster, at ever greater scale--for pay, for a living, for food, for healthcare, for an opportunity to create art outside of them. The cold equations they are unwilling to execute themselves but all too willing to grind us through. The programmer is nothing but a process, ground through a function, into so much pulp for the fires of VCs and billionaires' hopeless and heartless worlds. 
 
-No software engineer should think that this is a future build with us. The "techno-optimists" imagine an underwater Rapture without even art. A cold space colony where our value lasts only until it is more profitable to throw us out the airlock. There is no joy in their model of the future, only an unending plague of humanity--pale, unthinking, un-wanting, working, dying, churning out more humanity and more things. 
+No software engineer should think that this is a future built with us. The "techno-optimists" imagine an underwater Rapture without even art. A cold space colony where our value lasts only until it is more profitable to throw us out the airlock. There is no joy in their model of the future, only an unending plague of humanity--pale, unthinking, un-wanting, working, dying, churning out more humanity and more things. 
 
 Don't ever forget, they don't think that AI can replace us. They think we are the AI, the NPCs, the machine they can control. They cannot even imagine the market as an invisible hand. All they have is a control economy at their beck-and-call, all they have is a fist, and they want us to see it. 
 
