@@ -61,13 +61,13 @@ Mullen makes a really excellent point about how these systems which push us to f
 
 > Now, our choices are increasingly pre-empted before they arise. Through techniques like tuning (changing the choice architecture in an environment), herding (group-level orchestration), and conditioning (habitual reinforcement through operant feedback), predictive systems intervene on our behavior directly. And as these systems advance, the cognitive ecological foundations of agency itself are quietly degraded. 
 
-The suggestion is to take the tools of attention systems and put them in our control. We will render ourselves into something smaller than our selves when forced by surveillance capitalism; or we can use these tools to provide a path to actively shape ourselves in resistance to the systems that seek to flatten both our selves and our attention. 
+The suggestion is to take the tools of attention systems and put them in our control. We will render ourselves into something smaller than our selves when forced by surveillance capitalism; or we can use these tools to actively shape ourselves in resistance to the systems that seek to flatten both our identities and attention.
 
 > ⁠So the core challenge, as I see it, is to use external attention in a way that allows us to see ourselves as deeply, as completely, as these external systems presently see us, and in this way overcome the corrosive and pre-empting effect they have on our own agency. This is one major sense in which I understand what it means for external attention to be democratized.
 > 
 > To devise the means for this “exteriority” — this is a challenge of symbolic engineering. On the one hand, I take it to mean decomposing attention into a set of primitives valid for any biological or non-biological system (a conceptual challenge) and operationalizing them in a non-extractive way (a technical challenge), in which folks, wielding a sort of exploratory tool, would be enabled to recombine and compare and, in theory, apply the filters or salience policies of any attention system to any data set.
 
-It feels like a solid conclusion here at the end: We must have systems that allow us to retain our memory and the symbols of ourselves and turn them into a flexible, multimodal selfs that we control, through which we can realize the agency over our identity, attention and, from the first two, the world around us. 
+It feels like a solid conclusion here at the end: We must have systems that allow us to retain our memory and the symbols of ourselves and turn them into a flexible, multimodal selves that we control, through which we can realize the agency over our identity, attention and, from the first two, the world around us. 
 
 I don't think it is an accident that modern day fascism is so interested in eliminating identities outside of its own narrow definition. Though fascist projects always seek to deperson,  the modern attention economy variant of fascism is as interested in reshaping people through the very logic of limited choices that attention economics forces on us daily. 
 
