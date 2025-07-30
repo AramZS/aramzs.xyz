@@ -25,3 +25,9 @@ section.page-post p strong {
 .page-post p:has(picture > img) {
   text-align: center;
 }
+
+.center-in-text {
+  text-align: center;
+  margin: 0 auto;
+  grid-column: paragraph;
+}
