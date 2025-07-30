@@ -21,7 +21,7 @@ I have a light form of asthma, so the news that Trump's EPA is trying to deregul
 
 America and the world spent so much time and effort trying to end acid rain and the hole in the ozone and it is one of the true climate change success stories! 
 
-{% image 'src/images/acid-rain-on-stone-lion-adam-hart-davisscience-photo-library-3713755125.jpg' 'Photo of a stone lion in front of the New York City Library Central Branch in Bryant Park, disfigured by acid rain' 'center-in-text' %}
+{% image 'src/images/acid-rain-on-stone-lion-adam-hart-davisscience-photo-library-3713755125.jpg' 'Photo of a stone lion disfigured by acid rain' 'center-in-text' %}
 
 The idea that the EPA would give up its capacity to prevent acid rain and ozone issues from occurring again is insane. Deregulating the EPA has huge impact on air quality and will affect people all over the world, even those without pre-existing breathing problems. 
 
@@ -42,3 +42,5 @@ This a good time to [link the hbomberguy video on Climate Denial](https://youtu.
 I can't believe this video is 6 years old. I can't believe we still have to deal with these moron bad-faith climate change denials. I can't believe we have to deal with the head of the EPA endangering us and the whole rest of the world. 
 
 > Earlier in the day, Zeldin said on the conservative “Ruthless” podcast that the rescission would be the “largest deregulatory action in the history of America,” which will “driv[e] a dagger into the heart of the climate change religion.”
+
+(Photo of [Effect of Acid Rain on Stone Lion](https://fineartamerica.com/featured/1-effect-of-acid-rain-on-stone-lion-adam-hart-davisscience-photo-library.html) from Science Photo Library)

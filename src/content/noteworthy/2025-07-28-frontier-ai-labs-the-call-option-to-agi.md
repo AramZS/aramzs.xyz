@@ -6,6 +6,7 @@ tags:
   - economy
   - tech
   - business
+  - ad tech
 date: '2025-07-28T10:10:00.000-04:00'
 cite:
   name: 'Frontier AI Labs: the Call Option to AGI'
