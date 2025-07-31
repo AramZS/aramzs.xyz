@@ -31,6 +31,7 @@
 .full-width > *,
 article.content-grid section > * {
   grid-column: content;
+  max-width: 100%;
 }
 
 .content-grid > .paragraph,
