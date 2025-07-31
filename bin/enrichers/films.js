@@ -20,7 +20,7 @@ async function fetchWithBackoff(url, retries = 1, delay = 1000) {
 }
 // diary, reviews (only ones with watchedDate)
 const films = fs.readFileSync(
-	"./to-process/letterboxd/export/reviews.csv",
+	"./to-process/letterboxd/export/diary.csv",
 	"utf8"
 );
 const { processObjectToMarkdown } = require("../json-to-markdown");

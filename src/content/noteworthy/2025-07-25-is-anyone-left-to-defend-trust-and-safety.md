@@ -25,3 +25,5 @@ Casey Newton notes that the EU's DSA turned the work towards compliance theater,
 As much as we hoped otherwise, the Web is not a separate space, it is intricately tied up in the real world. 
 
 > “I … can't ignore that so many things are not getting better,” said Willner, who previously built the first safety operations team at Facebook. “So often in past years, perhaps we felt alone in our work — but at least there was some kind of backstop. Surely even if some individual companies or business leaders made questionable choices — like making Grok AI — for kids! — the broader system would still hold. Surely our democratic institutions would prevent the worst imagined outcomes. Surely there were guardrails we could count on. Instead — we've watched norms and institutions we thought were solid prove to be more fragile than we could ever have imagined.”
+
+([Also](https://www.techdirt.com/2025/07/31/everyone-hates-trust-safety-everyone-needs-trust-safety-this-is-a-problem/))
