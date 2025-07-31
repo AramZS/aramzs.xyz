@@ -20,7 +20,7 @@ poster: heathers-poster.jpg
 poster_path: /dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg
 rating: 4
 release_date: '1989-03-31'
-rewatch: false
+rewatch: true
 slug: heathers
 tags:
   - list/film-and-tv

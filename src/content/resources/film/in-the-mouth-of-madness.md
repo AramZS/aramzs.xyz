@@ -20,7 +20,7 @@ poster: in-the-mouth-of-madness-poster.jpg
 poster_path: /5fmxO0ouglNw5z14ybRWzQmqmxP.jpg
 rating: 3.5
 release_date: '1995-02-03'
-rewatch: false
+rewatch: true
 slug: in-the-mouth-of-madness
 tags:
   - list/film-and-tv

@@ -1,39 +1,38 @@
 ---
 adult: false
-backdrop_path: /v6MVBFnQOscITvmAy5N5ras2JKZ.jpg
+backdrop_path: /eU7IfdWq8KQy0oNd4kKXS0QUR08.jpg
 cover_image: superman-featured.jpg
-date: '2019-03-05T00:00:00.000Z'
+date: '2025-07-14T00:00:00.000Z'
 genre_ids:
   - 878
-  - 28
   - 12
-id: 1924
-letterboxd: 'https://boxd.it/27Qm'
+  - 28
+id: 1061474
+letterboxd: 'https://boxd.it/akgkm9'
 mediaName: Superman
 original_language: en
 original_title: Superman
 overview: >-
-  Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his
-  crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious
-  Lex Luthor launches a plan to take over the world.
-popularity: 337.331
+  Superman, a journalist in Metropolis, embarks on a journey to reconcile his
+  Kryptonian heritage with his human upbringing as Clark Kent.
+popularity: 264.8351
 poster: superman-poster.jpg
-poster_path: /d7px1FQxW4tngdACVRsCSaZq0Xl.jpg
-rating: 5
-release_date: '1978-12-14'
+poster_path: /ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg
+rating: 4.5
+release_date: '2025-07-09'
 rewatch: false
 slug: superman
 tags:
   - list/film-and-tv
   - list/film
   - Science Fiction
-  - Action
   - Adventure
+  - Action
 title: Superman
 video: false
-vote_average: 7.137
-vote_count: 3647
-watchedDate: '2023-12-01T00:00:00.000Z'
-year: '1978'
+vote_average: 7.433
+vote_count: 1304
+watchedDate: '2025-07-13T00:00:00.000Z'
+year: '2025'
 ---
- 
+Everything I wanted in a Superman film

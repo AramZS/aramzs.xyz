@@ -21,7 +21,7 @@ poster: the-last-winter-poster.jpg
 poster_path: /uDHwjlPWcyNEkfgOVwIz3IaUNXC.jpg
 rating: 3
 release_date: '2006-09-11'
-rewatch: false
+rewatch: true
 slug: the-last-winter
 tags:
   - list/film-and-tv

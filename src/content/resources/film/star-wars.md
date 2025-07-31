@@ -23,7 +23,7 @@ poster: star-wars-poster.jpg
 poster_path: /6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg
 rating: 5
 release_date: '1977-05-25'
-rewatch: false
+rewatch: true
 slug: star-wars
 tags:
   - list/film-and-tv
@@ -38,4 +38,4 @@ vote_count: 19977
 watchedDate: '2023-12-01T00:00:00.000Z'
 year: '1977'
 ---
- 
+The new trilogy: Andor->Rogue One->New Hope
