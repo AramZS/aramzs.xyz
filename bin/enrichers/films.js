@@ -6,10 +6,14 @@ const processImageUrl = require("../../lib/helpers/processImageUrl");
 async function fetchWithBackoff(url, retries = 1, delay = 1000) {
   try {
     let response = await fetch(url);
+    console.log("fetch response for ", url, response.ok, response.status);
     if (!response.ok) throw new Error('Fetch failed');
     return response;
   } catch (error) {
-    if (retries === 0) throw new Error(`Fetch failed after ${retries} retries`);
+    if (retries === 0) {
+      // console.trace('fetchWithBackoff failed', url, error);
+      throw new Error(`Fetch of ${url} failed after ${retries} retries`);
+    }
     await new Promise(resolve => setTimeout(resolve, delay));
     return fetchWithBackoff(url, retries - 1, delay * 2);
   }
@@ -155,7 +159,8 @@ const moviePageBuild = async (mediaName, showData) => {
 	}
 	if (showData.hasOwnProperty("Rewatch") && showData["Rewatch"] !== "") {
 		showData.rewatch = showData.Rewatch;
-	} else if (showData.hasOwnProperty("Rewatch")) {
+	}
+  if (showData.hasOwnProperty("Rewatch")) {
 		delete showData["Rewatch"];
 	}
 	if (showData.hasOwnProperty("Letterboxd URI")) {
