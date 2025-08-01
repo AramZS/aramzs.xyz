@@ -21,7 +21,6 @@ poster_path: /ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg
 rating: 4.5
 release_date: '2025-07-09'
 rewatch: false
-slug: superman
 tags:
   - list/film-and-tv
   - list/film
