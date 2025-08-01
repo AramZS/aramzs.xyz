@@ -22,7 +22,7 @@ poster_path: /d7px1FQxW4tngdACVRsCSaZq0Xl.jpg
 rating: 5
 release_date: '1978-12-14'
 rewatch: false
-slug: superman
+slug: superman-1978
 tags:
   - list/film-and-tv
   - list/film

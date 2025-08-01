@@ -29,6 +29,7 @@ tags:
   - Adventure
   - Action
 title: Superman
+slug: superman-2025
 video: false
 vote_average: 7.433
 vote_count: 1304
