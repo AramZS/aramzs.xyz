@@ -11,7 +11,9 @@ link: 'https://ronikaufman.github.io/flexflex/'
 slug: 2025-07-29-httpsronikaufmangithubioflexflex
 tags:
   - design
-title: 'The design follows some additional constraints:'
+  - code
+  - tech
+title: 'Flexflex a typographic experiment'
 ---
 <figure></figure><p>Flexflex is a typeface that responds to spatial requirements rather than imposing them. Built on a modular system, each letter can fit inside any given rectangular container and transforms continuously if its ratio changes. In theory, it's infinitely flexible. The design follows some additional constraints: - keep it minimal, maximize symmetry and mathematical alignment,<br/>
  - only use non-diagonal straight lines and circular arcs,<br/>
