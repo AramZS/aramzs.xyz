@@ -1,0 +1,43 @@
+---
+author: Matthew Gault · Jul 31
+cover_image: >-
+  https://www.404media.co/content/images/size/w1200/2025/07/bafkreidevxsaivth6f5dhpfym5oase6p4qfgzplbmsngvx5fi6olx6uj5a.jpg
+date: '2025-08-05T17:01:13.854Z'
+dateFolder: 2025/08/05
+description: >-
+  The decision highlights hurdles faced by developers as they navigate a world
+  where credit card companies dictate what is and isn't appropriate.
+isBasedOn: >-
+  https://www.404media.co/steam-doesnt-think-this-image-is-suitable-for-all-ages/
+link: >-
+  https://www.404media.co/steam-doesnt-think-this-image-is-suitable-for-all-ages/
+slug: >-
+  2025-08-05-httpswww404mediacosteam-doesnt-think-this-image-is-suitable-for-all-ages
+tags:
+  - gaming
+  - culture
+title: Steam Doesn't Think This Image Is ‘Suitable for All Ages’
+---
+<p><a href="https://www.404media.co/tag/news/">News</a> </p>
+<p>The decision highlights hurdles faced by developers as they navigate a world where credit card companies dictate what is and isn't appropriate.</p>
+<figure><img alt="Steam Doesn't Think This Image Is ‘Suitable for All Ages’" data-ll-status="loaded" data-sizes="(max-width: 800px) 50vw,
+                (max-width: 1170px) 60vw,
+                1400px" data-src="/content/images/size/w2000/2025/07/bafkreidevxsaivth6f5dhpfym5oase6p4qfgzplbmsngvx5fi6olx6uj5a.jpg" data-srcset="/content/images/size/w300/2025/07/bafkreidevxsaivth6f5dhpfym5oase6p4qfgzplbmsngvx5fi6olx6uj5a.jpg 300w,
+                /content/images/size/w600/2025/07/bafkreidevxsaivth6f5dhpfym5oase6p4qfgzplbmsngvx5fi6olx6uj5a.jpg 600w,
+                /content/images/size/w1000/2025/07/bafkreidevxsaivth6f5dhpfym5oase6p4qfgzplbmsngvx5fi6olx6uj5a.jpg 1000w,
+                /content/images/size/w2000/2025/07/bafkreidevxsaivth6f5dhpfym5oase6p4qfgzplbmsngvx5fi6olx6uj5a.jpg 2000w" sizes="(max-width: 800px) 50vw,
+                (max-width: 1170px) 60vw,
+                1400px" src="https://www.404media.co/content/images/size/w2000/2025/07/bafkreidevxsaivth6f5dhpfym5oase6p4qfgzplbmsngvx5fi6olx6uj5a.jpg" srcset="https://www.404media.co/content/images/size/w300/2025/07/bafkreidevxsaivth6f5dhpfym5oase6p4qfgzplbmsngvx5fi6olx6uj5a.jpg%20300w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w600/2025/07/bafkreidevxsaivth6f5dhpfym5oase6p4qfgzplbmsngvx5fi6olx6uj5a.jpg%20600w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w1000/2025/07/bafkreidevxsaivth6f5dhpfym5oase6p4qfgzplbmsngvx5fi6olx6uj5a.jpg%201000w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w2000/2025/07/bafkreidevxsaivth6f5dhpfym5oase6p4qfgzplbmsngvx5fi6olx6uj5a.jpg%202000w"/><figcaption>Screenshot via Paolo Pedercini. </figcaption></figure>
+<p>Independent game developer Paolo Pedercini wanted to announce his new game <a href="https://store.steampowered.com/app/3861870/Future_No_Thanks/?ref=404media.co"><em>Future? No Thanks!</em></a> a few weeks ago, but said it was delayed because Steam found a screenshot it planned to share “had suggestive themes.” The screenshot? A low-polygon woman in a short dress with her legs closed together.</p>
+<p><em>Future? No Thanks!</em>’s page did land on Steam, just a little late. “I thought the screenshot flagging was funny because they seem to have interpreted that low poly character as having no underwear, maybe due to the purple color matching the hair,” Pedercini, who releases games under the name Molleindustria, told 404 Media.</p>
+<p>According to Pedercini, he had submitted the game to Steam earlier this month, a process which requires a developer to send in a trailer and <a href="https://partner.steamgames.com/doc/store/assets/standard?ref=404media.co#screenshots"><u>at least four screenshots</u></a> that are “suitable for all ages.” He marked the screenshot above as suitable, but Steam rejected it on July 10.</p>
+<p>“The trailer does have a suggestive clip with a sexbot, and a hyperbolic disclaimer…so I guess that's fair,” Pedercini said. He pushed back against Steam and asked for a review. “Both reviews took more than a week, which I think it's longer than usual. I wonder if they were figuring out how to respond to the payment processor deal.”</p>
+<p>Pedercini’s problems with Steam came at a time when the platform was facing pressure from credit card companies to remove adult games from its platform. Earlier this month, the credit card companies Visa and Mastercard <a href="https://www.404media.co/credit-card-companies-are-hurting-the-future-of-video-games/"><u>pressured video game distributors</u></a> Steam and Itch to remove adult games from their storefronts.</p>
+<p>The payment processors themselves were bowing to a pressure campaign from the organization <a href="https://www.collectiveshout.org/steam_campaign_history?ref=404media.co"><u>Collective Shout</u></a>, which describes itself as being “for anyone concerned about the increasing pornification of culture” and which argued that many of the adult games normalized violence against women. But a lot of games with queer themes were kicked off Itch and Steam as part of the purge, and it’s not always clear what the lines are and who is drawing them.</p>
+<p>“We live in a golden age of independent cultural production, but digital distribution is still extremely concentrated. There are a handful of entities that can instantly make huge swaths of digital culture disappear,” Pedercini said. “We thought digital marketplaces like the Apple Store were the main agents of market censorship, but now we've found out there are even more monopolistic companies upstream from them.”</p>
+<p>Those upstream monopoles, pressured by outside lobbying groups, are now defining what can and can’t be said online. Payment processors have <a href="https://www.404media.co/civitai-is-banning-ai-generated-incest-and-diapers/"><u>pushed other kinds of content</u></a> to the margins before, video game storefronts are just the latest example. “Such marketplaces may default to freedom of expression because it's cheaper to <em>not </em>moderate content, but they will easily bow to calls for censorship because it's less trouble than advocating for controversial products. It cuts both ways: a few years ago, major online stores <a href="https://www.cnn.com/2015/06/22/politics/confederate-flag-walmart-south-carolina?ref=404media.co"><u>removed products</u></a> showing the Confederate flag,” Pedercini said.</p>
+<p>“Conservative groups are willing to exploit these vulnerabilities and are trying to put illegal content such as child pornography on a continuum with porn and queer representations,” he added. “I think they genuinely believe that homosexuality is in the same set as bestiality or rape, as something forbidden by the Bible or whatever, but we can't let that view be enshrined into law or into commercial content guidelines.”</p>
+<p>Pedercini has been through something like this before. His 2007 game <em>Operation: Pedopriest,</em> a game about the well documented abuse of children in the Catholic Church, earned the ire of an Italian Christian group which accused the game of depicting virtual child pornography. “The accusation immediately lead the provider to shut down the site, legal charges, and a point of order all the way up to the <a href="https://web.archive.org/web/20110123221222/https://www.artsblog.it/post/6850/caso-volonte-lassoluzione-del-blasfemous-art-riot"><u>Italian parliament</u></a>,” Pedercini said.</p>
+<p>Gamers, a group that can be particularly aggressive when politically activated, have launched a <a href="https://www.polygon.com/news/616835/visa-mastercard-steam-itchio-campaign-adult-games/?ref=404media.co"><u>counter-pressure campaign</u></a> on the payment processors. It’s too early to tell if Visa and Mastercard will bend to gamers the same way it did to collective shout.</p>
+<p>The future of video games as a form of cultural expression is at <a href="https://www.404media.co/credit-card-companies-are-hurting-the-future-of-video-games/"><u>risk of massive damage</u></a>. “The status of video games as culture is still being negotiated. If thematic restrictions like the ones <a href="http://itch.io/?ref=404media.co"><u>defined by itch.io</u></a> were to be applied to movies or books, limiting their distribution, it would be major news immediately,” Pedercini said. “Arguably, most video games are currently moving away from culture and morphing into pseudo-cultural objects like slot machines, or apps for wasting time and feeling nothing. The problem is that those of us who still make video games as some kind of artform will be caught in the dragnet.”</p>
+<p>Steam did not immediately respond to 404 Media’s request for comment.</p>
