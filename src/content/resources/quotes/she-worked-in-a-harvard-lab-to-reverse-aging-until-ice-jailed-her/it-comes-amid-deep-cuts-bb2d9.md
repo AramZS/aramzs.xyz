@@ -5,7 +5,7 @@ blockquote: >-
   that a period of openness and progress may be ending.
 cite:
   name: Ellen Barry
-  href: false
+  href: https://www.nytimes.com/2025/04/11/science/russian-scientist-ice-detained-harvard.html
 createdDate: '2025-04-13 18:22:21+00:00'
 date: '2025-04-13T18:22:21.000Z'
 handedFrom: Pocket

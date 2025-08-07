@@ -12,7 +12,7 @@ description: >-
 isBasedOn: 'https://defector.com/why-cant-people-be-normal-about-sydney-sweeney'
 link: 'https://defector.com/why-cant-people-be-normal-about-sydney-sweeney'
 slug: 2025-08-04-httpsdefectorcomwhy-cant-people-be-normal-about-sydney-sweeney
-tags: []
+tags: ["culture", "politics"]
 title: Why Can’t People Be Normal About Sydney Sweeney?
 ---
 <p>To be born beautiful is a gift, but to end up hot can be a curse. If beauty is in the eye of the beholder, it is also true that you can look in the mirror and be the beholder of yourself. Beauty is something intriguing; “beauty is not a need but an ecstasy,” the poet Kahlil Gibran <a href="https://www.poetryfoundation.org/poems/148571/on-beauty-5bff0f2d45329">once wrote</a>. “A heart enflamed and a soul enchanted.” This is not the same thing as being hot.</p>
