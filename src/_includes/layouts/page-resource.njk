@@ -26,7 +26,13 @@
         {% if blockquote and sourceTitle %}
         <div>
           <br />
-          <small>Replicated under Fair Use from <em>{{ sourceTitle }}</em> 
+          <small>Replicated under Fair Use from {% if cite and cite.href -%}
+            <a href="{{ cite.href }}" target="_blank">
+            {%- endif -%}
+            <em>{{ sourceTitle }}</em>
+            {%- if cite and cite.href -%}
+            </a>
+            {% endif %}
             {% if cite and cite.name %}
               by {{ cite.name }}. {% if pageNum %}<em>(Pg. {{pageNum}})</em>{% endif %}
             {% endif %}
