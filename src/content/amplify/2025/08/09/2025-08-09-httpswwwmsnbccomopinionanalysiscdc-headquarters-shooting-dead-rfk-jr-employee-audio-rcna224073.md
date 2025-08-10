@@ -1,0 +1,37 @@
+---
+author: Brandy Zadrozny
+cover_image: >-
+  https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-08/250809-cdc-ch-1305-8fa3fb.jpg
+date: '2025-08-10T03:01:59.398Z'
+dateFolder: 2025/08/09
+description: >-
+  CDC Director Susan Monarez convened an online all-hands meeting of the agency
+  division that focuses on vaccines, and employees called out Kennedy’s rhetoric
+  specifically.
+isBasedOn: >-
+  https://www.msnbc.com/opinion/analysis/cdc-headquarters-shooting-dead-rfk-jr-employee-audio-rcna224073
+link: >-
+  https://www.msnbc.com/opinion/analysis/cdc-headquarters-shooting-dead-rfk-jr-employee-audio-rcna224073
+slug: >-
+  2025-08-09-httpswwwmsnbccomopinionanalysiscdc-headquarters-shooting-dead-rfk-jr-employee-audio-rcna224073
+tags:
+  - politics
+  - baselines
+title: >-
+  After a deadly shooting at the CDC, shaken scientists demand answers from RFK
+  Jr.
+---
+<figure><picture data-flavor="fit" data-original-height="1667" data-original-width="2500" data-testid="picture"><source media="(min-width: 1000px)" srcset="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1000w,f_auto,q_auto:best/rockcms/2025-08/250809-cdc-ch-1305-8fa3fb.jpg"/><source media="(min-width: 758px)" srcset="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2025-08/250809-cdc-ch-1305-8fa3fb.jpg"/><source media="(min-width: 320px)" srcset="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2025-08/250809-cdc-ch-1305-8fa3fb.jpg"/><img alt="Memorial at CDC headquarters." src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2025-08/250809-cdc-ch-1305-8fa3fb.jpg"/></picture><figcaption>A memorial outside the Centers for Disease Control and Prevention’s global headquarters in Atlanta following a shooting on Aug. 9.</figcaption></figure>
+<p>A shooting <a href="https://www.nbcnews.com/news/us-news/what-we-know-atlanta-shooting-cdc-emory-university-rcna224009">outside the Centers for Disease Control and Prevention’s Atlanta headquarters on Friday</a> left a police officer dead and officials and scientists at the nation’s premier public health agency shaken. Many are now demanding answers from their health secretary, <a href="https://www.msnbc.com/alex-wagner-tonight/watch/with-pick-of-rfk-jr-trump-threatens-not-just-public-health-but-federal-credibility-on-health-224540741528">Robert F. Kennedy Jr., who has long vilified the CDC</a> and contributed to a culture of misinformation that they say makes them targets.</p>
+<p>Citing a senior law enforcement official, <a href="https://www.nytimes.com/2025/08/08/us/emory-university-cdc-shooting.html">The New York Times</a> reported the shooter, identified as 30-year-old Patrick Joseph White, was fixated on the Covid vaccine, which he blamed for his health problems. In response to the shooting and reports of White’s motivations, newly appointed CDC Director Susan Monarez convened an online all-hands meeting of the agency division that focuses on vaccines — the National Center for Immunization and Respiratory Diseases.</p>
+<p>Staff described being terrified as bullets struck the buildings where they worked, and of being trapped inside until late in the evening.</p>
+<p>“It is not fair to all of you who’ve given so much to contribute to public health,” Monarez told employees during the meeting Saturday, according to a recording reviewed by MSNBC.</p>
+<p>During the meeting, staff described being terrified as bullets struck the buildings where they worked, and of being trapped inside until late in the evening. One said they felt like “sitting ducks.”</p>
+<p>As the leaders spoke, dozens of staffers posted messages in the meeting chat, many naming Kennedy, who oversees the CDC at the Department of Health and Human Services, citing his years of spreading misinformation about vaccines and vilifying the health agencies he now leads.</p>
+<p>One employee described the shooting as “the culmination of ongoing animosity toward CDC and the work that we do — not a one-off incident.” Another named Kennedy in a comment that drew dozens of supportive emoji reactions, writing: “We need them to stop fanning the flames of hatred against us, stop spreading misinformation. We will not be safe until they stop their attacks against us.”</p>
+<p>For years, Kennedy attacked the CDC. <a href="https://www.nbcnews.com/health/health-news/rfk-jr-vaccines-cdc-fascism-abuse-catholic-church-autism-conferences-rcna181605">In videos from anti-vaccine conferences</a> between 2013 and 2019, he likened the agency’s vaccine work to “fascism” and “child abuse,” called it a “cesspool of corruption” and said it was filled with profiteers. At a 2013 conference, when asked about why the CDC had failed to acknowledge the autism epidemic (which he falsely linked to vaccines), Kennedy said it was like the Holocaust. On at least <a href="https://www.politico.com/news/2022/01/25/robert-kennedy-anne-frank-remarks-00002055">two occasions</a>, Kennedy has apologized <a href="https://www.latimes.com/local/political/la-me-pc-robert-kennedy-jr-apologizes-for-likening-vaccine-impacts-to-holocaust-20150413-story.html">for comparing</a> agencies, officials and public health measures to the Holocaust. <a href="https://www.factcheck.org/2024/11/as-trump-taps-rfk-jr-for-health-secretary-a-look-back-at-kennedys-claims/">During the pandemic</a>, Kennedy repeatedly framed the CDC and other HHS agencies as “corrupt,” falsely suggested Covid-19 was a “bioweapon,” and lied about the dangers of Covid vaccines, calling them “the deadliest vaccine ever made.”</p>
+<p>“The hatred RFK and his allies have spent their lives stoking puts a target on the backs of anyone in public health,” said one senior official who asked not to be named because they were not authorized to speak for the agency and so they could speak critically about Kennedy.</p>
+<p>At the time of the meeting, Kennedy had not publicly addressed the shooting. His most recent <a href="https://x.com/RobertKennedyJr/status/1954188966367723917">post on his personal X</a> account showed him fishing in Alaska. During the all-hands meeting, one employee asked Monarez if she had spoken with Kennedy directly or expected him to address the attack. Monarez called it “a good question” and said the CDC had been in “constant communication” with his office and that “more will be coming.”</p>
+<p>Kennedy did <a href="https://x.com/SecKennedy/status/1954197860754350238">post a message of support</a> to the CDC from his HHS account shortly after the meeting. It read in part: “We are actively supporting CDC staff on the ground and across the agency. Public health workers show up every day with purpose — even in moments of grief and uncertainty. We honor their service. We stand with them. And we remain united in our mission to protect and improve the health of every American.”</p>
+<p>The shooting marks a low point in an already dark period for public health. Officials and health care workers <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9010907/">faced threats and harassment</a> during the pandemic over vaccines and other public health measures. In the first months of the Trump administration, with Kennedy at the helm of HHS, the agency has undergone mass layoffs and restructuring.</p>
+<p>HHS did not immediately respond to a request for comment.</p>
