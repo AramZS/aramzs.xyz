@@ -17,6 +17,8 @@ slug: >-
 tags:
   - dmv
   - politics
+  - dc
+  - baselines
 title: 'After an ex-DOGE staffer''s assault, Trump threatens to federalize D.C. Can he?'
 ---
 <figure><picture><figure><img alt="President Donald Trump pictured walking to Marine One to depart the White House in May, with the w" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7755x5170+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F1b%2F50ad089c4018a10f0621995a5b68%2Fgettyimages-2215829109.jpg" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7755x5170+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F1b%2F50ad089c4018a10f0621995a5b68%2Fgettyimages-2215829109.jpg"/><figcaption>President Donald Trump is pictured walking to Marine One to depart the White House in May, with the Washington Monument in the background.</figcaption></figure></picture></figure>
