@@ -95,7 +95,7 @@
     <link rel="preload" href="/fonts/iosevka-etoile-bolditalic.subset.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="preload" href="/fonts/iosevka-etoile-italic.subset.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="stylesheet" href="/styles/main.css"/>
-    <script data-domain="aramzs.xyz" src="https://plausible.io/js/plausible.js"></script>
+    <script defer data-domain="aramzs.xyz" src="https://plausible.io/js/script.tagged-events.js"></script>
     {% block stylesheet %}{% endblock %}
     <script src="/main.js"></script>
 </head>
@@ -141,9 +141,8 @@
         {{ content | safe }}
     {% endblock %}
 </main>
-
 {% include "components/git-history.njk" %}
-
+{% sharebutton page.url %}
 <footer class="content-grid">
     <nav class="full-width">
         <div>
@@ -240,5 +239,7 @@
         </p>
     </nav>
 </footer>
+{{ build.footerInlineScript | safe }}
+{% sharejs %}
 </body>
 </html>

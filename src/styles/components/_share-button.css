@@ -1,0 +1,44 @@
+share-actions {
+  background-color: var(--background-muted);
+  background-image: linear-gradient(
+    hsla(0, 0%, 0%, 0.3) 100%,
+    transparent 100%
+  );
+}
+
+share-actions ul.share-actions {
+  display: flex;
+  margin: 10px 50px;
+  padding: 0;
+}
+
+share-actions li {
+  list-style: none;
+  margin: 0 auto;
+  flex-grow: 1;
+  text-align: center;
+}
+
+share-actions li + share-actions li {
+  margin-left: 2%;
+}
+
+share-actions button {
+  margin: 0 auto;
+  background: var(--foreground-muted);
+  color: var(--background);
+  padding: 2px 8px;
+  border: 0;
+  border-radius: 10px;
+  filter: drop-shadow(6px 6px 10px #000000);
+}
+
+@media (max-width: 390px) {
+  share-actions ul.share-actions {
+    flex-direction: column;
+  }
+
+  share-actions li {
+    margin: 5px 0;
+  }
+}

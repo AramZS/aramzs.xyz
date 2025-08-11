@@ -9,6 +9,7 @@ const ObjectCache = require("./lib/helpers/cache");
 const fs = require("fs");
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const directoryOutputPlugin = require("@11ty/eleventy-plugin-directory-output");
+const sharecodePlugin = require("./plugins/share-actions/eleventy.config.js")
 const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 require("dotenv").config();
@@ -32,6 +33,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
 	// So that file creation on `.before` doesn't trigger a rebuild
 	eleventyConfig.setWatchThrottleWaitTime(5000);
+  eleventyConfig.addWatchTarget("./plugins/");
   if (process.env.IS_LOCAL === "true"){
     eleventyConfig.addPlugin(directoryOutputPlugin, {
       // Customize columns
@@ -82,6 +84,14 @@ module.exports = function (eleventyConfig) {
 		highlightColor: "var(--accent)",
 		textColor: "var(--foreground)",
 	});
+  eleventyConfig.addPlugin(sharecodePlugin, {
+    defaultUtms: [
+      "utm_source=eleventy",
+      "utm_medium=share",
+      "utm_campaign=eleventy",
+    ],
+    domain: domain_name
+  });
 
 	eleventyConfig.addPlugin(require("./lib/helpers/screenshot"));
 
