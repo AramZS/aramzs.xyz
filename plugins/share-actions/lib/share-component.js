@@ -7,7 +7,6 @@ module.exports = (url, shareText) => {
   }
   
   .share-actions [role='alert'] {
-    position: absolute;
     inset: 0;
     align-content: center;
     text-align: center;

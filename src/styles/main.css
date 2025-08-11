@@ -20,6 +20,7 @@
 @import "components/_jumbo.css";
 @import "components/_stats.css";
 @import "components/_post-features.css";
+@import "components/_share-button.css";
 
 * {
   box-sizing: border-box;

@@ -28,6 +28,9 @@ module.exports = {
               case 'clipboard':
                 this.copyToClipboard(event.currentTarget);
                 return;
+              case 'shareopenly':
+                this.triggerShareOpenly(event.currentTarget);
+                return;
             }
           }
 
@@ -56,6 +59,16 @@ module.exports = {
               .catch((error) => console.error(error));
           }
 
+          triggerShareOpenly(context) {
+            const shareUrl = this.url;
+            const shareTitle = this.shareText || this.title;
+
+            const shareLink = 'https://shareopenly.org/share/?url='+encodeURIComponent(shareUrl)+"&text="+encodeURIComponent(shareTitle);
+
+            // Open the share dialog with the specified URL and text
+            window.open(shareLink, '_blank');
+          }
+
           // Takes message text, the event context and an optional millisecond value for clearing the alert. It then renders that as a sibling (to the button) alert element *or* a local alert element to this component. If neither are available, nothing happens here.
           renderAlert(text, context, clearTime = 3000) {
             const alert = context
@@ -79,19 +92,25 @@ module.exports = {
             }
 
             const clipboardHtml = this.hasClipboardSupport ? '<li>' +
-                '<button class="button" data-method="clipboard">Copy URL</button>' + 
+                '<button class="button plausible-event-name=clipboardurl" data-method="clipboard">Copy URL</button>' + 
                 '<div role="alert"></div>' +
               '</li>' : "";
 
             const hasShareSupport = this.hasShareSupport ? '<li>' +
-                '<button class="button" data-method="share">Share</button>' +
+                '<button class="button plausible-event-name=shareout" data-method="share">Share</button>' +
                 '<div role="alert"></div>' +
               '</li>' : '';
+
+            const shareOpenly = '<li>' +
+                '<button class="button plausible-event-name=shareopenly" data-method="shareopenly">ShareOpenly</button>' +
+                '<div role="alert"></div>' +
+              '</li>'
 
             // Support of at least one API is available so now we render those buttons conditionally
             this.innerHTML = '<ul class="share-actions cluster" role="list">' +
                 hasShareSupport + 
                 clipboardHtml +
+                shareOpenly +
               '</ul>';
 
               // Buttons are now rendered so we can assign the events
@@ -113,6 +132,10 @@ module.exports = {
             const metaDescriptionElement = document.querySelector('meta[name="description"]');
 
             return metaDescriptionElement ? metaDescriptionElement.getAttribute('content') : '';
+          }
+
+          get shareText(){
+            return window.shareText?.innerText;
           }
 
           // Determine if this browser can use the share API
