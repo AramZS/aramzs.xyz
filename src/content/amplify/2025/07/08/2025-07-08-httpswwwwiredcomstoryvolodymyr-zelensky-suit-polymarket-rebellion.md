@@ -12,7 +12,7 @@ description: >-
 isBasedOn: 'https://www.wired.com/story/volodymyr-zelensky-suit-polymarket-rebellion/'
 link: 'https://www.wired.com/story/volodymyr-zelensky-suit-polymarket-rebellion/'
 slug: 2025-07-08-httpswwwwiredcomstoryvolodymyr-zelensky-suit-polymarket-rebellion
-tags: ["tech", "culture"]
+tags: [ "tech", "culture" ]
 title: Volodymyr Zelensky’s Clothing Has Sparked a Polymarket Rebellion
 ---
 <figure><a data-testid="logo-clickable" href="https://www.wired.com/"><img alt="Wired" src="https://www.wired.com/verso/static/wired-us/assets/logo-onenav-reverse.svg"/></a></figure>
