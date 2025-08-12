@@ -10,7 +10,7 @@ description: >-
 isBasedOn: 'https://docs.anthropic.com/en/api/service-tiers?ref=wheresyoured.at'
 link: 'https://docs.anthropic.com/en/api/service-tiers?ref=wheresyoured.at'
 slug: 2025-07-31-httpsdocsanthropiccomenapiservice-tiersrefwheresyouredat
-tags: [ai]
+tags: ["ai"]
 title: Service tiers
 ---
 <p>We offer three service tiers:</p>
