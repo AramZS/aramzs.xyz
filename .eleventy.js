@@ -33,7 +33,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
 	// So that file creation on `.before` doesn't trigger a rebuild
 	eleventyConfig.setWatchThrottleWaitTime(5000);
-  eleventyConfig.addWatchTarget("./plugins/");
+  //eleventyConfig.addWatchTarget("./plugins/");
   if (process.env.IS_LOCAL === "true"){
     eleventyConfig.addPlugin(directoryOutputPlugin, {
       // Customize columns
