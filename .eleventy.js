@@ -337,8 +337,11 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.ignores.add("src/content/amplify/2024/03/**");
     eleventyConfig.ignores.add("src/content/amplify/2024/04/**");
     eleventyConfig.ignores.add("src/content/amplify/2024/05/**");
+    eleventyConfig.ignores.add("src/content/amplify/2024/06/**");
     eleventyConfig.ignores.add("src/content/amplify/2024/07/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/08/**");
+    eleventyConfig.ignores.add("src/content/amplify/2024/08/**")
+    eleventyConfig.ignores.add("src/content/amplify/2024/09/**");
+    eleventyConfig.ignores.add("src/content/amplify/2024/10/**");    
   }
 
 	//
