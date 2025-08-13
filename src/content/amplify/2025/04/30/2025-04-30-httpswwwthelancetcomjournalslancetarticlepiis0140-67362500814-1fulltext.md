@@ -9,7 +9,7 @@ link: >-
   https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00814-1/fulltext
 slug: >-
   2025-04-30-httpswwwthelancetcomjournalslancetarticlepiis0140-67362500814-1fulltext
-tags: []
+tags: ["health"]
 title: >-
   https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(25)00814-1/fulltext
 ---
