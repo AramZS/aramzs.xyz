@@ -3,4 +3,4 @@ permalink: /sitemap.xml
 layout: null
 eleventyExcludeFromCollections: true
 ---
-{% sitemap collections.writing %}
+{% sitemap collections.all %}
