@@ -333,6 +333,8 @@ module.exports = function (eleventyConfig) {
   } else {
     eleventyConfig.ignores.add("src/content/amplify/2023/**");
     eleventyConfig.ignores.add("src/content/amplify/2024/01/**");
+    eleventyConfig.ignores.add("src/content/amplify/2024/02/**");
+    eleventyConfig.ignores.add("src/content/amplify/2024/03/**");
   }
 
 	//
