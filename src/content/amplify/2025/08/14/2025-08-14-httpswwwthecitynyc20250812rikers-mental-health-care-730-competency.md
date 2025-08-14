@@ -1,0 +1,42 @@
+---
+author: Reuven Blau
+cover_image: 'https://www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg'
+date: '2025-08-14T12:46:43.990Z'
+dateFolder: 2025/08/14
+description: >-
+  Legal Aid Society alleges city and state force hundreds with mental illness to
+  wait months behind bars for psychiatric treatment they need in order to have
+  their day in court.
+isBasedOn: 'https://www.thecity.nyc/2025/08/12/rikers-mental-health-care-730-competency/'
+link: 'https://www.thecity.nyc/2025/08/12/rikers-mental-health-care-730-competency/'
+slug: 2025-08-14-httpswwwthecitynyc20250812rikers-mental-health-care-730-competency
+tags:
+  - nyc
+  - law and order
+title: 'Rikers Detainees Denied Mental Health Care They Need to Stand Trial, Suit Says'
+---
+<figure><img alt="Detainees put makeshift decorations in their Rikers Island jail cell windows." data-hero-candidate="1" sizes="(max-width: 1200px) 100vw, 1200px" src="https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?w=2560&amp;ssl=1" srcset="https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2024/12/120824_rikers_4-scaled.jpg?fit=1200%2C800&amp;ssl=1&amp;w=370 370w"/><figcaption>Detainees put makeshift decorations in their Rikers Island jail cell windows, Dec. 8, 2024. Credit: Ben Fractenberg/THE CITY</figcaption></figure>
+<p>Hundreds of mentally ill people are routinely trapped on Rikers Island for months at a time without court-ordered treatment they need to stand trial, a federal lawsuit filed Tuesday afternoon by the city’s largest public defender organization charges.</p>
+<p>The New York State Office of Mental Health and top city jail officials repeatedly flout judges’ orders to provide “competency restoration” — psychiatric treatment and legal education meant to help defendants understand their cases, the 35-page <a href="https://www.documentcloud.org/documents/26049001-730-complaint/">lawsuit</a> filed in Manhattan federal court alleges.</p>
+<p>In February, <a href="https://www.thecity.nyc/2025/02/03/people-deemed-unfit-for-trial-stuck-on-rikers/">THE CITY reported</a> at least 127 people found by psychiatrists to be unfit to stand trial were languishing in Rikers jails because of a lack of space at state-run mental health facilities.</p>
+<p>The Legal Aid Society, alongside the NYU School of Law’s Civil Rights in the Criminal Legal System Clinic, filed the lawsuit, citing data from THE CITY report.</p>
+<p>“We’ve done administrative advocacy. We’ve done individual advocacy for particular clients, and that doesn’t get at a systemic change,” said Elena Landriscina, a supervising attorney in Legal Aid’s Special Litigation Unit and one of the lead attorneys on the case.</p>
+<p>“People should not be languishing in jail, particularly at Rikers Island, where we know it’s very dangerous for anyone, but particularly for people with psychiatric disabilities,” she added.</p>
+<p>On any given day, the suit says, roughly 114 people are stuck on Rikers awaiting a transfer for competency restoration. Median wait times hit 81 days last year — with some detainees waiting nine months, according to the legal filing. In 2024, 130 New Yorkers endured waits of more than 100 days.</p>
+<p>The plaintiffs — two men with severe mental illnesses — each spent over four months in jail without receiving the treatment a judge had ordered, the lawsuit said. They’d both been living in the community prior to their arrest and could have been treated in outpatient programs, the suit claims.</p>
+<p>In some cases, the plaintiffs argue, the delays can be deadly.</p>
+<p>About half of the 59 people who have died in city jails since mid-2021 had some type of psychiatric need, including five who were supposed to be in competency restoration programs, according to the filing.</p>
+<p>The lawsuit blames a “dysfunctional and deficient” system that overwhelmingly relies on overcrowded, high-security state-run hospitals while failing to assess whether defendants could be safely treated in the community.</p>
+<p>It alleges the delays disproportionately harm Black and Latino New Yorkers, who are overrepresented both in the jail system and among those deemed unfit to stand trial.</p>
+<p>Despite a 2012 state law allowing outpatient restoration via mandated counseling and support classes, 99.3% of felony defendants were treated in secure hospitals between 2013 and June 2023, according to the lawsuit. The state’s outpatient program can handle fewer than 15 people at a time and often leaves them waiting weeks for even an initial appointment, the suit says.</p>
+<p>“There’s been almost no effort to build the infrastructure for outpatient restoration,” Landriscina said. “Everyone is just shunted toward the same overburdened state hospitals, even when community care would be more appropriate.”</p>
+<p>A 2023 <a href="https://www.nytimes.com/2023/12/29/nyregion/nyc-rikers-homeless-mental-illness.html">New York Times investigation</a> also found that some defendants spent years cycling from mental health hospitals to jails like Rikers without ever standing trial.</p>
+<p>In the lawsuit, the plaintiffs are asking a judge to order the state and city to dramatically speed up transfers to secure mental-health facilities, expand outpatient treatment, and ensure defendants are served “in the most integrated setting appropriate” to their needs.</p>
+<p>The case comes as the city’s jail system faces a possible federal takeover in a separate class action over pervasive violence and neglect — a backdrop that underscores the dangers of holding mentally ill defendants on Rikers for extended periods.</p>
+<p>The city’s Department of Correction already has four separate court-appointed monitors overseeing everything from conditions to how officers must interact with detainees by permitting violent force only in extreme circumstances.</p>
+<p>Some of those cases have <a href="https://www.thecity.nyc/2024/10/29/rikers-benjamin-malcolm-jails-correction-department-compliance-consujltants/">dragged on</a> for decades.</p>
+<p>While the lawsuit doesn’t directly target jail conditions, the attorneys behind it say it reflects the broader dysfunction that continues to plague the system — despite years of court mandates, oversight and political promises.</p>
+<p>“Every day in Rikers is a risk, especially for someone in a psychiatric crisis,” Landriscina said. “People are dying. People are being brutalized. This lawsuit is about getting them the treatment they need before it’s too late.”</p>
+<p>And while Legal Aid and its partners are clear-eyed about the slow churn of federal court proceedings, they hope the lawsuit can help push real, lasting change — not just more promises.</p>
+<p>“I think we’re clear-eyed that addressing the needs of people with serious psychiatric disabilities is a really complex problem, and we know that we’re not going to fix all of the issues that attends to care of those people with one lawsuit,” said Alexis Karteron from NYU’s Criminal Legal System Clinic.</p>
+<p>“But we are hopeful that the lawsuit can make a difference in reducing the harms and reducing the risks to people who are in extremely vulnerable situations.”</p>
