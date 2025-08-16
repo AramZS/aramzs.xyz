@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT as a MMORPT"
-description: "It's July and it is a pleasure to be blogging again"
+title: "ChatGPT as a MMORPG"
+description: "AI chats are more gamelike than they first appear and produce similar results."
 growthStage: ephemeral
 tags:
   - ai
