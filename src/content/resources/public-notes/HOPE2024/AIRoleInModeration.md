@@ -1,0 +1,48 @@
+# Addressing Online Threats: AI's Role in Countering Harmful Social Media Content and Its Real-World Impact 
+
+- **Dr. Welton Chang** 
+- Anyone anywhere can create harm with lies, threats, and violent incitement 
+- UGC is both the threat and signal of threat activity. 
+	- Hacking, 
+	- Malign organizing and incitement, 
+	- Disinformation and Misinformation
+- Threats manifest quickly and often simultaneously. 
+	- Okta hack - breech happened and an hour later the group was aadvertising on Telegram. 
+	- Types 
+		- Physical like trucker convoy
+		- Criminal 
+		- Reputational 
+		- Financial 
+		- Psychological 
+		- Simultaneously - like Bud Light & Target 
+- Lewiston Shooting - conspiracy and Disinformation 
+	- Robert Card - a lot of misinformation as people were trying to dox with information about the wrong Robert Card. 
+	- Disinfo endangered public safety 
+		- Put him in danger with the neo Nazis. 
+- Atomwaffen targeted infrastructure via Telegram. 
+	- Planned to attack electricity infra 
+- Evolving threat landscape 
+	- Breadth 
+		- threats appear on upwards of 50 alt social sites 
+	- multi-modal 
+		- identify when an employee has been doxxed using only their picture 
+		- deep fakes of gov't and corp leaders
+		- use of official source 
+		- company logos in propaganda 
+	- Speed 
+		- shit posting on day 1 
+		- conspiracies on day 2 
+		- physical threats on day 3 
+	- Insider threat 
+		- employees and staff actively engaging with extremist groups. 
+- Taking action 
+	- Get out of react mode 
+	- Educate your executives - use case studies and facts 
+	- Fight fire with fire - deploy AI enriched tools to help identify and monitor threats 
+	- Upskill your team - data scientists, extremism experts, osint specialists 
+	- Specialists on call - vet and brief external on call experts 
+	- Break the silos - Create fusion teams with security and intel, communication and PR, legal, HR 
+	- Prepare for the unlikely - war game crazy narratives that could turn into serious threats. 
+- AI can help with recognizing some things 
+- There are humans who are doing the moderation of stuff like CSAM and that is bad and we should replace it with AI if possible. 
+- 

@@ -1,0 +1,60 @@
+---
+dateCreated: 2025-08-16
+aliases:
+  - How Kagi Works
+  - Kagi's Revolt
+  - "Hacking Search: Kagi’s Revolt Against the Ad-Tech"
+public:
+---
+# Hacking Search: Kagi’s Revolt Against the Ad-Tech
+
+- Vladimir Prelovac 
+	- kagi.com 
+	- vlad@kagi.com 
+	- vladimir.prelovac.com 
+- Google search faced no competition and that drives them to try and keep people more on the search page, to retain them in the google site, and drive them to consume more ads. 
+- Google is insulting our intelligence
+- One of our most important resources doesn't have its incentives aligned with ours. 
+- Robert Heinlein (maybe) quote: Specialization is for insects. 
+- How do you change search? 
+	- There is a thing the user wants and you should be giving it to the user 
+	- User centric product experience 
+	- Remove intermediaries 
+	- build a biz model that aligns incentives 
+	- privacy as a natural byproduct, not an afterthought. 
+- What does a search engine look like when we prioritize user experiance? 
+	- Black and white theme 
+	- You can block or rate anything returned in your search results. If blocked it is gone forever. 
+	- You can see the most blocked items as a list in their search status.
+	- You can prioritize subsets of the web like Small Web, Academia, etc... 
+		- You can also create your own 
+	- Indicates when content is behind a paywall or how many comments it has. 
+	- Cluster listicles together 
+		- lets you easily skip them 
+	- media search can block whole channels on different platforms. 
+		- You can also remove the clickbain thumbnails in video search. 
+	- Create regex to change your search results to redirect to other versions like reddit to old.reddit etc... 
+	- If you add a question mark (and only then) it gets an AI search result. 
+	- They have a full Kogi assistant that can work with multiple LLMs 
+- How do we do it?
+	- Remove SEO garbage - crawler is a headless browser with uBlock origin enabled - the number of ads and trackers signal how crappy the website is. 
+	- Preserves evergreen content. Follows an interesting dead link to its internet archive page. 
+	- External API -> Kagi processing -> Kagi Index -> user preference 
+- Kagi Small Web 
+	- Nice web ui. Kagi.com/smallweb 
+		-  [Kagi Small Web | Kagi Blog](https://blog.kagi.com/small-web)
+	- open source github.com/kagisearch/smallweb 
+	- Fast feed parser - github.com/kagisearch/fastfeedparser
+	- I put in a PR - [Adding aramzs.xyz (my site), and 2 other good candidates by AramZS · Pull Request #461 · kagisearch/smallweb · GitHub](https://github.com/kagisearch/smallweb/pull/461) 
+- Crowdsourced blocklists 
+- AI generted images blocklist 
+- Kagi Privacy Pass 
+	- Uses a privacy pass extension + Tor 
+	- Means that they cannot know who the user is. 
+	- blog.kagi.com/kagi-privacy-pass 
+	- Open source code also available 
+- Orion is their browser. 
+- Kagi Translate 
+	- kagi.com/translate 
+- Currently at .5m queries per day per search engine. 
+- Eventually want to look towards profit sharing - sign up via webmaster tools. 

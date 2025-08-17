@@ -1,0 +1,52 @@
+# AI, Solarpunk, and an Uncertain Future in Computing
+
+- rolltime 
+- Presentation is linked somewhere. 
+- [Site Unreachable](https://rollti.me/)
+- Talked about [[Products/ActivityPub]] 
+	- Good YouTube talk to look up
+- Our relationship with technology is broken
+- Approximate multipliers to challenge the mainstream. 
+- Transformer model took over from previous AI approaches 
+	- More data 
+	- More hardware 
+	- these now scale 
+- AlphaFold 3 being used for genetics work 
+- Around 30% of people use ChatGPT weekly (? Source? )
+- AI Bad for energy demand 
+	- Training GPT4 is 2500 flights
+	- ChatGPT > 100 flights per day 
+	- AI Powered Search is 30TWh potentially 
+	- Google's carbon emissions up 48% 
+- What do we do about it? 
+- Density can be good 
+- Sofi - Acorn Land Labs - produces music 
+- Instead of centering our designs around Latency and Speed - what if we design around energy - solar protocol. 
+- [Solar Protocol](http://solarprotocol.net/) 
+	- Energy centered 
+	- Planet scale 
+	- Naturally Intelligent 
+	- Collaborative 
+	- permacomputing 
+- Efficient deep learning 
+	- What do we mean by efficient? 
+	- Reduce compute? 
+	- Techniques in either/or Quantized or Pruned AIs, AMs
+		- Reduce memory
+		- Reduce FLOPs 
+		- Reduce power 
+		- Zero-shot 
+		- Equal Performance 
+	- multiplication is one of the least efficient things computers do
+	- Binary log is more efficient but not precise. 
+	- Massive energy savings for doing AMs 
+	- AlexNet is a large useful test model 
+	- What's the catch? 
+		- Threatens NVIDA's monopoly 
+		- Model Size/Speed 
+- Energy Centric Design is a way of assuring that technology can have appositive impact on the world without destroying the environment 
+- [Links and such](http://rollti.me/hope2024)
+- bitnet
+- windowsill solor explored in https://solar.lowtechmagazine.com/2023/12/how-to-build-a-small-solar-power-system/ 
+- LunarPunk - look into it 
+- 

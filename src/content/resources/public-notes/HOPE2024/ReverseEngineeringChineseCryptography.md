@@ -1,0 +1,42 @@
+# Protecting the Network Traffic of One Billion People: Reverse-Engineering Chinese Cryptography
+
+- https://www.businessofapps.com/data/app-engagement-rates/ 
+- Focused on WeChat
+- WeChat mini programs are a bundle of HTML, Javascript and Css and WeChat provides it's own bundle of Javascript wxjs which facilitates communication with Pinduoduo to load WeChat resources 
+- All WeChat mini programs are further forwarded to WeChat's servers
+- MMTLS now has as many users as TLS 
+- Keyboard apps are particularly vulnerable. 
+- Tencent keyboard Sogou Encrypt Wall Windows and Android were vulnerable. 
+	- Padding Oracle Attack 
+		- from 2002 in publications 
+	- AES-CBC encryption attack 
+	- Key was encrypted with RSA which they couldn't get to. 
+	- The attack looks at the padding.that makes each section the same size. 
+	- They found the server returned unique service codes when the padding was incorrect. 
+	- This allowed them to know the plaintext length 
+	- Tried 256 times to find out which character in the last block got back the right coding. 
+	- Creative XOR and predictable text made it easier to break 
+	- That gave them the Initialization Vector for decryption 
+	- When they decrypted the Android app info, they got a list of every app installed on the device. 
+	- The EncryptWall was present on other vendors. 
+	- All the keyboard apps are sending user keystrokes to China. 
+		- This is how their prediction model worked 
+	- Don't use Honor's keyboard or QQ Pinyin 
+	- Cloud based app keyboard features are always vulnerable to gov't seizure from their central server. 
+- BAT Web Browsers 
+	- UC Browser is very popular in parts of Asia. 
+	- BAT = Baidu, Alibaba, Tencent (all develop browsers, UC is Alibaba)
+	- All use easily decrypted cryptography 
+		- Hardcoded symmetric key is very bad 
+		- Same key to encrypt and decrypt 
+		- If your key is taken you are fully compromised 
+		- Wireshark can find the strings they transmit, with the key it is all in the open. 
+		- The BAT browsers are hard coding the key into the browser. Very bad. 
+		- To factor their public key they just copy pasted it into wolfram alpha with prime factorization as the instruction
+		- Generated the key on just current time - easy to decrypt. 
+		- Baidu SDK is used heavily in the app store. 
+		- Led to GCHQ discovery and data exfiltration to Five Eyes
+		- Part of the way they were able to get away with it was the Lack of access to Google Play. 
+		- Some might have been skepticism of western Cryptography 
+	- Basically can get started just with Wireshark 
+	- 

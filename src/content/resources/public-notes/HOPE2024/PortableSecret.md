@@ -1,0 +1,99 @@
+# PortableSecret - Carry and Share Your Most Critical Secrets Without Special Software 
+
+- M 
+- Extensive crypto conversation I came in late on. 
+- Threat model
+	- Assumptions 
+		- Browser Web Crypto APIs are sound 
+		- NIST recommendations are sound 
+		- Value of Secrets < Budget of adversary 
+		- Side-channels are not compromised
+			- Can't secure against a man in the middle 
+	- Weaknesses 
+		- Bad passwords 
+			- Can be too easy to guess 
+			- Password also shouldn't be too revealing 
+		- Revealing password hints
+			- Don't make it your birthday 
+		- Infinite time to crack 
+		- Key loggers 
+		- Malicious Payloads?
+			- Make sure that decryption of the secret does not execute 
+			- Only open when you are told to open. 
+		- Browser tab sandbox escape bug 
+			- 
+		- Browser itself (and extensions)
+			- Do you trust the browser itself and all your extensions? 
+		- OS
+			- Do you trust it and what is installed on it? 
+- Not every secret is so secret so password hints can be too revealing 
+	- Fav ice cream passwords can be revealed by a dictionary of flavors 
+	- Remember to tell your other users who you share with 
+- mprimi.github.io/portable-secret/creator
+- Data specified just for rendering. 
+- Generates a simple HTML page. 
+- Crack me if you can - https://mprimi.github.io/portable-secret/examples/bounty.html 
+	- Portable secret that contains the password to the bitcoin wallet. If you break it you can take the money. 
+	- So far - uncracked 
+- So AI? 
+	- People are sending AI generated prompts with weird questions in order to try and get him to reveal his password hints. 
+- Use Cases 
+	- Mom 
+	- Friends and Family and strangers on the internet 
+- Possible use cases 
+	- All devices lost/stolen 
+	- Lost passport In a foreign country 
+	- Hit by a bus 
+	- Mundane 
+		- text/email from untrusted devices 
+		- Talk without "them" listening 
+		- peace of mind 
+	- Nightmare Fuel 
+		- All your devices are belong to us 
+		- Private Key 
+		- Copies on all my trusted devices 
+		- What if? 
+			- All devices burn down in a fire 
+			- Burglar takes everything 
+			- Lose all devices I brought on a trip
+		- Stash USB with copies of root key? 
+	- Nightmare Fuel 2 
+		- Stuck in a foreign land without documents 
+		- What if? Everything is stolen? 
+		- Publish the file on the web 
+	- Nightmare Fuel 3 
+		- Hit by a bus 
+		- USB that sits in a drawer labeled "In Case Of Death"
+		- Includes 
+			- Living Trust
+				- Set up with a few hours and a few hundred dollars on Legal Zoom. 
+			- Pour Over Will that sends assets over into the trust. 
+		- Includes letters, logins, instructions 
+	- Mundane use cases 
+		- SMS / E-mail from friend/stranger's phone. 
+		- Send a message to a fellow Hacker whose GPG key you don't know. 
+		- Share SSH key with a colleague over Slack 
+			- There are better ways to do this. 
+		- Talk over WhatsApp/Messenger/Gmail listening 
+			- Email with PortableSecret + password in the same email. 
+			- You can't read the secret in any automated way from spying or commercial surveillance tech 
+- mprimi. Github. Io/portable-secret 
+- Matrix: `#W8EHFT:hope.net` ||
+- SubleCrypto interface of the Web Crypto API is a big improvement but the other person must have a key 
+	- Not all algos for encryption are supported. 
+- How do you validate that it is not malicious? 
+	- That is the biggest problem 
+	- If a person can execute a different version and you don't check 
+	- A modified version with a key logger could leak the password 
+- Risk: Browsers could depreciate the APIs 
+	- Store a copy of an at-that-time browser 
+	- You could set up a way to self-validate the file 
+- There is a URL encoded payload (blob) that occurs when you click `Save secret.html`
+- It would be cool if it could send the the way to send the next secret along with the secret, but not yet a feature. 
+- You can brute force outside the browser. 
+- Shared 4 things that can answer the hints with his wife and that is the password. 
+- Bcrypt not supported by Web Crypto APIs. 
+- USB drives die all the time - that is a problem. 
+	- Sometimes put stuff online. 
+- Not great for storing large files. 
+- How does it react to bad passwords? 

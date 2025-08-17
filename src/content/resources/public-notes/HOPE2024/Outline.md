@@ -1,0 +1,27 @@
+# Outline VPN and Proxy
+
+- Proxies: Shadowsocks and SOCK5 proxies
+- https://getoutline.org/how-it-works/
+- https://unredacted.org/blog/2024/06/freesocks-is-now-open-source/
+- Runs through websocket encapsulation as a strategy 
+- The different strategies can be combined together
+- SOCK5 is not free but broadly supported. 
+- Outline server is at ss:// 
+- SOCK5 connections at socks5://
+- DNS blocking needs to be detected and then bypassed. 
+- DNS over Edge `doh:` is a strategy 
+- `tlsfrag:` is another strategy 
+- `curl httpsL//ipinfo.to` is a way to quickly get your IP info and known data. 
+- Outline Manager let's you set up your own VPN out nodes 
+	- You can share and manage keys 
+- Runs with `go`
+- github.com/Jigsaw-Code/outline-sdk/x/examples/fetch 
+	- This shows how the get process works. 
+	- You can run against checker.soax.com/api/ipinfo checker to see socks5 status 
+	- The go command allows you to configure the combination of different strategies. 
+- Censorship may time out or fail connection. 
+- Intra app allows users to use DNS over HTTPS and the TLS Client Hello fragmentation
+- Other third party apps leverage that system. 
+- Jigsaw is the underlying project. 
+	- Run by Google 
+- 

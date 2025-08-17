@@ -1,0 +1,131 @@
+---
+dateCreated: 2025-08-17
+aliases:
+  - "New Journalism: Reimagining Information Networks From the Ground Up"
+public:
+---
+# New Journalism: Reimagining Information Networks From the Ground Up
+
+[Patrick Boehler](https://schedule.hope.net/hope16/speaker/FVJKYY/)
+- Patrick Boehler is founder of Gazzetta and leads a media research lab that studies how communities resist information control in autocratic settings. A former reporter, editor, and newsroom executive (The New York Times, South China Morning Post, Radio Free Europe), Patrick has spent the last decade exploring the interplay between technology, journalism, service, and resistance. He’s especially interested in decentralized information networks, anti-censorship strategies, and how hacker ethos can transform journalism’s future.
+
+- The broadcast trap 
+	- one to many architecture 
+	- assumes captive audiences 
+	- assumes content scarcity 
+	- performance over utility 
+	- funding for messaging. 
+- A lot of the training is still focused on the broadcast model. 
+- We're competing in the attention economy. 
+- But the attention economy is rigged 
+- We want to operate in a free context where supply of information from journos meets public demand, but there are algorithmic intermediaries in place 
+- Autocracy introduces even more barriers to the flow of free information. 
+- A focus on reach leads to inadequate responses and exacerbates irrelevance. We are reliant on platforms for broad reach. 
+- The focus on distribution continues to widen the gap between what journalism supplies and what is relevant to our auiance increases. 
+- We are looking at the wrong metrics, old metrics: success by clicks, measure attention, measure ads, subs targeted at whales. 
+- Building for newsrooms is different than building for communities. 
+- Creating a space for journalism that is focused on the community not on the government or the big targets of journalism. 
+- Communities aren't waiting for traditional journalism, journalistic activity emerges from them. 
+	- We're rethinking the actors of local news 
+		- Support organizations 
+		- Information Stewards 
+		- Funders 
+			- secondary groups and provider types TBD
+- Parallel Networks 
+	- cossing the Darien Gap - served via Telegram with information and reporting. 
+	- Domestic VPN access helps provide entry into this space. 
+		- passing around physical VPNs. 
+	- Share information on the pricing on lifesaving goods in the physical space organically 
+- West Bank Maps 
+	- Citizen journalists share information on Doroob Navigator to help people direct themselves through West Bank checkpoints, find safety, etc... 
+- Constant needs in crisis 
+	- So much of our lives are not defined by crisis 
+	- [The Information Needs of Communities: The Changing media landscape in a Broadband Age](https://www.fcc.gov/sites/default/files/the-information-needs-of-communities-report-july-2011.pdf)
+	- Beats nstead have journalism skills directed towards community focus 
+		- Emergencies and risks 
+		- Health and welfare 
+		- other specific topics around personal crisis 
+- Verification in entworks 
+	- network consensus 
+	- personal sharing over reach 
+	- trust through repeated interaction 
+- (Small news networks get captured by capital tho? Patch, NextDoor etc.... Though BlockClub works)
+- Trying to inform specific people to solve real problems. 
+	- Instead of traditional journalism, community information 
+	- Network nodes, community-rooted VPNs 
+	- Targeted relevance 
+	- Distributed 
+	- Peer connections 
+	- Many to many conversations 
+	- Concrete / specific 
+- Instead of journalism as an industry -> acts of journalism (community news roles)
+- Acts communities naturally do 
+	- Community News Roles: a framework for how people keep their communities 
+	- Listening & Facilitating -> documenting -> commenting -> inquiring -> sensemaking -> amplifying -> navigating -> enabling -> loop to start 
+	- Thinking about the roles 
+		- Listening - surface priorities 
+		- Documenting - archive and preserve 
+		- Commenting - share personal expertiese 
+		- inquriring - gathering priorities from community 
+		- sensemaking - understand and contextualize issues 
+		- amplifying - getting to other people 
+		- navigating - guide people through complex systems by connecting them to resources 
+		- enabling - provide the resources services, infra that support people who inform their communities. 
+	- Internet freedom tech space enables more interaction to run these roles and provide tools around these roles. 
+- Identify journalists by acts/service not credentials 
+- Are you a journalist? Commit acts of journalism 
+- We face an unprecedented information crisis - bad actors and exhaustion 
+- No single group can combat this alone. 
+- Time to collaborate 
+	- stop trying to fix journalism start enabling acts of journalism 
+	- Stop broadcasting, start acting as nodes in the network 
+- Opportunities for traditional journalists 
+	- a radical mindset shift - declaritive/performative acts shift to journalism as a service. 
+- Develop your theory of service instead of change 
+	- functional / psychological / social utility 
+- What can we do to help people navigate their lives better? 
+	- independence helps you deliver greater value. 
+- Instead of Value aim for Change 
+	- What can we do to help people navigate their lives, better 
+	- Identify opportunities of relevance 
+	- let people make up their own minds 
+	- reach people 
+	- provide utility 
+	- people navigating their lives better
+- Journalists 
+	- care, creative, rooted in truth, trained experts in acts of journalism 
+- Technologist opportunities? 
+	- Not what do newsrooms need, not building new platforms or focusing on reach, but instead aim to reduce friction in natural behaviors. 
+- Security as a foundation of service 
+	- every participant needs security 
+	- privacy by default, not exception 
+	- Distributed risk, not centralized vulnerability 
+- Build to enable acts of journalism 
+	- anonymous feedback systems 
+	- distributed archives 
+	- ... 
+- We all build together. 
+- Trust through service, not authority. 
+- If it works under extreme censorship - via telegram helpdesks run by people in community with each other. 
+- The path forward is starting where we are 
+	- Observe infromation flows in our communities 
+	- identify friction points 
+	- build tools that reduce friction 
+	- test with real communities 
+	- share what works 
+- Most communities struggle and fail at some level of the cycle 
+- Is it too late? 
+	- local news is collapsing and autocracy is spreading 
+	- the traditional local news ecosystem is/has collapsing 
+	- But the needs and communities are still there. 
+	- We don't need to save newspapers - we need to save the functions they served. 
+- The right people are here at HOPE - think about security, distributed systems, community, etc... 
+- pboehler.net/hope/ <- articles here and slide deck will go here. 
+- Virtual workshop on next Thursday. Aug 21, 2pm. 
+- You're already doing journalism. You just don't call it that. 
+- The same systems that control info fontrol everything else 
+- When communities own their info networks they own their own power 
+- The planet doesn't need more broadcasters it needs more nodes. 
+- Be the node, build the tools, share what works. 
+- patrickb.01 on signal 
+- patrick@gazzetta.xyz 

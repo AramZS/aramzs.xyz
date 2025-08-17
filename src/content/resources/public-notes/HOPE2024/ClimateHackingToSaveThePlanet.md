@@ -1,0 +1,69 @@
+# Climate Hacking to Save the Planet
+
+- Big advantages can come out of changes in energy production and use 
+- eia.gov/totalenergy/data/flow-graphs/total-energy.php 
+	- Looks at where energy is coming from and where it is going to 
+	- There is no single answer of a thing we need to fix or decrease power contribution. We have to have a holistic approach. 
+- Where do GHGS come from 
+	- epa.gov/ghgemissions/sources-greenhouse-gas-emissions 
+	- There are many causes, cow farts are only one of them. 
+- What are the GHGS
+	- epa.gov/ghgemissions/sources-greenhouse-gas-emissions 
+	- CO2 lasts for hundreds of years in the atmosphere. 
+	- MH4 only lasts for around 12 years 
+	- Methane is more damaging but doesn't last as long. A decreaseiin creating new GHGs will have near term benefits 
+	- Others are HFCs, PFCs, SF and NF 
+	- **Immediate reductions immediately makes things better** 
+- Technical mechanisms for reducing pollution and removing carbon. 
+	- We cannot recycle our way out of this mess. 
+- Computer more cleanly 
+	- Computers are estimated to consume 50% of global energy by 2040 
+	- Make it more power efficient 
+	- Use fewer materials, extend the llifecycle; make more recyclable 
+	- Use green energy for data centers. 
+	- Can colocate data centers with green power 
+	- Can also transform that heat into other useful things 
+- Solor panels in space aren't the solution 
+	- It would require thousands of such launches unrealistic 
+- atlas.eia.gov <- renewable  energy map 
+- Nuclear power is not the answer 
+	- the minerals are a problem to handle and are their own pollution 
+	- Number of new nuclear plants between 1978 and 2013? 0 
+	- 2 since 2013. 
+	- safety and storage concerns might be addressed, but 10 to 20 years to bring one online and they are very expensive. 
+- Misinformation and disinformation - information engineering for social good 
+	- Correct information take a long time to distribute. 
+		- Needs to be explained 
+		- can't just be a sound bite 
+	- Is intentionally looking authoritive 
+	- easy to share 
+	- sources may be deceiving or incorrect or misrepresented 
+	- Often crafted for micro audiences - very appealing for sharing and consumption, tends towards confirmation bias. 
+	- likely to create an emotional response 
+	- Electric vehicle examples 
+		- Misinformation: EVs pollute more than gas vehicles 
+		- Disinformation: EVs are a symptom of the gov't tryingtto take away our freedom 
+		- Correct information: complicated 
+		- The full picture includes theeenergy needed and GHG emissions for materials, transport, human ccost, conflict minerals, indentured labor habitat loss 
+		- Batteries are expensive and bad for the environment processes, rare difficult to obtain minerals, to produce like most embedded energy 
+		- The bottom line is indeed favorable but by a smaller margin. 
+- Opportunities 
+	- Improve information literacy 
+- Modeling and simulation - 
+	- observation is input to modeling 
+	- ECMWF
+	- ecmwf.int 
+- Improve versimilitude of forecasts 
+- improve observational data 
+- Increase computational power put against it.
+	- better algos, more efficency 
+- Improve awareness 
+- Invoke social change 
+- Food science 
+- industrial / agriculture efficiency improvements 
+- Response and resilience 
+	- disruption happens, hackers are here to help. 
+- How can biological systems help? 
+- Ecology, understand vast and micro biomes 
+- An End to the Climate Emergency is in our Grasp - Cory Doctorow, pluralistic.net. 
+- 

@@ -1,0 +1,192 @@
+# Enshittification: Why Everything Suddenly Got Worse and What to Do About It 
+
+- **Cory Doctorow**
+- How did we end up trying to eject the middlemen and end up with a whole bunch more middlemen 
+- The answer is that middlemen are mostly useful - - if they know their place 
+- The internet has become diseased, pathological 
+- The disease can be broken down by thinking about symptoms, epidemiology 
+- Symptoms 
+	- How does the patient present? 
+	- Three stage process of degeneration 
+	- 1 good to the users 
+	- 2 abuses the users to obtain surplus (user data) for biz customers 
+	- 3 abuses biz customers to claw back value for itself 
+	- Case Study - Facebook 
+		- Everyone out there who had social media already so they had to convince them 
+		- Pitch them on leaving the platform MySpace that is spying on them 
+		- Promise that Facebook won't spy on you 
+		- We will exchange your social and interest graphs for good service in providing what you like and want to see 
+		- Users locked in, locked themselves in 
+		- The collective action problem 
+			- When you and your group can't decide what single thing to do 
+		- You have to convince everyone to leave Facebook at once - hard 
+		- Switching costs - what you have to give up to leave the platform
+		- End users and Biz customers 
+		- Biz customers are split into publishers and advertisers 
+		- Ad biz users asked to give a detailed dossier of the people they want to reach. 
+		- Publishers biz users get their stuff crammed into the user eyeballs. 
+		- (Thought: Why didn't FBIA and AMP work? Publishers did it. Maybe couldn't capture the whole web feature set) 
+		- The content you send to Facebook gets longer and more substantive 
+		- Eventually if you can pay to share your content, eventually you MUST pay to show your content 
+		- Facebook wants to remove all the available surplus to extract value. 
+		- Markets really don't like to see platforms contracting, or even growing slower. 
+		- This puts a lot of pressure on these platforms who have slashed their surplus and their safety. 
+		- Then they "pivot" aka panic
+		- Mark Zuckerberg comes to us and says instead the future is the metaverse 
+		- That's the final stage of enhittification, it turns into a final big pile of shit. 
+	- parties don't like it but they are stuck in the cycle. 
+	- Good to users and customers -> bad to users -> bad to biz -> pile of shit 
+- Why does it work that way? 
+	- It starts at the inside of computers 
+	- Because computers can do anything. They are very flexible. 
+	- Services on digital substrates can change how they work from second to second at very low cost 
+	- Everything you need to know tobbe a good user or biz user changes constantly, making it impossible to really track
+	- consider Uber's algorithmic descrimination 
+	- Uber will force you by altering your salary to move your entire time to drive Uber and make you dependent on it. 
+	- Changing Uber driver's wages minute to minute. 
+	- What makes shell games convincing is that they go quickly 
+	- simple tricks done fast is what makes surplus extraction successful 
+	- Same thing happened to publishers on Facebook. 
+	- Facebook usurping publishers  - if the publisher's activity drops off it stokes their activity to keep them posting and paying for Facebook 
+	- Eventually humans don't beat Facebook's small changes fast and frequent 
+	- That's the Mechanism 
+- Epidemiology - why is it happening now? 
+	- What caused it? 
+	- Was it end of zero interests? Change in leaderships? I don't think so. 
+	- Some platforms got worse when their founder's left and then came back. 
+	- When a bunch of independent entities all go bad all at once - we look for an environment change instead of something within the firms that is happening in concert some how 
+	- Tech companies are like all biz, they want to make money. 
+	- The more value the stakeholders are allowed to carve off, the less goes to sharehholders. 
+	- When treating users well occurs it is because enshittifying is more expensive 
+	- Things that stop them from playing dirty:
+		- Competition - you could got to someone else if they act badly. 
+		- Regulation - if a company understands that treating its customers or stakeholder badly will cost a price then it treats them better 
+		- Tech has exceptional forces 
+			- Self-help / interoperability - allow users to change the technology they use or modify it. Ex: trying to avoid users being driven to block ads 
+				- No user ever went back to the search engine and said 'how do I uninstall ad blocker'
+				- This controlled tech users particularly well - users could always write a program to de enshittify it
+			- Their tech workforce 
+				- Tech workers had a lot of leverage which let them say nno and leave easy 
+				- Vocational Awe / Being Extremely Hardcore in Elon terms. 
+				- It is appealing to their sense of mission to say workers are part of a great purpose.
+				- It stopped them from resisting managers 
+				- As long as services were provided you could cconvince yourself you weren't being Overworked 
+				- But backfired 
+				- The boss ordered to enshittify workers and the workers told them to fk off b/c they were in high demand and could go get a job across the street 
+				- The problem with motivating workers wwith a sense of mission is that they now feel a sense of mission. 
+	- Tech workers used to be constrained by the above factors but those restraints eroded and eventually enhittification 
+	- this erosion began with the erosian of competition law. 
+	- The Consumer Welfare Theory 
+		- When you find the biz everyone goes the theory believes it is the best store and so you are not finding a cheater but a winner
+		- the result - stop enforcing competition law 
+		- Consolidation 
+		- Causes these companies to become inbread and terrible 
+		- 5 or fewer large global firms tend to dominate every major biz sector 
+		- If you resist, then preditory pricing can be used by the top of the vertical 
+		- Ex: diapers dot com 
+			- Amazon came knocking and wanted to buy them and was rejecected 
+			- Amazon raised money and sold diapers way below the market rate and killed diapers dot com 
+			- Proved Amazon can remain irrational faster than anyone can remain solvent 
+		- "We don't care we don't have to they are [x]"
+		- As competition falls away it enshittifies 
+		- Regulators have a hard time being captured when the number of companies ishhuge 
+		- When it is a cartel of companies they can mobilize consensus, have a unified message and capture regulators 
+	- Competition matters - it keeps them from being too big to fail, so they can't become too big to fail. 
+	- Not every sector can be solved with competition - like surveillance advertising. 
+	- We want companies to stop doing things that hurt people but the larger they are the harder it is for regulators to hold them to account. 
+	- Amazon's 38$ bil  biz is a different biz of advertising than others. 
+	- Self help would sure come in handy - just install an ad blocker 
+		- More than half of users are using ad blockers 
+		- Largest global boycott 
+	- Web is being devoured by apps which are a product of the duopoly 
+	- regulatory capture isn't just the ability to flout regulation but also the ability to use it against competitors. 
+	- Adverserial interopobility - when big tech does it they calliit progress, when we do it they call it piracy 
+	- DMCA allows this. 
+	- Reverse engineering and modifying access control is part - it is supposed to stop you from playing stolen games - but penalty is huge. 
+	- Tech companies have expanded that law. 
+	- DMCA can now shut down almost anything you do. 
+	- 90% of audio books go through audible. 
+		- requires digital rights management 
+	- Audiblegate - they stole money from authors 
+	- I want to leave Amazon? Can I give you a tool to free the book I made and recorded? No that's a 5 year prison sentence 
+	- This is regulatory capture 
+	- Can't make the advertising in the website more obnoxious, but can do it in the app - no adblockers 
+		- can't because reverse engineering the app is a felony. 
+	- This is why they are trying to force you to install their app 
+	- IP laws lets them keep their walls up. Self help can no longer be relied on 
+	- OK, what happened to workers? 
+		- This still had control for a while. 
+		- All that is left for tech workers is work for a tech giant until they fire your ass. 
+		- Like Google who fired all its workers after a buyback that would have kept them paid for 20 years. 
+	- Same intent, same impulses, same pressures, doesn't require a single environmental cause 
+- We have IDed the disease and traced its history
+- Now we can work on the cure 
+- Remember the constraints 
+	- Restore and strengthen each of them. 
+	- Regulation and antitrust action is going up, more in last 4 years than the last 40
+		- The laws existed, they just needed to be enforced 
+		- They call people like me hipster antitrust 
+		- They push back through the press on it being bad 
+		- they target Lina Kahn 
+		- 100+ op Ed's against Kahn in the WSJ
+		- Competition law is being revitalized. 
+	- Regulation stops app bs?
+		- EU is making a start, some good some bad, but being enforced 
+		- Ireland has to really pamper them so they don't leave 
+		- It is injurus the EU's effort 
+		- Ireland sees much less cases 
+		- Pan European laws implemented by the parliament so they can enforce at federal level 
+		- DMA Enforces interoperability 
+		- Might be complementary with right to repair laws. 
+		- America is starting to do better on privacy 
+		- last federal law around privacy was the 1988 VPPA 
+			- it is old! 
+			- (He doesn't seem aware it has become a major vector for lawsuits over Facebook pixels against videos? )
+			- note - has individual action (private right of action)
+		- Surveillance data creates descrimination 
+		- He wants individual action ( private right of action ) not needing to go through a state AG
+		- Stien's law - anything mechanical eventually stops (I think? )
+		- Moral hazard of IP bs 
+	- Labor? 
+		- Massive survey in tech unionization activity 
+		- Tech and warehouse workers in Seattle walked out together from the Amazon warehouse because they are indeed all together 
+		- Tech workers have rapidly dwindling market power 
+	- If it has a networked computer in it then it will enshittifying 
+	- Software won't eat the world, it will enshittifying it 
+	- We can't rely on capitalism to solve this if it can't be relied to deal with climate change 
+	- The internet is not the most important thing that is going wrong, but it is the battleground on which we deal wwith those things and fight fascism, genocide and save our species 
+	- We have everything to gain by making the lives of the people we fight alongside better 
+- We can use the law to make companies act as if they deserve dignity and that's pretty important 
+- EHRs software programs with your health information in them - silos your data from you and even sometime from your doctor. We tried to mandate interop but it hasn't worked well. 
+	- We need to make good standards 
+	- Standards bodies tend to be mostly volunteers 
+	- Hard to deal with big tech participants sending people in. 
+	- Safe harbor needed for people who use the thing to hack at it interoperability and reverse engineer solutions without getting sued. 
+	- Regulators might be able to administer that 
+- Privacy laws and protectionism 
+	- this is how things get done, through coalition - people who want privacy and protectionism and we can see the fissure in that coalition. Banning TikTok without broker regulation is useless. 
+	- To break the coalition - Focus on those acting in good faith and show they haven't solved their problem. 
+	- They fear that if they go after Facebook they will be seen as going after national interest 
+	- Need to highlight companies like Facebook are unmorred and doing stuff to counter US interests they are not "American" companies 
+- Are they Hacking our dopamine 
+	- Is it addictive? 
+	- Does it change how we perceive other things? 
+	- Is it the 24 hour news cycle? 
+	- Is it really Hacking our brains or is it just a lot of stuff is happening and I have a lot of stuff on my mind. 
+	- Tech companies have a self interest in saying they break our brains - it makes them look powerful (some word for this? critohype? )
+	- Skeptical that companies have durable ways to change how we relate to our products. 
+	- (Thought: again this is a cheap tricks fast thing, they don't have a huge standard trick, but can personalize do a  ton of small changes to keep you attached in a way legit companies do not) 
+- Ada Plumber - LARPs Electing the pope 
+- Human Agency is real, what comes of our future is up to us
+- Mastadon export process is a useful interop example 
+-  Tech worker power 
+	- Tech workers have lost a lot of  ttheir power. Trying to fight back with unions 
+	- They care less about product quality and so they can fire more of them and hire less qualified people. 
+- Swapping fatigue 
+	- Too many platforms 
+	- Not enough open ones 
+	- Too hard to switch
+- If the company can get away with treating you as the product they will, regardless of if you pay or not. 
+- Bad regulation is enshittification not all regulation. 
+- a series of threshold effects built up through the 4 forces, they didn't all happen at once 
+- 

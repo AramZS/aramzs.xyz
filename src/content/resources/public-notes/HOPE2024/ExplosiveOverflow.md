@@ -1,0 +1,38 @@
+# Explosive Overflow 
+
+- Mark El-Khoury 
+- Book: Security Chaos Engineering 
+- Starts with Standards & Guidelines which show intent. 
+- Considers culture as well
+	- Usability 
+	- Psychological safety 
+	- Avoid adding friction
+	- Maintain pleseant culture 
+- Formal methods 
+	- doing formal verification 
+	- Create a mathematical model oftthe program 
+	- proving the at program works as intended 
+	- Continuous Formal Verification of Amazon s2n 
+	- Limites - proving that the binary is correct 
+	- Ken Thompson's "Reflections on Trust"
+- Improving interoperability between Rust and C++ <- Google blog 
+- The EU space engenc caught some errors but was constrained on what errors to catch. 
+	- Assumed the backup would work 
+	- Ariane 4 to Ariane 5 - don't change software that worked before <- assumed 
+	- The view had been taken that the software works until it is proven to be false 
+	- They changed it to be that the software is assumed faulty untiliit can be demonstrated that it is correct. 
+	- Ariane 5 was running from the 90s through 2023 
+- Overflow errors 
+	- Therac-25 
+	- Godel's incompletness theorems 
+- The questions : does a program halt, is a program secure? 
+- The Ada programming language was once required because of the memory guarantees 
+- Bugs in our code, how do we show them? 
+	- Static Analysis (SAST)  
+		- Lacks context about *should* it be done this way even if it is done correctly. 
+		- Brakeman is great for Ruby 
+		- The biggest mistake is not triaging security findings. 
+		- Combine findings by category and remidation 
+- SEL4 is a Formally Verified Kernal 
+- gcc and clang support - fsanitize=undefined flag 
+- 

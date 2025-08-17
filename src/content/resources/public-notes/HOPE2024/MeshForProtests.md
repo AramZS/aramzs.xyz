@@ -1,0 +1,147 @@
+# Group Mesh Messaging for Large-Scale Protests
+
+- Tushar Jois
+	- David Inyangson
+	- Sarah Radway
+	- Nelly Fazio
+	- James Mickens
+- Internet Sociaty NY Chapter is a sponsor to look into. 
+- Protests are one of the most effective ways to threaten authoritarian power structures 
+- Protests need communications 
+- Gov try to prevent communications
+- Often involves shutting down at the telecom 
+- And interception
+- Stingrays are common for interception in the US. 
+- (Thinking about needing to strip cookies from web comms) 
+- Need resilience
+- Need to be challenging to intercept 
+- Solution - anon mesh comms system for large scale protests 
+- Mesh networks send messages via Flooding - send all traffic to everyone 
+	- Routing - traffic intentionally directed 
+		- Sender must know location in network of the receiver 
+	- Traffic can be intercepted in a mesh network 
+	- Others have considered 
+		- MOBY blackout resistant anonymity by Pradeep et al 
+		- Strong anonymity for mesh networking by Perry et al
+	- Large scale protests have unique problems 
+	- Real worlds in excess of 200 messages every 30s 
+	- Want to support upwards of 10k messages every 30s 
+	- Real world protests do not maintain static or consistent positions 
+	- They also don't move or send messages in a protest like normal 
+	- You may need to deal with communications that are grouped, not one to one. 
+	- Researchers discovered information through interviewing protesters 
+	- Small groups of 25 or less and large groups up to 10s of thousands 
+	- Group key management needed for large scale protest 
+	- Their solution is AMIGO 
+	- Focused on groups 
+	- Link layer - packet exchange 
+		- This will need to support smartphones 
+		- BLE, Wifi Network, wifi direct 
+		- AMIGO uses two packet types -Beacons and messages 
+		- beacons tell someone that there is a node in their neighborhood. 
+	- Routing layer 
+		- Existing - 
+			- Normal flooding 
+				- Messages have time to live 
+				- Node Wil look at TTL and rebroadcast when needed 
+				- This can even send back to original sender 
+				- A middle node could get more messages than others 
+				- BLE is between 10 and 100m range 
+				- Great message delivery 
+				- partition resiliance
+				- good latency 
+				- Weakness is network overhead 
+					- A lot of traffic generated that you don't need. 
+			- digest based flooding 
+				- Node sends digest of messages they've already received as part of a broadcast message 
+				- The digest is a Bloom filter 
+					- an array where the hash of the message is the index for the array - you say which messages you have by index 
+				- Then you can request the messages you don't have from the other node. 
+				- Good at most of the same things
+				- still a lot of network overhead 
+				- message delivery is slower and there could be false positives losing traffic 
+			- Static Clique Routing 
+				- Leader node and member nodes 
+				- Static - do not change throughout the protest 
+				- Pre determined - they are assigned prior to attending the protest 
+				- Member nodes send outgoing messages to their leader 
+				- Receive a buffer of incoming messages from their clique leader 
+				- The leader nodes send outgoing message buffers to other clique leaders 
+				- Reduces number of packets that go thru network 
+				- Drawback - what happens if a clique member stops working or goes out of range 
+					- worse if leader goes offline 
+			- Location based clique routing 
+				- Dynamic clique determination 
+				- Given a region of space 
+				- Can use GPS coordinates IRL 
+				- 10x10 meters is minimum BLE range 
+				- Each cell in the grid is a clique. 
+				- Dependent on GPS access (underground trains issue )
+				- Clique leaders are elected at each epoch for each region 
+				- Election in minute 1, 4 minutes for data exchange 
+				- Leader election protocol 
+					- at epoch + delay send broadcast message to your zone 
+					- Give an ID and some randomness 
+					- use distributed randomness to determine the leader. 
+					- Then the leader nodes store the member nodes information 
+					- Clique members send to leaders, leaders exchange with other clique members 
+				- All leaders store member nodes' information 
+				- Message delivery and resiliency issues 
+				- But the flaws are repaired somewhat by retry with each epoch 
+		- Session level 
+			- Communicating privetly can be done with a shared key 
+			- To generate a shared key they must generate a shared secret. 
+			- They exchange public keys and come to a shared secret based on math properties of public and private keys 
+			- What happens with groups of people though? 
+			- We need a group key 
+			- option: pair wise key generation with everyone 
+				- this does work 
+				- But centralized and cannot scale very well. 
+				- We need less messages 
+			- We need to be able to remove a node and add a node 
+			- Groups can have members get compromised. 
+			- Can't just give the original key to new entrant so we want to be able to deal with a new group key quickly 
+			- Can't use a central server or assure concurrency (not native to Mesh)
+			- TreeKEM - this is how we use it, has a root secret, path secret, and shorter path secrets
+			- So new members get updated sending updates along the path 
+			- minimizes the number of people who need all new secrets, some will only need a new root, some will only need one path secret, others will need multiple path secrets, much less communication required 
+			- Can you preference leaders per specific characteristics? 
+		- Now one to many group chats of up to 256
+		- Routing evaluation with NS-3 
+		- Mobility models matter to the evaluation of the system 
+	- A lot of models of protests to consider 
+	- Can't use real protest data, gov'ts want to abuse that 
+	- Random waypoint model
+	- Novel model - large gatherings 
+	- Novel model - marches 
+	- Novel model - blockade 
+		- resupply to the blockade occurs 
+	- Human chain - a resupply line 
+		- part of a larger protest 
+	- combine the models 
+- What are the traffic that gets sent 
+	- non protest data is not realistic 
+	- Sending messages at regular intervals is not realistic 
+	- What about packet size? 
+	- How does it fill the available slots to broadcast 
+	- Nodes assigned to group chats 
+		- assumed most stay close to each other 
+	- There will be times of change with more or less acceleration or deceleration 
+		- change the intervals when things are sent based on this 
+	- Messages 
+		- tweet 
+		- audio recording 
+		- photo 
+	- operations
+		- add, remove, refresh, encrypt, decrypt 
+	- benchmarks are 
+		- time, cipher text size, messages required, energy consumption 
+	- group sizes 
+		- 25, 50, 100, 200 
+- @tusharjois
+- tjo.is 
+- tjois@ccny.cuny.edu 
+- Some questions 
+	- Preference particular device characteristics as leaders? Allows people to use low tech throw away or easy to lose smart phones
+	- What about transmitting video to get it out of the protests before the cops take it? It doesn't need to go to the web, it just needs to be sharediin the group so someone can get it out 
+	- 

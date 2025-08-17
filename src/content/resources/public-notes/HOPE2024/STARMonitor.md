@@ -1,0 +1,74 @@
+# Star Monitor: Updates on Standards and Internet Governance 
+
+- An update on several I-star organizations, namely ICANN, IETF, IEEE, W3C, and ITU. The tensions and synergies of human rights considerations in Internet governance and standards setting across the I-star bodies is rapidly expanding. The talk will touch on the major controversies in each space as they relate to human rights, namely censorship and the right to privacy. 
+- Mallory Knodel
+- #W3C
+	- Global Privacy Control 
+	- Federated Identity Working Group - FedID 
+	- Social Web Incubator 
+		- ActivityPub 
+		- Trying to get direct encryption in the DM's. 
+- #IRTF 
+	- Human Rights Protocol Considerations 
+	- Censorship 
+	- Has to deal with intersection with internet comms protocols 
+- #IETF 
+	- Encryption 
+		- Always under threat 
+		- Can be in parallel with some of the policy work 
+		- UK Online Safety act gives OFCOM the power to demand an end to end encrypted service modify that service under an order and can define how it be modified. 
+		- Australia -> progress 
+			- anti encryption law has been on the books. 
+			- They had chat control stuff in progress under child protection. 
+			- Made an argument against those controls 
+		- New OpenPGP 
+	- Messaging Layer Security 
+		- now published as a standard 
+		- More Instant Messaging Interoperability (sp? ) group working on this
+	- Detecting Unwanted Location Trackers 
+		- (dult) 
+		- Ways to mitigate personal trackers from being used to stalk people 
+	- Digital Emblems 
+		- (diem) 
+		- Discussion of plans to provide some sort of technical structure to standardize how Marks are represented across the web (as in trademarks )
+		- Not a security featre
+		- Not do anything but be able to be detected. 
+		- Make it less able to be messed with. 
+		- Unclear if this is a physical thing or digital only? 
+		- sconepro - Securely Communicating Network Properties 
+			- net neutrality issue
+			- allow the network to talk to the service about the speed of the service. 
+			- Might end up hurting small providers / services 
+		- PrivacyPass - now standardized 
+- International Telecommunication Union (ITU)
+	- State member only 
+	- oldest standard body 
+	- Recently opened up observer slot 
+	- 3 sectors, only one does standardization
+		- Radio sector 
+		- Standards sector 
+		- ???
+	- Council Working Group 
+		- rotating select number of member states that help run things  
+		- Good top down view of what ITU thinks is important 
+		- Worried about international access 
+	- AI For Good Summit 
+	- World Radio Conference 
+		- Satalite focused 
+		- Now a way for states to articulate a policy about Starlink. 
+		- Telecom level framework lets states try and block Starlink. Iran asked the US to block Starlink 
+	- World Telecommunications Standardization Assembly 
+		- Focus group on human rights proposal. 
+- IEEE - Institute of Electrical and Electronics Engineers 
+	- Inclusive Language (P3400) 
+- ICANN - Internet Corporation for Assigned Names and Numbers 
+	- Registration Data Request Service 
+	- DNS Abuse 
+		- Now dealing with spam, malware, and a reporting framework 
+	- Reseaux IP Europeans Network Coordination Center (RIENCC)
+		- Responsible for Russia and Ukraine 
+			- Russia started taking Ukraine's IP allocation numbers 
+			- they had to form a policy and process to deal with Russian abuse 
+- Internet Standards Almanac 
+- Book: "How the Internet Really Works" 
+	- nostarch.com to buy discount code HOPE24

@@ -1,0 +1,55 @@
+{% extends "./page.njk" %}
+{% set ogtype = 'article' %}
+{% set pageMetaType = 'resource' %}
+{% set templateName = 'public-note' %}
+{% set subTitle %}
+    posted on <time datetime="{{ page.date | isoDate }}">{{ page.date | dateToFormat("DDD") }}</time> in: {% include "../components/tag-list.njk" %}.
+{% endset %}
+
+{% block mainTitleBlock %}
+{% endblock %}
+
+{% set subTitle %}
+    {% if modified %}
+    modified on <time datetime="{{ modified.toISOString() }}">{{ modified | dateToFormat("DDD") }}</time>
+    {% endif %}
+    <br/>{% if readingTime.text and readingTime.words > 0 %}{{ readingTime.text if readingTime.words > 0 }}.{% endif %}
+{% endset %}
+
+{% block pageContent %}
+    <section data-source="src/_includes/layouts/page-public-notes-resource.njk">
+        {{ content | safe }}
+        <small>My notes from a session at {{ eventName }}</small>
+
+        {% if notes and notes.length and notes.length > 0 %}
+        <aside class="notes">
+          <h4>Notes:</h4>
+          <ul>
+            {% for note in notes %}
+            <li>
+              {{ note | safe }}
+            </li>
+            {% endfor %}
+          </ul>
+        </aside>
+        {% endif %}
+
+        {% if blockquote and sourceTitle %}
+        <div>
+          <br />
+          <small>Replicated under Fair Use from {% if cite and cite.href -%}
+            <a href="{{ cite.href }}" target="_blank">
+            {%- endif -%}
+            <em>{{ sourceTitle }}</em>
+            {%- if cite and cite.href -%}
+            </a>
+            {% endif %}
+            {% if cite and cite.name %}
+              by {{ cite.name }}. {% if pageNum %}<em>(Pg. {{pageNum}})</em>{% endif %}
+            {% endif %}
+          </small>
+        </div>
+        {% endif %}
+    </section>
+    
+{% endblock %}

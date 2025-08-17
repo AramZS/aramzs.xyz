@@ -1,0 +1,46 @@
+# Hacks, Leaks, and Revelations: The Art of Analyzing Hacked and Leaked Data 
+
+- Micah Lee
+- semiphemeral 
+- OnionShare
+- Dangerzone 
+- citizenlab at u of Toronto
+- Found onion sites from hacker groups where they post the data. 
+- AT&T can have VINs from cars and can get warrent-served to pull all the data from the car 
+	- Connects to a SIM and gets a hook into your data 
+- The combination of GPS radius and cellphone cells allow users to have their location captured 
+- Need to have Enable Location History turned on 
+- Geo-fence warrent let's them get anyone in an area at a time with location service on. 
+- Post Millennial hack had a bunch of data 
+	- User accounts there in a db folder 
+	- A lot of phone numbers 
+	- Big leap in sign-ups in the last week of October 2021 
+	- 100,000 people with name in donors 
+	- 20mil unique email addresses 
+- Hacks Leaks and Revelations book has instructions on how to access and manipulate leaks 
+- Book is CC hacksandleaks.com 
+- Book has a lot of hands on info and techniques. 
+- ddosecrets.com 
+- ddosecrets.substack.com 
+- Reddit and Twitter both are censoring DDOS Secrets accounts and urls. 
+- docs.aleph.occrp.org 
+	- can run locally to index big leaks 
+- Beginners' course for data analysis with Python. 
+- Could evolve from that to data frames if that is not in there. 
+- BlueLeaks Explorer 
+	- Built it to make it easier to explore the relationships between the tables that are exported as CSVs. 
+- "The Hacker Who Archived Parler Explains How She Did It (and What Comes Next)"
+	- Extracted metadata to JSON foreeach video 
+- Looks at SQL databases
+- Pandemic Profiteers and COVID-19 misinformation 
+	- "Network of Right Wing Health Care Providers is Making Millions off Hydroxychloroquine and Invermectin hacked data reveals"
+	- America's Frontline Doctors 
+	- "COVID-denying medical group implodes over founder's extravagant spending"
+- Neo-Nazi's and their Chat Rooms 
+	- Final story in the book 
+	- Looking at Unite the Right rally 
+	- Unicorn Riot got their chat logs 
+		- From Discord 
+			- ​Discordleaks.unicornriot.ninja 
+	- "Jury Finds Rally Organizers Responsible for Charlottesville Violence" 
+	- 

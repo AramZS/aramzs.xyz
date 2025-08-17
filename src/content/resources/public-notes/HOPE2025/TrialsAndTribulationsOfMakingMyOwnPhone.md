@@ -1,0 +1,70 @@
+---
+dateCreated: 2025-08-17
+aliases:
+  - The Trials and Tribulations of Building Your Own Phone
+public:
+---
+# The Trials and Tribulations of Building Your Own Phone
+
+- [Wesley Appler](https://schedule.hope.net/hope16/speaker/BZNSPC/)
+	- Wesley Appler (aka lamemakes) is a professional software engineer and a recreational hardware engineer who is incredibly passionate about open source, human rights, and digital privacy.  
+	- fediverse: @[lamemakes@freak.social](mailto:lamemakes@freak.social)  
+	- instagram: @lamemakes
+- Wanted to learn more about Rust, GSM networks, and design RF hardware and PCBs 
+- Where do you even start? 
+- Need to figure out modems 
+	- SIM7600 
+	- Sales reps don't respond if you are solo, so pretend to be an IOT startup. 
+	- Examined the Dragonfly Nano as an option 
+		- Think it might just be a money grab 
+		- Didn't need carrier certification 
+- Needed to build a development board 
+	- Michael Ozmen (sp?) has guides 
+	- V1 had - Antennas broken out to external U.FL receptacles 
+	- USB-C 2 for interfacing 
+	- Nano SIM card slot 
+	- Voltage shifters, labeled pins, indicator LEDs. 
+	- O2/O1 soldering takes a long time and is high difficulty 
+- Needed an abstraction layer for the software 
+- Modem handler service in Rust 
+- Used tokio to handle Unsolicited Result Codes async 
+- API needed to handle sending and receiving SMS and other basic phone functionality 
+- ModemManager - a DBus-activated daemon which controls mobile broadband devices and connections. 
+- Whisperfish's Presage - a default phone for comms 
+- Encrypting SMS in transit?
+	- The content only? 
+	- Metadata is still exposed 
+- Encrypt data at rest by default 
+- IMEI - 
+	- carrier certified modems cannot switch this 
+	- A 15 digest *International Mobile Equipment Identity*
+	- Unique device ID 
+	- carrys info on device make and model 
+	- tracks device activity 
+	- spoofable 
+	- Some eSIM chips allow for 7+ different operator profiles 
+	- SIM7600 allows for setting of IMEI. 
+	- Changing the IMEI based on the operator profile makes it harder to surveil 
+	- Swapping allows for more network compatibility and to pretend to be different types of devices. 
+- Building your own device can include Decentralized comms as well 
+- Mesh networking
+	- A qual client for Bluetooth, wifi, meshing. 
+	- Meshtastic or other LoRa add-ons 
+- Local networking like a PirateBox 
+- Detecting stingrays using rayhunter 
+	- Analyizing traffic from modem and base station 
+	- Notifying users 
+- lamemakes.com 
+- wes@lamemakes.com 
+- [PinePhone - PINE64](https://pine64.org/devices/pinephone/)
+- No 3G carriers anymore in the US. 
+- SilentSMS?
+	- [Using silent SMS to localize LTE users](https://mandomat.github.io/2023-09-21-localization-with-silent-SMS/)
+	- [GitHub - domi007/silentSMS: This is a free Android app that can be used to send silent text messages.](https://github.com/domi007/silentSMS)
+	- Could be detectable with more controls and software on the modem since it is under your full control. 
+- RayHunter - could become an open source hardware platform for that. 
+- Battery Life? 
+	- Haven't gotten there yet. 
+- [History | GrapheneOS](https://grapheneos.org/history/)
+- [Installing GrapheneOS on a Google Pixel 6](https://neilzone.co.uk/2022/09/installing-grapheneos-on-a-google-pixel-6/)
+- LameCat for PCB designs 

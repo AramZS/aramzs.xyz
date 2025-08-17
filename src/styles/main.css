@@ -173,7 +173,8 @@ article > header h2 {
 }
 
 article > header h1 + h2,
-article > header h1 + div.cite-header-block + h2 {
+article > header h1 + div.cite-header-block + h2,
+article#public-note header > div > h2 {
   font-size: 1.1rem;
   margin-top: 0;
   font-weight: normal;

@@ -1,0 +1,132 @@
+# Teaching With Microcontrollers: Hope for Ethical Hacking Education on a Budget
+
+up:: [[Python]] 
+tags:: #programming #microcontrollers
+
+- Kody Kinzie
+- Example events 
+	- Null Space Labs Workshops
+	- Missoula Makerspace Classes 
+	- Cyber Montana: Cybercat Academy
+	- Toorcamp 2024 
+- Null Byte & Hak5 teaching people via YouTube 
+- Raspberry Pis were low cost, but it has gone up 
+- Switched to microcontrollers 
+- Started off discouraging for beginners 
+- The Chicken Man Game - Microcontrollers where they intercept messages coming to and from 
+- The list of assumptions of Arduino classes 
+	- They can access their serial ports 
+	- work with a command line interface 
+	- get a compiler working 
+	- flash to the microcontrollers 
+	- install Arduino, import libraries and boards
+	- has a good USB cable 
+	- enjoys the above 
+- Game Changers
+	- WebSerial 
+		- connect over a chrome based browser to the microcontroller and can do all sorts of stuff with it 
+		- randomnerdtutorials.com 
+		- Can flash a microcontroller with a compiled Bin file 
+		- communicate over serial 
+		- project organization 
+		- flashing and learning on thessame website	
+	- Circuit Python 
+		- let's people make changes immediately and get feedback 
+		- Interpreted 
+		- flash once, never compile 
+		- easy to control hardware 
+		- drag and drop text editor 
+		- easy for beginners to learn 
+		- experiance is smooth 
+		- Some limitations for experienced devs 
+- Useful hardware 
+	- esp8266
+		- no native USB
+		- supports WLED
+		- wifi supports supports packet injection
+		- only can see wifi packet metadata 
+		- Arduino, micropython
+		- no circuitpython
+	- esp32s2
+		- Native USB, mounts as USBdrive
+		- support for circuit python, Arduino, micropython 
+		- No packet injection perfect for HID/BadUSB attacks
+		- Has Wifi but does not support several types of attacks 
+		- single core 
+		- Good core for other projects 
+	- esp32s3 
+		- Native USB, mounts as USBdrive 
+		- Supports Bluetooth 
+		- Dual Core 
+		- Supports Meshtastic 
+		- Wifi but does not support several attacks 
+		- perfect for HID/BadUSB attacks 
+		- no packet injection 
+		- 
+	- Pi Pico / Pi Pico W 
+		- Native USB mounts as drive 
+		- No packet injection 
+		- Perfect for HID/BadUSB 
+		- Has wifi but does not support several types of attacks 
+		- Single Core 
+		- Spark(something) makes a good board for them. 
+- 5 day Cybercat Academy camp
+	- soldering and simple board and leads 
+	- Discuss ethics early on and teach that access to computers only comes with permissions 
+	- IOT Light Boxes with WLED 
+		- Supports WLED for wifi control of the lights 
+		- Use warm white for diffusers not cold white
+		- Some candy for "finding" their lost Nugget on the network
+		- Need access to 3D printers
+	- Hexleaf project on Thingiverse 
+		- Need access to 3D printers 
+		- Use even cheaper Led strips
+	- IOT Purrsheens 
+		- Glows from within 
+		- hybrid materials 
+		- Could get with a long weight in bulk from Aliexpress 
+- Beginner focused microcontroller dev boards 
+	- USB Nugget is a hardware tool that makes Microcontrollers east to learn 
+	- Powered by ESP32s2 
+	- a wifi enabled microcontroller 
+	- Teaches Bad USB attacks 
+	- Teach programming 
+		- circuit [[Python]] micro [[Python]] arduino 
+	- Control hardware / sensors 
+	- Run community projects 
+	- wifi and networking 
+	- has a little screen and control. 
+	- CatScratch Compatible 
+	- Build-in flash drive storage 
+	- can execute attacks plugged into your phone 
+	- Quick payload deployment 
+	- wifi control 
+	- built in demos 
+	- Inspiration - Deauther Watch 
+	- Nugget.dev 
+		- integrates web serial 
+		- offers immediately available projects 
+- Bad USB scripting class was a breakout star for the camp 
+	- Kids took devices home, wrote more scripts unprompted 
+	- Kids learned serial terminal commands to run memes - 
+		- ctrl alt t 
+		- wait 1000 
+		- curl parrot.live 
+		- wait 2000 
+		- enter 
+	- CircuitPython was not successful 
+		- Flashing erased scripts
+		- Students used rpis which unzipped files differently 
+		- hard time copying and pasting files 
+		- now we prepare a model device and save it's flash memory as a bin file. 
+		- Students download the bin and flash it via nugget.dev 
+	- Personalization motivated them to learn 
+	- Generated stickers 
+		- Used stickerapp
+	- Good feedback 
+- Wifi hacking self-defense was a big hit conceptually. People are more often interested in securing themselves. 
+- important to fill the room
+- hack.gay 
+- retia.io
+- nugget.dev 
+- 

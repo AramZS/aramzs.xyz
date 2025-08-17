@@ -1,0 +1,32 @@
+# Our Communities, Resiliency, Our Future
+
+- Chaos Communications Camp 
+	- lesson in building your own hackerspace 
+	- went from there in 2007 to create NYC Resistor, Noisebridge, HacDC. 
+- 70 hackerspace in 2007 to 6,000+ now 
+	- hackerspaces.org 
+- Financial crisis in 2008 made spaces affordable 
+- Generated small businesses 
+- Contributed to the local economy. 
+- Circuit Hacking Mondays helped bring people into the community 
+- All cultures must have checks and balances built in to keep out the worst behaviors of humanity. 
+- Our one rule - subjective by design - be excellent to each other. 
+	- We have to keep talking about it consistently, intentionally 
+	- A huge part of making community resilient to the ups and downs 
+	- and there will be ups and downs. 
+- Noisebridge (some problems we hit)
+	- Helped with occupy wall st 
+		- After, a bunch of unexcellent behavior from people at Noisebridge where they were abusing the community. 
+		- Vandalizing people, too many taking who were not giving 
+		- Politely kicking people out was not working 
+		- Had to Reboot in 2013 - kicked everyone out and only allowed people back in who were contributing. 
+		- Had to create a Cultural Immune System 
+			- Attract what? Repel what? 
+		- A big project at least once a year is a great way to bring people together?. 
+			- Teaches that they are a part of the community 
+		- anniversary was good
+	- Callout Culture is VERY effective but some people use it badly and it is really hard to talk about. 
+		- Be empathetic
+		- Reach out personally 
+		- Be respectful 
+	- 

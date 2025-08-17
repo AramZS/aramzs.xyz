@@ -1,0 +1,54 @@
+# There’s Always HOPE for Privacy: Policy Wins and Needs
+
+- mean gene  from NYC Resister 
+- Ben Wiseman 
+- Motivations 
+	- Resist complacency 
+	- Spread awareness to get public to change their expectations from our watchers 
+	- Inspire more people to take steps to preserve privacy for everyone 
+- Actions 
+	- Share knowledge from 1 on 1 chats to classes 
+	- Effort at work 
+	- Policy contributions 
+	- Make time for personal privacy audits 
+	- Create and distribute art
+- Work with STOP 
+- Amnesty International's working group on privacy in NY 
+- FTC Division of Privacy and Identity Protection 
+	- Enforces COPPA 
+	- Health Breach Notification rule 
+- Explosition of companies that collect and use customer data
+- Biz model incentivized the over collection of user information. 
+- 20 years ago it was assumed companies could self regulate but it hasn't happened and the notice and consent regime has failed in a number of respects. Notice is a fiction if you have to read extensive privacy policies. 
+- Health companies are now banned from sharing data with advertisers. 
+- Misunderstanding of privacy policies as protecting the user? 
+- Overcollection of data 
+	- Required companies to do [[Data Minimization]] 
+	- Security against Leaks or Hacking as well. 
+- Often reach negotiated settlements and obtain orders against the companies. 
+- Impersonator Rule 
+	- Makes it unlawful to impersonate gov't officials. 
+- Provided guidence about how clearing data should work 
+- FTC dealing a lot with precise geolocation data. 
+- Banning more companies from selling precise geo locations that could be tracked to sensitive geo locations. 
+- Avast enhanced security products and selling anti-virus and privacy protective services 
+	- They were selling advertising further downstream 
+	- Order acquired 
+	- Had to delete data products 
+	- Had to delete user browsing data 
+	- Company was prohibited from further selling information to third parties for advertising purposes. 
+- Bright line rule for health service apps to stop them from selling data. 
+- Division of enforcement works to make sure that companies comply with the orders. 
+- Facial recognition on shoplifter was not properly handled by a store, no high quality images, no training, not monitored as executed 
+	- thousands were falsely matched walking into Rite Aid store. 
+	- Prohibits the company from using facial recognition for 5 years and requires future use of biometric surveillance to be done with a very specific program and a kill switch 
+- Report fraud at fraud.ftc.gov 
+	- Recently called for reports on connected cars 
+	- reportfraud.gov 
+	- Advocacy groups will file complaints where they've seen unlawful practices. 
+	- Learn about news in regard to privacy as well. 
+	- Also unfair and non-competitive practices 
+- Also submit public comments 
+- FTC website and consumer blog issues update (RSS feeds? )
+- RFI's issued - requests for information 
+- Mean Gene - privacychat@pm.me 

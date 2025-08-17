@@ -1,0 +1,83 @@
+# Hacking Is a Mindset, Not a Skillset: A Non-Technical Guide to Building Solidarity Infrastructures With Friends
+
+- moshfet 
+- Description: You don't need to have tech skills to build a mesh network! In this talk, moshfet will share how he helped spawn an anti-capitalist mesh network in Tucson, Arizona with just a bit of  COVID stimulus money and a wish upon a (shining) star. His goal is to inspire the possibility of building infrastructure in common in local communities - like mesh networks - to push  back against the corporatization and monopolization of critical infrastructures more broadly.
+- In the presenter's words: "We didn't choose to work on providing Internet access because we're tech experts (we're not!), but as a demonstration to ourselves and our community: if  complicated technologies such as the Internet can be given away at cost by a network of volunteers, what's to stop people in Tucson from doing the same thing with cellular service?Libraries of Things? Repair cafes?"
+- Look into Anycast 
+- Made with Tucson mesh 
+- FPGAs
+- Yocto 
+- boot-chains 
+- Cyborg Support - infosec for sex workers 
+- Solidarity Infrastructures? 
+- Moder tech systems tend to be 
+	- Opaque - the inner workings are inaccessible to users and many developers 
+	- Inflexible - rigid to a diversity of wants and needs 
+	- Hegemonic - funnel users towards a carefully crafted UX
+	- Exploitative
+	- Disempowering 
+- So how do we use these systems in ways they aren't designed for 
+- Zines 
+	- https://envs.sh/d_-
+	- https://envs.sh/djD 
+	- Committee for Liquidation or Subversion of Computers 
+- What is a hacker mindset applied to a community. 
+- We want to build technical systems that
+	- are build informed by needs and desires of the communities 
+	- empower folks in those communities organically expand evolve and decay within the rhythms of our communities 
+	- knows when to step back 
+- Mother Cyborg x Detroit Community Technology Project (https://envs.sh/dA5)
+- Solidarity Infrastructures 
+	- A grassroots approach for building infrastructures 
+	- guided by day to day societal and ecological concerns 
+	- built to act in Solidarity with its users particularly under conditions of crisis protest and systemic inequality 
+	- see also right to repair, data sovereignty, organic internet 
+	- Mesh networks and neighborhood intranet 
+	- public hackerspaces
+	- pirate radio 
+	- community science 
+	- map making and crowdsourcing 
+- Tucson mesh case study 
+	- volunteer run collective 
+	- community run mesh network 
+	- Explicitly an anti-capitalist project 
+	- vital capacity to a community 
+	- provides network connectivity 
+	- buikd educated users inspire more communal infrastructure projects 
+	- prioritize human connections 
+	- All sorts of people involved
+	- not a business not a charity 
+	- fiscally sponsored by the blacklidge community collective, a space that hosts a variety of rad projects - bcctucson.org 
+	- Purchase bandwidth directly from an IXP 
+	- Bandwidth is distributed through rooftop antennas 
+	- Users personal home routers connect to the router on their roof 
+	- Rooftop routers connect to each other throughout a neighborhood, forming a strong resilient mesh network 
+	- "Welcome to the Mesh Brother" in NYT 
+	- Detroit Mesh is around as well 
+	- #1400Challenge is how it started 
+	- They held a community stimulus project proposal night. 
+	- Allied Media Conference in Detroit manages their mesh and inspired this project 
+	- Parallel infrastructure, liberating a resource
+	- Fuck tragedy of the commons 
+	- Use tech for community organizing and connection. 
+	- Push back against technological isolation 
+	- They decided to do it with no previous relevant experiance 
+	- Premise: the time, energy, and initiative, of committed revolutionaries is more valuable than money 
+	- Select a lead to spend 25 hours / week 
+	- but the collective whole selects priorities 
+	- "What Mutual Aid Can Do During a Pandemic"
+	- Tucson mesh is very flat and gives some limitations to the projection capability for line of sight issues
+	- Could we tie open source cell phone systems into the [[MeshNetworks]]? 
+	- Community hosted VPS services? 
+	- Beyond 5ghz wireless? 
+	- Technical classes and hacking sessions?
+	- moshfet@riseup.net 
+	- cyborgsupport.net 
+	- cyberia.club
+		- cyberia computer club 
+		- we care about simplicity, privacy, accessibility, kindness, hacking, people, openness honesty, transparency, and a lot more
+		- we move against the grain of big business tech against the leeches who stole all of the magic against those who care for profit more than people] 
+		- help us close the old world and open the next 
+	- What can we build when we build for our neighbors rather than the whole world? 
+	- implient a coop that provides all the Google Drive/Gmail features 
+	- 1 community event held per month 

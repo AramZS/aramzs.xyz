@@ -1,0 +1,22 @@
+# Bait and Switching Costs - How Big Tech Took the Web and How to Take It Back 
+
+- Missed first 30m because I was at the demoscene event until 1:30 come on. Looks like I missed the majority of the presentation 
+- Open social media - different models need different approaches 
+	- Publisher 
+		- Feedback -> Curators -> Publisher 
+			- Algos can pick between curators.
+- Taking it back requires a movement and people collaborating on a solution. 
+- Primarily we have to address switching costs 
+- Mathematical Mesh 
+	- https://mathmesh.com 
+	- phill@hallambaker.com 
+	- @CryptoMesh 
+- May need different accounts and have a client that makes switching easy. 
+- Revocation, how does it work? 
+	- People make use of encrypting data at rest
+	- Need a very solid data recovery story. 
+	- Shamir's (sp? ) secret sharing at the root of the mesh
+	- You can use that to recover from a disaster 
+	- You can only separate things if the party thought about it at the outset. 
+- How did we win the right to keep our phone numbers between providers (take your number with you)? 
+- 

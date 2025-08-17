@@ -1,0 +1,97 @@
+# The Future of Leaks: What's Next for the Online Library of Hacked Data?
+
+- [Emma Best](https://emma.best/) 
+- Lorax Horne 
+- [Home - Distributed Denial of Secrets](https://ddosecrets.com/)
+- Began in 2018. 
+- How it works in theory 
+	- Data received and verified 
+	- public interest? 
+	- No interest for the public? Discard. 
+	- Yes? 
+		- Look for PII 
+		- If no -> publish a torrent 
+		- If yes -> May publish if there is already a version floating out there in order to reduce harm from potential incomplete versions floating around 
+		- If yes and the PII can't be stripped - it is announced as reserved - usable only by proven people who have shown they can handle it well. 
+		- If it can be stripped we publish it redacted. 
+- Pretty small group - Pac Man Rule - The Open Circle Principle 
+- Time to split up - the fundraising isn't working 
+	- Keep Leaks Alive 
+	- very hard to raise money for Leaks publishing 
+	- Crowd funding hasn't been very successful 
+	- Impacts our ability to serve and protect sources 
+- Split into 
+	- Library of Leaks 
+		- redactions , archive, distro 
+		- Welcome in more participants 
+	- Disclosure without Borders 
+		- source protection 
+		- embargoes 
+		- collabs 
+		- smaller circle of trust 
+- New release 
+	- Ganosec Israel Defense Forces 
+- Hunter 
+	- a fork of Aleph-provided searchengine focused on harm reduction 
+	- Now a login service for journalists to prevent it from being taken down. 
+- Dealing with incidents around password sharing, especially when sources have data they want reserved. 
+- Breaches 
+	- We can't have the journalists sharing passwords - but shared among newsrooms 
+	- Journalists got hacked 
+	- Phishing attacks with fake journalists emails. 
+	- Overworked volunteers making user errors 
+- Introducing - the Leaks Library Card
+	- Physical MFA 
+	- Helps prevent Phishing 
+	- Card holders become voting members 
+	- Not just for journalists 
+	- data.ddossecrets.com is public 
+	- The other data sets require a Leaks Library Card 
+	- We think this space should teach people how to do journalism 
+	- People who can demonstrate research methodology we will verify you and send you a card
+	- Formalizing the process will help engage more people with opinions about things 
+- Library of Leaks 
+	- Now larger than the library of congress 
+	- hoping people volunteer 
+- Board of Advisors is being wound down and replacing it with organizers 
+	- Need people who are closer to the process 
+	- Experience to bring:
+		- Specialized topics 
+		- language experiance 
+		- 60 countrys in the archive so far 
+		- Documentation - style guide, dataset descriptions scripts for processing data sets, visualizations
+		- Fundraising - grant writers, event organizers, designers
+		- Help maintain and develop 
+			- search.ddosecrets.com 
+			- Other stuff 
+- We don't own Leaks and there are big ones we don't have 
+	- Looking for people to donate the Leaks to the library 
+- Disclosure without Borders 
+	- Will take subscriptions 
+	- New working group absorbs Adopt a Hacker. And other legal defence campaigns.
+	- Take subscriptions from those who monetize the library. 
+		- For anyone who wants an embargoes 
+	- Newsletter on Open Collective 
+	- Easier to join the Library of Leaks as a volunteer tho. 
+- Work with International Consortium of Investigative Journalists is particularly notable.
+- "Luanda Leaks whistleblowers Rui Pinto faces fresh charges but may benefit from amnesty reforms time to coincide with papal visit" 
+- Find us 
+	- ddosecrets.com
+	- OpenCollective.com/ddosecrets 
+	- t.me/AntiPlumbers 
+	- github.com/scidsg/frontpage 
+	- github.om/ddosecrets
+	- Signal: Lorax.420
+	- @ddosecrets@kolektiva.social 
+- Source protection 
+	- Very much a case by case basis 
+- Journalists repeatedly push to out the source 
+- NICAR sessions run on dealing with leaks but maybe opportunity to partner with journalists here (potentially for pay )
+	- Bottleneck is while we know how to do some thing we don't know how to teach things to people 
+	- Makes it hard to run classes 
+- Looking to expand hosting. 
+	- Can't rely on most data centers in most juristictions 
+	- There is a guide on the website on how to mirror the data en-mass. 
+- Potential internet archive opportunity? 
+- Never worked directly for the gov't (weird question)
+- We work with people and if the background is clear we'll keep working with people 

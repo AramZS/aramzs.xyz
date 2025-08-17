@@ -1,0 +1,70 @@
+# EOL... RLY? Ending The Epidemic of Bricked and Abandoned Stuff 
+
+- Ways to secure the aging internet of things? 
+- Secure Resilient Future Foundation
+- PIRG
+- Panel: 
+	- Paul Robert's - EIC Security Ledger, President, SRFF
+	- Lordina Cherne - SANS institute 
+	- John Bumstead - RDKL
+	- Lucas Gutterman - US PRIG, Designed to Last director 
+		- Got Google to extend support for Chromebooks 
+- An epidemic 
+	- 29 billion IoT devices projected by 2030 (15bil in 2020)
+		- No laws in the US that mandate periods of support 
+	- Divergence between hardware lifespan and software support 
+		- hardware might last decades but software support is often over in 3-7 years 
+	- IoT W3C standards work, wonder if any of these folks are involved? 
+- A refrigerator is a good example of this problem. Smart fridges support are likely to end way before the end-of-live of the hardware 
+- A lot of the stuff ends up in the landfill. 
+- Chromebooks: the cost of EOL 
+	- Google Chromebook sold to k-12 <- an example 
+	- Pandemic spurred massive investments to enable 48m k-12 students 
+	- Expiration dates based on device certification, not purchase dates 
+	- under pressure Google increased support from 4 to 10 years 
+	- Estimated savings for districts -> 1.8 billion 
+	- Released a report called Chromebook Charm(sp?)
+	- Chrome OS has an arbitrary date (amount of time) after the laptop is certified where the OS just turns off. 
+	- 13 laptop models were going to expire by the end of the summer when they released the report 
+	- Google and retailers don't obviously disclose when the end of life of these models is pre-programmed 
+	- Amazon was selling laptops that already expired. 
+	- Because Chrome was out of date they couldn't take state tests whose websites had particular requirements 
+	- Though it isn' t just Google causing this problem 
+- Right now we're creating huge amounts of electronic waste
+- There needs to be transparency over how long the device is supported for 
+- Tools and methods should be allowed to allow the consumer to install whatever they want on a device they own. 
+- Ban disposable tech. 
+	- Pregnancy test that runs the strip through a screen and chip for no reason.
+- FTC or US Attorney General / State Attorney General <- You should report unfair or deceptive marketing to them for stuff like this 
+- Huge impediments, technical and otherwise, to reusing old devices. 
+- The EOL Handcuffs 
+	- Manufacturers have aggressively deployed remote management and anti-theft features for consumer electronics in recent years. 
+	- While useful, such features if not properly de-commissioned/de-provisioned when the device is sold, recycled, or changes ownership. Can foreclose on refurbishing/re-use. (Prob want to reformat any renewed device? )
+		- Based on Serial Number 
+		- Enforced by Apple 
+		- Even if wiped the Serial Number with Apple's server can still associate with an iCloud account. 
+		- Apple is the ultimate administrator of your Apple devices. 
+		- (Can you install Linux on the device to avoid this bricking? )
+		- Activation Lock and Management Lock (MVM). MVM requires log in with the institution. Serial numbers in the management system must be ejected when the device is disposed of
+		- Often means devices have to be destroyed when even a few years old. 
+		- Process to appeal Activation Lock is worthless. 
+		- Apple's approval is required to change out a part on the device. 
+		- Locked devices, you'd hope, would at least be used for parts. But now any part from the device can trigger activation lock even if it is in with a bunch of other parts. Apple Paired Parts/Parts Pairing program causes this. 
+- Low end devices, High stakes security
+	- Black Lotus Labs team at Lumen Technologies has identified a multi-year campaign targeting EOL small home/small office routers and IoT devices, associated with an updated version of TheMoon malware. 
+	- These compromised devices were used as the foundation of a cybercriminal focused procy service known as Faceless. 
+	- Most people don't care 
+	- Routers, refrigerators, industrial control systems, degraded network traffic, medical devices, the stakes go up. 
+- SOHO Routers: Canaries in the coal mine 
+	- Moon bot net were enrolling the EOL devices into the proxy service Faceless. Used by cybercriminal in obfuscating their activity. 
+- Pebble to Rebble - a fix for Abandonware 
+	- Open Source software for a pebble watch 
+	- Encouraging reliant device ecosystems 
+	- A regulated graceful default for manufacturers. Puts guardrails on EOL decisions that emphasize continuity 
+	- Open source it? Pebble Smart Watch -> Rebble.io 
+- ? US laws that say - you must follow the internationally recognized standard 
+- EU law under discussion of at least x years of support. 
+- Warrenties with a car, surely we need those with IoT 
+- Making sure the device has physical buttons may be required 
+- Install what you want on the device and return it to use as a general computing device should be required. 
+- 
