@@ -1,0 +1,35 @@
+---
+author: Max Tani
+cover_image: >-
+  https://img.semafor.com/75027f0abb373e347d6469b3e170ffd6824e21e9-2858x1482.png?rect=18,0,2823,1482&w=1200&h=630&q=75&auto=format
+date: '2025-08-18T12:27:21.945Z'
+dateFolder: 2025/08/18
+description: 'The Argument aims to articulate what the left is for, not just against.'
+isBasedOn: >-
+  https://www.semafor.com/article/08/17/2025/with-the-argument-the-left-gets-a-new-publication
+link: >-
+  https://www.semafor.com/article/08/17/2025/with-the-argument-the-left-gets-a-new-publication
+slug: >-
+  2025-08-18-httpswwwsemaforcomarticle08172025with-the-argument-the-left-gets-a-new-publication
+tags:
+  - media
+title: Exclusive / The left gets a new publication
+---
+<figure><img alt="The Argument" data-nimg="1" data-testid="ledeImage" src="https://img.semafor.com/75027f0abb373e347d6469b3e170ffd6824e21e9-2858x1482.png?w=1920&amp;q=75&amp;auto=format" srcset="https://img.semafor.com/75027f0abb373e347d6469b3e170ffd6824e21e9-2858x1482.png?w=750&amp;q=75&amp;auto=format 1x, https://img.semafor.com/75027f0abb373e347d6469b3e170ffd6824e21e9-2858x1482.png?w=1920&amp;q=75&amp;auto=format 2x"/><figcaption>The Argument</figcaption></figure>
+<p>A group of left-leaning writers and journalists are starting a new publication on Monday aimed at arguing in favor of what liberalism is for, rather than just what it’s against.</p>
+<p>Jerusalem Demsas left The Atlantic in recent weeks to launch The Argument, a new publication that aims to push back against the populist right by strengthening the ideas and arguments of modern liberalism and convincing readers of their legitimacy.</p>
+<p>“To move out of this post-liberal, populist moment towards a better future — one with equal rights, material prosperity, and commitment to human progress — will require our government, culture, politics, and people to recommit ourselves to liberal values,” Demsas said in a statement. “Persuading people here is not the work of 5,000 word treatises on the importance of liberal democracy or lectures about how bad the post-liberal world order is (we get it and no one cares; see the 2024 election!). It’s going to happen if people are convinced the lives they want — prosperous, safe, and free to live how they want — are best protected under liberalism.”</p>
+<p>In addition to Demsas, who will serve as the publication’s editor-in-chief and CEO, The Argument is launching with a team of well-known political writers and editors: The organization hired Kelsey Piper, a former contributing editor for Vox’s <em>Future Perfect</em>, and Jordan Weissmann, a former political editor at Semafor, as staff writers. It has also brought on Lakshya Jain as director of political data and Kate Crawford as chief of staff.</p>
+<p>But its other draw will be its extensive network of high-profile contributors.</p>
+<p>Among the most recognizable names: Substackers Matt Yglesias, Kyla Scanlon, Alice Evans, Joey Politano, and Charlotte Swasey; <em>Abundance </em>co-author Derek Thompson; Atlantic contributor Adam Harris; blogger Matt Bruenig; Heatmap News’ Robinson Meyer; New Yorker contributor Rachael Bedard; Biden administration alumni Mike Konczal and Zach Liscow; the Center for Public Enterprise’s Paul Williams; academics Eric Goldwyn and David Schleicher, economists Adam Ozimek and Maia Mindel; and novelist Adelle Waldman.</p>
+<p>The publication will also launch with solid financial backing: Demsas told Semafor The Argument raised around $4 million at a $20 million valuation. The company’s investors include Arnold Ventures, Open Philanthropy, Susan Mandel, Gaurav Kapadia, Rachel Pritzker, Simone Coxe, John Wolthuis, and Patrick Collison. The organization also said it received a grant from Tyler Cowen’s Emergent Ventures.</p>
+<p>Many of The Argument’s writers have supported (or, in Thompson’s case, authored) the ideas of <em>Abundance</em>, a recent book advocating for reforms to improve government efficiency, lower the cost of housing, and improve public transportation, among other initiatives.</p>
+<p>Demsas told Semafor that, although “one of our core coverage areas is the politics and economics of growth of which abundance liberalism is certainly a central part,” The Argument will have no “formal relationship” with the movement.</p>
+<p>Demsas told Semafor that it also plans to emphasize issue polling and survey data, led by Jain, co-founder of the polling and political data group Split/Ticket. The Argument said that it had its first poll already in the field.</p>
+<p>Trump’s second victory in three elections marks a low point for the Democratic Party, which has rarely been less popular with Americans, including many of the party’s own voters.</p>
+<p>Yet the party’s soul-searching has inspired a robust discussion in left-leaning digital media circles about the path forward, which is clearly fueling interest in liberal and progressive writers, podcasters, and posters. The success of <em>Abundance</em> has already shaped the discussion around housing and zoning in liberal states like California, while Zohran Mamdani’s success in his insurgent mayoral campaign in New York City has energized voices on the progressive left (Mamdani himself has nodded at some ideas in <em>Abundance</em>).</p>
+<p>The Argument’s focus on policy solutions also seems to be a common theme in President Donald Trump’s second term. Last week, Semafor first reported the launch of <a href="https://www.semafor.com/article/08/10/2025/with-new-podcast-bis-blodget-turns-to-solutions-journalism">Solutions</a>, Business Insider founder Henry Blodget’s new podcast. Blodget told me that he, too, was less interested in simply identifying what went wrong.</p>
+<p>“We’re not just going to explain. We’re going to persuade. We’re not just going to diagnose the problem, we’re going to fight for the solutions,” Demsas says in the video The Argument plans on releasing Monday.</p>
+<p>This has also increasingly been a decent business. Resistance to Trump has <a href="https://www.chaoticera.news/p/on-substack-liberals-find-their-answer-to-musk-s-x?utm_source=www.chaoticera.news&amp;utm_medium=newsletter&amp;utm_campaign=on-substack-liberals-find-their-answer-to-musk-s-x&amp;_bhlid=7481f1530cfa4524f5c20a1b13af21f57e7e9c13&amp;last_resource_guid=Post%3A0a2aa558-bfaa-418f-b505-2818872a4d98">increasingly</a> powered the massive subscriber growth on Substack, where publications like the Bulwark, Zeteo, The Contrarian, and Slow Boring have seen an explosion in growth.</p>
+<p>It’s a dark moment for Democrats — but liberal writers are still trying to have at least a little fun: The Argument is launching with a party in DC in September featuring many of the publication’s contributors.</p>
+<p><strong>A mirror-image debate is going on in conservative-to-right-wing media, Ben Smith and Max reported this spring, </strong><a href="https://www.semafor.com/article/05/25/2025/inside-the-identity-crisis-in-anti-woke-media">as “anti-woke” upstarts</a> that saw themselves as a reactionary counter-culture have had to contend with an establishment that agrees with them.</p>
