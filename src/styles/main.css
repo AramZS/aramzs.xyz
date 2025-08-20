@@ -180,6 +180,10 @@ article#public-note header > div > h2 {
   font-weight: normal;
 }
 
+article#public-note .header-separator {
+  display: none;
+}
+
 article > header small span {
   background-color: var(--accent);
   color: var(--background);

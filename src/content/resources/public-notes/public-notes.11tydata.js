@@ -32,7 +32,7 @@ module.exports = {
   eleventyComputed: {
     title: (data) => {
       let aliases = data?.aliases && data.aliases.length ? data.aliases[0] : false;
-      return `${data.title || aliases || generateTitle(data.page.fileSlug)} | ${getEventName(data.page)}`
+      return `${data.title || aliases || generateTitle(data.page.fileSlug)} - ${getEventName(data.page)}`
     },
     tags: (data) => {
       let tags = data?.tags && data.tags.length ? data.tags : ['event'];
