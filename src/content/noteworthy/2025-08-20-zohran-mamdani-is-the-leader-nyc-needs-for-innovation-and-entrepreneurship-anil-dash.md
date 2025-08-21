@@ -1,13 +1,14 @@
 ---
 title: >-
-  Zohran Mamdani is the leader NYC needs for innovation and entrepreneurship -
-  Anil Dash
+  Zohran Mamdani shows that Silicon Valley is About Isolation
 tags:
   - Notable Articles
   - nyc
   - tech
   - politics
+  - economic inequality
 date: '2025-08-20T16:00:00.000-04:00'
+description: "And that there is future in community"
 cite:
   name: >-
     Zohran Mamdani is the leader NYC needs for innovation and entrepreneurship -
