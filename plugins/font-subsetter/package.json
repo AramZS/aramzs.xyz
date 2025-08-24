@@ -1,0 +1,56 @@
+{
+  "name": "@photogabble/eleventy-plugin-font-subsetting",
+  "version": "1.1.1",
+  "description": "Font Subsetting made easier for Eleventy.js",
+  "type": "module",
+  "keywords": [
+    "11ty",
+    "eleventy",
+    "eleventy-plugin",
+    "font",
+    "subsetting"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "test-coverage": "c8 ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/photogabble/eleventy-plugin-font-subsetting.git"
+  },
+  "author": "Simon Dann (https://photogabble.co.uk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/photogabble/eleventy-plugin-font-subsetting/issues"
+  },
+  "homepage": "https://github.com/photogabble/eleventy-plugin-font-subsetting#readme",
+  "peerDependencies": {
+    "@11ty/eleventy": ">=3.0.0"
+  },
+  "peerDependenciesMeta": {
+    "@11ty/eleventy": {
+      "optional": true
+    }
+  },
+  "files": [
+    "plugin.js",
+    "plugin.d.ts"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "types": "./plugin.d.ts",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "characterset": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "^5.3.1",
+    "c8": "^7.14.0",
+    "@11ty/eleventy": "^3.0.0"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}

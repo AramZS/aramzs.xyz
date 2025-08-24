@@ -33,7 +33,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
 	// So that file creation on `.before` doesn't trigger a rebuild
 	eleventyConfig.setWatchThrottleWaitTime(5000);
-  eleventyConfig.addWatchTarget("./plugins/");
+  //eleventyConfig.addWatchTarget("./plugins/");
   if (process.env.IS_LOCAL === "true"){
     eleventyConfig.addPlugin(directoryOutputPlugin, {
       // Customize columns
@@ -78,7 +78,7 @@ module.exports = function (eleventyConfig) {
 	// Install Plugins
 	//
   // This plugin isn't doing anything. 
-  eleventyConfig.addPlugin(pluginDrafts);
+  // eleventyConfig.addPlugin(pluginDrafts);
 	eleventyConfig.addPlugin(require("@rknightuk/eleventy-plugin-post-graph"), {
 		boxColor: "var(--background-muted)",
 		highlightColor: "var(--accent)",
@@ -117,7 +117,7 @@ module.exports = function (eleventyConfig) {
 	);
 
 	eleventyConfig.addPlugin(
-		require("@photogabble/eleventy-plugin-font-subsetting"),
+		require("./plugins/font-subsetter/eleventy.config.js"),
 		{
 			srcFiles: [
 				`./public/fonts/iosevka-etoile-regular.woff2`,
