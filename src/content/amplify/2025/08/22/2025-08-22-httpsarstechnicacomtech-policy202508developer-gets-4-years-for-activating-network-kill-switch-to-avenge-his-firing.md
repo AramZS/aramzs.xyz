@@ -1,0 +1,44 @@
+---
+author: Ashley Belanger
+cover_image: >-
+  https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-1152x648.jpg
+date: '2025-08-22T19:25:41.310Z'
+dateFolder: 2025/08/22
+description: Disgruntled developer was caught after naming the “kill switch” after himself.
+isBasedOn: >-
+  https://arstechnica.com/tech-policy/2025/08/developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing/
+link: >-
+  https://arstechnica.com/tech-policy/2025/08/developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing/
+slug: >-
+  2025-08-22-httpsarstechnicacomtech-policy202508developer-gets-4-years-for-activating-network-kill-switch-to-avenge-his-firing
+tags: []
+title: >-
+  Developer gets 4 years for activating network “kill switch” to avenge his
+  firing
+---
+<figure></figure><p>  "Wreaking havoc" </p>
+<p>Disgruntled developer was caught after naming the "kill switch" after himself.</p>
+<p><a href="https://arstechnica.com/author/ashleybelanger/"> Ashley Belanger </a> –  Aug 22, 2025 12:21 PM |</p>
+<figure><a data-cropped="true" data-pswp-height="1732" data-pswp-srcset="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178.jpg 1732w, https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-640x640.jpg 640w, https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-1024x1024.jpg 1024w, https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-300x300.jpg 300w, https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-768x768.jpg 768w, https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-1536x1536.jpg 1536w, https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-500x500.jpg 500w, https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-1000x1000.jpg 1000w, https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-980x980.jpg 980w, https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-1440x1440.jpg 1440w" data-pswp-width="1732" href="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178.jpg"><img alt="" sizes="(max-width: 1152px) 100vw, 1152px" src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-1536x864.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-1152x648.jpg 1152w, https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-384x216.jpg 384w, https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-768x432.jpg 768w, https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-812501178-1536x864.jpg 1536w"/></a></figure>
+<p> Credit: <a data-ml="true" data-ml-dynamic="true" data-ml-dynamic-type="sl" data-ml-id="1" data-orig-url="https://www.gettyimages.com/detail/illustration/isometric-icon-hand-turning-on-the-light-royalty-free-illustration/812501178?phrase=on+off+switch" data-skimlinks-tracking="xid:fr1755890758592iii" data-xid="fr1755890758592iii" href="https://www.gettyimages.com/detail/illustration/isometric-icon-hand-turning-on-the-light-royalty-free-illustration/812501178?phrase=on+off+switch"> JuliasArt | iStock / Getty Images Plus </a> </p>
+<figure></figure><figure></figure><p>A disgruntled developer has been sentenced to four years in prison after <a href="https://arstechnica.com/tech-policy/2025/03/fired-coder-faces-10-years-for-revenge-kill-switch-he-named-after-himself/">building a "kill switch"</a> that locked all users out of a US firm's network the moment that his name was deleted from the company directory following his termination.</p>
+<p>Davis Lu, a 55-year-old Chinese national residing in Houston, was convicted of "causing intentional damage to protected computers" in March, the US Department of Justice said in a <a href="https://www.justice.gov/opa/pr/chinese-national-who-deployed-kill-switch-code-employers-network-sentenced-four-years-prison">press release</a> announcing his sentencing Thursday.</p>
+<p>Lu had worked at Eaton Corp. for approximately 11 years when suddenly the company reduced his responsibilities during a 2018 "realignment." Anticipating his termination was imminent, Lu began planting different forms of malicious code.</p>
+<p>Some of the malicious code—which Lu named using the Japanese word for destruction, "Hakai," and the Chinese word for lethargy, "HunShui"—created "infinite loops" that deleted coworker profile files, prevented legitimate logins, and caused system crashes, the DOJ said <a href="https://www.justice.gov/opa/pr/texas-man-convicted-sabotaging-his-employers-computer-systems-and-deleting-data">previously</a>.</p>
+<p>But the most damaging to Eaton Corp. was code that Lu named after himself, "IsDLEnabledinAD," which the DOJ translated as an abbreviation for "Is Davis Lu enabled in Active Directory."</p>
+<p>That "kill switch" was designed to "lock out all users if his credentials in the company’s active directory were disabled," the DOJ said Thursday. And it worked flawlessly, "automatically activated" when Lu "was placed on leave and asked to surrender his laptop" in 2019. It locked out "thousands of company users globally," and no one had a clue what was going on.</p>
+<p>Eaton Corp. finally discovered the kill switch while investigating the "infinite loops" that were eventually traced back to a computer using Lu's user ID, a court <a href="https://cdn.arstechnica.net/wp-content/uploads/2025/03/US-v-Lu-2021.pdf">filing</a> said. That discovery led the company to a server—which only Lu had access to—where all the other malicious code was found.</p>
+<figure><h3>Ars Video</h3><a href="https://www.arstechnica.com/video/watch/what-happens-to-the-developers-when-ai-can-code-ars-frontiers"><h3>What Happens to the Developers When AI Can Code? | Ars Frontiers</h3></a></figure>
+<figure><h3>Ars Video</h3></figure>
+<p>Ultimately, Eaton Corp. bore substantial costs getting its network back online, Matthew Galeotti, acting assistant attorney general of the Justice Department’s criminal division, said Thursday.</p>
+<p>"The defendant breached his employer’s trust by using his access and technical knowledge to sabotage company networks, wreaking havoc and causing hundreds of thousands of dollars in losses for a U.S. company," Galeotti said.</p>
+<h2>Developer loses fight to avoid prison time</h2>
+<p>After his conviction, Lu moved to schedule a new trial, asking the court to delay sentencing due to allegedly "surprise" evidence he wasn’t prepared to defend against during the initial trial.</p>
+<p>The DOJ opposed the motion for the new trial and the delay in sentencing, arguing that "Lu cannot establish that the interests of justice warrant a new trial" and insisting that evidence introduced at trial was properly disclosed. They further claim that rebuttal evidence that Lu contested was "only introduced to refute Lu’s perjurious testimony and did not preclude Lu from pursuing the defenses he selected."</p>
+<p>In the end, the judge denied Lu's motion for a new trial, rejecting Lu's arguments, siding with the DOJ in July, and paving the way for this week's sentencing. Giving up the fight for a new trial, Lu had asked for an 18-month sentence, arguing that a lighter sentence was appropriate since "the life Mr. Lu knew prior to his arrest is over, forever."</p>
+<p>"He is now a felon—a label that he will be forced to wear for the rest of his life. His once-promising career is over. As a result of his conduct, his family’s finances have been devastated," Lu's sentencing memo <a href="https://cdn.arstechnica.net/wp-content/uploads/2025/08/US-v-Lu-Sentencing-Memorandum.pdf">read</a>.</p>
+<p>According to the DOJ, Lu will serve "four years in prison and three years of supervised release for writing and deploying malicious code on his then-employer’s network." The DOJ noted that in addition to sabotaging the network, Lu also worked to cover up his crimes, possibly hoping his technical savvy would help him evade consequences.</p>
+<p>"However, the defendant’s technical savvy and subterfuge did not save him from the consequences of his actions," Galeotti said. "The Criminal Division is committed to identifying and prosecuting those who attack US companies whether from within or without, to hold them responsible for their actions."</p>
+<figure><a href="https://arstechnica.com/author/ashleybelanger/"><img alt="Photo of Ashley Belanger" src="https://cdn.arstechnica.net/wp-content/uploads/2022/06/Ashley-Belanger-400x400.jpg"/></a></figure>
+<p><a href="https://arstechnica.com/author/ashleybelanger/"> Ashley Belanger </a> Senior Policy Reporter</p>
+<p>Ashley is a senior policy reporter for Ars Technica, dedicated to tracking social impacts of emerging policies and new technologies. She is a Chicago-based journalist with 20 years of experience.</p>
