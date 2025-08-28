@@ -1,0 +1,38 @@
+---
+author: Connie Loizos
+cover_image: >-
+  https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=1200,800
+date: '2025-08-27T13:58:42.404Z'
+dateFolder: 2025/08/27
+description: >-
+  The incident is the latest escalation by current and former employees who are
+  demanding the company end its cloud contracts with Israel.
+isBasedOn: >-
+  https://techcrunch.com/2025/08/26/microsoft-headquarters-go-into-lockdown-after-activists-take-over-brad-smiths-office/
+link: >-
+  https://techcrunch.com/2025/08/26/microsoft-headquarters-go-into-lockdown-after-activists-take-over-brad-smiths-office/
+slug: >-
+  2025-08-27-httpstechcrunchcom20250826microsoft-headquarters-go-into-lockdown-after-activists-take-over-brad-smiths-office
+tags:
+  - labor
+title: >-
+  Microsoft headquarters go into lockdown after activists take over Brad Smith’s
+  office
+---
+<figure><img alt="FireEye CEO Kevin Mandia, SolarWinds CEO Sudhakar Ramakrishna and Microsoft President Brad Smith" sizes="(max-width: 1024px) 100vw, 1024px" src="https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg" srcset="https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg 5326w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=150,100 150w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=300,200 300w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=768,512 768w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=680,453 680w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=1200,800 1200w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=1280,853 1280w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=430,287 430w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=720,480 720w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=900,600 900w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=800,533 800w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=1536,1024 1536w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=2048,1365 2048w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=668,445 668w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=562,375 562w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=925,617 925w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=708,472 708w, https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1231345337.jpg?resize=50,33 50w"/><figcaption><strong>Image Credits:</strong><a href="https://www.gettyimages.com/search/photographer?family=editorial&amp;photographer=DREW+ANGERER">DREW ANGERER/POOL/AFP (opens in a new window)</a> / Getty Images</figcaption></figure>
+<p>Protesters stormed Microsoft’s Redmond headquarters on Monday and made it into president Brad Smith’s office in Building 34, forcing a temporary lockdown. The “No Azure for Apartheid” group livestreamed their sit-in on Twitch, hoisting banners, chanting ‘Brad Smith, you can’t hide, you’re supporting genocide!’ and posting a mock legal summons charging Smith with “crimes against humanity.”</p>
+<p>Microsoft did not respond to TechCrunch’s request for comment earlier in the day, but a few hours after the occupation, Smith held a hastily called press conference beside his desk to address the extraordinary events. Of the seven people involved, he said, just two were current Microsoft employees and one was a former Google employee, Smith said.</p>
+<p>He also told reporters gathered on the scene — <a href="https://www.geekwire.com/2025/microsoft-president-brad-smith-reclaims-his-office-to-address-infiltration-protests-and-israeli-contracts/">including from GeekWire</a> — that after the protesters refused to leave when asked, Redmond police had to physically remove them from the building. Police arrested all seven on charges including trespassing and obstruction.</p>
+<p>Smith said the protesters’ actions were “not necessary in order to get us to pay attention” and that such activity “distracts from the real dialogue” that Microsoft is having with employee groups of different backgrounds, faiths, and cultures inside Microsoft.</p>
+<p>According to a report earlier in the day by <a href="https://www.theverge.com/news/766324/microsoft-building-34-lockdown-protesters-brad-smith-office">The Verge</a>, the protest included both active Microsoft workers and former employees who’d been fired for previous activism. Monday’s escalation follows months of protests over Microsoft’s cloud contracts with Israel, including recent arrests at company headquarters.</p>
+<p>A recent <a href="https://www.theguardian.com/world/2025/aug/06/microsoft-israeli-military-palestinian-phone-calls-cloud">Guardian investigation </a>revealed Israel uses Microsoft’s services to store data from millions of calls each day made by Palestinians in Gaza and the West Bank.</p>
+<p>Monday’s corporate takeover mirrored tactics from Google employees more than a year ago. In April 2024, nine Google workers staged coordinated protests across New York and California offices, with five occupying Google Cloud CEO Thomas Kurian’s office for nine hours. They wrote demands on his whiteboard and wore “Googler against genocide” shirts.</p>
+<p>Techcrunch event</p>
+<h3>Tech and VC heavyweights join the Disrupt 2025 agenda</h3>
+<h4>Netflix, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just a few of the heavy hitters joining the Disrupt 2025 agenda. They’re here to deliver the insights that fuel startup growth and sharpen your edge. Don’t miss the 20th anniversary of TechCrunch Disrupt, and a chance to learn from the top voices in tech — grab your ticket now and save up to $600+ before prices rise.</h4>
+<h3>Tech and VC heavyweights join the Disrupt 2025 agenda</h3>
+<h4>Netflix, ElevenLabs, Wayve, Sequoia Capital — just a few of the heavy hitters joining the Disrupt 2025 agenda. They’re here to deliver the insights that fuel startup growth and sharpen your edge. Don’t miss the 20th anniversary of TechCrunch Disrupt, and a chance to learn from the top voices in tech — grab your ticket now and save up to $675 before prices rise.</h4>
+<p>San Francisco | October 27-29, 2025</p>
+<p><a data-ctatext="REGISTER NOW" data-destinationlink="https://techcrunch.com/events/tc-disrupt-2025/?utm_source=tc&amp;utm_medium=ad&amp;utm_campaign=disrupt2025&amp;utm_content=ticketsales&amp;promo=tc_inline_rb&amp;display=" data-event="button" href="https://techcrunch.com/events/tc-disrupt-2025/?utm_source=tc&amp;utm_medium=ad&amp;utm_campaign=disrupt2025&amp;utm_content=ticketsales&amp;promo=tc_inline_rb&amp;display="><strong>REGISTER NOW</strong></a></p>
+<p>The Google protesters targeted Project Nimbus, a $1.2 billion contract with Amazon that provides Israel’s government and military with cloud computing and AI tools. The employees’ sit-ins and arrests were similarly livestreamed on Twitch; three days later, 28 employees involved in those protests were<a href="https://www.npr.org/2024/04/19/1245757317/google-worker-fired-israel-project-nimbus-cloud-protestor"> fired</a>.</p>
+<p><em>Update: This story was updated to reflect Smith’s comments, which were made hours after the protesters in his office were removed</em> <em>but after this piece was first published.</em></p>
