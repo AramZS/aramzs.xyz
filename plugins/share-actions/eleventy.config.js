@@ -8,9 +8,9 @@ module.exports = {
       domain: ""
     }, options);
   
-    eleventyConfig.addPlugin(function(eleventyConfig) {
+    //eleventyConfig.addPlugin(function(eleventyConfig) {
       // I am a plugin!
       activateShortcodes(eleventyConfig, options);
-    });
+    //});
 	},
 }
