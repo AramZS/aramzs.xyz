@@ -1,0 +1,37 @@
+---
+author: Anthony Ha
+cover_image: >-
+  https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675
+date: '2025-09-01T16:11:32.485Z'
+dateFolder: 2025/09/01
+description: >-
+  FTC chairman Andrew Ferguson appears to be pursuing conservative complaints
+  over Gmail's spam filters.
+isBasedOn: >-
+  https://techcrunch.com/2025/08/31/ftc-chair-warns-alphabet-about-gmails-partisan-spam-filters/
+link: >-
+  https://techcrunch.com/2025/08/31/ftc-chair-warns-alphabet-about-gmails-partisan-spam-filters/
+slug: >-
+  2025-09-01-httpstechcrunchcom20250831ftc-chair-warns-alphabet-about-gmails-partisan-spam-filters
+tags:
+  - tech
+  - politics
+  - antitrust
+title: FTC chair warns Google about Gmail’s ‘partisan’ spam filters
+---
+<figure><img alt="2020 Gmail icon on iOS 14" sizes="(max-width: 1024px) 100vw, 1024px" src="https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg" srcset="https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg 2036w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=150,84 150w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=300,169 300w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=768,432 768w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=680,382 680w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675 1200w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1280,720 1280w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=430,242 430w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=720,405 720w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=900,506 900w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=800,450 800w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1536,864 1536w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=668,375 668w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1097,617 1097w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=708,398 708w, https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=50,28 50w"/><figcaption>Image Credits:TechCrunch</figcaption></figure>
+<p>Andrew Ferguson, the Trump-appointed chair of the Federal Trade Commission, recently expressed concern that “Alphabet’s administration of Gmail is designed to have partisan effects.”</p>
+<p>In <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/ferguson-letter-alphabet-ceo-re-potential-ftc-act-violations-related-to-partisan-administration-of-gmail.pdf">a letter addressed to Alphabet CEO Sundar Pichai</a>, Ferguson pointed to <a href="https://nypost.com/2025/08/13/business/google-caught-flagging-gop-fundraiser-emails-as-suspicious-sending-them-directly-to-spam-memo/">a recent story in the New York Post</a> describing complaints by Targeted Victory (a consulting and PR firm that’s <a href="https://www.wired.com/story/x-elon-musk-public-relations-targeted-victory/">worked with the Republican National Committee and Elon Musk’s X</a>) claiming that Gmail flags emails linking to the Republican fundraising platform WinRed as spam, without doing the same to emails linking to the Democratic platform ActBlue.</p>
+<p>“My understanding from recent reporting is that Gmail’s spam filters routinely block messages from reaching consumers when those messages come from Republican senders but fail to block similar messages sent by Democrats,” Ferguson wrote.</p>
+<p>He warned Alphabet that if Gmail’s filters “keep Americans from receiving speech they expect, or donating as they see fit, the filters may harm American consumers and may violate the FTC Act’s prohibition of unfair or deceptive trade practices,” adding this could lead to “an FTC investigation and potential enforcement action.”</p>
+<p>In response, <a href="https://www.axios.com/2025/08/28/ftc-google-gop-email-andrew-ferguson-alphabet-sundar-pichai">a Google spokesperson told Axios</a> that Gmail’s spam filters “look at a variety of objective signals – like whether people mark a particular email as spam, or if a particular ad agency is sending a high volume of emails that are often marked by people as spam,” and they said the company applies this approach “equally to all senders, regardless of political ideology.”</p>
+<p>The spokesperson also said, “We will review this letter and look forward to engaging constructively.”</p>
+<p>Conservatives frequently complain that they are being censored or otherwise treated unfairly by digital platforms, including Gmail. In 2023, the Federal Election Commission <a href="https://www.wsj.com/politics/elections/google-didnt-show-bias-in-filtering-campaign-ad-pitches-fec-says-11673918655">dismissed a complaint from Republicans</a> over Gmail’s spam filters, and a federal court also <a href="https://www.yahoo.com/news/google-isnt-intentionally-biased-against-134140200.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAD7bXGqci3u_pUcEImWXx9dXKrSAUF0XkfxvgNLg3wI2R8j86KDxDgBK5VyzC-9CvMyPr714j2K_ob8VJzYYT4Ue5WpdVsyGnidx3ukc0YXiJB00Gif7ygiwiMYbijgmy5HyfaTLIBu-lV1GVGkPJ0wplRY5oVA6yItI8SqSjTro">dismissed an RNC lawsuit with similar complaints</a>. (The RNC seems to be <a href="https://www.reuters.com/legal/legalindustry/google-beefs-up-legal-team-fight-rnc-bias-lawsuit-2025-04-29/">reviving that lawsuit</a>.)</p>
+<p>Techcrunch event</p>
+<h3>Tech and VC heavyweights join the Disrupt 2025 agenda</h3>
+<h4>Netflix, ElevenLabs, Wayve, Sequoia Capital, Elad Gil — just a few of the heavy hitters joining the Disrupt 2025 agenda. They’re here to deliver the insights that fuel startup growth and sharpen your edge. Don’t miss the 20th anniversary of TechCrunch Disrupt, and a chance to learn from the top voices in tech — grab your ticket now and save up to $600+ before prices rise.</h4>
+<h3>Tech and VC heavyweights join the Disrupt 2025 agenda</h3>
+<h4>Netflix, ElevenLabs, Wayve, Sequoia Capital — just a few of the heavy hitters joining the Disrupt 2025 agenda. They’re here to deliver the insights that fuel startup growth and sharpen your edge. Don’t miss the 20th anniversary of TechCrunch Disrupt, and a chance to learn from the top voices in tech — grab your ticket now and save up to $675 before prices rise.</h4>
+<p>San Francisco | October 27-29, 2025</p>
+<p><a data-ctatext="REGISTER NOW" data-destinationlink="https://techcrunch.com/events/tc-disrupt-2025/?utm_source=tc&amp;utm_medium=ad&amp;utm_campaign=disrupt2025&amp;utm_content=ticketsales&amp;promo=tc_inline_rb&amp;display=" data-event="button" href="https://techcrunch.com/events/tc-disrupt-2025/?utm_source=tc&amp;utm_medium=ad&amp;utm_campaign=disrupt2025&amp;utm_content=ticketsales&amp;promo=tc_inline_rb&amp;display="><strong>REGISTER NOW</strong></a></p>
+<p>Earlier this month, a federal judge <a href="https://techcrunch.com/2025/08/16/judge-says-ftc-investigation-into-media-matters-should-alarm-all-americans/">blocked the FTC’s investigation into the left-leaning group Media Matters</a> over its research into antisemitic content on X, describing the investigation as “a retaliatory act.”</p>
