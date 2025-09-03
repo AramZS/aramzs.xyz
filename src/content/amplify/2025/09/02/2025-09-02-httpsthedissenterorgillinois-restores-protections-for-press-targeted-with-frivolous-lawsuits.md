@@ -1,0 +1,41 @@
+---
+author: Kevin Gosztola
+cover_image: >-
+  https://thedissenter.org/content/images/size/w1200/2025/08/Screenshot-2025-08-30-at-9.52.38-AM-1.png
+date: '2025-09-02T12:22:36.901Z'
+dateFolder: 2025/09/02
+description: >-
+  In the state of Illinois, several organizations and lawyers worked with
+  legislators to clarify and expand protections for the news media after the
+  Illinois Supreme Court significantly diminished the law in November 2024.
+isBasedOn: >-
+  https://thedissenter.org/illinois-restores-protections-for-press-targeted-with-frivolous-lawsuits/
+link: >-
+  https://thedissenter.org/illinois-restores-protections-for-press-targeted-with-frivolous-lawsuits/
+slug: >-
+  2025-09-02-httpsthedissenterorgillinois-restores-protections-for-press-targeted-with-frivolous-lawsuits
+tags:
+  - illinois
+  - politics
+  - journalism
+title: Illinois Restores Protections For Press Targeted With Frivolous Lawsuits
+---
+<figure><img alt="Illinois Restores Protections For Press Targeted With Frivolous Lawsuits" sizes="(max-width: 1200px) 100vw, 1200px" src="https://thedissenter.org/content/images/size/w2000/2025/08/Screenshot-2025-08-30-at-9.52.38-AM-1.png" srcset="https://thedissenter.org/content/images/size/w300/2025/08/Screenshot-2025-08-30-at-9.52.38-AM-1.png%20300w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w720/2025/08/Screenshot-2025-08-30-at-9.52.38-AM-1.png%20720w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w960/2025/08/Screenshot-2025-08-30-at-9.52.38-AM-1.png%20960w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w1200/2025/08/Screenshot-2025-08-30-at-9.52.38-AM-1.png%201200w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w2000/2025/08/Screenshot-2025-08-30-at-9.52.38-AM-1.png%202000w"/><figcaption>On August 21, Illinois Governor J.B. Pritzker signed an amendment to Illinois' anti-SLAPP law that was intended to restore protections for the press. (Screen shot from C-SPAN/Fair use as it is included for purpose of news and commentary.)</figcaption></figure>
+<p><em>The following article is an exclusive article that was written for paid subscribers. It was shared with all subscribers on August 30. </em></p>
+<p>The Freedom of the Press Foundation (FPF) describes strategic lawsuits against public participation, or SLAPPs, as lawsuits that are “intended to chill and punish constitutionally protected speech, including journalism."</p>
+<p>Such “frivolous lawsuits” are typically pursued by “wealthy and powerful” elites against speech that they dislike. By forcing individuals or organizations to “spend time and money defending themselves,” elites are able to “chill reporting, activism, and criticism.”</p>
+<p>In the state of Illinois, several organizations and lawyers worked with legislators to clarify and expand protections for the news media after the Illinois Supreme Court <a href="https://chicago.suntimes.com/politics/2024/11/21/sun-times-defamation-lawsuit-glorioso-trump-tower?ref=thedissenter.org">significantly diminished</a> the law in November 2024.</p>
+<p>According to FPF advocacy director Seth Stern, the new amendment ensures that fewer frivolous lawsuits will succeed. It also cuts off discovery and ensures journalists will not have to fight subpoenas and put their sources at risk while their anti-SLAPP motion is adjudicated or going through an appeal.</p>
+<p>In 2020, the Chicago Sun-Times <a href="https://chicago.suntimes.com/politics/2024/11/21/sun-times-defamation-lawsuit-glorioso-trump-tower?ref=thedissenter.org">published an article</a> about Property Tax Appeal Board Executive Director Mauro Glorioso and his alleged role in improperly pressuring staff to grant President Donald Trump’s tower by the Chicago River a $1 million property tax refund. Glorioso retaliated against the newspaper’s report with a frivolous defamation lawsuit.</p>
+<p>The Sun-Times maintained that the newspaper was protected under the anti-SLAPP law, which is known as the Illinois Citizen Participation Act. But the state Supreme Court nonsensically ruled in a unanimous decision that the Citizenship Participation Act did not cover "all media reports on matters of public concern.”</p>
+<p>“It was a pretty silly decision that was contrary to past interpretations of the act,” Stern added. If a media outlet published an investigative report that revealed corruption, it did not qualify. But if you published the exact same report with a statement at the end that urged the government to stop this corruption, then Stern said it qualified for protection.</p>
+<p>Stern was an attorney who helped represent the Sun-Times in their fight against Glorioso’s anti-press litigation. As someone who was “involved in the case that ruined the Illinois anti-SLAPP law for journalists,” he was pleased that a fix was finally adopted.</p>
+<p>“As Trump and his friends continue their frivolous and targeted attacks on members of the free press, we are working to protect and empower Illinois journalists as they keep the general public informed,” <a href="https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-anti-slapp-bill-to-safeguard-freedom-of-the-press?ref=thedissenter.org">stated</a> Govenor J.B. Pritzker. “This law will strengthen our anti-SLAPP legislation in Illinois—ensuring press don’t have to fear retaliation for reporting the truth and reminding all Illinoisans that their free speech is safe, valued, and protected.”</p>
+<p>Thirty-eight states in the United States have <a href="https://www.rcfp.org/anti-slapp-legal-guide/?ref=thedissenter.org">anti-SLAPP laws</a>. Twelve of these states passed the Uniform Law Commission’s <a href="https://www.uniformlaws.org/committees/community-home?communitykey=4f486460-199c-49d7-9fac-05570be1e7b1&amp;ref=thedissenter.org">Public Expression Protection Act</a>, model legislation that broadly construes “participation in government” to protect a wide range of speech. That means protections vary significantly state to state.</p>
+<p>As the Reporters Committee for Freedom of the Press (RCFP) describes, “in some states, like Massachusetts, they only protect defendants from cases brought in retaliation for petitioning the government. In others, such as California, the laws broadly protect speech made in connection with a public issue.”</p>
+<p>“For the most part, anti-SLAPP laws are broad enough to cover SLAPP suits aimed at silencing or retaliating against journalists or news outlets for critical reporting.”</p>
+<p>The RCFP further notes, “These laws typically provide critical protections to the news media—allowing defendants to secure a quick dismissal before the costly discovery process begins, permitting defendants who win their anti-SLAPP motions to recover attorney’s fees and costs, automatically staying discovery once the defendant has filed an anti-SLAPP motion, and allowing defendants to immediately appeal a trial court’s denial of an anti-SLAPP motion.”</p>
+<p>Although the Uniform Law Commission was involved in conversations that led to changes to the law, Stern mentioned that legislators ultimately decided to amend the existing Citizenship Participation Act rather than replace it with a better law.</p>
+<p>People like Glorioso, a Republican attorney, as well as Trump will continue to pursue frivolous litigation to shut down journalism. Stern argues the only way to stop them is to create a political cost for introducing such lawsuits, which are not limited to weaponizing defamation law against the press. They can manipulate consumer fraud, election interference, or unfair competition laws to accomplish their anti-press objectives, as Trump has done.</p>
+<p>“The fact that we have as president one of the most egregious SLAPP artists in the country, and likely the history of the world, tells you that we’re [far] away from that.”</p>
+<p>Extensive examples of <a href="https://www.freepress.net/news/media-capitulation-index?ref=thedissenter.org">media capitulation</a> to attacks on freedom of the press also encourage officials and various business or political elites, making the strength of state anti-SLAPP laws that much more important.</p>

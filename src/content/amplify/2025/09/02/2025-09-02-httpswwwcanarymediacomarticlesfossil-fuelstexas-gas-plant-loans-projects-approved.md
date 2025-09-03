@@ -1,0 +1,62 @@
+---
+author: DNV
+cover_image: >-
+  https://img.canarymedia.com/content/uploads/Gas-plant-texas.jpeg?auto=compress%2Cformat&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=630&q=82&w=1200&s=d54f8157a8d47dbe3167e7489c00a1c3
+date: '2025-09-02T21:06:48.205Z'
+dateFolder: 2025/09/02
+description: >-
+  Even with a financial leg-up from taxpayers, builders are backing off gas
+  plans, worried about profitability or that they won’t be able to get a hold
+  of…
+isBasedOn: >-
+  https://www.canarymedia.com/articles/fossil-fuels/texas-gas-plant-loans-projects-approved
+link: >-
+  https://www.canarymedia.com/articles/fossil-fuels/texas-gas-plant-loans-projects-approved
+slug: >-
+  2025-09-02-httpswwwcanarymediacomarticlesfossil-fuelstexas-gas-plant-loans-projects-approved
+tags:
+  - energy policy
+title: Texas created a $7.2B fund for gas plants. Hardly any… | Canary Media
+---
+<p>Even with a financial leg-up from taxpayers, builders are backing off gas plans, worried about profitability or that they won’t be able to get a hold of equipment.</p>
+<figure><img alt="" sizes="100vw" src="https://img.canarymedia.com/content/uploads/paul-cobler-high-res.jpeg?auto=compress%2Cformat&amp;crop=focalpoint&amp;fit=crop&amp;fp-x=0.5047&amp;fp-y=0.4189&amp;h=300&amp;q=80&amp;w=300&amp;s=2d91177381ebba5493085d966da9a0bc" srcset="https://img.canarymedia.com/content/uploads/paul-cobler-high-res.jpeg?auto=compress%2Cformat&amp;crop=focalpoint&amp;fit=crop&amp;fp-x=0.5047&amp;fp-y=0.4189&amp;h=50&amp;q=80&amp;w=50&amp;s=795bb601c0c71df774d2ab69de7799ef 50w, https://img.canarymedia.com/content/uploads/paul-cobler-high-res.jpeg?auto=compress%2Cformat&amp;crop=focalpoint&amp;fit=crop&amp;fp-x=0.5047&amp;fp-y=0.4189&amp;h=100&amp;q=80&amp;w=100&amp;s=b2e7a3da2aeab3be298bba061bfdb2c2 100w, https://img.canarymedia.com/content/uploads/paul-cobler-high-res.jpeg?auto=compress%2Cformat&amp;crop=focalpoint&amp;fit=crop&amp;fp-x=0.5047&amp;fp-y=0.4189&amp;h=300&amp;q=80&amp;w=300&amp;s=2d91177381ebba5493085d966da9a0bc 300w"/></figure>
+<p>By <a href="https://www.canarymedia.com/about/people/paul-cobler">Paul Cobler</a></p>
+<p>2 September 2025</p>
+<ul> <li> <a href="https://bsky.app/intent/compose?text=https://www.canarymedia.com/articles/fossil-fuels/texas-gas-plant-loans-projects-approved"> <figure></figure> </a> </li> </ul>
+<figure><p> </p><img alt="Industrial facility pipes rise up against a cloudy sky. A person sits in a golf cart in the foreground." src="https://img.canarymedia.com/content/uploads/Gas-plant-texas.jpeg?auto=compress%2Cformat&amp;crop=focalpoint&amp;fit=crop&amp;fp-x=0.7636&amp;fp-y=0.738&amp;h=501&amp;q=80&amp;w=864&amp;s=b68cc4ce6ef7ecd8bd45325a47f7c3f2"/><p> </p><figcaption>Vistra Corp.’s Midlothian power plant. State lawmakers have approved more than $7 billion to provide low-interest loans to companies that agree to build more gas-fired power plants in Texas. (Shelby Tauber for The Texas Tribune)</figcaption></figure>
+<p><em>This </em><a href="https://www.texastribune.org/2025/08/26/texas-energy-fund-natural-gas-power-plants/"><em>story</em></a><em> was originally published by The Texas Tribune.</em></p>
+<p>When Texas legislators conceived of the Texas Energy Fund in the spring of 2023, its goal of jump-starting the construction of more natural gas power plants to support the state’s strained power grid seemed reasonable.</p>
+<p>In the two years since that vote, however, experts say the energy market has turned against the development of gas-fired power plants. Experts and energy companies say the fund’s $7.2 billion worth of low-interest loans and bonus grants may not be appealing enough to overcome those economic headwinds.</p>
+<p>“It is a challenging market for natural gas developers right now, and it has been for a good amount of time,” said Walt Baum, CEO of Powering Texans, a trade association representing Calpine, Constellation, NRG, and Vistra, the state’s four largest operators of dispatchable power.</p>
+<p>Only two new proposals have been approved so far through the TEF’s In-ERCOT Generation Loan Program, one of four programs included in the fund intended to coax energy companies into building new gas power plants. The two loans, both to be paid back over 20 years at a 3% interest rate, would tap just $321 million of the $7.2 billion total.</p>
+<p>Together, the plants would have a capacity to generate 578 megawatts of electricity, a drop in the bucket compared to the roughly 62,500 megawatts of additional electricity that regulators forecast the state will need to generate by 2030.</p>
+<p>Another 15 loan applications are currently in the pipeline, totalling 8,392 megawatts, according to the Public Utility Commission, which administers the TEF.</p>
+<p>But of the 25 total loan applications that have advanced to the fund’s due diligence review stage, seven have been pulled from consideration by the companies that filed them, citing supply chain issues or forecasts that the projects would not be as profitable as expected. An eighth application was denied funding last fall <a href="https://www.texastribune.org/2024/09/16/texas-energy-fund-puc-finalist-rejected-power-grid/">due to accusations of fraud</a>.</p>
+<p>The most recent company to withdraw an application, Hunt Energy Network, cited the cost-effectiveness of constructing a natural gas power plant under the loan program as the reason for its withdrawal, <a href="https://interchange.puc.texas.gov/Documents/56896_82_1524605.PDF">according to a July 25 letter to the PUC</a>.</p>
+<h2><strong>Winter storm sparked loan fund</strong></h2>
+<p>The fund was created in the wake of Winter Storm Uri, the February 2021 storm that plunged most of the state into blackouts during freezing weather for days, leaving hundreds of people dead.</p>
+<p>Gov. Greg Abbott and other Republican leaders were quick to blame trouble with wind and solar power generation for the power outages. While renewables did struggle to generate electricity in the frigid temperatures, so did natural gas power generation after power plant equipment and some pipelines that supply gas to the plants froze.</p>
+<p>After that disaster, lawmakers argued that the state needed more on-demand power — specifically natural gas power plants — that doesn’t require wind and sun to generate electricity. They started the Texas Energy Fund with an initial $5 billion, and earlier this year added another $5 billion — but $2.8 billion was set aside for separate programs to support backup power generation for critical infrastructure and modernization incentives for natural gas plants.</p>
+<p>But since 2023, the economic factors working against the development of natural gas plants have only worsened.</p>
+<p>Energy demand is rising globally due to the construction of new data centers for artificial intelligence, and many regions are turning to natural gas power because of its relative affordability, lower emissions compared to coal, and its ability to operate at all times of the day, unlike wind and solar.</p>
+<p>That demand is straining the supply chain for turbines, specialized equipment used in power plants that cost tens of millions of dollars. Wait times on orders for the machinery have <a href="https://www.nytimes.com/2025/04/08/business/energy-environment/gas-turbines-power-plants.html#:~:text=But%20turning%20natural%20gas%20into,of%20what%20makes%20sense%20financially.">doubled just over the past year</a>, and tariffs are now increasing their price further.</p>
+<p>A turbine order placed today likely would not arrive before 2029, and only if a company were willing to pay a premium to get it quickly, said Doug Lewin, <a href="https://www.douglewin.com/">author</a> of the Texas Energy and Power Newsletter.</p>
+<p>At the same time, the Electric Reliability Council of Texas, the state’s power grid operator, is predicting energy demand in the state will double by 2030. The increase is driven by oil and gas operators in the Permian Basin transitioning operations to run on electricity rather than gas or diesel, as well as Texas’ own AI and data center boom.</p>
+<p>The state is on course to meet those electricity demands, but largely through advancements in solar technology and battery storage, which are significantly cheaper than natural gas power plants to install. In Texas’ deregulated energy market, which gives preference to the least-expensive power, this takes away the forecast market share available to companies hoping to profit from a new natural gas power plant, meaning the plants cost more to install and are likely to make less money over time, said Dennis Wamsted, an energy analyst with the nonprofit Institute for Energy Economics and Financial Analysis.</p>
+<p>“Markets speak loud and clear if you listen to what they’re saying,” Wamsted said. ​“The market in Texas is saying loud and clear that gas is not going to be built any time soon.”</p>
+<p>Legislators this spring have responded by extending the deadline for spending the $5 billion they approved in 2023. Under the original legislation creating the fund, the PUC had until the end of this year to distribute the money earmarked for power plant construction loans. Senate Bill 2268 by state Sen. Charles Schwertner, R-Georgetown, gave the PUC authority to extend that deadline if ​“market factors necessitate.”</p>
+<p>“What we didn’t know two years ago is that various market influences would affect the TEF application process, such that supply chain disruptions … would impact the timeline for several otherwise well-qualified projects,” Schwertner said in an April committee hearing about the bill.</p>
+<h2><strong>PUC says interest remains high for loans</strong></h2>
+<p>The PUC said in a statement that demand for the natural gas plant loan program has been high, citing the 15 applications that have reached the due diligence review stage. The agency said it is focusing on reaching loan agreements for those 15 applicants before deciding if an extension on the disbursement deadline is necessary.</p>
+<p>State Rep. Rafael Anchía, D-Dallas, said he believes those who have applied for loans were planning to build a natural gas plant without the state energy fund and are now asking taxpayers to help cover the cost.</p>
+<p>“If taxpayers are subsidizing a lower interest rate than what they could get in the market, of course [energy companies] will take a free ride,” Anchía said.</p>
+<p>Anchía voted against SB 2268, calling the loan program a ​“big government” approach to influencing the energy market. He did vote for the additional $5 billion in money for the fund, citing the fund’s two other programs supporting backup power generation for critical infrastructure and modernization incentives for natural gas units.</p>
+<p>Members of the Legislature’s Texas Energy Fund Advisory Committee have not met since October but plan to in the coming months as part of a regular review of the effectiveness of the fund’s policies, said Rep. Ana Hernandez, D-Houston, and a member of the committee.</p>
+<p>Rep. David Spiller, R-Jacksboro and cochair of the advisory committee, said he believes the fund’s effectiveness is worth studying because the Legislature’s original intention was to bring these gas plants online quickly.</p>
+<p>“We know that over a period of time we will get to where we need to be,” Spiller said. ​“My concern is over the next five or six years, bridging that gap. I think sooner rather than later, we need to look at that and maybe review what we have in place and tweak it some.”</p>
+<p><a href="https://www.texastribune.org/"><em>The Texas Tribune</em></a><em> is a nonprofit, nonpartisan media organization that informs Texans — and engages with them — about public policy, politics, government, and statewide issues. </em></p>
+<ul> <li> <a href="https://www.canarymedia.com/articles/fossil-fuels"> Fossil fuels </a> </li> <li> <a href="https://www.canarymedia.com/articles/policy-regulation"> Policy &amp; regulation </a> </li> <li> <a href="https://www.canarymedia.com/regions/southeast"> Southeast </a> </li> <li> <a href="https://www.canarymedia.com/regions/texas"> Texas </a> </li> </ul>
+<p><a href="https://www.canarymedia.com/about/people/paul-cobler">Paul Cobler</a> is The Texas Tribune's economy and industry reporter, covering the socioeconomic and political forces that impact Texans’ pocketbooks and upward mobility.</p>
+<p>Login</p>
+<p><a><b>M ↓</b> Markdown</a></p>
+<p><a href="https://commento.io">Commento</a></p>
