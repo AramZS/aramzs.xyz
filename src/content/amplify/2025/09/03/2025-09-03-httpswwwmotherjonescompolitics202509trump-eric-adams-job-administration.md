@@ -1,0 +1,23 @@
+---
+author: Inae Oh
+cover_image: >-
+  https://www.motherjones.com/wp-content/uploads/2025/09/eric-adams-2.jpg?w=1200&h=630&crop=1
+date: '2025-09-04T01:52:30.338Z'
+dateFolder: 2025/09/03
+description: A Trump admin job for Adams? Their MAGA alliance is getting creative.
+isBasedOn: >-
+  https://www.motherjones.com/politics/2025/09/trump-eric-adams-job-administration/
+link: >-
+  https://www.motherjones.com/politics/2025/09/trump-eric-adams-job-administration/
+slug: >-
+  2025-09-03-httpswwwmotherjonescompolitics202509trump-eric-adams-job-administration
+tags:
+  - nyc
+title: Trump and Adams Might Soon Go Official
+---
+<figure><img alt="" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" src="https://www.motherjones.com/wp-content/uploads/2025/09/eric-adams-2.jpg" srcset="https://www.motherjones.com/wp-content/uploads/2025/09/eric-adams-2.jpg 1920w, https://www.motherjones.com/wp-content/uploads/2025/09/eric-adams-2.jpg?resize=321,188 321w, https://www.motherjones.com/wp-content/uploads/2025/09/eric-adams-2.jpg?resize=605,354 605w, https://www.motherjones.com/wp-content/uploads/2025/09/eric-adams-2.jpg?resize=1536,899 1536w, https://www.motherjones.com/wp-content/uploads/2025/09/eric-adams-2.jpg?resize=50,29 50w, https://www.motherjones.com/wp-content/uploads/2025/09/eric-adams-2.jpg?resize=1300,761 1300w, https://www.motherjones.com/wp-content/uploads/2025/09/eric-adams-2.jpg?resize=990,580 990w, https://www.motherjones.com/wp-content/uploads/2025/09/eric-adams-2.jpg?resize=642,376 642w, https://www.motherjones.com/wp-content/uploads/2025/09/eric-adams-2.jpg?resize=768,450 768w"/></figure>
+<p>Get your news from a source that’s not owned and controlled by oligarchs. <a data-ga-action="click|https://www.motherjones.com/newsletters/?mj_oac=Article_Top_Support" data-ga-category="TopOfArticle" data-ga-label="NewsletterPromoCovid" href="https://www.motherjones.com/newsletters/?mj_oac=Article_Top_No_Oligarchs">Sign up for the free <em>Mother Jones Daily</em>.</a></p>
+<p>The grand arc of Eric Adams’ political evolution, which kicked off in 2021 with a bombastic claim that the former NYPD officer was the “future of the Democratic Party,” only for him to <a href="https://www.motherjones.com/politics/2024/12/nyc-eric-adams-sanctuary-deportation-pardon/">find salvation</a> in Donald Trump’s <a href="https://www.motherjones.com/politics/2024/12/trump-eric-adams-pardon/">return</a> to office, appears to be reaching its logical endpoint: a prominent gig with the Trump administration.</p>
+<p>The <em>New York Times</em> <a href="https://www.nytimes.com/2025/09/03/nyregion/trump-adams-sliwa-quit-nyc-mayor.html">reports</a> that advisers to the president, who has been drumming up ways to meddle in the politics of a hometown that hates him, are weighing potential positions for Adams in the Trump administration. (The other guy, in the <a href="https://www.google.com/search?q=curtis+sliwa+beret&amp;sca_esv=452a92eb2c2ade68&amp;udm=2&amp;sxsrf=AE3TifOzvB2a41loOOE2cBjLTbf1lyMIIQ:1756924788458&amp;source=lnms&amp;sa=X&amp;ved=2ahUKEwiA5qbvnr2PAxV9lIkEHTeZCIcQ0pQJegQIAhAH&amp;biw=1445&amp;bih=743&amp;dpr=2">red beret</a>? He’s also reportedly being considered for a job.) The president’s advisers believe that the move could put an end to the game of chicken between Adams and Andrew Cuomo, helping the latter out of a virtually nonviable path to defeat Zohran Mamdani, the mayoral race’s overwhelming frontrunner.</p>
+<p>If true, the plan would be the logical next step in Trump and Adams’ increasing alliance: a scandal-plagued mayor, in the most official capacity, answering to the guy whose Justice Department dropped criminal charges against him. Yet, it’s difficult to see how a wide-open contest between Cuomo and Mamdani, the 33-year-old frontrunner and democratic socialist, would work the way Trump apparently thinks: that defeating the Republican Party’s biggest bogeyman would be good for him politically. <a href="https://www.nytimes.com/2025/09/03/nyregion/trump-adams-sliwa-quit-nyc-mayor.html">Even Cuomo seems skeptical</a>. He told the <em>Times</em> that Mamdani’s victory “would be a political gift to the Republican Party, which would then use him to characterize the Democrats across the country going into the midterms.”</p>
+<p>Of course, Trump’s decision-making is rarely governed by logic. Here, the president appears to relish the opportunity of meddling in New York’s mayoral race, flexing real political muscle with imagined, even potentially self-destructive, results. As for Adams, it would merely make official what we already know.</p>
