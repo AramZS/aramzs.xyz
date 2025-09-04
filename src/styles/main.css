@@ -607,6 +607,17 @@ article#page-post li {
   max-height: 600px;
 }
 
+#agent-instructions,
+#agent-instructions a:hover,
+#agent-instructions:focus,
+#agent-instructions a:active,
+#agent-instructions a:visited,
+#agent-instructions a,
+#agent-instructions a:link {
+  color: var(--background);
+  font-size: 0.2em;
+}
+
 @media (max-width: 864px) {
   .container {
     margin: 0;
