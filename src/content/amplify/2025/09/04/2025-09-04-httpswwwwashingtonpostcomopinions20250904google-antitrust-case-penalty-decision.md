@@ -1,0 +1,38 @@
+---
+author: Adam Lashinsky
+cover_image: >-
+  https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVDEHNULDWEHUH4PIKUUQF6DUI_size-normalized.jpg&w=1440
+date: '2025-09-04T21:28:48.322Z'
+dateFolder: 2025/09/04
+description: >-
+  The judge’s measured penalties were cognizant of changing tech and respectful
+  of legal precedent.
+isBasedOn: >-
+  https://www.washingtonpost.com/opinions/2025/09/04/google-antitrust-case-penalty-decision/
+link: >-
+  https://www.washingtonpost.com/opinions/2025/09/04/google-antitrust-case-penalty-decision/
+slug: >-
+  2025-09-04-httpswwwwashingtonpostcomopinions20250904google-antitrust-case-penalty-decision
+tags:
+  - tech
+  - antitrust
+  - law and order
+title: >-
+  Opinion | Google turned into the landmark antitrust case that wasn’t - The
+  Washington Post
+---
+<p>The judge’s measured penalties were cognizant of changing tech and respectful of legal precedent.</p>
+<p>What stood out about <a href="https://www.washingtonpost.com/technology/2025/09/02/google-search-monopoly-antitrust-remedy/">U.S. District Judge Amit P. Mehta’s opinion</a> in what might have been a landmark antitrust case against Google is how reasonably he settled such a contentious matter. Here was <a href="https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2020cv3010-1436">a ruling</a> in an adversarial scrap between the federal government and one of the country’s most important companies that actually made sense — written in reasoned, responsible and, dare I say, mature language.</p>
+<p>The judge, who <a href="https://www.washingtonpost.com/technology/2024/08/05/doj-google-monopoly-trial-judgment/">ruled last year that Google is an illegal monopoly</a>, considered complicated arguments about what remedies he should impose, issued a measured response and praised both sides for their “professionalism and zealous advocacy.”</p>
+<p>It's a sad commentary that such behavior passes for remarkable these days.</p>
+<p>As for the substance, Mehta handed Google a considerable victory. The penalties the judge imposed — including that it share some data with competitors, no longer craft exclusive deals for placement of its search engine, and set up a technical committee to ensure its adherence to his ruling — will do little to hurt Google’s business.</p>
+<p>Where Mehta might have broken up Google by forcing it to divest its Chrome browser or Android mobile operating system, he instead required the company to make minor adjustments. Importantly, he allowed the company to keep paying other companies to make its search offering default on devices and browsers, a boon not just for Google but also for Apple, Google’s most important customer.</p>
+<p>Mehta’s decision is at once a missed opportunity and unsurprising. In labeling Google a monopoly last year, after a grueling case brought by the Justice Department and multiple states in 2020, he might have punished the tech giant for its ill-gotten gains. And yet, in deciding what should happen next, Mehta recognized what has been apparent for a while now: that artificial intelligence <a href="https://www.washingtonpost.com/opinions/2024/08/06/google-antitrust-ruling-late/">is already injecting competition into Google’s business</a> far more than the remedies he might impose on it.</p>
+<p>Ultimately, Mehta decided it was not his job to prevent Google from competing in the new field of generative artificial intelligence, popularized by such products as OpenAI’s ChatGPT and Anthropic’s Claude, just because it has abused its power in search. The latest phase of the trial has “been as much about promoting competition among [search engines] as ensuring that Google’s dominance in search does not carry over into the GenAI space,” <a href="https://ecf.dcd.uscourts.gov/cgi-bin/show_public_doc?2020cv3010-1436">he wrote</a>, noting that the government’s “proposed remedies are crafted with that latter objective in mind.”</p>
+<p>The judge also concluded that hitting Google hard, by preventing it from buying its way onto iPhones and the like, would have caused too much collateral damage, particularly in other companies’ ability to innovate. “Cutting off payments from Google almost certainly will impose substantial — in some cases, crippling — downstream harms to distribution partners, related markets, and consumers,” he wrote.</p>
+<p>Wall Street plainly understood the judge’s ruling for the mild admonishment that it is. Given that the restrictions are unlikely to constrain Google’s business — and that the tech company likely will tie up the case for years with appeals — investors bid up Google parent company Alphabet’s shares by <a href="https://www.cnbc.com/2025/09/03/alphabet-pops-after-google-avoids-breakup-in-antitrust-case.html">9 percent</a> Wednesday, the day after the ruling, a <a href="https://www.cnbc.com/2025/09/03/alphabet-pops-after-google-avoids-breakup-in-antitrust-case.htm">$230 billion</a> increase in market value. (Disclosure: My wife is a former Google employee, and we own shares in the company.)</p>
+<p>The legal establishment also sees Mehta’s opinion for what it was: a continuation in the antitrust status quo after what looked like a potential break with decades-long tradition. When Mehta found Google to be an illegal monopolist last year it looked as if he was embracing a new antitrust legal doctrine, often referred to as <a href="https://www.politico.com/news/magazine/2023/11/06/law-students-antitrust-lina-khan-00124240">hipster antitrust</a>. That school of thought holds that even a provider of services that are free to consumers, like Google search, could be found to be anticompetitive. Yet by declining to significantly punish Google, the judge stuck with established convention.</p>
+<p>“Antitrust litigation is unlikely to be effective in opening up entrenched monopolies to competition” as a result of this case, argued Mark A. Lemley of Stanford Law School.</p>
+<p>For all its reasonableness, a whiff of naiveté wafts through Mehta’s ruling, particularly as to the extent Google’s success will be restrained by well-funded AI competitors. “The money flowing into this space, and how quickly it has arrived, is astonishing,” Mehta wrote. “These new realities give the court hope that Google will not simply outbid competitors for distribution if superior products emerge.”</p>
+<p>Mehta might have noted that Google’s parent company had nearly<a href="https://www.sec.gov/Archives/edgar/data/1652044/000165204425000062/goog-20250630.htm"> $100 billion in cash</a> and other easily sold investments at the end of June, a vast war chest for outbidding nearly any competitor. For comparison, <a href="https://www.apple.com/newsroom/pdfs/fy2025-q3/FY25_Q3_Consolidated_Financial_Statements.pdf">Apple’s cash</a> and cash-like holdings totaled $55 billion in the same time frame.</p>
+<p>A breakup of Google or a halt to its payments to Apple would have been far more exciting and consequential for the technology industry than this ruling. Other antitrust cases continue against <a href="https://www.washingtonpost.com/technology/2024/10/01/amazon-ftc-antitrust/">Amazon</a>, <a href="https://www.washingtonpost.com/technology/2024/03/21/apple-doj-antitrust-lawsuit-smartphone/">Apple</a>, <a href="https://www.washingtonpost.com/technology/2025/04/17/google-adtech-antitrust-case/">Meta</a> and even <a href="https://www.washingtonpost.com/technology/2025/04/17/google-adtech-antitrust-case/">Google</a>. For now, it is no calamity for consumers that a slightly chastened Google will continue to fight it out in the marketplace with challengers for its tech throne.</p>

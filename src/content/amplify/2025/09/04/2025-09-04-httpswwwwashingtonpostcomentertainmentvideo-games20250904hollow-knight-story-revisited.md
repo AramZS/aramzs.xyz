@@ -1,0 +1,35 @@
+---
+author: Review by Gene Park
+cover_image: >-
+  https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVFVLLM4LBA63A4SSCD4MQ4IBM.png&w=1440
+date: '2025-09-04T19:51:12.398Z'
+dateFolder: 2025/09/04
+description: >-
+  Ahead of “Hollow Knight: Silksong,” our critic revisited the 2017 indie hit
+  and found a narrative that trusts the player to find purpose.
+isBasedOn: >-
+  https://www.washingtonpost.com/entertainment/video-games/2025/09/04/hollow-knight-story-revisited/
+link: >-
+  https://www.washingtonpost.com/entertainment/video-games/2025/09/04/hollow-knight-story-revisited/
+slug: >-
+  2025-09-04-httpswwwwashingtonpostcomentertainmentvideo-games20250904hollow-knight-story-revisited
+tags:
+  - gaming
+title: >-
+  I was a ‘Hollow Knight’ skeptic. Now I see it’s a masterpiece. - The
+  Washington Post
+---
+<p>Ahead of this week’s release of “Hollow Knight: Silksong,” our critic revisited the 2017 indie hit and found a narrative that trusts the player to find purpose.</p>
+<p><strong>(4 stars)</strong></p>
+<p>From its opening seconds, “Hollow Knight” displays a rare sort of bravery, and I’m not talking about the titular hero who wanders into its dark world.</p>
+<p>The bravery is in its storytelling, trusting the audience to enter a monotone, dead world with no character motivation, no overarching goal and no real context besides appeasing the wanderlust of the player assuming the role of a stubby, empty-eyed shell of a being. It’s this exact bravery that made this game a challenging read for me in 2017. Its obtuse storytelling, told through gameplay and environments, felt too detached for my taste at the time.</p>
+<p>Its sequel, “Silksong,” was teased in 2019 and is suddenly, finally releasing Thursday. So it was the perfect time for me to revisit this revered indie darling, famously created by a team of three Australian developers called Team Cherry who funded the game through Kickstarter.</p>
+<p>The rediscovery has been a revelation. I had to remind myself of this game’s aimless opening because by the end of its story, me and the Hollow Knight carried ourselves with intention and purpose. This knight was no longer hollow, as my experiences, memories and choices had filled his soul with resolute clarity.</p>
+<p>As the knight, players explore Hallownest, a hollowed-out underground kingdom of bug people who have gone mad. Part of the game’s allure, and its challenge, is that it asks the audience to be proactive. Its <a href="https://www.washingtonpost.com/entertainment/video-games/2025/07/29/shinobi-art-of-vengeance-sega-lizardcube/">monotone aesthetic</a> put me off at first, but playing it in 2025 only further demonstrates its timeless qualities. Thick outlines illustrate the game’s roots as a Flash-based game from the old internet, a powerful evocation for misty-eyed millennials such as myself, and its cute, ink-soft character designs make it appealing to people of all ages.</p>
+<p>“Hollow Knight” is a shining modern example of the <a href="https://www.washingtonpost.com/video-games/reviews/metroid-dread-review/">Metroidvania genre</a>, a portmanteau of <a href="https://www.washingtonpost.com/video-games/2021/06/22/metroid-how-to-start-nintendo/">Nintendo’s “Metroid,”</a> which solidified the adventure game formula that encourages exploration and finding new items to access new areas in a mazelike world, and the <a href="https://www.washingtonpost.com/video-games/2021/10/28/video-game-franchises-we-want-raised-dead/">Castlevania series</a>, which many argue enhanced and perfected that formula. With more than 15 million copies sold, “Hollow Knight” is also one of its most successful.</p>
+<p>Like the PlayStation classic “Castlevania: Symphony of the Night,” Team Cherry’s game plays with expectations of the genre. Getting lost in video games can be a frustrating experience, but “Hollow Knight” is an invitation to stay adrift in its darkness, as the fauna of Hallownest outline and gently brighten the world like a streetlamp against the night. The score by composer Christopher Larkin is ambient, a contrast to the rhythmic, propulsive beats of the 2D-gaming genre. Each of Larkin’s compositions also fill out that blackness with an exploration of soft melody and sound that evoke ecology, ritual and history.</p>
+<p>The game is in two dimensions, but because of this blend of art and sound, Hallownest becomes an immersive, enveloping environment. This is best demonstrated in Hallownest’s fallen capital, City of Tears, where<a href="https://www.youtube.com/watch?v=MJDn70jh1V0"> the harp in Larkin’s score</a> mightily tries to match the raindrops’ cascade down ancient window panes. I couldn’t help but sit on a bench and reflect on this textured sense of isolation, itself an endless hollow night.</p>
+<p>Purpose and clarity indeed arrive, fed through meeting colorful, memorable characters such as the sequel’s protagonist, Hornet, a sisterly and agile knight on her own journey, and Zote the Mighty, a crowing but hapless fellow traveler. The gameplay borrows only one mechanic from the <a href="https://www.washingtonpost.com/video-games/2022/04/26/every-dark-souls-game-ranked-elden-ring/">popular and influential Dark Souls series</a>, that of running back to the player’s location of failure to regain progress. It’s probably the only unnecessary feature, encouraging runbacks in a game that is already all about backtracking and rediscovery.</p>
+<p>But like “Metroid” and Souls, “Hollow Knight” tells its story through the environment and seemingly disconnected tales of other travelers. It’s perhaps thanks to the expressive 2D art style and game mechanics that Team Cherry communicates its story more clearly than the Souls series, known for its obtuse narratives.</p>
+<p>By journey’s end, my Hollow Knight gained and achieved goals. He found out why he’s here in the first place. To do that, he needed more powerful versions of his abilities. He needed to find the magical, godly powers of moth wings to reach new heights. I needed light to find my way out of Deepnest, a nearly pitch-black corner of the kingdom that trapped me in its labyrinth both times I’ve played. As the player filling out his existence, I learned enemy attack patterns to fight with precision and agility.</p>
+<p>The game’s true climax, after solving its biggest existential mystery, is extraordinary and fulfilling in ways few games and stories achieve. What started out as an aimless adventure ended with necessary, noble action. Team Cherry’s courage was trusting the player’s fear of silence and lack of purpose, prompting us in return to pour into their knight our focus and emotion. I leave “Hollow Knight” having solved most of its mystery, including why “Silksong” is the most anticipated game of this year. Now properly acclimated to its vision, I can begin that process anew with millions of others who already knew what I discovered several years later: “Hollow Knight” is a reminder of how video games can be the most rewarding way to experience a tale.</p>

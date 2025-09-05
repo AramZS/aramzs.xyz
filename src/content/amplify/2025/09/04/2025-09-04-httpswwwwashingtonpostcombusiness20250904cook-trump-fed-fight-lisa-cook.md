@@ -1,0 +1,48 @@
+---
+author: 'By Jeremy Roebuck, Andrew Ackerman'
+cover_image: >-
+  https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VQLQI7T2LD4U3U64TR2VOREQYQ.JPG&w=1440
+date: '2025-09-04T21:29:00.932Z'
+dateFolder: 2025/09/04
+description: >-
+  If a judge temporarily allows her to stay on the Fed board, Lisa Cook faces
+  unresolved allegations and political pressure that could complicate her job.
+isBasedOn: >-
+  https://www.washingtonpost.com/business/2025/09/04/cook-trump-fed-fight-lisa-cook/
+link: >-
+  https://www.washingtonpost.com/business/2025/09/04/cook-trump-fed-fight-lisa-cook/
+slug: >-
+  2025-09-04-httpswwwwashingtonpostcombusiness20250904cook-trump-fed-fight-lisa-cook
+tags:
+  - politics
+  - baselines
+  - law and order
+title: >-
+  Political and legal pressures mount for Lisa Cook, the Fed governor Trump is
+  trying to oust - The Washington Post
+---
+<p>If a judge temporarily allows her to stay on the Fed board, Lisa Cook faces unresolved allegations and political pressure that could complicate her job.</p>
+<p>The Justice Department has opened a criminal mortgage fraud investigation of Federal Reserve Board member Lisa Cook, a sharp escalation of the Trump administration’s efforts to oust her from the central bank’s board, according to two people familiar with the matter.</p>
+<p>Investigators in recent days have issued subpoenas as part of the inquiry, which originated with a criminal referral from Bill Pulte, director of the Federal Housing Finance Agency, according to the two people, who spoke on the condition of anonymity because they were not authorized to discuss the ongoing investigation.</p>
+<p>Pulte has accused Cook of making false statements on mortgage applications in connection with a home in Michigan and a condominium in Georgia. The probe is being overseen by Ed Martin, the director of the department’s Weaponization Working Group, who is also overseeing similar mortgage fraud investigations involving Trump foes referred for investigation by Pulte such as Sen. Adam Schiff (D-California) and New York Attorney General Letitia James.</p>
+<p>But the Justice Department’s move is the latest example of mounting political and legal pressure facing the embattled Federal Reserve governor fighting to keep her job on the central bank’s board ahead of its next meeting, which begins Sept. 16.</p>
+<p>If Cook prevails in the short term, she would be able to temporarily remain in her seat, but under a cloud of unresolved allegations that leaves the Fed in an awkward position. Her participation in monetary policy meetings could expose Chair Jerome H. Powell and other policymakers to criticism that the Fed’s rate moves were tainted by the vote of a governor still fighting for her job.</p>
+<p>“Even if this sorts itself out and it turns out to be the product of some clerical errors, it’s like a scarlet letter,” Democratic strategist David Axelrod said. “The sort of casual sullying of her reputation has a cost. That’s life with Trump.”</p>
+<p>Cook’s attorney, Abbe Lowell, said in a statement Thursday that the Justice Department’s investigation was motivated by politics.</p>
+<p>““Predictably and recognizing the flaws in challenging their illegal firing of Governor Cook, the administration is scrambling to invent new justifications for its overreach,” Lowell said. “This Justice Department — perhaps the most politicized in American history — will do whatever President Trump demands. He wants cover, and they are providing it. The questions over how Governor Cook described her properties from time to time, which we have started to address in the pending case and will continue to do so, are not fraud, but it takes nothing for this DOJ to undertake a new politicized investigation, and they appear to have just done it again.”</p>
+<p>Cook has characterized Trump’s attempt to fire her as “unprecedented and illegal” and has said she won’t be bullied into stepping down from the Fed.</p>
+<p>The stakes are high. The firing, if successful, could give Trump’s allies a majority on the seven-member Fed board. That shift could dramatically alter how the Fed operates, affecting not only interest-rate decisions but also handing officials in Washington the ability to replace all 12 regional Fed presidents early next year, thanks to <a href="https://www.federalreserve.gov/faqs/what-is-the-process-for-reappointing-reserve-bank-presidents.htm">a quirk in the law requiring bank presidents to be renewed every five years</a>.</p>
+<p>Trump and his allies have already managed to cast doubt on Cook’s credibility and, by extension, on the central bank itself, Fed watchers say. Even if she wins a temporary reprieve, unresolved accusations leave a cloud over her decisions and any policy choices she joins. Until her name is cleared, her actions could be viewed through a haze of suspicion.</p>
+<p>But the political gains come with a cost. Undermining the Fed’s independence may represent victory for Trump but risk longer-term damage if a weakened central bank struggles to keep the economy steady or control inflation.</p>
+<p>“It could be a short-term win for Trump but a long-term loss for him and the country if the end result is a less independent central bank and more inflation,” said Jon Hilsenrath, a senior adviser to StoneX Group, a financial services firm.</p>
+<p>Others note that it is highly unusual if not, totally unprecedented, for a Fed official to participate in policy decisions under such legal uncertainty. That in itself causes all kinds of perception problems for the central bank and the official in question. “The whole process by which they make these decisions is just horribly complicated by the state of affairs,” said Mark Spindel, an investment manager who co-wrote a history of Fed independence.</p>
+<p>Trump sought to fire Cook last week, accusing her of <a href="https://www.washingtonpost.com/business/2025/08/28/mortgage-fraud-trump-cook/">making false statements on mortgage applications</a> in connection with a home in Michigan and a condominium in Georgia, before President Joe Biden nominated her to the Fed. Cook has yet to respond to the specific allegations, but Cook’s lawyers have denied in court papers that she committed mortgage fraud and suggested that she may have “mislabeled” her homes in the applications. The Justice Department says it has opened an investigation into the matter, but no charges have been filed publicly. Cook filed a lawsuit accusing the administration of ousting her illegally, and is fighting to remain on the Fed board while that case proceeds.</p>
+<p>Trump has made it clear his move against Cook is about reshaping the central bank to be more responsive to his political agenda, pressing for steep rate cuts to ease the cost of financing swelling deficits and seeking to install loyalists on the Fed’s board.</p>
+<p>If the court allows Cook to participate in the Fed’s policy meeting in two weeks, she faces a challenging situation. If she resists a rate cut while the majority of the Federal Open Market Committee (FOMC) supports one, critics could accuse her of retaliating against Trump for trying to oust her. If she backs a cut — <a href="https://www.washingtonpost.com/business/2025/08/22/powell-jackson-hole-fed-rates/">which Powell has suggested is coming</a> — opponents might say she caved to political pressure.</p>
+<p>“I don’t know of any Fed governor who has been in this kind of position before,” said Scott Alvarez, a former Fed general counsel. “This is the first time in the history of the Fed that a president has attempted to fire a Fed governor.”</p>
+<p>That difficult bind extends to the Fed’s regulatory work overseeing the largest U.S. banks, where Cook’s vote could, theoretically, prove decisive in matters ranging from bank mergers to regulatory and enforcement actions, making the Fed vulnerable to legal challenges.</p>
+<p>Some observers have defended Cook’s reticence to disclose mortgage details, arguing any attempts to address the underlying substance of the allegations will be weaponized against her, by a politicized Justice Department.</p>
+<p>“If I were Lisa Cook’s own private lawyer, I would say under no circumstances should you talk about this,” said Peter Conti-Brown, a Fed historian at the University of Pennsylvania,<a href="https://macroeconomicpolicynexus.substack.com/p/the-feds-independence-on-trial?utm_source=post-email-title&amp;publication_id=4309188&amp;post_id=172603553&amp;utm_campaign=email-post-title&amp;isFreemail=true&amp;r=9kou6&amp;triedRedirect=true&amp;utm_medium=email"> in an online discussion of the case</a>. “Because your adversary here is operating in bad faith and is going to try and take and manipulate anything you say about this and use the formidable resources of the U.S. government to put you in legal peril.</p>
+<p>“The only appropriate course for Lisa Cook at this moment is to keep her mouth closed and to let these legal processes proceed as they will,” he added.</p>
+<p>But in a sign of mounting political pressure, Rep. Ro Khanna (D-California) urged Cook to release her mortgage records and address the allegations against her, while stressing on NBC News’s “Meet the Press” that the president’s attacks were politically motivated and designed to undermine the independence of the Fed.</p>
+<p>At the same time, Cook got a boost from Sen. Thom Tillis (R-North Carolina), who said he would not support confirming a replacement for her Fed seat until the courts resolve her lawsuit. “I wouldn’t have any interest in considering a nominee before that’s been fully adjudicated,” he told reporters Wednesday.</p>
