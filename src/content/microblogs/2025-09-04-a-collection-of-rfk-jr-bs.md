@@ -73,5 +73,3 @@ date: '2025-09-04T14:00:00.000-04:00'
 - RFK Jr. Claims Canadian Froot Loops Have 3 Ingredients. They Have 17. --- [Washington Post](https://www.washingtonpost.com/food/2024/11/12/rfk-froot-fruit-loop-canada/)
 
 - Robert F. Kennedy Jr.'s "Make America Healthy Again" Draws Wellness Influencers to MAGA --- [Mother Jones](https://www.motherjones.com/politics/2024/10/robert-kennedy-donald-trump-make-america-healthy-again/)
-
--
