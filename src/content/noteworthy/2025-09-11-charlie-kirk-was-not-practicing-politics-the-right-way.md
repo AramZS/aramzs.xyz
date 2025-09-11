@@ -6,7 +6,7 @@ tags:
   - media
   - academia
   - political violence
-date: '2025-09-11T00:00:00.000-04:00'
+date: '2025-09-11T16:00:00.000-04:00'
 cite:
   name: Charlie Kirk Was Not Practicing Politics the Right Way
   author: '@jason_koebler'
