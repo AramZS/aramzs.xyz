@@ -13,7 +13,7 @@ description: >-
 isBasedOn: 'https://www.cjr.org/tow_center/why-ai-models-are-bad-at-verifying-photos.php'
 link: 'https://www.cjr.org/tow_center/why-ai-models-are-bad-at-verifying-photos.php'
 slug: 2025-08-28-httpswwwcjrorgtowcenterwhy-ai-models-are-bad-at-verifying-photosphp
-tags: []
+tags: [journalism]
 title: Why AI models are bad at verifying photos
 ---
 <figure><img alt="" src="https://www.cjr.org/wp-content/uploads/2025/08/AdobeStock_292423206-scaled.jpeg"/><figcaption>Image: Adobe Stock, duck rabbit illusion</figcaption></figure>

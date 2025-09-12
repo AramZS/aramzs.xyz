@@ -9,7 +9,7 @@ description: >-
 isBasedOn: 'https://crookedtimber.org/2023/03/06/conservatives-on-campus/'
 link: 'https://crookedtimber.org/2023/03/06/conservatives-on-campus/'
 slug: 2025-09-11-httpscrookedtimberorg20230306conservatives-on-campus
-tags: []
+tags: [politics,academia]
 title: Conservatives on campus
 ---
 <p>There’s been a lot of <a href="https://findinggravity.substack.com/p/a-new-york-times-guest-essay-exposes">grumpy commentary</a> about this <a href="https://www.nytimes.com/2023/03/01/opinion/campus-conservative-freethinkers.html">recent NYT op-ed</a> by Adam S. Hoffman, a Princeton senior claiming that conservatives are being driven off campus. Its basic claims:</p>

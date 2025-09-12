@@ -8,7 +8,7 @@ description: 'She won’t be talking about the American Eagle ads at TIFF, and t
 isBasedOn: 'https://www.vulture.com/article/sydney-sweeney-american-eagle-tff.html'
 link: 'https://www.vulture.com/article/sydney-sweeney-american-eagle-tff.html'
 slug: 2025-09-05-httpswwwvulturecomarticlesydney-sweeney-american-eagle-tffhtml
-tags: []
+tags: [culture]
 title: Sydney Sweeney Has Abandoned Her Jeans
 ---
 <figure><picture> <source media="(min-resolution: 192dpi) and (min-width: 1180px), (-webkit-min-device-pixel-ratio: 2) and (min-width: 1180px)" srcset="https://pyxis.nymag.com/v1/imgs/0ea/7a7/1900cf41f7814caf35da6401599c6b069c-sydney-sweeney.2x.rsquare.w330.jpg 2x"/> <source media="(min-width: 1180px) " srcset="https://pyxis.nymag.com/v1/imgs/0ea/7a7/1900cf41f7814caf35da6401599c6b069c-sydney-sweeney.rsquare.w330.jpg"/> <source media="(min-resolution: 192dpi) and (min-width: 768px), (-webkit-min-device-pixel-ratio: 2) and (min-width: 768px)" srcset="https://pyxis.nymag.com/v1/imgs/0ea/7a7/1900cf41f7814caf35da6401599c6b069c-sydney-sweeney.2x.rsquare.w330.jpg 2x"/> <source media="(min-width: 768px)" srcset="https://pyxis.nymag.com/v1/imgs/0ea/7a7/1900cf41f7814caf35da6401599c6b069c-sydney-sweeney.rsquare.w330.jpg"/> <source media="(min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 2)" srcset="https://pyxis.nymag.com/v1/imgs/0ea/7a7/1900cf41f7814caf35da6401599c6b069c-sydney-sweeney.2x.rsquare.w330.jpg"/> <figure><img alt="2025 Toronto International Film Festival - “Christy” Premiere" data-content-img="" src="https://pyxis.nymag.com/v1/imgs/0ea/7a7/1900cf41f7814caf35da6401599c6b069c-sydney-sweeney.rsquare.w330.jpg"/><figcaption>2025 Toronto International Film Festival - “Christy” Premiere</figcaption></figure> </picture></figure>
