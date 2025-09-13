@@ -38,3 +38,6 @@ paths = [
   '[DIRSUB]/!(amplify)/**/*.html',
   '[DIRSUB]/*.html',
 ]
+
+[build.environment]
+NODE_VERSION = "22"
