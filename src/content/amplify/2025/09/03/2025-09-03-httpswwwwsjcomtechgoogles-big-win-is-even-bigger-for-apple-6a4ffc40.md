@@ -10,7 +10,7 @@ description: >-
 isBasedOn: 'https://www.wsj.com/tech/googles-big-win-is-even-bigger-for-apple-6a4ffc40'
 link: 'https://www.wsj.com/tech/googles-big-win-is-even-bigger-for-apple-6a4ffc40'
 slug: 2025-09-03-httpswwwwsjcomtechgoogles-big-win-is-even-bigger-for-apple-6a4ffc40
-tags: []
+tags: ["law and order", "antitrust", "tech"]
 title: Google’s Big Win Is Even Bigger for Apple
 ---
 <p><a href="https://archive.is/o/BnYRO/https://www.wsj.com/">The Wall Street Journal</a></p>
