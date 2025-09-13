@@ -78,7 +78,7 @@ module.exports = function (eleventyConfig) {
 	// Install Plugins
 	//
   // This plugin isn't doing anything. 
-  eleventyConfig.addPlugin(pluginDrafts);
+  // eleventyConfig.addPlugin(pluginDrafts);
 	eleventyConfig.addPlugin(require("@rknightuk/eleventy-plugin-post-graph"), {
 		boxColor: "var(--background-muted)",
 		highlightColor: "var(--accent)",
@@ -115,9 +115,9 @@ module.exports = function (eleventyConfig) {
 			defaultLayout: "layouts/embed.liquid",
 		}
 	);
-
+import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) => {
 	eleventyConfig.addPlugin(
-		require("@photogabble/eleventy-plugin-font-subsetting"),
+		fontSubsetter,
 		{
 			srcFiles: [
 				`./public/fonts/iosevka-etoile-regular.woff2`,
@@ -130,6 +130,7 @@ module.exports = function (eleventyConfig) {
 			cache: new ObjectCache("font-subsetting"),
 		}
 	);
+});
 
 	eleventyConfig.addPlugin(
 		require("@photogabble/eleventy-plugin-tag-normaliser"),
