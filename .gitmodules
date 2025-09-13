@@ -1,0 +1,3 @@
+[submodule "plugins/font-subsetting"]
+	path = plugins/font-subsetting
+	url = git@github.com:photogabble/eleventy-plugin-font-subsetting.git
