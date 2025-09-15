@@ -30,33 +30,33 @@ title: >-
 <p>One of the things that I used in past animations was setting an inline custom property with CSS to create staggered animations.</p>
 <pre data-language="javascript"><code>return (
     &lt;&gt;
-        {cardData.map((card, index) =&gt; (
+        &#123;cardData.map((card, index) =&gt; (
           &lt;div
-            key={index}
+            key=&#123;index&#125;
             className="card"
-            style={{ '--stagger-index': index }}
+            style=&#123;&#123; '--stagger-index': index &#125;&#125;
           &gt;
-            &lt;h2&gt;{card.title}&lt;/h2&gt;
-            &lt;p&gt;{card.content}&lt;/p&gt;
+            &lt;h2&gt;&#123;card.title&#125;&lt;/h2&gt;
+            &lt;p&gt;&#123;card.content&#125;&lt;/p&gt;
           &lt;/div&gt;
-        ))}
+        ))&#125;
     &lt;/&gt;
   );
-}
+&#125;
 </code></pre>
 <p>And then I would handle my animation delay as follows:</p>
-<pre data-language="css"><code>.card {
+<pre data-language="css"><code>.card &#123;
   animation: reveal 0.6s ease-out forwards;
   animation-delay: calc(var(--stagger-index) * 100ms);
-}
+&#125;
 </code></pre>
 <p>And this works like a charm as long as you’re looping over some cards. But imagine the situation where you suddenly have a call to action in the middle of the cards, then it gets a lot trickier. You’d have to start propagating the index to another component; it’s not necessarily the hardest thing to do, but a cleaner way is more than welcome.</p>
 <p>This is one of those things that suddenly becomes a lot easier with <code>sibling-index()</code>. Instead of just trying to get our CTA inside the loop or passing down index counts in other components, we could just use CSS!</p>
 <p>Here is pretty much the gist of it:</p>
-<pre data-language="css"><code>.card-container &gt; * {
+<pre data-language="css"><code>.card-container &gt; * &#123;
   animation: reveal 0.6s ease-out forwards;
   animation-delay: calc(sibling-index() * 0.1s);
-}
+&#125;
 </code></pre>
 <p>I love a bit of ease-of-life enhancements. It’s just nice to clean up the code a bit.</p>
 <p>Here is that in a little codepen:</p>
@@ -66,7 +66,7 @@ title: >-
 <p>Let’s look at the CSS right away. Now… the <code>calc()</code> function might seem a little much at first, but once we break it down, it will make sense. As a sidenote, this is one of the reasons I write about this stuff, to keep these calculations as a snippet for future reference. (I thanked my past self a few times)</p>
 <p>In this example, we’re going to have the background of our cards range between a <strong>180deg</strong> on the hue wheel for the first item, to a <strong>300deg</strong> for the last item. (hence the variables in the next example: <strong>180 + 120 = 300</strong>).</p>
 <p>Here is the gist of it:</p>
-<pre data-language="css"><code>.spectrum-item {
+<pre data-language="css"><code>.spectrum-item &#123;
   --start-hue: 180;
   --hue-range: 120;
   background-color: oklch(
@@ -76,7 +76,7 @@ title: >-
           (sibling-index() - 1)
       )
   );
-}
+&#125;
 </code></pre>
 <p>The formula to achieve this is the following:</p>
 <p><code>start + (range / total_steps) * current_step</code></p>
@@ -94,13 +94,13 @@ title: >-
 <p>To create this behavior, you’d typically have to calculate every single position manually in JavaScript or use a pre-processor with complex loops.</p>
 <p>With the combination of <code>sibling-index()</code> and <code>sibling-count()</code>, we can bring some trigonometry directly into our stylesheet to hack on some perfect circle placement. I’m also throwing the new CSS <code>@function</code> in the mix, just because I can, and I really love this feature.</p>
 <p>First, let’s look at the custom functions that do the heavy lifting.</p>
-<pre data-language="css"><code>@function --pos-x(--index, --count, --radius) {
+<pre data-language="css"><code>@function --pos-x(--index, --count, --radius) &#123;
   result: calc(var(--radius) * cos(360deg / var(--count) * (var(--index) - 1)));
-}
+&#125;
 
-@function --pos-y(--index, --count, --radius) {
+@function --pos-y(--index, --count, --radius) &#123;
   result: calc(var(--radius) * sin(360deg / var(--count) * (var(--index) - 1)));
-}
+&#125;
 </code></pre>
 <p>I’d like to think of these two functions as our little engines. So cool we can set these aside like that, these CSS Functions will really help for cleaner code.</p>
 <p>They calculate the exact X and Y coordinates for any point on a circle. To do this, they need to know three things:</p>
@@ -111,7 +111,7 @@ title: >-
 <ul> <li>For our 6 items, the first item would be at <strong>60 * 0 = 0 degrees</strong>.</li> <li>The second item would be at <strong>60 * 1 = 60 degrees</strong>.</li> <li>The third item would be at <strong>60 * 2 = 120 degrees</strong>,</li> <li>and so on…</li> </ul>
 <p>This is where the trigonometry comes in. The <code>cos()</code> function gives us the X coordinate for a given angle on a circle, while <code>sin()</code> gives us the Y coordinate.</p>
 <p>Now that our functions are ready, using them is incredibly clean. We apply a <code>transform</code> to each item, passing the dynamic sibling values directly into our functions.</p>
-<pre data-language="css"><code>.circle-container div {
+<pre data-language="css"><code>.circle-container div &#123;
   --radius: 120px;
   position: absolute;
   top: 50%;
@@ -121,7 +121,7 @@ title: >-
     translate(-50%, -50%)
     translateX(--pos-x(sibling-index(), sibling-count(), var(--radius)))
     translateY(--pos-y(sibling-index(), sibling-count(), var(--radius)));
-}
+&#125;
 </code></pre>
 <p>We start by centering each item perfectly with <code>translate(-50%, -50%)</code>. Then, we apply two more translations. <code>translateX</code> pushes the item horizontally by the amount calculated by our <code>--pos-x</code>-function, and <code>translateY</code> pushes it vertically based on <code>--pos-y</code>.</p>
 <p>It’s a really cool effect! You can see the items smoothly rearrange themselves to form a new, perfectly symmetrical circle.</p>
@@ -129,7 +129,7 @@ title: >-
 <h2>Creating a casino cards fan effect using sibling-index() and sibling-count()</h2>
 <p>So far, the demos were mostly about progressing from a start point to an end point. But what if you want to create something symmetrical, fanning out from a central point? Think of holding a hand of playing cards. The cards don’t all lean to one side; they fan out evenly.</p>
 <p>Let’s take a look at the code first:</p>
-<pre data-language="css"><code>.card {
+<pre data-language="css"><code>.card &#123;
   --rotation-per-card: 8deg;
   --center-index: calc((sibling-count() + 1) / 2);
 
@@ -140,7 +140,7 @@ title: >-
     translateY(calc(4px * (sibling-index() - 1)));
 
   transform-origin: bottom center;
-}
+&#125;
 </code></pre>
 <p>You see that our card has two custom properties, which will be used as levers for this demo. I’ll get to the <code>--rotations-per-card</code> in a bit, but first of all, I want to go to the secret to this entire effect: <code>--center-index</code>.</p>
 <p>Inside of this <code>--center-index</code> custom property, you can find a simple calculation: <code>calc((sibling-count() + 1) / 2)</code>.</p>
