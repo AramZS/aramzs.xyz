@@ -2,7 +2,7 @@
 title: Tiny Awards 2025
 tags:
   - list/code
-  - 
+  - the web
 cite:
   name: Tiny Awards
   href: https://tinyawards.net/2025/
