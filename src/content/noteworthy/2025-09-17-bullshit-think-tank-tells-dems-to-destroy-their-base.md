@@ -1,11 +1,11 @@
 ---
-title: Bullshit think tank tells dems to destroy their base
+title: Bullshit think tank tells Dems to destroy their base
 tags:
   - Notable Articles
   - politics
 date: '2025-09-17T00:00:00.000-04:00'
 cite:
-  name: Bullshit think tank tells dems to destroy their base
+  name: A New Democratic Think Tank Wants to Curb the Influence of Liberal Groups
   author: Reid J. Epstein
   href: >-
     https://www.nytimes.com/2025/09/17/us/politics/democrats-liberals-jentleson-searchlight.html
