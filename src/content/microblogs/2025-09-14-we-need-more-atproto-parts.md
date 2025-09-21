@@ -1,5 +1,5 @@
 ---
-title: Law enforcement officers are no longer trustworthy sources for journalists
+title: ATProto needs more independent implementations
 growthStage: ephemeral
 tags:
   - decentralization
