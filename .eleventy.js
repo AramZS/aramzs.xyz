@@ -312,37 +312,15 @@ import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) 
   eleventyConfig.ignores.add("src/content/amplify/2020/**");
   eleventyConfig.ignores.add("src/content/amplify/2021/**");
   eleventyConfig.ignores.add("src/content/amplify/2022/**");
+  eleventyConfig.ignores.add("src/content/amplify/2023/**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/**");
   // Dev Time Build Ignores 
   if (process.env.IS_LOCAL === "true"){
-
-  eleventyConfig.ignores.add("src/content/amplify/2023/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/01/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/02/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/03/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/04/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/05/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/06/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/07/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/08/**")
-    eleventyConfig.ignores.add("src/content/amplify/2024/09/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/10/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/11/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/12/**");
     //eleventyConfig.ignores.add("src/content/resources/film/[e-t]**");
     //eleventyConfig.ignores.add("src/content/resources/film/b[u-z]**");
     eleventyConfig.ignores.add("src/content/resources/film/t**");
   } else {
-    eleventyConfig.ignores.add("src/content/amplify/2023/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/01/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/02/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/03/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/04/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/05/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/06/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/07/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/08/**")
-    eleventyConfig.ignores.add("src/content/amplify/2024/09/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/10/**");    
+
   }
 
 	//
