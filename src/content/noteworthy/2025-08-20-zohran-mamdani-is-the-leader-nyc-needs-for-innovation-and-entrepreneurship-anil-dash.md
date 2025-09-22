@@ -11,8 +11,7 @@ date: '2025-08-20T16:00:00.000-04:00'
 description: "And that there is future in community"
 cite:
   name: >-
-    Zohran Mamdani is the leader NYC needs for innovation and entrepreneurship -
-    Anil Dash
+    Zohran Mamdani is the leader NYC needs for innovation and entrepreneurship
   author: Anil Dash
   href: >-
     https://www.anildash.com/2025/08/20/zohran_mamdani_is_the_nyc_innovation_leader/

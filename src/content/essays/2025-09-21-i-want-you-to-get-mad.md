@@ -5,7 +5,6 @@ growthStage: budding
 tags:
   - politics
   - culture
-  - media
 cover_image: i-want-you-to-get-mad.jpeg
 featured: true
 ---
@@ -48,7 +47,7 @@ BULLSHIT. Every time people get reduced to their type that way, it's offensive.
 
 Yet, that's how it works. Not just today, or yesterday, but for years, decades, centuries. 
 
-On the other hand, when Charlie Kirk gets angry that's debate. When Greg Gutfeld [gets mad](https://www.rawstory.com/greg-gutfeld-2673996934/) it's *winning*. He's nuking that lady, he's owning college students, he's taking on the losers. He's '[flinging her into the sun](https://www.silive.com/politics/2025/09/fox-news-host-gets-flung-into-the-sun-by-her-own-colleague-dont-play-that-bulls-.html)'.
+On the other hand, when Charlie Kirk gets angry that's [debate](https://heated.world/p/charlie-kirks-extremism-was-fossil). When Greg Gutfeld [gets mad](https://www.rawstory.com/greg-gutfeld-2673996934/) it's *winning*. He's nuking that lady, he's owning college students, he's taking on the losers. He's '[flinging her into the sun](https://www.silive.com/politics/2025/09/fox-news-host-gets-flung-into-the-sun-by-her-own-colleague-dont-play-that-bulls-.html)'.
 
 You see it again and again. When we hear about getting mad, the *default* gets a privilege. When a white (or white-passing) man gets mad it is percieved by the media to be **important**. There must be a notable reason that man is getting angry and it must be worth exploring and debating. This is the pattern the far-right of American politics has taken advantage of for years. All while the Democratic party pretends being the statesmen in the room is wining some spiritual victory; one that will manifest itself into political power. 
 
