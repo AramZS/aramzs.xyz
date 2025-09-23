@@ -19,7 +19,7 @@ Klein is just one voice of compromise among the folks who are publicly wondering
 
 [Then](https://www.lgbtqnation.com/2025/09/pete-buttigieg-says-leftist-scolding-has-alienated-young-men/) there's [the failed presidential candidate who is more than ready to destroy the lives of trans children](https://www.them.us/story/pete-buttigieg-trans-athletes-parents-sports-fairness). 
 
-[Millions of dollars have been raised explicitly to ask the Democrats to pretend that we're not all in immediate health risk and long-term danger from climate change and that trans people (if not all non-cis Americans) are not worth defending](https://aramzs.xyz/noteworthy/bullshit-think-tank-tells-dems-to-destroy-their-base/). 
+[Millions of dollars have been raised explicitly to ask the Democrats to pretend that we're not all in immediate health risk and long-term danger from climate change and that trans people (if not all LGBTQ+ Americans) are not worth defending](https://aramzs.xyz/noteworthy/bullshit-think-tank-tells-dems-to-destroy-their-base/). 
 
 This is the call coming from the Democrats' department of strategists [that have failed to get anyone elected](https://bsky.app/profile/esqueer.net/post/3lyzyi6epd22z). 
 
@@ -67,7 +67,7 @@ I see you Ezra Klein. You think you pass. You think you're separate, above, powe
 
 You failed to get mad enough to tell them that these people who would gladly have signed up to the Nazi party, some of whom have thrown a Heil **RECENTLY**, are NOT OK. They SHOULD NOT BE IN POWER. 
 
-**YOU DIDN'T GET MAD**. If everyone follows your shitty example I'll be dead *in some small way it will be because of you*. Just like the dead children shot in schools across America, just like the trans people and the immigrants and the homeless who are dead already. They all—just a little bit—will weigh on your soul because you told people to stay calm and not speak with the fucking strength necessary to protect them. 
+**YOU DIDN'T GET MAD**. If everyone follows your shitty example I'll be dead and *in some small way it will be because of you*. Just like the dead children shot in schools across America, just like the trans people and the immigrants and the homeless who are dead already. They all—just a little bit—will weigh on your soul because you told people to stay calm and not speak with the fucking strength necessary to protect them. 
 
 One day people will look back at this period in history, if we don't burn ourselves off the planet first, pretending climate change doesn't exist in the hope that wins us the fucking House. When those people look back they will remember that there were people who stood by and said nothing. Who [stood with the enemies of America](https://apnews.com/article/charlie-kirk-russia-china-disinformation-putin-trump-bce0174644351c70811ae4a847ffa767). Who promoted the people who called for death, destruction, disorder, and the end of what remained of America out of some misguided shitty politeness **power trip**. You fucking collaborator. 
 
