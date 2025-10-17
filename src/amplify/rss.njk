@@ -9,6 +9,7 @@
 		  var date = new Date();
 		  return date.toUTCString()
 	  })(),
+    base: (function(){ return process.env.DOMAIN + "/" })(),
     "title": "AramZS's Amplify RSS Feed",
     "subtitle": "A feed of all the articles I've saved to read or think others should read.",
     "feedUrl": "https://aramzs.xyz/amplify/feed.xml",
@@ -17,7 +18,9 @@
       "email": "xyz@aramzs.me"
     }
   },
-  "internalPageTypes": [ "feed" ]
+  "internalPageTypes": [ "feed" ],
+  eleventyImport:
+    { collections: ["amplify"] }
 }
 ---
 
