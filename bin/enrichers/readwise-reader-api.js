@@ -88,12 +88,15 @@ const createReadwiseObj = (data) => {
 			},
    *
    */
-  if (data.hasOwnProperty('tags')) {
+  if (data.hasOwnProperty('tags') && data.tags) {
     const tagsArray = Object.values(data.tags).reduce((acc, item) => {
       acc.push(item.name.toLowerCase());
       return acc;
     }, []);
     dataSet.tags = tagsArray;
+  } else {
+    dataSet.tags = [];
+    console.log('No tags found for', data.title);
   }
   return dataSet;
 }

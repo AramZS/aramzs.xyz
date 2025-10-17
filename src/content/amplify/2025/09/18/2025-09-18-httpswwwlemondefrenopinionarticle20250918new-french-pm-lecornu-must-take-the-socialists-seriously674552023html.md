@@ -1,0 +1,31 @@
+---
+author: Le Monde
+cover_image: >-
+  https://img.lemde.fr/2025/09/18/0/0/5154/3436/1440/960/60/0/298765e_upload-1-syxhzcpxg0z7-cbi1277005.jpg
+date: '2025-09-18T11:23:59.640Z'
+dateFolder: 2025/09/18
+description: >-
+  EDITORIAL. Sébastien Lecornu would be wise not to overlook the demands
+  presented to him by the Socialists for the 2026 budget, as no adjustment will
+  be possible if a sense of injustice remains so strong.
+isBasedOn: >-
+  https://www.lemonde.fr/en/opinion/article/2025/09/18/new-french-pm-lecornu-must-take-the-socialists-seriously_6745520_23.html#
+link: >-
+  https://www.lemonde.fr/en/opinion/article/2025/09/18/new-french-pm-lecornu-must-take-the-socialists-seriously_6745520_23.html#
+slug: >-
+  2025-09-18-httpswwwlemondefrenopinionarticle20250918new-french-pm-lecornu-must-take-the-socialists-seriously674552023html
+tags:
+  - france
+title: New French PM Lecornu must take the Socialists seriously
+---
+<p>Sébastien Lecornu would be wise not to overlook the demands presented to him by the Socialists for the 2026 budget, as no adjustment will be possible if a sense of injustice remains so strong.</p>
+<p>On the eve of a day of union-led protests, Socialist leader Olivier Faure and his delegation presented ambitious budget demands to Prime Minister Sébastien Lecornu on Wednesday, September 17: halving the savings planned under former prime minister François Bayrou's proposal, raising net wages for the lowest earners, freezing the 2023 pension reform, and introducing a plan to strengthen public services.</p>
+<p>The Socialists are not content to simply amend the legacy left behind by the centrist prime minister they helped bring down; they want to shift it clearly to the left. The centerpiece of their proposals is the Zucman tax, a 2% wealth tax on fortunes exceeding €100 million, including business assets.</p>
+<p>With the balance of power over the next budget in their hands, the Socialists are within their rights to demand, as the price for not triggering a motion of no confidence, "a break" with the supply-side policies pursued by President Emmanuel Macron. The party hopes to channel some of the public anger, demonstrate its usefulness and fend off accusations of betrayal from the radical left La France Insoumise since its split with Jean-Luc Mélenchon's party.</p>
+<figure><picture> <img alt="Socialist leaders after their meeting with Prime Minister Sébastien Lecornu in Paris on September 17, 2025." sizes="(min-width: 1024px) 556px, (min-width: 768px) 664px, 100vw" src="https://img.lemde.fr/2025/09/18/0/0/5154/3436/664/0/75/0/298765e_upload-1-syxhzcpxg0z7-cbi1277005.jpg" srcset=" https://img.lemde.fr/2025/09/18/0/0/5154/3436/320/0/75/0/298765e_upload-1-syxhzcpxg0z7-cbi1277005.jpg 320w,  https://img.lemde.fr/2025/09/18/0/0/5154/3436/556/0/75/0/298765e_upload-1-syxhzcpxg0z7-cbi1277005.jpg 556w,  https://img.lemde.fr/2025/09/18/0/0/5154/3436/640/0/75/0/298765e_upload-1-syxhzcpxg0z7-cbi1277005.jpg 640w,  https://img.lemde.fr/2025/09/18/0/0/5154/3436/664/0/75/0/298765e_upload-1-syxhzcpxg0z7-cbi1277005.jpg 664w,  https://img.lemde.fr/2025/09/18/0/0/5154/3436/960/0/75/0/298765e_upload-1-syxhzcpxg0z7-cbi1277005.jpg 960w,   https://img.lemde.fr/2025/09/18/0/0/5154/3436/1112/0/75/0/298765e_upload-1-syxhzcpxg0z7-cbi1277005.jpg 1112w,  https://img.lemde.fr/2025/09/18/0/0/5154/3436/1328/0/75/0/298765e_upload-1-syxhzcpxg0z7-cbi1277005.jpg 1328w,  https://img.lemde.fr/2025/09/18/0/0/5154/3436/1668/0/75/0/298765e_upload-1-syxhzcpxg0z7-cbi1277005.jpg 1668w,   https://img.lemde.fr/2025/09/18/0/0/5154/3436/1992/0/75/0/298765e_upload-1-syxhzcpxg0z7-cbi1277005.jpg 1992w,  https://img.lemde.fr/2025/09/18/0/0/5154/3436/2301/0/75/0/298765e_upload-1-syxhzcpxg0z7-cbi1277005.jpg 2301w,  "/> </picture><figcaption>Socialist leaders after their meeting with Prime Minister Sébastien Lecornu in Paris on September 17, 2025.</figcaption></figure>
+<p>During this listening period, Bayrou's successor would be wise not to dismiss the <a href="https://www.lemonde.fr/en/politics/article/2025/09/05/france-s-socialists-present-budget-plan-to-navigate-post-bayrou-era_6745058_5.html">Socialists' proposals</a>. No budget adjustment will be possible if society's sense of injustice persists, if the same people continue to feel that the same groups always pay while the wealthiest and most mobile continue to accumulate riches. Even if it risks being ruled unconstitutional, the Zucman tax should pave the way to taxing the largest fortunes and curbing tax optimization. This is where the discussions promise to be both the most complex and the most decisive. It will be necessary to avoid easy slogans and delve into the complex technicalities of the budget to effectively combat abuses.</p>
+<p>The strong mobilization of business leaders and the right against any tax affecting companies and entrepreneurs unfortunately does not encourage a high-quality debate. Frustrated by the worsening international climate, emboldened by Trump-style rhetoric and highly critical of politicians who have not enacted the reforms they seek, a significant segment of the business world now sees the left as its worst enemy – even though the real threat to democracy continues to come from the far right.</p>
+<p>In this context, the responsibility resting on the small Socialist group in the Assemblée Nationale (66 seats) is significant. The temptation toward radicalism has not disappeared. It involves raising demands and then breaking off negotiations to avoid being associated with an unpopular and fragile government. Yet, the Socialist tradition of governance and its commitment to Europe – repeated throughout its history at every moment of crisis – still persist. The instability paralyzing France is also crippling European action at a time of great danger. This cannot be ignored.</p>
+<p>Some voices within the Socialists are calling for compromise around strong demands. Among them is former president François Hollande. If Lecornu wants to salvage what can still be saved, it is his duty to take them very seriously.</p>
+<p>Le Monde</p>
+<p>Translation of an original article published in French on <a href="https://lemonde.fr">lemonde.fr</a>; the publisher may only be liable for the French version.</p>

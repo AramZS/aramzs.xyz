@@ -1,0 +1,27 @@
+---
+author: Dan Sinker
+cover_image: 'https://dansinker.com/images/headshot.webp'
+date: '2025-10-01T16:43:22.529Z'
+dateFolder: 2025/10/01
+description: >-
+  One of my favorite stories from Chicago's recent history is the invisible
+  flood that happened in 1992 that forced the shutdown of downtown Chicago for
+  days.
+isBasedOn: 'https://dansinker.com/posts/2025-09-26-ice-coverage/'
+link: 'https://dansinker.com/posts/2025-09-26-ice-coverage/'
+slug: 2025-10-01-httpsdansinkercomposts2025-09-26-ice-coverage
+tags:
+  - media
+  - chicago
+  - journalism
+  - occupation
+  - political violence
+title: 'Disasters, Invisible and Visible'
+---
+<p>One of my favorite stories from Chicago's recent history is the <a href="https://www.wbez.org/curious-city/2016/08/21/why-the-1992-loop-flood-is-the-most-chicago-story-ever">invisible flood that happened in 1992 that forced the shutdown of downtown Chicago for days</a>. Repair work was happening on the Kinzie Street bridge, one of many that span the Chicago River. They were replacing nearly hundred-year-old pilings with updated ones that were driven deep into the ground beneath the river. Unbeknownst to anyone, one of the pilings was too close to an forgotten coal delivery tunnel that had been dug in 1906. Slowly, the clay soil between the piling and the tunnel eroded away and a small leak began to form.</p>
+<p>As things do, that small leak became a bigger one, and that bigger one became a problem when, suddenly, janitors and maintenance managers across the Loop discovered deep water in the basements and sub-basements of their buildings. Some buildings reported nearly forty feet of water. The colossal Merchandise Mart found fish swimming in their sub-basements!</p>
+<p>At first, nobody knew where it was coming from. The city turned off water mains, assuming there was a leak somewhere in their system. But eventually they figured out it was the old coal tunnels, which had long-forgotten openings in most of the buildings across downtown and to which there was never any formal map (many of them had actually been dug illegally). By the time they discovered it, the hole in the tunnel was 20 feet wide. You could see water swirling on the surface of the river like it was being flushed down a toilet. And yet, on the streets, everything was dry. My friends and I took the L downtown while it was happening. We walked the nearly-abandoned streets and marveled at the invisible disaster raging underneath our feet.</p>
+<p>There's a different type of invisible disaster unfolding across Chicago now. ICE and Border Patrol agents have been terrorizing immigrant communities across the massive geographic expanse that is the greater Chicago area. Instead of focusing on the city proper (though certainly they've been there as well), they seem to be concentrating on border suburbs, especially on the southwest side, though they've ranged as far north as Waukegan and as far south as Joliet, two cities 75 miles apart from each other. The raids are often pre-dawn and lightning-fast, agents gone within minutes, though that's not always the pattern. A traffic stop by ICE in the light of day in northwest suburban Franklin Park left a dad, who had just dropped his kids off at school, <a href="https://www.nytimes.com/interactive/2025/09/23/us/ice-shooting-chicago-video.html">dead two weeks ago</a>.</p>
+<p>The speed and unpredictability of the ICE roundups make hearing about them difficult. News organizations can't be everywhere all at once, not to mention most of the orgs in Chicago are in a defensive crouch from years of layoffs and budget cuts. As a result, there's <em>much</em> less visibility on this unfolding tragedy than there should be. While some days get lots of coverage, focused largely around the ICE detention facility in the suburb of Broadview where daily protests have been held for weeks, other days this disaster is nearly invisible unless you know where to look.</p>
+<p>There is amazing coverage happening, don't get me wrong, but you have to work to seek it out. For me, my go-tos are largely on Twitter alternative Bluesky:</p>
+<ul> <li><a href="https://bsky.app/profile/unraveledpress.com">Unraveled Press</a> is the load-bearing element to much of the up-to-the minute coverage of what's happening around Chicago. They're at the Broadview facility most days, and doing an admirable job of spreading disparate social media videos and reports of ICE raids from elsewhere across the region. That it's fallen on a <em>tiny</em> two-person outlet is pretty much everything you need to know about what makes this disaster invisible. <a href="https://unraveledpress.com/support-unraveled/">It's also a reason to send them some money</a>. I sent $50, and I'll be sending more once I've got it.</li> <li><a href="https://bsky.app/profile/mulchy.bsky.social">Shawn Mulcahy</a>, the news editor of the <em>Chicago Reader</em> has also been at Broadview regularly and has been a must-follow on Bluesky for me. I wish the <em>Reader</em> was actually highlighting his work on their site more regularly, but they're <a href="https://blockclubchicago.org/2025/08/26/after-layoffs-chicago-reader-survives-with-new-portland-based-owner/">going through it right now</a>, so ¯\<em>(ツ)</em>/¯.</li> <li>Organizer and author <a href="https://bsky.app/profile/mskellymhayes.bsky.social">Kelly Hayes</a> has also done a remarkable job of supplying to-the-minute information and photos from Broadview.</li> </ul>

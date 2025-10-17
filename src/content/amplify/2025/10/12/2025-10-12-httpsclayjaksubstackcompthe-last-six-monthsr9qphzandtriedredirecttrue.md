@@ -1,0 +1,44 @@
+---
+author: Clay Jackson
+cover_image: >-
+  https://substackcdn.com/image/fetch/$s_!ooC3!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dca1fcb-cfac-473b-96f6-41a7eac64cca_2000x1125.jpeg
+date: '2025-10-12T17:11:27.104Z'
+dateFolder: 2025/10/12
+description: Sometimes I think the indifference is worse than the outright cruelty.
+isBasedOn: 'https://clayjak.substack.com/p/the-last-six-months?r=9qphz&triedRedirect=true'
+link: 'https://clayjak.substack.com/p/the-last-six-months?r=9qphz&triedRedirect=true'
+slug: >-
+  2025-10-12-httpsclayjaksubstackcompthe-last-six-monthsr9qphzandtriedredirecttrue
+tags:
+  - politics
+  - law and order
+title: The last six months
+---
+<p><a href="https://clayjak.substack.com/"><figure><picture><figure><img alt="clayjakstack" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!xRti!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F582d137a-0e60-4882-8bb5-55d57b82a283_858x858.png"/></figure></picture></figure></a></p>
+<h3>Sometimes I think the indifference is worse than the outright cruelty.</h3>
+<figure><a data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!ooC3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dca1fcb-cfac-473b-96f6-41a7eac64cca_2000x1125.jpeg"><picture><img alt="" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/2dca1fcb-cfac-473b-96f6-41a7eac64cca_2000x1125.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":819,"width":1456,"resizeWidth":null,"bytes":635714,"alt":null,"title":null,"type":"image/jpeg","href":null,"belowTheFold":false,"topImage":true,"internalRedirect":"https://clayjak.substack.com/i/170965009?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dca1fcb-cfac-473b-96f6-41a7eac64cca_2000x1125.jpeg","isProcessing":false,"align":null,"offset":false}' sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!ooC3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dca1fcb-cfac-473b-96f6-41a7eac64cca_2000x1125.jpeg" srcset="https://substackcdn.com/image/fetch/$s_!ooC3!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dca1fcb-cfac-473b-96f6-41a7eac64cca_2000x1125.jpeg 424w, https://substackcdn.com/image/fetch/$s_!ooC3!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dca1fcb-cfac-473b-96f6-41a7eac64cca_2000x1125.jpeg 848w, https://substackcdn.com/image/fetch/$s_!ooC3!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dca1fcb-cfac-473b-96f6-41a7eac64cca_2000x1125.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!ooC3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dca1fcb-cfac-473b-96f6-41a7eac64cca_2000x1125.jpeg 1456w"/></picture></a></figure>
+<p>Somewhere between the courthouse coffee that tastes like hot asphalt and the dive-bar yellow bellies that taste like salvation, I lost the thread. The point of it all. Somewhere in the last six months, the profession I trained for, the one I bled for, the one I thought meant something, finally and completely gave up.</p>
+<p>You could hear it in the hallways first. The whispers between hearings. The way <em>justice</em> got said like a punchline. The Trump administration started sending people to a gulag without a hearing, and instead of outrage, most of the bar shrugged, sent another invoice, and checked Zillow for beach houses.</p>
+<p>The past half year would’ve been easier to swallow if my peers had been horrified. But most weren’t. Most were indifferent, at best. Sometimes I think the indifference is worse than the outright cruelty. Cruelty you can fight.</p>
+<p>There’s an old lie we tell about the legal profession: that we’re the last line of defense; that we stand between the powerful and the powerless; that we believe in the Constitution not because it’s profitable, but because it’s right.</p>
+<p><strong>That’s dead.</strong></p>
+<p>I wanted to practice law the way my mentors told me it could be practiced: straight, unvarnished, with humility and craft, for people who didn’t have anyone else in their corner. But over the last half year, my profession has turned into a kind of soulless service industry where the currency is billable hours and the product is compliance, not justice. It’s crumbled before my eyes.</p>
+<p>Earlier this year, I was at a CLE event in Austin and overheard what was clearly a BigLaw partner with a $400 haircut and a Rolex explain to an associate why their firm couldn’t take on asylum cases moving forward. He said it was about optics, not politics. <em>Optics.</em> As if the sight of a mother in chains with her toddler in tow was a PR liability instead of a human emergency.</p>
+<p>I knew then something was seriously wrong.</p>
+<p>So I drove west. Past Fredericksburg’s wineries, past the last Whataburger, out into the high desert where the radio goes quiet and the sky gets wider than you thought possible.</p>
+<p>West Texas is both a refuge and a ghost story. You can eat a burrito at Ramona’s place so good you forget the world’s on fire, then walk outside and be reminded by a Border Patrol truck idling at the corner. Everywhere smells like dust and mesquite smoke, a scent I’ve started to associate with truth.</p>
+<p>I meet them in bars, lawyers who gave up on the idea of justice years ago. One told me he only takes cases that guarantee payment upfront. He shrugged when I asked what happens to the people who can’t pay. <em>Somebody else’s problem.</em></p>
+<p>But there are still fighters. The lawyers who keep a sleeping bag in their office because they won’t leave when there’s a chance a last-minute motion could stop a deportation.</p>
+<p>The border strips away illusions fast. You learn the government’s cruelty isn’t an accident: it’s policy. You learn that most people deported are folks whose only crime was not being born on the right side of a line. And you learn how many lawyers are willing to turn away rather than spend an unpaid hour fighting for them.</p>
+<p>The last six months didn’t kill the profession; they just showed us the corpse we’ve been propping up. Partners chasing corporate clients like it’s a gold rush. Associates terrified to take a stand because they’ve got loans and a mortgage. Judges phoning it in. Law school deans refusing to do anything that might affect federal funding. The system works exactly as designed, for the people who designed it.</p>
+<p>But I keep going. Because out here, every now and then, you get to see the good side of the law. A kid that gets to stay. A rancher that keeps his water. And these moments taste better than the first sip of coffee on a cold morning in the courthouse parking lot.</p>
+<p>Maybe that’s the real lesson of the last six months: that the profession’s soul isn’t in the firms or the associations or the conferences. It’s in the stubborn few who still show up, even when it costs them everything. And if that means I drink alone more nights than not, well, I’ve got good company in the ghosts of what the law used to be.</p>
+<p>The road teaches you things the courtroom never could. Highway 90 heading west is a slow unwinding of the soul. The billboards fade, the traffic thins, and you start to remember what silence feels like.</p>
+<p>I pass freight trains longer than some lawsuits, each car a rusted-out confession of what America used to make. In the distance, the Chinati Mountains rise like an argument you can’t quite win.</p>
+<p>Marfa is a mirage: art galleries selling paintings that cost more than a ranch hand makes in a year, next to a taco stand where the cook still calls me “abogado” like it’s a title worth keeping.</p>
+<p>If there’s any way forward for this profession, maybe it starts with remembering that the world outside the courthouse exists, and that it’s worth protecting.</p>
+<p>Most evenings, I end up on a dirt road watching the stars burn holes in the dark. Out here, the sky is so clear you can see satellites drift like lazy verdicts. And I think: maybe the profession won’t save itself. Maybe it never will. But a few of us can keep the embers alive long enough for someone else to pick up the fire.</p>
+<p>Until then, I’ll keep driving the backroads, showing up for people who can’t pay me in anything but gratitude. Because in a world where the law has forgotten its purpose, that’s still worth more than any retainer.</p>
+<p>CPJ | 14 Aug. ‘25 | Marfa, TX</p>
+
+<p></p>
