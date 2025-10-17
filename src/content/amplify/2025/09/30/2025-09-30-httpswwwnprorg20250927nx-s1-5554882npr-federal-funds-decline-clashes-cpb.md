@@ -1,0 +1,52 @@
+---
+author: David Folkenflik
+cover_image: >-
+  https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2Fd9%2F68c8e886405ca48abab3cf62ba5a%2Fgettyimages-2225639525-1.jpg
+date: '2025-09-30T12:49:24.386Z'
+dateFolder: 2025/09/30
+description: >-
+  NPR asked a federal judge to block CPB from awarding a $57.9 million grant to
+  a new consortium of public media institutions to operate the satellite that
+  connects the public radio system.
+isBasedOn: >-
+  https://www.npr.org/2025/09/27/nx-s1-5554882/npr-federal-funds-decline-clashes-cpb
+link: >-
+  https://www.npr.org/2025/09/27/nx-s1-5554882/npr-federal-funds-decline-clashes-cpb
+slug: >-
+  2025-09-30-httpswwwnprorg20250927nx-s1-5554882npr-federal-funds-decline-clashes-cpb
+tags:
+  - media
+title: >-
+  NPR and the Corporation for Public Broadcasting clash as federal funding
+  declines
+---
+<figure><picture><figure><img alt="A view of the sign outside National Public Radio headquarters in Washington, D.C., on July 22, 2025." data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2Fd9%2F68c8e886405ca48abab3cf62ba5a%2Fgettyimages-2225639525-1.jpg" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F48%2Fd9%2F68c8e886405ca48abab3cf62ba5a%2Fgettyimages-2225639525-1.jpg"/><figcaption>A view of the sign outside National Public Radio headquarters in Washington, D.C., on July 22.</figcaption></figure></picture></figure>
+<p>NPR asked a federal judge to block the Corporation for Public Broadcasting from awarding a $57.9 million grant to a new consortium of public media institutions to operate the satellite that connects the public radio system for the next five years.</p>
+<p>NPR's submission, filed Friday afternoon, gives insight into the behind-the-scenes tensions within public media this year as congressional Republicans successfully moved, at President Trump's insistence, to strip public broadcasting of all funding they had already approved for the next two years.</p>
+<p>NPR has run the satellite-based system for more than four decades. It enables hundreds of public radio stations and other outside producers to air and share programming, including many shows and stations with no affiliation with NPR itself. CPB is the congressionally funded private corporation through which federal money is funneled to public radio and TV stations, PBS and, to a lesser extent, NPR.</p>
+<p>The money at issue is not part of the money NPR receives toward its own annual operations, which has typically represented 1% to 2% of its operating budget. PBS and its member stations have, on average, received 15% of their budgets from the Corporation for Public Broadcasting; for public radio stations, that figure has been roughly 10%, though the figure has varied widely.</p>
+<p>That subsidy for all public media evaporates starting Wednesday with the new federal fiscal year.</p>
+<p>The federal funding for the public radio satellite distribution system is calculated separately from the money set aside for NPR and its member stations.</p>
+<p>According to NPR's court submissions, NPR had been told by CPB in early April that it would soon receive more than $30 million to cover the next three years for running the service, plus the balance on the current year. CPB then swiftly reversed course, with an executive citing a decision at the CPB board level saying NPR could not be involved, the court filing alleges.</p>
+<p>Earlier Friday, CPB had announced it was giving the contract to the new consortium, called Public Media Infrastructure. Its members include New York Public Radio, PRX, the Minnesota-based American Public Media, and Station Resource Group, a consulting firm. The National Federation of Community Broadcasters, an association of smaller stations that are not part of the NPR network, is also participating.</p>
+<p>"By awarding this grant to PMI, CPB is placing trust in stations to drive the future of radio content distribution, ensuring that interconnection is not only reliable but also innovative, representative and sustainable," CPB President and CEO Patricia Harrison said in a statement. "This decision reflects CPB's commitment to support the entire public media system, especially rural and community stations, and to prepare the system for the future."</p>
+<p>NPR and three of its Colorado member stations are already suing the White House over Trump's May order banning CPB from spending any federal money on NPR, saying it is a violation of its Constitutional protections. Trump has called NPR and PBS "monsters" and accused them of bias. NPR says that demonstrates an unlawful retaliation for its exercise of free speech.</p>
+<p>"We seek a clear judgment that finds the illegality and unconstitutionality of this executive order, and, in doing so, establishes definitively that public media enjoys the same protections from viewpoint discrimination as any other entity of the free press," NPR Chief Executive Katherine Maher wrote to member station officials Friday evening.</p>
+<p>"We enter into this motion with great reluctance," she continued. "This decision has undercut the bonds between our two organizations forged over many decades of service to the American people, and stands as a regretful coda to CPB's prior history of support for the First Amendment."</p>
+<p>In the motion Friday for a temporary restraining order, its executives attest to their shock at learning of the CPB's decision, saying it reflects the corporation bending to the Trump administration's will.</p>
+<p>"CPB is now poised to do the Order's bidding, in contravention of both the First Amendment and the express mandates of the Public Broadcasting Act of 1967," states NPR's legal team, led by Miguel A. Estrada and Theodore J. Boutros Jr.</p>
+<p>While CPB, NPR and PBS maintained a seemingly united front during an intensely pitched campaign to hold off the elimination of taxpayer subsidies, privately executives for CPB and PBS distanced themselves from NPR and Maher.</p>
+<p>Three people with knowledge of events say CPB and PBS officials told some lawmakers they would be content if subsidies could be preserved for public media, especially the stations, even if NPR were not to receive further federal funding. They spoke on the condition of anonymity, saying they did not have authorization to speak publicly on the highly politically charged matter.</p>
+<p>Trump has publicly attacked NPR and PBS but it is the radio network that has drawn greater scrutiny for ideological bias, sparked in part by an accusatory essay in 2024 from a senior business editor who later left the network.</p>
+<p>During House hearings in late March, Republicans cast a severe light on Maher's years-old social media posts prior to her joining NPR early last year that reflected a liberal sensibility and support for Joe Biden's 2020 presidential bid.</p>
+<p>On April 2, according to statements from NPR executives filed along with its legal petition, a top CPB executive, Kathy Merritt, affirmed that the corporation had approved NPR's contract extension. The CPB agreed to transfer more than $35 million to fulfill the rest of the current contract and the new one, court papers say.</p>
+<p>On April 14, the same day <a href="https://www.nytimes.com/2025/04/14/business/media/trump-npr-pbs-funding.html">published reports</a> reflected Trump's renewed effort to shear away all federal taxpayer subsidies for public media, CPB's Merritt "called NPR's Chief Operating Officer to inform him that CPB now wanted to provide PRSS funding to a separate entity, with the principal criterion for eligibility being that the entity lack any ties to NPR," according to the network's legal filings.</p>
+<p>Trump issued his formal rescission request to Congress on May 1. Shortly before the rescission vote in the summer, Trump publicly told Republicans in Congress that he would not campaign for anyone who failed to support the measure.</p>
+<p>Two weeks later, NPR announced <a href="https://www.npr.org/2025/05/16/g-s1-67254/npr-is-leading-innovation-in-public-radio-broadcast-distribution">a new initiative</a> designed to provide what it called "best-in-class terrestrial distribution platform for live broadcast that is expected to transform how public radio stations receive programming across America." CPB continued to put the contract out for bidding nonetheless.</p>
+<p>In the Friday court documents, NPR contends CPB's move to sever its contract to run the system "threatens NPR's contractual relationships with the Interconnected Stations and undermines the hard-earned trust that NPR has built with those stations over decades of service."</p>
+<p>NPR says without a restraining order, it will be unable to win back the contract in court, as CPB will be all but extinct. A skeleton crew will continue on to wind down CPB's operations.</p>
+<p>Through its chief spokesperson, CPB said late Friday it was "confident that our actions serve the best interests of the future of public radio."</p>
+<p>"We are disappointed that, at a time of tremendous challenge for all public media with substantially diminished resources, NPR is forcing CPB to expend scarce funds that would otherwise support the public media system in defending a lawsuit that has no merits and ultimately does not benefit the system," CPB stated.</p>
+<p>In her note to station officials, Maher said that NPR's paramount concern involved "the integrity and stability of the public radio system." Maher said she had promised the new Public Media Infrastructure coalition that NPR would work with it to ensure that the system remained "vital and robust."</p>
+<p>The federal judge overseeing the case, Randolph D. Moss, has ordered a hearing on NPR's motion for Tuesday morning — the day before the federal funding of public media goes away.</p>
+<p><em>Disclosure: This story was reported and written by NPR media correspondent David Folkenflik. It was edited by Managing Editors Gerry Holmes and Vickie Walton-James. Under NPR's protocol for reporting on itself, no NPR corporate official or news executive reviewed this story before it was posted publicly.</em></p>

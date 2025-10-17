@@ -1,0 +1,19 @@
+---
+author: David Shepardson
+cover_image: 'https://www.reuters.com/sbiuo/cc1e477d4815b9937120bdfba19d32fdf82aab7c/scr.png'
+date: '2025-09-29T22:38:52.422Z'
+dateFolder: 2025/09/29
+description: 'WASHINGTON, Sept 29 (Reuters) - The U. S.'
+isBasedOn: >-
+  https://www.reuters.com/world/usdot-will-not-enforce-biden-wheelchair-passenger-protection-rule-2025-09-29/
+link: >-
+  https://www.reuters.com/world/usdot-will-not-enforce-biden-wheelchair-passenger-protection-rule-2025-09-29/
+slug: >-
+  2025-09-29-httpswwwreuterscomworldusdot-will-not-enforce-biden-wheelchair-passenger-protection-rule-2025-09-29
+tags:
+  - wtf
+  - politics
+  - disability
+title: US will not enforce Biden wheelchair passenger protection rule
+---
+<div><div><p>WASHINGTON, Sept 29 (Reuters) - The U.S. Transportation Department said on Monday that it will not enforce key provisions of a rule issued in December by former President Joe Biden's administration that requires new consumer protections for disabled passengers using wheelchairs.</p><p></p><p>USDOT said in a filing it is writing a new rule and will not enforce the requirements imposing airline liability for mishandled wheelchairs or a requirement for airlines to reimburse passengers using wheelchairs the difference between a fare on a flight taken and the fare the passenger would have paid on a flight if their wheelchair could have fit in the cabin or cargo compartment of a different aircraft.</p><p>President Donald Trump's administration also will not enforce a requirement airlines notify passengers about their rights in writing when they are checking wheelchairs or scooters.</p><p>Last year, USDOT said an estimated 5.5 million Americans use a wheelchair and data shows that for every 100 wheelchairs or scooters transported on domestic flights at least one is damaged, delayed, or lost.</p><p>A spokesman for Transportation Secretary Sean Duffy said the department has and will continue to support flyers with disabilities and will enforce other provisions of the rule, adding the department is reevaluating whether those provisions "adhere to statute or if they are redundant. No final decision has been made."</p><p>Airlines for America said carriers have been making meaningful progress enhancing services for passengers with disabilities since signing a commitment in 2022 and are working to "identify and implement solutions that increase accessibility."</p><div><p>Earlier this month, USDOT said it would abandon a plan proposed by Biden to require airlines to pay passengers cash compensation when U.S. flight disruptions are caused by carriers and said it could unwind other consumer protections, </p><a href="https://archive.is/o/sbiuo/https://www.reuters.com/world/usdot-will-not-enforce-biden-wheelchair-passenger-protection-rule-2025-09-29/nMT1ALTL2N3V40R01" referrerpolicy="no-referrer-when-downgrade" rel="noopener" target="_blank">drawing criticism from Democrats<svg aria-hidden="true" focusable="false" role="presentation" viewbox="0 0 32 32" xmlns="http://www.w3.org/2000/svg"><path d="M15 6c.6 0 1 .4 1 1s-.4 1-1 1H9c-.6 0-1 .4-1 1v14a1.1 1.1 0 0 0 .2.6c.1.2.4.4.8.4h14c.6 0 1-.4 1-1v-6c0-.6.4-1 1-1s1 .4 1 1v6a3 3 0 0 1-3 3H9a3 3 0 0 1-2.2-.9A3 3 0 0 1 6 23V9a3 3 0 0 1 3-3Zm10 0 .4.1.5.5.1.4v6c0 .6-.4 1-1 1s-1-.4-1-1V9.4l-5.3 5.3a1 1 0 0 1-.7.3 1 1 0 0 1-.7-.3 1 1 0 0 1 0-1.4L22.6 8H19c-.6 0-1-.4-1-1s.4-1 1-1Z" fill="#666"></path></svg><span>, opens new tab</span></a><p>.</p></div><p>In October 2024, USDOT fined American Airlines a record $50 million for its treatment of disabled passengers, including failing to provide some with adequate assistance and mishandling wheelchairs.</p><div><p>Reporting by David Shepardson; Editing by Mark Porter, David Gregorio and Nick Zieminski</p></div><nav aria-label="Tags"></nav><p></p></div></div>

@@ -1,0 +1,29 @@
+---
+author: Sarah Perez
+cover_image: >-
+  https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=1200,800
+date: '2025-09-29T17:56:43.261Z'
+dateFolder: 2025/09/29
+description: >-
+  Users in Ohio will have to verify their age to use Bluesky's social network as
+  of Monday.
+isBasedOn: >-
+  https://techcrunch.com/2025/09/29/bluesky-rolls-out-age-verification-for-users-in-ohio/
+link: >-
+  https://techcrunch.com/2025/09/29/bluesky-rolls-out-age-verification-for-users-in-ohio/
+slug: >-
+  2025-09-29-httpstechcrunchcom20250929bluesky-rolls-out-age-verification-for-users-in-ohio
+tags:
+  - tech
+  - youth
+title: Bluesky rolls out age verification for users in Ohio
+---
+<figure><img alt="The Bluesky app logo is displayed on a smartphone" sizes="(max-width: 1024px) 100vw, 1024px" src="https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg" srcset="https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg 1920w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=150,100 150w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=300,200 300w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=768,512 768w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=680,453 680w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=1200,800 1200w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=1280,853 1280w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=430,287 430w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=720,480 720w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=900,600 900w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=800,533 800w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=1536,1024 1536w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=668,445 668w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=563,375 563w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=926,617 926w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=708,472 708w, https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2185895875.jpg?resize=50,33 50w"/><figcaption>Image Credits:NurPhoto / Contributor / Getty Images</figcaption></figure>
+<p>The social network Bluesky will begin verifying users’ ages in the state of Ohio to comply with new regulations, starting on Monday, September 29. The company — which offers an open and decentralized competitor to X and Threads — says it will enable the <a href="https://www.kidswebservices.com/en-US/services/age-verification">Kids Web Services’ (KWS)</a> age verification solution in the state. This is the same solution that Bluesky is <a href="https://bsky.social/about/blog/09-10-2025-age-assurance-approach">already using in South Dakota and Wyoming</a> to comply with similar laws.</p>
+<p>Bluesky announced the move in Ohio on Sunday via its <a href="https://bsky.app/profile/did:plc:eon2iu7v3x2ukgxkqaf7e5np/post/3lzvqklye622a">Bluesky Safety account,</a> and in an update to <a href="https://bsky.social/about/blog/09-10-2025-age-assurance-approach">last month’s blog post</a> about the matter.</p>
+<p>The changes come as a number of U.S. states are rolling out their own age verification laws to protect children from online risks, given the lack of federal guidance. The Ohio law, meant to protect kids from pornography, <a href="https://www.nbc4i.com/news/local-news/central-ohio-news/how-incoming-age-verification-law-for-adult-content-may-affect-ohio-residents/">will require users in Ohio</a> to upload a copy of their government-issued photo ID or other personal identification before accessing adult content. This includes the type of adult content that can be found on social networks.</p>
+<p>KWS will provide the technical infrastructure that allows Bluesky to verify users’ ages by offering multiple ways for them to do so beyond only uploading a government-issued identity document. According to its website, KWS also lets users verify by facial scans, payment cards, and more.</p>
+<p>Unfortunately for U.S. users, these age assurance laws aren’t all written the same.</p>
+<p>One law that rolled out in Mississippi, which used poorly written and overly broad language, <a href="https://techcrunch.com/2025/08/24/bluesky-blocks-service-in-mississippi-over-age-assurance-law/">led Bluesky to suspend services in the state.</a> The startup explained at the time that, as a small team, they didn’t have the resources to make the substantial technical changes needed to comply. This left the state open to larger competitors, like Meta, which continues to dominate the social networking market.</p>
+<p>These legal requirements could ultimately hurt smaller startups like Bluesky, which are still working to gain traction under tech giant Meta’s shadow. Having to verify their age may deter potential new users and divert the team’s attention from other areas where it could innovate, like features, protocols, and other underlying technology.</p>
+<p>The addition of an age verification for users in Ohio comes shortly after some Bluesky users began pushing back against updates to the company’s moderation services and terms. Bluesky recently committed to <a href="https://techcrunch.com/2025/09/22/bluesky-says-its-getting-more-aggressive-about-moderation-and-enforcement/">more aggressively punishing those who violate </a>the site’s guidelines, including rules against harassment and toxic content.</p>

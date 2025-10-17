@@ -1,0 +1,30 @@
+---
+author: Dasha Burns
+cover_image: >-
+  https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670
+date: '2025-09-28T15:27:44.375Z'
+dateFolder: 2025/09/28
+description: >-
+  Many Democrats believe the White House is bluffing and insist Republicans will
+  bear responsibility for a shutdown in the public eye because the GOP controls
+  the government.
+isBasedOn: >-
+  https://www.politico.com/news/2025/09/26/they-will-pay-a-huge-price-for-this-shutdown-ready-trump-expects-democrats-to-blink-00581812
+link: >-
+  https://www.politico.com/news/2025/09/26/they-will-pay-a-huge-price-for-this-shutdown-ready-trump-expects-democrats-to-blink-00581812
+slug: >-
+  2025-09-28-httpswwwpoliticocomnews20250926they-will-pay-a-huge-price-for-this-shutdown-ready-trump-expects-democrats-to-blink-00581812
+tags: []
+title: >-
+  ‘They will pay a huge price for this’: Shutdown-ready Trump expects Democrats
+  to blink
+---
+<figure><picture><source sizes="(max-width: 320px) 280px, (max-width: 766px) 726px, (max-width: 1019px) 959px, (max-width: 1278px) 888px, (min-width: 1279px) 630px" srcset="https://www.politico.com/dims4/default/resize/280/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670 280w, https://www.politico.com/dims4/default/resize/560/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670 560w, https://www.politico.com/dims4/default/resize/726/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670 726w, https://www.politico.com/dims4/default/resize/1452/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670 1452w, https://www.politico.com/dims4/default/resize/959/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670 959w, https://www.politico.com/dims4/default/resize/1918/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670 1918w, https://www.politico.com/dims4/default/resize/888/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670 888w, https://www.politico.com/dims4/default/resize/1776/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670 1776w, https://www.politico.com/dims4/default/resize/630/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670 630w, https://www.politico.com/dims4/default/resize/1260/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670 1260w" type="image/webp"/><img alt="President Donald Trump speaks in the Oval Office of the White House on September 25, 2025 (Photo by Andrew Harnik/Getty Images)" src="https://www.politico.com/dims4/default/resize/630/quality/90/format/webp?url=https%3A%2F%2Fstatic.politico.com%2F07%2F54%2F95a6555648b6898e3cc1c6cac182%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2237018670"/></picture><figcaption>President Donald Trump speaks in the Oval Office of the White House on September 25, 2025 (Photo by Andrew Harnik/Getty Images) | Getty Images</figcaption></figure>
+<p><a data-tracking="mpos=center&amp;mid=ar_body&amp;lindex=64&amp;lcol=" href="https://www.politico.com/news/2025/09/24/white-house-firings-shutdown-00579909"><u>POLITICO reported Wednesday</u></a> that the Office of Management and Budget is instructing federal agencies to prepare reduction-in-force plans for mass firings during a government shutdown, specifically targeting employees who work for programs that are not legally required to continue.</p>
+<p>“Historically, it’s the aggressor that always loses,” the senior White House official said. “And quite simply, their constituencies and their priorities are all going to get chewed up, and ours, not so much.”</p>
+<p>The official said the second Trump administration is far better equipped to battle Democrats during a shut down than it was when this happened during his first term.</p>
+<p>Many Democrats believe the White House is bluffing about its sweeping layoff plans, and insist Republicans will bear responsibility for a shutdown in the public eye because the GOP controls the government.</p>
+<p>Democrats are demanding Republicans negotiate a bipartisan stopgap spending measure. Among their asks is for the GOP to extend certain Affordable Care Act subsidies, which were expanded by Congress in 2021 and are due to sunset at the end of the year.</p>
+<p>President Donald Trump on Thursday <a data-tracking="mpos=center&amp;mid=ar_body&amp;lindex=65&amp;lcol=" href="https://www.politico.com/news/2025/09/25/trump-shutdown-pain-blame-democrats-00580824"><u>blamed Democrats</u></a> for making “unserious and ridiculous” demands, foreshadowing what is likely to be the go-to talking point should neither side blink ahead of the Tuesday night deadline.</p>
+<p>“He read all the shit they’re asking for, and he said, ‘on second thought, go fuck yourself,’” the White House official said.</p>
+<p>Administration officials believe that once a potential shutdown starts, Democrats won’t be able to hold out “very long” and that GOP allies on the Hill are aligned. They “are strapped in for a fight. They’re gonna make them vote five-plus times,” the senior official said.</p>
