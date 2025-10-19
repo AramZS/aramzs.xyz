@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
-title: "GDPR/Privacy Policy"
+title: "GDPR / Privacy Policy"
 titlePrefix: "Info"
 subTitle: "Effective date: May 17, 2024"
 ---
