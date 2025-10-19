@@ -8,5 +8,7 @@ module.exports = {
       "ignore": true
     }
   },
-  sitemap: {"ignore": true}
+  sitemap: {"ignore": true},
+
+  // collections: ['amplify']
 };

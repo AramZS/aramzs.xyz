@@ -177,12 +177,13 @@ PDS_PORT=3001
 </code></pre>
 <h3>Creating Accounts</h3>
 <p>The account creation process is similar to the documented one, but I had to make one change to the script to get it working:</p>
-<pre><code># Ensure the user is root, since it's required for most commands.
-# if [[ "${EUID}" -ne 0 ]]; then
+```
+# Ensure the user is root, since it's required for most commands (no spaces between brackets).
+# if [ [ "${EUID}" -ne 0 ] ]; then
 #   echo "ERROR: This script must be run as root"
 #   exit 1
 # fi
-</code></pre>
+```
 <p>I'm not running the script as root and don't need to, so I commented that out.</p>
 <p>Now I can create account commands like this:</p>
 <pre><code>CURL_CA_BUNDLE=$(pwd)/caddy/pki/authorities/pyroclastic/root.crt PDS_ENV_FILE=$(pwd)/.pds.env ./pdsadmin.sh account create masonthedog@pds.pyroclastic.cloud masonthedog.pyroclastic.cloud

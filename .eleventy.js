@@ -78,7 +78,7 @@ module.exports = function (eleventyConfig) {
 	// Install Plugins
 	//
   // This plugin isn't doing anything. 
-  eleventyConfig.addPlugin(pluginDrafts);
+  // eleventyConfig.addPlugin(pluginDrafts);
 	eleventyConfig.addPlugin(require("@rknightuk/eleventy-plugin-post-graph"), {
 		boxColor: "var(--background-muted)",
 		highlightColor: "var(--accent)",
@@ -115,9 +115,9 @@ module.exports = function (eleventyConfig) {
 			defaultLayout: "layouts/embed.liquid",
 		}
 	);
-
+import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) => {
 	eleventyConfig.addPlugin(
-		require("@photogabble/eleventy-plugin-font-subsetting"),
+		fontSubsetter,
 		{
 			srcFiles: [
 				`./public/fonts/iosevka-etoile-regular.woff2`,
@@ -130,6 +130,7 @@ module.exports = function (eleventyConfig) {
 			cache: new ObjectCache("font-subsetting"),
 		}
 	);
+});
 
 	eleventyConfig.addPlugin(
 		require("@photogabble/eleventy-plugin-tag-normaliser"),
@@ -311,37 +312,26 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add("src/content/amplify/2020/**");
   eleventyConfig.ignores.add("src/content/amplify/2021/**");
   eleventyConfig.ignores.add("src/content/amplify/2022/**");
-  // Dev Time Build Ignores 
-  if (process.env.IS_LOCAL === "true"){
-
   eleventyConfig.ignores.add("src/content/amplify/2023/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/01/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/02/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/03/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/04/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/05/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/06/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/07/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/08/**")
-    eleventyConfig.ignores.add("src/content/amplify/2024/09/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/10/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/11/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/12/**");
+  eleventyConfig.ignores.add("src/content/amplify/2024/**");
+  // eleventyConfig.ignores.add("src/content/amplify/2025/0*/**");
+  eleventyConfig.ignores.add("src/content/amplify/2025/01/**");
+  eleventyConfig.ignores.add("src/content/amplify/2025/02/**");
+  eleventyConfig.ignores.add("src/content/amplify/2025/03/**");
+  eleventyConfig.ignores.add("src/content/amplify/2025/04/**");
+  eleventyConfig.ignores.add("src/content/amplify/2025/05/**");
+  eleventyConfig.ignores.add("src/content/amplify/2025/06/**");
+  eleventyConfig.ignores.add("src/content/amplify/2025/07/**");
+  eleventyConfig.ignores.add("src/content/amplify/2025/08/**");
+  eleventyConfig.ignores.add("src/content/amplify/2025/09/0*/**");
+  eleventyConfig.ignores.add("src/content/amplify/2025/09/1*/**");
+  // Dev Time Build Ignores
+  if (process.env.IS_LOCAL === "true"){
     //eleventyConfig.ignores.add("src/content/resources/film/[e-t]**");
     //eleventyConfig.ignores.add("src/content/resources/film/b[u-z]**");
     eleventyConfig.ignores.add("src/content/resources/film/t**");
   } else {
-    eleventyConfig.ignores.add("src/content/amplify/2023/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/01/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/02/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/03/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/04/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/05/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/06/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/07/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/08/**")
-    eleventyConfig.ignores.add("src/content/amplify/2024/09/**");
-    eleventyConfig.ignores.add("src/content/amplify/2024/10/**");    
+
   }
 
 	//
@@ -366,7 +356,7 @@ module.exports = function (eleventyConfig) {
 	//
 
 	eleventyConfig.setLibrary("md", require("./lib/helpers/markdown"));
-
+  eleventyConfig.setFreezeReservedData(false)
 
   eleventyConfig.on('eleventy.after', async ({ dir, results, runMode, outputMode }) => {
     // Run me after the build ends

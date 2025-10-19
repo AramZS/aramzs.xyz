@@ -2,7 +2,7 @@
 package = "netlify-plugin-cache"
 
 [plugins.inputs]
-paths = [".cache"]
+paths = [".cache", "_site/amplify", "_site/quotes"]
 
 [[plugins]]
 package = "@netlify/plugin-local-install-core"
@@ -38,3 +38,6 @@ paths = [
   '[DIRSUB]/!(amplify)/**/*.html',
   '[DIRSUB]/*.html',
 ]
+
+[build.environment]
+NODE_VERSION = "22"

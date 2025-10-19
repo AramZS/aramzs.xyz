@@ -10,7 +10,7 @@ description: >-
 isBasedOn: 'https://www.bbc.com/news/articles/cj4wyex9zd5o'
 link: 'https://www.bbc.com/news/articles/cj4wyex9zd5o'
 slug: 2025-09-07-httpswwwbbccomnewsarticlescj4wyex9zd5o
-tags: ['politics','baselines']
+tags: ['politics', 'culture', 'baselines']
 title: White House to host UFC fight night on 4 July
 ---
 <p>11 hours ago</p>

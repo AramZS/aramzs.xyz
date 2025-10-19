@@ -1,7 +1,6 @@
 ---
 title: Growth Stage
 draft: false
-cover_image: /img/test.png
 issueUri: https://github.com/photogabble/website/issues/208
 growthStage: evergreen
 description: Internal site terminology for the growth stage of a post.
