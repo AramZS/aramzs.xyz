@@ -2,7 +2,7 @@
 package = "netlify-plugin-cache"
 
 [plugins.inputs]
-paths = [".cache"]
+paths = [".cache", "_site/amplify", "_site/quotes"]
 
 [[plugins]]
 package = "@netlify/plugin-local-install-core"
