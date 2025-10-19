@@ -1,0 +1,43 @@
+---
+author: Melody Schreiber
+cover_image: >-
+  https://i.guim.co.uk/img/media/7d1d936b22c00e7cb731a6d5beb6aa1ef75e9897/526_0_5261_4209/master/5261.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=013dae8832fb5730212bbbd3297993ed
+date: '2025-10-17T03:25:46.505Z'
+dateFolder: 2025/10/16
+description: >-
+  Entire offices erased at health agency in Friday move before Trump
+  administration says 700 notices were sent in error
+isBasedOn: 'https://www.theguardian.com/us-news/2025/oct/14/cdc-job-cuts-partial-reversal'
+link: 'https://www.theguardian.com/us-news/2025/oct/14/cdc-job-cuts-partial-reversal'
+slug: 2025-10-16-httpswwwtheguardiancomus-news2025oct14cdc-job-cuts-partial-reversal
+tags:
+  - health
+  - science
+  - politics
+  - baselines
+title: '‘Instability and confusion’ as CDC slashes 1,300 jobs before reinstating half'
+---
+<figure><picture><source media="(min-width: 980px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 980px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/7d1d936b22c00e7cb731a6d5beb6aa1ef75e9897/526_0_5261_4209/master/5261.jpg?width=620&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 980px)" srcset="https://i.guim.co.uk/img/media/7d1d936b22c00e7cb731a6d5beb6aa1ef75e9897/526_0_5261_4209/master/5261.jpg?width=620&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 740px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 740px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/7d1d936b22c00e7cb731a6d5beb6aa1ef75e9897/526_0_5261_4209/master/5261.jpg?width=700&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 740px)" srcset="https://i.guim.co.uk/img/media/7d1d936b22c00e7cb731a6d5beb6aa1ef75e9897/526_0_5261_4209/master/5261.jpg?width=700&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 660px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 660px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/7d1d936b22c00e7cb731a6d5beb6aa1ef75e9897/526_0_5261_4209/master/5261.jpg?width=620&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 660px)" srcset="https://i.guim.co.uk/img/media/7d1d936b22c00e7cb731a6d5beb6aa1ef75e9897/526_0_5261_4209/master/5261.jpg?width=620&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 480px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/7d1d936b22c00e7cb731a6d5beb6aa1ef75e9897/526_0_5261_4209/master/5261.jpg?width=645&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 480px)" srcset="https://i.guim.co.uk/img/media/7d1d936b22c00e7cb731a6d5beb6aa1ef75e9897/526_0_5261_4209/master/5261.jpg?width=645&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 320px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 320px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/7d1d936b22c00e7cb731a6d5beb6aa1ef75e9897/526_0_5261_4209/master/5261.jpg?width=465&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 320px)" srcset="https://i.guim.co.uk/img/media/7d1d936b22c00e7cb731a6d5beb6aa1ef75e9897/526_0_5261_4209/master/5261.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none"/><img alt="buildings with a cdc sign" src="https://i.guim.co.uk/img/media/7d1d936b22c00e7cb731a6d5beb6aa1ef75e9897/526_0_5261_4209/master/5261.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none"/></picture><figcaption data-spacefinder-role="inline">The main campus of the Centers for Disease Control and Prevention (CDC) in Atlanta, Georgia. Photograph: Alyssa Pointer/Reuters</figcaption></figure>
+<h2 data-gu-name="standfirst">Entire offices erased at health agency in Friday move before Trump administration says 700 notices were sent in error</h2>
+<p>More than a thousand employees at the US Centers for Disease Control and Prevention (CDC) received notice that they were losing their jobs on Friday in a move that erased entire offices and was <a data-link-name="in body link" href="https://www.theguardian.com/us-news/2025/oct/13/firings-cdc-employees-reversed">partially reversed</a> over the weekend.</p>
+<p>It caused “instability and whiplash”, said <a data-link-name="in body link" href="https://www.theguardian.com/us-news/2025/oct/04/cdc-rfk-jr-infectious-disease-testimony">Debra Houry</a>, former chief medical officer at the CDC.</p>
+<p>About 700 reduction in force (RIF) notifications were sent to employees in error, the <a data-link-name="in body link" href="https://www.theguardian.com/us-news/trump-administration">Trump administration</a> <a data-link-name="in body link" href="https://www.nytimes.com/2025/10/11/health/cdc-layoffs-measles.html">reportedly</a> says, though there does not seem to be public evidence of an error. Another 600 terminated employees have not been reinstated.</p>
+<p>“It seems like they just took a sledgehammer to the agency versus a scalpel,” Houry said. “The fact they brought half back already just shows they didn’t think through what they were doing.”</p>
+<p>The entire staff of the Morbidity and Mortality Weekly Report (MMWR), a highly respected epidemiology journal, were terminated and then reinstated. So were employees working on global health and suicide prevention, as well as “disease detectives” and staff at the National Center for Immunization and Respiratory Diseases.</p>
+<p>But the entire human resources department is still gone, which will affect operations of the entire agency.</p>
+<p>The Washington office is still cut, which “makes it difficult to communicate with Congress”, since they were the main channel for congressional inquiries, Houry said.</p>
+<p>Staff with the CDC’s institutional review board, which reviews the design of studies, and the ethics office and oversees all conflicts and interests for CDC leaders and advisory committee members, were also let go.</p>
+<p>In the next 30 days, some science protocols will be up for renewal by the institutional review board.</p>
+<p>“They’ll have to be shut down,” Houry said.</p>
+<p>The National Center for Health Statistics was hit hard, with cuts to the staff working on nutrition surveys and electronic health records, and employees in the science office were laid off. The program offering assistance to employees was also cut. These workers provided mental health support, especially amid waves of layoffs and after a mass shooting two months ago that killed a police officer, David Rose, and shook the agency.</p>
+<p>“That is no longer available,” Houry said.</p>
+<p>Many people from the data office and the Center for Forecasting and Outbreak Analytics were also terminated, which will affect the CDC’s ability to inform the public about outbreaks.</p>
+<p>Houry is not convinced that the rescinded notices were a coding error; she believes the jobs may have been reinstated after public outcry.</p>
+<p>In the past, a few people were laid off by accident because they had recently changed jobs or there was an error in how their jobs were coded, so they accidentally received automated termination notices.</p>
+<p>“It usually doesn’t impact hundreds of people,” she said. “When you do look at what has been reinstated so far, it does seem like it was the things that had the most attention to it.”</p>
+<p>The HHS did not respond to the Guardian’s questions by press time about why some CDC employees received notice they were being reinstated and whether officials had documentation of an error.</p>
+<p>Since the start of the <a data-component="auto-linked-tag" data-link-name="in body link" href="https://www.theguardian.com/us-news/trump-administration">Trump administration</a>, thousands of people have left the CDC because of terminations, retirements, layoffs and job changes. Leaders asked their employees to report when they received notices, because they were not informed or part of the process.</p>
+<p>“The cuts this weekend just didn’t seem like there was any thought behind it,” Houry said. “The capacity to respond to an outbreak or to communities is hampered.”</p>
+<p>Measles, for example, continues spreading across the country in the worst outbreak in three decades – and if it continues for the next few months, the US will lose its elimination status.</p>
+<p>“We really need Congress to ask questions about how these RIFs happened, particularly when these are for appropriated [budget] lines. The CDC really needs congressional public support at this point,” Houry said.</p>
+<p>“The CDC takes care of the public. We need the public to take care of the CDC.”</p>

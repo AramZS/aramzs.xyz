@@ -1,0 +1,31 @@
+---
+author: Status
+cover_image: >-
+  https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/0d6a4cc2-353f-439b-babb-19572218e55c/GettyImages-1411727118-2.jpg?t=1755820782
+date: '2025-10-17T03:31:54.230Z'
+dateFolder: 2025/10/16
+description: >-
+  In her farewell note, CBS News’ standards chief alluded to the reason for her
+  departure—but in private, she was more blunt about the motive behind her exit,
+  Status has learned. 
+isBasedOn: 'https://www.status.news/p/cbs-news-claudia-milne-bari-weiss'
+link: 'https://www.status.news/p/cbs-news-claudia-milne-bari-weiss'
+slug: 2025-10-16-httpswwwstatusnewspcbs-news-claudia-milne-bari-weiss
+tags:
+  - media
+title: CBS’ Standards Deduction
+---
+<p>In her farewell note, CBS News’ standards chief alluded to the reason for her departure—but in private, she was more blunt about the motive behind her exit, Status has learned.</p>
+<figure><picture><source media="(max-width: 360px) and (min-resolution: 2dppx)" srcset="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,width=720,onerror=redirect/uploads/asset/file/0d6a4cc2-353f-439b-babb-19572218e55c/GettyImages-1411727118-2.jpg 2x"/><source media="(max-width: 360px)" srcset="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,width=360,onerror=redirect/uploads/asset/file/0d6a4cc2-353f-439b-babb-19572218e55c/GettyImages-1411727118-2.jpg 1x"/><source media="(max-width: 430px) and (min-resolution: 2dppx)" srcset="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,width=860,onerror=redirect/uploads/asset/file/0d6a4cc2-353f-439b-babb-19572218e55c/GettyImages-1411727118-2.jpg 2x"/><source media="(max-width: 430px)" srcset="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,width=430,onerror=redirect/uploads/asset/file/0d6a4cc2-353f-439b-babb-19572218e55c/GettyImages-1411727118-2.jpg 1x"/><img alt="" src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/0d6a4cc2-353f-439b-babb-19572218e55c/GettyImages-1411727118-2.jpg"/></picture><figcaption>CBS Television City in Los Angeles. (Photo via JHVEPhoto/Getty Images)</figcaption></figure>
+<p>On Thursday morning, <strong>CBS News</strong> staffers opened their inboxes to find a surprise message with major news. <strong>Claudia Milne</strong>, the veteran journalist who has led CBS News’ standards and practices division since 2021, was announcing her departure from the network. In her note to colleagues, Milne called it a “privilege” to serve in the role, writing that she had “watched with awe and pride at the care and attention you all take to tell your stories, uphold the values of CBS News, and show the audience our world.”</p>
+<p>"We live in complicated times. For our company, for our industry and for our country," Milne wrote, as <a href="https://variety.com/2025/tv/news/cbs-news-standards-chief-exit-claudia-milne-1236554051/">first reported</a> by <strong>Variety's Brian Steinberg</strong>. "And it’s times like this that what we do matters most."</p>
+<p><strong>The rest of this story is for paid subscribers only.</strong></p>
+<p><strong>Scoop-driven reporting and sharp-edged analysis. See why The Wall Street Journal declared Status a “must-read.”</strong></p>
+<figure><picture><source media="(max-width: 360px) and (min-resolution: 2dppx)" srcset="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,width=720,onerror=redirect/uploads/asset/file/575f1be9-72ef-4a49-b5f2-f92511d9d2aa/CNN___Photo_by_Dimitrios_Kambouris_Getty_Images_for_Warner_Bros._Discovery_.jpg 2x"/><source media="(max-width: 360px)" srcset="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,width=360,onerror=redirect/uploads/asset/file/575f1be9-72ef-4a49-b5f2-f92511d9d2aa/CNN___Photo_by_Dimitrios_Kambouris_Getty_Images_for_Warner_Bros._Discovery_.jpg 1x"/><source media="(max-width: 430px) and (min-resolution: 2dppx)" srcset="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,width=860,onerror=redirect/uploads/asset/file/575f1be9-72ef-4a49-b5f2-f92511d9d2aa/CNN___Photo_by_Dimitrios_Kambouris_Getty_Images_for_Warner_Bros._Discovery_.jpg 2x"/><source media="(max-width: 430px)" srcset="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,width=430,onerror=redirect/uploads/asset/file/575f1be9-72ef-4a49-b5f2-f92511d9d2aa/CNN___Photo_by_Dimitrios_Kambouris_Getty_Images_for_Warner_Bros._Discovery_.jpg 1x"/><img alt="" src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/575f1be9-72ef-4a49-b5f2-f92511d9d2aa/CNN___Photo_by_Dimitrios_Kambouris_Getty_Images_for_Warner_Bros._Discovery_.jpg"/></picture><figcaption>CNN boss Mark Thompson. (Photo by Dimitrios Kambouris/Getty Images for Warner Bros. Discovery)</figcaption></figure>
+<p><strong><em>CNN’s Second Streamer:</em></strong> Here we go again! <strong>CNN</strong> on Thursday <a href="https://variety.com/2025/tv/news/cnn-streaming-subscription-launch-6-99-per-month-1236554428/">announced that</a> it will officially launch its second attempt at a standalone streamer on October 28, confirming <a href="https://www.status.news/p/cnn-streaming-service-launch-date">our previous reporting</a> that the <strong>Mark Thompson</strong>-led organization was targeting this month for its release. The subscription product, which comes more than three years after <strong>Warner Bros. Discovery </strong>shuttered <strong>CNN+ </strong>in its infancy, is set to..</p>
+<h3><strong>The remainder of this newsletter is for paid subscribers only.</strong></h3>
+<h3><strong>Scoop-driven reporting and sharp-edged analysis. See why thousands of industry professionals rely on </strong><strong><em>Status</em></strong><strong>.</strong></h3>
+<p>A subscription gets you full access to our nightly newsletter, which includes:</p>
+<p>✅ Essential reporting on and analysis of the Fourth Estate, Silicon Valley, Hollywood, the Information Wars, and more.</p>
+<p>✅ Hand-curated links to the most consequential stories moving the needle in the key corridors of the industry.</p>
+<p>✅ Unlimited access to our online archive where you can read previous editions of the newsletter.</p>

@@ -1,0 +1,39 @@
+---
+author: Nicholas Fandos
+cover_image: >-
+  https://static01.nyt.com/images/2025/10/16/multimedia/16met-young-republicans-01-tkbf/16met-young-republicans-01-tkbf-facebookJumbo.jpg
+date: '2025-10-17T12:50:28.917Z'
+dateFolder: 2025/10/17
+description: >-
+  State party leaders are expected to eliminate the charter of the Young
+  Republicans group, allowing them to reconstitute the organization with new
+  leaders.
+isBasedOn: >-
+  https://www.nytimes.com/2025/10/16/nyregion/ny-young-republicans-racist-texts.html?smid=bsky-nytimes&smtyp=cur
+link: >-
+  https://www.nytimes.com/2025/10/16/nyregion/ny-young-republicans-racist-texts.html?smid=bsky-nytimes&smtyp=cur
+slug: >-
+  2025-10-17-httpswwwnytimescom20251016nyregionny-young-republicans-racist-textshtmlsmidbsky-nytimesandsmtypcur
+tags:
+  - politics
+title: 'After Racist Texts, New York G.O.P. Is Set to Disband Young Republicans'
+---
+<p><a data-testid="tlogo-home-link" href="https://www.nytimes.com/"><figure></figure></a></p>
+<p>State party leaders are expected to eliminate the charter of the Young Republicans group, allowing them to reconstitute the organization with new leaders.</p>
+<figure><audio src="https://static.nytimes.com/narrated-articles/synthetic/article-bc6289c5-d216-5341-8059-4645da42253a/job-1760650261532/article-bc6289c5-d216-5341-8059-4645da42253a-job-1760650261532.mp3"></audio></figure>
+<figure><picture><source media="(max-width: 599px) and (min-device-pixel-ratio: 3),(max-width: 599px) and (min-resolution: 3dppx),(max-width: 599px) and (min-resolution: 288dpi)" srcset="https://static01.nyt.com/images/2025/10/16/multimedia/16met-young-republicans-01-tkbf/16met-young-republicans-01-tkbf-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1800"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 2),(max-width: 599px) and (min-resolution: 2dppx),(max-width: 599px) and (min-resolution: 192dpi)" srcset="https://static01.nyt.com/images/2025/10/16/multimedia/16met-young-republicans-01-tkbf/16met-young-republicans-01-tkbf-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1200"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 1),(max-width: 599px) and (min-resolution: 1dppx),(max-width: 599px) and (min-resolution: 96dpi)" srcset="https://static01.nyt.com/images/2025/10/16/multimedia/16met-young-republicans-01-tkbf/16met-young-republicans-01-tkbf-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600"/><img alt="Representative Elise Stefanik gestures as she speaks at a lectern, with men in the background." sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 60vw, 100vw" src="https://static01.nyt.com/images/2025/10/16/multimedia/16met-young-republicans-01-tkbf/16met-young-republicans-01-tkbf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" srcset="https://static01.nyt.com/images/2025/10/16/multimedia/16met-young-republicans-01-tkbf/16met-young-republicans-01-tkbf-articleLarge.jpg?quality=75&amp;auto=webp 600w,https://static01.nyt.com/images/2025/10/16/multimedia/16met-young-republicans-01-tkbf/16met-young-republicans-01-tkbf-jumbo.jpg?quality=75&amp;auto=webp 1024w,https://static01.nyt.com/images/2025/10/16/multimedia/16met-young-republicans-01-tkbf/16met-young-republicans-01-tkbf-superJumbo.jpg?quality=75&amp;auto=webp 2048w"/></picture><figcaption>Representative Elise Stefanik called the texts by members of the Young Republicans reprehensible. Credit: Cindy Schultz for The New York Times</figcaption></figure>
+<p><i><figure><a href="https://www.nytimes.com/by/benjamin-oreskes"><img alt="Benjamin Oreskes" src="https://static01.nyt.com/images/2024/10/02/reader-center/author-benjamin-oreskes/author-benjamin-oreskes-thumbLarge.png"/></a></figure><figure><a href="https://www.nytimes.com/by/nicholas-fandos"><img alt="Nicholas Fandos" src="https://static01.nyt.com/images/2018/11/06/multimedia/author-nicholas-fandos/author-nicholas-fandos-thumbLarge-v2.png"/></a></figure><p><i>By </i><a href="https://www.nytimes.com/by/benjamin-oreskes">Benjamin Oreskes</a> and <a href="https://www.nytimes.com/by/nicholas-fandos">Nicholas Fandos</a></p></i></p>
+<p>After racist texts among members of the New York State Young Republicans were made public, the party’s state leaders were slated to meet Friday and vote to disband the group, three people familiar with the matter said.</p>
+<p>The planned vote comes days after <a href="https://www.politico.com/news/2025/10/14/private-chat-among-young-gop-club-members-00592146?experience_id=EXYF89KVT5UQ&amp;template_id=OTJIR2CRKUD6&amp;variant_id=OTV632IE7RALS&amp;is_login_link=true">Politico</a> disclosed how leaders of Young Republican groups across the country exchanged messages that included racist and antisemitic comments, with some participants’ discourse including comments about raping their political enemies and placing them in gas chambers.</p>
+<p>Several members of the New York State Young Republicans — including a recent chair and vice chair — were part of the chat and made offensive comments sent over Telegram.</p>
+<p>One state Republican official, who spoke on condition of anonymity, said the effort to disband the group, which was first <a href="https://www.newsday.com/news/region-state/new-york-state-young-republicans-cvbh3yxp">reported</a> by Newsday, would allow for a fresh start. By eliminating the group’s charter, the official said, Republican officials can reconstitute it and then bring in new leadership.</p>
+<p>Jason Weingartner, the state party’s executive director, declined to comment on the planned action.</p>
+<p>Peter Giunta, who previously served as the state’s club president and was part of the chats, lost his job this week as chief of staff to a state senator. <a href="https://www.politico.com/news/2025/10/15/new-york-dems-newest-political-cudgel-the-hate-laced-young-republican-chat-00611022">Three other members of the club</a> who participated in the chats lost their jobs as well.</p>
+<p>Prominent politicians from both parties condemned the conversations, which The New York Times has not seen.</p>
+<p>“Everyone from the president down must forcefully condemn this,” Gov. Kathy Hochul, a Democrat, said on social media in response to Vice President JD Vance’s refusal to call out the behavior.</p>
+<p>Two prominent New York Republicans — Representatives Elise Stefanik and Mike Lawler — called the messages reprehensible, though Ms. Stefanik later characterized the Politico article as a “hit piece.”</p>
+<p>The executive board of the Young Republican National Federation, which is made up of thousands of members between the ages of 18 and 40, called the messages “vile and inexcusable.”</p>
+<p>“Those involved must immediately resign from all positions within their state and local Young Republican organizations,” the group said. “We must hold ourselves to the highest standards of integrity, respect and professionalism.”</p>
+<p>Republican leaders in Kansas had earlier <a href="https://www.kansascity.com/news/politics-government/article312507806.html">disbanded</a> that state’s Young Republicans group.</p>
+<p>Before these messages became public, New York’s chapter had been rocked by infighting and budgetary challenges. The New York chapter has missed submitting numerous financial filings, and Politico reported last month that <a href="https://www.politico.com/newsletters/new-york-playbook-pm/2025/09/26/peter-giunta-new-york-state-young-republicans-financials-00582743">the group owed thousands o</a>f dollars in unpaid bills.</p>
+<p>“Too many Republicans seem willing to call out violent rhetoric only when it comes from the other side. But these same Republicans never seem willing to denounce it when it comes from their own ranks, and that’s dangerous. Violent political rhetoric is an attack on everyone,” Senator Chuck Schumer said Wednesday.</p>
