@@ -323,6 +323,7 @@ import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) 
   eleventyConfig.ignores.add("src/content/amplify/2025/06/**");
   eleventyConfig.ignores.add("src/content/amplify/2025/07/**");
   eleventyConfig.ignores.add("src/content/amplify/2025/08/**");
+  eleventyConfig.ignores.add("src/content/amplify/2025/09/0*");
   // Dev Time Build Ignores
   if (process.env.IS_LOCAL === "true"){
     //eleventyConfig.ignores.add("src/content/resources/film/[e-t]**");
