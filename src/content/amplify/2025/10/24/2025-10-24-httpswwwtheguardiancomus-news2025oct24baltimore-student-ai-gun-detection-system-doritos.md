@@ -1,0 +1,33 @@
+---
+author: Guardian staff
+cover_image: >-
+  https://i.guim.co.uk/img/media/39bb32b5aae7882f8170989f893fbab99e7a65b8/0_126_2339_1871/master/2339.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f220c666d9aae5e34ac66064eb2e9df1
+date: '2025-10-24T20:49:00.809Z'
+dateFolder: 2025/10/24
+description: >-
+  Baltimore county high schools have gun detection system that alerts police if
+  it sees what it deems suspicious
+isBasedOn: >-
+  https://www.theguardian.com/us-news/2025/oct/24/baltimore-student-ai-gun-detection-system-doritos
+link: >-
+  https://www.theguardian.com/us-news/2025/oct/24/baltimore-student-ai-gun-detection-system-doritos
+slug: >-
+  2025-10-24-httpswwwtheguardiancomus-news2025oct24baltimore-student-ai-gun-detection-system-doritos
+tags:
+  - ai
+  - guns
+title: >-
+  US student handcuffed after AI system apparently mistook bag of chips for
+  firearm
+---
+<figure><picture><source media="(min-width: 980px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 980px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/39bb32b5aae7882f8170989f893fbab99e7a65b8/0_126_2339_1871/master/2339.jpg?width=620&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 980px)" srcset="https://i.guim.co.uk/img/media/39bb32b5aae7882f8170989f893fbab99e7a65b8/0_126_2339_1871/master/2339.jpg?width=620&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 740px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 740px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/39bb32b5aae7882f8170989f893fbab99e7a65b8/0_126_2339_1871/master/2339.jpg?width=700&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 740px)" srcset="https://i.guim.co.uk/img/media/39bb32b5aae7882f8170989f893fbab99e7a65b8/0_126_2339_1871/master/2339.jpg?width=700&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 660px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 660px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/39bb32b5aae7882f8170989f893fbab99e7a65b8/0_126_2339_1871/master/2339.jpg?width=620&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 660px)" srcset="https://i.guim.co.uk/img/media/39bb32b5aae7882f8170989f893fbab99e7a65b8/0_126_2339_1871/master/2339.jpg?width=620&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 480px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/39bb32b5aae7882f8170989f893fbab99e7a65b8/0_126_2339_1871/master/2339.jpg?width=645&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 480px)" srcset="https://i.guim.co.uk/img/media/39bb32b5aae7882f8170989f893fbab99e7a65b8/0_126_2339_1871/master/2339.jpg?width=645&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 320px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 320px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/39bb32b5aae7882f8170989f893fbab99e7a65b8/0_126_2339_1871/master/2339.jpg?width=465&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 320px)" srcset="https://i.guim.co.uk/img/media/39bb32b5aae7882f8170989f893fbab99e7a65b8/0_126_2339_1871/master/2339.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none"/><img alt="baltimore police cars parked outside" src="https://i.guim.co.uk/img/media/39bb32b5aae7882f8170989f893fbab99e7a65b8/0_126_2339_1871/master/2339.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none"/></picture><figcaption data-spacefinder-role="inline">Taki Allen said law enforcement made him get on his knees, handcuffed and searched him, finding nothing. Photograph: Baltimore Sun/TNS/Getty Images</figcaption></figure>
+<h2 data-gu-name="standfirst">Baltimore county high schools have gun detection system that alerts police if it sees what it deems suspicious</h2>
+<p>An <a data-link-name="in body link" href="https://www.theguardian.com/technology/artificialintelligenceai">artificial intelligence system</a> (AI) apparently mistook a high school student’s bag of Doritos for a firearm and called local police to tell them the pupil was armed.</p>
+<p>Taki Allen was sitting with friends on Monday night outside Kenwood high school in <a data-link-name="in body link" href="https://www.theguardian.com/us-news/baltimore">Baltimore</a> and eating a snack when police officers with guns approached him.</p>
+<p>“At first, I didn’t know where they were going until they started walking toward me with guns, talking about, ‘Get on the ground,’ and I was like, ‘What?’” Allen <a data-link-name="in body link" href="https://www.wbaltv.com/article/student-handcuffed-ai-system-mistook-bag-chips-weapon/69114601">told the WBAL-TV 11 News</a> television station.</p>
+<p>Allen <a data-link-name="in body link" href="https://www.wbaltv.com/article/student-handcuffed-ai-system-mistook-bag-chips-weapon/69114601">said</a> they made him get on his knees, handcuffed and searched him – finding nothing. They then showed him a copy of the picture that had triggered the alert.</p>
+<p>“I was just holding a Doritos bag – it was two hands and one finger out, and they said it looked like a gun,” Allen said.</p>
+<p>Baltimore county high schools last year began using a gun detection system using school cameras and AI to detect potential weapons. If it spots something it believes to be suspicious, it sends an alert to the school and law enforcement.</p>
+<p>In a letter to school families obtained by WBAL TV 11 News, the school <a data-link-name="in body link" href="https://www.wbaltv.com/article/student-handcuffed-ai-system-mistook-bag-chips-weapon/69114601">wrote</a>: “We understand how upsetting this was for the individual that was searched as well as the other students who witnessed the incident. Our counselors will provide direct support to the students who were involved in this incident and are also available to speak with any student who may need support.”</p>
+<p>Baltimore county police <a data-link-name="in body link" href="https://www.wbaltv.com/article/student-handcuffed-ai-system-mistook-bag-chips-weapon/69114601">told the outlet</a>: “Officers assigned to Precinct 11-Essex responded to Kenwood High School following a report of a suspicious person with a weapon. Once on scene, the person was searched and it was determined the subject was not in possession of any weapons.”</p>
+<p>Lamont Davis, Allen’s grandfather, told the television station: “Nobody wants this to happen to their child. No one wants this to happen.”</p>
