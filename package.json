@@ -8,7 +8,7 @@
     "serve:basic-dev": "rm -rf _site && npx eleventy --serve | tee ./buildlog.txt",
     "serve:perf-dev": "rm -rf _site && DEBUG=Eleventy:Benchmark* npx @11ty/eleventy --serve",
     "serve:prod": "rm -rf _site && cross-env ELEVENTY_ENV=production eleventy --serve",
-    "build": "NODE_OPTIONS=\"--max_old_space_size=4096\" cross-env ELEVENTY_ENV=production --max-old-space-size=4096 eleventy --incremental",
+    "build": "export NODE_OPTIONS=\"--max-old-space-size=8192\" && npx @11ty/eleventy --incremental",
     "build:dev": "rm -rf _site && cross-env ELEVENTY_ENV=development DEBUG=Eleventy* eleventy > ./buildlog.txt",
     "og-images": "node ./bin/create-og-images.js",
     "make:bookmark": "node ./bin/add-bookmark.js",
