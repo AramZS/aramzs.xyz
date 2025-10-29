@@ -113,6 +113,7 @@ module.exports = function (eleventyConfig) {
 		require("@photogabble/eleventy-plugin-interlinker"),
 		{
 			defaultLayout: "layouts/embed.liquid",
+      deadLinkReport: "none"
 		}
 	);
 import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) => {
