@@ -10,7 +10,7 @@ description: >-
 isBasedOn: 'https://www.nature.com/articles/d41586-025-02416-x'
 link: 'https://www.nature.com/articles/d41586-025-02416-x'
 slug: 2025-10-23-httpswwwnaturecomarticlesd41586-025-02416-x
-tags: []
+tags: ['science', 'academia']
 title: These nations are wooing PhD students amid US funding uncertainties
 ---
 <p>Pauses to some US graduate programmes have led universities in several countries to launch initiatives to entice would-be PhD students.</p>

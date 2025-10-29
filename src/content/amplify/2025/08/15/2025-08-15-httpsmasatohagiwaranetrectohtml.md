@@ -48,8 +48,8 @@ title: Recto — a truly 2D language
 <p>Recto is a programming language prototype that explores how code can live in two-dimensional space, using spatial layout not just for aesthetics, but as core syntax.</p>
 <p>In Recto, the rectangle (or <em>rect</em>) is the core syntactic and structural unit. A rect defines a region in 2D space that can contain elements: symbols, values, or other rects. These nested rects are how Recto encodes recursive structure visually and spatially.</p>
 <p>One immediate advantage of this approach is the natural representation of common data structures like lists, column vectors, and matrices. In conventional 1D languages, structures like matrices or tensors are typically represented using nested lists or indentation—for example:</p>
-<pre><code>tensor([[1, 2],
-        [3, 4]])
+<pre><code>tensor(&lsqb;&lsqb;1, 2],
+        [3, 4&rsqb;&rsqb;)
 </code></pre>
 <p>While this works, it’s still fundamentally a linear serialization of 2D data. Recto, by contrast, treats spatial layout as a first-class part of its syntax and semantics. The 2D structure isn't just visual formatting—it’s how meaning and relationships are encoded.</p>
 <p>This is particularly powerful in fields like linear algebra, computer graphics, and machine learning, where multi-dimensional data is fundamental.</p>

@@ -10,7 +10,7 @@ description: >-
 isBasedOn: 'https://www.nature.com/articles/d41586-025-01900-8'
 link: 'https://www.nature.com/articles/d41586-025-01900-8'
 slug: 2025-10-23-httpswwwnaturecomarticlesd41586-025-01900-8
-tags: []
+tags: ['science', 'academia', 'baselines']
 title: Meet the early career scientists planning to leave the United States
 ---
 <p>Decreased funding, reduced opportunities and growing uncertainty has made life tough for international postdocs living in the US.</p>

@@ -117,7 +117,7 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#663399,standout"
 
 #-------- Global Alias {{{
 globalias() {
-  if [[ $LBUFFER =~ '[a-zA-Z0-9]+$' ]]; then
+  if &lsqb;&lsqb; $LBUFFER =~ '[a-zA-Z0-9]+$' &rsqb;&rsqb;; then
     zle _expand_alias
     zle expand-word
   fi
@@ -126,7 +126,7 @@ globalias() {
 zle -N globalias
 bindkey " " globalias                 # space key to expand globalalias
 # bindkey "^ " magic-space            # control-space to bypass completion
-bindkey "^[[Z" magic-space            # shift-tab to bypass completion
+bindkey "^&lsqb;&lsqb;Z" magic-space            # shift-tab to bypass completion
 bindkey -M isearch " " magic-space    # normal space during searches
 . ~/.zsh_aliases
 #}}}
@@ -199,7 +199,7 @@ ZSH_AUTOSUGGEST_USE_ASYNC=1
 
 # Alias expansion function
 globalias() {
-   if [[ $LBUFFER =~ '[a-zA-Z0-9]+$' ]]; then
+   if &lsqb;&lsqb; $LBUFFER =~ '[a-zA-Z0-9]+$' &rsqb;&rsqb;; then
        zle _expand_alias
        zle expand-word
    fi
@@ -207,7 +207,7 @@ globalias() {
 }
 zle -N globalias
 bindkey " " globalias
-bindkey "^[[Z" magic-space
+bindkey "^&lsqb;&lsqb;Z" magic-space
 bindkey -M isearch " " magic-space
 
 # Lazy load SSH agent

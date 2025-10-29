@@ -70,14 +70,14 @@ title: Host a PDS via a Cloudflare Tunnel
 <p>The <a href="https://raw.githubusercontent.com/bluesky-social/pds/main/installer.sh">installer.sh</a> does a check to make sure you are using only a distro Bluesky has confirmed works. I have my personal account <a href="https://bsky.app/profile/baileytownsend.dev">@baileytownsend.dev</a> hosted on a VPS running Ubuntu 24.04 LTS. So I feel comfortable to say you can install and run a PDS from a newer LTS Ubuntu distro.</p>
 <p>Once you download the <a href="https://raw.githubusercontent.com/bluesky-social/pds/main/installer.sh">installer.sh</a>. You can open it in your text editor of your choice and comment out lines <code>89-114</code>. These are the lines to remove.</p>
 <pre><code>  # If the platform is unknown (not uncommon) then we assume x86_64
-  if [[ "${PLATFORM}" == "unknown" ]]; then
-  if [[ "${PLATFORM}" != "x86_64" ]] &amp;&amp; [[ "${PLATFORM}" != "aarch64" ]] &amp;&amp; [[ "${PLATFORM}" != "arm64" ]]; then
-  if [[ "${DISTRIB_ID}" == "ubuntu" ]]; then
-    if [[ "${DISTRIB_CODENAME}" == "focal" ]]; then
-    elif [[ "${DISTRIB_CODENAME}" == "jammy" ]]; then
-    elif [[ "${DISTRIB_CODENAME}" == "mantic" ]]; then
-    if [[ "${DISTRIB_CODENAME}" == "bullseye" ]]; then
-    elif [[ "${DISTRIB_CODENAME}" == "bookworm" ]]; then
+  if &lsqb;&lsqb; "${PLATFORM}" == "unknown" &rsqb;&rsqb;; then
+  if &lsqb;&lsqb; "${PLATFORM}" != "x86_64" &rsqb;&rsqb; &amp;&amp; &lsqb;&lsqb; "${PLATFORM}" != "aarch64" &rsqb;&rsqb; &amp;&amp; &lsqb;&lsqb; "${PLATFORM}" != "arm64" &rsqb;&rsqb;; then
+  if &lsqb;&lsqb; "${DISTRIB_ID}" == "ubuntu" &rsqb;&rsqb;; then
+    if &lsqb;&lsqb; "${DISTRIB_CODENAME}" == "focal" &rsqb;&rsqb;; then
+    elif &lsqb;&lsqb; "${DISTRIB_CODENAME}" == "jammy" &rsqb;&rsqb;; then
+    elif &lsqb;&lsqb; "${DISTRIB_CODENAME}" == "mantic" &rsqb;&rsqb;; then
+    if &lsqb;&lsqb; "${DISTRIB_CODENAME}" == "bullseye" &rsqb;&rsqb;; then
+    elif &lsqb;&lsqb; "${DISTRIB_CODENAME}" == "bookworm" &rsqb;&rsqb;; then
 </code></pre>
 <p>IF you see the dreaded Invalid Handle like below, don't sweat it. I'm going to give you a few tips and can always @ me on Bluesky, and we can figure it out. I got it twice today setting up PDSes, it's easy to mess up.</p>
 <figure><img alt="Picture of a profile saying invalid handle" data-nuxt-img="" src="https://baileytownsend.dev/_vercel/image?url=%2Farticle-assets%2F12%2Foh_no.jpg&amp;w=1536&amp;q=100" srcset="https://baileytownsend.dev/_vercel/image?url=%2Farticle-assets%2F12%2Foh_no.jpg&amp;w=1536&amp;q=100%201x,%20/_vercel/image?url=%2Farticle-assets%2F12%2Foh_no.jpg&amp;w=1536&amp;q=100%202x"/><figcaption>Picture of a profile saying invalid handle</figcaption></figure>

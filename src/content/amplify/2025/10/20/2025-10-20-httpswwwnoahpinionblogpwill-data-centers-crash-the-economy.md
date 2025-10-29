@@ -8,7 +8,7 @@ description: This time let's think about a financial crisis before it happens.
 isBasedOn: 'https://www.noahpinion.blog/p/will-data-centers-crash-the-economy'
 link: 'https://www.noahpinion.blog/p/will-data-centers-crash-the-economy'
 slug: 2025-10-20-httpswwwnoahpinionblogpwill-data-centers-crash-the-economy
-tags: []
+tags: ['ai']
 title: Will data centers crash the economy?
 ---
 <p><a href="https://www.noahpinion.blog/"><figure><picture><figure><img alt="Noahpinion" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!l14h!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F04281755-2cd6-42e5-a496-e69153abebb2_281x281.png"/></figure></picture></figure></a></p>
