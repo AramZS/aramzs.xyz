@@ -2,6 +2,7 @@
 layout: layouts/page.njk
 title: "AramZS.xyz Privacy Policy"
 slug: 'my-privacy-policy'
+eleventyExcludeFromCollections: true
 tags: ['internal']
 titlePrefix: "Info"
 subTitle: "Effective date: May 17, 2024"
