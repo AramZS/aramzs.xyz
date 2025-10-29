@@ -10,7 +10,7 @@ module.exports = {
   contentType: 'thought', // thought, noteworthy, essay, tutorial, project
   folder: ['writing'],
   eleventyComputed: {
-    //changes: data => getChanges(data),
+    changes: data => getChanges(data),
     permalink(data) {
       const path = data?.permalinkBase ?? data.contentType;
       const slug = data?.slug ?? this.slugify(data.title);
