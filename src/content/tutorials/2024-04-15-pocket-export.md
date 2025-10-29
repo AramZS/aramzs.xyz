@@ -7,8 +7,6 @@ tags:
   - Archiving
 hasCodePen: false
 growthStage: budding
-aliases:
-  - "Pocket Export"
 ---
 
 So I wanted to set up the Amplified type on this site. To do that I wanted to export the links from Pocket that I've saved and have them replicated here as the source of this feed. 

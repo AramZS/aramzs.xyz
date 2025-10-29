@@ -1,7 +1,6 @@
 ---
 layout: layouts/page.njk
-title: "GDPR / Privacy Policy"
-aliases: "My Privacy Policy"
+title: "AramZS.xyz Privacy Policy"
 slug: 'my-privacy-policy'
 tags: ['internal']
 titlePrefix: "Info"
