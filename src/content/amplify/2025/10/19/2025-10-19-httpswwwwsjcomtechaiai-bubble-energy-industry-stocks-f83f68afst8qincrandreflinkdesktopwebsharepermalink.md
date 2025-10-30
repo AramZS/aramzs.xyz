@@ -10,7 +10,7 @@ link: >-
   https://www.wsj.com/tech/ai/ai-bubble-energy-industry-stocks-f83f68af?st=8qiNCr&reflink=desktopwebshare_permalink
 slug: >-
   2025-10-19-httpswwwwsjcomtechaiai-bubble-energy-industry-stocks-f83f68afst8qincrandreflinkdesktopwebsharepermalink
-tags: []
-title: Paywalled wsj.com article
+tags: [energy, ai]
+title: Energy Industry Stocks
 ---
 <p>[Failed to fetch content]</p>

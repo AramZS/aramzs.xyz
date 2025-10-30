@@ -11,7 +11,7 @@ link: >-
   https://arstechnica.com/tech-policy/2025/10/feds-seize-15-billion-from-alleged-forced-labor-scam-built-on-human-suffering/
 slug: >-
   2025-10-14-httpsarstechnicacomtech-policy202510feds-seize-15-billion-from-alleged-forced-labor-scam-built-on-human-suffering
-tags: []
+tags: ['law and order']
 title: >-
   Feds seize $15 billion from alleged forced labor scam built on “human
   suffering”

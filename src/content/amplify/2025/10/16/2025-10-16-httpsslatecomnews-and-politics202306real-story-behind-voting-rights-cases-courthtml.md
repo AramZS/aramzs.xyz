@@ -11,7 +11,7 @@ link: >-
   https://slate.com/news-and-politics/2023/06/real-story-behind-voting-rights-cases-court.html
 slug: >-
   2025-10-16-httpsslatecomnews-and-politics202306real-story-behind-voting-rights-cases-courthtml
-tags: []
+tags: [politics]
 title: The Real Story of the Voting Rights Case
 ---
 <figure data-editable="imageInfo" data-uri="slate.com/_components/image/instances/clic04zst000gnrkzu6m2n44q@published"><img alt="Chief Justice John Roberts, standing in front of an opinion highlighted in purple. " sizes="(min-width: 1440px)970px,
