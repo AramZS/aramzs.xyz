@@ -17,7 +17,7 @@ cite:
 
 ---
 
-I think this gets to the heart of a serious problem in the technical approach in marketing right now: you can A/B test two bad options and one will still "win". We use a lot of scientific terminology when we talk about marketing optimization, but it really isn't usually performed with scientific rigor. There are a lot of vendors out there that will give you everything you ask for when testing creative and not give you want you need. 
+I think this gets to the heart of a serious problem in the technical approach in marketing right now: you can A/B test two bad options and one will still "win". We use a lot of scientific terminology when we talk about marketing optimization, but it really isn't usually performed with scientific rigor. There are a lot of vendors out there that will give you everything you ask for when testing creative and not give you what you need. 
 
 The truth of the matter is these systems will drive marketers into even more detailed and small cadres to test against, as size of the sample goes down your capacity to be sure of any sort of testing goes down with it, so even these A/B tests are increasingly likely to give you bad signals. An inability to tell where failures are occurring or why serves the vendor. It's easy to see why Facebook might push marketers into using this tool without them understanding it: it hides the flaws of their platform and system. 
 
