@@ -1,0 +1,68 @@
+---
+author: Marketecture
+cover_image: >-
+  https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/44ed3537-bb44-4767-bbb2-defd58ce427d/AdCP.png?t=1761858814
+date: '2025-11-03T23:38:26.579Z'
+dateFolder: 2025/11/03
+description: 'Everyone has asked for my opinion. Well, here it is. '
+isBasedOn: 'https://news.marketecture.tv/p/ari-s-delayed-thoughts-on-adcp'
+link: 'https://news.marketecture.tv/p/ari-s-delayed-thoughts-on-adcp'
+slug: 2025-11-03-httpsnewsmarketecturetvpari-s-delayed-thoughts-on-adcp
+tags:
+  - ai
+  - ad tech
+title: Ari’s (Delayed) Thoughts on AdCP
+---
+<figure><picture><source media="(max-width: 360px) and (min-resolution: 2dppx)" srcset="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,width=720,onerror=redirect/uploads/asset/file/44ed3537-bb44-4767-bbb2-defd58ce427d/AdCP.png 2x"/><source media="(max-width: 360px)" srcset="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,width=360,onerror=redirect/uploads/asset/file/44ed3537-bb44-4767-bbb2-defd58ce427d/AdCP.png 1x"/><source media="(max-width: 430px) and (min-resolution: 2dppx)" srcset="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,width=860,onerror=redirect/uploads/asset/file/44ed3537-bb44-4767-bbb2-defd58ce427d/AdCP.png 2x"/><source media="(max-width: 430px)" srcset="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,width=430,onerror=redirect/uploads/asset/file/44ed3537-bb44-4767-bbb2-defd58ce427d/AdCP.png 1x"/><img alt="" src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,quality=80,format=auto,onerror=redirect/uploads/asset/file/44ed3537-bb44-4767-bbb2-defd58ce427d/AdCP.png"/></picture></figure>
+<p>By now, everyone in the ad tech ecosystem should have heard of the AI enablement initiative <a href="https://github.com/adcontextprotocol">Ad Context Protocol</a>, or AdCP. The project is closely identified with Brian O’Kelley and Scope3, but it’s being backed by an impressive array of vendors and publishers, including Yahoo, PubMatic, The Weather Company, and many others. I personally have no involvement, except to the extent that everyone I’ve spoken to over the past couple of weeks has wanted my opinion on it. Such is the life of an “ad tech influencer.” So here goes.</p>
+<h2>What is this exactly?</h2>
+<p>Quick refresher: What is MCP and why do we care? I literally outsourced the next paragraph to ChatGPT:</p>
+<p><em>MCP (Model Context Protocol) is a standardized protocol that lets AI models securely connect to and interact with external data, tools, or APIs in real time — unlike a REST API, which is a general-purpose web interface for data exchange between traditional software systems, MCP is designed specifically for AI-to-system communication, with richer context handling, permissions, and semantic awareness built in.</em></p>
+<p>I think we can all agree that there is a ton of waste, duplication, manual effort, and inefficiency in digital advertising. It should follow quite naturally that there are big opportunities for using AI and AI agents to automate many of the steps humans currently take. It logically follows that some form of standardization is needed to make sure these agents can operate efficiently and accurately. You aren’t going to type a prompt like “get some creative assets to my DSP, here’s my login” into Claude; you need guidelines and definitions that give the agents context and instructions on what data to send and receive and what transactions to execute.</p>
+<p>AdCP seeks, in its own words, “to create an open source specification for the use of MCP for advertising use cases.” Effectively, it is trying to establish the rails that will allow AI agents to do advertising stuff.</p>
+<p>This may sound very abstract, especially for less technical readers. I think it becomes a lot easier to understand if we look at some of the real examples.</p>
+<p>Let’s look at the <a href="https://github.com/adcontextprotocol/adcp/tree/main/docs/creative">creative specification</a> and the sub-page dedicated to <a href="https://github.com/adcontextprotocol/adcp/blob/main/docs/creative/asset-types.mdx">asset types</a>. We all have experienced creative asset handling and the complexity involved. If an AI were to be able to request or deliver creatives, it would need to have a detailed understanding of what was expected from it. The AdCP documentation does exactly that, and here’s a short snippet of that document showing how it gives structure to the idea of creatives so that the AIs can deliver what is expected:</p>
+<pre><code>{
+
+  "asset_type": "image",
+
+  "required": true,
+
+  "width": 300,
+
+  "height": 250,
+
+  "acceptable_formats": ["jpg", "png", "gif"],
+
+  "max_file_size_kb": 200,
+
+  "animation_allowed": true
+
+} </code></pre>
+<p>If I had to really, really, really dumb this down, I would say something like, “You know how AI hallucinates all the time? Imagine if you prevented that by telling it exactly what you wanted instead.”</p>
+<h2>Solving real business problems</h2>
+<p>The obvious first order effect of AI agents in advertising will be to eliminate the ridiculous amounts of overhead inherent in the various platforms that dominate the space. Creating line items, uploading creatives, downloading reports, etc., are all workflows that are better done by agents than humans, with some on a live wire and others requiring human review.</p>
+<p>Single platform automation is currently where most ad tech vendors are focused. If you have thousands of people typing stuff into your UI, using AI to eliminate the typing is vitally important to stay competitive. This is not really an “agentic” workflow, though there is a lot of overlapping investment between building a chat in your own UI to enabling MCP access for another UI, assuming the use cases are the same.</p>
+<p>Use cases where the customer is the same, but the platforms are different, are probably the easiest ones to drive AdCP adoption. For example, an optimization start-up might build an agent to optimize campaigns in a DSP for the benefit of common customers. That DSP might have their own chat-based AI wizard but also offer MCP-based hooks for trusted third parties.</p>
+<p>The more interesting use case, and one AdCP is focused on, is cross-platform automation using agents. Let’s assume for a moment the <em>user is the same</em> across the platforms being connected using an agent. The platforms in these use cases are complements to one another, like creative + DSP or data broker + DSP.</p>
+<p>The <strong>creative </strong>protocol is brilliant for this because it flexibly solves a time-consuming and error-prone cross-platform workflow that is currently done by humans or unreliable 1-1 point integrations. It is also mostly outside of commercial considerations, as both parties really want to get the right creative into the right platform as quickly as possible.</p>
+<p>I’m very bullish on the creative protocol.</p>
+<p>The <a href="https://github.com/adcontextprotocol/adcp/blob/main/docs/signals/specification.mdx">signals protocol</a> is meant to allow cross-platform discovery of targeting and data parameters to be used in media execution. If you’ve ever scrolled through your DSP’s list of thousands of poorly named, hierarchically organized segments, you know the pain this is trying to solve. Theoretically, you can use an agent to query the available segments across many providers who support this protocol and then select the ones to activate in your platform of choice.</p>
+<p>I don’t want to be overly critical of the signals protocol since the use case makes sense. However, I worry that the business reality of the data world is that the parties often don’t have incentives to trust one another, and AI is not going to solve that problem. It might make it worse, actually. If you were a data broker offering an MCP server explaining your segments, wouldn’t your incentive be to make those segments seem as appealing and powerful as possible? Which segment wouldn’t include high-net-worth auto-intenders?</p>
+<h2>Transactions and outcomes</h2>
+<p>In contrast to the creative and signals protocols, I have significant reservations about the <a href="https://github.com/adcontextprotocol/adcp/blob/main/docs/media-buy/index.mdx">media-buy</a> protocol, which is intended to allow buyers and sellers to transact using agents.</p>
+<p>Once again, no shade to the hard work expended to get this project where it is. Amazing progress and a bright future, no doubt. But I think a lot of the focus of the project is on media buying, and that could be an area where we see over-promising and under-delivering.</p>
+<p>There are significant reasons why “programmatic direct” in various forms has not worked historically. I tried to build this at Google back in 2010 and ran into hostility and indifference from both sides. Buyers don’t want to be “price takers,” and sellers don’t want to reveal their rate cards. Buyers don’t want to scale downwards to smaller sites, and publishers don’t have the scale to offer performance or data. I am not convinced that all (or any) of these problems are solved by agents. Maybe some are. We’ll see.</p>
+<p>Let me walk through some strawman arguments as to why AdCP won’t create a new market for scaled, agent-led transactions, and also offer some counter arguments:</p>
+<p>The first objection, and the one I’ve seen over again, is that the media buys themselves are too small, so buyers don’t want the overhead. I think this is legitimately overcome by AI agents, but only if it also means many, many small publishers implement the agent framework, which seems like a hurdle. More likely an SSP or sales rep (i.e., Raptive, Playwire) might implement it for them. If we’ve got an intermediary like an SSP offering the sales agent, it begs the question: Why they don’t do this already? Independent self-serve booking systems like DanAds and BuySellAds are good, but small, businesses. Does AI really change these dynamics?</p>
+<p>What about sellers that don’t want to expose their inventory packages and pricing to buyers? (Or if they do show pricing, they want the pricing to be at rate card, i.e., <em>higher</em> than market.) I don’t see publishers putting sensitive pricing data into an MCP server, even if only customers are allowed to query it. This is an impediment to larger publishers participating with larger advertisers; publishers are only going to expose rates to smaller advertisers paying rate card, not the larger customers who would benefit the most from automation.</p>
+<p>The AdCP folks have highlighted various examples around performance or “outcomes” based buying. But, again, looking at history, the vast majority of sellers don’t have enough valuable data to deliver performance to buyers at scale. Vendors that focus on monetizing publisher first-party data inevitably monetize through ad network models or curation, in which they get scale across publishers. So again, the use of agents ends up being more appropriate for reinforcing the role of intermediaries, rather than enabling a breakthrough to empower buyers and sellers.</p>
+<h2>Opportunities for intermediaries</h2>
+<p>The core challenge for “open web” publishers has always been fragmentation. I would characterize at least part of the optimism around AdCP as imbued with the belief that agents and automation could reduce the pain of fragmentation.</p>
+<p>I don’t really think this holds water, due to the factors I’ve already outlined. The long tail of publishers are not sophisticated technically and don’t have enough data scale to make a difference to advertisers without aggregation.</p>
+<p>That doesn’t mean there isn’t value to the media-buy protocol. It’s just that the value will likely accrue to very large publishers and cross-publisher ad networks, in much the same way it has with programmatic more generally.</p>
+<p>This is where I think it gets interesting. A cross-publisher entity, call it an SSP, that already has collected signals and inventory at scale, would be able to package inventory for performance to buyers and negotiate with a buy-side agent, assuming the risk of delivery and outcomes. Think of this as “curation by wire” rather than pre-packaged curation through deal IDs. This model also reduces risk for publishers as they can continue to maximize yield in prebid and get paid on CPMs.</p>
+<p>Another interesting option would be to combine a signal agent with the media-buy agent in the context of valuable well-defined audiences. If the buying agent has a tightly defined definition of the signal it wishes to buy and that signal is widely available in an ad server or curation platform, then the agents could be used to pre-negotiate a data-driven programmatic guaranteed deal across many publishers. In this example, the agent has real value because it reduces the per-publisher cost of doing business, and the execution path can be more efficient than using programmatic auctions.</p>
+<h2>My tentative conclusions</h2>
+<ul><li><p>These protocols are very welcome, and it's great that folks have invested their time.</p></li><li><p>There are likely immediate use cases that could have huge benefits.</p></li><li><p>The media-buying use cases are problematic, especially around outcomes. </p></li></ul>
+<ul><li><p>Bad news for Google’s civil trials in ad tech antitrust: Summary judgement issued on the facts, meaning the civil cases don’t need to prove the monopoly, just the damages (<a href="https://ppc.land/court-clears-path-for-private-damages-in-google-ad-tech-cases/">link</a>)</p></li></ul>
