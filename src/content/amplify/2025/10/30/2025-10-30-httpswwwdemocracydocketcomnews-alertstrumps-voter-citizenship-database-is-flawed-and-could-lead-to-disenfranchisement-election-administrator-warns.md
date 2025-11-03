@@ -1,0 +1,40 @@
+---
+author: Democracy Docket
+cover_image: >-
+  https://www.democracydocket.com/wp-content/uploads/2025/03/U.S.-District-Court-for-DC-Building-2-scaled.jpg
+date: '2025-10-30T18:50:30.146Z'
+dateFolder: 2025/10/30
+description: Read more here.
+isBasedOn: >-
+  https://www.democracydocket.com/news-alerts/trumps-voter-citizenship-database-is-flawed-and-could-lead-to-disenfranchisement-election-administrator-warns/
+link: >-
+  https://www.democracydocket.com/news-alerts/trumps-voter-citizenship-database-is-flawed-and-could-lead-to-disenfranchisement-election-administrator-warns/
+slug: >-
+  2025-10-30-httpswwwdemocracydocketcomnews-alertstrumps-voter-citizenship-database-is-flawed-and-could-lead-to-disenfranchisement-election-administrator-warns
+tags:
+  - voting
+  - politics
+  - baselines
+title: >-
+  Trump’s Voter Citizenship Database Is ‘Flawed’ and Could Lead to
+  Disenfranchisement, Election Administrator Warns
+---
+<figure><img alt="" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.democracydocket.com/wp-content/uploads/2025/03/U.S.-District-Court-for-DC-Building-2-2048x1536.jpg" srcset="https://www.democracydocket.com/wp-content/uploads/2025/03/U.S.-District-Court-for-DC-Building-2-1024x768.jpg 1024w, https://www.democracydocket.com/wp-content/uploads/2025/03/U.S.-District-Court-for-DC-Building-2-300x225.jpg 300w, https://www.democracydocket.com/wp-content/uploads/2025/03/U.S.-District-Court-for-DC-Building-2-768x576.jpg 768w, https://www.democracydocket.com/wp-content/uploads/2025/03/U.S.-District-Court-for-DC-Building-2-1536x1152.jpg 1536w, https://www.democracydocket.com/wp-content/uploads/2025/03/U.S.-District-Court-for-DC-Building-2-2048x1536.jpg 2048w"/><figcaption>The U.S. District Court for DC (Courtney Cohn/Democracy Docket)</figcaption></figure>
+<p>States using the Trump administration’s overhauled citizenship verification system to find noncitizens on the voter rolls may be mistakenly flagging eligible voters at an alarming rate, a Texas county election administrator revealed in a federal court filing Wednesday night.</p>
+<p>Christopher Davis, the voter registration director in Travis County, Texas, said in a statement included in a legal filing that “about twenty-five percent of the non-citizen matches” flagged for the county by state election administrators after it ran the state voter rolls through the federal database were designated as having registered at a Department of Public Safety (DPS) — the state agency that issues drivers licenses.</p>
+<p>Texas voters registering at DPS locations are required to show proof of citizenship.</p>
+<p>“It is my understanding that other counties have experienced this same issue with the lists sent to them by the Secretary of State,” Davis stated, adding that Travis County was still “carefully researching” the citizenship status of everyone on the list sent by Texas.”</p>
+<p>“I am concerned that the list Travis County received from the Secretary of State is flawed and worry about the potential for voters to be improperly cancelled from the voter rolls and possibly disenfranchised as a result,” Davis said.</p>
+<p>While Texas officials must mail notices asking for proof of citizenship before cancelling voters’ registration, Davis said this often intimidates them.</p>
+<p>“I am worried that sending out this notice will deter eligible voters from providing the required proof of citizenship and/or from voting,” Davis warned.</p>
+<p>Davis’ statement was included in a supplemental <a href="https://www.courtlistener.com/docket/71499795/47/league-of-women-voters-v-us-department-of-homeland-security/">briefing made by</a> pro-voting plaintiffs challenging the Department of Homeland Security’s (DHS) <a href="https://www.democracydocket.com/news-alerts/trump-administration-sharing-voter-data-across-agencies-dhs-confirms/">use</a> of the Systematic Alien Verification for Entitlements (SAVE) program to check registered voters’ eligibility by pulling data from Social Security Administration (SSA) and Department of Justice (DOJ). Republican state election officials have started running their voter rolls through the expanded SAVE program, <a href="https://www.sos.state.tx.us/about/newsreleases/2025/102025.shtml">announcing</a> investigations into the thousands of voters flagged by it as potential non-citizens.</p>
+<p>While election administration experts have warned in advance that the expanded SAVE system was an <a href="https://www.brennancenter.org/our-work/research-reports/homeland-securitys-save-program-exacerbates-risks-voters">untested</a> and inaccurate solution for a nearly nonexistent <a href="https://www.brennancenter.org/our-work/analysis-opinion/why-myth-noncitizen-voting-persists">problem</a>, this filing is the first public evidence of how error-riddled it’s actually been.</p>
+<p>President Donald Trump <a href="https://www.presidency.ucsb.edu/documents/executive-order-14248-preserving-and-protecting-the-integrity-american-elections">signed an executive order</a> in March directing DHS to expand SAVE into a tool for confirming voter registration rolls, incorporate Social Security data, and make it free for state election officials to use. Since then, the DOJ has said it has taken voter registration roll data it has collected from some state election officials and <a href="https://www.democracydocket.com/news-alerts/trump-administration-sharing-voter-data-across-agencies-dhs-confirms/">shared</a> it with DHS for use with SAVE. They did all this without providing the proper notice required under the Privacy Act and the Administrative Procedure Act.</p>
+<p>At a preliminary injunction hearing Tuesday, Judge Sparkle Sooknanan ordered supplemental briefing asking the plaintiffs to show the SAVE program was already harming actual eligible voters — a necessary finding for the court to grant a preliminary injunction.</p>
+<p>On October 20, Texas Secretary of State Jane Nelson (R) <a href="https://www.sos.state.tx.us/about/newsreleases/2025/102025.shtml">announced</a> she ran “the entire Texas voter list with more than 18 million voters through the SAVE database,” finding 2,724 potential noncitizens registered.</p>
+<p>The supplemental briefing notes that other states have similarly run their rolls through SAVE. On Monday, Tennessee Secretary of State Tre Hargett (R) <a href="https://www.wbbjtv.com/2025/10/27/tennessee-secretary-of-state-tre-hargett-protecting-the-vote-in-tennessee-uses-enhanced-save-program-to-identify-ineligible-voters/">announced</a> his office referred 42 potential non-citizens to the Federal Bureau of Investigation for illegal voting, while Louisiana Secretary of State Nancy Landry (R) <a href="https://www.facebook.com/Louisianasos/posts/in-a-recent-letter-president-donald-trump-praised-secretary-landrys-commitment-t/1321314536690125/">posted</a> on social media her office had already removed “390 noncitizens” from its voter rolls.</p>
+<p>Along with similar statements by other GOP election officials, this creates a “substantial risk” of eligible voters being denied the right to vote, the plaintiffs wrote. That still might not be enough to satisfy Sooknanan, though, who seemed <a href="https://www.democracydocket.com/news-alerts/lawsuit-challenging-trumps-massive-voter-purge-database-hits-snags/">reluctant</a> Tuesday to enjoin the federal government’s database for actions arguably caused by state officials, even if they are acting at the very public urging of the president.</p>
+<p>The plaintiffs also withdrew their motion to certify a subclass in the lawsuit. Sooknanan had strenuously questioned the motion during the hearing.</p>
+<p>The government has until Monday to file its rebuttal.</p>
+<p>The lawsuit was filed by the League of Women Voters (LWV), along with LWV state groups, the Electronic Privacy Information Center (EPIC), and five unnamed voters, by lawyers from Democracy Forward*, Citizens for Responsibility and Ethics in Washington and Fair Elections Center.</p>
+<p><em>*Democracy Docket Founder Marc Elias is the chair of Democracy Forward’s board.</em></p>

@@ -1,0 +1,48 @@
+---
+author: Tage Kene-Okafor
+cover_image: >-
+  https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=1200,676
+date: '2025-10-30T16:36:29.387Z'
+dateFolder: 2025/10/30
+description: >-
+  YC-backed The Prompting Company helps customers get recommendations from AI.
+  It is also partnering with NVIDIA on "next-generation" search.
+isBasedOn: >-
+  https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/
+link: >-
+  https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/
+slug: >-
+  2025-10-30-httpstechcrunchcom20251030the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps
+tags:
+  - ai
+  - tech
+  - marketing
+title: >-
+  The Prompting Company snags $6.5M to help products get mentioned in ChatGPT
+  and other AI apps
+---
+<figure><img alt="The Prompting Company" sizes="(max-width: 1024px) 100vw, 1024px" src="https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg" srcset="https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg 2400w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=150,84 150w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=300,169 300w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=768,432 768w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=680,383 680w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=1200,676 1200w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=1280,721 1280w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=430,242 430w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=720,405 720w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=900,507 900w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=800,450 800w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=1536,865 1536w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=2048,1153 2048w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=668,376 668w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=666,375 666w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=1096,617 1096w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=708,399 708w, https://techcrunch.com/wp-content/uploads/2025/10/IMG_2446.jpeg?resize=50,28 50w"/><figcaption>Image Credits:The Prompting Company</figcaption></figure>
+<p>People are increasingly asking AI, not Google, to help them discover products. A recent <a href="https://www.wired.com/story/goodbye-seo-hello-geo-brandlight-openai/">shopping </a>report says Americans, this holiday season, will likely turn to large language models this season to find gifts, deals, and sales instead of traditional search.</p>
+<p>Retailers could see up to a 520% increase in traffic from chatbots and AI prompts in 2025 compared to 2024, according to the report. For brands, that means figuring out how to show up in AI-generated recommendations, and fast.</p>
+<p>This surge in AI-driven traffic is the bet behind <a href="https://promptingcompany.com/">The Prompting Company</a>, a YC-backed startup helping products get mentioned in AI apps through GEO (generative engine optimization), a strategy designed for a future where AI agents browse the internet on users’ behalf.</p>
+<p>The four-month-old startup, founded by <a href="https://www.linkedin.com/in/kevinnicholaschandra/">Kevin Chandra</a>, <a href="https://www.linkedin.com/in/michelle-marcelline/">Michelle Marcelline</a> and <a href="https://www.linkedin.com/in/albertputrapurnama/">Albert Punama</a>, has raised $6.5 million in seed funding and already counts Rippling, Rho, Motion, Vapi, Fondo, Kernel, and Traceloop as customers.</p>
+<p>“Over the past year, most of the growth on websites has come from AI bots, not people,” co-founder and CEO Chandra told TechCrunch in an interview. “We’re already seeing developers ask AI tools for product recommendations inside their workflows, and we think people, over time, will be less involved in parts of the purchasing funnel.”</p>
+<p>As AI becomes the first touchpoint for product discovery and agents eventually transact on a user’s behalf, The Prompting Company believes brands must learn how to market to agents as well as humans.</p>
+<p>What that means, according to Chandra, is that brands will need an AI-facing website, a version of their site made for agents without navigation bars, pop-ups, or marketing fluff. “Most businesses still design websites only for humans,” Chandra told TechCrunch. “But the fastest-growing segment of users on the internet today is AI agents and they need a completely different interface.”</p>
+<p>Techcrunch event</p>
+<h3>TechCrunch Disrupt 2025 is live!</h3>
+<h4>Join Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, Vinod Khosla — some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge. And don’t miss 300+ showcasing startups in all sectors.<br/><br/>Register now and save 50% on your pass.</h4>
+<h3>TechCrunch Disrupt 2025 is live</h3>
+<h4>Join Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, Vinod Khosla — some of the 250+ heavy hitters leading 200+ sessions designed to deliver the insights that fuel startup growth and sharpen your edge. And don’t miss 300+ showcasing startups in all sectors.<br/><br/>Register now and save 50% on your pass.</h4>
+<p>San Francisco | October 27-29, 2025</p>
+<p><a data-ctatext="REGISTER NOW" data-destinationlink="https://techcrunch.com/events/tc-disrupt-2025/?utm_source=tc&amp;utm_medium=ad&amp;utm_campaign=disrupt2025&amp;utm_content=ticketsales&amp;promo=tc_inline_2for1&amp;display=" data-event="button" href="https://techcrunch.com/events/tc-disrupt-2025/?utm_source=tc&amp;utm_medium=ad&amp;utm_campaign=disrupt2025&amp;utm_content=ticketsales&amp;promo=tc_inline_2for1&amp;display="><strong>REGISTER NOW</strong></a></p>
+<p>Here’s how the platform works: First, it identifies and analyzes the questions AI agents are asking by probing models to uncover specific purchase-intent queries. It then creates structured content that answers those questions and automatically routes AI agents to “AI-optimized pages.”</p>
+<p>The <a href="https://www.ycombinator.com/companies/the-prompting-company">Y Combinator-backed startup</a> helps companies publish thousands of AI-friendly pages so LLMs can cite their answers even when they don’t rank in traditional SEO. (YC has backed similar startups, including Relixir, Writesonic, and Bear.)</p>
+<p>While SEO still matters, Chandra argues that GEO is quickly becoming the priority for brands. In GEO, product results surface organically based on relevance to the conversation, not paid keywords or search rankings.</p>
+<p>This shift may also change how people buy products. Emerging protocols, including Google’s Agent-to-Agent framework and OpenAI’s partnership with Stripe, could further accelerate adoption by allowing AI agents to browse and complete purchases on behalf of users, moving them from discovery to transaction.</p>
+<p>“Imagine you’re a large e-commerce store. Users can buy items, make returns, compare products, or search for promotions. We help our customers expose those actions to AI agents. Right now, these agents aren’t yet clicking those options or accessing APIs directly, but we expect that to change in the coming months,” said Chandra. “Once that becomes widespread and attribution improves, we see a path toward more advertising- or conversion-driven models. For now, we’re focused on helping companies get discovered and recommended by AI.”</p>
+<p>So far, The Prompting Company serves mostly fintech, developer tools, and enterprise SaaS customers. The team says a Fortune 10 company is also using its product, for which it currently hosts about half a million pages.</p>
+<p>Overall, traffic driven to client sites is in the double-digit millions per month. The Prompting Company uses a subscription model, charging customers based on the number of prompts tracked and pages hosted.</p>
+<p>The company’s founders, Indonesian immigrants who met as freshmen, previously built YC-backed <a href="https://www.ycombinator.com/companies/typedream">Typedream</a> (YC W20), a startup that allowed users to build and launch websites in minutes with AI, before Lovable and newer entrants took off (beehiiv acquired Typedream last June). The founders also built Cotter, a passwordless authentication SDK that was acquired by Stytch.</p>
+<p>With The Prompting Company, they’re trying to change how people discover and purchase products in the AI era. The seed money, raised from Peak XV Partners, Base10, Y Combinator, Firedrop, and angels, including Logan Kilpatrick, will help the company scale its platform and partnerships as AI-powered discovery becomes the new distribution channel. The startup is also collaborating with NVIDIA on next-generation AI search.</p>
+<p>“If your product isn’t discovered or cited in ChatGPT, you’re <em>ngmi</em>,” said Arnav Sahu, partner at Peak XV Partners. “We’re thrilled to back The Prompting Company as they build the core infrastructure for product discovery—already powering Fortune 10 companies and fast-growing startups. Kevin, Michelle, and Albert are repeat YC founders, and they are awesome.”</p>

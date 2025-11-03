@@ -1,0 +1,41 @@
+---
+author: Haidee Chu
+cover_image: >-
+  https://www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg
+date: '2025-11-03T13:28:15.751Z'
+dateFolder: 2025/11/03
+description: >-
+  Newly registered voters, like the ones who helped power Zohran Mamdani to his
+  primary win, turned out in droves — while voters who aren’t registered with a
+  party were much less likely to vote early.
+isBasedOn: >-
+  https://www.thecity.nyc/2025/11/02/early-voting-analysis-boomers-millennials-immigrants-generations/
+link: >-
+  https://www.thecity.nyc/2025/11/02/early-voting-analysis-boomers-millennials-immigrants-generations/
+slug: >-
+  2025-11-03-httpswwwthecitynyc20251102early-voting-analysis-boomers-millennials-immigrants-generations
+tags:
+  - nyc
+title: '4 Early Voting Takeaways, By The Numbers'
+---
+<figure><img alt="Queens voters cast ballots in Long Island City in the mayoral election" data-hero-candidate="1" sizes="(max-width: 1200px) 100vw, 1200px" src="https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg?w=2048&amp;ssl=1" srcset="https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2025/10/103125_early_voting_queens-3.jpg?fit=1200%2C800&amp;ssl=1&amp;w=370 370w"/><figcaption>Queens voters cast ballots in Long Island City in the mayoral election</figcaption></figure>
+<p>The tallies are in from the nine-day early voting period that ended Sunday afternoon: More than 732,000 New Yorkers have already turned out to cast their ballots, accounting for nearly 14% of the more than 5.3 million registered voters in the city, according to THE CITY’s analysis of the latest city Board of Elections data.</p>
+<p>Sixty-five percent as many people have already voted this year as the 1,125,258 who voted altogether in 2021’s uncompetitive general election, where Democrat Eric Adams crushed Republican Curtis Sliwa, who is running again this year as the party’s nominee.</p>
+<p>The 2025 early voting numbers suggest overall turnout could approach 2 million people — a level the city hasn’t come close to since David Dinkins and Rudy Giuliani faced off in 1989 and again in 1993.</p>
+<p>Early voting peaked over the final weekend, with 103,597 New Yorkers voting on Saturday, and another 150,053 on Sunday — the two highest turnout days of the early voting period that had begun the previous weekend. Brooklyn accounted for 33% of the city’s total early votes, with Windsor Terrace and Park Slope leading the city with the largest share of registered voters who turned out early.</p>
+<p>Overall, however, a greater share of registered voters turned out to vote early in Manhattan than in any other borough, with the Upper East Side leading the way.</p>
+<p>A number of multi-generational households also voted early, including in Jackson Heights, a pan-South Asian enclave and <a href="https://www.thecity.nyc/2025/06/30/zohran-mamdani-south-asian-vote/">stronghold for the Democratic nominee Zohran Mamdani</a> where at least 56 of such families cast their ballots, trailing only the Upper West and East Sides. Washington Heights, a predominantly Dominican neighborhood in northern Manhattan, and Parkchester, the Bronx neighborhood nicknamed “Little Bangladesh,” came in fourth and fifth. (THE CITY tallied those numbers by counting voters who are registered to the same apartment unit. A multi-generational household is defined here as households with voters from three or more generations.)</p>
+<p>Here are four more takeaways from the early voting data:</p>
+<h2><strong>1. Boomers led turnout in the early days, but Millennials closed out strong</strong></h2>
+<p>Baby boomers, born between 1946 and 1964, maintained their status as the leader in early voting through the first six days of the nine-day period — <a href="https://gothamist.com/news/voter-turnout-surges-in-nyc-mayors-race-with-boomers-and-gen-x-leading-the-charge">casting doubt among some political scientists</a> about whether Mamdani’s support with younger voters would carry him as far as it did in the Democratic primary.</p>
+<p>But Thursday’s <a href="https://www.thecity.nyc/2025/10/30/flooding-deaths-washington-heights-kingston-basement/">heavy downpours</a>, which greatly suppressed early voting turnout for the day, appeared to be an inflection point. Millennials, born between 1981 and 1996, cast the most votes of any generation this last Friday, Saturday and Sunday. Overall, Millennials ended up casting 28% of the early votes — just 1 percentage point shy of Baby Boomers, who accounted for 29% of those votes.</p>
+<h2><strong>2. Many early voters weren’t registered before this year</strong></h2>
+<p>Mamdani <a href="https://www.youtube.com/watch?v=SZEK1o1CEJk">focused on registering voters</a> early on in his campaign and <a href="https://www.nytimes.com/2025/06/29/nyregion/zohran-mamdani-voters-strategy.html">drew thousands</a> who did not vote in previous primaries to the polls in June. Many of these new voters showed up again during the early voting period.</p>
+<p>People who registered to vote this year accounted for a greater share of voters — about 8% — than those who registered in any other year. Overall, nearly one in five of the 134,066 New Yorkers who put their name on the voter roll after the June primary cast their ballot during the early-voting period.</p>
+<h2><strong>3. Many voters from working class neighborhoods have not yet turned out</strong></h2>
+<figure><p class="rw-outer-content"><span>Some content could not be imported from the original document.</span> <a href="https://datawrapper.dwcdn.net/OKmVG/5/">View content ↗ </a></p></figure>
+<p>Voters from wealthier neighborhoods were significantly more likely to have cast their ballots early. While 17% of registered voters had turned out early in areas where most households make more than the citywide median income of about $75,000, just 8% of registered voters did in neighborhoods where most households make less than that.</p>
+<p>Votes in these working-class neighborhoods were slightly more likely than those in higher-income neighborhoods to have favored former Gov. Andrew Cuomo during the Democratic primary.</p>
+<h2><strong>4. Voters who aren’t registered with a party were least likely to vote early</strong></h2>
+<p>The share of registered Democrats and registered Republicans who cast their ballots early were roughly the same, at 15%. But just 8% — or 90,711 of more than 1.1 million — of voters who are not registered with a party turned out early.</p>
+<p>These unaffiliated voters, who can’t vote in the city’s primary elections where only party members can vote on their nominees, make up 21% of all voters. They are most concentrated in the southeast parts of Brooklyn, where Cuomo prevailed in the primary, and in northeast Queens, where Mamdani and Cuomo were <a href="https://www.thecity.nyc/2025/06/24/mayor-election-map-results-cuomo-mamdani-lander-adams-new-york-city/">neck-and-neck</a>.</p>

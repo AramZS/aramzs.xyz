@@ -1,0 +1,22 @@
+---
+author: Emma Keates
+cover_image: >-
+  https://img.pastemagazine.com/wp-content/avuploads/2024/09/11132827/hbo-not-surprised-george-r-r-martin-house-of-the-dragon-feature.jpg
+date: '2025-10-31T03:49:01.824Z'
+dateFolder: 2025/10/30
+description: Sounds like George R.R. Martin's OpenAI suit is going pretty well for him
+isBasedOn: 'https://www.avclub.com/george-rr-martin-openai-suit-progress'
+link: 'https://www.avclub.com/george-rr-martin-openai-suit-progress'
+slug: 2025-10-30-httpswwwavclubcomgeorge-rr-martin-openai-suit-progress
+tags:
+  - ai
+  - books
+  - law and order
+title: Sounds like George R.R. Martin's OpenAI suit is going pretty well for him
+---
+<figure><img alt="Sounds like George R.R. Martin's OpenAI suit is going pretty well for him" src="https://img.pastemagazine.com/wp-content/avuploads/2024/09/11132827/hbo-not-surprised-george-r-r-martin-house-of-the-dragon-feature.jpg"/></figure>
+<p>Winter may be coming for OpenAI via George R.R. Martin’s legal fight against the company. Two years ago, the <a href="https://www.avclub.com/george-rr-martin-knight-of-seven-kingdoms-blog"><i>Game Of Thrones </i>writer</a>—along with a coalition of other Authors Guild members including John Grisham and Jonathan Franzen—<a href="https://www.avclub.com/george-r-r-martin-and-john-grisham-lead-lawsuit-agains-1850859075">filed a suit</a> accusing Sam Altman’s company of copyright infringement and theft on a “mass scale” by training ChatGPT on pirated works of fiction. According <a href="https://www.hollywoodreporter.com/business/business-news/george-rr-martin-openai-court-legal-1236413461/#">to <i>The Hollywood Reporter</i></a>, the authors have “steadily been building a formidable case” that may actually force OpenAI to pay up (and pay up big) before the trial.</p>
+<p>Earlier this week, a federal court reportedly advanced two new theories of infringement against the company, giving the authors several more avenues to victory. The first, which the authors had been relying on since the beginning, suggests that training LLMs on copyrighted books without their author’s consent constitutes infringement. The second, which was just approved this week, is a newer argument that alleges that OpenAI downloading titles from “shadow libraries” full of stolen books constitutes piracy regardless of whether the books were used for training. This argument was previously used by a different <a href="https://www.avclub.com/anthropic-books-ai-lawsuit-theft">group of authors against Anthropic</a>. While the court ultimately sided with the company on the issue of fair use, the fact that it greenlit the shadow library argument for trial opened doors for others to argue the same. In Martin’s case, OpenAI unsurprisingly balked at the proposal to separate these two infringement theories, arguing that its opponents added an entirely new claim to their case without notice, but the court ultimately sided with the authors.</p>
+<p>The third theory, which was also approved this week, suggests that ChatGPT’s answers can be found to infringe on the books they’re trained on. A bot-generated summary of Martin’s <i>A Song Of Ice And Fire</i>, for example, reads as follows: “Members of the Night’s Watch, a sworn brotherhood tasked with defending the realm from threats beyond the Wall (a giant ice structure in the North), are attacked by mysterious and deadly creatures known as the White Walkers, thought to be mere legends.” To this, the court ruled that a reader could “easily conclude that this detailed summary is substantially similar” to the novel because it “conveys the overall tone and feel of the original work by parroting the plot, characters and themes of the original.” While it stressed that it wasn’t opining on fair use, the court also determined that outputs about potential or alternative sequels to Martin’s books using his original characters could be seen as infringing on his works.</p>
+<p>The court only needs to rule in favor of the authors in one of these theories to force OpenAI to pay statutory damages. With these two new avenues added, the scales have tipped in the author’s favor in this particular war.</p>
+<figure><img alt="Sounds like George R.R. Martin's OpenAI suit is going pretty well for him" data-eio="l" src="https://img.pastemagazine.com/wp-content/avuploads/2024/09/11132824/hbo-not-surprised-george-r-r-martin-house-of-the-dragon-square.jpeg"/></figure>

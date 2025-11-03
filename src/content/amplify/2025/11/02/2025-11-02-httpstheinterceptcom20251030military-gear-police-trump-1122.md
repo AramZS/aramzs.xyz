@@ -1,0 +1,51 @@
+---
+author: Matt Sledge
+cover_image: >-
+  https://theintercept.com/wp-content/uploads/2025/10/GettyImages-1236826120-e1761777063324.jpg?fit=4786%2C2393&w=1200&h=800
+date: '2025-11-02T22:35:15.425Z'
+dateFolder: 2025/11/02
+description: >-
+  The 1122 program, as it’s known, presents a danger to protesters facing off
+  against militarized cops, according to a new report.
+isBasedOn: 'https://theintercept.com/2025/10/30/military-gear-police-trump-1122/'
+link: 'https://theintercept.com/2025/10/30/military-gear-police-trump-1122/'
+slug: 2025-11-02-httpstheinterceptcom20251030military-gear-police-trump-1122
+tags:
+  - baselines
+  - law and order
+title: >-
+  An Obscure Military Program Helps Local Cops Buy Armored Cars and Spyware. It
+  Might Balloon Under Trump.
+---
+<figure><img alt="BERWICK, UNITED STATES - 2021/11/25: A police Lenco Bearcat armored vehicle patrols the course during the 112th Annual Run for the Diamonds.
+About 900 runners participated in the 112th Annual Run for the Diamonds.
+The top seven male and female finishers of the nine mile race win diamond jewelry. (Photo by Paul Weaver/SOPA Images/LightRocket via Getty Images)" sizes="100vw" src="https://theintercept.com/wp-content/uploads/2025/10/GettyImages-1236826120-e1761777063324.jpg?w=4786" srcset="https://theintercept.com/wp-content/uploads/2025/10/GettyImages-1236826120-e1761777063324.jpg?w=4786 4786w, https://theintercept.com/wp-content/uploads/2025/10/GettyImages-1236826120-e1761777063324.jpg?w=2400 2400w, https://theintercept.com/wp-content/uploads/2025/10/GettyImages-1236826120-e1761777063324.jpg?w=3600 3600w"/><figcaption>BERWICK, UNITED STATES - 2021/11/25: A police Lenco Bearcat armored vehicle patrols the course during the 112th Annual Run for the Diamonds. About 900 runners participated in the 112th Annual Run for the Diamonds. The top seven male and female finishers of the nine mile race win diamond jewelry. (Photo by Paul Weaver/SOPA Images/LightRocket via Getty Images)</figcaption></figure>
+<p>Local cops have gotten tens of millions of dollars’ worth of discounted military gear under a secretive federal program that is poised to grow under recent executive action from Donald Trump, according to a new report.</p>
+<p>Armored vehicles, video surveillance programs, and thermal imagers are all examples of the ware purchased by local police under a lesser-known cousin to another controversial program that gifts them the gear outright.</p>
+<p>The floodgates could be opened now that President Donald Trump has revoked an executive order issued by his predecessor, Joe Biden, meant to tamp down on the <a href="https://theintercept.com/2016/10/12/do-not-resist-the-police-militarization-documentary-everyone-should-see/">“warrior cop” trend.</a></p>
+<p>When paired with the increasing number of <a href="https://theintercept.com/2025/10/20/trump-national-police-force-ice-287g/">local agencies aiding mass deportation</a>, the 1122 program — so named after a section of federal defense law — presents a danger to people facing off against militarized cops, according to <a href="https://www.w2t2.org/">Women for Weapons Trade Transparency</a>.</p>
+<p>“All of these things combined serve as a threat to free speech, an intimidation tactic to protest,” said Lillian Mauldin, the co-founder of the nonprofit group, which produced the <a href="https://static1.squarespace.com/static/66269f938df7022112827e08/t/69029fe7c0de355e0562266c/1761779687243/WAGING+WAR%2C+WASTING+FUNDS.pdf">report released this week</a>. “I fear that the 1122 program not only has wasted tax dollars, has increased the violent tactics by police departments, but is also part of a larger chilling effect.”</p>
+<p>The sight of police officers in battle gear facing off against protesters in Ferguson, Missouri, in 2014 drew widespread attention to the f<a href="https://theintercept.com/2021/09/20/ndaa-military-equipment-police-1033/">ederal government’s 1033 program</a>, which has long sent surplus gear like mine-resistant vehicles and bayonets to local police.</p>
+<p>Since 1994, however, the even more obscure 1122 program has allowed local cops to purchase everything from uniforms to riot shields at federal government rates. Named after a section of the National Defense Authorization Act, the bill that appropriates the military’s budget, the program turns the feds into purchasing agents for local police.</p>
+<p>Local cops have used the program to pick up 16 Lenco BearCats, fearsome-looking armored police vehicles that display a resemblance to military trucks deployed abroad.</p>
+<p>Those vehicles represented 4.8 percent of the total spending identified in the Women for Weapons Trade Transparency <a href="https://static1.squarespace.com/static/66269f938df7022112827e08/t/69029fe7c0de355e0562266c/1761779687243/WAGING+WAR%2C+WASTING+FUNDS.pdf">report</a>. Surveillance gear and software represented another 6.4 percent, and weapons or riot gear represented 5 percent.</p>
+<p>One agency bought a $428,000 Star Safire thermal imaging system, the kind used in military helicopters.</p>
+<figure><a data-ga-track="in_article-body" data-ga-track-action="related post embed: nypd-camera-mass-surveillance-lawsuit" data-ga-track-label="nypd-camera-mass-surveillance-lawsuit" href="https://theintercept.com/2025/10/28/nypd-camera-mass-surveillance-lawsuit/"><img alt="" src="https://theintercept.com/wp-content/uploads/2025/10/AP20342797212295-e1761591979456.jpg?w=440&amp;h=440&amp;crop=1"/> <h2> Related </h2> <h3>An NYPD Camera Points Directly Into Their Bedroom. They’re Suing the City Over It.</h3> </a></figure>
+<p>The Texas Department of Public Safety’s intelligence and counterterrorism unit purchased a $1.5 million surveillance software license. Another agency bought an $89,000 covert camera system.</p>
+<p>Many of the purchases were for more mundane items such as police cruisers, radio gear, or uniforms. Still, the average discount of about 20 percent allows state and local agencies to buy more military gear than they might otherwise, Mauldin said.</p>
+<p>“It really calls into question,” she said, “when so many cities in the U.S. are facing crises of homelessness, of food insecurity, of rising rent prices, how are police departments justifying these hundreds of thousands of dollars’ worth of purchases?”</p>
+<h2><strong>Transparency Blocked</strong></h2>
+<p>Women for Weapons Trade Transparency, a program of <a href="https://internationalpolicy.org/">the Center for International Policy</a>, first attempted to shine a light on the 1122 program <a href="https://internationalpolicy.org/wp-content/uploads/2024/02/The-1122-Program-An-Investigative-Analysis.pdf">in a report three years ago</a> during the Biden administration. They were particularly interested in which and how many weapons have been obtained by local police with the help of the Army. A Freedom of Information Act request they filed at the time, however, has yet to be fulfilled. (The Army declined to comment.)</p>
+<p>Without centralized data from the Army, which serves as the program’s “<a href="https://www.army.mil/article/18384/1122_program">executive agent</a>,” the nonprofit took a shotgun approach, filing dozens of record requests at the state and local level.</p>
+<p>Even then, the response rate was so low that Mauldin estimates her group’s total finding of $127 million in purchases is a significant undercount.</p>
+<p>“We suspect that total spending could be in the upper hundreds of millions,” she said. “My best guess would be above $500 million.”</p>
+<p>That number pales <a href="https://www.dla.mil/Disposition-Services/Offers/Law-Enforcement/Program-FAQs/">in comparison to the $7.6 billion in equipment</a> shipped to local cops under the 1033 program. Still, Mauldin said that the 1122 program’s lack of transparency is deeply concerning.</p>
+<p>“The 1033 program has gotten much more news coverage, much more public scrutiny, and that did lead to certain reforms,” she said. “There is actually public data on the 1033 program, which is very different than 1122.”</p>
+<aside><a href="https://theintercept.com/collections/chilling-dissent/"><figure><img alt="" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://theintercept.com/wp-content/uploads/2025/04/collection_21_AP25080472815958.jpg.webp?w=1536" srcset="https://theintercept.com/wp-content/uploads/2025/04/collection_21_AP25080472815958.jpg.webp?w=1536 1536w, https://theintercept.com/wp-content/uploads/2025/04/collection_21_AP25080472815958.jpg.webp?w=300 300w, https://theintercept.com/wp-content/uploads/2025/04/collection_21_AP25080472815958.jpg.webp?w=768 768w, https://theintercept.com/wp-content/uploads/2025/04/collection_21_AP25080472815958.jpg.webp?w=1024 1024w, https://theintercept.com/wp-content/uploads/2025/04/collection_21_AP25080472815958.jpg.webp?w=540 540w, https://theintercept.com/wp-content/uploads/2025/04/collection_21_AP25080472815958.jpg.webp?w=1000 1000w"/></figure></a></aside>
+<h2><strong>Little RoboCops Everywhere</strong></h2>
+<p>In its report, Mauldin’s group called for the elimination of the 1122 program. The group pointed to one of Trump’s first executive actions in January.</p>
+<p>On the first day of his second term, Trump <a href="https://www.brennancenter.org/our-work/analysis-opinion/trump-reverses-biden-directive-policing-reforms">revoked</a> an executive order that Biden had issued to limit the transfer of some of the most aggressive military gear to local cops.</p>
+<p>With Trump promising to erase whatever federal guidelines restricted local police, and with some agencies eagerly joining ICE in raids targeting immigrants and protesters, Women for Weapons Trade Transparency believes the risk to the public from 1122 and similar programs is too great.</p>
+<p>“It is concerning,” Mauldin said, “to think that our police departments have increasingly more access to this type of military style gear to facilitate these raids and arrests.”</p>
+<p><strong>Correction: October 30, 2025, 11:17 a.m. ET</strong><br/>
+<em>This story has been updated to correct the date the 1122 program began; it was 1994. Due to an editing error, the photo caption of this story was incorrectly dated; the photo is from November 25, 2011.</em></p>
