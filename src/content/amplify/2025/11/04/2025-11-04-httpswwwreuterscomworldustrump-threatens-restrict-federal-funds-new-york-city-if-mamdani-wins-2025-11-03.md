@@ -10,7 +10,7 @@ link: >-
   https://www.reuters.com/world/us/trump-threatens-restrict-federal-funds-new-york-city-if-mamdani-wins-2025-11-03/
 slug: >-
   2025-11-04-httpswwwreuterscomworldustrump-threatens-restrict-federal-funds-new-york-city-if-mamdani-wins-2025-11-03
-tags: []
+tags: [nyc]
 title: ''
 ---
  
