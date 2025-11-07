@@ -1,0 +1,39 @@
+---
+author: Leila Fadel
+cover_image: >-
+  https://media.npr.org/assets/img/2018/11/07/gettyimages-1064438276_wide-81f80475372af95bd4c083ed52d76301cf0ea42f.jpg?s=1400&c=100&f=jpeg
+date: '2025-11-06T00:16:42.203Z'
+dateFolder: 2025/11/05
+description: >-
+  Abigail Spanberger, Virginia's first woman governor, says she's ready to push
+  back on President Trump's "bad policies" for the sake of Virginians.
+isBasedOn: >-
+  https://www.npr.org/2025/11/05/nx-s1-5598547/virginia-governor-abigail-spanberger-push-back-on-trump
+link: >-
+  https://www.npr.org/2025/11/05/nx-s1-5598547/virginia-governor-abigail-spanberger-push-back-on-trump
+slug: >-
+  2025-11-05-httpswwwnprorg20251105nx-s1-5598547virginia-governor-abigail-spanberger-push-back-on-trump
+tags:
+  - politics
+  - virginia
+title: >-
+  Spanberger, Virginia's first woman governor, says she'll defy Trump's 'bad
+  policies'
+---
+<figure><picture><figure><img alt="Abigail Spanberger, Democratic candidate for Virginia's 7th District in the U.S. House of Representatives, thanks supporters at an election night rally. Spanberger declared victory over Republican incumbent Dave Brat." data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4273x2403+0+0/resize/{width}/quality/{quality}/format/{format}/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2018%2F11%2F07%2Fgettyimages-1064438276_wide.jpg" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4273x2403+0+0/resize/1100/quality/50/format/jpeg/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2018%2F11%2F07%2Fgettyimages-1064438276_wide.jpg"/><figcaption>Abigail Spanberger, Democratic candidate for Virginia's 7th District in the U.S. House of Representatives, thanks supporters at an election night rally. Spanberger declared victory over Republican incumbent Dave Brat.</figcaption></figure></picture></figure>
+<p>Democrat Abigail Spanberger will be the next governor of Virginia, <a href="https://www.npr.org/2025/11/04/nx-s1-5589144/election-results-virginia-governor-spanberger">according to a race call</a> by the Associated Press. This historic win will position her as Virginia's first woman governor.</p>
+<p>Backed by national Democrats looking to strengthen their chances in the 2026 midterm elections, Spanberger defeated her Republican opponent, Lt. Gov. Winsome Earle-Sears. Spanberger served in the CIA before running for Congress in 2018, where she served three terms in the U.S. House.</p>
+<p>Throughout her career, Spanberger has cultivated a reputation as a pragmatic centrist. During her run for governor, she earned Virginian's support by speaking to their concerns about the rising cost of living and economic uncertainty. Spanberger promised to advocate for federal workers and federal contractors in the state, who have been negatively impacted by the Trump administration's Department of Government Efficiency (DOGE) cutbacks, federal layoffs, tariffs and the extended shutdown.</p>
+<p>"I will look to work with a president that I may disagree with substantially," Spanberger told <em>Morning Edition</em>. "And right at this moment, coming in now as governor elect, and governor in the new year, my approach will be to make sure that I'm pushing for what we need here on the ground. And right now, that will be pushing back against a variety of the bad policies that are coming out of this White House."</p>
+<p>In a conversation with NPR's Leila Fadel, Spanberger spoke about her historic win and plans to deliver on the platform she laid out during her campaign.</p>
+<p><em>The following exchange has been edited for length and clarity.</em></p>
+<h3>Interview Highlights</h3>
+<p><strong>Leila Fadel</strong>: How are you feeling this morning as you reflect on your historic election, the first woman governor in Virginia?</p>
+<p><strong>Abigail Spanberger</strong>: I am feeling great this morning. It is a good day in Virginia and the transition starts today. So I'm excited to get to work.</p>
+<p><strong>Fadel</strong>: So winning an election is one thing, but fulfilling the promises to make things affordable for federal workers who have lost their jobs, as you did on the campaign trail, is another. What's on your agenda, day one?</p>
+<p><strong>Spanberger</strong>: Day one is to start working with our partners in the General Assembly to make sure they're ready to go with the bills to file. Making sure that I am ready, day one, in January, with executive actions related to ensuring that we're supporting all Virginians, particularly given the challenges that so many of our community members are facing in the past because of DOGE and now because of the shutdown. And maintaining the economic focus that I have had throughout this campaign, so that as soon as I am sworn in, in January, we are moving quickly to take decisive and clear actions to deliver on the promises and the plans that I set forth throughout the campaign.</p>
+<p><strong>Fadel</strong>: As you point out, Virginia, home to hundreds of thousands of federal workers and contractors deeply affected by DOGE cuts and the government shutdown. Before we get further into that, I do want to ask if you see your win as an endorsement of your agenda or a repudiation of Donald Trump?</p>
+<p><strong>Spanberger</strong>: I think it's absolutely an endorsement of an agenda that's putting Virginians first. It's an endorsement of an agenda that we laid out with plans throughout the summer in strengthening our public schools, lowering costs, particularly housing, health care and energy, and growing our economy. And certainly that happens all on a landscape where Virginia has been so impacted by the choices coming out of this White House, whether it's DOGE, whether it's tariffs and then retaliatory trade policies that we have then experienced and have impacted Virginia, from small businesses to farmers to shipments into our port. But certainly it's an endorsement of our affirmative agenda. But, certainly, on the landscape where so much of what is happening here in Virginia and so many of the concerns that people have are really heightened because of the ways that we have been impacted by the bad choices and aggressive chaos coming out of Washington.</p>
+<p><strong>Fadel</strong>: What about on immigration? I mean, Virginia's outgoing Republican governor, Glenn Youngkin, shares the president's hardline approach to immigration. He signed an executive order that requires local law enforcement to work with federal immigration authorities. Will that also be your approach?</p>
+<p><strong>Spanberger</strong>: Absolutely not. I'm a former law enforcement officer. I was a federal agent before I became a CIA officer. So my entire background is one of law and order, understanding the threats that our country faces coming from the outside, and a clear recognition, frankly, of the responsibilities of what it is to uphold the law. The efforts that we have seen undertaken by this administration with ICE is beyond anything that I ever knew as a law enforcement officer. Any time we went anywhere, we were showing our warrants. When we were with local police, they were clearly marked. We were clearly marked. The idea that there are families getting pulled over on the side of the road, and parents getting taken out of the cars, and children left is just an absolute nightmare situation and it doesn't make our communities safer. And so my approach will be: when there is a warrant signed by a judge, certainly law enforcement can and must work with federal agencies. That's how I always worked task force or joint issues. But I do not want local Virginia law enforcement doing the administrative actions of ICE, particularly at a time when it drives so much fear and confusion within our communities.</p>
+<p><em>The digital version was adapted for web by Destinee Adams and edited by Treye Green.</em></p>
