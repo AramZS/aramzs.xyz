@@ -124,11 +124,11 @@ title: MSEdgeExplainers/PWAWidgets/README.md at main · MicrosoftEdge/MSEdgeExpl
   "name": "locale",
   "description": "Just start typing and we’ll give you some options",
   "type": "autocomplete",
-  "options": "/path/to/options.json?q={{ value }}",
+  "options": "/path/to/options.json?q={\{ value }\}",
   "default": "Seattle, WA USA"
 }</pre>
 <p>Breaking this down:</p>
-<ul> <li><code>label</code> is the visible text shown to the end user and acts as the accessible label for the field.</li> <li><code>name</code> is the internal variable name used for the field (and is the key that will be sent back to the PWA).</li> <li><code>description</code> is the <em>optional</em> accessible description for a field, used to provide additional details/context.</li> <li><code>type</code> is the field type that should be used. Support for the following field types are recommended: <ul> <li>Basic text field types: "text" || "email" || "password" || "number"</li> <li>One of many selection (requires <code>options</code>): "boolean" || "radio" || "select"</li> <li>Many of many selection (requires <code>options</code>): "checkbox"</li> <li>Temporal: "date" || "datetime"</li> <li>Auto-complete (requires <code>options</code>): "autocomplete"</li> </ul> </li> <li><code>options</code> is used for specific field <code>type</code>s noted above. It can be either an array of options for the field or a URL string referencing an endpoint expected to return an array of values. If the list is dynamic (as in the case of an "autocomplete" field), the URL endpoint may be passed the current <code>value</code> of the field via the reference "{{ value }}".</li> <li><code>default</code> is the <em>optional</em> default value for the setting.</li> </ul>
+<ul> <li><code>label</code> is the visible text shown to the end user and acts as the accessible label for the field.</li> <li><code>name</code> is the internal variable name used for the field (and is the key that will be sent back to the PWA).</li> <li><code>description</code> is the <em>optional</em> accessible description for a field, used to provide additional details/context.</li> <li><code>type</code> is the field type that should be used. Support for the following field types are recommended: <ul> <li>Basic text field types: "text" || "email" || "password" || "number"</li> <li>One of many selection (requires <code>options</code>): "boolean" || "radio" || "select"</li> <li>Many of many selection (requires <code>options</code>): "checkbox"</li> <li>Temporal: "date" || "datetime"</li> <li>Auto-complete (requires <code>options</code>): "autocomplete"</li> </ul> </li> <li><code>options</code> is used for specific field <code>type</code>s noted above. It can be either an array of options for the field or a URL string referencing an endpoint expected to return an array of values. If the list is dynamic (as in the case of an "autocomplete" field), the URL endpoint may be passed the current <code>value</code> of the field via the reference "{\{ value }\}".</li> <li><code>default</code> is the <em>optional</em> default value for the setting.</li> </ul>
 <h2>Registering Available Widgets</h2>
 <p>In order for <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#dfn-widget-host">Widget Hosts</a> to be aware of what widgets are available for install, the available widgets must be added to the <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#dfn-widget-registry">Widget Registry</a> in some way. That registration should include the following details from the Web App Manifest and the Widget itself:</p>
 <ul> <li>manifest["name"]</li> <li>manifest["short_name"] (optionally)</li> <li>manifest["icons"] (optionally)</li> <li>manifest["lang"]</li> <li>manifest["dir"]</li> <li>manifest["theme_color"] (optionally)</li> <li>manifest["background_color"] (optionally)</li> <li>widget["name"]</li> <li>widget["short_name"] (optionally)</li> <li>widget["icons"] (optionally)</li> <li>widget["screenshots"] (optionally)</li> </ul>
@@ -142,21 +142,25 @@ title: MSEdgeExplainers/PWAWidgets/README.md at main · MicrosoftEdge/MSEdgeExpl
 <p>Each Widget defined in the Web App Manifest is represented within the <code>Widgets</code> interface. <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#the-widget-object">A <code>Widget</code> Object</a> is used to represent each defined widget and any associated <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#the-widgetinstance-object">Widget Instances are exposed within that object</a>.</p>
 <h3>The <code>Widget</code> Object</h3>
 <p>Each Widget is represented within the <code>Widgets</code> interface as a <code>Widget</code>. Each Widget’s representation includes the original <code>WidgetDefinition</code> (as <code>definition</code>), but is mainly focused on providing details on the Widget’s current state and enables easier interaction with its <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#dfn-widget-instance">Widget Instances</a>:</p>
-<pre>{
+```
+{
   "installable": true,
   "definition": { },
   "instances": [ ]
-}</pre>
+}
+```
 <p>All properties are Read Only to developers and are updated by the User Agent as appropriate.</p>
-<ul> <li><code>installable</code> - Boolean. Indicates whether the Widget is installable (based on UA logic around regarding data <code>type</code>, chosen <code>template</code>, etc.).</li> <li><code>definition</code> - Object. The original, as-authored, <code>WidgetDefinition</code> provided in the Manifest. Includes any <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#Extensibility">proprietary extensions</a>).</li> <li><code>instances</code> - Array. A collection of <code>WidgetInstance</code> objects representing the current state of each instance of a Widget (from the perspective of the Service Worker). Empty if the widget has not been <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#dfn-install">installed</a>.</li> </ul>
+<ul> <li><code>installable</code> - Boolean. Indicates whether the Widget is installable (based on UA logic around regarding data <code>type</code>, chosen <code>template</code>, etc.).</li> <li><code>definition</code> - Object. The original, as-authored, <code>WidgetDefinition</code> provided in the Manifest. Includes any <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#Extensibility">proprietary extensions</a>.</li> <li><code>instances</code> - Array. A collection of <code>WidgetInstance</code> objects representing the current state of each instance of a Widget (from the perspective of the Service Worker). Empty if the widget has not been <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#dfn-install">installed</a>.</li> </ul>
 <h3>The <code>WidgetInstance</code> Object</h3>
-<pre>{ 
-  "id": {{ GUID }},
-  "host": {{ GUID }},
+```
+{ 
+  "id": {\{ GUID }\},
+  "host": {\{ GUID }\},
   "settings": { },
-  "updated": {{ Date() }},
+  "updated": {\{ Date() }\},
   "payload": { }
-}</pre>
+}
+```
 <p>All properties are Read Only to developers and are updated by the implementation as appropriate.</p>
 <ul> <li><code>id</code> - String. The internal GUID used to reference the <code>WidgetInstance</code> (typically provided by the <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#dfn-widget-service">Widget Service</a>).</li> <li><code>host</code> - String. Internal pointer to the <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#dfn-widget-host">Widget Host</a> that has installed this <code>WidgetInstance</code>.</li> <li><code>settings</code> - Object. If the Widget has <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#dfn-widget-settings">settings</a>, the key/values pairs set for this <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#dfn-widget-instance">instance</a> are enumerated here.</li> <li><code>updated</code> - Date. Timestamp for the last time data was sent to the <code>WidgetInstance</code>.</li> <li><code>payload</code> - Object. The last payload sent to this <code>WidgetInstance</code>.</li> </ul>
 <p>The steps for <b>creating a <code>WidgetInstance</code></b> with id, host, and payload are as follows:</p>
@@ -225,7 +229,7 @@ title: MSEdgeExplainers/PWAWidgets/README.md at main · MicrosoftEdge/MSEdgeExpl
 <h4>A Sample <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#widgetevent"><code>WidgetEvent</code></a> Object</h4>
 <pre>{
   "widget": { },
-  "instanceId": "{{ GUID }}"
+  "instanceId": "{\{ GUID }\}"
 }</pre>
 <p>Here’s how the actual <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#widgetevent"><code>WidgetEvent</code></a> could be handled:</p>
 <pre>self.addEventListener('widgetinstall', (event) =&gt; {
@@ -275,7 +279,7 @@ title: MSEdgeExplainers/PWAWidgets/README.md at main · MicrosoftEdge/MSEdgeExpl
 <pre>{
   "action": "login",
   "widget": { },
-  "instanceId": "{{ GUID }}",
+  "instanceId": "{\{ GUID }\}",
   "data": { }
 }</pre>
 <p>You can see a basic example of this in use in <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#user-login">the user login video, above</a>. There is a walk through of the interaction following that video, but here’s how the actual <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/PWAWidgets/README.md/#widgetclickevent"><code>WidgetClickEvent</code></a> could be handled:</p>

@@ -11,7 +11,7 @@ link: >-
   https://jessica.substack.com/p/shooting-planned-parenthood-mark-baumgartner-video?r=y0jf&showWelcomeOnShare=false&triedRedirect=true
 slug: >-
   2025-11-15-httpsjessicasubstackcompshooting-planned-parenthood-mark-baumgartner-videory0jfandshowwelcomeonsharefalseandtriedredirecttrue
-tags: []
+tags: ['law and order', 'abortion', 'political violence' ]
 title: 'Breaking: Shooting at a South Carolina Planned Parenthood'
 ---
 <p><a href="https://jessica.substack.com/"><figure><picture><figure><img alt="Abortion, Every Day" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!ArJz!,w_80,h_80,c_fill,f_auto,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72d24593-feb7-480a-b61e-40c73e929e1d_1280x1280.png"/></figure></picture></figure></a></p>

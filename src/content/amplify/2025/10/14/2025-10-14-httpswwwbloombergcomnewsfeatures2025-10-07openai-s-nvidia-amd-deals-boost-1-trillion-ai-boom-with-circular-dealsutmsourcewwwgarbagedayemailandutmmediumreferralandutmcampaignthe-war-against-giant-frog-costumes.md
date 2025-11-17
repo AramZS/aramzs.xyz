@@ -13,7 +13,7 @@ link: >-
   https://www.bloomberg.com/news/features/2025-10-07/openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-deals?utm_source=www.garbageday.email&utm_medium=referral&utm_campaign=the-war-against-giant-frog-costumes
 slug: >-
   2025-10-14-httpswwwbloombergcomnewsfeatures2025-10-07openai-s-nvidia-amd-deals-boost-1-trillion-ai-boom-with-circular-dealsutmsourcewwwgarbagedayemailandutmmediumreferralandutmcampaignthe-war-against-giant-frog-costumes
-tags: []
+tags: ['ai']
 title: 'OpenAI, Nividia Fuel $1 Trillion AI Market With Web of Circular Deals'
 ---
 <figure data-component="article-image"><img alt="OpenAI will build data centers with Nvidia’s advanced chips in a $100 billion deal between the two tech companies." data-component="high-res-img" sizes="(min-width: 1px) and (max-width: 619px) 400px,
