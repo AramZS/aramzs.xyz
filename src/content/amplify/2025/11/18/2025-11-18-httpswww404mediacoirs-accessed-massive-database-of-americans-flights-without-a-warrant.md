@@ -1,0 +1,43 @@
+---
+author: Joseph Cox · Nov 18
+cover_image: >-
+  https://www.404media.co/content/images/size/w1200/2025/11/chris-leipelt-pRQCTeQTDwE-unsplash.jpg
+date: '2025-11-18T16:16:52.271Z'
+dateFolder: 2025/11/18
+description: >-
+  A bipartisan letter reveals the IRS searched a database of hundreds of
+  millions of travel records without first conducting a legal review. Airlines
+  like Delta, United, American, and Southwest are selling these records to the
+  government through a co-owned data broker.
+isBasedOn: >-
+  https://www.404media.co/irs-accessed-massive-database-of-americans-flights-without-a-warrant/
+link: >-
+  https://www.404media.co/irs-accessed-massive-database-of-americans-flights-without-a-warrant/
+slug: >-
+  2025-11-18-httpswww404mediacoirs-accessed-massive-database-of-americans-flights-without-a-warrant
+tags:
+  - privacy
+  - politics
+  - law and order
+title: IRS Accessed Massive Database of Americans Flights Without a Warrant
+---
+<figure><img alt="IRS Accessed Massive Database of Americans Flights Without a Warrant" data-ll-status="loading" data-sizes="(max-width: 800px) 50vw,
+                (max-width: 1170px) 60vw,
+                1400px" data-src="/content/images/size/w2000/2025/11/chris-leipelt-pRQCTeQTDwE-unsplash.jpg" data-srcset="/content/images/size/w300/2025/11/chris-leipelt-pRQCTeQTDwE-unsplash.jpg 300w,
+                /content/images/size/w600/2025/11/chris-leipelt-pRQCTeQTDwE-unsplash.jpg 600w,
+                /content/images/size/w1000/2025/11/chris-leipelt-pRQCTeQTDwE-unsplash.jpg 1000w,
+                /content/images/size/w2000/2025/11/chris-leipelt-pRQCTeQTDwE-unsplash.jpg 2000w" sizes="(max-width: 800px) 50vw,
+                (max-width: 1170px) 60vw,
+                1400px" src="https://www.404media.co/content/images/size/w2000/2025/11/chris-leipelt-pRQCTeQTDwE-unsplash.jpg" srcset="https://www.404media.co/content/images/size/w300/2025/11/chris-leipelt-pRQCTeQTDwE-unsplash.jpg%20300w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w600/2025/11/chris-leipelt-pRQCTeQTDwE-unsplash.jpg%20600w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w1000/2025/11/chris-leipelt-pRQCTeQTDwE-unsplash.jpg%201000w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w2000/2025/11/chris-leipelt-pRQCTeQTDwE-unsplash.jpg%202000w"/></figure>
+<p>The IRS accessed a database of hundreds of millions of travel records, which show when and where a specific person flew and the credit card they used, without obtaining a warrant, according to a letter signed by a bipartisan group of lawmakers and shared with 404 Media. The country’s major airlines, including Delta, United Airlines, American Airlines, and Southwest, funnel customer records to a data broker they co-own called the Airlines Reporting Corporation (ARC), which then sells access to peoples’ travel data to government agencies.</p>
+<p>The IRS case in the letter is the clearest example yet of how agencies are searching the massive trove of travel data without a search warrant, court order, or similar legal mechanism. Instead, because the data is being sold commercially, agencies are able to simply buy access. In the letter addressed to nine major airlines, the lawmakers urge them to shut down the data selling program.</p>
+<p>“Disclosures made by the IRS to Senator Wyden confirm that it did not follow federal law and its own policies in purchasing airline data from ARC,” <a href="https://www.documentcloud.org/documents/26285433-arc-letter/?ref=404media.co"><u>the letter reads</u></a>. The letter says the IRS “confirmed that it did not conduct a legal review to determine if the purchase of Americans’ travel data requires a warrant.” The signatories on the letter are Senator Ron Wyden, Congressman Andy Biggs, Chair of the Congressional Hispanic Caucus Adriano Espaillat, and Senator Cynthia Lummis.</p>
+<p>The co-owners of ARC include United, American, Delta, Southwest, JetBlue, Alaska, Lufthansa, Air France, and Air Canada, according to the letter. Each of those airlines has a representative on <a href="https://www2.arccorp.com/about-us/leadership-governance?utm_source=Global_Navigation#board-of-directors"><u>ARC’s board of directors</u></a>.</p>
+<p>ARC acts as a conduit between airlines and travel agencies. Whenever someone books a flight through an agency, such as Expedia, ARC receives that booking information. In turn, ARC makes some of that data available to its customers. ARC’s data includes information sourced through more than 12,800 travel agencies, <a href="https://www.404media.co/airlines-sell-5-billion-plane-ticket-records-to-the-government-for-warrantless-searching/"><u>404 Media previously found</u></a> in records obtained through the Freedom of Information Act (FOIA). The letter notes ARC also contains records from popular booking sites Kayak and Priceline and those booked through credit card rewards programs.</p>
+<p>ARC sells government agencies the ability to search a database of around 722 million ticket transactions, stretching over 39 months of past and future travel data, the letter says. (<a href="https://www.404media.co/airlines-sell-5-billion-plane-ticket-records-to-the-government-for-warrantless-searching/"><u>Other records</u></a> have said the figure is in the billions). <a href="https://www.404media.co/airlines-sell-5-billion-plane-ticket-records-to-the-government-for-warrantless-searching/"><u>404 Media has reported</u></a> that ARC’s customers include the FBI, Secret Service, CBP, ATF, the SEC, TSA, and the State Department. ICE is <a href="https://www.levernews.com/airlines-are-collecting-your-data-and-selling-it-to-ice/?ref=404media.co"><u>also a customer</u></a>. Users are able to search the database by name, credit card, airline, and more.</p>
+<figure><a data-fslightbox="" data-no-swup="" href="https://www.404media.co/content/images/2025/11/irs-arc.png"><img alt="" sizes="(min-width: 720px) 720px" src="https://www.404media.co/content/images/2025/11/irs-arc.png" srcset="https://www.404media.co/content/images/size/w600/2025/11/irs-arc.png 600w, https://www.404media.co/content/images/size/w1000/2025/11/irs-arc.png 1000w, https://www.404media.co/content/images/2025/11/irs-arc.png 1242w"/></a><figcaption>A screenshot from the letter.</figcaption></figure>
+<p>“Because ARC only has data on tickets booked through travel agencies, government agencies seeking information about Americans who book tickets directly with an airline must issue a subpoena or obtain a court order to obtain those records. But ARC’s data sales still enable government agencies to search through a database containing 50% of all tickets booked without seeking approval from a judge,” the letter reads.</p>
+<p>It adds that buying tickets directly from airlines is the most profitable method for the airlines. “As such, this surveillance program also raises serious antitrust concerns. Americans who buy their airplane tickets through third party travel agencies, including by redeeming credit card points through a credit card travel portal, deserve the same privacy protections as tickets booked directly through the airlines, whether with cash or frequent flier points,” it reads.</p>
+<p>The database access sold to government agencies is called the Travel Intelligence Program (TIP). An <a href="https://www.404media.co/airlines-sell-5-billion-plane-ticket-records-to-the-government-for-warrantless-searching/"><u>ARC spokesperson previously</u></a> said TIP was established after the September 11 attacks. “Over the years, TIP has likely contributed to the prevention and apprehension of criminals involved in human trafficking, drug trafficking, money laundering, sex trafficking, national security threats, terrorism and other imminent threats of harm to the United States.”</p>
+<p>ARC did not respond to a request for comment. The IRS acknowledged a request for comment but did not provide a statement in time for publication.</p>
+<p>“As with other surveillance programs involving the government’s purchase of Americans’ personal data, ARC’s data sales are an end-run around the privacy rights guaranteed by the Fourth Amendment to the Constitution,” the letter reads. “Regardless of whether you approved this practice, or simply failed to stop it, you are directly responsible for this outrageous violation of your customers’ privacy. Your customers deserve far better. Accordingly, we urge you to exercise your authority as the corporate owners of ARC to protect your customers’ privacy and immediately shut down this program. We also urge you to direct ARC to adopt a policy of only turning over Americans’ travel records to the government when legally compelled to do so, except in emergencies.”</p>

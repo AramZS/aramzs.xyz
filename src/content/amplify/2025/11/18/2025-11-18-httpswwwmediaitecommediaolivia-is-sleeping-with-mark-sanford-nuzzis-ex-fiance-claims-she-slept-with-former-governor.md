@@ -1,0 +1,34 @@
+---
+author: Michael Luciano
+cover_image: 'https://www.mediaite.com/wp-content/uploads/2024/10/Ecx1zs9WoAAIbCI.jpeg'
+date: '2025-11-18T05:59:46.631Z'
+dateFolder: 2025/11/18
+description: >-
+  Journalist Ryan Lizza dropped a bombshell of a claim on Monday night, alleging
+  that his former fiancée, Olivia Nuzzi, had slept with former South Carolina
+  Governor Mark Sanford.
+isBasedOn: >-
+  https://www.mediaite.com/media/olivia-is-sleeping-with-mark-sanford-nuzzis-ex-fiance-claims-she-slept-with-former-governor/
+link: >-
+  https://www.mediaite.com/media/olivia-is-sleeping-with-mark-sanford-nuzzis-ex-fiance-claims-she-slept-with-former-governor/
+slug: >-
+  2025-11-18-httpswwwmediaitecommediaolivia-is-sleeping-with-mark-sanford-nuzzis-ex-fiance-claims-she-slept-with-former-governor
+tags:
+  - wtf
+  - media
+  - politics
+title: >-
+  ‘Olivia Is Sleeping With Mark Sanford’: Nuzzi’s Ex-Fiancé Claims She Slept
+  With Former Governor
+---
+<figure><img alt="" sizes="(max-width: 2048px) 100vw, 2048px" src="https://am14.mediaite.com/med/cnt/uploads/2024/10/Ecx1zs9WoAAIbCI.jpeg" srcset="https://am14.mediaite.com/med/cnt/uploads/2024/10/Ecx1zs9WoAAIbCI.jpeg 2048w, https://am14.mediaite.com/med/cnt/uploads/2024/10/Ecx1zs9WoAAIbCI-300x225.jpeg 300w, https://am14.mediaite.com/med/cnt/uploads/2024/10/Ecx1zs9WoAAIbCI-1200x900.jpeg 1200w, https://am14.mediaite.com/med/cnt/uploads/2024/10/Ecx1zs9WoAAIbCI-768x576.jpeg 768w, https://am14.mediaite.com/med/cnt/uploads/2024/10/Ecx1zs9WoAAIbCI-1536x1152.jpeg 1536w"/><figcaption>X/@Olivianuzzi</figcaption></figure>
+<p>Journalist <strong>Ryan Lizza</strong> dropped a bombshell of a claim on Monday night, alleging that his former fiancée, <strong>Olivia Nuzzi</strong>, had slept with former South Carolina Governor <strong>Mark Sanford</strong> (R).</p>
+<p>The 32-year-old Nuzzi, who is also a journalist, is making news these days with her upcoming book <em>American Canto</em>, which details her romantic relationship with <strong>Robert F. Kennedy Jr.</strong>, now 71, while she covered his 2024 presidential campaign for <em>New York</em> magazine. The <a href="https://www.mediaite.com/media/olivia-nuzzi-on-leave-from-new-york-magazine-after-romantic-relationship-with-rfk-jr/">revelation</a> ended Nuzzi’s engagement to Lizza, as well as her employment at<em> New York</em>.</p>
+<p>On his website, Telos News, Lizza published a piece titled, “<a href="https://www.telos.news/p/part-1-how-i-found-out">Part 1: How I Found Out</a>.” Surprisingly, the post contains no mention of Kennedy. Instead, Lizza claims he found out that Nuzzi slept with Sanford, now 65, who in 2009 <a href="https://archive.nytimes.com/thecaucus.blogs.nytimes.com/2009/07/17/sanford-aide-resigns/">resigned</a> as governor after it was revealed he had cheated on his wife at the time. Sanford later went on to serve in Congress from 2013 to 2019 before launching an ill-fated 2020 presidential run, which Nuzzi covered.</p>
+<p>Nuzzi did not immediately respond to Mediaite for a request for comment.</p>
+<p>“Olivia had just returned from a reporting trip—at least that’s what she told me it was—and her Herschel backpack, the one with the flap that never quite closed properly, was tossed beside our bed, its contents scattered on the floor,” Lizza began. “That’s when I noticed the sheets of Kimpton Hotel stationery that would alter the course of our lives.”</p>
+<p>Lizza proceeded to give a brief overview of the challenges he and Nuzzi faced before forging an “improbable” relationship. Ultimately, he returned to the backpack and said that Nuzzi had just gotten back from South Carolina, where he said she had been “spending more and more time”:</p>
+<blockquote><p>It was early March. I looked out the window at the garden and noticed the first flowers blooming. Then, squinting, I also thought I saw some new shoots of bamboo. I would have to get out the machete.</p> <p>But one mess at a time. As I tidied up the desk, something on the Kimpton stationery caught my eye. I started to read.</p> <p>“If I swallowed every drop of water from the tower above your house,” Olivia had written, “I would still thirst for you.”</p> <p>Unfortunately, the lack of a water tower on our Georgetown home’s roof ruled me out as the note’s intended recipient.</p> <p>I flipped to another page and saw a name and the first line of an unfinished love letter to him that included enough details to confirm a physical relationship and the hint of some kind of falling out.</p> <p>My heart stopped when I realized who he was.</p> <p>He was a famous politician, 32 years older than Olivia, and well-known for a sex scandal. But more importantly, he was a presidential candidate, a source, and the subject of Olivia’s recent profile for New York.</p> <p>I started to build a mental map of the potential blast zone, ticking through the concentric circles of our lives that her recklessness could shatter: the privacy of my children, the wedding Olivia was pressuring me to plan, her journalism career, our book project.</p> <p>I was not a perfect partner, but the scale of Olivia’s betrayal was devastating. She had an affair with someone who would provide the maximum level of humiliation and personal and professional ruin, perhaps for both of us.</p> <p>She later explained to me that she became “infatuated” with him after their interview, that she couldn’t get him out of her head, and that as her obsession intensified, she sent him increasingly risqué pictures and texts, secretly followed him on the campaign trail when she told me she was out covering other candidates, and fantasized about a rendezvous, which was consummated at his home in South Carolina one night after she went dark on me and made up a story about how she was dealing with a crisis concerning her sick mother.</p> <p>I was sure our relationship was over. And certainly our book project was dead. She had crossed a journalistic red line. How could we write a book about the presidential campaign if Olivia had a sexual relationship with one of the candidates?</p> <p>I looked at the date on her aborted letter to “Mark”: March 5, 2020—just a few days ago.</p> <p>I called my agent.</p> <p>“We have a big problem,” I said. “Olivia is sleeping with Mark Sanford.”</p></blockquote>
+<p>Nuzzi wrote a <a href="https://nymag.com/intelligencer/2019/09/mark-sanford-2020-presidential-campaign.html">profile</a> of Sanford for <em>New York</em> in 2019. In September of that year, Nuzzi <a href="https://x.com/Olivianuzzi/status/1173223582417195008">tweeted</a> photos of Sanford, writing, “I spent some time in South Carolina with Mark Sanford for @NYMag.”</p>
+<p>One user <a href="https://x.com/samsanders/status/1173289892874506240">replied</a>, “He looks… happy?”</p>
+<p>Nuzzi <a href="https://x.com/Olivianuzzi/status/1173290170046713861">responded</a>, “I tend to have that effect.”</p>
