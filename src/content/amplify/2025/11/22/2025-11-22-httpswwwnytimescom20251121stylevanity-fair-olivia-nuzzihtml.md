@@ -1,0 +1,31 @@
+---
+author: Ginia Bellafante
+cover_image: >-
+  https://static01.nyt.com/images/2025/11/21/multimedia/21ST-VF-NUZZI-pbjl/21ST-VF-NUZZI-pbjl-facebookJumbo.jpg
+date: '2025-11-22T13:48:58.617Z'
+dateFolder: 2025/11/22
+description: >-
+  The magazine, which recently hired the journalist, said it had been “taken by
+  surprise” by new claims in an essay by her former fiancé, Ryan Lizza.
+isBasedOn: 'https://www.nytimes.com/2025/11/21/style/vanity-fair-olivia-nuzzi.html'
+link: 'https://www.nytimes.com/2025/11/21/style/vanity-fair-olivia-nuzzi.html'
+slug: 2025-11-22-httpswwwnytimescom20251121stylevanity-fair-olivia-nuzzihtml
+tags:
+  - media
+title: Vanity Fair Is Reviewing Its Ties to Olivia Nuzzi
+---
+<p>The magazine, which recently hired the journalist, said it had been “taken by surprise” by new claims in an essay by her former fiancé, Ryan Lizza.</p>
+<figure><audio src="https://static.nytimes.com/narrated-articles/synthetic/article-ae054055-1e70-5dd5-8a8f-bf826491901a/job-1763768208283/article-ae054055-1e70-5dd5-8a8f-bf826491901a-job-1763768208283.mp3"></audio></figure>
+<figure><picture><source media="(max-width: 599px) and (min-device-pixel-ratio: 3),(max-width: 599px) and (min-resolution: 3dppx),(max-width: 599px) and (min-resolution: 288dpi)" srcset="https://static01.nyt.com/images/2025/11/21/multimedia/21ST-VF-NUZZI-pbjl/21ST-VF-NUZZI-pbjl-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1800"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 2),(max-width: 599px) and (min-resolution: 2dppx),(max-width: 599px) and (min-resolution: 192dpi)" srcset="https://static01.nyt.com/images/2025/11/21/multimedia/21ST-VF-NUZZI-pbjl/21ST-VF-NUZZI-pbjl-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1200"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 1),(max-width: 599px) and (min-resolution: 1dppx),(max-width: 599px) and (min-resolution: 96dpi)" srcset="https://static01.nyt.com/images/2025/11/21/multimedia/21ST-VF-NUZZI-pbjl/21ST-VF-NUZZI-pbjl-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600"/><img alt="" sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 60vw, 100vw" src="https://static01.nyt.com/images/2025/11/21/multimedia/21ST-VF-NUZZI-pbjl/21ST-VF-NUZZI-pbjl-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" srcset="https://static01.nyt.com/images/2025/11/21/multimedia/21ST-VF-NUZZI-pbjl/21ST-VF-NUZZI-pbjl-articleLarge.jpg?quality=75&amp;auto=webp 600w,https://static01.nyt.com/images/2025/11/21/multimedia/21ST-VF-NUZZI-pbjl/21ST-VF-NUZZI-pbjl-jumbo.jpg?quality=75&amp;auto=webp 1024w,https://static01.nyt.com/images/2025/11/21/multimedia/21ST-VF-NUZZI-pbjl/21ST-VF-NUZZI-pbjl-superJumbo.jpg?quality=75&amp;auto=webp 2048w"/></picture><figcaption>Olivia Nuzzi at the White House Correspondents’ Association dinner in 2023. Credit: Stefani Reynolds/Agence France-Presse — Getty Images</figcaption></figure>
+<p><i><figure><a href="https://www.nytimes.com/by/ginia-bellafante"><img alt="Ginia Bellafante" src="https://static01.nyt.com/images/2018/12/06/multimedia/author-ginia-bellafante/author-ginia-bellafante-thumbLarge.png"/></a></figure><p><i>By </i><a href="https://www.nytimes.com/by/ginia-bellafante">Ginia Bellafante</a></p></i></p>
+<p>The editor Mark Guiducci has made two big moves since taking the helm of Vanity Fair in June. He decided to put only male actors on the cover of the magazine’s <a href="https://www.nytimes.com/2025/11/18/style/vanity-fair-hollywood-issue.html">annual Hollywood issue</a>, and he hired the scandal-plagued journalist <a href="https://www.nytimes.com/2025/11/14/style/olivia-nuzzi-rfk-book-american-canto.html">Olivia Nuzzi</a> as its West Coast editor.</p>
+<p>Now, after the publication of an essay that raised new questions about Ms. Nuzzi’s adherence to journalistic ethics, the magazine is reviewing her past conduct, according to a Vanity Fair spokeswoman.</p>
+<p>Ms. Nuzzi, 32, <a href="https://www.nytimes.com/2024/10/21/business/media/olivia-nuzzi-rfk-jr-new-york-magazine.html">lost a previous high-profile job</a> — as the Washington correspondent at New York magazine — when her bosses learned in September 2024 that she had engaged in a close personal relationship with Robert F. Kennedy Jr., whom she had profiled for the publication the year before.</p>
+<p>The concern at Vanity Fair came about in the wake of a Substack essay written by Ms. Nuzzi’s former fiancé, the political journalist <a href="https://www.nytimes.com/2017/12/11/business/ryan-lizza-sexual-misconduct.html">Ryan Lizza</a>.</p>
+<p>His lengthy piece, <a href="https://www.telos.news/p/part-1-how-i-found-out">“Part I: How I Found Out,”</a> set social media alight when it appeared on Monday. In it, Mr. Lizza claimed that Ms. Nuzzi had engaged in an affair with another powerful man she had written about for New York magazine: Mark Sanford, the former governor of South Carolina and a onetime Republican presidential candidate.</p>
+<p>Ms. Nuzzi’s <a href="https://nymag.com/intelligencer/2019/09/mark-sanford-2020-presidential-campaign.html">article on Mr. Sanford</a> was published in September 2019, and she appeared to have started a relationship with him months after that, Mr. Lizza wrote.</p>
+<p>Asked if Ms. Nuzzi would continue in her new role at Vanity Fair in the wake of Mr. Lizza’s claims, a spokeswoman for the magazine said, “We were taken by surprise, and we are looking at all the facts.”</p>
+<p>Ms. Nuzzi declined to comment on the matter.</p>
+<p>Hours before Mr. Lizza posted his Substack essay, Vanity Fair’s website featured an excerpt from Ms. Nuzzi’s forthcoming book, “American Canto,” in which she describes her ardent feelings for a Kennedy-like character she calls the Politician.</p>
+<p>In response to the allegations in Mr. Lizza’s post, Ms. Nuzzi’s lawyer, Ari Wilkenfeld, said in a statement, “In ‘American Canto,’ Ms. Nuzzi discusses the only instance in her long career as a journalist in which she had an improper relationship with someone she was covering.”</p>
+<p>He added that his client would “not dignify efforts to impugn her character with any future response.”</p>
