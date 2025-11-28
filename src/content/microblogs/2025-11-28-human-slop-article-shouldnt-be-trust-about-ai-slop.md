@@ -49,6 +49,8 @@ No algorithmically generated content existed on the internet before ChatGPT? [Lo
 
 [Rofl](https://tweets.aramzs.com/735600709375262721/)
 
+'Almost 100% of the web is published by humans in 2020' is a statement that is so incredibly wrong that it is entirely invalidating of everything else this article could say just by itself!
+
 Do not write about or share this study! Don't give these AI bullshit artists what they want. 
 
 [Want reliable sources about AI? I've collected them in a context page](https://context.center/topics/generative-ai-and-chatgpt/).
