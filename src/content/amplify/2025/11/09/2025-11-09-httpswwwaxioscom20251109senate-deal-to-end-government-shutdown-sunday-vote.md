@@ -1,0 +1,24 @@
+---
+author: 'Stephen Neukam, Stef W. Kight'
+cover_image: >-
+  https://images.axios.com/KxEYktE1J7umvG6rJeKkgWEqs9Q=/0x417:4000x2667/1366x768/2025/11/09/1762712341430.jpeg
+date: '2025-11-09T23:52:13.758Z'
+dateFolder: 2025/11/09
+description: At least 10 Senate Democrats are expected to support a key procedural motion.
+isBasedOn: >-
+  https://www.axios.com/2025/11/09/senate-deal-to-end-government-shutdown-sunday-vote
+link: >-
+  https://www.axios.com/2025/11/09/senate-deal-to-end-government-shutdown-sunday-vote
+slug: >-
+  2025-11-09-httpswwwaxioscom20251109senate-deal-to-end-government-shutdown-sunday-vote
+tags:
+  - politics
+title: Deal to end government shutdown in reach
+---
+<figure data-chromatic="ignore" data-cy="au-image"><img alt="Senate Minority Leader Chuck Schumer (D-NY) departs a Democratic luncheon at the U.S. Capitol on November 6, 2025 in Washington, DC. Lawmakers continue to negotiate as the government shutdown reaches its 37th day, the longest in U.S. history. (Photo by Eric Lee/Getty Images)" data-cy="StoryImage" data-nimg="1" sizes="100vw" src="https://images.axios.com/093IXfN3SivzwLwuRbug1r8Cr3I=/0x417:4000x2667/1920x1080/2025/11/09/1762712341430.jpeg?w=3840" srcset="https://images.axios.com/SgrpgJ6mZ-j0G2Hs7awaWoDYNWc=/0x417:4000x2667/640x360/2025/11/09/1762712341430.jpeg?w=640 640w, https://images.axios.com/093IXfN3SivzwLwuRbug1r8Cr3I=/0x417:4000x2667/1920x1080/2025/11/09/1762712341430.jpeg?w=750 750w, https://images.axios.com/093IXfN3SivzwLwuRbug1r8Cr3I=/0x417:4000x2667/1920x1080/2025/11/09/1762712341430.jpeg?w=828 828w, https://images.axios.com/093IXfN3SivzwLwuRbug1r8Cr3I=/0x417:4000x2667/1920x1080/2025/11/09/1762712341430.jpeg?w=1080 1080w, https://images.axios.com/093IXfN3SivzwLwuRbug1r8Cr3I=/0x417:4000x2667/1920x1080/2025/11/09/1762712341430.jpeg?w=1200 1200w, https://images.axios.com/093IXfN3SivzwLwuRbug1r8Cr3I=/0x417:4000x2667/1920x1080/2025/11/09/1762712341430.jpeg?w=1920 1920w, https://images.axios.com/093IXfN3SivzwLwuRbug1r8Cr3I=/0x417:4000x2667/1920x1080/2025/11/09/1762712341430.jpeg?w=2048 2048w, https://images.axios.com/093IXfN3SivzwLwuRbug1r8Cr3I=/0x417:4000x2667/1920x1080/2025/11/09/1762712341430.jpeg?w=3840 3840w"/><figcaption>Senate Minority Leader Chuck Schumer departs a Democratic luncheon at the U.S. Capitol on Nov. 6. Photo: Eric Lee/Getty Images)</figcaption></figure>
+<p>A handful of Senate Democrats on Sunday indicated they are ready to advance a package of bills that could end the <a data-vars-click-url="https://www.axios.com/2025/11/05/government-shutdown-length-days-record-trump" data-vars-content-id="af513757-d0e0-433a-95dc-033d58e6d799" data-vars-event-category="story" data-vars-headline="Deal to end government shutdown in reach" data-vars-item="in_content_link" data-vars-link-text="government shutdown" data-vars-sub-category="story" href="https://www.axios.com/2025/11/05/government-shutdown-length-days-record-trump">government shutdown</a>, multiple sources told Axios.</p>
+<p><strong>Why it matters: </strong>It is the most significant movement toward a bipartisan breakthrough in the talks to reopen the government in over a month.</p>
+<ul><li>At least 10 Senate Democrats are expected to support a procedural motion to advance a package of spending bills and a short term-funding measure through the end of January, multiple sources from both parties told Axios.</li><li>The deal would include a promised vote on extending Obamacare tax credits in December, the sources said. It could also include some kind of language to help federal workers who have been laid off under the shutdown.</li><li>Talks are fluid, and no deal is final until lawmakers have voted. But the discussions are progressing toward a deal that would end weeks of deadlock in the Senate.</li></ul>
+<p><strong>The big picture:</strong> Senators are in Washington for a rare weekend session, and are on track to vote Sunday on a procedural motion on a government funding package.</p>
+<ul><li>Lawmakers have been asked to return to Washington on Sunday if they left town.</li><li>And the <a data-vars-click-url="https://www.appropriations.senate.gov/news/majority/bill-text-military-construction-veterans-affairs-and-related-agencies-appropriations-act-2026" data-vars-content-id="af513757-d0e0-433a-95dc-033d58e6d799" data-vars-event-category="story" data-vars-headline="Deal to end government shutdown in reach" data-vars-item="in_content_link" data-vars-link-text="long-awaited text" data-vars-sub-category="story" href="https://www.appropriations.senate.gov/news/majority/bill-text-military-construction-veterans-affairs-and-related-agencies-appropriations-act-2026">long-awaited text</a> of the appropriations bills that lawmakers hope to include in the deal started to be released Sunday afternoon.</li></ul>
+<p><em>Editor's note: This story has been updated with additional reporting. </em></p>

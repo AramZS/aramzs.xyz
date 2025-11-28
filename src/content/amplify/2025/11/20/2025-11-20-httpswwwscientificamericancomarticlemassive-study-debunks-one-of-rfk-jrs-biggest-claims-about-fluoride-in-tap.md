@@ -1,0 +1,36 @@
+---
+author: Humberto Basilio
+cover_image: >-
+  https://static.scientificamerican.com/dam/m/23c163c970c3b726/original/RFK-JR-GettyImages-2241484559.jpg?m=1763577334.941&w=1200
+date: '2025-11-20T12:44:04.801Z'
+dateFolder: 2025/11/20
+description: >-
+  Researchers tracked thousands of Americans for decades, finding no links
+  between ingesting recommended levels of fluoride and lower cognitive skills
+isBasedOn: >-
+  https://www.scientificamerican.com/article/massive-study-debunks-one-of-rfk-jrs-biggest-claims-about-fluoride-in-tap/
+link: >-
+  https://www.scientificamerican.com/article/massive-study-debunks-one-of-rfk-jrs-biggest-claims-about-fluoride-in-tap/
+slug: >-
+  2025-11-20-httpswwwscientificamericancomarticlemassive-study-debunks-one-of-rfk-jrs-biggest-claims-about-fluoride-in-tap
+tags:
+  - health
+  - science
+title: 'Fluoride in Tap Water Not Linked to Lower Child IQ, Massive Study Finds'
+---
+<figure><img alt="A person in a suit and tie poses in front of an American flag with an odd upward angle on his face" sizes="(min-width: 900px) 900px, (min-resolution: 2dppx) 75vw, (min-resolution: 2.1dppx) 50vw, 100vw" src="https://static.scientificamerican.com/dam/m/23c163c970c3b726/original/RFK-JR-GettyImages-2241484559.jpg?m=1763577334.941&amp;w=1350" srcset="https://static.scientificamerican.com/dam/m/23c163c970c3b726/original/RFK-JR-GettyImages-2241484559.jpg?m=1763577334.941&amp;w=600 600w, https://static.scientificamerican.com/dam/m/23c163c970c3b726/original/RFK-JR-GettyImages-2241484559.jpg?m=1763577334.941&amp;w=900 900w, https://static.scientificamerican.com/dam/m/23c163c970c3b726/original/RFK-JR-GettyImages-2241484559.jpg?m=1763577334.941&amp;w=1000 1000w, https://static.scientificamerican.com/dam/m/23c163c970c3b726/original/RFK-JR-GettyImages-2241484559.jpg?m=1763577334.941&amp;w=1200 1200w, https://static.scientificamerican.com/dam/m/23c163c970c3b726/original/RFK-JR-GettyImages-2241484559.jpg?m=1763577334.941&amp;w=1350 1350w"/><figcaption>RFK Jr in October 2025 Kevin Dietsch/Getty Images</figcaption></figure>
+<p>A new decades-long study has found no evidence that exposure to recommended levels of fluoride lowers children’s cognitive skills.</p>
+<p>The research, which was <a href="https://www.science.org/doi/10.1126/sciadv.aed4503">published on Wednesday in <i>Science Advances</i></a><i>, </i>challenges U.S. Secretary of Health and Human Services Robert F. Kennedy, Jr.’s earlier claim that adding fluoride to tap water may harm cognition.</p>
+<p>Citing fears that the chemical negatively affects brain development, several U.S. cities and states are either in the process of reevaluating the inclusion of fluoride in their water supply or have already moved to remove it. The new paper’s findings, however, offer U.S.-based evidence that the public health intervention is safe, says University of Minnesota sociologist and study co-author John Robert Warren.</p>
+<p>The new study is a “much needed addition to a broad literature that shows the safety and benefits of community water fluoridation,” says University of California, San Francisco, pediatrician Susan Fisher-Owens, who was not involved in the work. “It is the first study that looks at this information in the United States, which makes it a stronger basis for making policy decisions.”</p>
+<p>Fluoride <a href="https://www.scientificamerican.com/article/fluoride-in-drinking-water-is-safe-heres-the-evidence/">was first added to drinking water</a> in parts of the U.S. in 1945 to prevent tooth decay, one of the most common chronic childhood diseases. The practice, first adopted in Grand Rapids, Mich., was, in 1999, praised by the Centers for Disease Control and Prevention as among the greatest public health achievements of the 20th century. Today more than 62 percent of the U.S. population receives fluoridated water. Generally, U.S. water systems have 0.7 milligram of fluoride per liter of water.</p>
+<p>For the new study, Warren and his colleagues analyzed data from Americans who were included in the High School and Beyond study cohort by the National Center for Education Statistics between 1980 and 2021. The data analyzed by Warren’s team started with 26,820 participants in 1980, and about half of them were part of a 2021 follow-up.</p>
+<p>The researchers estimated each participant’s fluoride exposure from conception through 12th grade. The team then compared the participants’ exposure with their standardized test scores in reading, math and vocabulary during high school, as well as with memory tests that they were given when they reached their 60s.</p>
+<aside><ul><li><figure><a href="https://www.scientificamerican.com/article/experts-explain-how-botulism-toxin-can-end-up-in-baby-formula/"><img alt="" src="https://static.scientificamerican.com/dam/m/5f89b230e679e230/original/GettyImages-1407268983_botulinum.jpg?m=1763491890.769&amp;w=160"/></a></figure></li><li><figure><a href="https://www.scientificamerican.com/article/why-a-little-heartbeat-irregularity-can-be-good-for-you/"><img alt="" src="https://static.scientificamerican.com/dam/m/513024b705a448fc/original/saw1225SoH01.jpg?m=1762546040.148&amp;w=160"/></a></figure></li><li><figure><a href="https://www.scientificamerican.com/article/canada-just-lost-its-measles-free-status-the-u-s-could-soon-follow/"><img alt="" src="https://static.scientificamerican.com/dam/m/5a97168dd6f5bffb/original/GettyImages-1134489573_resized.jpeg?m=1762813550.479&amp;w=160"/></a></figure></li></ul></aside>
+<p>The results showed that children who grew up taking in the recommended levels of fluoride performed slightly better on all academic measures in high school than those who were never exposed to sufficient levels. In adulthood, those same individuals who had recommended exposure showed no measurable differences in memory, attention or other cognitive skills compared with their peers, according to the study.</p>
+<p>Although the study did not examine why people who were exposed to fluoridation had higher test scores in high school, Warren hypothesizes that having better dental health as a result of fluoride may have meant those individuals were less likely to be absent from school because of illness.</p>
+<p>“If children are healthy, they are staying in school, and they are going to do better,” Fisher-Owens agrees.</p>
+<p>The study “is not perfect,” Warren says, because standardized test scores are not the same as an IQ test. His team is preparing to publish another study involving IQ tests that were given to a group of people that researchers have followed since the 1950s, however.</p>
+<p>The study comes amid a growing debate over fluoridation in water: this year Utah’s ban on fluoride in public drinking water went into effect in May, and Florida’s did so in July.</p>
+<p>Any policy assessment needs to take into account both the benefits and potential harms of fluoridation, says epidemiologist David Savitz, who was not involved in the new study. But, he adds, the evidence that supports the benefits of fluoridation in the U.S. is stronger than the evidence that suggests potential harms.</p>
+<p>“The only reason we fluoridate the water is because of the benefits. If it did not have benefits, we would not do it,” Savitz says.</p>

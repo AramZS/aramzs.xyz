@@ -1,0 +1,28 @@
+---
+author: Russell Brandom
+cover_image: >-
+  https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=1200,800
+date: '2025-11-20T17:14:57.212Z'
+dateFolder: 2025/11/20
+description: >-
+  Wikipedia's guide to “Signs of AI writing” is a great resource for learning to
+  spot LLM-generated prose.
+isBasedOn: >-
+  https://techcrunch.com/2025/11/20/the-best-guide-to-spotting-ai-writing-comes-from-wikipedia/
+link: >-
+  https://techcrunch.com/2025/11/20/the-best-guide-to-spotting-ai-writing-comes-from-wikipedia/
+slug: >-
+  2025-11-20-httpstechcrunchcom20251120the-best-guide-to-spotting-ai-writing-comes-from-wikipedia
+tags:
+  - ai
+  - writing
+title: The best guide to spotting AI writing comes from Wikipedia
+---
+<figure><img alt="Illustration of the Wikipedia website application" sizes="(max-width: 1024px) 100vw, 1024px" src="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg" srcset="https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg 1920w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=150,100 150w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=300,200 300w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=768,512 768w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=680,453 680w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=1200,800 1200w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=1280,853 1280w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=430,287 430w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=720,480 720w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=900,600 900w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=800,533 800w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=1536,1024 1536w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=668,445 668w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=563,375 563w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=926,617 926w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=708,472 708w, https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=50,33 50w"/><figcaption>Image Credits:Riccardo Milani / Hans Lucas / Hans Lucas via AFP / Getty Images</figcaption></figure>
+<p>We’ve all felt the creeping suspicion that something we’re reading was written by a large language model — but it’s remarkably difficult to pin down. For a few months last year, everyone became convinced that specific words like “delve” or “underscore” could give models away, but the evidence is thin, and as models have grown more sophisticated, the telltale words have become harder to trace.</p>
+<p>But as it turns out, the folks at Wikipedia have gotten pretty good at flagging AI-written prose — and the group’s public guide to <a href="https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing">“Signs of AI writing”</a> is the best resource I’ve found for nailing down whether your suspicions are warranted. (Credit to the poet Jameson Fitzpatrick, who pointed out the document on X.)</p>
+<p>Since 2023, Wikipedia editors have been working to get a handle on AI submissions, a project they call Project AI Cleanup. With millions of edits coming in each day, there’s plenty of material to draw on, and in classic Wikipedia-editor style, the group has produced a field guide that’s both detailed and heavy on evidence.</p>
+<p>To start with, the guide confirms what we already know: automated tools are basically useless. Instead, the guide focuses on habits and turns of phrase that are rare on Wikipedia but common on the internet at large (and thus, common in the model’s training data). According to the guide, AI submissions will spend a lot of time emphasizing why a subject is important, usually in generic terms like “a pivotal moment” or “a broader movement.” AI models will also spend a lot of time detailing minor media spots to make the subject seem notable — the kind of thing you’d expect from a personal bio, but not from an independent source.</p>
+<p>The guide flags a particularly interesting quirk around tailing clauses with hazy claims of importance. Models will say some event or detail is “emphasizing the significance” of something or other, or “reflecting the continued relevance” of some general idea. (Grammar nerds will know this as the “present participle.”) It’s a bit hard to pin down, but once you can recognize it, you’ll see it everywhere.</p>
+<p>There’s also a tendency towards vague marketing language, which is extremely common on the internet. Landscapes are always scenic, views are always breathtaking, and everything is clean and modern. As the editors put it, “it sounds more like the transcript of a TV commercial.”</p>
+<p>The guide is worth reading in full, but I came away very impressed. Before this, I would have said that LLM prose was developing too fast to pin down. But the habits flagged here are deeply embedded in the way AI models are trained and deployed. They can be disguised, but it will be hard to do away with them completely. And if the general public gets more savvy about identifying AI prose, it could have all sorts of interesting consequences.</p>

@@ -1,0 +1,45 @@
+---
+author: Aishvarya Kavi
+cover_image: >-
+  https://static01.nyt.com/images/2025/11/10/multimedia/10dc-kennan-zhgb/10dc-kennan-zhgb-facebookJumbo.jpg
+date: '2025-11-14T05:28:50.892Z'
+dateFolder: 2025/11/14
+description: >-
+  The Kennan Institute, which researches Russia and the surrounding region, has
+  re-emerged in a form that is smaller but more impervious to government
+  control.
+isBasedOn: >-
+  https://www.nytimes.com/2025/11/10/us/politics/kennan-institute-doge-trump.html
+link: >-
+  https://www.nytimes.com/2025/11/10/us/politics/kennan-institute-doge-trump.html
+slug: 2025-11-14-httpswwwnytimescom20251110uspoliticskennan-institute-doge-trumphtml
+tags:
+  - politics
+title: 'Dismantled by DOGE, a Foreign Policy Center Finds New Life'
+---
+<p><a data-testid="tlogo-home-link" href="https://www.nytimes.com/"><figure></figure></a></p>
+<p>The Kennan Institute, which researches Russia and the surrounding region, has re-emerged in a form that is smaller but more impervious to government control.</p>
+<figure><audio src="https://static.nytimes.com/narrated-articles/synthetic/article-80653ee0-a011-5d9b-a5d5-6bcc54f8ac1e/job-1762832219749/article-80653ee0-a011-5d9b-a5d5-6bcc54f8ac1e-job-1762832219749.mp3"></audio></figure>
+<figure><picture><source media="(max-width: 599px) and (min-device-pixel-ratio: 3),(max-width: 599px) and (min-resolution: 3dppx),(max-width: 599px) and (min-resolution: 288dpi)" srcset="https://static01.nyt.com/images/2025/11/10/multimedia/10dc-kennan-zhgb/10dc-kennan-zhgb-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1800"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 2),(max-width: 599px) and (min-resolution: 2dppx),(max-width: 599px) and (min-resolution: 192dpi)" srcset="https://static01.nyt.com/images/2025/11/10/multimedia/10dc-kennan-zhgb/10dc-kennan-zhgb-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1200"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 1),(max-width: 599px) and (min-resolution: 1dppx),(max-width: 599px) and (min-resolution: 96dpi)" srcset="https://static01.nyt.com/images/2025/11/10/multimedia/10dc-kennan-zhgb/10dc-kennan-zhgb-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600"/><img alt="Cafe tables and umbrellas sit on a rainy patio in front of the stone facade of a building with “Ronald Reagan Building and International Trade Center” above its doorway." sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 60vw, 100vw" src="https://static01.nyt.com/images/2025/11/10/multimedia/10dc-kennan-zhgb/10dc-kennan-zhgb-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" srcset="https://static01.nyt.com/images/2025/11/10/multimedia/10dc-kennan-zhgb/10dc-kennan-zhgb-articleLarge.jpg?quality=75&amp;auto=webp 600w,https://static01.nyt.com/images/2025/11/10/multimedia/10dc-kennan-zhgb/10dc-kennan-zhgb-jumbo.jpg?quality=75&amp;auto=webp 1024w,https://static01.nyt.com/images/2025/11/10/multimedia/10dc-kennan-zhgb/10dc-kennan-zhgb-superJumbo.jpg?quality=75&amp;auto=webp 2048w"/></picture><figcaption>The Ronald Reagan Building in Washington, where the Keenan Institute was housed before the Department of Government Efficiency all but dismantled it. Credit: Jason Andrew for The New York Times</figcaption></figure>
+<p><i><figure><a href="https://www.nytimes.com/by/aishvarya-kavi"><img alt="Aishvarya Kavi" src="https://static01.nyt.com/images/2022/03/11/us/politics/author-aishvarya-kavi/author-aishvarya-kavi-thumbLarge-v2.png"/></a></figure><p><i>By </i><a href="https://www.nytimes.com/by/aishvarya-kavi">Aishvarya Kavi</a></p><blockquote><p>Reporting from Washington</p></blockquote></i></p>
+<p>The Kennan Institute, a renowned center for research on Russia and the surrounding region, shares a recent past common to federal agencies and Washington institutions that work on foreign policy. As the Trump administration arrived in office wielding a wrecking ball, it was all but destroyed.</p>
+<p>But on Monday, it separated itself from most of its dismantled counterparts. It was reborn.</p>
+<p>The new Kennan Institute is smaller but organized to make itself less susceptible to government whims, restructured into an independent nonprofit and relying on its endowment rather than federal funds. But its officials say it retains the mission it has had since opening in 1974, to offer research and analysis on a region that remains as critical as ever with the Russia-Ukraine war.</p>
+<p>Michael Kimmage, who was director of the institute before its dismantling and remains in that role, called the center’s evolution over the past eight months “a story of surprises.”</p>
+<p>“Intellectually speaking, institutionally, we do think of ourselves as in the 52nd year of the Kennan Institute’s history,” Mr. Kimmage said. “But in a kind of legal, technical, institutional sense, what we are now is completely different.”</p>
+<p>When Elon Musk and his Department of Government Efficiency arrived at its offices in April, it might have looked as though the institute was destined to end up essentially defunct, like the <a href="https://www.nytimes.com/2025/11/03/us/politics/twisted-path-foreign-aid-court-case.html">U.S. Agency for International Development</a> and <a href="https://www.nytimes.com/2025/03/24/us/politics/showdown-institute-of-peace.html">the U.S. Institute of Peace</a>.</p>
+<p>At the time, the Kennan Institute was the oldest and largest program at the Woodrow Wilson International Center for Scholars, a congressionally chartered institution that traditionally operated independently until President Trump asserted control.</p>
+<p>Unlike many institutions, the Wilson Center did not sue or publicly fight.</p>
+<p>Instead, its president at the time, Mark Green, a Republican, <a href="https://www.nytimes.com/2025/04/02/us/politics/doge-wilson-center.html">quickly resigned</a>. The remaining leaders then followed directives from DOGE to <a href="https://www.nytimes.com/2025/04/03/us/politics/wilson-center-shutdown-musk.html">lay off most of the staff</a>, even though many were not federal employees.</p>
+<p>With its future quashed at the Wilson Center, which remains largely under the Trump administration’s control, the Kennan Institute’s top staff members and stakeholders moved quickly to keep its legacy intact. The institute, whose co-founder was George F. Kennan, an American diplomat who conceived the cold-war policy of containment, said in its announcement that it is now “entirely independent” from the Wilson Center.</p>
+<p>The Wilson Center has transferred to the institute its endowment, much of which was raised at the time of its founding and was held separately from those of the Wilson Center’s other programs.</p>
+<p>In an interview, Jeff Bialos, a lawyer with expertise in national security who is representing the institute pro bono, declined to say how much the endowment contained — only that it was an “appreciable” amount. He added that the Wilson Center had honored the terms of its original agreement with Mr. Kennan at the time of its founding.</p>
+<p>In a statement, Natasha Jacome, the president of the Wilson Center, said that organization was “so proud” that the Kennan Institute’s work would continue.</p>
+<p>“The Kennan Institute was the Wilson Center’s first program and has been a vital part of our legacy over the past five decades,” she added.</p>
+<p>The Wilson Center itself restarted some programming in September. In a video announcing <a href="https://www.wilsoncenter.org/article/wilson-center-names-amb-david-hale-and-amb-ret-philip-reeker-distinguished-fellows-part">two new fellows</a> in September, Ms. Jacome said the center had “spent the past few months refocusing.”</p>
+<p>Both the Kennan Institute and the Wilson Center say they will work together in the future.</p>
+<p>The institute has half the staff members it did before. But it is looking to take a more public-facing role than it had previously, Mr. Kimmage said. It has regained its collection of tens of thousands of books that were stranded in the Wilson Center’s offices at the Ronald Reagan Building when the staff was abruptly forced out in April.</p>
+<p>It may pass some of them along to a university, where they can be more widely accessible to students and scholars, Mr. Kimmage said, because the institute’s current office space, on K Street in Washington, is too small to house the library or the memorabilia amassed over half a century, much of which represents ties to the history of U.S.-Soviet relations.</p>
+<p>Among those items is the huge mounted head of a wild boar that the Soviet leader Leonid Brezhnev reportedly shot and gave to Secretary of State Henry Kissinger at the height of tension between the two nations.</p>
+<p>The boar, named Boris, came to the Kennan Institute in the 1990s and became a sort of mascot, Mr. Kimmage said. For now, Boris is stuck in storage, but Mr. Kimmage expects that to change now that the institute is finding new footing.</p>
+<p>“When we get more permanent offices, Boris is going to go back up,” he said.</p>
