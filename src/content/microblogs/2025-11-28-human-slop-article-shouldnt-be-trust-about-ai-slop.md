@@ -35,6 +35,8 @@ This is **inevitability propaganda**, by an AI company named "Graphite", made to
 
 If this was a real study it would be published in a real journal not <a href="https://graphite.io/five-percent/more-articles-are-now-created-by-ai-than-humans" target="_blank" rel="noreferrer noopener nofollow">a fking press release on the AI company's site</a>. They don't even have the confidence in their theory to do what a lot of other AI companies do and commission real university scientists to run it. Or put it in a preprint! 
 
+[Even the supplied dataset ](https://docs.google.com/spreadsheets/d/138eHRPJc-7Vt8tSx8eGX1eA9niIupbs2bxAwLALwrig/edit?gid=1699237437#gid=1699237437)is BS and they simply do not provide much of the information that would be needed for reproducing and verifying their work.
+
 The people who wrote this study are, at best, fully incompetent! "Since the large-scale adoption of AI tools began with ChatGPT, we argue that, with high probability, articles published before the release of ChatGPT were written by humans"
 
 [Hahahaha](https://jezebel.com/the-team-of-men-behind-rachel-brewson-the-fake-woman-w-1787270300).
