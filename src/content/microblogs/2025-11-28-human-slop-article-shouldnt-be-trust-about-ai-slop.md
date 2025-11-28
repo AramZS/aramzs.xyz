@@ -16,7 +16,7 @@ date: '2025-11-28T09:00:00.000-04:00'
 
 There's a post going around that is claiming that AI has overtaken human writing on the internet. Its central claim is that this is because ChatGPT and a phenomenon that started in mid-2022. Less commonly reported is that the post is PR by a company that wants to use [the image of inevitability](https://tomrenner.com/posts/llm-inevitabilism/?__readwiseLocation=) to sell you AI. 
 
-I'm [something of a the-internet-is-fake expert myself](https://tweets.aramzs.com/1078003966863200256/) so I can pretty confidently tell you that this article is bullshit in a number of different ways. 
+I'm [something of a the-internet-is-fake expert myself](https://tweets.aramzs.com/1078003966863200256/) so I can pretty confidently tell you that this article ([PDF copy here](https://www.dropbox.com/scl/fi/svyb5h12dn624px38k8ed/https___graphite.PDF?rlkey=66ux53r8kshj5d20re96s29lu&st=iw1u0tvt&dl=0)) is bullshit in a number of different ways. 
 
 {% image 'src/images/Willem_Dafoe_Scientist_GIF.gif' 'Willem Dafoe in Spiderman 1 saying he is something of a scientist himself, meme image' 'in-post-gif center-in-text' %}
 
