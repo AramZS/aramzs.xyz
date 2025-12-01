@@ -37,7 +37,7 @@
     {% endif %}
 
     <section class="full-width page-post" data-source="src/_includes/layouts/page-post.njk">
-    {% if cover_image %}
+    {% if cover_image and not hide_cover_image %}
       <div class="featured-image full-width breakout">
         {% set cover_image_path %}public/img/posts/{{cover_image}}{% endset %}
         {% set cover_image_alt %}{% if cover_alt %}{{ cover_alt }}{% else %}{{title}}{% endif %}{% endset %}
