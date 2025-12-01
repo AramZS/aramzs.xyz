@@ -114,6 +114,11 @@ module.exports = {
     {
       colors: ["#d2e2f4", "#262624", "#d3432a", "#933176", "#d0792a", "#e6b647", "#e9d16e", ],
       sourceInfo: "NEH Buttons", source: "https://bsky.app/profile/nehafge3403.bsky.social/post/3lpjzvqsmp227"
+    },
+    {
+      colors: ["#0a0a0a", "#f80d10", "#f9cf0a", "#3cf287", "#83f5ec"],
+      sourceInfo: "Arc Raiders Game via Speranza Watchlist",
+      "source": "https://www.speranza-watchlist.com"
     }
   ]
 };
