@@ -1,0 +1,28 @@
+---
+author: Dennis Harvey
+cover_image: >-
+  https://variety.com/wp-content/uploads/2019/07/jesus-shows-you-the-way-to-the-highway-6-1-e1564780090770.jpg?w=1000&h=563&crop=1
+date: '2025-12-04T01:01:49.816Z'
+dateFolder: 2025/12/03
+description: >-
+  Miguel Llanso's second feature is an inspired mashup of vintage exploitation
+  tropes and pure absurdism.
+isBasedOn: >-
+  https://variety.com/2019/film/reviews/jesus-shows-you-the-way-to-the-highway-review-1203286173/
+link: >-
+  https://variety.com/2019/film/reviews/jesus-shows-you-the-way-to-the-highway-review-1203286173/
+slug: >-
+  2025-12-03-httpsvarietycom2019filmreviewsjesus-shows-you-the-way-to-the-highway-review-1203286173
+tags:
+  - film
+title: 'Film Review: ‘Jesus Shows You the Way to the Highway’'
+---
+<figure><img alt="Jesus Shows You the Way to the Highway review" sizes="(min-width: 87.5rem) 1000px, (min-width: 78.75rem) 630px, (min-width: 48rem) 70vw, (max-width: 48rem) calc( 90vw - 2rem )" src="https://variety.com/wp-content/uploads/2019/07/jesus-shows-you-the-way-to-the-highway-6-1-e1564780090770.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=1360%2C907" srcset="https://variety.com/wp-content/uploads/2019/07/jesus-shows-you-the-way-to-the-highway-6-1-e1564780090770.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=1360%2C907 1360w, https://variety.com/wp-content/uploads/2019/07/jesus-shows-you-the-way-to-the-highway-6-1-e1564780090770.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=1000%2C667 1000w, https://variety.com/wp-content/uploads/2019/07/jesus-shows-you-the-way-to-the-highway-6-1-e1564780090770.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=910%2C607 910w, https://variety.com/wp-content/uploads/2019/07/jesus-shows-you-the-way-to-the-highway-6-1-e1564780090770.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=681%2C454 681w, https://variety.com/wp-content/uploads/2019/07/jesus-shows-you-the-way-to-the-highway-6-1-e1564780090770.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=450%2C300 450w, https://variety.com/wp-content/uploads/2019/07/jesus-shows-you-the-way-to-the-highway-6-1-e1564780090770.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=250%2C167 250w"/><figcaption>Courtesy of Lanzadera</figcaption></figure>
+<p>Some of the more obscure guilty-pleasure subgenres familiar to fans of international psychotronic cinema get thrown in a blender to create Miguel Llanso’s second feature. The resulting concoction is a witch’s brew of cheap 1960s European 007 knockoffs, ’70s Filipino exploitation cinema, vintage kung fu pics, retro TV sci-fi cheese and lucha libre-type masked machismo, as well as myriad other elements, filtered through a narrative framework of Cold War anxiety and Afrofuturist techno-fantasy.</p>
+<p>Billed as “a WTF thriller,” it will duly produce that flummoxed exclamation from unprepared viewers. But those with a simpatico arcane pop-cultural taste for giddy absurdism will find “Jesus Shows You the Way to the Highway” as delightfully nonsensical as its inspired title.</p>
+<p>Expanding on the surreal superheroic template of his Ethiopia-shot 2015 feature debut “Crumbs,” which followed several well-traveled shorts, this crowdfunded epic sprawls across several nations, shooting formats and space/time dimensions. Its shoestring production values don’t hobble the proceedings — indeed, it’s the no-budget realization of fantastical ideas and FX that lends much of the charm here.</p>
+<p>CIA agents DT Gagano (diminutive Daniel Tadesse from “Crumbs”) and Palmer Eldritch (Augustin Mateo) are guinea pigs in a government experiment where they’re monitored by scientists as they go “under” to fight a Soviet computer virus named “Stalin” in a virtual-reality universe. They do much of this wearing animated Robert Redford and Richard Pryor masks, moving in herky-jerk stop motion.</p>
+<p>The ninja-type perils they encounter while in this virtual world are not supposed to be harmful to their unconscious bodies in our physical one. Yet somehow when Gagano is wounded by phantom nemeses, he can no longer be woken from his comatose state in the CIA lab. This is unhappy news not just to him, but to doting spouse Malin (Gerda-Annette Allikas), a Teutonic blonde twice his size. She’d been looking forward to his imminent retirement from espionage, and of realizing their respective dreams of opening a pizza parlor and kickboxing studio.</p>
+<p>That may seem like quite enough conceptual craziness for one movie. But “Jesus” keeps piling on new layers of conspiracy, reality, parody and pure goofiness — not excluding very liberal character variations on both Batman and the titular messianic figure. Is this maze-like story all a dream? A drug trip? A Deep State plot? Llanso’s absurdist jape of a script keeps juggling such possibilities, with a dedicated internal consistency as impressive as its result is deliberately senseless.</p>
+<p>In its sheer perversity, this Rube Goldbergian movie is more drolly amusing than laugh-out-loud funny. But it is unquestionably not quite like anything else before it (excepting perhaps “Crumbs”), and that’s a virtue from which cult followings are born.</p>
+<p>The entire package is ingeniously tacky, from the energetic and idiosyncratic performances (as well as their deliberately crude English dubbing) to the vintage Z-movie fashions, dated technology (’80s computers, ’70s telephones, etc.) and liberal use of stock footage. The movie’s three DPs shot in various formats for maximum faux-period verisimilitude, including different types of 16mm cameras. Zoom lensing, vertical wipes and other devices of yesteryear also add flavor, as does a soundtrack whose archaically hip accents run a gamut from free jazz to demoded electronics.</p>

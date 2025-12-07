@@ -1,0 +1,26 @@
+---
+author: Angelique Jackson
+cover_image: >-
+  https://variety.com/wp-content/uploads/2025/12/Scarlett-Johansson-Batman.jpg?crop=0px%2C53px%2C2160px%2C1215px&resize=1000%2C563
+date: '2025-12-04T14:59:17.494Z'
+dateFolder: 2025/12/04
+description: >-
+  Scarlett Johansson is in talks to star opposite Robert Pattinson in "The
+  Batman 2." Zoe Kravitz's Catwoman is not likely to return.
+isBasedOn: >-
+  https://variety.com/2025/film/news/scarlett-johansson-the-batman-2-1236599322/?utm_campaign=vanity-fair-s-west-coast-woes&utm_medium=referral&utm_source=www.status.news
+link: >-
+  https://variety.com/2025/film/news/scarlett-johansson-the-batman-2-1236599322/?utm_campaign=vanity-fair-s-west-coast-woes&utm_medium=referral&utm_source=www.status.news
+slug: >-
+  2025-12-04-httpsvarietycom2025filmnewsscarlett-johansson-the-batman-2-1236599322utmcampaignvanity-fair-s-west-coast-woesandutmmediumreferralandutmsourcewwwstatusnews
+tags:
+  - entertainment
+title: Scarlett Johansson in Talks for ‘The Batman 2’
+---
+<figure><img alt="Scarlett Johansson Batman" sizes="(min-width: 87.5rem) 1000px, (min-width: 78.75rem) 630px, (min-width: 48rem) 70vw, (max-width: 48rem) calc( 90vw - 2rem )" src="https://variety.com/wp-content/uploads/2025/12/Scarlett-Johansson-Batman.jpg?w=1000&amp;h=667&amp;crop=1" srcset="https://variety.com/wp-content/uploads/2025/12/Scarlett-Johansson-Batman.jpg?w=1000&amp;h=667&amp;crop=1 2160w, https://variety.com/wp-content/uploads/2025/12/Scarlett-Johansson-Batman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=150%2C100 150w, https://variety.com/wp-content/uploads/2025/12/Scarlett-Johansson-Batman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=300%2C200 300w, https://variety.com/wp-content/uploads/2025/12/Scarlett-Johansson-Batman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=1920%2C1280 1920w, https://variety.com/wp-content/uploads/2025/12/Scarlett-Johansson-Batman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=1360%2C907 1360w, https://variety.com/wp-content/uploads/2025/12/Scarlett-Johansson-Batman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=1000%2C667 1000w, https://variety.com/wp-content/uploads/2025/12/Scarlett-Johansson-Batman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=910%2C607 910w, https://variety.com/wp-content/uploads/2025/12/Scarlett-Johansson-Batman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=681%2C454 681w, https://variety.com/wp-content/uploads/2025/12/Scarlett-Johansson-Batman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=450%2C300 450w, https://variety.com/wp-content/uploads/2025/12/Scarlett-Johansson-Batman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=250%2C167 250w"/><figcaption>Scarlett Johansson Batman</figcaption></figure>
+<p><a data-tag="scarlett-johansson" href="https://variety.com/t/scarlett-johansson/">Scarlett Johansson</a> is in negotiations to join the cast of “The Batman Part II,” starring opposite <a data-tag="robert-pattinson" href="https://variety.com/t/robert-pattinson/">Robert Pattinson</a>‘s Caped Crusader.</p>
+<p>The DC Studios film, directed by Matt Reeves, is expected to <a href="https://variety.com/2025/film/news/the-batman-2-filming-spring-2026-1236481330/">begin shooting next spring</a> for an October 2027 theatrical release from Warner Bros. “The Batman” opened in theaters in March 2022 and grossed $772 million at the worldwide box office; Reeves and co-writer Mattson Tomlin <a href="https://variety.com/2025/film/news/the-batman-2-script-done-matt-reeves-1236442972/">completed the script</a> for the long-awaited sequel in June. Zoe Kravitz’s Catwoman is not expected to return for the film, according to sources with knowledge of the production.</p>
+<p>“It’s been a long journey, but I am so incredibly excited. I’m really proud of the script me and Mattson did,” <a href="https://variety.com/2025/film/news/robert-pattinson-batman-2-script-penguin-season-2-1236518305/">Reeves told <em>Variety</em></a> at the Emmys in September, revealing the lengths to which “The Batman” team went to keep the story under wraps. “We put [the script] into a secret pouch that literally has a lock on it with a code. [Robert Pattinson] was in New York at the time, and everything is high security.”</p>
+<p>Likewise, details of Johansson’s potential role have not been revealed, but the move is the latest major franchise deal for the actor, who most recently starred in the box office smash “Jurassic World Rebirth” (which grossed more than $800 million for Universal) and will appear in <a href="https://variety.com/2025/film/news/scarlett-johansson-exorcist-movie-1236591122/">“The Exorcist” reboot.</a> Most notably, Johansson joining the Batman sequel means swinging across the comic book street from the Marvel Cinematic Universe (of which she is a founding Avenger as Natasha Romanoff, aka Black Widow) to DC’s factory of heroes.</p>
+<p>Johansson, a two-time Oscar nominee, has been plenty busy outside of the realm of franchise IP, too. She made her directorial debut with the drama “Eleanor the Great,” which debuted at the Cannes Film Festival and was released by Sony Pictures Classics. She’ll next be seen starring in James Gray’s “Paper Tiger.” She is represented by CAA and Yorn Levine LLC.</p>
+<p>Nexus Point News first reported news of Johansson eyeing a role in the film. DC Studios had no comment on the casting.</p>

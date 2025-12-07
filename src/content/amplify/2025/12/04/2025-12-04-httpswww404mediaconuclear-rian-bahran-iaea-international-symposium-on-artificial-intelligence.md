@@ -1,0 +1,53 @@
+---
+author: Matthew Gault
+cover_image: 'https://www.404media.co/content/images/2025/12/Vogtle_NPP.jpg'
+date: '2025-12-04T15:41:15.343Z'
+dateFolder: 2025/12/04
+description: >-
+  A presentation at the International Atomic Energy Agency unveiled Big Tech’s
+  vision of an AI and nuclear fueled future.
+isBasedOn: >-
+  https://www.404media.co/nuclear-rian-bahran-iaea-international-symposium-on-artificial-intelligence/
+link: >-
+  https://www.404media.co/nuclear-rian-bahran-iaea-international-symposium-on-artificial-intelligence/
+slug: >-
+  2025-12-04-httpswww404mediaconuclear-rian-bahran-iaea-international-symposium-on-artificial-intelligence
+tags:
+  - ai
+  - tech
+  - energy
+  - politics
+  - baselines
+title: >-
+  ‘Atoms for Algorithms:’ The Trump Administration’s Top Nuclear Scientists
+  Think AI Can Replace Humans in Power Plants
+---
+<figure><img alt="‘Atoms for Algorithms:’ The Trump Administration’s Top Nuclear Scientists Think AI Can Replace Humans in Power Plants" data-ll-status="loaded" data-sizes="(max-width: 800px) 50vw,
+                (max-width: 1170px) 60vw,
+                1400px" data-src="/content/images/size/w2000/2025/12/Vogtle_NPP.jpg" data-srcset="/content/images/size/w300/2025/12/Vogtle_NPP.jpg 300w,
+                /content/images/size/w600/2025/12/Vogtle_NPP.jpg 600w,
+                /content/images/size/w1000/2025/12/Vogtle_NPP.jpg 1000w,
+                /content/images/size/w2000/2025/12/Vogtle_NPP.jpg 2000w" sizes="(max-width: 800px) 50vw,
+                (max-width: 1170px) 60vw,
+                1400px" src="https://www.404media.co/content/images/size/w2000/2025/12/Vogtle_NPP.jpg" srcset="https://www.404media.co/content/images/size/w300/2025/12/Vogtle_NPP.jpg%20300w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w600/2025/12/Vogtle_NPP.jpg%20600w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w1000/2025/12/Vogtle_NPP.jpg%201000w,%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20/content/images/size/w2000/2025/12/Vogtle_NPP.jpg%202000w"/><figcaption>Alvid Ward Vogtle Nuclear Power Plant. Nuclear Regulatory Commission photo. </figcaption></figure>
+<p>During a presentation at the International Atomic Energy Agency’s (IAEA) <a href="https://www.iaea.org/events/ai-symposium-2025?ref=404media.co"><u>International Symposium on Artificial Intelligence</u></a> on December 3, a US Department of Energy scientist laid out a grand vision of the future where nuclear energy powers artificial intelligence and artificial intelligence shapes nuclear energy in “a virtuous cycle of peaceful nuclear deployment.”</p>
+<p>“The goal is simple: to double the productivity and impact of American science and engineering within a decade,” Rian Bahran, DOE Deputy Assistant Secretary for Nuclear Reactors, said.</p>
+<p>His presentation and others during the symposium, held in Vienna, Austria, described a world where nuclear powered AI designs, builds, and even runs the nuclear power plants they’ll need to sustain them. But experts find these claims, made by one of the top nuclear scientists working for the Trump administration, to be concerning and potentially dangerous.</p>
+<p>Tech companies are using artificial intelligence to <a href="https://www.404media.co/power-companies-are-using-ai-to-build-nuclear-power-plants/"><u>speed up the construction</u></a> of new nuclear power plants in the United States. But few know the lengths to which the Trump administration is paving the way and the part it's playing in deregulating a highly regulated industry to ensure that AI data centers have the energy they need to shape the future of America and the world.</p>
+<figure><p class="rw-outer-content"><span>Some content could not be imported from the original document.</span> <a href="https://playlist.megaphone.fm?p=TBIEA2761282490&amp;episodes=1">View content ↗ </a></p></figure>
+<p>At the IAEA, scientists, nuclear energy experts, and lobbyists discussed what that future might look like. To say the nuclear people are bullish on AI is an understatement. “I call this not just a partnership but a structural alliance. Atoms for algorithms. Artificial intelligence is not just powered by nuclear energy. It’s also improving it because this is a two way street,” IAEA Director General Rafael Mariano Grossi said in his opening remarks.</p>
+<p>In his talk, Bahran explained that the DOE has partnered with private industry to invest $1 trillion to “build what will be an integrated platform that connects the world’s best supercomputers, AI systems, quantum systems, advanced scientific instruments, the singular scientific data sets at the National Laboratories—including the expertise of 40,000 scientists and engineers—in one platform.”</p>
+<figure><a data-fslightbox="" data-no-swup="" href="https://www.404media.co/content/images/2025/12/IAEASlide.png"><img alt="" sizes="(min-width: 720px) 720px" src="https://www.404media.co/content/images/2025/12/IAEASlide.png" srcset="https://www.404media.co/content/images/size/w600/2025/12/IAEASlide.png 600w, https://www.404media.co/content/images/size/w1000/2025/12/IAEASlide.png 1000w, https://www.404media.co/content/images/2025/12/IAEASlide.png 1348w"/></a><figcaption>Image via the IAEA. </figcaption></figure>
+<p>Big tech has had an unprecedented run of cultural, economic, and technological dominance, expanding into a bubble that seems to be close to bursting. For more than 20 years new billion dollar companies appeared seemingly overnight and offered people new and exciting ways of communicating. Now Google search is broken, AI is <a href="https://www.404media.co/ai-is-supercharging-the-war-on-libraries-education-and-human-knowledge/"><u>melting human knowledge</u></a>, and people have stopped buying a new smart phone every year. To keep the number going up and ensure its cultural dominance, tech (and the US government) are betting big on AI.</p>
+<p>The problem is that AI requires massive datacenters to run and those datacenters need an incredible amount of energy. To solve the problem, the US is rushing to build out new nuclear reactors. Building a new power plant safely is a mutli-year long process that requires an incredible level of human oversight. It’s also expensive. Not every new nuclear reactor project gets finished and they often run over budget and drag on for years.</p>
+<p>But AI needs power now, not tomorrow and certainly not a decade from now.</p>
+<p>According to Bahran, the problem of AI advancement outpacing the availability of datacenters is an opportunity to deploy new and exciting tech. “We see a future of and near future, by the way, an AI driven laboratory pipeline for materials modeling, discovery, characterization, evaluation, qualification and rapid iteration,” he said in his talk, explaining how AI would help design new nuclear reactors. “These efforts will substantially reduce the time and cost required to qualify advanced materials for next generation reactor systems. This is an autonomous research paradigm that integrates five decades of global irradiation data with generative AI robotics and high throughput experimentation methodologies.”</p>
+<p>“For design, we’re developing advanced software systems capable of accelerating nuclear reactor deployments by enabling AI to explore the comprehensive design spaces, generate 3D models, [and] conduct rigorous failure mode analyzes with minimal human intervention,” he added. “But of course, with humans in the loop. These AI powered design tools are projected to reduce design timelines by multiple factors, and the goal is to connect AI agents to tools to expedite autonomous design.”</p>
+<p>Bahran also said that AI would speed up the nuclear licensing process, a <a href="https://www.404media.co/power-companies-are-using-ai-to-build-nuclear-power-plants/"><u>complex regulatory process</u></a> that helps build nuclear power plants safely. “Ultimately, the objective is, how do we accelerate that licensing pathway?” he said. “Think of a future where there is a gold standard, AI trained capacity building safety agent.”</p>
+<p>He even said that he thinks AI would help run these new nuclear plants. “We're developing software systems employing AI driven digital twins to interpret complex operational data in real time, detect subtle operational deviations at early stages and recommend preemptive actions to enhance safety margins,” he said.</p>
+<p>One of the slides Bahran showed during the presentation attempted to quantify the amount of human involvement these new AI-controlled power plants would have. He estimated less than five percent “human intervention during normal operations.”</p>
+<figure><a data-fslightbox="" data-no-swup="" href="https://www.404media.co/content/images/2025/12/DOEPresentation-2.png"><img alt="" sizes="(min-width: 720px) 720px" src="https://www.404media.co/content/images/2025/12/DOEPresentation-2.png" srcset="https://www.404media.co/content/images/size/w600/2025/12/DOEPresentation-2.png 600w, https://www.404media.co/content/images/size/w1000/2025/12/DOEPresentation-2.png 1000w, https://www.404media.co/content/images/2025/12/DOEPresentation-2.png 1347w"/></a><figcaption>Image via IAEA. </figcaption></figure>
+<p>“The claims being made on these slides are quite concerning, and demonstrate an even more ambitious (and dangerous) use of AI than previously advertised, including the elimination of human intervention. It also cements that it is the DOE's strategy to use generative AI for nuclear purposes and licensing, rather than isolated incidents by private entities,” Heidy Klaaf, head AI scientist at the AI Now Institute, told 404 Media.</p>
+<p>“The implications of AI-generated safety analysis and licensing in combination with aspirations of &lt;5% of human intervention during normal operations, demonstrates a concerted effort to move away from humans in the loop,” she said. “This is unheard of when considering frameworks and implementation of AI within other safety-critical systems, that typically emphasize meaningful human control.”</p>
+<p><b><strong>Do you know anything else about this story? I would love to hear from you. Using a non-work device, you can message me securely on Signal at +1 347 762-9212 or send me an email at matthew@404media.co.</strong></b></p>
+<p>Sofia Guerra, a career nuclear safety expert who has worked with the IAEA and US Nuclear Regulatory Commission, attended the presentation live in Vienna. “I’m worried about potential serious accidents, which could be caused by small mistakes made by AI systems that cascade,” she said. “Or humans losing the know-how and safety culture to act as required.”</p>
