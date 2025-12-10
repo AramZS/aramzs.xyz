@@ -59,7 +59,7 @@ title: SVG Filters - Clickjacking 2.0
 <p><em>Note: Only the part inside the <code>&lt;filter&gt;</code> block is relevant, the rest is just an example of using filters.</em></p>
 <p>Add to this some color effects and random lines, and you’ve got a pretty convincing cap-tcha!</p>
 <p>Out of all the attack primitives I’ll be sharing, this one is probably the least useful as sites rarely allow you to frame pages giving out magic secret codes. I wanted to show it though, as it’s a pretty simple introduction to the attack technique.</p>
-<p> )]}' [[1337],[1,"AIzaSyAtbm8sIHRoaXMgaXNuJ3QgcmVhbCBsb2w",0,"a",30],[768972,768973,768932,768984,768972,768969,768982,768969,768932,768958,768951],[105,1752133733,7958389,435644166009,7628901,32481100117144691,28526,28025,1651273575,15411]]</p>
+<p> )]}' [[1337],[1,"AI**************",0,"a",30],[768972,768973,768932,768984,768972,768969,768982,768969,768932,768958,768951],[105,1752133733,7958389,435644166009,7628901,32481100117144691,28526,28025,1651273575,15411]]</p>
 <p>Still, it could come in handy because often times you’re allowed to frame read-only API endpoints, so maybe there’s an attack there to discover.</p>
 <h3>Grey text hiding</h3>
 <p>The next example is for situations where you want to trick someone into, for example, interacting with a text input. Oftentimes the inputs have stuff like grey placeholder text in them, so showing the input box by itself won’t cut it.</p>
