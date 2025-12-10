@@ -1,0 +1,38 @@
+---
+author: Hansi Lo Wang
+cover_image: >-
+  https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5220x2936+0+278/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb0%2F1a%2Fe5fd7d3d469fb43029a7f2ecdd10%2Fap20315621824213.jpg
+date: '2025-12-06T13:08:10.633Z'
+dateFolder: 2025/12/06
+description: >-
+  Trump officials are reviewing changes to racial and ethnic categories that the
+  Biden administration approved for the 2030 census and other federal government
+  forms, a White House agency official says.
+isBasedOn: >-
+  https://www.npr.org/2025/12/05/nx-s1-5634897/trump-census-race-categories-ethnicity-middle-east-north-africa?utm_social_post_id=616333915&utm_social_handle_id=did%3Aplc%3Aln72v57ivz2g46uqf4xxqiuh
+link: >-
+  https://www.npr.org/2025/12/05/nx-s1-5634897/trump-census-race-categories-ethnicity-middle-east-north-africa?utm_social_post_id=616333915&utm_social_handle_id=did%3Aplc%3Aln72v57ivz2g46uqf4xxqiuh
+slug: >-
+  2025-12-06-httpswwwnprorg20251205nx-s1-5634897trump-census-race-categories-ethnicity-middle-east-north-africautmsocialpostid616333915andutmsocialhandleiddidpercent3aplcpercent3aln72v57ivz2g46uqf4xxqiuh
+tags:
+  - politics
+  - baselines
+title: >-
+  Trump official signals potential rollback of changes to census racial
+  categories
+---
+<figure><picture><figure><img alt="An envelope sent from the U.S. Census Bureau contains information about the 2020 national head count. The Trump administration is reviewing the racial and ethnic categories approved for the 2030 census and other future federal surveys." data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5220x3480+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb0%2F1a%2Fe5fd7d3d469fb43029a7f2ecdd10%2Fap20315621824213.jpg" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5220x3480+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb0%2F1a%2Fe5fd7d3d469fb43029a7f2ecdd10%2Fap20315621824213.jpg"/><figcaption>An envelope sent from the U.S. Census Bureau contains information about the 2020 national head count. The Trump administration is reviewing the racial and ethnic categories approved for the 2030 census and other future federal surveys.</figcaption></figure></picture></figure>
+<p>A Trump administration official on Friday signaled a potential rollback of the <a href="https://www.npr.org/2024/03/28/1237218459/census-race-categories-ethnicity-middle-east-north-africa">racial and ethnic categories</a> approved for the 2030 census and other future federal government forms.</p>
+<p>Supporters of those categories fear that any last-minute modifications to the U.S. government's <a href="https://www.federalregister.gov/documents/2024/03/29/2024-06469/revisions-to-ombs-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and">standards for data about race and ethnicity</a> could hurt the accuracy of census data and other future statistics used for redrawing voting districts, enforcing civil rights protections and guiding policymaking.</p>
+<p>Those standards were last revised in 2024 during the Biden administration, after <a href="https://www2.census.gov/programs-surveys/decennial/2020/program-management/final-analysis-reports/2015nct-race-ethnicity-analysis.pdf">Census Bureau research</a> and public discussion.</p>
+<p>A White House agency at the time approved, among other changes, new checkboxes for "Middle Eastern or North African" and "Hispanic or Latino" under <a href="https://www.documentcloud.org/documents/24521639-revisions-to-ombs-statistical-policy-directive-no-15-standards-for-maintaining-collecting-and-presenting-federal-data-on-race-and-ethnicity#document/p37/a2444381">a reformatted question</a> that asks survey participants: "What is your race and/or ethnicity?" The revisions also require the federal government to stop automatically categorizing people who identify with<a href="https://www.documentcloud.org/documents/21218285-2020-census-state-pl-94-171-redistricting-summary-file-technical-documentation#document/p232/a2082431"> Middle Eastern or North African groups</a> as white.</p>
+<p>But at a Friday meeting of the Council of Professional Associations on Federal Statistics in Washington, D.C., the chief statistician within the White House's Office of Management and Budget revealed that the Trump administration has started a new review of those standards and how the 2024 revisions were approved.</p>
+<p>"We're still at the very beginning of a review. And this, again, is not prejudging any particular outcome. I think we just wanted to be able to take a look at the process and decide where we wanted to end up on a number of these questions," said Mark Calabria. "I've certainly heard a wide range of views within the administration. So it's just premature to say where we'll end up."</p>
+<p>OMB's press office did not immediately respond to NPR's request for comment.</p>
+<p>Calabria's comments mark the first public confirmation that Trump officials are considering the possibility of not using the latest racial and ethnic category changes and other revisions. They come amid the administration's <a href="https://www.federalregister.gov/documents/2025/01/29/2025-01953/ending-radical-and-wasteful-government-dei-programs-and-preferencing">attack on diversity, equity and inclusion programs</a>, a push to stop producing <a href="https://www.npr.org/2025/02/21/nx-s1-5305265/census-lgbtq-sogi-data-robert-santos">data that could protect the rights of transgender people</a> and <a href="https://www.npr.org/2025/06/04/nx-s1-5397191/us-census-bureau-labor-statistics-doge-data">threats to the reliability of federal statistics</a>.</p>
+<p>In September, <a href="https://spd15revision.gov/content/spd15revision/en/news/2025-09-26-bulletin.html">OMB said</a> those Biden-era revisions "continue to be in effect" when it announced a six-month extension to the 2029 deadline for federal agencies to follow the new standards when collecting data on race and ethnicity.</p>
+<p>Calabria said the delay gave agencies more time to implement the changes "while we review."</p>
+<p>The first Trump administration <a href="https://www.npr.org/2018/01/26/580865378/census-request-suggests-no-race-ethnicity-data-changes-in-2020-experts-say">stalled the process</a> for revising the racial and ethnic data standards in time for the 2020 census.</p>
+<p>The <a href="https://www.documentcloud.org/documents/24088042-project-2025s-mandate-for-leadership-the-conservative-promise/#document/p712/a2774562">"Project 2025" policy agenda</a> released by The Heritage Foundation, the conservative, D.C.-based think tank, called for a Republican administration to "thoroughly review any changes" to census race and ethnicity questions because of "concerns among conservatives that the data under Biden Administration proposals could be skewed to bolster progressive political agendas."</p>
+<p>Advocates of the changes, however, see the new categories and other revisions as long-needed updates to better reflect people's identities.</p>
+<p>"At stake is a more accurate and deeper understanding of the communities that comprise our country," says Meeta Anand, senior director of census and data equity at the Leadership Conference on Civil and Human Rights. "I am not concerned if it's reviewed in an honest attempt to understand what the process was. I am concerned if it's for a predetermined outcome that would be to ignore the entire process that was done in a very transparent manner."</p>
