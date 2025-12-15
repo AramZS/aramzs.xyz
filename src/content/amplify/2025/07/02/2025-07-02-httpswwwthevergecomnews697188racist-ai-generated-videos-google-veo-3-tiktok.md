@@ -1,0 +1,29 @@
+---
+author: Emma Roth
+cover_image: >-
+  https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200
+date: '2025-07-02T22:10:32.000Z'
+dateFolder: 2025/07/02
+description: >-
+  Racist videos made with Google's AI tool Veo 3 are spreading fast on TikTok.
+  These short videos show hateful stereotypes about Black people and other
+  groups. It is unclear if TikTok or Google are taking action to stop them.
+isBasedOn: >-
+  https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok
+link: >-
+  https://www.theverge.com/news/697188/racist-ai-generated-videos-google-veo-3-tiktok
+slug: >-
+  2025-07-02-httpswwwthevergecomnews697188racist-ai-generated-videos-google-veo-3-tiktok
+tags:
+  - ai
+  - race
+  - social media
+title: Racist videos made with AI are going viral on TikTok
+---
+<p>Videos that may have been created with Google Veo 3 depict racist tropes targeting Black people, among others, according to Media Matters.</p>
+<figure><img alt="STK414_AI_CVIRGINIA_2_D" data-chromatic="ignore" data-nimg="fill" sizes="(max-width: 768px) 100vw, 700px" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=2400" srcset="https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=376 376w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=384 384w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=415 415w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=480 480w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=540 540w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=640 640w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=750 750w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=828 828w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=1080 1080w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=1200 1200w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=1440 1440w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=1920 1920w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=2048 2048w, https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK414_AI_CVIRGINIA_2_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C0%2C100%2C100&amp;w=2400 2400w"/><figcaption>Illustration by Cath Virginia / The Verge | Photos by Getty Images</figcaption></figure>
+<p>Racist videos that appear to be created with Google’s AI video generation tool Veo 3 have raked in millions of views across TikTok, <a href="https://www.mediamatters.org/tiktok/racist-ai-generated-videos-are-newest-slop-garnering-millions-views-tiktok">according to findings</a> from the nonprofit media watchdog Media Matters. The AI-generated videos uncovered by the organization are filled with racist tropes, many of which target Black people.</p>
+<p>Media Matters determined that the videos — one of which received 14.2 million views — were generated with Google Veo 3 because of the “Veo” watermark in the corner of the clips. Some users also listed hashtags, captions, or usernames pertaining to Veo 3 or AI, according to Media Matters. Each clip found by the organization lasted just eight seconds, or was “composed of multiple clips each lasting no more than 8 seconds,” which tracks with Veo 3’s eight-second limit.</p>
+<p>Veo 3, launched by Google in May, <a href="https://www.theverge.com/ai-artificial-intelligence/673719/google-veo-3-ai-video-audio-sound-effects">allows users to generate</a> AI video clips and audio with just a text prompt. <a href="https://deepmind.google/models/veo/">On its website</a>, Google says it will “block harmful requests and results.” <a href="https://www.tiktok.com/safety/en/countering-hate">TikTok’s rules</a> similarly state that “hate speech and hateful behavior has no place on TikTok,” and that the platform “will not recommend content that contains negative stereotypes about a person or group with a protected attribute.”</p>
+<p><em>The Verge</em> found some of the videos highlighted by Media Matters were also on YouTube but with fewer views, <a href="https://www.wired.com/story/ai-videos-black-women-depicted-as-primates-viral/">while <em>Wired </em>also discovered similar,</a> racist AI-generated videos on Instagram. Other videos found by Media Matters contain anti-Semitic content and racist depictions of immigrants and Asian people.</p>
+<p>It’s not clear whether TikTok has removed the videos flagged by Media Matters or if Google is aware of Veo 3’s harmful outputs. Neither Google nor TikTok immediately responded to <em>The Verge</em>’s request for comment.</p>
