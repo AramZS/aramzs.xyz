@@ -91,7 +91,6 @@
     "@11ty/eleventy-img": "^3.1.8",
     "@11ty/eleventy-plugin-directory-output": "^1.0.1",
     "@quasibit/eleventy-plugin-sitemap": "^2.2.0",
-    "canvas": "^3.2.0",
     "cheerio": "^1.0.0-rc.12",
     "colorthief": "^2.4.0",
     "convert-csv-to-json": "^2.49.0",
@@ -110,8 +109,18 @@
   },
   "overrides": {
     "glob": "13",
+    "canvas": "3.2.0",
     "browserify": {
       "glob": "13"
+    },
+    "@photogabble/eleventy-plugin-blogtimes": {
+      "canvas": "3.2.0"
+    },
+    "@photogabble/eleventy-plugin-interlinker": {
+      "canvas": "3.2.0"
+    },
+    "jsdom": {
+      "canvas": "3.2.0"
     }
   }
 }
