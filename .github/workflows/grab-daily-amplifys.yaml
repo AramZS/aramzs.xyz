@@ -1,0 +1,23 @@
+name: Get Daily Amplifys
+on:
+  schedule:
+    - cron: "0 4 * * *" # Runs daily at 04:00 UTC / 11pm EST
+  workflow_dispatch:
+
+jobs:
+  grab-daily-amplifys:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22.20
+      - name: Install Dependencies
+        run: npm install
+      - name: Grab Daily Amplifys
+        run: npm run make:readwise
+      - name: Commit and push changes
+        uses: devops-infra/action-commit-push@v1.0.3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "chore: Daily update of Amplifys"
