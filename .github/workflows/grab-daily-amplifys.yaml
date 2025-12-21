@@ -1,0 +1,24 @@
+name: Get Daily Amplifys
+on:
+  schedule:
+    - cron: "0 4 * * *" # Runs daily at 04:00 UTC / 11pm EST
+
+jobs:
+  grab-daily-amplifys:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 22.20
+        env:
+          github_token: "${{ secrets.GITHUB_TOKEN }}"
+      - name: Install Dependencies
+        run: npm install
+      - name: Grab Daily Amplifys
+        run: npm run make:readwise
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git push origin main
