@@ -150,7 +150,7 @@ import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) 
 	);
 
 	//eleventyConfig.addPlugin(require("eleventy-plugin-postcss"));
-
+/** 
 	eleventyConfig.addPlugin(
 		require("@photogabble/eleventy-plugin-blogtimes"),
 		{
@@ -159,7 +159,7 @@ import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) 
 			lastXDays: 180,
 		}
 	);
-
+*/
 	const numberFormat = new Intl.NumberFormat("en-GB");
 
 	eleventyConfig.addPlugin(
