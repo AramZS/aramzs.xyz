@@ -11,13 +11,15 @@ jobs:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v6
         with:
-          node-version: 22.20
+          node-version: 22.20.0
       - name: Install Dependencies
         run: npm install
       - name: Grab Daily Amplifys
+        env:
+          READWISE_TOKEN: ${{ secrets.READWISE_TOKEN }}
         run: npm run make:readwise
       - name: Commit and push changes
         uses: devops-infra/action-commit-push@v1.0.3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_PAT_FOR_COMMITS }}
           commit_message: "chore: Daily update of Amplifys"

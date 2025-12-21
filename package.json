@@ -45,9 +45,7 @@
     "@11ty/eleventy-plugin-rss": "^2.0.4",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
     "@fullhuman/postcss-purgecss": "^4.1.3",
-    "@photogabble/eleventy-plugin-blogtimes": "^1.0.0",
     "@photogabble/eleventy-plugin-font-subsetting": "^1.1.1",
-    "@photogabble/eleventy-plugin-interlinker": "^1.1.2",
     "@photogabble/eleventy-plugin-tag-normaliser": "^1.0.0",
     "@photogabble/eleventy-plugin-word-stats": "^1.0.0",
     "@rknightuk/eleventy-plugin-post-graph": "^1.0.4",
@@ -58,8 +56,8 @@
     "cross-env": "^10.1.0",
     "csv-parse": "^5.5.6",
     "dotenv": "^16.4.5",
-    "eleventy-plugin-postcss": "^1.0.4",
-    "esbuild": "^0.20.2",
+    "eleventy-plugin-postcss": "^3.0.1",
+    "esbuild": "^0.27.2",
     "flat-cache": "^3.0.4",
     "get-contrast": "^3.0.0",
     "gray-matter": "^4.0.3",
@@ -74,14 +72,14 @@
     "markdown-it-link-attributes": "^4.0.1",
     "markdown-it-replace-link": "^1.2.1",
     "markdown-it-todo": "^1.0.5",
-    "netlify-cli": "^17.38.1",
+    "netlify-cli": "^23.13.0",
     "netlify-plugin-cache": "^1.0.3",
     "node-fetch": "^2.6.7",
     "normalize.css": "^8.0.1",
     "postcss": "^8.4.16",
     "postcss-import": "^15.1.0",
     "postcss-minify": "^1.1.0",
-    "puppeteer": "^17.1.3",
+    "puppeteer": "^24.34.0",
     "rss-parser": "^3.13.0",
     "slugify": "^1.6.6",
     "transliteration": "^2.3.5",
@@ -91,7 +89,6 @@
     "@11ty/eleventy-img": "^3.1.8",
     "@11ty/eleventy-plugin-directory-output": "^1.0.1",
     "@quasibit/eleventy-plugin-sitemap": "^2.2.0",
-    "canvas": "^3.2.0",
     "cheerio": "^1.0.0-rc.12",
     "colorthief": "^2.4.0",
     "convert-csv-to-json": "^2.49.0",
@@ -100,11 +97,31 @@
     "dotenv-cli": "^7.4.4",
     "enquirer": "^2.3.6",
     "js-yaml": "^4.1.0",
+    "node-gyp": "^12.1.0",
     "outdent": "^0.8.0",
     "pocket-api": "^1.0.2",
     "pocket-auth-cli": "^1.0.0",
     "postcss-load-config": "^6.0.1",
     "simple-git": "^3.20.0",
     "yargs": "^17.7.2"
+  },
+  "optionalDependencies": {
+    "sharp": "0.34.5"
+  },
+  "overrides": {
+    "glob": "13",
+    "canvas": "3.2.0",
+    "browserify": {
+      "glob": "13"
+    },
+    "@photogabble/eleventy-plugin-blogtimes": {
+      "canvas": "3.2.0"
+    },
+    "@photogabble/eleventy-plugin-interlinker": {
+      "canvas": "3.2.0"
+    },
+    "jsdom": {
+      "canvas": "3.2.0"
+    }
   }
 }

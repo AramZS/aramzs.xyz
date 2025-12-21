@@ -1,0 +1,119 @@
+---
+author: thecrimson.com
+cover_image: >-
+  https://thumbnails.thecrimson.com/photos/2025/10/28/163814_1381568.jpg.2000x1333_q95_crop-smart_upscale.jpg
+date: '2025-12-21T03:29:34.675Z'
+dateFolder: 2025/12/20
+description: >-
+  Screenshots and message logs obtained by The Crimson appear to show Salient
+  leaders casually using racial slurs, defending extremist rhetoric, and
+  dismissing internal concerns — conversations that later became central to the
+  board’s decision to suspend the magazine.
+isBasedOn: >-
+  https://www.thecrimson.com/article/2025/12/21/documents-reveal-harvard-salient-complaint/
+link: >-
+  https://www.thecrimson.com/article/2025/12/21/documents-reveal-harvard-salient-complaint/
+slug: >-
+  2025-12-20-httpswwwthecrimsoncomarticle20251221documents-reveal-harvard-salient-complaint
+tags:
+  - wtf
+  - media
+  - academia
+  - politics
+title: >-
+  Racial Slurs and Nazi Symbols: Inside the Complaint That Shut Down The Harvard
+  Salient
+---
+<p>Screenshots and message logs obtained by The Crimson appear to show Salient leaders casually using racial slurs, defending extremist rhetoric, and dismissing internal concerns — conversations that later became central to the board’s decision to suspend the magazine.</p>
+<figure><img alt="The Harvard Salient’s March 2025 issue sits in an inbox outside a dorm room." src="https://thumbnails.thecrimson.com/photos/2025/10/28/163814_1381568.jpg.1500x999_q95_crop-smart_upscale.jpg"/><figcaption>The Harvard Salient’s March 2025 issue sits in an inbox outside a dorm room.</figcaption></figure>
+<p>When the Harvard Salient’s board of directors suspended the conservative student magazine in late October, they accused its student members of publishing “reprehensible” material and claimed they had received “deeply disturbing and credible complaints about the broader culture of the organization.”</p>
+<p>Then, for more than a month, the board was silent.</p>
+<p>But a series of documents obtained by The Crimson reveal what members of the Salient’s governing body were concerned about: variations of a racial slur used casually in a group chat of members; an unpublished issue featuring a call for mass executions; and draft versions of a September article, written by David F.X. Army ’28, that included two images of swastikas and a Nazi slogan in the subtitle.</p>
+<p>After its publication, Army’s piece <a href="https://www.thecrimson.com/article/2025/10/8/harvard-dean-salient-article/">drew fire for a line</a> — “Germany belongs to the Germans, France to the French, Britain to the British, America to the Americans” — that mirrored a phrase used by Adolf Hitler in a 1939 speech. The magazine’s editor-in-chief, Richard Y. Rodgers ’28, eventually issued a statement standing behind the piece and saying any invocation of Nazi language was unintentional.</p>
+<p>But draft versions of the article suggest that, at the very least, members of the Salient were aware that the article’s contents invoked Nazi ideology.</p>
+<p>The files, shared with The Crimson by two members of the Salient, include the editing history of two published articles along with screenshots and video recordings from an internal Signal thread used by the publication’s leaders and active members. In those messages, some Salient writers defend quoting Hitler, criticize extending voting rights to women, and use the n-word, replacing some letters with emojis.</p>
+<p>The documents also include a copy of the Salient’s unreleased October edition, which was pulled by the publication’s board of directors before it could be distributed on campus. Articles in the unreleased issue include a call for the United States to “begin the implementation of the death penalty at a grand scale” and a defense of the Spanish Inquisition.</p>
+<p>Many of the materials reviewed by The Crimson were shared with the Salient’s board of directors in October, prompting the board to announce the<a href="https://www.thecrimson.com/article/2025/10/27/salient-suspended/"> suspension of the magazine’s operations</a> on Oct. 26.</p>
+<p>The move instigated a battle over the Salient’s future that stormed behind the scenes. The publication’s student leaders announced their <a href="https://www.thecrimson.com/article/2025/10/29/salient-to-disregard-suspension/">intent to defy</a> the suspension, only to be shot down with a <a href="https://www.thecrimson.com/article/2025/11/6/harvard-salient-cease-and-desist/">cease-and-desist letter</a> from the board. Both sides lawyered up — and then everything went quiet.</p>
+<p>It was an almost unprecedented escalation for a dispute over a student magazine and a sharp setback for a publication that was still expanding its campus footprint after a period of dormancy. Founded in 1981, the Salient was revived by students in 2021 to counter what its leaders called the “marked dearth” of “independent and contrarian thought” at Harvard.</p>
+<p>The magazine was swift to reestablish itself: It rented an office at 8 Eliot St. — $6,500 a month for one story of a house near the Harvard Kennedy School — and raised more than half a million dollars in donations, including more than $300,000 in the last fiscal year alone.</p>
+<p>Though the Salient was frequently spurned by Harvard’s mostly liberal student body and never far from controversy, its editorial bent shifted further to the right last semester, often breaking from mainstream campus conservatism — and the September issue provoked a new degree of outcry. The documents shared with The Crimson suggest that its editors knew they were playing with fire.</p>
+<h2>‘I’ll Quote Who I Want’</h2>
+<p>As Rodgers prepared the magazine’s September issue for print, he pasted the draft that would become Army’s article, titled “The Abolition of Peoples,” into a shared document on Aug. 1. The version copied by Rodgers included two images of the Nazi party’s state symbol — an eagle clutching a swastika in its talons — alongside its title, according to screenshots reviewed by The Crimson.</p>
+<p>That version of the article carried the headline “Racial Fraternity” and the subtitle “Nur für Deutsche,” a phrase used by the Nazi party to mark areas as off-limits to Jewish people.</p>
+<p>The draft also cited a widely circulated video of the Jewish academic Barbara Lerner Spectre, using her comments about the inevitability of multiculturalism in Europe to suggest that Jewish people were deliberately engineering what Army called “civilizational suicide.” The quote from Spectre has been used by far-right commentators as evidence for long-standing antisemitic conspiracies about Jewish influence over European society.</p>
+<p>A portion of Spectre’s quote does appear in the published version of the article, though only after Salient associate editor Declan I.M. Deady ’27 suggested removing a line that explicitly referenced Jewish people, according to screenshots of the editing history.</p>
+<p>Rodgers wrote in a statement on Saturday that upon seeing the Nazi imagery in the draft of Army’s article, he “immediately rejected it, reprimanded the author privately and told him to revise it, and demanded a new draft without that content.”</p>
+<p>“I stand by my earlier statement that the editors did not recognize the resemblance prior to publication,” he wrote. “The concern was raised after publication; had it been recognized beforehand, it would have been addressed differently.”</p>
+<p>Army also addressed the draft version of his article on Saturday, writing in a statement that it had been edited by a “non-Harvard affiliate prior to sending it the Salient EIC.”</p>
+<p>“I did not, mistakenly, check their edits prior to sending it, and I was severely personally reprimanded by the Editor for my oversight when it was discovered that they had added offensive material into the article that was not originally there,” he wrote.</p>
+<p>The Crimson could not independently verify Army’s claims.</p>
+<p>After the story ran — in modified form, without the swastikas or the Nazi subtitle — in the Salient’s September issue, Rodgers and Army defended it publicly and within the magazine.</p>
+<p>Rodgers wrote in an <a href="https://www.thecrimson.com/article/2025/10/8/harvard-dean-salient-article/">October statement</a> to The Crimson that the piece’s author “did not intentionally quote Adolf Hitler, nor did any member of our editorial staff recognize the resemblance prior to publication.”</p>
+<figure><img alt="A copy of the Harvard Salient hangs from a door on campus." src="https://thumbnails.thecrimson.com/photos/2025/02/19/201749_1376510.jpg.1500x1000_q95_crop-smart_upscale.jpg"/><figcaption>A copy of the Harvard Salient hangs from a door on campus. By <a href="https://www.thecrimson.com/writer/1219436/Elyse_C._Goncalves/">Elyse C. Goncalves</a></figcaption></figure>
+<p>Earlier, confronted by fellow Salient members in the Signal chat, Army likewise denied that he had intentionally alluded to Hitler. On Sept. 12, one day after the September issue was delivered to student dormitories, Salient writer Jason Morganbesser ’27 messaged the group chat to ask Army about the phrase that mirrored Hitler’s speech, saying that he wanted an “explanation.”</p>
+<p>“I wrote that from my own brain, quoting no one,” Army wrote. “You can relax Jason lol.”</p>
+<p>Rodgers chimed in, defending Army and calling the phrase “incredibly common syntax.”</p>
+<p>Another Salient member replied and urged writers to be “extraordinarily careful to avoid quotes that aren’t completely congruent with our message” and that could be taken out of context.</p>
+<p>Rodgers replied, writing that he didn’t find the phrase “incongruent.”</p>
+<p>“If the West has to abdicate its role and pull out of third world countries, leaving massive vacuums in wake, then what right [does] the third world have to infiltrate the West? This has been a standard conservative talking point for two centuries,” he wrote.</p>
+<p>“Unless of course we have some people who aren’t conservative in this group chat, which is very probable,” Army added.</p>
+<p>Morganbesser pushed back, objecting to the replication of language used by Hitler.</p>
+<p>“Maybe it’s different for you, but Adolf Hitler’s policies are incongruent with my values, personally,” Morganbesser replied.</p>
+<p>“I’ll quote who I want,” Army shot back. “I didn’t quote Hitler, but I’ll make sure I quote him on my next article.”</p>
+<p>“Just for you,” he added.</p>
+<p>Army wrote in his statement on Saturday that his messages were written “in exasperation and irritation at the stupidity of the situation, not serious.”</p>
+<h2>The Group Chat</h2>
+<p>Other messages from the Salient group chat show a broad pattern of discriminatory and offensive rhetoric.</p>
+<p>During an exchange in the group chat on Aug. 12, members of the Salient masthead repeatedly wrote variations of the n-word, replacing two letters in the racial slur with emojis. After Rodgers texted in the group chat asking for birthday money, Deady replied, writing “Ni--a, your birthday ain’t for 51 minutes.”</p>
+<p>Salient deputy editor Charles B. Bratton II ’27 then sent an animated GIF of a Black man smiling.</p>
+<p>“Ni--a please,” Rodgers, who is white, wrote. “Let that be the final ni--a used in this chat. Decorum.”</p>
+<p>“What about hard r,” Deady replied. “Can I still say ni--er?”</p>
+<p>“As a Black,” he added. “I’m Irish, it counts.”</p>
+<p>Rodgers defended the groupchat in his statement.</p>
+<p>“While we kept chats from degrading into the malicious use of real slurs, I do wonder if anyone actually takes serious issue with the messages as you described them,” he wrote.</p>
+<p>Deady did not respond to a request for comment, and Bratton wrote in a statement that the GIF he sent is a “popular GIF that shows a black man looking puzzled and/or dumbfounded.”</p>
+<p>“The race of the man in the animation has nothing to do with the messages of the people before and after and was merely an expression of confusion directed toward prior messages,” he added.</p>
+<p>On Aug. 18, Rodgers sent a screenshot of a post from the Senate Republican Instagram account commemorating the anniversary of the 19th amendment, which granted women the right to vote.</p>
+<p>“Unfamiliar parties need not read the amendment to see cataclysmic results. They need only look around,” he wrote.</p>
+<figure><img alt="A sticky note in a student dorm's mailbox expresses opposition to the Harvard Salient in March 2025." src="https://thumbnails.thecrimson.com/photos/2025/12/20/190520_1382982.jpg.1500x999_q95_crop-smart_upscale.jpg"/><figcaption>A sticky note in a student dorm's mailbox expresses opposition to the Harvard Salient in March 2025.</figcaption></figure>
+<p>In one message to the Signal chat on Aug. 10, Rodgers weighed in on the Israel-Palestine conflict, challenging American support for Israel and advocating for the establishment of a Palestinian state under “Christian custodianship safeguarded by international guarantee.”</p>
+<p>He dismissed both Jewish and Muslim claims to Israeli and Palestinian territory, asserting that both groups were “tenants” on Christian land.</p>
+<p>“In [conventional] terms, neither Jews nor Muslims are the primary heirs of the Holy Land,” Rodgers wrote. “They are, theologically, if not also historically, guests.”</p>
+<p>“In 1948, we did the diplomatically fashionable but historically absurd thing and dropped a modern Jewish ethno-state into an overwhelmingly Muslim Arab region, then feigned surprise when the place became an open-air reenactment of Judges,” he added.</p>
+<p>In the message, Rodgers rejected the idea of a Jewish right of return to Israel. He also wrote that Western countries harbored “generally and deservedly low expectations of Muslims.”</p>
+<p>Rodgers doubled down on his comments on the 19th amendment, Palestinian state, and Muslim people in his statement on Saturday, writing that “all are true” and that he would “generally stand by all, given the opportunity to actually explain.”</p>
+<p>The magazine’s Signal thread, titled “ActiveS Fall 2025,” included all 21 active members as of Oct. 15, including Rodgers and Salient president Julia G. Grinstead ’27.</p>
+<p>On Monday, the Salient suddenly broke their month-long silence, with the board of directors writing in a post on Substack that the club would <a href="https://www.thecrimson.com/article/2025/12/16/salient-to-resume-after-resignations/">resume operations</a> in January — and that Rodgers and Grinstead had resigned from the organization. In their place, Sarah Steele ’18-’26, who served as president last year, will return as interim president, and Morganbesser will become managing editor — a new position meant to replace the editor-in-chief role.</p>
+<p>Though the Monday announcement did not mention the investigation and provided little insight into the reasoning behind the personnel changes, Morganbesser addressed the situation in a Saturday statement, calling Rodgers and Grinstead a “fringe group that sought to co-opt the Salient.”</p>
+<p>“The Salient was founded in 1981 to restore Harvard’s tradition of thoughtful, balanced discourse and in pursuit of truth. Over the past months, the Salient has strayed from that purpose,” he wrote.</p>
+<p>Morganbesser added that the publication has “recently taken action against those in our own ranks who used their positions to create a noxious culture and pursue an editorial direction that does not represent our values.”</p>
+<p>“There is no place for antisemitism, misogyny, bigotry, or any kind of hate at the Salient — or in the conservative movement that it seeks to uphold,” he wrote. “I speak for the whole of the Salient’s editorial team when I say that we apologize to our readers, the entire Harvard community, and conservatives everywhere for allowing Harvard’s sole conservative publication to become a platform for hate.”</p>
+<p>Grinstead wrote in a Saturday statement to The Crimson that she resigned “in an effort to bring peace to an internal conflict,” adding that she does “not support antisemitism.”</p>
+<h2>The Unpublished Issue</h2>
+<p>While the magazine will return in January, the Salient’s October edition will stay unpublished, according to Morganbesser. The 44-page issue was finalized and sent to printers the week of Oct. 19 under Rodgers’ and Grinstead’s leadership. But when the board saw what they intended to publish, they stepped in before copies could hit students’ doorsteps.</p>
+<p>In the October edition, which was titled “Cruel &amp; Unusual” and focuses on criminal justice reform, authors argued for a host of radical ideas, including stripping inmates at Guantanamo Bay of their constitutional rights and embracing corporal punishment.</p>
+<p>In one article, titled “An Audacious Proposal,” Army called on the U.S. to implement “the death penalty at a grand scale,” saying that it should be used to punish “tens, perhaps hundreds of thousands of individuals nationwide.” He wrote that gang members, drug dealers, sex offenders, and the “permanent underclass, the lifelong petty criminal who refuses to contribute to society” should all face the death penalty.</p>
+<p>“These people are a parasitical drain upon not only the United States as a whole, but also upon the good order and discipline of its citizens,” Army wrote in the article. “The swift and visible execution of these individuals is not only a moral good, insofar as it pays the moral debt owed to the victim(s), but it is also a societal good, because it permanently and publicly removes their malignant influence upon the social order.”</p>
+<p>Toward the end of the piece, Army proposed death by firing squad or hanging as the most cost-effective and humane ways to implement his plan.</p>
+<p>Army wrote in his Saturday statement that he believed the article was a “well formulated argument that addressed larger societal ills.”</p>
+<p>“I encourage anyone who would read it to see if they are able to overcome the argument presented,” he wrote.</p>
+<p>A different article, penned by an unnamed author, argued that the legacy of the Spanish Inquisition, which targeted largely Jewish people and led to thousands of executions and widespread torture, was “not one of unmitigated cruelty. Rather, it tells of the perennial tension between order and freedom, faith and dissent, and mercy and justice.”</p>
+<p>“The Inquisition, established in 1478 with papal approval, was thus an instrument not of greed or racial hatred but of religious integrity: a mechanism for discerning sincerity in an age of dissimulation, for protecting faith in a newly unified Christian kingdom,” the author wrote. “The historical record, examined without prejudice, reveals something more restrained and bureaucratic than most imagine.”</p>
+<figure><img alt="After roughly a decade of dormancy, the Salient was revived in 2021 and began appearing on students' doorsteps across campus." src="https://thumbnails.thecrimson.com/photos/2021/11/10/135109_1352814.jpg.1500x1000_q95_crop-smart_upscale.jpg"/><figcaption>After roughly a decade of dormancy, the Salient was revived in 2021 and began appearing on students' doorsteps across campus.</figcaption></figure>
+<p>By <a href="https://www.thecrimson.com/writer/1217495/Julian_J._Giordano/">Julian J. Giordano</a></p>
+<p>Another piece in the October edition set out to defend Guantanamo Bay, a U.S. detention facility that has long been synonymous with indefinite detention, allegations of torture, and some of the most widely criticized human rights abuses in the American war on terror. The author contended that “the continued existence of Guantanamo Bay as a detention facility beyond the ordinary reach of U.S. constitutional law is both acceptable and right.”</p>
+<p>Pages later, in a different article, Rodgers wrote that “justice demands blood” from doctors who perform abortions or sex-change operations, surrogacy providers, and pornographers — occupations that he equated to “crimes against humanity.”</p>
+<p>Rodgers, who finalized the October edition of the Salient, wrote in his statement on Saturday that it “is worth keeping in mind that each author is responsible for his or her expressed views.”</p>
+<p>“I approved the publication of opinions I do not necessarily hold personally but which fell within our editorial vision, as well as many that I do hold, such as general approval for the Spanish Inquisition, the use of corporal punishment as a tool, and ex post facto punishment for doctors who perform abortions or sex-change operations, surrogacy providers, and pornographers,” he wrote.</p>
+<p>The Salient’s increasingly hard-edged rhetoric mirrors a broader cultural and political shift in other conservative groups at Harvard. The Crimson <a href="https://www.thecrimson.com/article/2025/12/8/john-adams-society-women/">reported this month</a> that the John Adams Society, a clandestine conservative debating society, moved this semester toward the de facto exclusion of women from its ranks.</p>
+<p>Even groups that have historically maintained moderate wings, like the Harvard Republican Club, have veered to the right in the years since Donald Trump’s first election to the presidency. The HRC, which once <a href="https://www.thecrimson.com/article/2016/8/5/republican-club-not-support-trump/">shunned Trump</a>, <a href="https://www.thecrimson.com/article/2024/7/2/harvard-republican-club-donald-trump-endorsement/">full-throatedly endorsed</a> his return to office last year. And conservative groups across several Harvard schools co-hosted a <a href="https://www.thecrimson.com/article/2025/2/11/conservative-student-conference-bannon/">conference</a> this spring where speakers cheered the defunding of Harvard and advocated a “European majority” in America.</p>
+<p>The trend is consistent with changes in groups across the country. In conservative youth politics, extremist language — often with origins online — has increasingly found a home in Republican party institutions.</p>
+<p>In October, Politico published an article that revealed messages in which state-level leaders of Young Republicans groups praised Hitler, used racial slurs, and joked about violence against political opponents and party rivals. The investigation sparked swift recriminations against participants — and Salient members took note.</p>
+<p>When Rodgers messaged the Signal chat on Oct. 15 and offered to introduce Salient members to former Kansas Young Republicans treasurer Aidan Thompson, Steele cautioned that “this guy is somehow mixed up in the Politico young republicans bullshit.”</p>
+<p>“The Salient receives offers and inquiries to the organizational inboxes all the time,” Steele said in an interview. “It’s typical for student leadership to kind of put out those potential opportunities to the rest of the team for basically the purposes of professional development.”</p>
+<p>“I was shocked to learn that one of our members was eager to get connected, even after the news about the Young Republicans,” she added.</p>
+<p>The unpublished October issue also alluded on its satire page, styled like a spread of newspaper headlines, to the possibility that the Salient’s internal communications would become public. One satirical headline read, “Salient Chats Leaked.”</p>
+<p>“Sources confirm: group chat’s only crime was saying the quiet part out loud — repeatedly — for three years,” it read.</p>
+<p>—College Desk Editor Samuel A. Church can be reached at <a href="mailto:samuel.church@thecrimson.com">samuel.church@thecrimson.com</a>. Follow him on X <a href="https://x.com/samuelachurch">@samuelachurch</a>.</p>
+<p>—Associate Managing Editor Cam N. Srivastava can be reached at <a href="mailto:cam.srivastava@thecrimson.com">cam.srivastava@thecrimson.com</a>. Follow him on X <a href="https://x.com/camsrivastava?s=11">@camsrivastava</a>.</p>

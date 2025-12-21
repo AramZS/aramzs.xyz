@@ -14,7 +14,7 @@ featured: true
 ---
 
 > When I envision the web, I picture an infinite expanse of empty space that stretches as far as the eye can see. It's full of fertile soil, but no seeds have taken root. That is, except for about an acre of it.
-  -  Molly White, [[We can have a different web]]
+  -  Molly White, [We can have a different web](/noteworthy/we-can-have-a-different-web/)
 
 The future of the internet seems up in the air. Consumed by rotting behemoths. What we have now is failing, but it is also part of our every-day life, our politics, our society, our communities and our friendships. All of those are at risk, in part because the ways we communicate are under attack. The fate of the open web is inextricable from the other ways our world is in crisis. 
 
@@ -84,7 +84,7 @@ With these concepts in mind, I think of a lot of acronyms I've been considering 
 
 I want to add one more to the list. 
 
-We need to think about how to [[ENTER]] the wild web.
+We need to think about how to [ENTER](/glossary/enter/) the wild web.
 
 ### Extract
 

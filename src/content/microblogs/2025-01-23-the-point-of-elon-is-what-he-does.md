@@ -12,7 +12,7 @@ cover_image: swisher-nazi-apologia.png
 
 I mean, I believe [the racism-is-funny-forum-bullshit is](https://bsky.app/profile/karaswisher.bsky.social/post/3lgfaldpa622p) what was in his head, but how long do you think you get to do 4chn Nazi posting and play acting before you are just a Nazi? Posting a Hitler meme from anon on a forum for lols is bad taste, doing it for a presidential inauguration is just *being a Nazi*.
 
-Practicing Nazi aesthetics is just being a Nazi. The impact these things make is the *execution* of Nazism. 4chn making this a systematic part of its culture is indoctrination. [[POSIWID|"The point of the system is what it does"]]
+Practicing Nazi aesthetics is just being a Nazi. The impact these things make is the *execution* of Nazism. 4chn making this a systematic part of its culture is indoctrination. ["The point of the system is what it does"](/glossary/posiwid/)
 
 When you are Jewish & in these corners of the internet, the thing you learn quickly is that people pretending they are superior, genetically better and doing antisemitism 'for the lols'... are just being Nazis. The idea that eventually this has an end point is contradictory to Spencer joining in. [The Nazis know who he is](https://www.wired.com/story/neo-nazis-love-elon-musk-nazi-like-salutes-trumps-inauguration/).
 

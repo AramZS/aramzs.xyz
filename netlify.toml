@@ -41,3 +41,6 @@ paths = [
 
 [build.environment]
 NODE_VERSION = "22"
+
+[functions]
+external_node_modules = ["sharp"]
