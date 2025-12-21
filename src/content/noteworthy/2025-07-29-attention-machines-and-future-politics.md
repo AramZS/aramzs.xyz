@@ -72,7 +72,7 @@ It feels like a solid conclusion here at the end: We must have systems that allo
 
 I don't think it is an accident that modern day fascism is so interested in eliminating identities outside of its own narrow definition. Though fascist projects always seek to deperson,  the modern attention economy variant of fascism is as interested in reshaping people through the very logic of limited choices that attention economics forces on us daily. 
 
-Resistance is not just keeping memory, but keeping the memory of self. We must describe ourselves boldly and **in detail**. That seems like one of the most effective ways to oppose forces who would reduce individuals to broad statistical averages. I like how close this feels to the idea of [[ENTER]].
+Resistance is not just keeping memory, but keeping the memory of self. We must describe ourselves boldly and **in detail**. That seems like one of the most effective ways to oppose forces who would reduce individuals to broad statistical averages. I like how close this feels to the idea of [ENTER](/glossary/enter/).
 
 > I would invite the symbolic engineers of today to create systems allowing people to ingather the fragments of externalized memory — journals, biometric data, etc. — through external attention systems in order to render some choosable section of “self” glanceable in an instant: the self through time, the self through space. This is what we will need, genuinely, if we are to resist complete auto-determination by external forces in the world which are emerging around us everywhere at once.
 > 

@@ -48,7 +48,7 @@ The most shocking story is in the middle, about a user who became obsessed with 
 >
 > When the police arrived, Alexander Taylor charged at them holding the knife. He was shot and killed.
 
-I don't think there's any other way to put it then ChatGPT killed that person. I think the wildest part is the disconnect people have between what ChatGPT does and the fact that it is that thing. [[POSIWID|The thing ChatGPT does that causes people to have mental health incidents is what it does period, it's what it is]]. 
+I don't think there's any other way to put it then ChatGPT killed that person. I think the wildest part is the disconnect people have between what ChatGPT does and the fact that it is that thing. [The thing ChatGPT does that causes people to have mental health incidents is what it does period, it's what it is](/glossary/posiwid/). 
 
 > “You want to know the ironic thing? I wrote my son’s obituary using ChatGPT,” Mr. Taylor said. “I had talked to it for a while about what had happened, trying to find more details about exactly what he was going through. And it was beautiful and touching. It was like it read my heart and it scared the shit out of me.”
 
