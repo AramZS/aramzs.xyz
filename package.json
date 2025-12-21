@@ -107,5 +107,11 @@
     "postcss-load-config": "^6.0.1",
     "simple-git": "^3.20.0",
     "yargs": "^17.7.2"
+  },
+  "overrides": {
+    "glob": "13",
+    "browserify": {
+      "glob": "13"
+    }
   }
 }
