@@ -13,7 +13,7 @@ link: >-
   https://www.readfeedme.com/p/olivia-nuzzi-answers-your-questions?utm_campaign=vanity-fair-s-west-coast-woes&utm_medium=referral&utm_source=www.status.news
 slug: >-
   2025-12-04-httpswwwreadfeedmecompolivia-nuzzi-answers-your-questionsutmcampaignvanity-fair-s-west-coast-woesandutmmediumreferralandutmsourcewwwstatusnews
-tags: []
+tags: ["media"]
 title: Olivia Nuzzi answers your questions.
 ---
 <h3>"If I was elected president in a write-in campaign I would not return to Washington."</h3>

@@ -8,7 +8,7 @@ description: We can take political power without asking Democrats for it.
 isBasedOn: 'https://www.hamiltonnolan.com/p/how-to-win-red-states-with-a-labor'
 link: 'https://www.hamiltonnolan.com/p/how-to-win-red-states-with-a-labor'
 slug: 2025-12-04-httpswwwhamiltonnolancomphow-to-win-red-states-with-a-labor
-tags: []
+tags: ["politics", "labor"]
 title: How to Win Red States With a Labor Party
 ---
 <h3>We can take political power without asking Democrats for it. </h3>

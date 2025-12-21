@@ -11,7 +11,7 @@ isBasedOn: 'https://timothynoah.substack.com/p/more-shahn-also-the-case-for-diss
 link: 'https://timothynoah.substack.com/p/more-shahn-also-the-case-for-dissipation'
 slug: >-
   2025-12-16-httpstimothynoahsubstackcompmore-shahn-also-the-case-for-dissipation
-tags: []
+tags: ["politics"]
 title: 'More Shahn; Also, the Case for Dissipation'
 ---
 <h3>I visited some lovely Shahn frescoes in the Bronx. I also wrote about rich loafers and how they might save America.</h3>
