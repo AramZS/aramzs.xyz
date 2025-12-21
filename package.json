@@ -105,6 +105,9 @@
     "simple-git": "^3.20.0",
     "yargs": "^17.7.2"
   },
+  "optionalDependencies": {
+    "sharp": "0.34.5"
+  },
   "overrides": {
     "glob": "13",
     "canvas": "3.2.0",
