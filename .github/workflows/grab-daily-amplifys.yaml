@@ -7,8 +7,6 @@ on:
 jobs:
   grab-daily-amplifys:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v6
