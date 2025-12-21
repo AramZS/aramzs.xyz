@@ -108,14 +108,14 @@ module.exports = function (eleventyConfig) {
 			hostname: domain_name,
 		},
 	});
-
+  /**
 	eleventyConfig.addPlugin(
 		require("@photogabble/eleventy-plugin-interlinker"),
 		{
 			defaultLayout: "layouts/embed.liquid",
       deadLinkReport: "none"
 		}
-	);
+	); */
 import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) => {
 	eleventyConfig.addPlugin(
 		fontSubsetter,
