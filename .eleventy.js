@@ -2,7 +2,6 @@ const filters = require("./lib/filters");
 const collections = require("./lib/collections");
 const { slugify } = require("./lib/filters");
 const shortcodes = require("./lib/shortcodes");
-const transforms = require("./lib/transforms");
 const extensions = require("./lib/extensions");
 const asyncFilters = require('./lib/async-filters');
 const ObjectCache = require("./lib/helpers/cache");
@@ -260,9 +259,6 @@ import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) 
     return cleanCollections;
   });
 */
-	Object.keys(transforms).forEach((transformName) => {
-		eleventyConfig.addTransform(transformName, transforms[transformName]);
-	});
 
   eleventyConfig.addTemplateFormats('css');
 
@@ -350,6 +346,8 @@ import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) 
 		"public/htmx.min.js": "htmx.min.js",
 		CNAME: "CNAME",
 		".nojekyll": ".nojekyll",
+    "public/fonts": "fonts",
+    "src/fonts": "fonts",
 	});
 
 	//
