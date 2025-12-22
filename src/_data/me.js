@@ -14,9 +14,8 @@ let data = {
     { href: "https://bsky.app/profile/chronotope.aramzs.xyz", title: "BlueSky" },
 	],
 	twitter: "@chronotope",
+  avatar: "https://raw.githubusercontent.com/AramZS/aramzs.github.io/master/_includes/Aram-Zucker-Scharff-square.jpg"
 };
-
-data.avatar = `/img/twitter-avy.jpg`;
 
 module.exports = (info) => {
 	return data;

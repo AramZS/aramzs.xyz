@@ -1,6 +1,7 @@
 {% extends "./page.njk" %}
-{% set ogtype = 'article' %}
+{% set ogtype = 'video' %}
 {% set templateName = 'media' %}
+{% set ogImageHref = metadata.url + '/img/retrieved/' + mediaType + '/' + cover_image %}
 {% set subTitle %}
     posted on <time datetime="{{ page.date.toISOString() }}">{{ page.date | dateToFormat("DDD") }}</time> in: {% include "../components/tag-list.njk" %}.
 {% endset %}
