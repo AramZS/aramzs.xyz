@@ -27,7 +27,8 @@
     "make:readwise": "node -e 'var w = require(\"./bin/enrichers/readwise-reader-api.js\"); w.writeAmplify().then(() => console.log(\"complete write amplify\"))' > ./buildlog.txt",
     "get:readwise": "node node_modules/dotenv-cli/cli.js -- npm run make:readwise && git add src/content/amplify/* && git add readwise-since.txt && git commit -m \"chore: new amplify\"",
     "subtree:update": "git subtree pull --prefix plugins/netlify-plugin-html-minify git@github.com:AramZS/netlify-plugin-html-minify.git master --squash",
-    "netlify:dev": "npx netlify dev"
+    "netlify:dev": "npx netlify dev",
+    "netlify:localprod": "npx netlify build"
   },
   "bin": {
     "add-bookmark": "./bin/add-bookmark.js",
