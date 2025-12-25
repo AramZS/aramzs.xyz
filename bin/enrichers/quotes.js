@@ -82,6 +82,7 @@ function readwiseReformatQuote(clipping) {
 		location: clipping['Location Type'] === "location" ? clipping.Location : null,
 		page: null,
 		createdDate: clipping["Highlighted at"],
+    ogImageHref: children["cover_image_url"],
     date: new Date(clipping["Highlighted at"]).toISOString(),
 		// publishDate: null,
 		annotationType: "Highlight",
@@ -89,6 +90,9 @@ function readwiseReformatQuote(clipping) {
 		publish: clipping.publish ? clipping.publish : true,
     tags: clipping["Document tags"] ? clipping["Document tags"].split(',') : [],
 	};
+  if (clipping['url'] != null){
+    quoteObj.cover_image_url = clipping['url'];
+  }
   if (!isKindle){
     quoteObj.handedFrom = "Pocket";
   }
@@ -111,6 +115,94 @@ function readwiseReformatQuote(clipping) {
 		"publish": false
 	},
  */
+/*
+https://readwise.io/api_deets
+
+Book Quote (Highlight API)
+
+		{
+			"id": 969164749,
+			"text": "Fundamentally, social platforms like Twitter and Facebook still follow the post-and-comment model of an earlier era, where interactions with the author are frictionless, even encouraged. These platforms struggle, more than any other, to adapt to modern social needs.",
+			"note": "",
+			"location": 3531,
+			"location_type": "location",
+			"highlighted_at": "2025-12-23T04:56:00.000000Z",
+			"url": null,
+			"color": "yellow",
+			"updated": "2025-12-23T16:04:23.627068Z",
+			"book_id": 44456241,
+			"tags": []
+		},
+
+Book ID API
+
+{
+	"id": 44456241,
+	"title": "Working in Public",
+	"author": "Nadia Eghbal",
+	"category": "books",
+	"source": "kindle",
+	"num_highlights": 161,
+	"last_highlight_at": "2025-12-23T04:56:00.000000Z",
+	"updated": "2025-12-23T16:04:23.644180Z",
+	"cover_image_url": "https://m.media-amazon.com/images/I/71QEto5bYbL._SY160.jpg",
+	"highlights_url": "https://readwise.io/bookreview/44456241",
+	"source_url": null,
+	"asin": "B08BDGXVK9",
+	"tags": [],
+	"document_note": ""
+}
+
+Article Quote (Highlight API)
+		{
+			"id": 968883022,
+			"text": "Most recently, as every Minnesotan likely knows, the president of the United States [used it against our governor](https://www.startribune.com/in-social-media-posts-trump-targets-somali-community-in-minnesota-after-national-guard-shooting/601535368) in an unhinged social media rant, filled with false information, aimed chiefly at denigrating Somali Minnesotans. [As the Walz family responded](https://www.startribune.com/brooks-gov-tim-walz-knows-how-bullies-operate/601535429), trying to humanize the situation and talk about how language affects people (especially their son Gus, who has a [non-verbal learning disability](https://www.nbcnews.com/health/health-news/nonverbal-learning-disorder-tim-walzs-son-gus-condition-explained-rcna167804)), Republicans gleefully picked up on a comment that people were driving by the governor’s house and shouting the r-word.",
+			"note": "",
+			"location": 3076,
+			"location_type": "offset",
+			"highlighted_at": "2025-12-22T18:04:41.152618Z",
+			"url": "https://read.readwise.io/read/01kd3kr79bshepz5pbxcm9vahj",
+			"color": "",
+			"updated": "2025-12-22T18:04:41.258235Z",
+			"book_id": 57020773,
+			"tags": []
+		},
+
+
+Book as Article ID API 
+{
+	"id": 57020773,
+	"title": "The Return of the R-Word",
+	"author": "startribune.com",
+	"category": "articles",
+	"source": "reader",
+	"num_highlights": 2,
+	"last_highlight_at": "2025-12-22T18:04:53.561210Z",
+	"updated": "2025-12-25T19:05:18.576325Z",
+	"cover_image_url": "https://arc.stimg.co/startribunemedia/I7BZCJIGDJFG3P5FDELOGZFS7Q.JPG?&w=1200&ar=1.91:1&fit=crop",
+	"highlights_url": "https://readwise.io/bookreview/57020773",
+	"source_url": "https://www.startribune.com/r-word-slur-trump-truth-social-posts/601549622",
+	"asin": null,
+	"tags": [
+		{
+			"id": 13317930,
+			"user_book": 57020773,
+			"name": "baselines"
+		},
+		{
+			"id": 13317929,
+			"user_book": 57020773,
+			"name": "politics"
+		},
+		{
+			"id": 13317928,
+			"user_book": 57020773,
+			"name": "culture"
+		}
+	],
+	"document_note": ""
+}
+*/
 
 function generateFileSlug(quoteObj) {
 	var slugCommonWordsRemoved = quoteObj.blockquote
