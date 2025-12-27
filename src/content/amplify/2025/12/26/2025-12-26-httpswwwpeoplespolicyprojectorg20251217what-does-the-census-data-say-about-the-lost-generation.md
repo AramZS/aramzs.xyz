@@ -1,0 +1,39 @@
+---
+author: Matt Bruenig
+cover_image: >-
+  https://www.peoplespolicyproject.org/wp-content/uploads/2025/12/Gemini_Generated_Image_4s5gb44s5gb44s5g-2-1024x765.png
+date: '2025-12-26T06:24:45.651Z'
+dateFolder: 2025/12/26
+description: 'Savage appears wrong, but the reality is potentially bleaker.'
+isBasedOn: >-
+  https://www.peoplespolicyproject.org/2025/12/17/what-does-the-census-data-say-about-the-lost-generation/
+link: >-
+  https://www.peoplespolicyproject.org/2025/12/17/what-does-the-census-data-say-about-the-lost-generation/
+slug: >-
+  2025-12-26-httpswwwpeoplespolicyprojectorg20251217what-does-the-census-data-say-about-the-lost-generation
+tags:
+  - race
+  - labor
+  - culture
+title: What Does the Census Data Say About “The Lost Generation”
+---
+<figure><img alt="" data-ll-status="loading" data-src="https://www.peoplespolicyproject.org/wp-content/uploads/2025/12/Gemini_Generated_Image_4s5gb44s5gb44s5g-2-1024x765.png" src="https://www.peoplespolicyproject.org/wp-content/uploads/2025/12/Gemini_Generated_Image_4s5gb44s5gb44s5g-2-1024x765.png"/></figure>
+<p>On Monday, Jacob Savage wrote a <a href="https://www.compactmag.com/article/the-lost-generation/">piece</a> for Compact Magazine arguing that increased discrimination against young white men in certain sectors of the economy is driving alienation and a rightward turn among these men. As Douthat <a href="https://www.nytimes.com/2025/12/16/opinion/young-white-men-discrimination.html">notes</a> in his discussion of the piece, what’s interesting about Savage’s argument is that it is a specifically materialist argument. This distinguishes it from the usual arguments you see about the minds of young men that focus on things like the internet and podcasts.</p>
+<p>Savage’s piece also makes some very specific claims that can be better analyzed with nationally-representative economic surveys rather than the handful of statistics Savage was able to aggregate from surveys conducted by a few employers and educational institutions. This is what I do below.</p>
+<p>For starters, Savage’s claims are focused on the plight of 30-something men from 2014 through the present. Across this period, this group made up 27 to 29 percent of all 30-somethings, with the percentage slipping in the later years.</p>
+<figure><img alt="" src="https://www.peoplespolicyproject.org/wp-content/uploads/2025/12/Percentage-of-People-Aged-30-to-39-Who-Are-Non-Hispanic-White-Men-2013-2024.svg"/></figure>
+<p>Some of Savage’s claims pertain to education. So I calculated what percentage of 30-something non-Hispanic white men had a Bachelor’s degree (but not above that) over this period. In 2013, around 24 percent of these men had Bachelor’s degrees. By 2024, it was 32 percent. Everyone else started the period with around 23 percent having only a Bachelor’s degree and ended it with around 27 percent having only a Bachelor’s degree.</p>
+<figure><img alt="" src="https://www.peoplespolicyproject.org/wp-content/uploads/2025/12/Percentage-of-People-Between-the-Ages-of-30-and-39-Who-Have-Only-a-Bachelors-Degree-2013-2024.svg"/></figure>
+<p>Below is the same graph but for people who have a post-Bachelor’s degree, i.e. a Master’s, PhD, or professional degree. For this figure, white men and everyone else start out at the same level (around 13 percent). White men tick up a little bit to around 14 percent while everyone else ticks up to around 17 percent.</p>
+<figure><img alt="" src="https://www.peoplespolicyproject.org/wp-content/uploads/2025/12/Percentage-of-People-Between-the-Ages-of-30-and-39-Who-Have-a-Post-Bachelors-Degree-2013-2024.svg"/></figure>
+<p>But the bulk of Savage’s piece is not about education. Rather it is about employment. For that, I looked first at what percentage of 30-something white men and everyone else worked fifty or more weeks during the year. For both groups, the full-time employment rate (so defined) increased steadily between 2013 and 2019. COVID sent both lines down and then back up, fully in the case of everyone else, but not in the case of white men. In 2024, 30-something white male employment stood at 81 percent, which was 3 points higher than where it stood in 2013.</p>
+<figure><img alt="" src="https://www.peoplespolicyproject.org/wp-content/uploads/2025/12/Percentage-of-People-Between-the-Ages-of-30-and-39-Who-Worked-50-Weeks-2013-2024.svg"/></figure>
+<p>But Savage’s point is not just about whether white men have work. It is about white men being deprived of certain kinds of top jobs. To analyze that, I calculated what percentage of 30-something white men are in the top of the 30-something earnings distribution.</p>
+<figure><img alt="" src="https://www.peoplespolicyproject.org/wp-content/uploads/2025/12/Percent-of-Aged-30-39-White-Men-Who-Are-in-the-Top-10_-20_-and-50_-of-the-Aged-30-39-Earnings-Distribution-2013-2024.svg"/></figure>
+<p>In 2013, around 69 percent of 30-something white men were in the top 50 percent of the 30-something earnings distribution. In 2024, it was 67 percent. For the top 20 percent, the number went from 34 percent to 32 percent. For the top 10 percent, it went from 19 percent to 16 percent.</p>
+<p>But Savage’s point is not purely about “top jobs” defined by the earnings distribution. It is focused almost entirely on jobs in arts and media. To analyze that, I looked at what percentage of white men and everyone else were employed in an “arts, design, entertainment, sports and media” occupation (<a href="https://cps.ipums.org/cps-action/variables/OCC10LY#codes_section">codes 2600-2920</a>). For both groups, the percentage employed in these occupations is unchanged from 2013.</p>
+<figure><img alt="" src="https://www.peoplespolicyproject.org/wp-content/uploads/2025/12/Percentage-of-People-Between-the-Ages-of-30-and-39-Who-Worked-in-Arts_Media-2013-2024-1.svg"/></figure>
+<p>Overall, this data does not really support Savage’s material thesis. Ambitious white men in their thirties have not seen much, if any, decline over this period. Their overall employment is up. Their employment in the arts and media is unchanged. Educational attainment is up. There may be a percentage point or two of white men who have dipped out of the top 10 percent of the personal earnings distribution, though white men, even in their thirties, continue to be vastly over-represented there.</p>
+<p>Ironically, I think Savage’s piece, especially its viral success, ends up unintentionally providing some support for the non-material theories of young male political behavior that are focused on the internet, podcasts, and memes. What Savage and those sharing the piece appear to be responding to is primarily the mental impression that was caused by DEI messaging, which may have had an impact well beyond its actual material impact. The institutions Savage discusses in his piece employ approximately 0% of the US population, but their transformations plus DEI rhetoric plus an internet community aimed at negatively messaging about it all can generate the impression of something much bigger going on.</p>
+<p>The result of all of this is that some people end up doubting the qualifications and merit of minorities that are in high-status positions (as Clarence Thomas argues) and attributing white male failure to snag a high-status position to unfair discrimination, which can then also spill over into political beliefs and behavior. But this is not because the absolute number of people actually affected by any of this is all that large.</p>
+<p>If this analysis is correct, then the situation is actually much more bleak than Savage’s argument would suggest. If diversification efforts generated a huge change, then the backlash to it might be acceptable, something worth risking and weathering if it comes. Instead, what appears to have happened is a lot of empty talk, no real significant change, and backlash that is causing real harm. This is the worst of all possible worlds.</p>
