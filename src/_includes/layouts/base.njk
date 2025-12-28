@@ -17,8 +17,12 @@
     <!-- SEO -->
     <title>{{ title or metadata.title | safe }}</title>
     <meta name="description" content="{{ description or metadata.description }}"/>
+    <meta name="author" content="{{ me.name }}" rel="me" />
+    {%- if cite and cite.author -%}
+    <meta name="author" content="{{ cite.author }}" />
+    {% endif %}
     {% set mainPageUrl = metadata.url + page.url %}
-    {%- if post.data.linkInternal -%}
+    {%- if linkInternal -%}
     <link rel="canonical" href="{{ mainPageUrl }}"/>
     {%- else -%}
     <link rel="canonical" href="{{ canonical or isBasedOn or mainPageUrl }}"/><!-- @TODO: Add canonical URL with domain for internal links -->
@@ -34,7 +38,7 @@
     <meta property="og:locale" content="en_US"/>
     <meta property="og:site_name" content="{{ metadata.title | safe }}"/>
     <meta property="og:title" content="{{ title or metadata.title | safe }}"/>
-    {%- if post.data.linkInternal -%}
+    {%- if linkInternal -%}
     <meta property="og:url" content="{{ mainPageUrl }}"/>
     {%- else -%}
     <meta property="og:url" content="{{ canonical or isBasedOn or mainPageUrl }}"/>
@@ -88,6 +92,10 @@
         <meta name="twitter:data2" content="{{ readingTime.time }}"/>
 
         <meta name="article:published_time" content="{{ page.date.toISOString() }}"/>
+        <meta name="article:author" content="{{ me.name }}" />
+        {%- if cite and cite.author -%}
+        <meta name="article:author" content="{{ cite.author }}" />
+        {% endif %}
 {#        TODO: #}
 {#        <meta name="article:modified_time" content=""/>#}
 {#        <meta name="article:expiration_time" content=""/>#}

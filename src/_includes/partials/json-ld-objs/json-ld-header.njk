@@ -8,7 +8,7 @@
         {%- else -%}
         "@type": "WebSite",
         {%- endif -%}
-        {%- if post.data.linkInternal -%}
+        {%- if linkInternal -%}
         "url": "{{ mainPageUrl }}",
         {%- else -%}
         "url": "{{ canonical or isBasedOn or mainPageUrl }}",
@@ -27,7 +27,17 @@
         {% if isBasedOn %}
         "isBasedOn": "{% if localBasedOn %}{{metadata.url}}{% endif %}{{ isBasedOn }}",
         {% endif %}
+        {%- if cite and cite.author -%}
+        "author": [
+            {% include "partials/json-ld-objs/person.njk" -%}
+            {
+                "@type": "Person",
+                "name": "{{ cite.author }}"
+            }
+        ],
+        {% else %}
         "author": {% include "partials/json-ld-objs/person.njk" -%}
+        {% endif %}
         "editor": {% include "partials/json-ld-objs/person.njk" -%}
         "inLanguage": "en-US",
         "license": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
