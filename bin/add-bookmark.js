@@ -105,6 +105,7 @@ const fetchUrl = async (url, date) => {
       tags: [topic],
       cite: {
         name: author,
+        author: author,
         href: url,
       }
     };

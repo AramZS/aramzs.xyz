@@ -4,7 +4,8 @@ title: >-
 tags:
   - list/a-future-for-the-web
   - tech
-  - ai
+  - ai 
+series: The Wild Web
 date: '2025-12-30T11:00:00.000-04:00'
 cover_image: Sarajevo_-_Inat_kuca_49100426901-1-scaled.webp
 cite:
