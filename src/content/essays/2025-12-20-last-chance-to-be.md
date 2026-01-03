@@ -71,6 +71,6 @@ The question isn't can we have Good AI then, at least not right now. It's can we
 
 
 
-
+We must not give calculations agency or conciousness or refer to them as if they're people. https://bsky.app/profile/chronotope.aramzs.xyz/post/3mbhaveybs72d 
 
 I imagine search, especially with your personal data, but also the web. 
