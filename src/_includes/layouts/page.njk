@@ -70,7 +70,7 @@
             {% endif %}
             <a href="{{referringUri or isBasedOn or canonical or cite.href }}" target="_blank" title="{{citeAnchorText | stripAllQuotes}}">{{citeAnchorText}}</a>
             {% if archive %}
-            <span class="bottom-cite-archive"><a href="{{ metadata.url + page.url }}/archive/" target="_blank" title="Archive of: {{citeAnchorText | stripAllQuotes}}">(archived)</a></span>
+            <span class="bottom-cite-archive"><a href="{{ metadata.url + page.url }}archive/" target="_blank" title="Archive of: {{citeAnchorText | stripAllQuotes}}">(archived)</a></span>
             {% endif %}
             </small>
           {% endif %}

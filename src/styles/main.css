@@ -154,7 +154,7 @@ header {
 }
 
 main {
-  font-size: 1.2em;
+  font-size: var(--main-font);
   flex-grow: 1;
   margin-bottom: 2em;
 }

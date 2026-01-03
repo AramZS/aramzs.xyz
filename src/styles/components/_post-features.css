@@ -31,3 +31,13 @@ section.page-post p strong {
   margin: 0 auto;
   grid-column: paragraph;
 }
+
+#page-post span.bottom-cite-archive {
+  font-size: 50%;
+  margin-left: 10px;
+  line-height: 100%;
+  padding-bottom: calc(var(--main-font) / 4);
+  padding-top: calc(var(--main-font) / 4);
+  display: block;
+  text-align: right;
+}

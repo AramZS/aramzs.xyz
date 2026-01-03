@@ -5,8 +5,8 @@ module.exports = {
 	},
 	title: "Aram ZS | Digital Garden",
 	description: "Microblog and feed from Aram Zucker-Scharff.",
-	url: "https://aramzs.xyz",
-	feedUrl: "https://aramzs.xyz/writing/feed.xml",
+	url: process.env.DOMAIN,  // "https://aramzs.xyz",
+	feedUrl: process.env.DOMAIN + "/writing/feed.xml",
 	author: {
 		name: "Aram Zucker-Scharff",
     shortname: "Aram",
