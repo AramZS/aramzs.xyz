@@ -9,6 +9,7 @@
   --content-max-width: 1400px;
 
   --content-size: calc((var(--content-max-width) - var(--paragraph-max-width)));
+  --main-font: 1.2em;
 }
 
 .content-grid {

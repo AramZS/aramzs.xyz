@@ -5,6 +5,7 @@ tags:
   - tech
 series: The Wild Web
 date: '2026-01-01T15:00:00.000-04:00'
+archive: a-website-to-end-all-websites.wacz
 cite:
   name: A Website To End All Websites
   author: Henry Desroches

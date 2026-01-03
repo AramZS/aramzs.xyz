@@ -1,0 +1,12 @@
+---
+pagination:
+  data: collections.archives
+  size: 1
+  alias: archivePage
+permalink: "{{ archivePage.data.permalink }}"
+layout: layouts/warc-archive.njk
+eleventyComputed:
+  title: "{{ archivePage.data.title }} - Archive"
+---
+
+<!-- This template will be used to generate each archive page -->
