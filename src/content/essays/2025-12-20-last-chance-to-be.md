@@ -64,9 +64,19 @@ It's going to use stolen data from the foundation model level. I hope we can get
 
 What do you use it for? That's the big question. 
 
-The question isn't can we have Good AI then, at least not right now. It's can we have *good AI users*. What are the affordances of a system built this way and what can we do to shape such a product to force good design and allow for healthy use (both for the individual and the community)? 
+The question isn't can we have Good AI then, at least not right now. Good "AI" basically exists but it isn't really useful to the normal person. Like most LLM products, they are useful only to experts who understand their use and the field they are using them in. But bad AI exists and people are using it. 
+
+The question to ask instead is can we produce *good AI users*. What are the affordances of a system built this way and what can we do to shape such a product to force good design and allow for healthy use (both for the individual and the community)? 
 
 ## Who to be when you're being AI-assisted 
+
+First, when you build a product it should not be personable. Such products should avoid personality and emotive language whenever possible. We're already [seeing major media organizations attribute comments to AI agents](https://bsky.app/profile/chronotope.aramzs.xyz/post/3mbhaveybs72d). [AI can't give comments](https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/), it can't be your friend, it can't date you. It does not make "[decisions](https://bsky.app/profile/chronotope.aramzs.xyz/post/3mbhd3rbwpf2q)". It's just generating text. If you make decisions off of that, it's you doing the decision making. ChatGPT joins a long tradition of magic 8 balls, tarot cards, and other forms of divination where you are reading patterns out of random outputs. 
+
+Don't make your chatbot chatty. 
+
+Then there is the question of what you allow it to do. Putting guardrails around chatbots can be difficult but some things are pretty basic - respecting that it is built on stolen data means some basics: don't allow it to crawl the web on its own; don't allow it to generate images; don't allow it to generate long-form text. 
+
+
 
 
 
