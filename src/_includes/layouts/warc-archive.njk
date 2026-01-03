@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>{{ title or metadata.title }}</title>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"/>
+    
+    {% block stylesheet %}
+        <style>
+            body {
+                font-family: monospace;
+                font-size: 1rem;
+                line-height: 1.25em;
+                text-align: left;
+                color: #222;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+            }
+
+            h1 {
+                font-size: 1rem;
+                font-weight: 300;
+            }
+
+            a:link,
+            a:visited {
+                color: #922;
+                text-decoration-color: #999;
+            }
+
+            a:hover {
+                color: #999;
+            }
+        </style>
+    {% endblock %}
+    {% block head %}{% endblock %}
+    <script src="https://cdn.jsdelivr.net/npm/replaywebpage@2.4.0/ui.js"></script>
+</head>
+<body>
+    {% block content %}
+        {{ content | safe }}
+    {% endblock %}
+
+
+    <replay-web-page source="{{archive}}"
+    url="{{ cite.href or canonical or archivedUrl}}"></replay-web-page>
+
+</body>
+</html>
