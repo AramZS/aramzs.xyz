@@ -216,8 +216,40 @@ import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) 
 	for (const [name, collection] of Object.entries(
 		collections(eleventyConfig)
 	)) {
+    console.log('Adding collection', name )
 		eleventyConfig.addCollection(name, collection);
 	}
+
+const collectArchives = (collection) => {
+  const posts = collection.getFilteredByGlob("./src/content/**/*.md")
+  const result = posts.filter(
+      (post) => {
+        return post.data.archive; // Simplified condition
+      }
+    )
+    .map((post) => {
+      const permalink = post.data.permalink + "archive/";
+      
+      return {
+        data: {
+          ...post.data,
+          permalink: permalink,
+          layout: 'layouts/warc-archive.njk',
+          archive: post.data.archive,
+          archiveDate: post.data.archiveDate || post.page.date,
+          title: post.archiveName || post.data?.cite?.name || post.data.title,
+          featured: false,
+          excludeFromFeed: true
+        },
+        url: post.url + "archive/",
+        originalPost: post
+      };
+    });
+    
+    console.log('collected archives', result);
+    return result;
+};
+eleventyConfig.addCollection('archives', collectArchives);
 
 /*
   eleventyConfig.addCollection('cleantags', async function(collectionApi) {
@@ -340,6 +372,7 @@ import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) 
 		"public/files": "files",
 		"public/img": "img",
     "public/scripts": "scripts",
+    "public/replay": "replay",
 		_redirects: "_redirects",
 		"public/og-image": "img/og-image",
 		"public/main.js": "main.js",
@@ -348,6 +381,7 @@ import("@photogabble/eleventy-plugin-font-subsetting").then(({ fontSubsetter }) 
 		".nojekyll": ".nojekyll",
     "public/fonts": "fonts",
     "src/fonts": "fonts",
+    "public/archives": "assets/archives",
 	});
 
 	//
