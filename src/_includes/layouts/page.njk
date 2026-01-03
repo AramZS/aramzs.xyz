@@ -68,7 +68,11 @@
             {% if cite and cite.name %}
               {% set citeAnchorText = cite.name %}
             {% endif %}
-            <a href="{{referringUri or isBasedOn or canonical or cite.href }}" target="_blank" title="{{citeAnchorText | stripAllQuotes}}">{{citeAnchorText}}</a></small>
+            <a href="{{referringUri or isBasedOn or canonical or cite.href }}" target="_blank" title="{{citeAnchorText | stripAllQuotes}}">{{citeAnchorText}}</a>
+            {% if archive %}
+            <span class="bottom-cite-archive"><a href="{{ metadata.url + page.url }}/archive/" target="_blank" title="Archive of: {{citeAnchorText | stripAllQuotes}}">(archived)</a></span>
+            {% endif %}
+            </small>
           {% endif %}
 
           {% include "components/backlinks.njk" %}

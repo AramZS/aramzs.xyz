@@ -38,7 +38,7 @@
         </style>
     {% endblock %}
     {% block head %}{% endblock %}
-    <script src="https://cdn.jsdelivr.net/npm/replaywebpage@2.4.0/ui.js"></script>
+    <script external-src="https://cdn.jsdelivr.net/npm/replaywebpage@2.4.0/ui.js" src="/scripts/replaywebpage.ui.js"></script>
 </head>
 <body>
     {% block content %}
@@ -46,8 +46,7 @@
     {% endblock %}
 
 
-    <replay-web-page source="{{archive}}"
-    url="{{ cite.href or canonical or archivedUrl}}"></replay-web-page>
+    <replay-web-page source="/assets/archives/{{archivePage.data.archive}}" url="{{ archivePage.data.cite.href or archivePage.data.canonical or archivePage.data.archivedUrl}}"></replay-web-page>
 
 </body>
 </html>
