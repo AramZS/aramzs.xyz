@@ -7,6 +7,7 @@ tags:
   - ai 
 series: The Wild Web
 date: '2025-12-30T11:00:00.000-04:00'
+archive: spite-house.wacz
 cover_image: Sarajevo_-_Inat_kuca_49100426901-1-scaled.webp
 cite:
   name: >-
