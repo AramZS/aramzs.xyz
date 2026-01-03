@@ -76,7 +76,7 @@ Don't make your chatbot chatty.
 
 Then there is the question of what you allow it to do. Putting guardrails around chatbots can be difficult but some things are pretty basic - respecting that it is built on stolen data means some basics: don't allow it to crawl the web on its own; don't allow it to generate images; don't allow it to generate long-form text. 
 
-
+We need to make it so that no one would confuse a chatbot with a concious entity, which it is not. 
 
 
 
