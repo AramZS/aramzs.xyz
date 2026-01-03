@@ -1,3 +1,4 @@
+require("dotenv").config();
 let domain_name = "https://aramzs.xyz";
 
 console.log('metadata data race condition resolution');
