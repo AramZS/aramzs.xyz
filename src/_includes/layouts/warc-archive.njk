@@ -2,11 +2,16 @@
 <html dir="ltr" lang="en">
 <head>
     <meta charset="UTF-8"/>
-    <title>{{ title or metadata.title }}</title>
+    <title>Archive of {{ title or metadata.title }}</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"/>
     <link rel="canonical" href="{{ archivePage.data.cite.href or archivePage.data.canonical or archivePage.data.archivedUrl}}"/>
     
+    {% block head %}{% endblock %}
+    <script external-src="https://cdn.jsdelivr.net/npm/replaywebpage@2.4.0/ui.js" src="/scripts/replaywebpage.ui.js"></script>
+    <script defer data-domain="aramzs.xyz" src="https://plausible.io/js/script.tagged-events.js"></script>
+    <link rel="stylesheet" href="/styles/main.css"/>
+
     {% block stylesheet %}
         <style>
             body {
@@ -14,7 +19,6 @@
                 font-size: 1rem;
                 line-height: 1.25em;
                 text-align: left;
-                color: #222;
                 display: flex;
                 flex-direction: column;
                 justify-content: center;
@@ -23,31 +27,48 @@
             }
 
             h1 {
-                font-size: 1rem;
+                font-size: 1em;
+                margin-bottom: 2px;
                 font-weight: 300;
             }
-
-            a:link,
-            a:visited {
-                color: #922;
-                text-decoration-color: #999;
+            body > header {
+                margin-bottom: 12px;
             }
-
-            a:hover {
-                color: #999;
+            .what-is-replay {
+                font-size: 0.6em;
+                color: var(--foreground-muted);
             }
+            .what-is-replay a, .what-is-replay a:visited,.what-is-replay a:active, .what-is-replay a:focus {
+                color: var(--foreground-muted);
+                text-decoration: none;
+                border-bottom: 1px dotted var(--foreground-muted);
+                padding-bottom: 1px;
+                text-align: center;
+                justify-content: center;
+                vertical-align: top;
+            }
+             .what-is-replay a:hover {
+                color: var(--foreground);
+                text-decoration: none;
+                border-bottom: 1px dotted var(--foreground-muted);
+                vertical-align: top;
+             }
+             .nav-link {
+                color: var(--accent);
+                text-decoration: none;
+                vertical-align: top;
+             }
         </style>
     {% endblock %}
-    {% block head %}{% endblock %}
-    <script external-src="https://cdn.jsdelivr.net/npm/replaywebpage@2.4.0/ui.js" src="/scripts/replaywebpage.ui.js"></script>
-    <script defer data-domain="aramzs.xyz" src="https://plausible.io/js/script.tagged-events.js"></script>
 </head>
 <body>
+
+    <header>
+        <h1><a href="/" class="nav-link" title="Back to homepage">~</a> / Replay of Archived Webpage <span class="what-is-replay"><a href="/about-replay-pages/" target="_blank">(?)</a></span></h1>
+    </header>
     {% block content %}
         {{ content | safe }}
     {% endblock %}
-
-
     <replay-web-page source="/assets/archives/{{archivePage.data.archive}}" url="{{ archivePage.data.cite.href or archivePage.data.canonical or archivePage.data.archivedUrl}}"></replay-web-page>
 
 </body>
