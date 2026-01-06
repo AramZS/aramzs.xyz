@@ -1,0 +1,47 @@
+---
+author: Kathryn Lundstrom
+cover_image: >-
+  https://static-www.adweek.com/wp-content/uploads/2025/12/Amazon-Cannabalizing-Partners-2025.png?w=600&h=315&crop=1
+date: '2026-01-05T18:08:53.729Z'
+dateFolder: 2026/01/05
+description: >-
+  Following its latest product releases, some industry insiders see the writing
+  on the wall.
+isBasedOn: >-
+  https://www.adweek.com/commerce/amazon-built-a-60-billion-ad-business-using-adtech-firms-and-agencies-now-some-say-theyre-getting-squeezed-out/
+link: >-
+  https://www.adweek.com/commerce/amazon-built-a-60-billion-ad-business-using-adtech-firms-and-agencies-now-some-say-theyre-getting-squeezed-out/
+slug: >-
+  2026-01-05-httpswwwadweekcomcommerceamazon-built-a-60-billion-ad-business-using-adtech-firms-and-agencies-now-some-say-theyre-getting-squeezed-out
+tags:
+  - ad tech
+title: >-
+  Amazon Built a $60 Billion Ad Business Using Adtech Firms and Agencies. Now
+  Some Say They’re Getting Squeezed Out
+---
+<figure><picture data-is-gif="false"><img alt="" sizes="(max-width: 1200px) 100vw, 1200px" src="https://static-www.adweek.com/wp-content/uploads/2025/12/Amazon-Cannabalizing-Partners-2025.png" srcset="https://static-www.adweek.com/wp-content/uploads/2025/12/Amazon-Cannabalizing-Partners-2025.png 1200w, https://static-www.adweek.com/wp-content/uploads/2025/12/Amazon-Cannabalizing-Partners-2025.png?resize=652,367 652w, https://static-www.adweek.com/wp-content/uploads/2025/12/Amazon-Cannabalizing-Partners-2025.png?resize=768,432 768w, https://static-www.adweek.com/wp-content/uploads/2025/12/Amazon-Cannabalizing-Partners-2025.png?resize=1024,576 1024w, https://static-www.adweek.com/wp-content/uploads/2025/12/Amazon-Cannabalizing-Partners-2025.png?resize=450,253 450w, https://static-www.adweek.com/wp-content/uploads/2025/12/Amazon-Cannabalizing-Partners-2025.png?resize=320,180 320w, https://static-www.adweek.com/wp-content/uploads/2025/12/Amazon-Cannabalizing-Partners-2025.png?resize=640,360 640w, https://static-www.adweek.com/wp-content/uploads/2025/12/Amazon-Cannabalizing-Partners-2025.png?resize=240,135 240w"/></picture><figcaption>Some adtech sources said this could be a turning point for Amazon-focused third-party adtech vendors. </figcaption></figure>
+<figure><img alt="Headshot of Kathryn Lundstrom" src="https://www.adweek.com/wp-content/uploads/2020/03/7C1A9592-scaled.jpg"/><figcaption><a href="https://www.adweek.com/contributor/kathryn-lundstrom/">Headshot of Kathryn Lundstrom</a></figcaption></figure>
+<p>Amazon is playing a delicate dance with its tech and agency partners.</p>
+<p>For years, Amazon has relied on close partnerships with retail-focused adtech companies to grow its burgeoning ad business. In 2021, Amazon formally launched a program called the Amazon Ad Partner Network that helped match up advertisers with tech firms and agencies that manage ad spend on Amazon. Many of these firms were early to build ad-buying tools for Amazon, bringing in advertisers to Amazon’s platform to capitalize on the quick growth of retail media.</p>
+<p>Now, some of those tech firms and agencies see signs that Amazon is pulling away from third parties to instead work directly with advertisers, according to six sources that ADWEEK spoke to.</p>
+<p>“Partners are integral to Amazon Ads, providing expertise, impactful products, and strategic guidance that help unlock performance and deliver better outcomes for advertisers,” an Amazon Ads spokesperson told ADWEEK. “We are enhancing our Partner program, driven by our belief that partners will play an increasingly important role as our combined innovations create new opportunities that we look forward to meeting together.”</p>
+<h4><strong>Charging adtech companies for new fees</strong></h4>
+<p>In early November, Amazon quietly announced that it would <a href="https://developer.amazonservices.com/spp-announcement">start charging tech vendors</a> to use its Selling Partner API—an interface that tech firms use to pull metrics like product sales or keyword data from Amazon, often on behalf of advertisers. Previously, use of the API was free. The new fees, effective Jan. 31, don’t apply to advertisers using the API directly—only third-party tech companies.</p>
+<p>Amazon’s Selling Partner API, previously known as Marketplace Web Services, allows developers within adtech companies to pull the data they need to build products that advertisers use to automate and manage ad buying. Adtech firms use the API to pull data about Amazon’s search keywords that are constantly changing.</p>
+<p>Access to this API is critical for advertisers, amounting to up to 20% of the data requests—or API calls—that advertisers need to run campaigns, according to one source.</p>
+<p>Amazon’s new fees charge third-party tech firms a minimum $1,400 annual fee to use the Selling Partner API. From there, the pricing structure depends on the number of times that a tech company is using the API to request information. In addition to the annual fee, Amazon charges 40 cents per thousand calls. If a tech company makes between 2.5 and 25 million of those API calls per month, there’s a $1,000 monthly fee. For 25 to 250 million monthly calls, the fee jumps to $10,000 per month. For API calls more than 250 million a month, fees need to be negotiated on a case-by-case basis between Amazon and tech companies.</p>
+<p>Sources told ADWEEK that Amazon’s decision to charge for access to the Selling Partner API is an example of how the e-commerce giant is moving to cut some third-party vendors out of the equation.</p>
+<p>“Every dollar spent with a tech vendor is a dollar not spent on ads,” a second source said.</p>
+<p>If the fees pile up for adtech companies, another source suggested that adtech firms might find workaround ways for paying fees. For example, adtech firms could offer to manage the licenses that brands get for free.</p>
+<p>“If this continues where it’s actually better for the brand, I think you’ll start to see tech companies start to license out the infrastructure,” said the source.</p>
+<figure><a href="https://www.adweek.com/commerce/5-charts-showing-how-big-cpgs-are-losing-to-third-party-sellers-on-amazon/"><img alt="teaser-image" src="https://static-www.adweek.com/wp-content/uploads/2025/11/cpg-thirdparty-amazon-chatbots-2025.jpg?w=652&amp;h=367&amp;crop=1"/></a></figure>
+<h4><strong>Amazon’s own tools mimic third parties</strong></h4>
+<p>Separate from the API, Amazon is also tweaking its own tools in ways that sources said replaces parts of products that adtech firms sell to advertisers.</p>
+<p>A week after announcing the fees for the Selling Partner API, Amazon rolled out a number of AI tools at its <a href="https://www.adweek.com/media/amazon-ai-ads-agent-campaign-manager/">annual ad conference</a>, many of which looked strikingly similar to some of those that its ecosystem of tech partners have built their businesses on. That includes things like an AI-powered Ads Agent, which can automate media planning, create <a href="https://www.adweek.com/commerce/amazons-new-ads-agent-makes-its-marketing-cloud-more-accessible/">customized queries for Amazon’s clean room</a>, and build creative assets for advertising on the platform. All of these functions are part of tools that adtech companies pitch to advertisers, highlighting exclusive access and insights to advertisers.</p>
+<p>“More and more, Amazon’s developing the capability native in the platform,” said Julie Spear, head of marketplace services at Acadia. “I’m curious how software solutions who have been providing that enablement up to now will pivot.”</p>
+<p>Industry sources told ADWEEK that Amazon’s new tools reflect the company cannibalizing an ecosystem of Amazon-focused agencies and tech parters. It’s a familiar story between marketers and tech platforms—Google and Meta also notably cut ties with adtech firms and agencies after scaling their advertising businesses, sources told ADWEEK. Amazon’s ad revenue is expected to exceed <a href="https://www.warc.com/content/feed/amazon-retail-media-ad-revenue-to-hit-60bn-this-year/10620">$60 billion</a> this year, according to WARC Media.</p>
+<p>“They want you to succeed as long as you’re necessary,” one agency employee who works with Amazon said. “They are making bits of partner stuff redundant. Right now that might be about helping smaller sellers who can’t afford an agency or all that. Obviously, Amazon’s goal is to do everything for everyone. That’s the Bezos way.”</p>
+<p>Still, experts argue that adtech companies and agencies play a critical role for Amazon, particularly in forming relationships that can open up bigger budgets in areas<a href="https://www.adweek.com/programmatic/amazon-dsp-face-off-head-to-head-leaked-pitch-deck/"> like programmatic</a> and <a href="https://www.adweek.com/media/amazon-doubles-prime-video-ad-load/">TV that Amazon is eyeing</a>.</p>
+<p>“Amazon still needs agencies to help them bridge the gap to the upper funnel and those national media dollars,” the source said. “So they’re still a necessary evil in a lot of ways.”</p>
+<p>Others argued that the products created and sold by adtech firms are more innovative than Amazon’s tools.</p>
+<p>“Amazon’s products are both nascent and built for beginners,” said Adam Epstein, cofounder and CEO of Gigi, an Amazon-focused adtech firm that helps brands buy and measure video ads. “I don’t think Amazon is nefariously trying to wield these unfair advantages—there are certain instances in which they can build a better product.”</p>
