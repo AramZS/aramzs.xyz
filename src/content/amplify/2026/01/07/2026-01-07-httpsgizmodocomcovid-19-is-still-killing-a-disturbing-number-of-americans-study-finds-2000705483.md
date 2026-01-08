@@ -1,0 +1,39 @@
+---
+author: Ed Cara
+cover_image: 'https://gizmodo.com/app/uploads/2026/01/coronavirus-1200x675.jpg'
+date: '2026-01-07T14:09:19.719Z'
+dateFolder: 2026/01/07
+description: >-
+  Between 2022 and 2024, covid-19 still killed roughly 100,000 Americans
+  annually, new research by CDC scientists shows.
+isBasedOn: >-
+  https://gizmodo.com/covid-19-is-still-killing-a-disturbing-number-of-americans-study-finds-2000705483
+link: >-
+  https://gizmodo.com/covid-19-is-still-killing-a-disturbing-number-of-americans-study-finds-2000705483
+slug: >-
+  2026-01-07-httpsgizmodocomcovid-19-is-still-killing-a-disturbing-number-of-americans-study-finds-2000705483
+tags:
+  - covid
+  - health
+title: 'Covid-19 Is Still Killing a Disturbing Number of Americans, Study Finds'
+---
+<figure><img alt="A 3D illustration of the SAR-CoV-2 coronavirus, the cause of covid-19." sizes="(max-width: 639px) 100vw, (max-width: 1023px) calc(100vw - 2rem), (max-width: 1258px) calc((100vw - 3.68rem) * 2 / 3), 800px" src="https://gizmodo.com/app/uploads/2026/01/coronavirus.jpg" srcset="https://gizmodo.com/app/uploads/2026/01/coronavirus.jpg 1920w, https://gizmodo.com/app/uploads/2026/01/coronavirus-336x224.jpg 336w, https://gizmodo.com/app/uploads/2026/01/coronavirus-1280x853.jpg 1280w, https://gizmodo.com/app/uploads/2026/01/coronavirus-768x512.jpg 768w, https://gizmodo.com/app/uploads/2026/01/coronavirus-672x448.jpg 672w, https://gizmodo.com/app/uploads/2026/01/coronavirus-960x640.jpg 960w, https://gizmodo.com/app/uploads/2026/01/coronavirus-1600x1067.jpg 1600w"/><figcaption>A 3D illustration of the SAR-CoV-2 coronavirus, the cause of covid-19. Â© PhotoPro Vault via Shutterstock</figcaption></figure>
+<p>The specter of covid-19 continues to loom large over the United States. Research out today finds that the viral illness is still sickening and killing a substantial number of Americans every year.</p>
+<p>Scientists at the Centers for Disease Control and Prevention and others examined surveillance data on covid-19 dating back to 2022. They estimated that covid-19 has annually caused millions of visits to the doctor, around a million hospitalizations, and roughly 100,000 deaths. Covid-19 remains especially harmful to Americans over 65, highlighting the need for continued interventions such as booster vaccine shots, the researchers and other experts say.</p>
+<p>“Although the Public Health Emergency for covid-19 ended in May 2023, this study suggests that covid-19 remains a major driver of mortality and hospital use among older adults,” DavidÂ C.Â Grabowski, a professor of health care policy at Harvard Medical School who is not affiliated with the study, told Gizmodo.</p>
+<h2>Weakened but not gone</h2>
+<p>The covid-19 pandemic wreaked plenty of destruction after its emergence in late December 2019. It likely <a href="https://www.ncid.sg/News-Events/News/Pages/21-million-deaths---Over-7m-Covid-19-fatalities-recorded,-but-actual-number-may-be-3-times-higher-WHO.aspx#:~:text=NCID%20%3E%20News%20&amp;%20Events%20%3E%20News,silently%20from%20long%2Dterm%20impacts.">killed</a> over 20 million people worldwide in the first three years, including more than a million confirmed fatalities in the U.S.â€”the largest death toll for any pandemic in America. Many people also endured severe infections that sent them to the hospital, and others have experienced <a href="https://gizmodo.com/the-challenges-of-unravelling-long-covid-1846644037">lingering bouts of chronic illness</a> linked to the infection.</p>
+<p>The most dangerous aspect of covid-19 was its novelty, however. The record-setting arrival of covid-19 vaccines by early 2021 helped significantly reduce the threat of the disease, as did the immunity we obtained from catching (and surviving) an infection. As a result, covid-19 deaths and other serious complications have noticeably become less common in the last few years.</p>
+<p>Covid-19 isn’t gone, though. It’s now become an endemic disease, joining the long list of respiratory viral infections that can regularly make us sick or even kill us. So it remains important to know the burden of covid-19 in the U.S.</p>
+<p>In this new study, the CDC authors analyzed data from COVID-NET, a surveillance program keeping track of covid-related hospitalizations. They focused on two time periods, about a year each: October 2022 to September 2023 and October 2023 to September 2024.</p>
+<p>Based on this data, the researchers estimated that covid-19 sickened 43 million Americans between 2022 and 2023; it also sent 10 million people to their doctor, caused 1.1 million hospitalizations, and killed 101,300 people. Between 2023 and 2024, they estimated that covid-19 sickened 33 million Americans, caused 7.7 million outpatient visits, 879,100 hospitalizations, and 100,800 deaths.</p>
+<p>These numbers are far below the peak of the pandemic in the U.S. In 2021, for instance, covid-19 <a href="https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm">officially killed</a> over 400,000 Americans. But the annual death toll of covid-19 between late 2022 and 2024 likely still eclipsed that of any other single infectious disease (last winter’s <a href="https://www.cdc.gov/flu-burden/php/data-vis/2024-2025.html">especially bad flu season</a> being a possible exception).</p>
+<p>“Despite declines in illnesses, outpatient visits, and hospitalizations from 2022-2023 to 2023-2024, COVID-19 imposed a large annual impact in the US.,” the authors wrote in their paper,Â <a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/10.1001/jamainternmed.2025.7179?guestAccessKey=c26397f8-3193-499d-a048-281b78b4d8b6&amp;utm_source=For_The_Media&amp;utm_medium=referral&amp;utm_campaign=ftm_links&amp;utm_content=tfl&amp;utm_term=010526">published</a> Monday in JAMA Internal Medicine.</p>
+<h2>What to do about covid</h2>
+<p>While covid-19 can sicken and cause severe illness to anyone, it’s riskier for certain populations, particularly the elderly. And that added risk hasn’t changed.</p>
+<p>Between 2023 and 2024, for instance, Americans over 65 represented nearly half of all covid-19 infections, roughly two-thirds of hospitalizations, and over 80% of all deaths, the researchers found.</p>
+<p>There is also evidence that covid-19 has continued to decline in overall severity. According to <a href="https://www.cdc.gov/nchs/nvss/vsrr/covid19/index.htm">provisional data</a> from the CDC, covid-19 may have only caused 20,000 reported deaths in 2025.</p>
+<p>These harms, reduced as they are, are still real and, in many cases, preventable. Studies have <a href="https://www.gavi.org/vaccineswork/new-data-underlines-impact-covid-19-booster-vaccines">found</a> that booster vaccinations can further lower the risk of severe covid-19, particularly in older people. There are also available <a href="https://www.cdc.gov/covid/treatment/index.html">antiviral treatments</a> that might prevent severe illness if taken soon after the infection starts.</p>
+<p>Grabowski notes, however, that many of the most vulnerable Americans, such as nursing care residents, are not keeping up to date on their booster doses. And his own research has <a href="https://jamanetwork.com/journals/jama/fullarticle/2807529">found</a> that nursing home residents often aren’t even given antivirals once they get sick. So more needs to be done to encourage the use of these interventions and to create better living conditions for nursing home residents.</p>
+<p>“Older adults should look to avoid overcrowded nursing homes and other group living environments where COVID-19 can spread quickly. They should seek out settings with single occupancy rooms, better ventilation, and improved infection control practices,” said Grabowski, who wrote an editorial accompanying the study.</p>
+<p>Covid-19 isn’t the cataclysmic natural disaster it once was, thankfully. But it’s here to stay, and it’s still hurting plenty of people.</p>
