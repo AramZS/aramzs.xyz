@@ -618,6 +618,10 @@ article#page-post li {
   font-size: 0.2em;
 }
 
+replay-web-page {
+  background-color: white;
+}
+
 @media (max-width: 864px) {
   .container {
     margin: 0;
