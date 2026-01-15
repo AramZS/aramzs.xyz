@@ -1,0 +1,56 @@
+---
+author: Cory Turner
+cover_image: >-
+  https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5183x2915+0+271/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2Fa4%2F85df40f840c7be6fd286745ddc20%2Fgettyimages-2219686550.jpg
+date: '2026-01-14T14:24:00.333Z'
+dateFolder: 2026/01/14
+description: >-
+  A new report warns that AI poses a serious threat to children's cognitive
+  development and emotional well-being.
+isBasedOn: >-
+  https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education?utm_sf_cserv_ref=10643211755&utm_sf_post_ref=651273865
+link: >-
+  https://www.npr.org/2026/01/14/nx-s1-5674741/ai-schools-education?utm_sf_cserv_ref=10643211755&utm_sf_post_ref=651273865
+slug: >-
+  2026-01-14-httpswwwnprorg20260114nx-s1-5674741ai-schools-educationutmsfcservref10643211755andutmsfpostref651273865
+tags:
+  - ai
+  - education
+title: 'The risks of AI in schools outweigh the benefits, report says'
+---
+<figure><picture><figure><img alt="A stock photo shows elementary school students working on laptops." data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5183x3457+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2Fa4%2F85df40f840c7be6fd286745ddc20%2Fgettyimages-2219686550.jpg" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5183x3457+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2Fa4%2F85df40f840c7be6fd286745ddc20%2Fgettyimages-2219686550.jpg"/><figcaption>A stock photo shows elementary school students working on laptops.</figcaption></figure></picture></figure>
+<p>The risks of using generative artificial intelligence to educate children and teens currently overshadow the benefits, according to a new study by the Brookings Institution's Center for Universal Education.</p>
+<p>The sweeping study includes focus groups and interviews with K-12 students, parents, educators and tech experts in 50 countries, as well as a literature review of hundreds of research articles. It found that using AI in education can "undermine children's foundational development" and that "the damages it has already caused are daunting," though "fixable."</p>
+<p>Because generative AI is still young — ChatGPT was released <a href="https://openai.com/index/chatgpt/">just over three years ago</a> — the report's authors dubbed their review a "premortem" intended to study AI's potential in the classroom without a postmortem's benefits of time, long-term data or hindsight.</p>
+<p>Here are some of the pros and cons that the report lays out, along with a sampling of the study's recommendations for teachers, parents, school leaders and government officials:</p>
+<h3>Pro: AI can help students learn to read and write</h3>
+<p>Teachers surveyed for the report said AI can be useful when it comes to language acquisition, especially for students learning a second language. For example, AI can adjust the complexity of a passage depending on the reader's skill, and it offers privacy for students who struggle in large-group settings.</p>
+<p>Teachers reported that AI can also help improve students' writing, so long as it is used to support students' efforts and not to do the work for them: "Teachers report that AI can 'spark creativity' and help students overcome writer's block. … At the drafting stage, it can help with organization, coherence, syntax, semantics, and grammar. At the revision stage, AI can support the editing and rewriting of ideas as well as help with … punctuation, capitalization, and grammar."</p>
+<p>But, if there is a refrain in the report, it is this: AI is most useful when it's supplementing, not replacing, the efforts of a flesh-and-blood teacher.</p>
+<h3>Con: AI poses a grave threat to students' cognitive development</h3>
+<p>At the top of Brookings' list of risks is the negative effect AI can have on children's cognitive growth — how they learn new skills and perceive and solve problems.</p>
+<p>The report describes a kind of doom loop of AI dependence, where students increasingly off-load their own thinking onto the technology, leading to the kind of cognitive decline or atrophy more commonly associated with aging brains.</p>
+<p>Rebecca Winthrop, one of the report's authors and a senior fellow at Brookings, warns, "When kids use generative AI that tells them what the answer is … they are not thinking for themselves. They're not learning to parse truth from fiction. They're not learning to understand what makes a good argument. They're not learning about different perspectives in the world because they're actually not engaging in the material.<em>"</em></p>
+<p>Cognitive off-loading isn't new. The report points out that keyboards and computers reduced the need for handwriting, and calculators automated basic math. But AI has "turbocharged" this kind of off-loading, especially in schools where learning can feel transactional.</p>
+<p>As one student told the researchers, "It's easy. You don't need to (use) your brain."</p>
+<p>The report offers a surfeit of evidence to suggest that students who use generative AI are already seeing declines in content knowledge, critical thinking and even creativity. And this could have enormous consequences if these young people grow into adults without learning to think critically.</p>
+<h3>Pro: AI can make teachers' jobs a little easier</h3>
+<p>The report says another benefit of AI is that it allows teachers to automate some tasks: "generating parent emails … translating materials, creating worksheets, rubrics, quizzes, and lesson plans" — and more.</p>
+<p>The report cites multiple research studies that found important time-saving benefits for teachers, including one U.S. study that found that teachers who use AI save an average of nearly six hours a week and about six weeks over the course of a full school year.</p>
+<h3>Pro/Con: AI can be an engine of equity — or inequity</h3>
+<p>One of the strongest arguments in favor of AI's educational use, according to the Brookings report, is its ability to reach children who have been excluded from the classroom. The researchers cite Afghanistan, where girls and women have been denied access to formal, postprimary education by the Taliban.</p>
+<p>According to the report, <a href="https://www.sola-afghanistan.org/">one program for Afghan girls</a> "has employed AI to digitize the Afghan curriculum, create lessons based on this curriculum, and disseminate content in Dari, Pashto, and English via WhatsApp lessons."</p>
+<p>AI can also help make classrooms more accessible for students with a wide range of learning disabilities, including dyslexia.</p>
+<p>But "AI can massively increase existing divides" too, Winthrop warns. That's because the free AI tools that are most accessible to students and schools can also be the least reliable and least factually accurate.</p>
+<p>"We know that richer communities and schools will be able to afford more advanced AI models," Winthrop says, "and we know those more advanced AI models are more accurate. Which means that this is the first time in ed-tech history that schools will have to pay more for more accurate information. And that really hurts schools without a lot of resources."</p>
+<h3>Con: AI poses serious threats to social and emotional development</h3>
+<p>Survey responses revealed deep concern that use of AI, particularly chatbots, "is undermining students' emotional well-being, including their ability to form relationships, recover from setbacks, and maintain mental health," the report says.</p>
+<p>One of the many problems with kids' overuse of AI is that the technology is inherently sycophantic — it has been designed to reinforce users' beliefs.</p>
+<p>Winthrop says that if children are building social-emotional skills largely through interactions with chatbots that were designed to agree with them, "it becomes very uncomfortable to then be in an environment when somebody doesn't agree with you."</p>
+<p>Winthrop offers an example of a child interacting with a chatbot, "complaining about your parents and saying, 'They want me to wash the dishes — this is so annoying. I hate my parents.' The chatbot will likely say, 'You're right. You're misunderstood. I'm so sorry. I understand you.' Versus a friend who would say, 'Dude, I wash the dishes all the time in my house. I don't know what you're complaining about. That's normal.' That right there is the problem."</p>
+<p>A <a href="https://www.npr.org/2025/10/08/nx-s1-5561981/ai-students-schools-teachers">recent survey</a> from the Center for Democracy and Technology, a nonprofit that advocates for civil rights and civil liberties in the digital age, found that nearly 1 in 5 high schoolers said they or someone they know has had a romantic relationship with artificial intelligence. And 42% of students in that survey said they or someone they know has used AI for companionship.</p>
+<p>The report warns that AI's echo chamber can stunt a child's emotional growth: "We learn empathy not when we are perfectly understood, but when we misunderstand and recover," one of the surveyed experts said.</p>
+<h3>What to do about it</h3>
+<p>The Brookings report offers a long list of recommendations to help parents, teachers and policymakers — not to mention tech companies themselves — harness the good of AI without subjecting children to the risks that the technology currently poses. Among those recommendations:</p>
+<ul><li>Schooling itself could be less focused on what the report calls "transactional task completion" or a grade-based endgame and more focused on fostering curiosity and a desire to learn. Students will be less inclined to ask AI to do the work for them if they feel engaged by that work.</li><li>AI designed for use by children and teens should be less sycophantic and more "antagonistic," pushing back against preconceived notions and challenging users to reflect and evaluate.</li><li>Tech companies could collaborate with educators in "co-design hubs." In the Netherlands, a government-backed hub already brings together tech companies and educators to develop, test and evaluate new AI applications in the classroom.</li><li>Holistic AI literacy is crucial — both for teachers and students. Some countries, including China and Estonia, have comprehensive, national AI literacy guidelines.</li><li>As schools continue to embrace AI, it's important that underfunded districts in marginalized communities are not left behind, allowing AI to further drive inequity.</li><li>Governments have a responsibility to regulate the use of AI in schools, making sure that the technology being used protects students' cognitive and emotional health, as well as their privacy. In the U.S., the Trump administration has <a href="https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/">tried to prohibit</a> states from regulating AI on their own, even as Congress has so far failed to create a federal regulatory framework.</li></ul>
+<p>With this "premortem," the authors argue, the time to act is now. AI's risks to children and teens are already abundant and obvious. The good news is: so are many of the remedies.</p>
