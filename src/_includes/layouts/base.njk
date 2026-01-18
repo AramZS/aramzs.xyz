@@ -12,6 +12,11 @@
 	{%- for rel in me.rels -%}
 		    <link rel="me" href="{{rel.href}}" title="{{rel.title}}"/>
  	{% endfor %}
+
+    <link rel="site.standard.publication" href="at://did:plc:t5xmf33p5kqgkbznx22p7d7g/site.standard.publication/3mbrgnnqzrr2q"/>
+    {% if standardDocKey %}
+    <link rel="site.standard.document" href="{{standardDocKey}}">
+    {% endif %}
       <!-- Webmentions -->
     <link rel="webmention" href="https://webmention.io/aramzs.xyz/webmention" />
     <!-- SEO -->

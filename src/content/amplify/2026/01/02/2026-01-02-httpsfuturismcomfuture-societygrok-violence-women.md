@@ -1,0 +1,30 @@
+---
+author: Maggie Harrison Dupré
+cover_image: 'https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=1200'
+date: '2026-01-02T21:54:03.738Z'
+dateFolder: 2026/01/02
+description: >-
+  People are asking Elon Musk's Grok chatbot to alter images to depict women
+  being sexually abused, humiliated, and even killed.
+isBasedOn: 'https://futurism.com/future-society/grok-violence-women'
+link: 'https://futurism.com/future-society/grok-violence-women'
+slug: 2026-01-02-httpsfuturismcomfuture-societygrok-violence-women
+tags:
+  - baselines
+  - social media
+  - law and order
+title: Grok Is Being Used to Depict Horrific Violence Against Real Women
+---
+<figure><img alt="People are asking Elon Musk's Grok chatbot to alter images to depict women being sexually abused, humiliated, and even killed." sizes="(max-width: 1152px) 100vw, 1152px" src="https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=1152&amp;h=768" srcset="https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=280&amp;h=187 280w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=289&amp;h=193 289w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=300&amp;h=200 300w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=308&amp;h=205 308w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=324&amp;h=216 324w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=370&amp;h=247 370w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=580&amp;h=387 580w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=594&amp;h=396 594w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=600&amp;h=400 600w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=660&amp;h=440 660w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=768&amp;h=512 768w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=1024&amp;h=683 1024w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=1041&amp;h=694 1041w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=1128&amp;h=752 1128w, https://futurism.com/wp-content/uploads/2026/01/grok-violence-women.jpg?w=1152&amp;h=768 1152w"/><figcaption>BRENDAN SMIALOWSKI/AFP via Getty Images</figcaption></figure>
+<p>Earlier this week, a troubling trend emerged on X-formerly-Twitter as people started asking Elon Musk’s chatbot Grok to unclothe images of real people. This resulted in a wave of nonconsensual pornographic images flooding the largely unmoderated social media site, with <a href="https://www.reuters.com/legal/litigation/grok-says-safeguard-lapses-led-images-minors-minimal-clothing-x-2026-01-02/">some</a> of the <a href="https://copyleaks.com/blog/grok-and-nonconsensual-image-manipulation">sexualized images</a> even depicting minors.</p>
+<p>In addition to the sexual imagery of underage girls, the women depicted in Grok-generated nonconsensual porn range from some who appear to be private citizens to a slew of celebrities, from famous actresses to the First Lady of the United States. And somehow, that was only the tip of the iceberg.</p>
+<p>When we dug through this content, we noticed another stomach-churning variation of the trend: Grok, at the request of users, altering images to depict real women being sexually abused, humiliated, hurt, and even killed.</p>
+<p>Much of this material was directed at online models and sex workers, who already <a href="https://pubmed.ncbi.nlm.nih.gov/37986645/">face a disproportionately high risk</a> of violence and homicide.</p>
+<p>One of the disturbing Grok-generated images we reviewed depicted a widely-followed model restrained in the trunk of a vehicle, sitting on a blue tarp next to shovel — insinuating that she was on her way to being murdered.</p>
+<p>Other AI images involved people specifically asking Grok to put women in scenarios where they were obviously being assaulted, which was made clear by users requesting that the chatbot make the women “look scared.” Some users asked for humiliating phrases to be written on women’s bodies, while others asked Grok to give women visible injuries like black eyes and bruises. Many Grok-generated images involved women being put into restraints against their will. At least one user asked Grok to create incestuous pornography, to which the chatbot readily complied.</p>
+<p>That a social media-infused chatbot could so readily transform into a nonconsensual porn machine to create unwanted and even violent images of real women at scale is, on its face, deeply unsettling. Even worse was that the creators of these images often seemed to be treating the action like a game or meme, with an air of laughter and detachment.</p>
+<p>That nonchalance may speak to a normalization of this kind of nonconsensual content, which before had largely been relegated to darker corners if the internet. Women <a href="https://futurism.com/the-byte/parents-furious-school-accused-covering-up-ai-generated-nudes">and girls</a>, meanwhile, continue to face the <a href="https://www.pbs.org/newshour/show/women-face-new-sexual-harassment-with-deepfake-pornography">real-world harm</a> wrought by nonconsensual deepfakes, which are easier than ever to generate thanks to AI-powered “<a href="https://futurism.com/ai-portrait-app-nudes-without-consent">nudify</a>” tools — and, apparently, multibillion-dollar chatbots.</p>
+<p>We’ve reached out to xAI for comment, but haven’t received any reply.</p>
+<p>But yesterday, Musk, who owns both X and xAI, <a href="https://x.com/elonmusk/status/2006835742908281140">took to the social media platform</a> to ask netizens to “please help us make Grok as perfect as possible.”</p>
+<p>“Your support,” he added, “is much appreciated.”</p>
+<p><strong>More on Grok and safety:</strong> <em><a href="https://futurism.com/artificial-intelligence/grok-creepy-instructions-stalking">Elon Musk’s Grok Is Providing Extremely Detailed and Creepy Instructions for Stalking</a></em></p>

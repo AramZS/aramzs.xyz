@@ -21,12 +21,12 @@ console.log('process.env.IS_LOCAL', process.env.IS_LOCAL, typeof process.env.IS_
 if (process.env.IS_LOCAL === "true") {
 	domain_name = "http://localhost:8080";
 	throwOnUndefinedSetting = true;
-	console.log("Dev env");
+	console.log("Dev env domain");
 } else {
   console.log("Prod env");
 }
-
 process.env.DOMAIN = domain_name;
+console.log("Env domain: ", process.env.DOMAIN);
 
 module.exports = function (eleventyConfig) {
 	eleventyConfig.setUseGitIgnore(false);
@@ -246,7 +246,7 @@ const collectArchives = (collection) => {
       };
     });
     
-    console.log('collected archives', result);
+    //console.log('collected archives', result);
     return result;
 };
 eleventyConfig.addCollection('archives', collectArchives);

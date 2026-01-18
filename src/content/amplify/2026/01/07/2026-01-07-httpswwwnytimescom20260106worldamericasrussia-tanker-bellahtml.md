@@ -1,0 +1,38 @@
+---
+author: Christiaan Triebert
+cover_image: >-
+  https://static01.nyt.com/images/2026/02/06/multimedia/06us-venezuela-russia-submarine-zbvm/06us-venezuela-russia-submarine-zbvm-facebookJumbo.jpg
+date: '2026-01-07T14:02:26.645Z'
+dateFolder: 2026/01/07
+description: >-
+  The development deepens the confrontation over the tanker formerly known as
+  the Bella 1, which the United States wants to seize but which Russia has
+  sought to protect.
+isBasedOn: 'https://www.nytimes.com/2026/01/06/world/americas/russia-tanker-bella.html'
+link: 'https://www.nytimes.com/2026/01/06/world/americas/russia-tanker-bella.html'
+slug: 2026-01-07-httpswwwnytimescom20260106worldamericasrussia-tanker-bellahtml
+tags:
+  - war
+  - russia
+  - politics
+  - venezuela
+  - foreign affairs
+title: Russia Sends Naval Vessel to Escort Oil Tanker U.S. Is Pursuing
+---
+<p><a data-testid="tlogo-home-link" href="https://www.nytimes.com/"><figure></figure></a></p>
+<p>The development deepens the confrontation over the tanker formerly known as the Bella 1, which the United States wants to seize but which Russia has sought to protect.</p>
+<figure><audio src="https://static.nytimes.com/narrated-articles/synthetic/article-6bd0dffd-1543-5d9d-933e-aa6a5db32dbb/job-1767763091350/article-6bd0dffd-1543-5d9d-933e-aa6a5db32dbb-job-1767763091350.mp3"></audio></figure>
+<figure><picture><source media="(max-width: 599px) and (min-device-pixel-ratio: 3),(max-width: 599px) and (min-resolution: 3dppx),(max-width: 599px) and (min-resolution: 288dpi)" srcset="https://static01.nyt.com/images/2026/02/06/multimedia/06us-venezuela-russia-submarine-zbvm/06us-venezuela-russia-submarine-zbvm-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1800"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 2),(max-width: 599px) and (min-resolution: 2dppx),(max-width: 599px) and (min-resolution: 192dpi)" srcset="https://static01.nyt.com/images/2026/02/06/multimedia/06us-venezuela-russia-submarine-zbvm/06us-venezuela-russia-submarine-zbvm-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1200"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 1),(max-width: 599px) and (min-resolution: 1dppx),(max-width: 599px) and (min-resolution: 96dpi)" srcset="https://static01.nyt.com/images/2026/02/06/multimedia/06us-venezuela-russia-submarine-zbvm/06us-venezuela-russia-submarine-zbvm-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600"/><img alt="A dark-hulled tanker ship, its lower half white with extensive orange rust, cruises on blue water. White waves crest along the hull." sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 60vw, 100vw" src="https://static01.nyt.com/images/2026/02/06/multimedia/06us-venezuela-russia-submarine-zbvm/06us-venezuela-russia-submarine-zbvm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" srcset="https://static01.nyt.com/images/2026/02/06/multimedia/06us-venezuela-russia-submarine-zbvm/06us-venezuela-russia-submarine-zbvm-articleLarge.jpg?quality=75&amp;auto=webp 600w,https://static01.nyt.com/images/2026/02/06/multimedia/06us-venezuela-russia-submarine-zbvm/06us-venezuela-russia-submarine-zbvm-jumbo.jpg?quality=75&amp;auto=webp 1024w,https://static01.nyt.com/images/2026/02/06/multimedia/06us-venezuela-russia-submarine-zbvm/06us-venezuela-russia-submarine-zbvm-superJumbo.jpg?quality=75&amp;auto=webp 2048w"/></picture><figcaption>The oil tanker Bella 1 at the Singapore Strait in March. Russia has dispatched at least one naval vessel to meet and escort the tanker, which the U.S. military has been pursuing and trying to seize. Credit: Hakon Rimmereid, via Reuters</figcaption></figure>
+<p><i><p><i>By </i><a href="https://www.nytimes.com/by/adam-sella">Adam Sella</a><a href="https://www.nytimes.com/by/nicholas-nehamas">Nicholas Nehamas</a> and <a href="https://www.nytimes.com/by/christiaan-triebert">Christiaan Triebert</a></p></i></p>
+<p>Russia has dispatched at least one naval vessel to meet and escort an oil tanker that the U.S. military has been pursuing and trying to seize, according to a U.S. official briefed on the operation who requested anonymity to discuss a sensitive matter.</p>
+<p>The development deepens the confrontation between the two countries over the tanker, known until recently as the Bella 1 and now called the Marinera. The United States has been chasing the tanker for weeks after it tried to evade a partial blockade around Venezuela, while Russia has taken increasingly conspicuous steps to protect it.</p>
+<p>The tanker is sailing northeast in the Atlantic Ocean between Iceland and Britain with its location transponder active, according to ship-tracking data from MarineTraffic. From there, it could head to the Baltic Sea or around Scandinavia to Murmansk, Russia’s ice-free Arctic port.</p>
+<p>The U.S. Coast Guard stopped the tanker in the Caribbean Sea on Dec. 21. The ship, which started its journey in Iran, had been on its way to pick up oil in Venezuela.</p>
+<p>At the time, the United States said it had a seizure warrant on the vessel because it was not flying a valid national flag. But the Bella 1 refused to be boarded and sailed into the Atlantic, with the United States in pursuit.</p>
+<p>Then came a series of moves to ward off the United States. The fleeing crew <a href="https://www.nytimes.com/2025/12/30/us/politics/oil-tanker-venezuela-us-russia-bella-1.html">painted a Russian flag</a> on the hull, the tanker was <a href="https://www.nytimes.com/2025/12/31/us/politics/russia-oil-tanker-venezuela.html">renamed and added</a> to an official Russian ship database, and Russia made a <a href="https://www.nytimes.com/2026/01/01/us/politics/russia-oil-tanker-venezuela-us-pursuit.html">formal diplomatic request</a> that the United States stop its chase.</p>
+<p>But none of those actions appear to have worked. On Tuesday, a video filmed from the vessel’s bridge and published by the Russian state-owned broadcaster RT showed the ship’s being trailed by a U.S. Coast Guard vessel in foggy weather. The New York Times was not able to determine when the video was recorded.</p>
+<p>The tanker is part of a so-called shadow fleet that has transported oil for Russia, Iran and Venezuela in violation of sanctions imposed by the United States and other countries. The United States has borne down on them since President Trump ordered a “complete blockade” on oil tankers under sanctions going to and from Venezuela.</p>
+<p>The tankers appear to be an increasing point of friction between the United States and Russia, amid strains created by the U.S. attack on Venezuela, a longtime ally of Russia’s.</p>
+<p>In the same week that the Bella 1 adopted a Russian flag and a new name, a second tanker operating in Venezuela, the Hyperion, made a similar change.</p>
+<p>At least three additional oil tankers that operated in Venezuelan waters in recent weeks have similarly switched to Russian flags in recent days, according to an official Russian vessel registry, extending a pattern of reflagging among ships under U.S. sanctions. Earlier this week, one of those three <a href="https://www.nytimes.com/2026/01/05/world/americas/oil-tankers-venezuela-blockade.html">disappeared from Venezuelan waters</a>, despite the U.S. blockade on ships under sanctions.</p>
+<p>All five vessels are subject to U.S. sanctions for shipping either Iranian or Russian oil and altered their flags and declared home ports in the Russian cities Sochi or Taganrog in records maintained by the Russian Maritime Register of Shipping.</p>
