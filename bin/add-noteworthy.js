@@ -91,20 +91,25 @@ const fetchUrl = async (url, date) => {
     });
 
     const topic = await topicPrompt.run();
-
-    const filename = `${date}-${slugify(title)}.md`;
-    const pathname = `${__dirname}/../src/content/noteworthy/${filename}`;
+    const dateForPath = DateTime.fromISO(date).toFormat('yyyy/LL/dd/'); 
+    const dateForUrl = DateTime.fromISO(date).toFormat('yyyy-LL-dd'); 
+    const filename = `${dateForUrl}-${slugify(title)}.md`;
+    const pathname = `${__dirname}/../src/content/noteworthy/${dateForPath}${filename}`;
 
     if (fs.existsSync(pathname)) {
       console.log(`File exists at [${pathname}]`);
       return 1;
     }
 
+    // Create needed folder path if it doesn't exist
+    const dir = `${__dirname}/../src/content/noteworthy/${dateForPath}`;
+    fs.mkdirSync(dir, { recursive: true });
+    
     const frontMatter = {
       title,
       tags: [topic],
       //add date and time for days with more than one noteworthy. Date should be output in the format YYYY-MM-DDTHH:mm:ssZ
-      date: DateTime.fromFormat(date, 'yyyy-LL-dd').toISO(),
+      date: DateTime.fromFormat(date, 'yyyy-LL-dd\'T\'HH:mm:ss').toISO(),
       cite: {
         name: title,
         author: author,
@@ -126,8 +131,8 @@ const main = async (argv) => {
   let {url} = argv;
 
   const datePrompt = new Input({
-    message: 'Date (YYYY-MM-DD)',
-    initial: DateTime.now().toFormat('yyyy-LL-dd')
+    message: 'Date (YYYY-MM-DDTHH:mm:ss)',
+    initial: DateTime.now().toFormat('yyyy-LL-dd\'T\'HH:mm:ss')
   });
 
   const date = await datePrompt.run();
