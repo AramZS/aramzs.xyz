@@ -25,7 +25,7 @@ When you post AI at me, the other thing you are often doing is engaging in [the 
 
 Finally, there is the biggest problem om pretending the chat system is an expert: the AI is **not** an authority. [The systems we call AI](https://context.center/topics/generative-ai-and-chatgpt/#does-ai-exist-no.) make things up, they make mistakes, they have no internal mechanisms that incentivize them not to lie to you. When you repeat their answer in to a conversation you are not trustworthy because the AI is not trustworthy. These systems are not designed to be trusted. Even worse are the people who realize this and are just trying to smuggle their opinions in as if they are authoritative. It's gross. I don't like it. At the end of the day it makes you look bad at best and malicious at worst. It always makes you look disrespectful and foolish. 
 
-I'm not a moron, I don't need you to AI Summarize and article, or AI Pseudo Code it, or AI Make Up an Answer. I also can use ChatGPT et al for free. If I wanted to talk to an AI agent, I would do that, I wouldn't ask you to do it for me. You've lost the point of human interaction. You've completely missed the whole idea of why we talk to each other. You're failing society and I'm going to start becoming concerned about what your values are. 
+I'm not a moron, I don't need you to AI Summarize an article, or AI Pseudo Code it, or AI Make Up an Answer. I also can use ChatGPT et al for free. If I wanted to talk to an AI agent, I would do that, I wouldn't ask you to do it for me. You've lost the point of human interaction. You've completely missed the whole idea of why we talk to each other. You're failing society and I'm going to start becoming concerned about what your values are. 
 
 Don't post AI at me. 
 
