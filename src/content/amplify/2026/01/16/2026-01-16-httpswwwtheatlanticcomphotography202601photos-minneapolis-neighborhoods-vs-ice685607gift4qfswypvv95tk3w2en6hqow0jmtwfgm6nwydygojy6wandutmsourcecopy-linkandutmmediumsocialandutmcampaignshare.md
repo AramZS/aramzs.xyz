@@ -1,9 +1,7 @@
 ---
 author: Alan Taylor
 cover_image: >-
-  {'width': 960, 'height': 540, 'url':
-  'https://cdn.theatlantic.com/thumbor/m6aziCgdGfwnDIyYfg7W07gXKis=/0x438:6968x4358/960x540/media/img/mt/2026/01/a01_G_2256106899/original.jpg',
-  '__typename': 'BasicImage'}
+  https://cdn.theatlantic.com/thumbor/m6aziCgdGfwnDIyYfg7W07gXKis=/0x438:6968x4358/960x540/media/img/mt/2026/01/a01_G_2256106899/original.jpg
 date: '2026-01-16T12:52:18.732Z'
 dateFolder: 2026/01/16
 description: >-
