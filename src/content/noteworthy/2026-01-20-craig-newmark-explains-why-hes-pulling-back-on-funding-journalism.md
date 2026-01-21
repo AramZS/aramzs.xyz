@@ -1,5 +1,6 @@
 ---
 title: A little interview in which Craig Newmark exhausts me
+description: Instead of pulling back on funding, he should fund audience experts to help non-profit media orgs.
 tags:
   - list/in-the-news
   - media
