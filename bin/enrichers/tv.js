@@ -182,7 +182,7 @@ const writeTVShows = async (tvPromiseArray) => {
 			"./src/content/resources/tv",
 			show
 		);
-    return "./src/content/resources/tv/"+show.mediaName+".md";
+    return "./src/content/resources/tv/"+(show.slug || slugger(show.mediaName))+".md";
 	});
 	return paths;
 };

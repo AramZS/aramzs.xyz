@@ -6,6 +6,7 @@ const {DateTime} = require('luxon');
 const yargs = require("yargs");
 const cheerio = require('cheerio');
 
+let added = [];
 
 const main = async (argv) => {
   const selectYourOwn = 'Other, enter your own';
@@ -34,36 +35,42 @@ const main = async (argv) => {
         break;
       }
     }
-
-    code = await tvTools.grabShow(showName);
-    let titles = [];
-    if (code.title) {
-      titles.push(code.title);
-    }
-    if (code.mediaName && code.mediaName !== code.title) {
-      titles.push(code.mediaName);
-    }
-    titles.push(selectYourOwn);
-    const titlePrompt = new Select({
-      name: 'title',
-      message: 'Pick a title',
-      choices: titles
-    });
-
-    let title = await titlePrompt.run();
-
-    if (title === selectYourOwn) {
-      const prompt = new Input({
-        message: 'Title',
-        initial: ''
+    try {
+      let showGrabResult = await tvTools.grabShow(showName);
+      let titles = [];
+      if (showGrabResult.title) {
+        titles.push(showGrabResult.title);
+      }
+      if (showGrabResult.mediaName && showGrabResult.mediaName !== showGrabResult.title) {
+        titles.push(showGrabResult.mediaName);
+      }
+      titles.push(selectYourOwn);
+      const titlePrompt = new Select({
+        name: 'title',
+        message: 'Pick a title',
+        choices: titles
       });
 
-      title = (await prompt.run()).trim();
-      code.titleOverride = title;
-    }
+      let title = await titlePrompt.run();
 
-    var filepath = await tvTools.writeTVShows([code]);
-    console.log('Wrote TV show to', filepath);
+      if (title === selectYourOwn) {
+        const prompt = new Input({
+          message: 'Title',
+          initial: ''
+        });
+
+        title = (await prompt.run()).trim();
+        showGrabResult.titleOverride = title;
+      }
+      showGrabResult.watchedDate = date;
+      var filepath = await tvTools.writeTVShows([showGrabResult]);
+      console.log('Wrote TV show to', filepath[0]);
+      added.push({title: title, filepath: filepath[0]});
+      code = 1;
+    } catch (e) {
+      console.error('Error adding TV show', showName, e.message);
+      code = 1;
+    }
     const prompt = new Confirm({
       name: 'question',
       message: 'Want to add more TV shows?'
@@ -74,6 +81,8 @@ const main = async (argv) => {
       code = -1;
       showName = undefined;
     }
+
+    return code;
   }
 
   if (added.length > 0) {
