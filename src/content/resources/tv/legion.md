@@ -24,7 +24,7 @@ overview: >-
 popularity: 155.441
 poster: legion-poster.jpg
 poster_path: /d6T86JYMW4sSLRmNfdtFilvugOv.jpg
-rating: false
+rating: 5
 rewatch: false
 slug: legion
 tags:

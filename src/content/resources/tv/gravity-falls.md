@@ -24,7 +24,7 @@ overview: >-
 popularity: 249.62
 poster: gravity-falls-poster.jpg
 poster_path: /pnoGOBtkffH64hhI5GPdsQ218d1.jpg
-rating: false
+rating: 4
 rewatch: false
 slug: gravity-falls
 tags:
