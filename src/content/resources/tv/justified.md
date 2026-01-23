@@ -22,7 +22,7 @@ overview: >-
 popularity: 183.582
 poster: justified-poster.jpg
 poster_path: /ie1quhMk09lDtvtAyQAHTu09R9Z.jpg
-rating: false
+rating: 5
 rewatch: false
 slug: justified
 tags:

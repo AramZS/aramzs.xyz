@@ -26,7 +26,7 @@ overview: >-
 popularity: 611.656
 poster: stargate-sg-1-poster.jpg
 poster_path: /dQjmI7XxI47v8IM2MUysHG0LuU2.jpg
-rating: false
+rating: 4
 rewatch: false
 slug: stargate-sg-1
 tags:
