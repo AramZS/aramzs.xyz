@@ -1,0 +1,51 @@
+---
+author: Malcolm Ferguson
+cover_image: >-
+  https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?w=1200&h=630&crop=faces&fit=crop&fm=jpg
+date: '2026-01-24T01:19:14.109Z'
+dateFolder: 2026/01/23
+description: ICE agents continue to target kids as they crack down on Minneapolis.
+isBasedOn: 'https://newrepublic.com/post/205638/ice-detains-two-year-old-girl-minneapolis'
+link: 'https://newrepublic.com/post/205638/ice-detains-two-year-old-girl-minneapolis'
+slug: >-
+  2026-01-23-httpsnewrepubliccompost205638ice-detains-two-year-old-girl-minneapolis
+tags:
+  - baselines
+  - immigration
+  - law and order
+title: ICE Detains 2-Year-Old Girl Days After Using 5-Year-Old as Bait
+---
+<figure><picture><source media="screen and (min-width: 992px)" srcset="https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=1 1x,
+https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=2 2x,
+https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=3 3x,
+https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=4 4x,
+https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=5 5x"/><source media="screen and (min-width: 768px) and (max-width: 991.98px)" srcset="https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=1 1x,
+https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=2 2x,
+https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=3 3x,
+https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=4 4x,
+https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=5 5x"/><img alt="Federal immigration agents stand outside a car with a unicorn on it." src="https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;q=65&amp;w=768&amp;ar=3%3A2&amp;ixlib=react-9.11.0" srcset="https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=1 1x,
+https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=2 2x,
+https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=3 3x,
+https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=4 4x,
+https://images.newrepublic.com/e9433c5cb7ca19b1a7750c90f5c2a79cb76abaf1.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=5 5x"/></picture><figcaption>Madison Thorn/Anadolu/Getty Images</figcaption></figure>
+<p>“Respondents have taken a 2-year-old into custody—an escalation of violence that is unspeakable, cruel and without any legal basis or justification,” their attorneys said in court filings.</p>
+<p>Their attorneys claim that their clients, both from Ecuador, are asylum-seekers who were arrested without warrants.</p>
+<p>“On January 22, 2026, Chloe who is 2 years of age, and Elvis who is her father, were detained in South Minneapolis by ICE. They were driving back home from the grocery store when immigration officials decided to detain them,” the father and daughter’s GoFundMe <a href="https://www.gofundme.com/f/help-bring-2yearold-chloe-and-her-father-home">reads</a>. “With the permission of the mother, we are reaching out to community to help us raise funds for lawyer fees, food, bond requests, rent, livability, and resources to keep this family together. She would appreciate the help from community in reuniting their family.”</p>
+<p>While the judge’s ruling raises hope that the toddler will return home soon, her arrest only adds to the bleak deluge of news coming out of Minnesota. ICE continues to terrorize people, often brutalizing and wrongfully detaining them in the process. And they’re preparing to potentially move on to Maine, Wisconsin, and maybe your town next.</p>
+<figure><picture><source data-srcset="https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=1 1x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=2 2x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=3 3x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=4 4x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=5 5x" media="screen and (min-width: 992px)" srcset="data:image/svg+xml,%3Csvg%20width%3D%22768%22%20height%3D%22512%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23F5F5F5%22%2F%3E%3C%2Fsvg%3E"/><source data-srcset="https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=1 1x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=2 2x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=3 3x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=4 4x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=5 5x" media="screen and (min-width: 768px) and (max-width: 991.98px)" srcset="data:image/svg+xml,%3Csvg%20width%3D%22768%22%20height%3D%22512%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23F5F5F5%22%2F%3E%3C%2Fsvg%3E"/><img alt="Kirk Milhoan, to left, crosses his arms and zones out while he sits at a table with others at a CDC meeting." data-src="https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;q=65&amp;w=768&amp;ar=3%3A2&amp;ixlib=react-9.11.0" data-srcset="https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=1 1x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=2 2x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=3 3x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=4 4x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=5 5x" src="data:image/svg+xml,%3Csvg%20width%3D%22768%22%20height%3D%22512%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22%23F5F5F5%22%2F%3E%3C%2Fsvg%3E" srcset="https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=1 1x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=2 2x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=3 3x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=4 4x,
+https://images.newrepublic.com/cd82407cf9f61c76c24fca8522762cb5c0d0d79b.jpeg?auto=format&amp;fit=crop&amp;crop=faces&amp;ar=3%3A2&amp;ixlib=react-9.11.0&amp;q=65&amp;w=768&amp;dpr=5 5x"/></picture><figcaption>Elijah Nouvelage/Getty Images</figcaption></figure>
