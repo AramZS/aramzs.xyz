@@ -1,0 +1,63 @@
+---
+author: CrimethInc. Ex-Workers Collective
+cover_image: 'https://cdn.crimethinc.com/assets/articles/2026/01/25/header.jpg'
+date: '2026-01-25T07:16:26.757Z'
+dateFolder: 2026/01/25
+description: >-
+  On Saturday, January 24, an ICE agent murdered Alex Pretti in Minneapolis. In
+  response, people drove ICE and Minneapolis police out of the neighborhood.
+isBasedOn: >-
+  https://crimethinc.com/2026/01/25/minneapolis-responds-to-the-murder-of-alex-pretti-an-eyewitness-account
+link: >-
+  https://crimethinc.com/2026/01/25/minneapolis-responds-to-the-murder-of-alex-pretti-an-eyewitness-account
+slug: >-
+  2026-01-25-httpscrimethinccom20260125minneapolis-responds-to-the-murder-of-alex-pretti-an-eyewitness-account
+tags:
+  - politics
+  - baselines
+  - law and order
+  - political violence
+title: Minneapolis Responds to the Murder of Alex Pretti
+---
+<figure><img alt="" src="https://cdn.crimethinc.com/assets/articles/2026/01/25/header.jpg"/></figure>
+<p>On Saturday, January 24, an ICE agent murdered Alex Pretti in Minneapolis. Five agents tackled and beat him, then an agent shot him multiple times. <a href="https://www.youtube.com/watch?v=cPd_6n4C5Nw">Video footage</a> from multiple angles confirms that the agent shot Pretti <em>after</em> he had been disarmed. Immediately following the murder, the Whittier neighborhood rose up and battled ICE, Minnesota police, and Minnesota State Troopers for over four hours, eventually forcing them to withdraw.</p>
+<p>This murder occurred one day after a historic general strike in which more than 100,000 workers in the Twin Cities walked out against the ICE occupation. Many people in the streets expressed the opinion that the federal agents murdered Alex as an act of revenge for the strike.</p>
+<p><a href="https://crimethinc.com/2025/11/20/reflections-on-resisting-ice-in-chicago-the-view-from-broadview">Once</a> <a href="https://crimethinc.com/2026/01/15/north-minneapolis-chases-out-ice-a-firsthand-account-of-the-response-to-another-ice-shooting">again</a>, we note the role that local and state police play in enabling ICE to continue murdering with impunity. Democrat politicians have expressed disapproval of ICE tactics, but they and the police who supposedly answer to them have yet to do anything concrete to stop federal agents from terrorizing, abducting, and murdering.</p>
+<p>The following is an eyewitness account from an anarchist in Minneapolis.</p>
+<figure><img src="https://cdn.crimethinc.com/assets/articles/2026/01/25/4.jpg"/></figure>
+<p>I woke up at 9:15 this morning to my phone buzzing over and over. The first text I saw read, “URGENT FROM WHIT/UPT IN FRONT OF GLAM DOLL DONUTS: Someone has been shot by ICE.” I groggily squirted some caffeine syrup into my water bottle as I processed this information. I threw on five layers of clothes, a pair of goggles, and a mask, called in sick to my job, and rushed to the scene.</p>
+<p>When I got there, there was already yellow crime scene tape up around a three-block stretch of 26th Street. Masked ICE and Border Patrol officers guarded the perimeter, armed with shotguns and pepper spray cans. An ambulance was still there. A crowd circled around the crime scene tape, but did not cross it. A friend recognized me in the crowd and patted me on the shoulder. Someone told me the victim was dead. One person was weeping. Most people were cursing at the feds. An old woman was shouting “You are going to hell!” in the face of a Border Patrol stormtrooper. He was threatening her with a can of pepper spray.</p>
+<p>Behind us, on 1st Avenue, three people started rolling a dumpster into the street. An ICE agent fired a tear gas grenade at them. My friend and I started running south on 1st Avenue to get away from the gas. We turned right, then right again onto Nicollet Avenue, bringing us to Nicollet and 26th, where ICE had murdered the man hardly half an hour before. There was a much bigger crowd here facing off against a skirmish line of feds. We recognized another friend of ours and ran up to them.</p>
+<p>Just then, we heard the loud crack of flash-bang grenades being fired maybe two or three blocks northwest of us. “We’ll take my car,” our friend yelled. He was parked right there on Nicollet. We piled into his car and he flipped a U-turn and sped away from the ICE agents. We made a few turns and ended up at 25th and Blaisdell.</p>
+<p>There was a line of MPD Riot Squad cops at the far end, closer to Nicollet. I recognized them by their yellow vests. Between us and the pigs, closer to Blaisdell, a group of people were building a barricade out of dumpsters, trash cans, cinderblocks, and wooden pallets. We heard the ubiquitous call-and-response chants of “FUCK ICE, ICE OUT!” People drummed on the trash cans along to the beat. Someone was sprinkling what appeared to be home-made caltrops in front of the barricade.</p>
+<p>As we approached the barricade, people in the crowd started rolling the dumpsters forward toward the police line. Somebody lit one of them on fire. One man was shouting at us, futilely trying to peace-police the crowd, but no one wanted to hear it. A few people promptly escorted him away. Flames engulfed the burning dumpster. People rolled that one forward too.</p>
+<figure><div class="rw-embed-wrapper"><embed src="https://player.vimeo.com/video/1158046871?title=0&amp;byline=0&amp;portrait=0" type="video/mp4"/></div><figcaption> <p>Flames engulfed the burning dumpster.</p> </figcaption></figure>
+<p>The police started shooting tear gas and rubber bullets. Their aim was not particularly good. This was the first time this year that I’ve seen them use rubber bullets rather than pepper balls or gas. The crowd fell back, and the cops charged forward and overtook our barricade. Three of them tackled and arrested one person near me, slamming her to the pavement. I yelled and turned back for a second, but instantly choked on the tear gas and was forced to fall back towards Blaisdell. Some people were chucking glass bottles and chunks of ice at the cops as they retreated.</p>
+<p>The crowd pulled more trash cans from the alleys and quickly began building another barricade further back. I had lost track of the person I had driven there with, but soon I found another person I knew. Some began shouting for people to fall back west on 26th and keep building barricades. This ad hoc strategy caught on. People ran down the street leaving trash cans and tires behind them, creating a series of small barricades as the cops advanced.</p>
+<p>A woman was watching from her porch. Someone ran up and addressed her: “Ma’am, we’re out here defending the neighborhood against ICE. We need barricade materials. Is there anything in your yard you wouldn’t mind parting with?” She nodded urgently and showed them to her backyard, offering a flower bed, an old couch, and a lawn chair. Three people helped to carry these out and add them to the barricades.</p>
+<p>While this game of cat-and-mouse progressed, Signal messages arrived from others who were holding down a different barricade three blocks away, on Nicollet on the south side of the intersection. Our crowd was facing off against MPD, but theirs was facing off against ICE. My friend and I decided to join them. We cut through a series of alleys until we came out on 27th Street.</p>
+<p>We ran left onto the stretch of Nicollet full of restaurants that locals know as “Eat Street.” There was a much bigger crowd there standing behind a barricade made mostly of wooden pallets. A skirmish line of ICE and CBP officers stood on the opposite side. We could see the fear in their eyes. It felt good.</p>
+<p>No sooner did we approach the barricade than ICE opened fire with tear gas. I’m not a stranger to tear gas, but they fired more than I’ve ever seen. Noxious white clouds enveloped us. My lungs felt like they were burning. Somebody picked up a canister and threw it back. We stampeded south on Nicollet to get out. When I turned to look behind me through the gas clouds, I saw ICE SUVs and a Bearcat armored car leaving the scene, headed east toward the highway.</p>
+<p>We ran down to 1st street, where I’d started out, to try to catch the agents as they retreated. We turned and ran north back up to 26th. People were peppering their cars with rocks and ice chunks as they drove off toward the 35W on-ramp. They fired more tear gas and green smoke out of the vehicles as they fled onto the highway.</p>
+<p>After people chased off the ICE agents, we returned to 26th and Nicollet from the east. A huge number of state troopers were lined up on one end of 26th, facing the protesters on the other side. They had an LRAD on top of a Bearcat. One of the cops was reading a dispersal warning over a loudspeaker.</p>
+<p>“SHUT THE FUCK UP!” one person shouted back.</p>
+<p>“TRAITORS!” screamed someone else.</p>
+<p>The state troopers launched a barrage of tear gas and flash-bang grenades at us. Someone threw a powerful firecracker back at them. It exploded at their feet.</p>
+<p>The crowd hurried back and turned left onto another street. Everyone was exhausted from a long morning of activity; many were starting to move more slowly. I saw the state trooper vehicles speeding away through their own cloud of tear gas, just as the ICE agents had done. It took me a minute to realize that they were gone.</p>
+<p>I ducked out of the ongoing protest. It was high time to buy a real gas mask. I went to a hardware store and picked up a big pack of hand-warmers to give out to the crowd. It wasn’t until my adrenalin eased up that I realized I hadn’t eaten yet. I was famished.</p>
+<figure><img src="https://cdn.crimethinc.com/assets/articles/2026/01/25/1.jpg"/></figure>
+<p>I returned to the site of the murder about 45 minutes later. A massive crowd of well over 1000 people had gathered, filling up a whole city block. It reminded me unmistakably of George Floyd Square. The block that was once Eat Street had transformed into Alex Pretti Square.</p>
+<p>It appeared that all the little barricades that the people of Whittier had erected had been relocated here, blocking off Nicollet at both ends. People sat on top of dumpsters, drumming on the lids. The crowd looked more racially diverse than I’d ever seen that neighborhood before. A Mexican flag was waving near the middle of the crowd.</p>
+<p>A young woman produced a PA system in the middle of the crowd. Everybody circled around it as people took turns making speeches.</p>
+<p>A young man took the mic. He couldn’t have been more than 20.</p>
+<p>“Y’ALL. NOBODY IS COMING TO SAVE US. WE MADE HISTORY YESTERDAY. WE WENT ON GENERAL STRIKE. WE SHUT DOWN THIS WHOLE FUCKING CITY. THAT’S THE BEST WEAPON THE PEOPLE HAVE, WE’RE THE ONES WHO MAKE THE WORLD RUN AND WE’RE THE ONES WHO CAN MAKE IT STOP. BUT ONE DAY’S NOT ENOUGH. WE GOTTA KEEP IT GOING INTO MONDAY.”</p>
+<p>The crowd broke out into thunderous applause, cheering and drumming rhythmically on the dumpster lids.</p>
+<p>The young man started a chant: “NO MORE MINNESOTA NICE! MONDAY MINNESOTA STRIKE!”</p>
+<p>It echoed across the square.</p>
+<p>The ICE invasion of the Twin Cities has long since passed the point of no return. It is unthinkable that society could return to “normal” after what we have seen and felt. The powers that be know very well that they have to play for keeps now. So do we.</p>
+<p>Today, at the Battle of Whittier, even through the tear gas, we could taste a softer, gentler future to come. These federal murderers know it, too. We will bury them beneath the new world in our hearts.</p>
+<figure><img src="https://cdn.crimethinc.com/assets/articles/2026/01/25/2.jpg"/></figure>
+<figure><a href="https://crimethinc.com/2026/01/24/protesters-blockade-ice-headquarters-in-fort-snelling-minnesota-report-from-an-action-during-the-general-strike-in-the-twin-cities"><img alt="" src="https://cdn.crimethinc.com/assets/articles/2026/01/24/header.jpg"/></a></figure>
+<figure><a href="https://crimethinc.com/2026/01/21/from-rapid-response-to-revolutionary-social-change-the-potential-of-the-rapid-response-networks"><img alt="" src="https://cdn.crimethinc.com/assets/articles/2026/01/21/a/header.jpg"/></a></figure>
+<figure><a href="https://crimethinc.com/2026/01/08/minneapolis-responds-to-ice-committing-murder-an-account-from-the-streets"><img alt="" src="https://cdn.crimethinc.com/assets/articles/2026/01/08/header.jpg"/></a></figure>
+<figure><a href="https://crimethinc.com/2025/10/20/anarchists-at-the-no-kings-rallies-reports-from-around-the-country"><img alt="" src="https://cdn.crimethinc.com/assets/articles/2025/10/20/header.jpg"/></a></figure>
