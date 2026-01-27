@@ -119,6 +119,11 @@ module.exports = {
       colors: ["#0a0a0a", "#f80d10", "#f9cf0a", "#3cf287", "#83f5ec"],
       sourceInfo: "Arc Raiders Game via Speranza Watchlist",
       "source": "https://www.speranza-watchlist.com"
+    },
+    {
+      colors: ["#080000", "#fca45b", "#ffad3f", "#593f09", "#020406", "#1eb331", "#086e0c", "#42201e", "#000002", "#0f82fb", "#1acffd"],
+      sourceInfo: "From Suspiria (1977) film frames",
+      source: "https://bsky.app/profile/letterboxd.social/post/3mdb757566k2b"
     }
   ]
 };
