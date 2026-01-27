@@ -1,0 +1,27 @@
+---
+author: Sam Van Pykeren
+cover_image: >-
+  https://www.motherjones.com/wp-content/uploads/2026/01/Sequence-03.00_00_02_03.Still006.jpg?w=1200&h=630&crop=1
+date: '2026-01-26T13:33:41.372Z'
+dateFolder: 2026/01/26
+description: '"This is redemption."'
+isBasedOn: >-
+  https://www.motherjones.com/politics/2026/01/minneapolis-ice-shooting-clergy-march-rob-schenck-video/
+link: >-
+  https://www.motherjones.com/politics/2026/01/minneapolis-ice-shooting-clergy-march-rob-schenck-video/
+slug: >-
+  2026-01-26-httpswwwmotherjonescompolitics202601minneapolis-ice-shooting-clergy-march-rob-schenck-video
+tags:
+  - politics
+  - religion
+title: He Spent Decades Building the Religious Right. Now He’s Marching to Undo It.
+---
+<figure><img alt="Split screen image of young Rev. Rob Schenck on the left in front of the supreme court. On the right, Rev. Schenck today marching in Minnesota with a cross raised." sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" src="https://www.motherjones.com/wp-content/uploads/2026/01/Sequence-03.00_00_02_03.Still006.jpg" srcset="https://www.motherjones.com/wp-content/uploads/2026/01/Sequence-03.00_00_02_03.Still006.jpg 2000w, https://www.motherjones.com/wp-content/uploads/2026/01/Sequence-03.00_00_02_03.Still006.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2026/01/Sequence-03.00_00_02_03.Still006.jpg?resize=321,180 321w, https://www.motherjones.com/wp-content/uploads/2026/01/Sequence-03.00_00_02_03.Still006.jpg?resize=630,354 630w, https://www.motherjones.com/wp-content/uploads/2026/01/Sequence-03.00_00_02_03.Still006.jpg?resize=990,556 990w, https://www.motherjones.com/wp-content/uploads/2026/01/Sequence-03.00_00_02_03.Still006.jpg?resize=1536,863 1536w, https://www.motherjones.com/wp-content/uploads/2026/01/Sequence-03.00_00_02_03.Still006.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2026/01/Sequence-03.00_00_02_03.Still006.jpg?resize=1300,731 1300w, https://www.motherjones.com/wp-content/uploads/2026/01/Sequence-03.00_00_02_03.Still006.jpg?resize=642,361 642w, https://www.motherjones.com/wp-content/uploads/2026/01/Sequence-03.00_00_02_03.Still006.jpg?resize=768,432 768w"/><figcaption>Split screen image of young Rev. Rob Schenck on the left in front of the supreme court. On the right, Rev. Schenck today marching in Minnesota with a cross raised.</figcaption></figure>
+<p>Get your news from a source that’s not owned and controlled by oligarchs. <a data-ga-action="click|https://www.motherjones.com/newsletters/?mj_oac=Article_Top_Support" data-ga-category="TopOfArticle" data-ga-label="NewsletterPromoCovid" href="https://www.motherjones.com/newsletters/?mj_oac=Article_Top_No_Oligarchs">Sign up for the free <em>Mother Jones Daily</em>.</a></p>
+<p>He helped build <a href="https://www.motherjones.com/politics/2018/06/this-evangelical-pastor-helped-build-the-religious-right-he-now-believes-he-made-a-terrible-mistake-rob-schenck/">the religious right in the United States</a>. Now he’s in Minneapolis, Minnesota, to join the clergy’s fight ICE’s siege of the city.</p>
+<figure><div class="rw-embed-wrapper"><embed src="https://www.youtube.com/embed/PnIAkhnSmgA?feature=oembed" type="video/mp4"/></div></figure>
+<p>“Being here, in solidarity, is part of the repair work in my own soul,” said Rev. Rob Schenck, an Evangelical minister who spent decades commingling church and state to advance conservative causes <a href="https://sojo.net/magazine/november-2022/30-years-i-preached-abortion-was-murder">like the anti-abortion movement</a>. One example: Schenck’s organization, Faith and Action in the Nation’s Capital, created “<a href="https://www.motherjones.com/politics/2024/09/rob-schenck-confessions-of-a-former-christian-nationalist/">Operation Higher Court</a>,” which trained wealthy couples as “stealth missionaries” to befriend Supreme Court justices to preserve, in his words, a Christian nation.</p>
+<p>Now, he says he must confront the damage he helped cause, including what he believes was his role in delivering “the entities that are now inflicting all of this suffering on so many people”—extending to the rise of President Donald Trump. “We made this terrible deal with Donald Trump because we were already demoralized,” <a href="https://www.motherjones.com/politics/2018/06/this-evangelical-pastor-helped-build-the-religious-right-he-now-believes-he-made-a-terrible-mistake-rob-schenck/">he told <em>Mother Jones</em> in 2018</a>. “He didn’t demoralize us—he is the evidence of our demoralization.”</p>
+<p>So, here, braving subzero temperatures, Schenck told me, “I have to do the work of repair.” The video above was taken on Friday, during the city’s “Day of Truth and Freedom”—a citywide strike and march in which clergy played a prominent role. “These folks are showing more grace in accepting me than I would have ever extended to them,” he said, flanked by organizers shouting, “Whose streets? Our streets!”</p>
+<p>The next day, after learning of federal <a href="https://www.motherjones.com/politics/2026/01/breaking-federal-agents-shot-killed-minneapolis-man/">agents shooting and killing Alex Pretti</a>, Schenck extended his stay in the city. I’ve been following Rob on his journey over the last few days and the clergy’s fight against ICE, which we will feature more of in the coming days.</p>
+<p>“This is redemption,” he told me. “This is redemption.”</p>
