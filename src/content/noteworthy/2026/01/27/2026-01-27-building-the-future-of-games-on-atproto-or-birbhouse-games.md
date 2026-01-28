@@ -1,5 +1,5 @@
 ---
-title: Building the Future of Games on ATProto | Birbhouse Games
+title: Building the Future of Games on ATProto
 tags:
   - list/gaming
   - gaming
