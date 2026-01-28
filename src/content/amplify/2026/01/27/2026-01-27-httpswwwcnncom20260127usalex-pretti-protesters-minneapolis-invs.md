@@ -1,0 +1,46 @@
+---
+author: Jeff Winter
+cover_image: >-
+  https://media.cnn.com/api/v1/images/stellar/prod/ap26024696586709.jpg?c=16x9&q=w_800,c_fill
+date: '2026-01-27T17:58:39.235Z'
+dateFolder: 2026/01/27
+description: >-
+  Federal immigration officials have been collecting information on protesters
+  and agitators, sources told CNN.
+isBasedOn: 'https://www.cnn.com/2026/01/27/us/alex-pretti-protesters-minneapolis-invs'
+link: 'https://www.cnn.com/2026/01/27/us/alex-pretti-protesters-minneapolis-invs'
+slug: 2026-01-27-httpswwwcnncom20260127usalex-pretti-protesters-minneapolis-invs
+tags:
+  - protest
+  - baselines
+title: >-
+  Alex Pretti broke rib in confrontation with federal agents a week before
+  death, sources say
+---
+<figure><picture><source media="(max-width: 479px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/ap26024696586709.jpg?c=original&amp;q=w_680,c_fill/f_avif" type="image/avif"/><source media="(min-width: 480px) and (max-width: 767px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/ap26024696586709.jpg?c=original&amp;q=w_967,c_fill/f_avif" type="image/avif"/><source media="(min-width: 768px) and (max-width: 1023px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/ap26024696586709.jpg?c=original&amp;q=w_860,c_fill/f_avif" type="image/avif"/><source media="(min-width: 1024px) and (max-width: 1279px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/ap26024696586709.jpg?c=original&amp;q=w_860,c_fill/f_avif" type="image/avif"/><source media="(min-width: 1280px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/ap26024696586709.jpg?c=original&amp;q=w_860,c_fill/f_avif" type="image/avif"/><img alt="Alex Pretti, who was fatally shot during an encounter with federal agents in Minneapolis." src="https://media.cnn.com/api/v1/images/stellar/prod/ap26024696586709.jpg?c=original&amp;q=w_860,c_fill"/></picture><figcaption>Alex Pretti, who was fatally shot during an encounter with federal agents in Minneapolis. Michael Pretti via AP</figcaption></figure>
+<p>Federal immigration officers have been collecting personal information about protesters and agitators in Minneapolis, sources told CNN – and had documented details about Alex Pretti before he was shot to death on Saturday.</p>
+<p>It is unclear how Pretti first came to the attention of federal authorities, but sources told CNN that about a week before his death, he suffered a broken rib when a group of federal officers tackled him while he was protesting their attempt to detain other individuals.</p>
+<p>A memo sent earlier this month to agents temporarily assigned to the city asked them to “capture all images, license plates, identifications, and general information on hotels, agitators, protestors, etc., so we can capture it all in one consolidated form,” according to correspondence reviewed by CNN.</p>
+<p>Pretti’s previous encounter is another reflection of the aggressive approach federal agents are taking with observers and protesters – a philosophy underscored by the request for agents to collect information about protesters whose activities are broadly protected by the First Amendment.</p>
+<p>The Department of Homeland Security has repeatedly warned of threats against federal law enforcement officers during immigration enforcement operations—and criticized protesters who they argue are impeding those operations. On Tuesday, the department also publicized an online tip form to share information about people allegedly harassing ICE officers.</p>
+<p>“When our law enforcement encounter a violent agitator who is breaking the law, obstructing law enforcement or assaulting them, our law enforcement make records to advance prosecution. This is not ground breaking, it is standard protocol,” said DHS Assistant Secretary Tricia McLaughlin in a statement.</p>
+<p>The earlier incident started when he stopped his car after observing ICE agents chasing what he described as a family on foot, and began shouting and blowing his whistle, according to a source who asked not to be named out of fear of retribution.</p>
+<p>Pretti later told the source that five agents tackled him and one leaned on his back – an encounter that left him with a broken rib. The agents quickly released him at the scene.</p>
+<p>“That day, he thought he was going to die,” said the source.</p>
+<p>Pretti was later given medication consistent with treating a broken rib, according to records reviewed by CNN.</p>
+<figure><picture><source media="(max-width: 479px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/2026-01-25t001449z-398002072-rc2y7jaqhdl5-rtrmadp-3-usa-trump-minnesota.jpg?c=original&amp;q=w_679,c_fill/f_webp" type="image/webp"/><source media="(min-width: 480px) and (max-width: 767px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/2026-01-25t001449z-398002072-rc2y7jaqhdl5-rtrmadp-3-usa-trump-minnesota.jpg?c=original&amp;q=w_967,c_fill/f_webp" type="image/webp"/><source media="(min-width: 768px) and (max-width: 1023px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/2026-01-25t001449z-398002072-rc2y7jaqhdl5-rtrmadp-3-usa-trump-minnesota.jpg?c=original&amp;q=w_860,c_fill/f_webp" type="image/webp"/><source media="(min-width: 1024px) and (max-width: 1279px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/2026-01-25t001449z-398002072-rc2y7jaqhdl5-rtrmadp-3-usa-trump-minnesota.jpg?c=original&amp;q=w_860,c_fill/f_webp" type="image/webp"/><source media="(min-width: 1280px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/2026-01-25t001449z-398002072-rc2y7jaqhdl5-rtrmadp-3-usa-trump-minnesota.jpg?c=original&amp;q=w_860,c_fill/f_webp" type="image/webp"/><img alt="People gather around a makeshift memorial at the site where Alex Pretti was fatally shot in Minneapolis." src="https://media.cnn.com/api/v1/images/stellar/prod/2026-01-25t001449z-398002072-rc2y7jaqhdl5-rtrmadp-3-usa-trump-minnesota.jpg?c=original&amp;q=w_860,c_fill"/></picture><figcaption>People gather around a makeshift memorial at the site where Alex Pretti was fatally shot in Minneapolis. Evelyn Hockstein/Reuters</figcaption></figure>
+<p>Earlier this month, a DHS official in Minneapolis sent a memo to Immigration and Customs Enforcement Homeland Security Investigations officers assigned to the state on temporary duty asking them to use a form to input information on protesters and agitators.</p>
+<p>The form — titled “intel collection non-arrests” — allows agents to fill in personal information of agitators and protesters who they encounter. It’s not clear whether other agencies in Minnesota are also using the form.</p>
+<p>Previously, agents had informally shared information about protesters and agitators with each other, the memo said.</p>
+<p>Pretti’s name was known to federal agents, according to a source – though it’s unclear whether the new intake form was used to share his information.</p>
+<p>It’s also not clear whether the federal agents who encountered Pretti on Saturday recognized him before they confronted him – eventually wrestling him to the ground, taking a gun from his waistband and then fatally shooting him.</p>
+<p>Some Trump officials have spoken publicly about the idea of creating a database of protesters, though it’s not clear what ICE has done with the information collected through the form circulated to agents in Minneapolis.</p>
+<p>“One thing I’m pushing for right now … we’re going to create a database where those people that are arrested for interference, impeding and assault, we’re going to make them famous,” Tom Homan, Trump’s border czar, told Fox News earlier this month. “We’re going to put their face on TV. We’re going to let their employers, in their neighborhoods, in their schools, know who these people are.”</p>
+<p>On Sunday, a DHS spokeswoman denied the agency was compiling a database of “domestic terrorists” after a video in Maine showed a federal agent recording the license plate of a woman observing him during an operation and telling her, “We have a nice little database and now you are considered a domestic terrorist.”</p>
+<p>McLaughlin told CNN about the Maine incident, “There is NO database of ‘domestic terrorists’ run by DHS. We do of course monitor and investigate and refer all threats, assaults and obstruction of our officers to the appropriate law enforcement. Obstructing and assaulting law enforcement is a felony and a federal crime.”</p>
+<p>In her statement to CNN on Tuesday, she reiterated that there is no DHS database.</p>
+<p>Federal officials have made clear they are investigating anti-ICE activities they allege crossed the line into violence.</p>
+<p>On Monday, FBI Director Kash Patel said the agency was investigating Signal group chats used by observers to share information about ICE activities, warning on a conservative podcast that people cannot “create a scenario that illegally entraps and puts law enforcement in harm’s way.”</p>
+<p>On Tuesday, DHS announced it was launching an investigation into a US citizen “who attempted to purchase a firearm on two separate occasions,” allegedly stated she wanted to “protect herself from ICE Agents, and also to kill ICE Agents.”</p>
+<p><em>This story has been updated.</em></p>
+<p><em>CNN’s Isabelle Chapman contributed to this report.</em></p>

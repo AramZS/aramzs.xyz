@@ -1,0 +1,33 @@
+---
+author: Susan Wessling
+cover_image: >-
+  https://static01.nyt.com/images/2026/01/26/multimedia/26insider-language-1-qkvz/26insider-language-1-qkvz-facebookJumbo.jpg
+date: '2026-01-27T13:47:08.975Z'
+dateFolder: 2026/01/27
+description: >-
+  The Times sticks to facts and avoids language that passes legal judgment on
+  events that are still unfolding.
+isBasedOn: >-
+  https://www.nytimes.com/2026/01/27/insider/minneapolis-shooting-protests-language.html?smid=nytcore-ios-share
+link: >-
+  https://www.nytimes.com/2026/01/27/insider/minneapolis-shooting-protests-language.html?smid=nytcore-ios-share
+slug: >-
+  2026-01-27-httpswwwnytimescom20260127insiderminneapolis-shooting-protests-languagehtmlsmidnytcore-ios-share
+tags:
+  - journalism
+title: How We Think About Words Like ‘Murder’ in Our Minneapolis Coverage
+---
+<p><a data-testid="tlogo-home-link" href="https://www.nytimes.com/"><figure></figure></a></p>
+<p>Times insider</p>
+<p>The Times sticks to facts and avoids language that passes legal judgment on events that are still unfolding.</p>
+<figure><audio src="https://static.nytimes.com/narrated-articles/synthetic/article-a35871e0-20a5-5110-86ae-49b4b2cbc05a/job-1769508236936/article-a35871e0-20a5-5110-86ae-49b4b2cbc05a-job-1769508236936.mp3"></audio></figure>
+<figure><picture><source media="(max-width: 599px) and (min-device-pixel-ratio: 3),(max-width: 599px) and (min-resolution: 3dppx),(max-width: 599px) and (min-resolution: 288dpi)" srcset="https://static01.nyt.com/images/2026/01/26/multimedia/26insider-language-1-qkvz/26insider-language-1-qkvz-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1800"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 2),(max-width: 599px) and (min-resolution: 2dppx),(max-width: 599px) and (min-resolution: 192dpi)" srcset="https://static01.nyt.com/images/2026/01/26/multimedia/26insider-language-1-qkvz/26insider-language-1-qkvz-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1200"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 1),(max-width: 599px) and (min-resolution: 1dppx),(max-width: 599px) and (min-resolution: 96dpi)" srcset="https://static01.nyt.com/images/2026/01/26/multimedia/26insider-language-1-qkvz/26insider-language-1-qkvz-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600"/><img alt="A crowd of demonstrators, bundled up for cold weather, gather in Minneapolis to protest immigration enforcement. Several people are holding signs protesting ICE, and one person in the middle is waving a large American flag." sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 80vw, 100vw" src="https://static01.nyt.com/images/2026/01/26/multimedia/26insider-language-1-qkvz/26insider-language-1-qkvz-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" srcset="https://static01.nyt.com/images/2026/01/26/multimedia/26insider-language-1-qkvz/26insider-language-1-qkvz-articleLarge.jpg?quality=75&amp;auto=webp 600w,https://static01.nyt.com/images/2026/01/26/multimedia/26insider-language-1-qkvz/26insider-language-1-qkvz-jumbo.jpg?quality=75&amp;auto=webp 1024w,https://static01.nyt.com/images/2026/01/26/multimedia/26insider-language-1-qkvz/26insider-language-1-qkvz-superJumbo.jpg?quality=75&amp;auto=webp 2048w"/></picture><figcaption>Demonstrators use the strongest possible language to make their case. News coverage does not work the same way. Above, protesters in Minneapolis on Sunday. Credit: Victor J. Blue for The New York Times</figcaption></figure>
+<p><i><p><i>By </i>Susan Wessling</p><blockquote><p>Susan Wessling is the Standards editor of The Times, leading a team of editors who help maintain the quality, accuracy and fairness of our journalism.</p></blockquote></i></p>
+<p>I’ve noticed certain words in news reports and social media conversation about <a href="https://www.nytimes.com/interactive/2026/01/24/us/minneapolis-shooting-alex-pretti-timeline.html">the killings of Alex Pretti</a> and <a href="https://www.nytimes.com/2026/01/07/us/ice-shooting-minneapolis-renee-good.html">Renee Good</a> in Minneapolis, and some people have asked about the language in our own coverage. So I thought it was a good moment to share how The Times thinks about specific legal terms that are also used widely in conversation.</p>
+<p>In a politically polarized environment, with declarations of certainty all around, we have to capture the magnitude of a situation without saying more than we know. Our goal is to be as precise as we can, to be especially careful with word choice and steer away from language that takes sides or conveys an opinion.</p>
+<p>Readers might see references elsewhere to the “murder” of Mr. Pretti or Ms. Good, but that word has a clear and significant meaning in law enforcement and the legal system. We do not use it unless a formal charge has been made or a court has found that a killing was, indeed, a murder.</p>
+<p>We also hear from those who want to see the word “execution” in our news report. But that, too, has a distinct definition — putting someone to death as a legal penalty — and we don’t want to dilute its meaning by using it when that’s not the case.</p>
+<p>When videos purport to show an event, we must take care to evaluate and verify that what we’re seeing is the full picture. Could <a href="https://www.nytimes.com/2026/01/25/us/minnesota-shooting-false-posts.html">the images have been manipulated</a>? Do <a href="https://www.nytimes.com/2026/01/15/video/ice-shooting-renee-good-minneapolis-videos.html">other angles show something different</a>? What precipitated the volatile scenes we’re seeing on social media?</p>
+<p>Our language must account for what we don’t know as much as for what we do. Initially, we reported that the footage of Mr. Pretti’s shooting “appeared” to contradict the Trump administration’s account. As we learned more about the events surrounding the situation and analyzed video from multiple angles, our language on that point became more definitive.</p>
+<p>The Times is careful not to take on the role of prosecutor, defender or judge, even when we’re holding powerful people or institutions to account. We seek to present — but not adjudicate — the facts in hand. We reveal all the facts we can uncover; we don’t present evidence to support a case. We uncover wrongdoing; we don’t declare guilt or innocence.</p>
+<p>Our reporters, photographers and video journalists work with their editors to deliver a true accounting of the details and context of those moments. Each day brings a new set of choices, and each day, we aim to be accurate, compelling and clear.</p>
