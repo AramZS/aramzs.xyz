@@ -1,0 +1,43 @@
+---
+author: Benjamin Mullin
+cover_image: >-
+  https://static01.nyt.com/images/2026/01/29/multimedia/29biz-wapo-wjgm/29biz-wapo-wjgm-facebookJumbo.jpg
+date: '2026-01-30T04:38:03.695Z'
+dateFolder: 2026/01/29
+description: >-
+  The changes are expected to include significant layoffs in areas like sports
+  and international coverage.
+isBasedOn: >-
+  https://www.nytimes.com/2026/01/29/business/media/washington-post-newsroom.html
+link: >-
+  https://www.nytimes.com/2026/01/29/business/media/washington-post-newsroom.html
+slug: 2026-01-29-httpswwwnytimescom20260129businessmediawashington-post-newsroomhtml
+tags:
+  - media
+title: Washington Post Plans Cuts to Reshape Newsroom
+---
+<p>The changes are expected to include significant layoffs in areas like sports and international coverage.</p>
+<figure><audio src="https://static.nytimes.com/narrated-articles/synthetic/article-9b74e598-1254-5244-82c4-abdac35a8de7/job-1769732966523/article-9b74e598-1254-5244-82c4-abdac35a8de7-job-1769732966523.mp3"></audio></figure>
+<figure><picture><source media="(max-width: 599px) and (min-device-pixel-ratio: 3),(max-width: 599px) and (min-resolution: 3dppx),(max-width: 599px) and (min-resolution: 288dpi)" srcset="https://static01.nyt.com/images/2026/01/29/multimedia/29biz-wapo-wjgm/29biz-wapo-wjgm-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1800"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 2),(max-width: 599px) and (min-resolution: 2dppx),(max-width: 599px) and (min-resolution: 192dpi)" srcset="https://static01.nyt.com/images/2026/01/29/multimedia/29biz-wapo-wjgm/29biz-wapo-wjgm-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1200"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 1),(max-width: 599px) and (min-resolution: 1dppx),(max-width: 599px) and (min-resolution: 96dpi)" srcset="https://static01.nyt.com/images/2026/01/29/multimedia/29biz-wapo-wjgm/29biz-wapo-wjgm-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600"/><img alt="A view from a higher floor into The Washington Post’s newsroom, with people sitting behind computer screens." sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 80vw, 100vw" src="https://static01.nyt.com/images/2026/01/29/multimedia/29biz-wapo-wjgm/29biz-wapo-wjgm-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" srcset="https://static01.nyt.com/images/2026/01/29/multimedia/29biz-wapo-wjgm/29biz-wapo-wjgm-articleLarge.jpg?quality=75&amp;auto=webp 600w,https://static01.nyt.com/images/2026/01/29/multimedia/29biz-wapo-wjgm/29biz-wapo-wjgm-jumbo.jpg?quality=75&amp;auto=webp 1024w,https://static01.nyt.com/images/2026/01/29/multimedia/29biz-wapo-wjgm/29biz-wapo-wjgm-superJumbo.jpg?quality=75&amp;auto=webp 2048w"/></picture><figcaption>The Washington Post’s newsroom in 2017. Credit: Justin T. Gellerson for The New York Times</figcaption></figure>
+<p><i><p><i>By </i><a href="https://www.nytimes.com/by/erik-wemple">Erik Wemple</a><a href="https://www.nytimes.com/by/katie-robertson">Katie Robertson</a> and <a href="https://www.nytimes.com/by/benjamin-mullin">Benjamin Mullin</a></p><blockquote><p>Erik Wemple, Katie Robertson and Benjamin Mullin report on the media business. Mr. Wemple covered the industry at The Washington Post for 14 years.</p></blockquote></i></p>
+<p>Fewer reporters are being sent to the Super Bowl. Foreign correspondents are being asked to hold off on trips to conflict zones. And editors are being encouraged to experiment with new forms of storytelling.</p>
+<p>They are signs of things to come at The Washington Post.</p>
+<p>The Post’s leadership is expected to announce significant layoffs in the newsroom and the business sides of the paper in the coming days, as part of an effort to end years of financial losses, according to three people with direct knowledge of the changes. But the cuts also appear to be aimed at something else: reorienting The Post’s coverage.</p>
+<p>The sports, local and international sections are preparing to take a disproportionate share of the pain. At the same time, the paper’s video journalists, as well as reporters and editors focused on politics and national security — two of the paper’s signature coverage areas — are expected to become even more central to the company’s future.</p>
+<p>The changes could sharply narrow the scope of The Post. Over the past century, the outlet evolved from a scrappy metro newspaper into a general interest national news powerhouse that cracked Watergate and covered far-flung countries as well as sports, fashion, dining and travel.</p>
+<p>The cuts are intended to direct The Post’s resources to topics that executives believe better align with the newsroom’s areas of expertise and reader interests, and in formats that people increasingly turn to for information, one of the people said. Executives devised their approach after studying the digital traffic to the organization’s coverage.</p>
+<p>The hope, the person said, is that the moves will help make the paper self-sustaining — a goal set long ago by its owner, Jeff Bezos, the Amazon founder. The company has lost hundreds of millions of dollars in recent years.</p>
+<p>The newsroom, including many editors, remains largely in the dark on the specifics of the staff reductions and the long-term plan for the organization. Last year, The Post completed a round of buyouts that trimmed the newsroom by dozens of journalists. In the months since, many of the journalists who remain have grown increasingly frustrated about the lack of clarity from Mr. Bezos and the paper’s publisher, Will Lewis.</p>
+<p>Some of the staff members have raised concerns on social media in recent days that the looming cuts would affect The Post’s quality, and journalists from the international and local sections have circulated letters to Mr. Bezos. “Keep The Washington Post a place that covers Washington,” the metro staff wrote in its appeal to Mr. Bezos. “Watergate started as a local story,” they added.</p>
+<p>A spokesperson for The Post declined to comment.</p>
+<p>In early November, senior editors at The Post became aware of imminent cuts in the newsroom that could affect up to 200 people, according to two of the people who were briefed on the decision to reduce staff.</p>
+<p>Those fears came into sharper focus this month when senior editors began modifying reporting assignments and travel plans with little or no explanation, changes that were viewed as a precursor to widespread layoffs.</p>
+<p>Last week, editors on the foreign desk issued a directive restricting correspondents’ travel to high-risk zones beginning Feb. 1. Journalists pelted their managers with questions and received few details in response.</p>
+<p>Over the weekend, roughly 60 members of The Post’s international desk sent a letter to Mr. Bezos, essentially pleading for their jobs. “Cutting this deeply sourced, battle-hardened and tireless staff would hinder The Post’s ability to respond to the biggest news developments on the horizon,” they wrote.</p>
+<p>Last Friday, tremors reached The Post’s sports desk, which was preparing to send a phalanx of reporters to cover the Winter Olympics in Italy. Editors had already paid $80,000 for lodging and secured 14 credentials to cover the Games when Kimi Yoshino, a managing editor, sent a terse email that <a href="https://www.nytimes.com/2026/01/24/business/media/washington-post-winter-olympics.html">appeared to call things off</a>.</p>
+<p>“We realize this decision and its timing will be disappointing to many of you, so please reach out to me if you want to talk further,” Ms. Yoshino wrote. Days later, The Post <a href="https://www.nytimes.com/2026/01/26/business/media/washington-post-olympics.html">decided to send</a> four journalists to Italy.</p>
+<p>The sports desk is also scaling back in-person coverage of the Super Bowl and received instructions not to book travel for beat reporters to cover the Washington Nationals baseball team at spring training in Florida.</p>
+<p>Mr. Bezos has not responded publicly to the letters from reporters.</p>
+<p>The creeping anxiety in the newsroom was not part of the plan. During last summer’s buyouts, Matt Murray, The Post’s executive editor, confided to a colleague that the next time staff reductions were required, he would opt for layoffs instead of buyouts.</p>
+<p>Layoffs, Mr. Murray argued, would be painful but quick, decisive and devoid of trauma, recalled Glenn Kessler, The Post’s former fact-checker, who took a buyout last summer.</p>
+<p>Kirsten Noyes contributed research.</p>
