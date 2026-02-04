@@ -1,0 +1,28 @@
+---
+author: Ari Berman
+cover_image: >-
+  https://www.motherjones.com/wp-content/uploads/2026/02/AP26028840676225.jpg?w=1200&h=630&crop=1
+date: '2026-02-03T13:30:01.135Z'
+dateFolder: 2026/02/03
+description: >-
+  After the FBI seized 700 boxes of ballots in Georgia, the president calls on
+  Republicans to assert control over voting "in at least 15 places.”
+isBasedOn: >-
+  https://www.motherjones.com/politics/2026/02/trump-goes-public-with-plan-to-take-over-elections-fulton-county-georgia/
+link: >-
+  https://www.motherjones.com/politics/2026/02/trump-goes-public-with-plan-to-take-over-elections-fulton-county-georgia/
+slug: >-
+  2026-02-03-httpswwwmotherjonescompolitics202602trump-goes-public-with-plan-to-take-over-elections-fulton-county-georgia
+tags:
+  - politics
+  - baselines
+title: Trump Goes Public With Plan to “Take Over” Elections
+---
+<figure><img alt="Georgia General Election 2020 ballots are loaded by the FBI onto trucks at the Fulton County Election HUB, Jan. 28, 2026, in Union City, Ga., near Atlanta." sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" src="https://www.motherjones.com/wp-content/uploads/2026/02/AP26028840676225.jpg" srcset="https://www.motherjones.com/wp-content/uploads/2026/02/AP26028840676225.jpg 1991w, https://www.motherjones.com/wp-content/uploads/2026/02/AP26028840676225.jpg?resize=208,117 208w, https://www.motherjones.com/wp-content/uploads/2026/02/AP26028840676225.jpg?resize=321,181 321w, https://www.motherjones.com/wp-content/uploads/2026/02/AP26028840676225.jpg?resize=627,354 627w, https://www.motherjones.com/wp-content/uploads/2026/02/AP26028840676225.jpg?resize=1536,868 1536w, https://www.motherjones.com/wp-content/uploads/2026/02/AP26028840676225.jpg?resize=50,28 50w, https://www.motherjones.com/wp-content/uploads/2026/02/AP26028840676225.jpg?resize=1300,735 1300w, https://www.motherjones.com/wp-content/uploads/2026/02/AP26028840676225.jpg?resize=990,559 990w, https://www.motherjones.com/wp-content/uploads/2026/02/AP26028840676225.jpg?resize=642,363 642w, https://www.motherjones.com/wp-content/uploads/2026/02/AP26028840676225.jpg?resize=768,434 768w"/><figcaption>Georgia General Election 2020 ballots are loaded by the FBI onto trucks at the Fulton County Election HUB, Jan. 28, 2026, in Union City, Ga., near Atlanta. (Mike Stewart/AP)</figcaption></figure>
+<p>Get your news from a source that’s not owned and controlled by oligarchs. <a data-ga-action="click|https://www.motherjones.com/newsletters/?mj_oac=Article_Top_Support" data-ga-category="TopOfArticle" data-ga-label="NewsletterPromoCovid" href="https://www.motherjones.com/newsletters/?mj_oac=Article_Top_No_Oligarchs">Sign up for the free <em>Mother Jones Daily</em>.</a></p>
+<p>Days after the FBI seized <a href="https://www.motherjones.com/politics/2026/01/minnesota-georgia-fulton-county-trump-midterms-election-intereference-voter-rolls/">700 boxes of ballots</a> and voting records from the 2020 election in Fulton County, Georgia, President Trump called on Republicans “to take over the voting in at least 15 places” in advance of the next election, raising new fears that his administration plans to <a href="https://www.motherjones.com/politics/2025/09/donald-trump-plan-to-rig-2026-midterm-elections-voter-suppression-gerrymandering-certification/">interfere in the midterms</a> and beyond.</p>
+<p>“Republicans ought to nationalize the voting,” <a href="https://bsky.app/profile/atrupar.com/post/3mdvglues2k2h">Trump told</a> former deputy FBI director and conservative commentator Dan Bongino on his radio show on Monday. “We have states that I won that show I didn’t win. Now you’re going to see something in Georgia where they were able to get, with a court order, the ballots. You’re going to see some interesting things come out.”</p>
+<p>Trump is once again saying the quiet part out loud, suggesting that the FBI raid in Georgia was a prelude to how his administration intends to <a href="https://www.democracynow.org/2026/2/2/fulton_county_georgia_election">interfere in state and local election processes</a> in advance of the midterms.</p>
+<p>There are still many <a href="https://www.ms.now/rachel-maddow-show/maddowblog/tulsi-gabbard-role-fbi-fulton-county-raid-election-2020">unanswered questions</a> about the Georgia raid, such as why a criminal investigation has been opened into an election that took place six years ago and was audited three times and why Director of National Intelligence Tulsi Gabbard was present for the operation when she is barred by law from participating in domestic law enforcement operations. The <em>New York Times</em> reported on Monday that Gabbard <a href="https://www.nytimes.com/2026/02/02/us/politics/trump-fbi-phone-call-georgia-gabbard.html">called Trump</a> and put him on speakerphone with FBI agents who took part in the raid, which represents yet another erosion of democratic norms.</p>
+<p>I <a href="https://www.motherjones.com/politics/2026/01/minnesota-georgia-fulton-county-trump-midterms-election-intereference-voter-rolls/">wrote last week</a> that “the raid was as much about the next election as the one six years ago.” Trump confirmed that on Monday, making clear that his administration’s end goal is to <a href="https://www.motherjones.com/politics/2025/12/your-private-data-is-building-trumps-voter-purge-machine/">seize control of election administration</a> at the state and local level to prevent his party from losing power.</p>
+<p>As Trump and the GOP became more unpopular, the tactics they’ll use to attempt to remain in control are sure to become more radical and extreme.</p>
