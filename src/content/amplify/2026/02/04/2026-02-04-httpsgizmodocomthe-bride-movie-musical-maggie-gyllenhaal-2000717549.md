@@ -1,0 +1,28 @@
+---
+author: Cheryl Eddy
+cover_image: 'https://gizmodo.com/app/uploads/2026/02/TheBrideBTS-1200x675.jpg'
+date: '2026-02-04T13:18:25.350Z'
+dateFolder: 2026/02/04
+description: >-
+  Jessie Buckley and Christian Bale also do a lot of dancing, apparently, in the
+  creature-feature romance hitting theaters March 6.
+isBasedOn: 'https://gizmodo.com/the-bride-movie-musical-maggie-gyllenhaal-2000717549'
+link: 'https://gizmodo.com/the-bride-movie-musical-maggie-gyllenhaal-2000717549'
+slug: 2026-02-04-httpsgizmodocomthe-bride-movie-musical-maggie-gyllenhaal-2000717549
+tags:
+  - film
+  - entertainment
+title: >-
+  Maggie Gyllenhaal Insists ‘The Bride!’ Isn’t a Musical, Despite All the
+  Singing
+---
+<figure><img alt="Jessie Buckley, Christian Bale, and Maggie Gyllenhaal filming 'The Bride!'" sizes="(max-width: 639px) 100vw, (max-width: 1023px) calc(100vw - 2rem), (max-width: 1258px) calc((100vw - 3.68rem) * 2 / 3), 800px" src="https://gizmodo.com/app/uploads/2026/02/TheBrideBTS.jpg" srcset="https://gizmodo.com/app/uploads/2026/02/TheBrideBTS.jpg 1920w, https://gizmodo.com/app/uploads/2026/02/TheBrideBTS-336x224.jpg 336w, https://gizmodo.com/app/uploads/2026/02/TheBrideBTS-1280x853.jpg 1280w, https://gizmodo.com/app/uploads/2026/02/TheBrideBTS-768x512.jpg 768w, https://gizmodo.com/app/uploads/2026/02/TheBrideBTS-672x448.jpg 672w, https://gizmodo.com/app/uploads/2026/02/TheBrideBTS-960x640.jpg 960w, https://gizmodo.com/app/uploads/2026/02/TheBrideBTS-1600x1067.jpg 1600w"/><figcaption>Jessie Buckley, Christian Bale, and Maggie Gyllenhaal filming 'The Bride!'</figcaption></figure>
+<p>When news about Maggie Gyllenhaal’s <a href="https://gizmodo.com/the-dead-have-something-to-scream-about-in-the-bride-trailer-2000709858">bold, punk rock-infused</a> <em>Bride of Frankenstein</em> riff started filtering out, an early narrative had it being called a musical. Some of that might be down to <a href="https://gizmodo.com/the-bride-creator-maggie-gyllenhaal-on-why-jessie-buckley-is-the-perfect-monster-heroine-2000709958"><em>The Bride!</em></a> co-star Peter Sarsgaard, who’s also Gyllenhaal’s husband, <a href="https://gizmodo.com/the-bride-frankenstein-musical-2000493698">giving an interview</a> where he described the film’s “big dance numbers,” and people naturally connected the dots.</p>
+<p>But to hear Gyllenhaal tell it, <em>The Bride!</em> is not, in fact, something that should be classified within the musical genre, despite the talk of dancing and the fact that its main stars (Jessie Buckley and Christian Bale) are known to be actors who can also sing very well. This isn’t <em>Wicked</em> or <em>Chicago</em>, in other words.</p>
+<p>Speaking to <a href="https://ew.com/the-bride-jessie-buckley-christian-bale-maggie-gyllenhaal-cover-story-exclusive-11897809">Entertainment Weekly</a>, the writer-director set the record straight: “Can we just put to bed the thing about it being a musical? It is not a musical at all. That’s a different form. I don’t know why that keeps coming up.”</p>
+<p>However, that’s not to say Sarsgaard is a liar. Those big dance numbers? They are definitely there. Bale’s character, “Frank,” happens to be a big moviegoer, and his favorite star is a song-and-dance man played by Jake Gyllenhaal, the writer-director’s brother.</p>
+<p>“He’s such an incredible singer, and I love hearing him sing,” Maggie Gyllenhaal said of her multi-talented sibling. “If you sit through all the credits, at the very end is one of his beautiful songs he sings. That was really a live, exciting connection, working with him on set.”</p>
+<p>But the “musical” elements aren’t just contained within <em>The Bride!</em>‘s in-universe cinema screens. Bale and Buckley also cut a rug on-screen, including “a ginormous tap dance sequence,” as Buckley tells EW, that you can glimpse in the film’s trailer.</p>
+<p>So to recap: <em>The Bride!</em> is not a musical in the traditional sense, but it definitely has some of that flavor in there. We’re intrigued with every new detail we learn about what looks to be a very unconventional monster romance, hitting theaters March 6.</p>
+<blockquote><p>Want more io9 news? Check out when to expect the latest <a href="https://gizmodo.com/marvel-release-dates-when-to-see-upcoming-mcu-movies-1848196856">Marvel</a>, <a href="https://gizmodo.com/star-wars-movies-tv-shows-release-dates-disney-1848494806">Star Wars</a>, and <a href="https://gizmodo.com/star-trek-release-dates-where-to-stream-picard-discover-1848839650">Star Trek</a> releases, what’s next for the <a href="https://gizmodo.com/warner-bros-dc-release-dates-hbo-max-cast-details-1848354161">DC Universe on film and TV</a>, and everything you need to know about the future of <a href="https://gizmodo.com/doctor-who-release-dates-streaming-ncuti-gatwa-rtd-1849745140">Doctor Who</a>.</p></blockquote>
+<figure><a href="https://gizmodo.com/horror-movies-tv-shows-2026-preview-2000705076"><img alt="The Bride" sizes="(max-width: 767px) calc(100vw - 2.5rem), (max-width: 1023px) calc(50vw - 1.875rem), 293px" src="https://gizmodo.com/app/uploads/2026/01/The-Bride.jpg" srcset="https://gizmodo.com/app/uploads/2026/01/The-Bride-1280x853.jpg 1280w, https://gizmodo.com/app/uploads/2026/01/The-Bride-336x224.jpg 336w, https://gizmodo.com/app/uploads/2026/01/The-Bride-768x512.jpg 768w, https://gizmodo.com/app/uploads/2026/01/The-Bride-672x448.jpg 672w, https://gizmodo.com/app/uploads/2026/01/The-Bride-960x640.jpg 960w, https://gizmodo.com/app/uploads/2026/01/The-Bride-1600x1067.jpg 1600w, https://gizmodo.com/app/uploads/2026/01/The-Bride.jpg 1920w"/></a><figcaption><a href="https://gizmodo.com/horror-movies-tv-shows-2026-preview-2000705076">The Bride</a></figcaption></figure>
