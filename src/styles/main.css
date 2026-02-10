@@ -299,7 +299,7 @@ article.resource.bookmark .btn-list li {
 
 main article#page-post iframe {
   margin: 0 auto;
-  width: 80%;
+  min-width: 80%;
 }
 
 .tags-list ul {
