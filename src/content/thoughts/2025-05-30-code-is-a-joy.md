@@ -4,6 +4,9 @@ tags:
   - tech
   - code
   - carpentry
+  - "series:Generative AI is Bad For Us"
+series: Generative AI is Bad For Us
+group: Generative AI is Bad For Us
 featured: false
 description: Code only matters when it is made by people, with people and for people. 
 growthStage: seedling

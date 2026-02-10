@@ -3,7 +3,10 @@ title: "Don't Post AI at Me"
 tags: 
   - ai
   - tech
-  - social media
+  - social media  
+  - "series:Generative AI is Bad For Us"
+series: Generative AI is Bad For Us
+group: Generative AI is Bad For Us
 featured: false
 description: At best, it is disrespectful and makes you look foolish. 
 ---

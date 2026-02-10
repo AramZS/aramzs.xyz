@@ -155,17 +155,6 @@ title: >-
 <p>Deck, A. (2026, Jan. 28). News publishers limit Internet Archive access due to AI scraping concerns. <em>Nieman Journalism Lab</em>. Retrieved February 2, 2026, from https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/</p>
 <p><strong>Chicago</strong></p>
 <p>Deck, Andrew. "News publishers limit Internet Archive access due to AI scraping concerns." <em>Nieman Journalism Lab</em>. Last modified January 28, 2026. Accessed February 2, 2026. https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/.</p>
-<p><strong>Wikipedia</strong></p>
-<p>{{cite web</p>
-<p>| url = https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/</p>
-<p>| title = News publishers limit Internet Archive access due to AI scraping concerns</p>
-<p>| last = Deck</p>
-<p>| first = Andrew</p>
-<p>| work = [[Nieman Journalism Lab]]</p>
-<p>| date = 28 January 2026</p>
-<p>| accessdate = 2 February 2026</p>
-<p>| ref = {{harvid|Deck|2026}}</p>
-<p>}}</p>
 <p>The latest from Nieman Lab</p>
 <p><a href="https://www.niemanlab.org/2026/02/sports-betting-reshaped-newsrooms-and-its-a-little-gross-now-here-come-the-prediction-markets/"><img alt="" src="https://www.niemanlab.org/images/24798603837_8c07b2d4a8_c-315x177.jpg"/>\<br/>
 \<br/>

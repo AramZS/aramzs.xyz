@@ -11,10 +11,11 @@ link: 'https://alexwlchan.net/2023/picture-plugin/'
 slug: 2026-02-02-httpsalexwlchannet2023picture-plugin
 tags:
   - code
-title: My custom <picture> plugin for Jekyll – alexwlchan
+title: My custom picture plugin for Jekyll – alexwlchan
 ---
+
 <p><a href="https://alexwlchan.net/2023/picture-plugin/#main">Skip to main content</a></p>
-<h1>My custom <picture> plugin for Jekyll</picture></h1>
+<h1>My custom `<picture>` plugin for Jekyll</h1>
 <ul>
 <li>Tagged with <a href="https://alexwlchan.net/tags/blogging-about-blogging/">blogging about blogging</a>, <a href="https://alexwlchan.net/tags/jekyll/">jekyll</a>, <a href="https://alexwlchan.net/tags/web-development/">web development</a></li>
 <li>Posted 15 July 2023</li>
@@ -23,14 +24,14 @@ title: My custom <picture> plugin for Jekyll – alexwlchan
 <p>For readers: I want images to load quickly and look good. That means looking sharp on high-resolution displays, but without forcing everyone to download massive images.</p>
 <p>For me: I want images to be easy to manage. It should be easy for me to add images to a post, and to customise them if I want to do something special.</p>
 <p>One way to achieve this is with vector images – SVGs. Those are great for simple diagrams and drawings, and I use them plenty, but they don’t work for photographs and screenshots.</p>
-<p>For bitmap images, I wrote a <a href="https://github.com/alexwlchan/alexwlchan.net/blob/5cd88f9a34c5197f7d41b21dda3e8c81dc00d9b9/src/_plugins/tag_picture.rb">custom Jekyll plugin</a>. Usually my original image is a JPEG or a PNG. I save it in <code>_images</code>, and then I include my custom <code>{% picture %}</code> tag in the Markdown source:</p>
-<pre><code>{%
+<p>For bitmap images, I wrote a <a href="https://github.com/alexwlchan/alexwlchan.net/blob/5cd88f9a34c5197f7d41b21dda3e8c81dc00d9b9/src/_plugins/tag_picture.rb">custom Jekyll plugin</a>. Usually my original image is a JPEG or a PNG. I save it in <code>_images</code>, and then I include my custom <code>\{\% picture \%\}</code> tag in the Markdown source:</p>
+<pre><code>\{\%
   picture
   filename="IMG_9016.jpg"
   width="750"
   class="photo"
   alt="A collection of hot pink flowers, nestled among some dark green leaves in a greenhouse."
-%}
+\%\}
 </code></pre>
 <p>This expands into a larger chunk of HTML, which refers to several different variants of the image:</p>
 <pre><code>&lt;picture&gt;
@@ -83,7 +84,7 @@ title: My custom <picture> plugin for Jekyll – alexwlchan
 </code></pre>
 <p>Organising files per-year matches the URL structure of individual posts (<code>/:year/:slug</code>), and helps keep the folder just a bit more manageable. I have ~1300 images, and throwing them all in a single folder would get unwieldy. In this example, the original file is <code>_images/2023/IMG_9016.jpg</code>.</p>
 <p>How does the plugin find an image in this directory structure?</p>
-<p>I pass a <code>filename</code> attribute to the <code>{% picture %}</code> tag, which tells you the name of the image file, but notice that I don’t pass a year anywhere.</p>
+<p>I pass a <code>filename</code> attribute to the <code>\{\% picture \%\}</code> tag, which tells you the name of the image file, but notice that I don’t pass a year anywhere.</p>
 <p>That’s because my plugin can work it out automatically – when Jekyll renders a <a href="https://jekyllrb.com/docs/plugins/tags/">custom liquid tag</a> on a page, it passes the page as a context variable. That means each instance of my picture tag knows which article it’s in, and it can get the article’s publication date. Then it can construct the path to the original image.</p>
 <pre><code>module Jekyll
   class PictureTag &lt; Liquid::Tag
@@ -98,7 +99,7 @@ title: My custom <picture> plugin for Jekyll – alexwlchan
 <p>I use this technique in a couple of plugins – it allows me to organise my files without too much hassle when using them.</p>
 <hr/>
 <h2>Getting different sizes of the image</h2>
-<p>I pass a <code>width</code> attribute to my <code>{% picture %}</code> tag – this tells the plugin how wide the image will appear on the page. This mimics the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#width">HTML attribute of the same name</a>.</p>
+<p>I pass a <code>width</code> attribute to my <code>\{\% picture \%\}</code> tag – this tells the plugin how wide the image will appear on the page. This mimics the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#width">HTML attribute of the same name</a>.</p>
 <p>I get the dimensions of the original image using the <a href="https://github.com/mtgrosser/rszr">rszr gem</a>:</p>
 <pre><code>require 'rszr'
 
@@ -172,7 +173,7 @@ puts image.width
 <p>Combined with the <code>width</code>, this allows a browser to completely calculate the area an image will take up the page – before it loads the image. This means it can lay out the page immediately, leave the right amount of space for the image, and it won’t have to rearrange the page later. The fancy term for this is <a href="https://web.dev/optimize-cls/">“Cumulative Layout Shift”</a>, and too much of it can be distracting – setting these two attributes reduces it to zero.</p>
 <hr/>
 <h2>Passing through other attributes to the <img/></h2>
-<p>Aside from the <code>filename</code> attribute, all the attributes on the <code>{% picture %}</code> get passed directly to the underlying <code>&lt;img&gt;</code> tag. I use this for includes things like alt text, CSS classes and inline styles. It looks exactly like the HTML might look.</p>
+<p>Aside from the <code>filename</code> attribute, all the attributes on the <code>\{\% picture \%\}</code> get passed directly to the underlying <code>&lt;img&gt;</code> tag. I use this for includes things like alt text, CSS classes and inline styles. It looks exactly like the HTML might look.</p>
 <p>This gives me a bunch of flexibility for tweaking the behaviour of images on a per-post basis. I get the benefits of the different sizes and image formats, and it all looks like familiar HTML.</p>
 <p>The plugin is doing a bit of work to parse the attributes, and combine them with any attributes that it’s adding (for example, appending the <code>aspect-ratio</code> property to any inline styles), but this is largely invisible when I’m just writing a post.</p>
 <p>One of the attributes I use most often is <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#loading"><code>loading="lazy"</code></a>, which gets me browser-native lazy loading of images. This improves performance on pages with lots of images, and it’s easy for browsers to work out which images to load – they know exactly where each image will go thanks to the <code>width</code> and <code>aspect-ratio</code> properties.</p>

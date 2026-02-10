@@ -10,7 +10,7 @@ isBasedOn: 'https://www.wsj.com/opinion/a-lament-for-the-washington-post-a5509d6
 link: 'https://www.wsj.com/opinion/a-lament-for-the-washington-post-a5509d63?mod=e2tw'
 slug: >-
   2026-02-07-httpswwwwsjcomopiniona-lament-for-the-washington-post-a5509d63mode2tw
-tags: []
+tags: ['media']
 title: A Lament for the Washington Post
 ---
 <h1>A Lament for the Washington Post</h1>

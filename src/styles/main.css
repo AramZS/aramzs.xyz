@@ -52,7 +52,9 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  transition: background-color 300ms, color 200ms;
+  transition:
+    background-color 300ms,
+    color 200ms;
 }
 
 details summary {
@@ -293,6 +295,11 @@ article.resource.bookmark .btn-list ul {
 
 article.resource.bookmark .btn-list li {
   height: 31px;
+}
+
+main article#page-post iframe {
+  margin: 0 auto;
+  width: 80%;
 }
 
 .tags-list ul {
