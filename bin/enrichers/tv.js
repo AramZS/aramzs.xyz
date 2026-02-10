@@ -110,7 +110,7 @@ const tvPageBuild = async (mediaName, showData) => {
 	return { mediaName, ...showData };
 };
 
-const tvArray = tv.split("\n").map(async (line) => {
+const grabShow = async (line) => {
 	let mediaName = line;
 	if (mediaName === "") {
 		return;
@@ -152,12 +152,15 @@ const tvArray = tv.split("\n").map(async (line) => {
 		);
 		return { mediaName };
 	}
-});
+}
+
 
 const writeTVShows = async (tvPromiseArray) => {
-	console.log("Writing TV Shows");
+	
+  const tvArray = tv.split("\n").map(grabShow);
+  console.log("Writing TV Shows");
 	const tvShows = await Promise.all(tvPromiseArray);
-	tvShows.forEach((show) => {
+	const paths = tvShows.map((show) => {
 		if (
 			typeof show == "undefined" ||
 			!show ||
@@ -168,6 +171,10 @@ const writeTVShows = async (tvPromiseArray) => {
 		}
 		show.rating = false;
 		show.title = show.mediaName;
+    if (show.hasOwnProperty("titleOverride")) {
+      show.title = show.titleOverride;
+      delete show.titleOverride;
+    }
 		console.log("show", show.mediaName);
 		processObjectToMarkdown(
 			"mediaName",
@@ -175,8 +182,9 @@ const writeTVShows = async (tvPromiseArray) => {
 			"./src/content/resources/tv",
 			show
 		);
+    return "./src/content/resources/tv/"+(show.slug || slugger(show.mediaName))+".md";
 	});
-	return "./src/content/resources/tv";
+	return paths;
 };
 
 // await Promise.all(tvArray);
@@ -184,9 +192,13 @@ const writeTVShows = async (tvPromiseArray) => {
 // module.exports = writeTVShows(tvArray);
 
 module.exports = {
-	writeTVShows: async () => {
-		var finishedArray = await Promise.all(tvArray);
-		var result = await writeTVShows(tvArray);
+	writeTVShows: async (tvShows) => {
+    if (!tvShows || tvShows.length === 0) {
+		    var finishedArray = await Promise.all(tvArray);
+        tvShows = tvArray;
+    }
+		var result = await writeTVShows(tvShows);
 		return result;
 	},
+  grabShow,
 };

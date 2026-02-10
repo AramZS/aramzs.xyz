@@ -24,7 +24,7 @@ overview: >-
 popularity: 176.852
 poster: izombie-poster.jpg
 poster_path: /q4nqNwAhzVR7JuYctrWJvUWz3xR.jpg
-rating: false
+rating: 4.5
 rewatch: false
 slug: izombie
 tags:
