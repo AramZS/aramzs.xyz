@@ -1,0 +1,33 @@
+---
+author: Beryl Lipton
+cover_image: 'https://www.eff.org/files/banner_library/ring_banner.png'
+date: '2026-02-10T23:47:33.166Z'
+dateFolder: 2026/02/10
+description: >-
+  Amazon Ring’s Super Bowl ad offered a vision of our streets that should leave
+  every person unsettled about the company’s goals for disintegrating our
+  privacy in public.In the ad, disguised as a heartfelt effort to reunite the
+  lost dogs of the country with their innocent owners, the company...
+isBasedOn: >-
+  https://www.eff.org/deeplinks/2026/02/no-one-including-our-furry-friends-will-be-safer-rings-surveillance-nightmare-0
+link: >-
+  https://www.eff.org/deeplinks/2026/02/no-one-including-our-furry-friends-will-be-safer-rings-surveillance-nightmare-0
+slug: >-
+  2026-02-10-httpswwwefforgdeeplinks202602no-one-including-our-furry-friends-will-be-safer-rings-surveillance-nightmare-0
+tags:
+  - privacy
+title: >-
+  No One, Including Our Furry Friends, Will Be Safer in Ring's Surveillance
+  Nightmare
+---
+<p>Amazon Ring’s Super Bowl ad offered a vision of our streets that should leave every person unsettled about the company’s goals for disintegrating our privacy in public.</p>
+<p>In the ad, disguised as a heartfelt effort to reunite the lost dogs of the country with their innocent owners, the company previewed future surveillance of our streets: a world where biometric identification could be unleashed from consumer devices to identify, track, and locate anything — human, pet, and otherwise.</p>
+<p>The ad for Ring’s “Search Party” feature highlighted the doorbell camera’s ability to scan footage across Ring devices in a neighborhood, using AI analysis to identify potential canine matches among the many personal devices within the network.</p>
+<p>Amazon Ring already integrates biometric identification, like <a href="https://ring.com/support/articles/z3yhg/familiar-faces?srsltid=AfmBOoooRUANYBTILSHlDHJOe7GK04s--PYi33rSOaZ8c7z_H_Dod6KQ">face recognition</a>, into its products via features like "<a href="https://www.eff.org/deeplinks/2025/11/legal-case-against-rings-face-recognition-feature">Familiar Faces</a>,” which depends on scanning the faces of those in sight of the camera and matching it against a list of pre-saved, pre-approved faces. It doesn’t take much to imagine Ring eventually combining these two features: face recognition and neighborhood searches.</p>
+<p>Ring’s “Familiar Faces” feature could already run afoul of biometric privacy laws in some states, which require explicit, informed consent from individuals before a company can just run face recognition on someone. Unfortunately, not all states have similar privacy protections for their residents.</p>
+<p>Ring has a history of <a href="https://www.eff.org/deeplinks/2023/06/ftc-forces-ring-take-user-privacy-seriously">privacy violations</a>, enabling <a href="https://www.eff.org/deeplinks/2020/07/amazons-ring-enables-over-policing-efforts-some-americas-deadliest-law-enforcement">surveillance of innocents</a> and <a href="https://www.eff.org/press/releases/new-eff-report-shows-cops-used-ring-cameras-monitor-black-lives-matter-protests">protestors</a>, and close collaboration with law enforcement, and EFF has spent years reporting on <a href="https://www.eff.org/deeplinks/2020/06/amazon-ring-must-end-its-dangerous-partnerships-police">its many privacy problems</a>.</p>
+<p>The cameras, which many people buy and install to identify potential porch pirates or get a look at anyone that might be on their doorstep, feature microphones that have <a href="https://www.consumerreports.org/home-garden/home-security-cameras/video-doorbell-cameras-record-audio-too-a4636115889/">been found to capture audio from the street</a>. In 2023, Ring <a href="https://www.nbcnews.com/business/consumer/ring-doorbell-camera-employees-mishandled-customer-videos-rcna87103">settled with the Federal Trade Commission</a> over the extensive access it gave employees to personal customer footage. At that time, just three years ago, the FTC wrote: “As a result of this dangerously overbroad access and lax attitude toward privacy and security, employees and third-party contractors were able to view, download, and transfer customers’ sensitive video data for their own purposes.”</p>
+<p>The company has made law enforcement access a regular part of its business. As early as 2016, the company was <a href="https://www.eff.org/deeplinks/2021/06/emails-show-amazon-rings-hold-lapd-through-camera-giveaways">courting police departments through free giveaways</a>. The company provided law enforcement warrantless access to people’s footage, <a href="https://www.eff.org/deeplinks/2024/01/ring-announces-it-will-no-longer-facilitate-police-requests-footage-users">a practice they claimed to cut off in 2024</a>. Not long after, though, the company established partnerships with major police companies <a href="https://www.axon.com/blog/building-safer-communities-together-axon-and-ring">Axon</a> and <a href="https://www.flocksafety.com/blog/flock-safety-and-ring-partner-to-help-neighborhoods-work-together-for-safer-communities">Flock Safety</a> to facilitate the integration of Ring cameras into police intelligence networks. The partnership allows law enforcement to again request Ring footage directly from users without a warrant. This supplements the already wide-ranging apparatus of data and surveillance feeds now available to law enforcement.</p>
+<p>This feature is turned on by default, meaning that Ring owners need to go into the controls to change it. According to <a href="https://ring.com/support/articles/pkhj7/search-party?srsltid=AfmBOoo7IcRRrEESaqEkhVpCHOxakU_gjjzm4DlfyG_x_CQhw802d9TW">Amazon Ring’s instructions</a>, this is how to disable the “search party” feature:</p>
+<ol> <li>Open the Ring app to the main dashboard.</li> <li>Tap the menu (☰).</li> <li>Tap Control Center.</li> <li>Select Search Party.</li> <li>Tap Disable Search for Lost Pets. Tap the blue Pet icon next to "Search for Lost Pets" to turn the feature off for each camera. (You also have the option to "Disable Natural Hazards (Fire Watch)" and the option to tap the blue Flame icon next to Natural Hazards (Fire Watch) to turn the feature on or off for each camera.)</li> </ol>
+<p>The addition of AI-driven biometric identification is the latest entry in the company’s history of profiting off of public safety worries and disregard for individual privacy, one that turbocharges the extreme dangers of allowing this to carry on. People need to reject this kind of disingenuous framing and recognize the potential end result: a scary overreach of the surveillance state designed to catch us all in its net.</p>

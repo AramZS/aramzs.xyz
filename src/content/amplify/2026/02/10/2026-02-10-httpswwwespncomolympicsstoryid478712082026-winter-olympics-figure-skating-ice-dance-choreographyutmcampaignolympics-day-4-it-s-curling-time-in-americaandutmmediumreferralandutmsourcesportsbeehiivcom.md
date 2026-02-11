@@ -1,0 +1,77 @@
+---
+author: D'Arcy Maine
+cover_image: >-
+  https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0209%2Fr1612422_1296x729_16%2D9.jpg
+date: '2026-02-10T21:24:08.153Z'
+dateFolder: 2026/02/10
+description: >-
+  With '90s music as the theme for the 2026 Winter Olympics, ice dance routines
+  have included everything from Madonna to the Spice Girls.
+isBasedOn: >-
+  https://www.espn.com/olympics/story/_/id/47871208/2026-winter-olympics-figure-skating-ice-dance-choreography?utm_campaign=olympics-day-4-it-s-curling-time-in-america&utm_medium=referral&utm_source=sports.beehiiv.com
+link: >-
+  https://www.espn.com/olympics/story/_/id/47871208/2026-winter-olympics-figure-skating-ice-dance-choreography?utm_campaign=olympics-day-4-it-s-curling-time-in-america&utm_medium=referral&utm_source=sports.beehiiv.com
+slug: >-
+  2026-02-10-httpswwwespncomolympicsstoryid478712082026-winter-olympics-figure-skating-ice-dance-choreographyutmcampaignolympics-day-4-it-s-curling-time-in-americaandutmmediumreferralandutmsourcesportsbeehiivcom
+tags:
+  - sports
+title: 'Winter Olympics: How an ice dance routine is crafted'
+---
+<figure><picture><source media="(min-width: 376px)" srcset="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0209%2Fr1612422_1296x729_16%2D9.jpg&amp;w=920&amp;h=518&amp;scale=crop&amp;cquality=80&amp;location=origin&amp;format=jpg"/><source media="(max-width: 375px)" srcset="https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0209%2Fr1612422_1296x729_16%2D9.jpg&amp;w=375&amp;h=211&amp;scale=crop&amp;cquality=80&amp;location=origin, https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0209%2Fr1612422_1296x729_16%2D9.jpg&amp;w=750&amp;h=422&amp;scale=crop&amp;cquality=40&amp;location=origin&amp;format=jpg 2x"/><img/></picture><figcaption>Paul Poirier and Piper Gilles will perform to RuPaul's "Supermodel (You Better Work)" as part of the '90s theme for ice dance this year. James Lang-Imagn Images</figcaption></figure>
+<p>MILAN -- There was an audible gasp from the crowd as soon as the music started for Sofiia Dovhal and Wiktor Kulesza during the rhythm dance competition in the Olympic team event Friday.</p>
+<p>Dovhal wore a cropped leopard print shirt and Kulesza was in a black tank top, and the Polish competitors were only the second ones to take the ice during the relatively early morning hours. The stands were still only partially full. But the moment the crowd heard the words "Everybody dance now!" over the loudspeaker, followed by the pulsing bass and unmistakable beat of "Gonna Make You Sweat (Everybody Dance Now)," a palpable energy came over the arena.</p>
+<p>For the next 2 minutes and 50 seconds, the fans in attendance danced along as Dovhal and Kulesza twizzled and twisted around the ice. And the enthusiasm for the ice-dancing teams, and specifically their music choices, only increased as the morning went on. There were programs set to Madonna's "Vogue," RuPaul's "Supermodel (You Better Work)," the Spice Girls' "Wannabe" and even the Offspring's "Pretty Fly (For a White Guy)." Not to mention medleys from Lenny Kravitz and the Backstreet Boys, and a "Men in Black"-themed performance. Suits, ties and a neuralyzer reference very much included.</p>
+<p>The rhythm dance is akin to a short program in other figure skating disciplines, and is assigned a theme, from which skaters can choose any type of music and style. When the International Skating Union (ISU) announced the theme for the 2025-26 rhythm dance would be the 1990s, there was some mixed reaction from fans and those involved in the sport. But the competitive ice dancers -- many of whom weren't yet born in that decade -- quickly got to work. The result has been a diverse blend of programs set to crowd-pleasing music, spanning multiple genres and inspiring elaborate costumes.</p>
+<p>But while fans typically see only the final product, the process of fine-tuning the music selection, choreography and visual presentation is an arduous one and can require equal parts creativity, collaboration and patience.</p>
+<article class="rw-embedded-tweet" data-rw-tweet-id="2019752900570812423">
+<header class="rw-embedded-tweet-header">
+<div>
+<img src="https://pbs.twimg.com/profile_images/1982780662579929088/hEyF76eC.jpg"/>
+</div>
+<div>
+<span><a href="https://twitter.com/TeamUSA">Team USA</a></span>
+<span><a href="https://twitter.com/TeamUSA">@TeamUSA</a></span>
+</div>
+<div>
+<a href="https://twitter.com/TeamUSA/status/2019752900570812423">
+<svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.9525 7.98316C19.9647 8.15675 19.9647 8.33034 19.9647 8.50553C19.9647 13.8436 15.8371 20 8.28966 20V19.9968C6.06013 20 3.8769 19.3712 2 18.1857C2.32419 18.2241 2.65001 18.2433 2.97664 18.2441C4.82429 18.2457 6.61913 17.6353 8.07272 16.5114C6.31688 16.4786 4.77717 15.3515 4.23928 13.706C4.85436 13.8228 5.48812 13.7988 6.09181 13.6364C4.17753 13.2556 2.80033 11.5997 2.80033 9.67665C2.80033 9.65905 2.80033 9.64225 2.80033 9.62545C3.37071 9.93824 4.00934 10.1118 4.6626 10.131C2.85964 8.9447 2.30388 6.58325 3.39265 4.73696C5.47593 7.2608 8.54966 8.79511 11.8493 8.9575C11.5186 7.55439 11.9703 6.08408 13.0364 5.09774C14.689 3.56824 17.2882 3.64663 18.8418 5.27293C19.7607 5.09454 20.6415 4.76256 21.4475 4.29219C21.1412 5.22733 20.5001 6.02168 19.6437 6.52645C20.457 6.43206 21.2517 6.21767 22 5.89049C21.4491 6.70324 20.7552 7.41119 19.9525 7.98316Z" fill="currentColor"></path>
+</svg>
+</a>
+</div>
+</header>
+<main>
+<p>Statement made. 🇺🇸💪</p><p>Madison Chock and Evan Bates kick things off for <a href="https://twitter.com/USFigureSkating">@USFigureSkating</a> with a first-place ice dance performance at the #WinterOlympics.</p><p>📺 <a href="https://twitter.com/peacock">@peacock</a></p><video controls=""><source src="https://video.twimg.com/amplify_video/2019719402032173056/pl/c2FyLwyFg4jwA9Ya.m3u8?tag=21" type="application/x-mpegURL"/><source src="https://video.twimg.com/amplify_video/2019719402032173056/vid/avc1/320x400/CG9si-KWHc6xVpy0.mp4?tag=21" type="video/mp4"/><source src="https://video.twimg.com/amplify_video/2019719402032173056/vid/avc1/480x600/ArexbuxfCknE2XpF.mp4?tag=21" type="video/mp4"/><source src="https://video.twimg.com/amplify_video/2019719402032173056/vid/avc1/720x900/ggC3x-HcHOk1ia9V.mp4?tag=21" type="video/mp4"/><source src="https://video.twimg.com/amplify_video/2019719402032173056/vid/avc1/864x1080/0QDpgJyZgUZ45ZhY.mp4?tag=21" type="video/mp4"/>Your browser does not support the video tag.</video>
+</main>
+<footer class="rw-embedded-tweet-footer" data-rw-created-timestamp="1770381591000">
+<span>
+<a href="https://twitter.com/TeamUSA/status/2019752900570812423">Posted Feb 6, 2026 at 12:39PM</a>
+</span>
+</footer>
+</article>
+<p>"We're starting music research months and months and months before we're doing choreography and giving thought to the programs," Paul Poirier, the reigning world silver medalist who performed the "Supermodel (You Better Work)" program with his partner Piper Gilles on Friday, told ESPN last month. "... We really wanted this program to be fun and for people to be smiling and dancing along with us and strutting along with us. That's the feeling that we want to create in the rink. And I think the music really allows us to do that."</p>
+<p>Poirier and Gilles, who represent Canada, started thinking of ideas as soon as the theme was announced.</p>
+<p>Never mind the 2024-25 season was still in full swing. The partners, known for their fearless quirkiness, couldn't help but share how excited they were during the world championships in March.</p>
+<p>"We're really thrilled with it," Gilles said. "We are '90 babies and yeah, it's music that we grew up with. So to be able to kind of put that on an Olympic stage, it just feels nostalgic and it will be super fun. But we have some ideas up our sleeves."</p>
+<aside> <figure><div class="rw-embed-wrapper"><embed src="https://www.youtube.com/embed/7P6PTTRsxr8?si=zEcTJ6JAqGBAjEMK&amp;wmode=transparent" type="video/mp4"/></div></figure> </aside>
+<p>They turned to Alexandra Crenian, one of their choreographers, to brainstorm. In addition to the music, they wanted to develop characters and a storyline to go with it. Among some of the first ideas was "Supermodel (You Better Work)" and both were instantly smitten by the possibility.</p>
+<p>"We really felt like it encapsulated both the incredible energy of the period and the incredible energy of the supermodels and what icons they were, but it also had an element of fun and of camp and of not too serious that we like to play around with a lot of the time," Poirier said. "And so that was really fun."</p>
+<p>He and Gilles shared part of their process in the new Netflix docuseries "Glitter &amp; Gold: Ice Dancing." In a scene from the show, filmed eight months before the start of the Olympic Games, the two are seen working their steps, synchronization and even facial expressions -- all of which are of extreme importance in ice dance.</p>
+<p>For Poirier, who publicly came out as gay in 2021, the song also allowed him to represent a part of himself. "It was an obvious choice just because it's such a banger, but also it being a style of dance that emerged from the queer community," he said in the docuseries.</p>
+<p>While not a requirement, many teams add a second song, or even more, to their program. Poirier called that process "very challenging" when speaking to ESPN, but they ultimately landed on Right Said Fred's "I'm Too Sexy" for an interlude.</p>
+<p>Gilles acknowledged she wasn't sure if everyone would understand the program. But that feeling is nothing new for the pair, <a href="https://www.youtube.com/shorts/vUtMsmNFoj8">who channeled 1960s beach culture</a> for a Beach Boys-themed program last year, and donned glittery orange jumpsuits for an Elton John medley at the 2022 Olympics.</p>
+<aside> <figure><div class="rw-embed-wrapper"><embed src="https://www.youtube.com/embed/zk085Ye6POk?si=pYyrCPUXEmrKOEqc&amp;wmode=transparent" type="video/mp4"/></div></figure> </aside>
+<p>"Paul and I and our coaches, we always call ourselves the 'cliff jumpers' because we've created something so unique and new and we don't know if the people are going to understand the characters," Gilles said on the show.</p>
+<p>Though the program has been met with a favorable response from fans -- as evidenced Friday in Milan -- it hasn't always been as well-received by judges. Gilles has been outspoken this season<a href="https://www.cbc.ca/sports/olympics/winter/figure-skating/gilles-poirier-ice-dance-criticism-judges-grand-prix-final-9.7015340"> about scoring inconsistencies</a> in regard to both of their programs, but they have continued to make adjustments in hopes of maximizing points.</p>
+<p>For others, feedback from judges can make them rethink everything. After a seven-year hiatus, two-time Olympic medalists Maia Shibutani and Alex Shibutani made their competitive return in 2025 and with it came a rhythm dance program built around the theme of "A 90s Night in Tokyo." <a href="https://www.instagram.com/p/DRU4NpJiYqE/?hl=en&amp;img_index=2">Maia said it was an ode</a> to how "American hip hop and streetwear helped shape cultural trends in Japan," and the pair used music from the Wu-Tang Clan and A Tribe Called Quest among others. The costumes, per Maia, were "inspired by racing culture as well as vintage sportswear and streetwear aesthetics."</p>
+<p>But at last month's U.S. national championships, Alex said low scoring and downright confusion from the judging panel made them completely abandon the program.</p>
+<p>"Not all of the judges that we spoke to or who spoke to us were familiar with hip hop or Wu-Tang Clan or A Tribe Called West, which is unfortunate," Alex told reporters. "I think it speaks to the narrow point of reference that figure skating has [in terms of] a creative sensibility. ... We came up with something that was very individual to us and something that I think a lot of people responded well to, but when it comes down to it, we're competing because we want to score well."</p>
+<p>They then pivoted completely, putting together a program in only six weeks set to "Canned Heat" by Jamiroquai. Alex said they never even considered altering the previous program as it would have "completely take[n] away from the originality and the integrity of us as creatives and what we wanted to do."</p>
+<p>They finished in ninth place at nationals and did not make the Olympic team.</p>
+<aside> <figure><div class="rw-embed-wrapper"><embed src="https://www.youtube.com/embed/rjufDaWKCuE?si=ftCptUgVxJReGp7M&amp;wmode=transparent" type="video/mp4"/></div></figure> </aside>
+<p>For others, the music they want to use might ultimately be axed if they are unable to get clearance from the musician or rights-holder (as anyone who been following the current "<a href="https://apnews.com/article/winter-olymp ics-figure-skating-minions-amber-glenn-f54853fbeca443907fcd109cd018e2a5">Minions-gate" saga</a> of Spanish singles skater Tomas-Llorenc Guarino Sabate knows all too well) or simply on a technicality. Laurence Fournier Beaudry and Guillaume Cizeron, a newly formed French team and contenders for the gold medal, originally were using Depeche Mode's "Personal Jesus" in their rhythm dance and had spent months working to find the perfect cuts of music from the song. But while the album the song was featured on was released in 1990, the single itself was released in 1989, making it ineligible for the season, according to the ISU.</p>
+<p>The duo had to start again in September and landed on Madonna's "Vogue." While not ideal at the time, it has so far been successful. Combined with their highly lauded free dance set to music from the movie, "The Whale," they won the European Championships this season, as well as two Grand Prix titles.</p>
+<p>As the individual ice dance competition gets underway Monday with the rhythm dance portion, the world will see 23 of the best duos skating to their best interpretation of the decade that ended 26 years ago. Americans Madison Chock and Evan Bates are the favorites and three-time reigning world champions, and skate to a number of hits from Lenny Kravitz. Chock said the pair try to "embody" Kravitz's signature "unique style" when they perform.</p>
+<p>No matter who ends up on the podium Wednesday following the free dance portion of the event, it's clear the '90s theme choice has certainly helped draw more attention to the sport. The Spice Girls' official Instagram account posted a video of Great Britain's Lilah Fear and Lewis Gibson's rhythm dance in the team event in their story Saturday. The duo, who respectively wear a replica of Geri Halliwell's iconic Union Jack dress and a leopard-print shirt influenced by Mel B, recorded a third-place result during their program set to "Wannabe" and "Spice Up Your Life." The Offspring and Right Said Fred have also shared their support on social media this season for the programs featuring their music.</p>
+<p>And even some of those who previously didn't love the season's theme choice have since come around.</p>
+<p>"It's not my favorite decade, but I do love knowing so many of the tracks," Gibson said on Friday after competing in the team event. "It makes it way more fun during practice just to be able to sing along [to everyone else's music] and get out of your head at the same time."</p>
