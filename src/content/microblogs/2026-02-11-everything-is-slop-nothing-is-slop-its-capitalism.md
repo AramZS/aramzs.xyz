@@ -9,7 +9,7 @@ tags:
   - economics
 featured: false
 linkInternal: true
-date: '2026-02-12T22:10:00.000-04:00'
+date: '2026-02-11T22:10:00.000-04:00'
 canonical: https://bsky.app/profile/chronotope.aramzs.xyz/post/3melyej4ksk2h
 ---
 
