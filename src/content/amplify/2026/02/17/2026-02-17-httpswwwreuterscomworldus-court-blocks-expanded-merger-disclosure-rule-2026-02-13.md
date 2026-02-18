@@ -1,0 +1,39 @@
+---
+author: Jody Godoy
+cover_image: >-
+  https://www.reuters.com/resizer/v2/OCWXXUKPARMQPGZICLRCQJZM2M.jpg?auth=899605b47bc30ffb5e6d41039ada94d2072af87935c10e91d9c8f883eddf0cd2&height=1005&width=1920&quality=80&smart=true
+date: '2026-02-17T22:00:17.949Z'
+dateFolder: 2026/02/17
+description: >-
+  A U.S. federal judge in Texas on Thursday blocked a rule that expanded the
+  amount of information companies have to turn over when seeking a merger
+  review, saying it exceeded the Federal Trade Commission's authority.
+isBasedOn: >-
+  https://www.reuters.com/world/us-court-blocks-expanded-merger-disclosure-rule-2026-02-13/
+link: >-
+  https://www.reuters.com/world/us-court-blocks-expanded-merger-disclosure-rule-2026-02-13/
+slug: >-
+  2026-02-17-httpswwwreuterscomworldus-court-blocks-expanded-merger-disclosure-rule-2026-02-13
+tags:
+  - politics
+  - baselines
+title: US court blocks expanded merger disclosure rule
+---
+<h1 data-testid="Heading">US court blocks expanded merger disclosure rule</h1>
+<p>By <a data-testid="AuthorNameLink" href="https://www.reuters.com/authors/jody-godoy/">Jody Godoy</a></p>
+<p>February 12, 20268:24 PM ESTUpdated February 12, 2026</p>
+<figure><img alt="A view of the Federal Trade Commission (FTC) headquarters in Washington, D.C." data-testid="EagerImage" sizes="(min-width: 1024px) 560px, (min-width: 1440px) 700px, 100vw" src="https://www.reuters.com/resizer/v2/OCWXXUKPARMQPGZICLRCQJZM2M.jpg?auth=899605b47bc30ffb5e6d41039ada94d2072af87935c10e91d9c8f883eddf0cd2&amp;width=1200&amp;quality=80" srcset="https://www.reuters.com/resizer/v2/OCWXXUKPARMQPGZICLRCQJZM2M.jpg?auth=899605b47bc30ffb5e6d41039ada94d2072af87935c10e91d9c8f883eddf0cd2&amp;width=480&amp;quality=80 480w,https://www.reuters.com/resizer/v2/OCWXXUKPARMQPGZICLRCQJZM2M.jpg?auth=899605b47bc30ffb5e6d41039ada94d2072af87935c10e91d9c8f883eddf0cd2&amp;width=640&amp;quality=80 640w,https://www.reuters.com/resizer/v2/OCWXXUKPARMQPGZICLRCQJZM2M.jpg?auth=899605b47bc30ffb5e6d41039ada94d2072af87935c10e91d9c8f883eddf0cd2&amp;width=720&amp;quality=80 720w,https://www.reuters.com/resizer/v2/OCWXXUKPARMQPGZICLRCQJZM2M.jpg?auth=899605b47bc30ffb5e6d41039ada94d2072af87935c10e91d9c8f883eddf0cd2&amp;width=960&amp;quality=80 960w,https://www.reuters.com/resizer/v2/OCWXXUKPARMQPGZICLRCQJZM2M.jpg?auth=899605b47bc30ffb5e6d41039ada94d2072af87935c10e91d9c8f883eddf0cd2&amp;width=1080&amp;quality=80 1080w,https://www.reuters.com/resizer/v2/OCWXXUKPARMQPGZICLRCQJZM2M.jpg?auth=899605b47bc30ffb5e6d41039ada94d2072af87935c10e91d9c8f883eddf0cd2&amp;width=1200&amp;quality=80 1200w"/><figcaption>A view of signage at the Federal Trade Commission (FTC) headquarters in Washington, D.C., U.S., November 24, 2024. REUTERS/Benoit Tessier Purchase Licensing Rights</figcaption></figure>
+<p>Feb 12 (Reuters) - A U.S. federal judge in Texas on Thursday blocked a rule that expanded the amount of information companies have to turn over when seeking a merger review, saying it exceeded the Federal Trade Commission's authority.</p>
+<p>The rule, finalized in 2024, provided antitrust enforcers at the FTC and the U.S. Department of Justice with <a data-testid="Link" href="https://www.reuters.com/markets/deals/ftc-finalizes-new-merger-filing-requirements-2024-10-10/">more information</a> about mergers and acquisitions.</p>
+<p>Some dealmakers had <a data-testid="Link" href="https://www.reuters.com/markets/us/companies-wary-new-us-rule-scramble-file-mergers-by-friday-lawyers-say-2025-02-06/">scrambled to file</a> for approval before the rule came into effect last February, in order to avoid its requirements. The U.S. Chamber of Commerce sued to block the rule last year.</p>
+<p>U.S. District Judge Jeremy Kernodle in Tyler, Texas, an appointee of President <a data-testid="Link" href="https://www.reuters.com/world/us/donald-trump/">Donald Trump</a>, said the FTC had not shown the rule's benefits would outweigh its costs.</p>
+<p>"Though the FTC asserts that the rule will detect illegal mergers and save agency resources, the FTC fails to substantiate these assertions," he wrote.</p>
+<p>While the rule was finalized in the waning days of the Biden administration, current FTC Chairman Andrew Ferguson, who was then a commissioner, voted in its favor, calling it "a lawful improvement over the status quo" at the time.</p>
+<p>"We are reviewing the ruling and weighing our options," a spokesperson for the FTC said. "The Chamber of Commerce is a left-wing, open borders supporting activist group.”</p>
+<p>The Chamber is the largest business lobby group in the U.S., whose board includes executives from FedEx, Sempra, Abbott Laboratories, Fidelity Investments, Meta Platforms, Microsoft and Nasdaq.</p>
+<p>Daryl Joseffer, executive vice president of the Chamber's litigation center, said in response to the ruling: "We are pleased with the court’s decision today rejecting the Biden Administration’s onerous merger tax.”</p>
+<p>A Chamber spokesperson did not comment on the FTC spokesperson's description of the organization.</p>
+<p>Reporting by Jody Godoy in Los Angeles; Editing by Christopher Cushing and Jamie Freed</p>
+<ul><li>Suggested Topics:</li><li><a data-testid="TextButton" href="https://www.reuters.com/legal/litigation/">Litigation</a></li><li data-testid="TooltipWrap"><a data-testid="TextButton" href="https://www.reuters.com/legal/antitrust/">Antitrust</a><figure></figure></li><li data-testid="TooltipWrap"><a data-testid="TextButton" href="https://www.reuters.com/sustainability/regulatory-oversight/">Regulatory Oversight</a><figure></figure></li><li data-testid="TooltipWrap"><a data-testid="TextButton" href="https://www.reuters.com/legal/public-policy/">Public Policy</a><figure></figure></li></ul>
+<h2 data-testid="Heading">Read Next</h2>
+<figure></figure><figure></figure><ul><li>4 mins ago<a data-testid="KickerLink" href="https://www.reuters.com/legal/government/">Governmentcategory</a><a data-testid="TitleLink" href="https://www.reuters.com/legal/government/pediatricians-group-sues-over-us-ftc-launching-gender-affirming-care-probe-2026-02-17/">Pediatricians group sues over US FTC launching gender-affirming care probe</a></li><li>4 hours ago<a data-testid="KickerLink" href="https://www.reuters.com/legal/litigation/">Litigationcategory</a><a data-testid="TitleLink" href="https://www.reuters.com/legal/litigation/openai-blocked-using-cameo-name-amid-trademark-lawsuit-2026-02-17/">OpenAI blocked from using 'Cameo' name amid trademark lawsuit</a></li><li>3 hours ago<a data-testid="KickerLink" href="https://www.reuters.com/legal/government/">Governmentcategory</a><a data-testid="TitleLink" href="https://www.reuters.com/legal/government/att-sued-by-new-york-city-pension-funds-excluding-diversity-proposal-2026-02-17/">AT&amp;T sued by New York City pension funds for excluding diversity proposal​</a></li><li>1 hour ago<a data-testid="KickerLink" href="https://www.reuters.com/legal/litigation/">Litigationcategory</a><a data-testid="TitleLink" href="https://www.reuters.com/legal/litigation/texas-sues-tp-link-alleging-chinese-government-access-its-devices-2026-02-17/">Texas sues TP-Link alleging Chinese government access to its devices</a></li><li>February 14, 2026<a data-testid="KickerLink" href="https://www.reuters.com/sustainability/">Sustainabilitycategory</a><a data-testid="TitleLink" href="https://www.reuters.com/sustainability/boards-policy-regulation/exxon-mobil-can-sue-california-attorney-general-defamation-over-recycling-judge-2026-02-13/">Exxon Mobil can sue California attorney general for defamation over recycling, judge rules</a></li><li>February 13, 2026<a data-testid="KickerLink" href="https://www.reuters.com/legal/litigation/">Litigationcategory</a><a data-testid="TitleLink" href="https://www.reuters.com/legal/litigation/swift-home-trademark-abandoned-after-taylor-swift-opposition-2026-02-14/">'Swift Home' trademark abandoned after Taylor Swift opposition</a></li></ul>
