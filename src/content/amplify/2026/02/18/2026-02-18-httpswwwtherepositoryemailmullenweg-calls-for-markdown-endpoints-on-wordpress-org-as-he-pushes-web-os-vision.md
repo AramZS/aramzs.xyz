@@ -14,7 +14,7 @@ link: >-
   https://www.therepository.email/mullenweg-calls-for-markdown-endpoints-on-wordpress-org-as-he-pushes-web-os-vision
 slug: >-
   2026-02-18-httpswwwtherepositoryemailmullenweg-calls-for-markdown-endpoints-on-wordpress-org-as-he-pushes-web-os-vision
-tags: []
+tags: ['tech', 'ai']
 title: >-
   Mullenweg Calls for Markdown Endpoints on WordPress.org as He Pushes “Web OS”
   Vision
