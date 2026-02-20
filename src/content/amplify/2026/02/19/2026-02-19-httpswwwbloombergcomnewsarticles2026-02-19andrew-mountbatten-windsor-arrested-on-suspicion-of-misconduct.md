@@ -1,0 +1,22 @@
+---
+author: 'Lucy White, Ellen Milligan'
+cover_image: 'https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i02ki5VR2IfE/v0/1200x927.jpg'
+date: '2026-02-19T12:24:22.851Z'
+dateFolder: 2026/02/19
+description: >-
+  Andrew Mountbatten-Windsor, the brother of the UK’s King Charles, has been
+  arrested on suspicion of misconduct in public office after further details of
+  his relationship with convicted sex offender Jeffrey Epstein emerged.
+isBasedOn: >-
+  https://www.bloomberg.com/news/articles/2026-02-19/andrew-mountbatten-windsor-arrested-on-suspicion-of-misconduct
+link: >-
+  https://www.bloomberg.com/news/articles/2026-02-19/andrew-mountbatten-windsor-arrested-on-suspicion-of-misconduct
+slug: >-
+  2026-02-19-httpswwwbloombergcomnewsarticles2026-02-19andrew-mountbatten-windsor-arrested-on-suspicion-of-misconduct
+tags:
+  - uk
+  - politics
+  - law and order
+title: Ex-Prince Andrew Arrested on Suspicion of Misconduct
+---
+<body><div><p><a href="">Andrew Mountbatten-Windsor</a>, the brother of the UK’s King Charles, has been arrested on suspicion of misconduct in public office after further details of his relationship with convicted sex offender <a href="">Jeffrey Epstein</a> emerged.</p><p>Thames Valley Police confirmed that the force had opened an investigation into an offense of misconduct in public office, and had arrested a man in his sixties. Mountbatten-Windsor turned 66 on Thursday. </p><figure><img alt="King Charles III And Queen Camilla Attend The 2025 Easter Service At St George's Chapel" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9b.c3aOhZDo/v0/-1x-1.webp"/><figcaption>Andrew Mountbatten-Windsor. / Photographer: Kirsty Wigglesworth/WPA Pool/Getty Images</figcaption></figure><p>Emails released by the <a href="">US Department of Justice</a> last month showed Mountbatten-Windsor allegedly disclosing confidential government information to Epstein during his time as UK trade envoy, a position he held between 2001 and 2011.</p><p>Mountbatten-Windsor has not been charged, and consistently denied any allegations of wrongdoing relating to his friendship with Epstein.</p><p>Thames Valley Police said last week that it was leading the assessment of allegations relating to misconduct in public office stemming from the release of those files. Photographs in the UK media appeared to show police vehicles attending the Sandringham Estate, the Royal Family’s residence in Norfolk. </p><p>Norfolk police told Bloomberg that they are supporting a Thames Valley Police investigation into misconduct in a public office.</p><p>Emails to a representative for Mountbatten-Windsor’s office weren’t immediately returned. His arrest appears to be the first of a UK royal since King Charles I in the 17th century following his defeat in the English Civil War. </p><p>The offense of misconduct in public office carries a maximum sentence of life imprisonment in the most serious cases. The offense concerns “serious willful abuse or neglect of the power” of the public office held, UK prosecutors say.</p><p class="rw-outer-content"><span>Some content could not be imported from the original document.</span> <a href="https://twitter.com/anyuser/status/2024425932568629742">View content ↗ </a></p><p>The Epstein files contained emails indicating that Mountbatten-Windsor had advocated for Epstein on a visit with the late Queen Elizabeth II to the United Arab Emirates in 2010, and that he had shared information acquired in his trade envoy role with the disgraced financier and his associates.</p><p>They also contained pictures of the former prince on all fours kneeling over a young woman.</p><p>Mountbatten-Windsor has previously faced separate allegations regarding sexual offenses connected to his friendship with Epstein, which prompted his mother the Queen to strip him of his military titles and patronages in 2022. They included civil action in the US brought by Virginia Giuffre, who alleged that she was forced to have sex with the former prince as a teenager. </p><p>He paid a financial settlement to end the court case, denying any wrongdoing. </p><p><a href="">King Charles III</a> stripped Mountbatten-Windsor of his remaining titles — including “prince” — in September, following the publication of Giuffre’s memoir in which she said the former prince “believed that having sex with me was his birthright.” Despite that move, he is still eighth in line to the throne.</p></div><div><ol></ol></div></body>
