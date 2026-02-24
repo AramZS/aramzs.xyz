@@ -26,12 +26,10 @@ It is also entirely unable to attack another major issue, which is that sometime
 
 The real problem can only be solved by AI systems stamping their images with provenance, but the nature of how these systems are made to be reused by a million customers who are apps reselling their capabilities means that this is almost impossible to enforce.
 
-This also doesn't address one of the core problems: C2PA arose in a time where we were having a hard time determining fraud because bad actors were sharing real images without clear information about where they came from. The solution at the time was trustworthy messaging from known gatekeepers for news. But fewer people trust mainstream journalists now than ever. All the fancy digital metadata in the world cannot defeat this problem where the sources are not trusted by the audiance, especially at times when they must enact confidentiality, which are often the moments it is most important to get this right. 
-
-It's hard to see how even the best intentions here could give us something better than real, significant, guardrails at the level of the image or video generator. 
+This also doesn't address one of the core problems: C2PA arose in a time where we were having a hard time determining fraud because bad actors were sharing real images without clear information about where they came from. The solution at the time was trustworthy messaging from known gatekeepers for news. But fewer people trust mainstream journalists now than ever. All the fancy digital metadata in the world cannot defeat this problem where the sources are not trusted by the audience, especially at times when they must enact confidentiality, which are often the moments it is most important to get this right. 
 
 > Even if more synthetic content is embedded with C2PA information, everyday people are still largely expected to manually hunt for it themselves across the images and videos they see online, despite many not even being aware that C2PA exists. If anything, it seems like AI providers are using C2PA to distance themselves from the problem, while continuing work on their own slop factories.
->
-> [...] 
->
+
+It's hard to see how even the best intentions here could give us something better than real, significant, guardrails at the level of the image or video generator. The AI systems really need to do more work at a deeper level, but it doesn't seem like they are willing.
+
 > In fact, anything that ensures synthetic materials won’t be mistaken for something human-made goes against the business interests of every company that’s throwing money into AI, especially if it paints the technology in a bad light. How much responsibility can you really take with such a conflict of interest?
