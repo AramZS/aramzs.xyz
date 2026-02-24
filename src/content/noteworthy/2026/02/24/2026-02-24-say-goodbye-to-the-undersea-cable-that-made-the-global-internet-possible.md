@@ -2,6 +2,8 @@
 title: Say Goodbye to the Undersea Cable That Made the Global Internet Possible
 tags:
   - Notable Articles
+  - tech
+  - history
 date: '2026-02-24T15:03:22.000-05:00'
 cite:
   name: Say Goodbye to the Undersea Cable That Made the Global Internet Possible
