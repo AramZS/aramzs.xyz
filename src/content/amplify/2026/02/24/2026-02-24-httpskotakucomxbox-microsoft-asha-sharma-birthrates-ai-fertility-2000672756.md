@@ -1,0 +1,32 @@
+---
+author: John Walker
+cover_image: 'https://kotaku.com/app/uploads/2026/02/sharma2-1200x675.jpg'
+date: '2026-02-24T14:07:54.250Z'
+dateFolder: 2026/02/24
+description: >-
+  Five months ago Asha Sharma talked about how AI could turn around declining
+  fertility rates
+isBasedOn: >-
+  https://kotaku.com/xbox-microsoft-asha-sharma-birthrates-ai-fertility-2000672756
+link: >-
+  https://kotaku.com/xbox-microsoft-asha-sharma-birthrates-ai-fertility-2000672756
+slug: >-
+  2026-02-24-httpskotakucomxbox-microsoft-asha-sharma-birthrates-ai-fertility-2000672756
+tags:
+  - ai
+  - tech
+  - gaming
+  - politics
+title: 'The New Head Of Xbox Is Worried About Birthrates, But Says AI Will Save Us'
+---
+<figure><img alt="Asha Sharma." sizes="(max-width: 639px) 100vw, (max-width: 1023px) calc(100vw - 2rem), (max-width: 1258px) calc((100vw - 3.68rem) * 2 / 3), 800px" src="https://kotaku.com/app/uploads/2026/02/sharma2.jpg" srcset="https://kotaku.com/app/uploads/2026/02/sharma2.jpg 1688w, https://kotaku.com/app/uploads/2026/02/sharma2-336x189.jpg 336w, https://kotaku.com/app/uploads/2026/02/sharma2-1280x720.jpg 1280w, https://kotaku.com/app/uploads/2026/02/sharma2-768x432.jpg 768w, https://kotaku.com/app/uploads/2026/02/sharma2-672x378.jpg 672w, https://kotaku.com/app/uploads/2026/02/sharma2-960x540.jpg 960w, https://kotaku.com/app/uploads/2026/02/sharma2-1600x900.jpg 1600w, https://kotaku.com/app/uploads/2026/02/sharma2-1200x675.jpg 1200w"/><figcaption>Asha Sharma. © Lenny's Podcast / Kotaku</figcaption></figure>
+<p>After <a href="https://kotaku.com/phil-spencer-goodbye-email-memo-xbox-microsoft-2000672084">the shock resignation of Phil Spencer and Sarah Bond from Xbox last week</a>, the gaming world is attempting to piece together exactly <a href="https://kotaku.com/thats-it-im-calling-it-xbox-is-dead-time-of-death-february-20-2000672114">what will happen next to Microsoft’s gaming brand</a>, especially under the auspices of new leader Asha Sharma. Why has someone with a background in AI and not gaming been put at the helm? And wait, she said <em>what</em> about birthrates and AI?</p>
+<p>Big tech’s obsession with birthrate figures is something that should certainly make you feel uncomfortable, given it’s usually about half a step removed from <a href="https://www.vice.com/en/article/why-are-elon-musk-and-marc-andreesen-obsessed-with-birth-rates/">matters far more sinister</a>. Which is why it’s so disappointing to hear Asha Sharma, in an interview on a podcast from five months ago, saying that the thing she thinks about the most—other than GPUs—is whether her son “will have classmates in the future.” (Thanks <a href="https://bsky.app/profile/samred.com/post/3mfdstcvges2c">Sam Machkovech</a>.) This is because, she says, “fertility rates are declining, the average birthrate in the ’90s when we were growing up was, like, 3, and now it’s 2.3, and in 2050 it’s estimated to be below replacement.” This is strange on its own, and also completely wrong, but her next words make it far weirder. “I think that AI can have such a big effect on it, and already is.”</p>
+<p>Sharma goes on to give examples of this, like how she’s heard about a hospital in London that’s using AI to improve the fertility success rate of IVF, the “amazing story” of how ChatGPT 5 is “helping in healthcare,” and how Stanford was a big customer of hers, using AI for “tumor reviews.”</p>
+<figure><img alt="" src="https://i.ytimg.com/vi/J9UWaltU-7Q/hqdefault.jpg"/></figure>
+<figure><img src="https://kotaku.com/app/plugins/wp-rocket/assets/img/youtube.png"/></figure>
+<figure><div class="rw-embed-wrapper"><embed src="https://www.youtube.com/embed/J9UWaltU-7Q?start=2581&amp;feature=oembed" type="video/mp4"/></div></figure>
+<p>Of course, the reason for the declining birthrate in the U.S. is multifactorial, but almost certainly primarily about income. In the affluent ’90s, people felt confident about being able to afford two or three children, but in the 2020s that’s a far more costly prospect. If people in big tech were genuinely concerned about the number of children being born, their attention would be wholly focused on <a href="https://publichealth.jhu.edu/2026/is-the-us-birth-rate-declining">making American lives more affordable, providing better benefits and support, and increasing wages</a>. And not, say, on replacing workers with ineffectual AI while driving industries that rely on paying low incomes.</p>
+<p>Sharma’s numbers are <em>way</em> off, as it happens. The fertility rate wavered between 1.9 and 2.0 in the 1990s, and hasn’t been close to her claimed 3 since the mid-60s. It dipped as low as 1.6 after steady decline following the financial crash of 2008, but in recent years has begun to recover: it was back up to 1.8 in 2025. So in fact a difference of 0.1 since Sharma’s heyday of baby births.</p>
+<p>But to put everyone’s minds at rest regarding those empty classrooms: As it turns out, we don’t just distribute however many children are around into the current number of classrooms. That would be a weird system. So even if birthrates were to suddenly halve, we’d just have…fewer schools. Am I really explaining this to the head of Xbox?</p>
+<ul data-mrf-recirculation="related-posts"><li><figure><a href="https://kotaku.com/phil-spencer-goodbye-email-memo-xbox-microsoft-2000672084"> <img alt="Phil Spencer wears a blue shirt." sizes="calc(100vw - 2rem), (min-width: 640px) calc((100vw - 2rem) * 5 / 12), (min-width: 832px) 20.83rem, (min-width: 1152px) calc(41.67vw - 26.625rem), (min-width: 1260px) 208px" src="https://kotaku.com/app/uploads/2023/09/ef3f154051dc3c0ede0f126b457b609e.jpg" srcset="https://kotaku.com/app/uploads/2023/09/ef3f154051dc3c0ede0f126b457b609e.jpg 1920w, https://kotaku.com/app/uploads/2023/09/ef3f154051dc3c0ede0f126b457b609e-336x188.jpg 336w, https://kotaku.com/app/uploads/2023/09/ef3f154051dc3c0ede0f126b457b609e-1280x718.jpg 1280w, https://kotaku.com/app/uploads/2023/09/ef3f154051dc3c0ede0f126b457b609e-768x431.jpg 768w, https://kotaku.com/app/uploads/2023/09/ef3f154051dc3c0ede0f126b457b609e-672x377.jpg 672w, https://kotaku.com/app/uploads/2023/09/ef3f154051dc3c0ede0f126b457b609e-960x539.jpg 960w, https://kotaku.com/app/uploads/2023/09/ef3f154051dc3c0ede0f126b457b609e-1600x898.jpg 1600w"/> </a><figcaption><a href="https://kotaku.com/phil-spencer-goodbye-email-memo-xbox-microsoft-2000672084">Phil Spencer wears a blue shirt.</a></figcaption></figure></li></ul>
