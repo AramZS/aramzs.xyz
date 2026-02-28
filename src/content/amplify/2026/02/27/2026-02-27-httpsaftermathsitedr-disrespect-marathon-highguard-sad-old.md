@@ -1,0 +1,24 @@
+---
+author: Aftermath
+cover_image: 'https://aftermath.site/content/images/2026/02/d.jpg'
+date: '2026-02-27T13:19:12.100Z'
+dateFolder: 2026/02/27
+description: They call him "two time" because he doesn't have any other tricks
+isBasedOn: 'https://aftermath.site/dr-disrespect-marathon-highguard-sad-old/'
+link: 'https://aftermath.site/dr-disrespect-marathon-highguard-sad-old/'
+slug: 2026-02-27-httpsaftermathsitedr-disrespect-marathon-highguard-sad-old
+tags:
+  - gaming
+title: Sad Old Man Publicly Embarrasses Himself (Again) Just To Feel Something
+---
+<figure><figcaption>Dr Disrespect / X </figcaption></figure>
+<p>Today <a href="https://aftermath.site/dr-disrespect-twitch-ban-minor-whisper/"><u>self-admitted minor-messager</u></a> Guy “Dr Disrespect” Beahm tried to pretend he was part of an event for a major multiplayer game launch, only to be slapped down by the game’s developers. This is <a href="https://kotaku.com/drdisrespect-lies-about-being-invited-to-highguard-preview-event-2000663184?ref=aftermath.site"><u>not even the first time</u></a> this has happened this year.</p>
+<p>Beahm, a 43-year-old man who despite his age dresses like a clown and yells at video games for a living, <a href="https://x.com/DrDisrespect/status/2026707147447586823?ref=aftermath.site"><u>posted</u></a> on X The Everything App that he “just finished our photoshoot for tomorrow” and that the ensuing promotional stunt would be “CINEMA,” tagging himself as a #marathonpartner and claiming that he’ll be offering drops during his stream.</p>
+<p>Roughly an hour later, the official <em>Marathon </em>Development Team account swatted him away like a frail, irrelevant gnat, responding to a question about the veracity of Beahm’s claims by <a href="https://x.com/MarathonDevTeam/status/2026723192606454167?ref=aftermath.site"><u>saying</u></a>, “He’s not partnered.”</p>
+<p>The rampant suspicion that met Beahm’s initial post was correct, considering that he attempted to pull a similar – and frankly more brazen – stunt last month ahead of <a href="https://aftermath.site/highguard-studio-developers-laid-off/"><u>notoriously doomed shooter</u></a> <em>Highguard</em>’s launch, going so far as to <a href="https://www.reddit.com/r/HighGuardgame/comments/1qnd1vl/is_dr_disrespects_badge_fake/?ref=aftermath.site"><u>post an image of a fake badge</u></a> for an in-person event he was not invited to. In that case, too, a developer ultimately <a href="https://x.com/thingscp/status/2015884206329463060?ref=aftermath.site"><u>set the record straight</u></a>, though not before some took Beahm’s words at face value and lamented what they considered to be questionable choices on the part of the <em>Highguard </em>studio.</p>
+<p>Now Beahm is acting like getting caught somehow means he pulled a fast one on everybody.</p>
+<p>“This is the industry in 2026,” he <a href="https://x.com/DrDisrespect/status/2026750906465996966?ref=aftermath.site"><u>wrote</u></a>, posting images of <em>Marathon </em>devs and publications calling him on his lie. “These people are actually real and dead serious too. I love it.”</p>
+<p>Understandably perplexed responses from followers only yielded <a href="https://x.com/DrDisrespect/status/2026753296648855742?ref=aftermath.site"><u>further declarations</u></a> that, actually, Beahm was the winner in a game of 12-dimensional chess no one else had any interest in playing.</p>
+<p>It’s clear, of course, that Beahm is attempting to reinsert himself into the headlines, because he has literally nothing else going for him as the clock rapidly ticks down on his empty shell of a life. But even the edgelord crowd that would’ve once appreciated his stunts has moved on to more overtly political (not to mention <a href="https://www.theguardian.com/us-news/2025/oct/31/conservative-reaction-tucker-carlson-nick-fuentes-interview?ref=aftermath.site"><u>heinously noxious</u></a>) figures like Asmongold and Nick Fuentes or the <a href="https://howtodothingswithmemes.substack.com/p/clavicular-and-contentmaxxing?ref=aftermath.site"><u>nihilistically vapid</u></a> yet bizarrely compelling antics of (still <a href="https://howtodothingswithmemes.substack.com/p/clavicular-and-fuentes?ref=aftermath.site"><u>very much right-leaning</u></a>) looksmaxxers like Clavicular. Beahm no longer represents an extreme; on today’s internet, he’s bog standard.</p>
+<p>Bereft of the mainstream clout he managed to amass before the scandal that sunk him, all he can do now is flail and wail like a lonely child and hope that someone cares. But they won’t – at least, not in any lasting sense. To the extent that it ever wasn’t, public embarrassment is the only tool Beahm has left. It’s 2026, and the world he helped create by being a massive piece of shit has passed him by. Soon, it will forget him entirely.</p>
+<h2>Recommended</h2>
