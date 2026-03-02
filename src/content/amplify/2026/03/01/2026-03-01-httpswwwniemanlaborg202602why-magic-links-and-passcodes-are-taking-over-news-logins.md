@@ -1,0 +1,33 @@
+---
+author: Joshua Benton
+cover_image: 'https://www.niemanlab.org/images/magic-link-signin.jpg'
+date: '2026-03-02T03:28:34.210Z'
+dateFolder: 2026/03/01
+description: >-
+  "This is really useful for small publishers who have no business wanting to
+  store a whole bunch of random passwords."
+isBasedOn: >-
+  https://www.niemanlab.org/2026/02/why-magic-links-and-passcodes-are-taking-over-news-logins/
+link: >-
+  https://www.niemanlab.org/2026/02/why-magic-links-and-passcodes-are-taking-over-news-logins/
+slug: >-
+  2026-03-01-httpswwwniemanlaborg202602why-magic-links-and-passcodes-are-taking-over-news-logins
+tags:
+  - media
+title: Why “magic links” and passcodes are taking over news logins
+---
+<figure><img alt="" sizes="(min-width: 600px) 700px, 100vw" src="https://www.niemanlab.org/images/magic-link-signin.jpg" srcset="https://www.niemanlab.org/images/magic-link-signin.jpg 700w, https://www.niemanlab.org/images/magic-link-signin-480x278.jpg 480w, https://www.niemanlab.org/images/magic-link-signin-600x348.jpg 600w"/></figure>
+<p>“This is really useful for small publishers who have no business wanting to store a whole bunch of random passwords.”</p>
+<p>I grew up in India, which is increasingly a country that runs on OTPs, or one-time passcodes. I bump into them everywhere each time I visit: When trying to connect to airport WiFi, getting into an Uber, or accessing a digital menu at a cafe. But lately, if I’m homesick, I’ve found a way of replicating that particular experience that doesn’t require getting on a flight. All I have to do is try to get the news.</p>
+<p>If you’ve tried logging into a news site recently — especially if it’s a small outlet, like a <a href="https://www.niemanlab.org/2026/02/journalism-coops-seem-utopian-whats-it-like-working-in-one/">news coop</a> or an independent newsletter — there’s a good chance that instead of entering a password you’ve been asked to open your email inbox and find a passcode or “magic link” to sign in with. While some platforms, like Substack and Beehiiv, do offer users the option to stick to the good old username and password, others, like Ghost, offer only an email-based login.</p>
+<p>It’s an extra step that we here at Nieman Lab have been lamenting in part because it makes sharing a single subscription among a small number of people (sorry, publishers!). It’s like Netflix’s <a href="https://aftermath.site/netflix-password-sharing/">password-sharing crackdown</a>, but with less fanfare. But is it more convenient for publishers?</p>
+<p>In a word, yes. 404 Media <a href="https://www.404media.co/we-dont-want-your-password-3/">wrote about this</a> back in 2024, after they received similar complaints from their users. 404 Media runs on Ghost, and as Ghost CEO John O’Nolan told them, “Passwords get hacked all the time, but they can’t be hacked if they don’t exist…this allows a small team like 404 to spend less time managing security administration, and more time investing in bringing you stories you care about.”</p>
+<p>“This is really useful for small publishers who have no business wanting to store a whole bunch of random passwords,” <a href="https://erniesmith.net/">Ernie Smith</a>, editor of the newsletter <a href="https://tedium.co">Tedium</a>, told me. Lots of people have poor password hygiene and reuse passwords across all kinds of sites; small publishers (and startup CMS providers) would have to invest significant time and resources to maintain security infrastructure so that they don’t get hacked and accidentally reveal personal information or a password that their customers might have used to access both the news and, say, their bank. Last December, for example, a hacker <a href="https://databreaches.net/2025/12/25/conde-nast-gets-hacked-and-databreaches-gets-played-christmas-lump-of-coal-edition/">published the user data</a> — including full names and physical addresses — of 2.3 million Wired subscribers and claimed to have the records of another 40 million subscribers from across Condé Nast. (The company did not respond to a request for comment in time for publication.)</p>
+<p>But Smith and <a href="https://x.com/denk_tweets">Tyler Denk</a>, CEO of <a href="https://www.beehiiv.com">Beehiiv</a>, made another case too: Magic links might actually be <em>more</em> convenient for users, not less. “I think it’s mostly due to password fatigue and people preferring a simple click versus having to create yet another account and password to keep track of,” Denk told me in an email. “I personally prefer magic link, as do I think many others. But obviously it’s not for everyone.”</p>
+<p>The argument is that magic links make signing up for a news site easier for an average user who doesn’t rely on a password manager. Instead of making them come up with a new password, they can simply enter their email address and, ideally, their billing details, and continue on to the site.</p>
+<p>Many publishers, like Condé Nast, are also moving toward <a href="https://www.wired.com/story/what-is-a-passkey-and-how-to-use-them/">passkeys</a>, which have long been touted as the more secure replacement for passwords. Ricky Mondello, an engineer who works on authentication technologies like passkeys and passwords, <a href="https://rmondello.com/2025/01/02/magic-links-and-passkeys/#fnref:1">argued</a> last year that passkeys can help smooth over the rough edges of magic links so that users don’t have to keep opening their email to access sites and can have their password managers sign in for them with a passkey instead.</p>
+<p>As for Nieman Lab’s particular predicament, of wanting to share a single subscription across the entire newsroom?</p>
+<p>“I’m sure media outlets would love you to subscribe to the family plan,” Smith said. But he also pointed out that back in the days of print, a newsroom would just receive a single copy of a magazine or newspaper that would then be passed around to whomever wanted to read it.</p>
+<p>“There probably just needs to be a more thoughtful discussion on how we handle this for newsrooms,” Smith continued. “Passwords are a real mess, but I’m willing to give more grace to small publishers that are using things like Ghost than I am to media conglomerates with giant buildings (and similarly large security teams) like The New York Times or Condé Nast.”</p>
+<p><a href="https://www.niemanlab.org/author/ndhanesha">Neel Dhanesha</a> is a staff writer at Nieman Lab. You can reach Neel via <a href="mailto:neel_dhanesha@harvard.edu">email</a> (neel_dhanesha@harvard.edu), <a href="https://bsky.app/profile/neeldhanesha.com">Bluesky</a> (@neeldhanesha.com), or Signal (@neel.58).</p>
+<p>Show tags</p>
