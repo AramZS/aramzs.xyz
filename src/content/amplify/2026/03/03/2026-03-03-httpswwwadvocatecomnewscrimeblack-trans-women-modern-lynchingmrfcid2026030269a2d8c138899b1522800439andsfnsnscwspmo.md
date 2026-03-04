@@ -1,0 +1,50 @@
+---
+author: 'https://www.facebook.com/6030918854'
+cover_image: >-
+  https://www.advocate.com/media-library/statues-with-hands-raised-encased-in-concrete-at-the-national-memorial-for-peace-and-justice.jpg?id=65104444&width=1200&height=600&coordinates=0%2C39%2C0%2C39
+date: '2026-03-03T13:41:09.455Z'
+dateFolder: 2026/03/03
+description: >-
+  Jill Collen Jefferson, the founder of JULIAN, explains what happens when a
+  transgender woman’s death is ruled a suicide and a community calls it
+  something else.
+isBasedOn: >-
+  https://www.advocate.com/news/crime/black-trans-women-modern-lynching?mrfcid=2026030269a2d8c138899b1522800439&sfnsn=scwspmo
+link: >-
+  https://www.advocate.com/news/crime/black-trans-women-modern-lynching?mrfcid=2026030269a2d8c138899b1522800439&sfnsn=scwspmo
+slug: >-
+  2026-03-03-httpswwwadvocatecomnewscrimeblack-trans-women-modern-lynchingmrfcid2026030269a2d8c138899b1522800439andsfnsnscwspmo
+tags:
+  - race
+  - lgbtq+
+  - trans rights
+  - law and order
+title: >-
+  Many alleged suicides of Black trans women are in fact modern-day lynchings,
+  report finds
+---
+<figure><img alt="statues with hands raised encased in concrete at the national memorial for peace and justice" src="https://www.advocate.com/media-library/statues-with-hands-raised-encased-in-concrete-at-the-national-memorial-for-peace-and-justice.jpg?id=65104444&amp;width=1245&amp;height=700&amp;quality=65&amp;coordinates=0%2C0%2C0%2C0"/><figcaption>The National Memorial for Peace and Justice in Montgomery, Alabama, documents and memorializes the more than 4400 victims of racial lynchings that occurred in the United States from 1877 to 1950.</figcaption></figure>
+<p>A new report is raising questions about how law enforcement agencies across the South classify the deaths of <a href="https://www.advocate.com/transgender">transgender</a> women, arguing that some cases ruled suicides may warrant deeper scrutiny.</p>
+<p>The story, in too many Southern towns, begins with speed.</p>
+<p>A body is found. Authorities announce no foul play. A ruling is entered. The case, advocates argue, was closed before it was ever truly opened.</p>
+<p>Jill Collen Jefferson has spent years in the gap between what official records say and what families believe happened. The founder of social justice organization JULIAN, she has reviewed hundreds of deaths across seven Southern states, and her conclusion is unsparing: a pattern of deliberate misclassification is concealing bias-motivated killings of <a href="https://www.advocate.com/transgender">transgender</a> women. These killings, she argues, are, by any honest accounting, modern-day lynchings.</p>
+<p>JULIAN’s <a href="https://drive.google.com/file/d/1twIekbOTlto0wEtY0uAL_0IW__VV1Ity/view">new</a>, “A Crimson Record: Seven State Modern-Day Lynching Report 2000–2025,” catalogs more than 150 deaths across <a href="https://www.advocate.com/mississippi">Mississippi</a>, <a href="https://www.advocate.com/texas">Texas</a>, <a href="https://www.advocate.com/georgia">Georgia</a>, <a href="https://www.advocate.com/louisiana">Louisiana</a>, <a href="https://www.advocate.com/florida">Florida</a>, <a href="https://www.advocate.com/tennessee">Tennessee</a>, and <a href="https://www.advocate.com/alabama">Alabama</a>. More than 50, or roughly one-third of the cases, involve <a href="https://www.advocate.com/transgender">transgender</a> women.</p>
+<p> Modern-day lynchings, hate crimes, and suspicious deaths, compiled by JULIAN. Red: MDLs—Modern Day Lynchings| Blue: NHC&amp;SD—Notable Hate Crimes &amp; Suspicious DeathsJULIAN</p>
+<p>That proportion stands out when placed against federal hate crime data. <a href="https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/hate-crime%5C">According to</a> the FBI’s Crime Data Explorer, there have been 2,726 anti-transgender hate crime incidents nationwide from January 2000 through February 2026, totaling 3,076 offenses. LGBTQ+ victims overall account for roughly 17 percent of reported hate crime victims nationally. Jefferson argues that transgender women’s overrepresentation in her Southern dataset reflects the intersection of racism and transphobia in regions historically shaped by racial terror.</p>
+<p>Even those federal figures come with caveats. Hate crime reporting is voluntary under the FBI’s Uniform Crime Reporting Program, and participation varies by agency. The result is a statistical landscape that is both incomplete and periodically paused.</p>
+<p>Jefferson contends that what cannot be fully counted can be more easily dismissed.</p>
+<p><strong>Related</strong>: <a href="https://www.advocate.com/news/brianna-keilar-sebastian-gorka-transgender">CNN anchor embarrasses White House counterterrorism chief over false transgender mass shooter stats</a></p>
+<p>The mechanisms she describes are bureaucratic as much as they are violent: crime scenes left unsecured, witnesses uninterviewed for days, cause of death determinations entered before investigators have spoken to anyone in the house.</p>
+<p>In one case, that of Willie Andrew Jones Jr., the first case JULIAN says it helped solve, authorities ruled the death a suicide within 40 minutes of arriving on the scene. “They didn’t interview the people who were in the house that night until four days later,” Jefferson said. “So they had four whole days to get their story together.”</p>
+<p>During the Reconstruction era <a href="https://www.womenshistory.org/education-resources/biographies/ida-b-wells-barnett">documented by journalist Ida B. Wells</a>, lynchings were routinely recorded as suicides, a designation, Jefferson said, that shielded perpetrators and neutralized outrage. Jefferson argues the reflex persists, adapted to contemporary conditions.</p>
+<p>“Back in the day, a lynching was called a suicide with a wink and a smile,” she said. “In the present day, they’re still called suicides. But now people take that seriously.” What makes these cases particularly resistant to justice, she argues, is structural. “Lynchings are different than other hate crimes in that you have to disprove one thing before you can actually prove what it is,” Jefferson said.</p>
+<p>She explained that a family cannot argue bias until they have first overturned an existing official classification; a high bar, made higher by the investigative failures that produced the classification in the first place. “It’s like taking a bad photograph,” Jefferson said, recounting what an FBI agent once told her. “If you mess it up in the beginning, there’s really no way to go back and fix it.”</p>
+<p>The landscape these claims enter is genuinely complicated. A 2025 commentary in Mental Health Science by researchers at George Washington University found that 59 percent of Black transgender and <a href="https://www.advocate.com/nonbinary">nonbinary</a> youth reported active suicidal ideation in 2023, and 26 percent reported a past-year attempt — rates significantly higher than among their cisgender Black LGBTQ+ peers. The authors link these disparities to compounding stressors like racism, discrimination, anti-LGBTQ+ legislation, violence, and inadequate mental health infrastructure for this population.</p>
+<p>Jefferson does not dispute any of that. Her argument is narrower: that documented vulnerability should not be used as a substitute for actual investigation. “You still have the situation where there is this deliberate effort to find another reason, other than the obvious reason that’s right in front of you, to name this something else” — gang activity, robbery, in some cases, erotic asphyxiation. The alternative explanation changes; the function, she argues, remains the same.</p>
+<p><strong>Related</strong>: <a href="https://www.advocate.com/crime/transgender-hate-crimes-visibility">With visibility comes violence: Increased awareness of transgender people leads to more hate crimes</a></p>
+<p><strong>Related</strong>: <a href="https://www.advocate.com/news/transgender-violence-erasure-report">A devastating reality: New report finds violence and erasure ahead of Transgender Day of Remembrance</a></p>
+<p>Jefferson describes a spectrum of institutional failure across the cases she has reviewed: incompetence at the scene, indifference at the precinct, and, at the prosecutorial level, what she characterizes as harder to excuse.</p>
+<p>“I have sat with DAs,” she said, “and I’ve given them evidence that shows this was not a suicide, this was a lynching, and they will still refuse to press charges.”</p>
+<p>Her policy prescriptions are specific. She wants the Emmett Till Anti-Lynching Act amended to create a separate federal cause of action for lynching, with life imprisonment as a potential penalty. She wants independent federal prosecutors assigned to these cases, removing them from local authorities, whom she argues are compromised by community relationships and personal bias. And she points to the qualification standards for coroners in states like Mississippi — a high school diploma and a passed test — as a systemic vulnerability that no one has adequately addressed.</p>
+<p>“I could be a coroner right now,” she said, “and I have absolutely no medical training.”</p>
+<p><em>If you or someone you know needs mental health resources and support, please call, text, or chat with the 988 Suicide &amp; Crisis Lifeline or visit</em><a href="https://www.988lifeline.org/"> <u><em>988lifeline.org</em></u></a><em> for 24/7 access to free and confidential services. </em><em>Trans Lifeline, designed for <a href="https://www.advocate.com/transgender">transgender</a> or gender-nonconforming people, can be reached at (877) 565-8860. The lifeline also provides resources to help with other crises, such as domestic violence situations. The Trevor Project Lifeline, for LGBTQ+ youth (ages 24 and younger), can be reached at (866) 488-7386. Users can also access chat services at </em><a href="https://www.thetrevorproject.org/Help"><em>TheTrevorProject.org/Help</em></a><em> or text START to 678678.</em></p>
