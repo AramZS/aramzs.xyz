@@ -1,0 +1,30 @@
+---
+author: Joe Wilkins Published Mar 7
+cover_image: >-
+  https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=1200
+date: '2026-03-07T23:21:44.036Z'
+dateFolder: 2026/03/07
+description: >-
+  Google's AI overviews have eviscerated the media landscape, with some top
+  publications losing up to 97 percent of their web traffic.
+isBasedOn: 'https://futurism.com/artificial-intelligence/google-ai-overviews-media'
+link: 'https://futurism.com/artificial-intelligence/google-ai-overviews-media'
+slug: 2026-03-07-httpsfuturismcomartificial-intelligencegoogle-ai-overviews-media
+tags:
+  - ai
+  - seo
+  - media
+title: Evidence Grows That Google’s AI Overviews Have Eviscerated the Media Industry
+---
+<figure><img alt="A fiery volcanic landscape at sunset with molten lava and smoke. In the center, a large flaming meteor with the Google logo on it is falling toward the ground. Two smaller meteors are also visible in the sky. The scene is dominated by intense red, orange, and black colors." sizes="(max-width: 1152px) 100vw, 1152px" src="https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=1152&amp;h=768" srcset="https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=280&amp;h=187 280w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=289&amp;h=193 289w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=300&amp;h=200 300w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=308&amp;h=205 308w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=324&amp;h=216 324w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=370&amp;h=247 370w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=580&amp;h=387 580w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=594&amp;h=396 594w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=600&amp;h=400 600w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=660&amp;h=440 660w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=768&amp;h=512 768w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=1024&amp;h=683 1024w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=1041&amp;h=694 1041w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=1128&amp;h=752 1128w, https://futurism.com/wp-content/uploads/2026/03/google-ai-overviews-media.jpg?w=1152&amp;h=768 1152w"/><figcaption>Illustration by Tag Hartman-Simkins / Futurism. Source: Getty Images</figcaption></figure>
+<p>Media workers aren’t so much being replaced by AI systems as fed to one: Google’s gluttonous AI Overviews, which summarize articles and present them to users in one easy-to-read digest.</p>
+<p>But while users might be shaving precious seconds from their queries, online media publications are being roiled by the massive drop-off in clicks. That web traffic, SEO firm <a href="https://growtika.com/blog/tech-media-collapse">Growtika found</a>, has dropped off significantly following the advent of Google’s AI Overviews.</p>
+<p>The firm looked at data from Ahrefs tracking web traffic to 10 major tech outlets from early 2024 to early 2026. At their peak, the media companies brought in 112 million site visits per month from Google users in the US. By January of this year, that number was down to a little under 50 million — with some outlets losing over 90 percent of their traffic since the new feature rolled out.</p>
+<p>While some publications fared much worse than others, none of them are thriving. <em>Mashable</em> fared the best, losing a grim 30 percent of its web traffic between its peak and January 2026. That’s a lot, but it’s nothing compared to <em>Wired</em>, which lost 62 percent of its traffic, or the cluster of outlets including <em>HowToGeek</em>, <em>The Verge</em>, and <em>ZDNet</em>, which each lost over 85 percent of their web traffic over the two year period.</p>
+<p>And the real sob story is tech outlet <em>Digital Trends</em>, which went from 8.5 million clicks a month in March 2024 to a heartbreaking 264,861 in January 2026. That’s an astonishing decline — a drop-off of 97 percent of US web traffic from Google.</p>
+<p>As Growtika observed, the four worst-hit publications get less monthly web traffic combined than the r/ChatGPT subreddit gets on its own.</p>
+<p>Though Growtika holds that it can’t prove causation from traffic data on its own, it theorizes that the disruption is due to three combined issues: Google’s AI Overviews, which his in mid-2024; a bump in the algorithm that boosts Reddit to the top of the charts; and the growing number of AI chatbot users who eschew Google entirely.</p>
+<p>Crucially, the hardest hits came in mid-2025, when Google expanded its AI Overviews system to cover a much more expansive range of queries. In July of last year, the feature’s visibility peaked, with some <a href="https://searchengineland.com/google-ai-overviews-surge-pullback-data-466314">25 percent of all Google searches</a> triggering an automatic summary.</p>
+<p>In an email response to <em>Futurism</em>, a Google spokesperson called the Growtika analysis “fundamentally flawed.”</p>
+<p>“It looked at a very small number of sites and failed to control for normal seasonal shifts. More importantly, it doesn’t take into account how people’s content preferences are shifting towards different types of formats, like podcasts and forums,” the spokesperson said. “As the tech and media landscape evolves, we’re designing our products to help people connect with sites and creators they value.”</p>
+<p>For the media industry, this is far from just a small tweak to Google’s <a href="https://medium.com/@michaelswengel/google-is-a-fickle-beast-8caf734491d6">notoriously fickle</a> search algorithm. It represents a completely different landscape — and a radical change to the mediasphere that leaves all of us less informed.</p>
