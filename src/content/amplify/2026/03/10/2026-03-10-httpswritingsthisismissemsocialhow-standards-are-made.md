@@ -1,0 +1,42 @@
+---
+author: Emelia Smith
+cover_image: 'https://static.ghost.org/v5.0.0/images/publication-cover.jpg'
+date: '2026-03-10T04:55:38.340Z'
+dateFolder: 2026/03/10
+description: >-
+  Recently I received a large grant from Bluesky Social PBC to fund my work on
+  FedCM for decentralized web. So whilst the response has been overwhelmingly
+  positive, there's currently a tiny tiny percentage of people in my mentions on
+  the fediverse right now that are accusing me of horrible things
+isBasedOn: 'https://writings.thisismissem.social/how-standards-are-made/'
+link: 'https://writings.thisismissem.social/how-standards-are-made/'
+slug: 2026-03-10-httpswritingsthisismissemsocialhow-standards-are-made
+tags:
+  - tech
+title: How Standards Are Made
+---
+<p>Recently I <a href="https://atproto.com/blog/working-to-decentralize-fedcm?ref=writings.thisismissem.social">received a large grant</a> from <a href="https://blueskyweb.xyz/?ref=writings.thisismissem.social">Bluesky Social PBC</a> to fund my work on <a href="https://github.com/w3c-fedid/FedCM?ref=writings.thisismissem.social">FedCM</a> for decentralized web. So whilst the response has been overwhelmingly positive, there's currently a tiny tiny percentage of people in my mentions on the fediverse right now that are accusing me of horrible things because they don't like Bluesky and the fact that I've taken money from them.</p>
+<p>For these people, I'm not saying you have to like Bluesky's moderation practices or the decision they make for their own app, I would never say such. However, we do need to understand the pragmatism in getting funding for doing good work.</p>
+<p>These people fundamentally do not get standards, and especially web standards, and how they are made. So here's a small explanation for people.</p>
+<p>In the standards community, there's practically a code that we do not argue about our employers or financial supporters' corporate or political positions, we leave our companies at the door when we participate in writing open standards.</p>
+<p>Sure, some of us my represent our given employers within the standards community (and there's a requirement to disclose affiliations), but there's also a bunch of us that operate entirely independently.</p>
+<p>At the W3C, which is the home of the FedCM standard, they have what are known as Invited Experts, and the W3C enforces that they act independently and that they disclose any affiliation, especially financial.</p>
+<p>I am an Invited Expert at the FedID Working Group in the W3C, who are responsible for FedCM. That happened before Bluesky decided to fund my work. Bluesky, like them or not, are one of the few organizations that actually has the capital to fund standards work. Doing this work isn't cheap either! It's a tonne of work seeking consensus and reaching agreement to move things forwards, and consume a lot of time.</p>
+<blockquote><strong>Like, I'm current budgeting 30-50% of my productive time over the next year will be working on this standard.</strong></blockquote>
+<p>When I first talked with Bluesky about FedCM, they were initially like "we want to do a three month freelance contract to implement FedCM for AT Protocol", and after some conversation, we simultaneously settled on "no, this shouldn't be a contract but a grant instead. That allows you to be completely independent of Bluesky, and explicitly enables you to work across decentralized protocols, making FedCM better for everyone".</p>
+<p>The grant is explicitly clear contractually that I am entirely independent from Bluesky. Like, I could make a technical decision that Bluesky do not like (unlikely, but <em>possible</em>), and it would not affect the grant. In my work within the standard process, I exercise independent judgment in all working group proceedings, per the <a href="https://www.w3.org/invited-experts/?ref=writings.thisismissem.social">W3C Invited Experts</a> program and <a href="https://www.w3.org/policies/process/?ref=writings.thisismissem.social#invited-expert-wg">W3C Process Document</a>.</p>
+<p>The grant also contractually explicitly requires me to work across protocols, it says:</p>
+<blockquote>Grant Recipient shall serve as a liaison between the FedID WG and communities that share concerns related to decentralized, federated, and user-controlled identity. These include communities working on IndieAuth, Solid, and AT Protocol, as well as other groups whose work intersects with federated and decentralized identity.</blockquote>
+<p>Standards work is about coming together and working on reaching a shared consensus on a thing. We don't do corporate politics, or governmental politics, at standards meetings or standards venues. We leave that at the door. We are only there to advance the standards.</p>
+<p>Sure, you can disagree on things outside of the standards world, but within it, the only thing that matters is advancing the standards and building consensus.</p>
+<p>For example, when running the <a href="https://github.com/swicg/activitypub-trust-and-safety?ref=writings.thisismissem.social">ActivityPub Trust and Safety taskforce</a>, we had Meta employees show up to some of our meetings, and they were genuinely helpful (for instane, volunteering to scribe the meeting, which is like one of the hardest jobs to fill at a standards meeting), and when they joined I had to repeat that golden rule of standards work: we leave corporate politics and our company's at the door. This isn't the venue through which to vent about Meta's policies or politics.</p>
+<p>We did have one or two people annoyed that Meta were present, but luckily I didn't have to explicitly tell anyone to follow the <a href="https://www.w3.org/policies/code-of-conduct/?ref=writings.thisismissem.social">W3C code of conduct</a> which governs those meetings.</p>
+<p><strong>Standards work is truly a bit weird like that.</strong> It takes a lot of discipline to separate out those things <a href="https://www.severance.wiki/innies_and_outies?ref=writings.thisismissem.social">severance style</a>: an innie and an outie with regards to the standards work. Your inner works on the standards, your outie is you outside of the standards work.</p>
+<p>Finally, we live under capitalism, or at least the vast majority of us do <em>(it's always interesting when someone from the CCP shows up at a standards meeting!)</em>, and living under capitalism means everything revolves around money.</p>
+<p>W3C membership ain't cheap: <a href="https://www.w3.org/Consortium/fees?countryCode=DE&amp;quarter=01-01&amp;year=2026&amp;ref=writings.thisismissem.social#results?Germany">membership fees</a> start at like €2,000 and go up to €68,000 for larger organisations. Yeah, it usually costs a lot of money to participate in the standards that govern this open web of ours.</p>
+<p>As an Invited Expert, I'm allowed to participate without paying the W3C membership fees. However, I still need to be paid for my time, because time equals money under capitalism for 99% of us. I have rent to pay, food to buy and taxes to be taxed.</p>
+<p>Bluesky stepping up to fund this work is a genuinely good thing, regardless of what you may think of Bluesky as a company or as a social app. Bluesky really made a solid choice in funding this work in a way that guaranteed my independence from them.</p>
+<p>There weren't really any other companies with an interest in decentralized social that could fund work at this scale. An NLNet grant probably wouldn't be workable for this, and those happen at a much slower pace — the FIRES grant took a year from submission to signed memorandum of understanding; The Bluesky grant took about a month: January 27th 2026 to signed March 5th 2026.</p>
+<p>Anyway, hopefully that gives you a better idea of how standards are built and funded.</p>
+<figure><img alt="Node.js LGBTQIA+ Stories: Emelia Smith, above there is the Node.js logo in white." sizes="320px" src="https://writings.thisismissem.social/content/images/size/w2000/format/webp/2025/08/Screenshot-2025-08-11-at-04.55.32.png" srcset="https://writings.thisismissem.social/content/images/size/w160/format/webp/2025/08/Screenshot-2025-08-11-at-04.55.32.png 160w,
+"/><figcaption><a href="https://writings.thisismissem.social/node-js-lgbtqia-stories/">Node.js LGBTQIA+ Stories: Emelia Smith This post was originally written for the Node.js blog for their LGBTQIA+ Stories feature during Pride in 2025. By Emelia Smith 11 Aug 2025</a></figcaption></figure>

@@ -1,0 +1,28 @@
+---
+author: Sean Tilley
+cover_image: >-
+  https://i0.wp.com/wedistribute.org/wp-content/uploads/2026/02/e2ee-encryption.png?fit=780%2C470&ssl=1
+date: '2026-03-10T05:08:28.084Z'
+dateFolder: 2026/03/10
+description: >-
+  One of the Social Web Foundation's initiatives for improving ActivityPub will
+  soon be a reality for the network.
+isBasedOn: 'https://wedistribute.org/2026/02/fediverse-e2ee-coming/'
+link: 'https://wedistribute.org/2026/02/fediverse-e2ee-coming/'
+slug: 2026-03-10-httpswedistributeorg202602fediverse-e2ee-coming
+tags:
+  - tech
+  - distribution
+  - social media
+title: Federated End-to-End Encrypted Messaging is Coming Soon
+---
+<figure><img alt="" data-attachment-id="162631" data-comments-opened="1" data-image-caption="" data-image-description="" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="e2ee-encryption" data-large-file="https://i0.wp.com/wedistribute.org/wp-content/uploads/2026/02/e2ee-encryption.png?fit=780%2C470&amp;ssl=1" data-main-img="1" data-medium-file="https://i0.wp.com/wedistribute.org/wp-content/uploads/2026/02/e2ee-encryption.png?fit=300%2C181&amp;ssl=1" data-orig-file="https://i0.wp.com/wedistribute.org/wp-content/uploads/2026/02/e2ee-encryption.png?fit=780%2C470&amp;ssl=1" data-orig-size="780,470" data-permalink="https://wedistribute.org/2026/02/fediverse-e2ee-coming/e2ee-encryption/" sizes="(max-width: 780px) 100vw, 780px" src="https://i0.wp.com/wedistribute.org/wp-content/uploads/2026/02/e2ee-encryption.png?w=780&amp;ssl=1" srcset="https://i0.wp.com/wedistribute.org/wp-content/uploads/2026/02/e2ee-encryption.png?w=780&amp;ssl=1 780w, https://i0.wp.com/wedistribute.org/wp-content/uploads/2026/02/e2ee-encryption.png?resize=300%2C181&amp;ssl=1 300w, https://i0.wp.com/wedistribute.org/wp-content/uploads/2026/02/e2ee-encryption.png?resize=768%2C463&amp;ssl=1 768w, https://i0.wp.com/wedistribute.org/wp-content/uploads/2026/02/e2ee-encryption.png?resize=150%2C90&amp;ssl=1 150w"/></figure>
+<p>Support for end-to-end encrypted messaging in ActivityPub has been stated as <a data-id="https://socialwebfoundation.org/program-protocol-e2ee/" data-type="link" href="https://socialwebfoundation.org/program-protocol-e2ee/">a long-term goal</a> by the <a data-id="https://socialwebfoundation.org/" data-type="link" href="https://socialwebfoundation.org/">Social Web Foundation</a>, but the network might be gaining support for it sooner than anyone expected. <a href="https://benpate.dev/@ben">Ben Pate</a>, the lead dev of <a data-id="https://emissary.dev/" data-type="link" href="https://emissary.dev/">Emissary</a>, posted to the network earlier this week:</p>
+<blockquote> <p>Since January, <a href="https://bonfirenetworks.org">Bonfire</a> and <a href="https://emissary.dev">Emissary</a> have been working on true E2EE in ActivityPub, using the <a href="https://swicg.github.io/activitypub-e2ee/mls">MLS protocol</a> — which is a successor to Signal protocol with better support for very large groups.</p> <p>Anyway, here’s today’s progress video of where I am. Here’s what works: exchanging public keys, creating groups, sending/receiving messages and replies, and realtime notifications.</p> <p>There’s a lot more to do. We’re planning on general availability in June, so right now we’re about 1/3 of the way into the project.</p> </blockquote>
+<p>Funding for this feature <a data-id="https://www.sovereign.tech/tech/activity-pub" data-type="link" href="https://www.sovereign.tech/tech/activity-pub">was secured through</a> the <a data-id="https://www.sovereign.tech/" data-type="link" href="https://www.sovereign.tech/">Sovereign Tech Fund</a>, with leadership provided by the Social Web Foundation. Emissary and Bonfire <a data-id="https://github.com/swicg/activitypub-e2ee/issues" data-type="link" href="https://github.com/swicg/activitypub-e2ee/issues">are both working on this project</a>, and are due to provide deliverables by June 2026. The result of this work will eventually provide a clear standard in a future version of the ActivityPub protocol spec. A December 2025 draft of the existing spec can be read <a data-id="https://swicg.github.io/activitypub-e2ee/mls.html" data-type="link" href="https://swicg.github.io/activitypub-e2ee/mls.html">here</a>.</p>
+<h2>A Quick Demo</h2>
+<p>Ben was nice enough to record a quick demo for people to get a visual representation of where things are currently, and what support for encrypted messaging looks like.</p>
+<figure><details> <summary>Error details</summary> </details></figure>
+<h2>What’s Next?</h2>
+<p>For now, implementers are working hard to iron out wrinkles and resolve outstanding points of ambiguity. The demo above already showcases a working product, although a number of client-side bells and whistles could be added for things like read receipts, native support for different content types, and autocomplete for looking up contacts.</p>
+<p>The spec currently appears to propose an idea that client implementers could leverage end-to-end encryption through a future version of the <a data-id="https://www.w3.org/TR/activitypub/#client-to-server-interactions" data-type="link" href="https://www.w3.org/TR/activitypub/#client-to-server-interactions">ActivityPub API</a>. While the proposal spec is relatively fleshed-out, it would benefit greatly from <a data-id="https://github.com/swicg/activitypub-e2ee/issues" data-type="link" href="https://github.com/swicg/activitypub-e2ee/issues">community feedback</a>.</p>
