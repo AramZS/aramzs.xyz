@@ -1,0 +1,30 @@
+---
+author: Talib Visram
+cover_image: >-
+  https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit/wp-cms-2/2026/03/p-2-91502944-the-onion-most-innovative-companies-2026-ben-collins-jeff-lawson-print-media.jpg
+date: '2026-03-24T15:34:36.630Z'
+dateFolder: 2026/03/24
+description: >-
+  The Onion is proving that print isn’t dead. CEO Ben Collins and cofounder Jeff
+  Lawson describe the publication's very good year.
+isBasedOn: >-
+  https://www.fastcompany.com/91502944/the-onion-most-innovative-companies-2026-ben-collins-jeff-lawson-print-media
+link: >-
+  https://www.fastcompany.com/91502944/the-onion-most-innovative-companies-2026-ben-collins-jeff-lawson-print-media
+slug: >-
+  2026-03-24-httpswwwfastcompanycom91502944the-onion-most-innovative-companies-2026-ben-collins-jeff-lawson-print-media
+tags:
+  - media
+title: The Onion had a very good year
+---
+<figure><img alt="The Onion had a very good year" data-nimg="1" src="https://images.fastcompany.com/image/upload/f_webp,c_fit,w_1920,q_auto/wp-cms-2/2026/03/p-1-91502944-the-onion-most-innovative-companies-2026-ben-collins-jeff-lawson-print-media.jpg"/></figure>
+<p>Today, the grim mantra that “print is dead” seems all but a given. <em>The Onion</em> begs to differ.</p>
+<p>The 38-year-old <a href="https://theonion.com/">satirical news publication</a>, wrested from the grips of private equity in 2024 by a group including Twilio cofounder Jeff Lawson and former <em>NBC News</em> disinformation reporter <a href="https://www.fastcompany.com/91126211/the-onion-ceo-ben-collins-jeff-lawson-nbc-news-elon-musk">Ben Collins</a>, has built an audience of 29.5 million. And it’s the print version, not the site, that’s driving business.</p>
+<p>With 65,000 paying print subscribers, in 50 states and 50 countries, <em>The Onion</em> is, by some estimates, the country’s 12th-largest print newspaper, above <em>The Boston Globe</em>. Overall annual revenue grew 300% in 2025.</p>
+<figure><img alt="" sizes="(max-width: 600px) 100vw, (max-width: 1023px) calc(100vw - 160px), 600px" src="https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/03/i-1-91502944-the-onion-most-innovative-companies-2026-ben-collins-jeff-lawson-print-media.jpg"/><figcaption><strong>Robin</strong> checks colors on a print with his loupe [Photo: <a href="https://www.instagram.com/evanpjenkins">Evan Jenkins</a>]</figcaption></figure>
+<p>Nostalgic Gen Xers and millennials giddily pay $99 a year. “They realize they’re subsidizing very big stunts,” CEO Collins says. “They’re in on the bit.” Those capers include turning a joke headline into a feature-length documentary—<em>Jeffrey Epstein: Bad Pedophile</em>—in less than three months; an <a href="https://www.fastcompany.com/91244805/onions-winning-bid-alex-jones-infowars-rejected-judge-heres-why">ongoing plot</a> to buy Alex Jones’s <em>Infowars</em>; and a spoof of Jubilee Media’s YouTube political-debate smackdown show <em>Surrounded</em>, called Encircled.</p>
+<figure><img alt="" sizes="(max-width: 600px) 100vw, (max-width: 1023px) calc(100vw - 160px), 600px" src="https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/03/i-2-91502944-the-onion-most-innovative-companies-2026-ben-collins-jeff-lawson-print-media.jpg"/><figcaption><strong>Robin </strong>watches final folded newspapers come off the pressbefore they are stacked and folded. [Photo: <a href="https://www.instagram.com/evanpjenkins">Evan Jenkins</a>]</figcaption></figure>
+<p>Lawson is hands-off by choice, focusing instead on his day job as CEO of Inertia, a fusion energy company. “I am not <a href="https://www.fastcompany.com/91298021/saving-the-onion-an-extremely-brief-oral-history">doing this</a> to flip <em>The Onion</em> to make a buck. I want to own it for the rest of my life,” he says. While some media conglomerates chase the next M&amp;A deal or curry favor with Trump, the focus of his “fake” paper is, ironically, to tell the truth. “How about the age-old strategy of: Write shit your readers want to read? And if you do a good job, they pay you.”</p>
+<figure><img alt="" sizes="(max-width: 600px) 100vw, (max-width: 1023px) calc(100vw - 160px), 600px" src="https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/03/i-3-91502944-the-onion-most-innovative-companies-2026-ben-collins-jeff-lawson-print-media.jpg"/><figcaption>Long sheets of print snake through the four-story offset press at lightning speed during the printing process. [Photo: <a href="https://www.instagram.com/evanpjenkins">Evan Jenkins</a>]</figcaption></figure>
+<p><em>Explore the full 2026 list of Fast Company’s </em><a href="https://www.fastcompany.com/most-innovative-companies/list"><em>Most Innovative Companies</em></a><em>, 720 honorees that are reshaping industries and culture. We’ve selected the companies making the biggest impact across 59 categories, including </em><a href="https://www.fastcompany.com/91495402/advertising-marketing-most-innovative-companies-2026"><em>advertising</em></a><em>, </em><a href="https://www.fastcompany.com/91495408/applied-ai-most-innovative-companies-2026"><em>applied AI</em></a><em>, </em><a href="https://www.fastcompany.com/91497087/biotech-most-innovative-companies-2026"><em>biotech</em></a><em>, </em><a href="https://www.fastcompany.com/91492972/retail-most-innovative-companies-2026"><em>retail</em></a><em>, </em><a href="https://www.fastcompany.com/91497306/sustainability-most-innovative-companies-2026"><em>sustainability</em></a><em>, and more.</em></p>
+<p><em>The final deadline for Fast Company's <a href="https://www.fastcompany.com/apply/best-workplaces-for-innovators?utm_source=fcwebsite&amp;utm_medium=end_of_article&amp;utm_campaign=BWFI">Best Workplaces for Innovators</a> is this Friday, March 27, at 11:59 p.m. PT. <a href="https://www.fastcompany.com/apply/best-workplaces-for-innovators?utm_source=fcwebsite&amp;utm_medium=end_of_article&amp;utm_campaign=BWFI">Apply today.</a></em></p>
