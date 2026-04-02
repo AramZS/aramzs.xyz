@@ -1,0 +1,83 @@
+---
+author: Janakiram MSV
+cover_image: >-
+  https://cdn.thenewstack.io/media/2026/04/d38b1917-riswan-ratta-deyjxzaydym-unsplash-scaled.jpg
+date: '2026-04-01T12:11:31.953Z'
+dateFolder: 2026/04/01
+description: >-
+  A leaked source map exposed Claude Code's full architecture — revealing agent
+  swarms, background daemons, and 44 feature flags Anthropic hadn't released
+  yet.
+isBasedOn: 'https://thenewstack.io/claude-code-source-leak/'
+link: 'https://thenewstack.io/claude-code-source-leak/'
+slug: 2026-04-01-httpsthenewstackioclaude-code-source-leak
+tags:
+  - ai
+  - tech
+title: >-
+  Inside Claude Code’s leaked source: swarms, daemons, and 44 features Anthropic
+  kept behind flags
+---
+<figure><img alt="Featued image for: Inside Claude Code’s leaked source: swarms, daemons, and 44 features Anthropic kept behind flags" src="https://cdn.thenewstack.io/media/2026/04/d38b1917-riswan-ratta-deyjxzaydym-unsplash-1024x768.jpg"/><figcaption>Featued image for: Inside Claude Code’s leaked source: swarms, daemons, and 44 features Anthropic kept behind flags</figcaption></figure>
+<p>On Wednesday, security researcher Chaofan Shou discovered that Anthropic had shipped version 2.1.88 of Claude Code with a 59.8MB source map file attached to the npm package. Source maps are used to connect bundled production code back to the original source files during debugging, and this one connected the internet to 512,000 lines of unobfuscated TypeScript across 1,900 files.</p>
+<p>Anthropic pulled the package within hours, confirmed it was due to a packaging issue caused by human error, but the mirrors were already on <a href="https://github.com/Kuberwastaken/claude-code">GitHub</a>. <a href="https://www.theregister.com/2026/03/31/anthropic_claude_code_source_code/"><em>The Register</em></a> reported the original repo was forked more than 41,500 times before the uploader replaced it with a Python port.</p>
+<p>The coverage since then has focused on individual features. A Tamagotchi pet system. Animal codenames. Developer <a href="https://x.com/wesbos/status/2038958747200962952">Wes Bos</a> posted that he went straight for the spinner verbs and found 187 of them, from “Ruminating” and “Philosophising” to “Flibbertigibbeting” and “Photosynthesizing.”</p>
+<blockquote> <article class="rw-embedded-tweet" data-rw-tweet-id="2038958747200962952">
+<header class="rw-embedded-tweet-header">
+<div>
+<img src="https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca.jpg"/>
+</div>
+<div>
+<span><a href="https://twitter.com/wesbos">Wes Bos</a></span>
+<span><a href="https://twitter.com/wesbos">@wesbos</a></span>
+</div>
+<div>
+<a href="https://twitter.com/wesbos/status/2038958747200962952">
+<svg fill="none" height="24" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.9525 7.98316C19.9647 8.15675 19.9647 8.33034 19.9647 8.50553C19.9647 13.8436 15.8371 20 8.28966 20V19.9968C6.06013 20 3.8769 19.3712 2 18.1857C2.32419 18.2241 2.65001 18.2433 2.97664 18.2441C4.82429 18.2457 6.61913 17.6353 8.07272 16.5114C6.31688 16.4786 4.77717 15.3515 4.23928 13.706C4.85436 13.8228 5.48812 13.7988 6.09181 13.6364C4.17753 13.2556 2.80033 11.5997 2.80033 9.67665C2.80033 9.65905 2.80033 9.64225 2.80033 9.62545C3.37071 9.93824 4.00934 10.1118 4.6626 10.131C2.85964 8.9447 2.30388 6.58325 3.39265 4.73696C5.47593 7.2608 8.54966 8.79511 11.8493 8.9575C11.5186 7.55439 11.9703 6.08408 13.0364 5.09774C14.689 3.56824 17.2882 3.64663 18.8418 5.27293C19.7607 5.09454 20.6415 4.76256 21.4475 4.29219C21.1412 5.22733 20.5001 6.02168 19.6437 6.52645C20.457 6.43206 21.2517 6.21767 22 5.89049C21.4491 6.70324 20.7552 7.41119 19.9525 7.98316Z" fill="currentColor"></path>
+</svg>
+</a>
+</div>
+</header>
+<main>
+<p><p>Claude Code leaked their source map, effectively giving you a look into the codebase.</p><p>I immediately went for the one thing that mattered: spinner verbs</p><p>There are 187  </p><p><img alt="Image" src="https://pbs.twimg.com/media/HEvVlPIW8AAkoqP.jpg?name=orig"/> </p></p>
+</main>
+<footer class="rw-embedded-tweet-footer" data-rw-created-timestamp="1774960622000">
+<span>
+<a href="https://twitter.com/wesbos/status/2038958747200962952">Posted Mar 31, 2026 at 12:37PM</a>
+</span>
+</footer>
+</article> </blockquote>
+<p><strong>The real story is more structural.</strong> Independent analyses of the leaked codebase by <a href="https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know"><em>VentureBeat</em></a>, <em>The Register</em>, and dozens of developers reveal a production agent system that converges on the same design patterns the open-source ecosystem is also racing to build.</p>
+<p>For developers who have worked with operating system internals, the patterns will feel familiar: Syscall interfaces with permission gates, process forking with capability-based isolation, background daemons for memory management, and compile-time feature flags for shipping strategy.</p>
+<p>Claude Code is not a chat wrapper. The leaked source shows an agent operating system, and its architecture maps directly to patterns in <a href="https://github.com/crewAIInc/crewAI">CrewAI</a>, <a href="https://github.com/google/adk-python">Google ADK</a>, <a href="https://github.com/langchain-ai/langgraph">LangGraph</a>, and <a href="https://github.com/strands-agents/sdk-python">AWS Strands</a> that teams are already evaluating for production deployments.</p>
+<h2>The tool system as a syscall interface</h2>
+<p>Claude Code’s tool system consists of more than 40 discrete capabilities, each implemented as a separate module with its own permission gate. File reads, bash execution, web fetches, LSP integration, and MCP server connections all live as individual tools that the agent invokes through a unified interface. The base tool definition alone spans 29,000 lines of TypeScript. Think of this as the syscall layer in a Unix kernel. The user-space program (the LLM reasoning loop) never directly touches hardware (the file system, the terminal, the network). Every interaction passes through a permission-checked gateway.</p>
+<figure><img alt="" src="https://cdn.thenewstack.io/media/2026/03/0f03a531-claude-code-syscall-1024x1005.png"/></figure>
+<p>This architecture solves the same problem that Kubernetes RBAC solves for pod-level API access. An agent that can read files but not execute bash commands operates under a different security profile than one with full shell access.</p>
+<p>Claude Code enforces this at the tool level, gating each capability independently so that different contexts can grant different permission sets. Consider a scenario in which Claude Code operates within an unfamiliar repository. The tool system can restrict shell execution while allowing file reads and searches, preventing the agent from running arbitrary code in an untrusted environment without crippling its ability to understand the codebase. This is fine-grained capability security, and the leaked code shows Anthropic enforcing it through the same architectural pattern that POSIX systems have used for decades.</p>
+<p>The 46,000-line Query Engine sitting behind the tool system handles all LLM API calls, streaming, caching, and orchestration. It is the largest single module in the codebase and acts as the kernel scheduler, deciding which tool calls to batch, which responses to cache, and how to manage the context window across long-running sessions.</p>
+<h2>Multi-agent swarms and process orchestration</h2>
+<p>The leaked source reveals that Claude Code can spawn sub-agents with restricted toolsets, each running in an isolated context. Anthropic calls this system “swarms,” gated behind the <code>tengu_amber_flint</code> feature flag. The architecture supports both in-process teammates, using AsyncLocalStorage for context isolation, and process-based teammates that run in separate tmux or iTerm2 panes, with color-coded output for visual distinction. Team memory synchronization keeps the agents coordinated.</p>
+<p>This is process forking with capability-based security. A parent agent identifies a parallelizable task, spawns child agents with a subset of its own permissions, and collects their results. The children cannot escalate their own access. They operate within the boundaries that the parent defined. The parallel to container orchestration is direct. In Kubernetes, a controller spawns pods with specific resource limits and RBAC bindings. In Claude Code, a coordinator spawns sub-agents with specific tool permissions and context boundaries.</p>
+<p>CrewAI arrived at a similar pattern through its crew abstraction, where agents with defined roles collaborate on shared tasks. Google ADK uses hierarchical agent trees where root agents delegate to sub-agents. LangGraph models the same flow as nodes in a directed graph with explicit state transitions. All four systems solve the same problem. Complex tasks require multiple reasoning threads that run in parallel, share selective context, and merge their outputs. Anthropic built its version inside a closed-source CLI. The open-source ecosystem built equivalent versions using different metaphors. Convergence matters more than implementation details.</p>
+<h2>KAIROS and the dream system as background services</h2>
+<p>The most revealing feature in the leak is <a href="https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know">KAIROS</a>, an autonomous daemon mode referenced more than 150 times in the source. KAIROS transforms Claude Code from a request-response tool into a persistent background process. It maintains append-only daily log files, receives periodic <code>&lt;tick&gt;</code> prompts that let it decide whether to act proactively or stay quiet, and enforces a 15-second blocking budget so that proactive actions never interrupt the developer’s workflow for longer than a brief pause.</p>
+<p>Think of KAIROS as a systemd service for an AI agent. It starts, persists, watches, and acts on its own schedule. When active, it uses a special output mode called “Brief” that delivers concise responses suited to a persistent assistant that should not flood the terminal.</p>
+<p>The companion feature, autoDream, runs as a forked sub-agent in the <code>services/autoDream/</code> directory. During idle periods, it performs memory consolidation by merging observations from across sessions, removing logical contradictions, and converting tentative notes into confirmed facts. This is garbage collection for the agent state. Operating systems run background processes to defragment memory, consolidate logs, and clean caches. autoDream does the same thing for the knowledge an agent accumulates over days and weeks of continuous use.</p>
+<p>None of the major open-source agent frameworks discussed here has shipped a comparable background autonomy feature. CrewAI, LangGraph, Google ADK, and AWS Strands all operate in request-response or workflow-trigger modes. The closest equivalent is <a href="https://github.com/NousResearch/hermes-agent">Hermes Agent</a> from Nous Research, which recently added persistent multi-agent profiles with session memory, but without the proactive observation and consolidation loop that KAIROS implements. The gap between what Anthropic has built behind feature flags and what the open-source ecosystem currently offers is widest in this category.</p>
+<h2>Compile-time feature gating as a shipping strategy</h2>
+<p>The leaked source contains 44 compile-time feature flags. At least 20 of them gate capabilities that are built and tested but do not appear in external releases. KAIROS, coordinator mode, voice mode with a full push-to-talk interface, ULTRAPLAN (a remote planning mode that offloads complex tasks to a cloud container running Opus 4.6 for up to 30 minutes), and Buddy (the Tamagotchi-style companion pet with 18 species and rarity tiers) all sit behind flags that compile to false in the external build.</p>
+<p>This is how mature platform engineering teams ship software. Chrome, Android, and large-scale infrastructure projects at Google and Meta all use compile-time feature gating to decouple feature completion from feature release.</p>
+<p>Engineers merge finished code into the main branch continuously. Product managers enable flags selectively for build targets, user segments, or deployment rings. The release cadence users see (a new Claude Code feature every two weeks) does not reflect the development cadence, which is much faster. The codebase also distinguishes between “Ant-only” tools that load exclusively for Anthropic employees and external tools available to all users.</p>
+<p>Internal tools include telemetry dashboards, model-switching overrides, and the “Undercover Mode” system, which prevents Claude from revealing Anthropic’s internal codenames when contributing to public open-source repositories.</p>
+<blockquote> <p>Anthropic built an entire subsystem to prevent its AI from leaking internal details in git commits, then leaked the subsystem itself through a build configuration oversight.</p> </blockquote>
+<p>The irony is sharp. Anthropic built an entire subsystem to prevent its AI from leaking internal details in git commits, then leaked the subsystem itself through a build configuration oversight.</p>
+<p>The source also exposed internal model codenames that Undercover Mode was designed to hide. According to analyses of the leaked migrations directory, Capybara refers to a Claude 4.6 variant (the same model previously <a href="https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/">reported</a> as “Mythos”), Fennec maps to Opus 4.6, and an unreleased model called Numbat remains in testing. Internal benchmarks show the latest Capybara iteration has a 29-30% false-claim rate, a regression from 16.7% in an earlier version, alongside an “assertiveness counterweight” designed to prevent the model from rewriting code too aggressively.</p>
+<p>The accidental publication of Claude Code’s source provides a rare architectural benchmark. Permission-gated tool systems, multi-agent swarms, background daemons for memory management, and compile-time feature gating are not inventions unique to Anthropic. CrewAI, Google ADK, and LangGraph arrived at similar solutions for capability isolation and agent coordination through completely independent development paths. The convergence across those three layers confirms that these patterns are becoming the standard architecture for production agent systems, regardless of who builds them.</p>
+<p>Background autonomy and memory consolidation across sessions are where Claude Code leads by the widest margin. None of the agent frameworks examined here has shipped anything comparable to KAIROS or autoDream. That gap will close faster now that thousands of developers have a concrete reference implementation to study.</p>
+<p>The architectural details are fascinating. The security implications are immediate. The leaked source exposes Claude Code’s exact permission-enforcement logic, its hook-orchestration paths, and the trust boundaries it uses to decide when to execute code in unfamiliar repositories.</p>
+<blockquote> <p>“Your build pipeline is now part of your attack surface, and a single misconfigured ignore file can turn your most sophisticated product into an open blueprint.”</p> </blockquote>
+<p>Attackers now have a roadmap for crafting repositories that exploit those specific mechanisms. The timing made it worse. A separate supply-chain attack on the widely used Axios npm package occurred within hours of the leak, injecting a remote-access trojan into versions 1.14.1 and 0.30.4. <a href="https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know"><em>VentureBeat</em></a> reported that anyone who installed or updated Claude Code via npm on March 31 between 00:21 and 03:29 UTC may have pulled in the compromised dependency.</p>
+<p>Anthropic has since designated its native installer as the recommended installation method, sidestepping the npm dependency chain entirely. Bun’s bundler generates source maps by default unless explicitly disabled, which suggests a likely mechanism for how a 59.8MB .map file ended up in the npm package, though Anthropic has not confirmed the specific build configuration that caused it.</p>
+<p>The lesson for every team shipping AI agents through package managers is blunt. Your build pipeline is now part of your attack surface, and a single misconfigured ignore file can turn your most sophisticated product into an open blueprint.</p>
