@@ -1,6 +1,5 @@
 ---
 author: civileats.com
-cover_image: 'data:;'
 date: '2025-08-02T14:05:20.408Z'
 dateFolder: 2025/08/02
 description: null

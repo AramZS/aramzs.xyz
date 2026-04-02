@@ -1,6 +1,5 @@
 ---
 author: aprs.scot
-cover_image: 'data:;'
 date: '2026-03-17T12:50:32.144Z'
 dateFolder: 2026/03/17
 description: null

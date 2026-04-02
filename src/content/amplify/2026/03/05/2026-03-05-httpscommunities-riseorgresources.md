@@ -1,6 +1,5 @@
 ---
 author: communities-rise.org
-cover_image: 'data:;'
 date: '2026-03-05T20:58:54.939Z'
 dateFolder: 2026/03/05
 description: null
