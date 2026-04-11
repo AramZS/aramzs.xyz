@@ -1,0 +1,50 @@
+---
+author: Karoun Demirjian
+cover_image: >-
+  https://static01.nyt.com/images/2026/02/24/multimedia/10dc-gamers/24trump-news-header-230pm-fkvw-facebookJumbo.jpg
+date: '2026-04-10T15:27:39.945Z'
+dateFolder: 2026/04/10
+description: >-
+  Avid players of video games have emerged as a target demographic for
+  recruiters at range of federal agencies, including the military and the
+  Department of Homeland Security.
+isBasedOn: >-
+  https://www.nytimes.com/2026/04/10/us/politics/air-traffic-controller-gamer.html
+link: >-
+  https://www.nytimes.com/2026/04/10/us/politics/air-traffic-controller-gamer.html
+slug: >-
+  2026-04-10-httpswwwnytimescom20260410uspoliticsair-traffic-controller-gamerhtml
+tags:
+  - flying
+title: 'To Fill Air Traffic Controller Shortage, F.A.A. Turns to Gamers'
+---
+<p>Avid players of video games have emerged as a target demographic for recruiters at range of federal agencies, including the military and the Department of Homeland Security.</p>
+<figure><audio src="https://static.nytimes.com/narrated-articles/synthetic/article-4e3c603a-e161-5e4d-96e7-08848da070ea/job-1775811819211/article-4e3c603a-e161-5e4d-96e7-08848da070ea-job-1775811819211.mp3"></audio></figure>
+<p>Listen · 6:23 min</p>
+<figure><picture><source media="(max-width: 599px) and (min-device-pixel-ratio: 3),(max-width: 599px) and (min-resolution: 3dppx),(max-width: 599px) and (min-resolution: 288dpi)" srcset="https://static01.nyt.com/images/2026/02/24/multimedia/10dc-gamers/24trump-news-header-230pm-fkvw-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1800"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 2),(max-width: 599px) and (min-resolution: 2dppx),(max-width: 599px) and (min-resolution: 192dpi)" srcset="https://static01.nyt.com/images/2026/02/24/multimedia/10dc-gamers/24trump-news-header-230pm-fkvw-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1200"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 1),(max-width: 599px) and (min-resolution: 1dppx),(max-width: 599px) and (min-resolution: 96dpi)" srcset="https://static01.nyt.com/images/2026/02/24/multimedia/10dc-gamers/24trump-news-header-230pm-fkvw-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600"/><img alt="" sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 60vw, 100vw" src="https://static01.nyt.com/images/2026/02/24/multimedia/10dc-gamers/24trump-news-header-230pm-fkvw-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" srcset="https://static01.nyt.com/images/2026/02/24/multimedia/10dc-gamers/24trump-news-header-230pm-fkvw-articleLarge.jpg?quality=75&amp;auto=webp 600w,https://static01.nyt.com/images/2026/02/24/multimedia/10dc-gamers/24trump-news-header-230pm-fkvw-jumbo.jpg?quality=75&amp;auto=webp 1024w,https://static01.nyt.com/images/2026/02/24/multimedia/10dc-gamers/24trump-news-header-230pm-fkvw-superJumbo.jpg?quality=75&amp;auto=webp 2048w"/></picture><figcaption>The air traffic control tower at Ronald Reagan Washington National Airport. Credit: Kent Nishimura for The New York Times</figcaption></figure>
+<p><i><p><i>By </i><a href="https://www.nytimes.com/by/karoun-demirjian">Karoun Demirjian</a></p><blockquote><p>Reporting from Washington</p></blockquote></i></p>
+<p>As the Trump administration seeks to fill a national shortage of air traffic controllers, officials are targeting a new talent pool: gamers.</p>
+<p>The Federal Aviation Administration on Friday is making a recruiting push aimed at avid players of video games, as the agency strives to fill thousands of vacancies that lawmakers have said leave the traveling public less safe. In a <a href="https://youtu.be/9MczWfLpBcw">new YouTube ad,</a> the agency is using flashy graphics and the promise of six-figure salaries to convince video game enthusiasts to apply their trigger fingers in service of air safety.</p>
+
+<p class="rw-outer-content"><span>Some content could not be imported from the original document.</span> <a href="https://www.nytimes.com/2026/04/10/us/politics/air-traffic-controller-gamer.html">View content ↗ </a></p>
+<p>In recent years, video gamers have emerged as a target demographic for recruiters at a number of federal agencies, including the military and the Department of Homeland Security. They are welcomed for their hand-eye coordination, quick decision-making in complex environments and ability to remain focused on screens for hours on end.</p>
+<p>“To reach the next generation of air traffic controllers, we need to adapt,” Transportation Secretary Sean Duffy said in a statement. Focusing recruiting efforts on gamers, he added, “taps into a growing demographic of young adults who have many of the hard skills it takes to be a successful controller.”</p>
+<p>But while air traffic experts noted gamers have potentially valuable skills, some questioned whether the focused recruiting effort will sufficiently address the agency’s wider air traffic staffing problems.</p>
+<p>“When you bring on someone who has gaming experience, particularly with air traffic control, they have an edge up,” said Michael O’Donnell, an aerospace consultant who previously worked as a senior F.A.A. official focused on air traffic safety. “They’re coming in with a skill set. But it doesn’t replace aptitude, or discipline, or decision making under pressure.”</p>
+<p>The government has <a href="https://www.nytimes.com/2025/08/08/us/politics/faa-air-traffic-controllers.html">struggled for over a decade to recruit enough air traffic controllers</a>. Despite the Trump administration’s efforts to “supercharge” hiring efforts, in Mr. Duffy’s words, the F.A.A. has added only 300 fully certified controllers to its ranks since September 2024, bringing the total number to a little more than 11,000 nationally. That is still thousands short of the 14,663 positions the agency said constituted full staffing in an August 2025 report.</p>
+<p>Agency officials blame a combination of attrition, the length of time that it takes to train controllers, and historically high washout rate for the slow progress. But they also claim to be making progress on those fronts that they believe, in time, will bear fruit.</p>
+<p>“We’re really going to start to see gains about two and a half to three years from now,” Heather Fernuik, the executive director of the F.A.A.’s human resources office, said in an interview.</p>
+<p>Under the Trump administration, the average processing time to onboard successful new recruits had been cut in half, from 13 months to about six and a half, she noted. The administration also improved the washout rate, from about a third of new trainees failing to graduate from air traffic control school to about a quarter.</p>
+<p>Recruiting gamers, officials believe, will help hiring efforts become even more efficient.</p>
+<p>The F.A.A. plans to begin prioritizing recruiting gamers over more traditional avenues like college fairs, officials said, pointing out that only 25 percent of controllers have a traditional college degree, while the vast majority appear to have logged hours gaming.</p>
+<p>During the presidential transition in 2024, incoming Trump administration officials polled about 250 new air traffic academy graduates over six weeks. Only two of those interviewed were not gamers, according to F.A.A. officials, who spoke on condition of anonymity to discuss internal statistics.</p>
+<p>Students who failed out of the training academy were not similarly queried, officials said, though they have plans to conduct more comprehensive exit interviews in the future.</p>
+<p>Still, the overwhelming presence of gaming habits among graduates tracked with what they were hearing anecdotally from controllers already certified to work in towers and other air traffic facilities, the officials said, many of whom liked to play video games during breaks in their shifts.</p>
+<p>Josh Jennings, 40, a supervisor at the F.A.A.’s air traffic command center in Virginia, said that gaming has become a form of social currency among controllers, as well as a way to stay sharp.</p>
+<p>Mr. Jennings recalled how early in his career, young controllers grew restless when older controllers wanted to watch the news during their work breaks. In 2009, he said, a manager purchased an Xbox for the break room.</p>
+<p>Mr. Jennings, who plays Fallout and Call of Duty, said being a gaming hobbyist was now the norm in his profession — and was paying dividends.</p>
+<p>“I would say it’s probably tenfold on how fast this new generation is able to pick up on our physical tech, our radar scopes,” he said.</p>
+<p>The observations fly in the face of some stereotypes of gamers. Experts and parents have questioned whether the <a href="https://www.nytimes.com/2025/10/03/upshot/video-games-boys-young-men.html">increasingly long hours</a> young people spend playing video games negatively affect focus and work ethic. Yet government interest in tapping such players for tech-heavy jobs like air traffic control continues to expand.</p>
+<p>The military has spent years targeting gamers, even embedding itself in certain video games. Their skill set has become even more desirable as modern warfare moves toward more remote operations instead of wars fought with boots on the ground. In recent months, Immigration and Customs Enforcement has been using memes familiar to video gamers as it seeks to recruit officers to sign up in the midst of a sweeping deportation campaign.</p>
+<p>Even the F.A.A. has been in on the action before. In 2021, in the early months of President Joseph R. Biden Jr.’s administration, the agency made a point of trying to attract avid video gamers to become controllers, in a recruiting push called “Level Up” that also focused on drawing interest from women and members of minority groups.</p>
+<p>F.A.A. officials hope that a more intensive focus on gamers will yield a more successful outcome than past efforts. The hiring window, which opens on April 17, will be capped at 8,000 applicants, a level officials expect to reach within days.</p>
