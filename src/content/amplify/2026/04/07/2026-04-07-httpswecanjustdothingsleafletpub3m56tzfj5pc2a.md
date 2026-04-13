@@ -34,43 +34,43 @@ title: >-
 <h2 data-index="21">The Setup</h2>
 <p>AT Protocol uses something called <a href="https://atproto.com/guides/glossary#xrpc">XRPC</a> to let you query data from any PDS. You don't need authentication for public data—just construct the right URL and fetch away.</p>
 <p>First, I declare my <a href="https://atproto.com/guides/glossary#did-decentralized-id">DID</a> (personal identifier) and <a href="https://atproto.com/guides/glossary#pds-personal-data-server">PDS</a> location, and the <a href="https://atproto.com/guides/glossary#collection">collections</a> I want to reference.</p>
-<pre><code>export const ATPROTO_CONFIG = {
+<pre><code>export const ATPROTO_CONFIG = &lbrace;
   DID: 'did:plc:s2rczyxit2v5vzedxqs326ri',
   PDS_URL: 'https://rooter.us-west.host.bsky.network',
   CDN_URL: 'https://cdn.bsky.app',
 } as const;
 
-export const ATPROTO_COLLECTIONS = {
+export const ATPROTO_COLLECTIONS = &lbrace;
   PUBLICATION: 'pub.leaflet.publication',
   DOCUMENT: 'pub.leaflet.document',
 } as const;
 </code></pre>
 <p>Then, to fetch <a href="https://atproto.com/guides/glossary#record">records</a>, I had to build XRPC URLs for fetching records from collections, and <a href="https://atproto.com/guides/glossary#blob">blobs</a> of binary data (like images):</p>
-<pre><code>export function buildRecordsUrl(collection: string, repo: string = ATPROTO_CONFIG.DID): string {
-  return `${ATPROTO_CONFIG.PDS_URL}/xrpc/com.atproto.repo.listRecords?repo=${repo}&amp;collection=${collection}`;
+<pre><code>export function buildRecordsUrl(collection: string, repo: string = ATPROTO_CONFIG.DID): string &lbrace;
+  return `$&lbrace;ATPROTO_CONFIG.PDS_URL}/xrpc/com.atproto.repo.listRecords?repo=$&lbrace;repo}&amp;collection=$&lbrace;collection}`;
 }
 
-export function buildBlobUrl(blobRef: string, did: string = ATPROTO_CONFIG.DID): string {
-  return `${ATPROTO_CONFIG.CDN_URL}/img/avatar/plain/${did}/${blobRef}@jpeg`;
+export function buildBlobUrl(blobRef: string, did: string = ATPROTO_CONFIG.DID): string &lbrace;
+  return `$&lbrace;ATPROTO_CONFIG.CDN_URL}/img/avatar/plain/$&lbrace;did}/$&lbrace;blobRef}@jpeg`;
 }</code></pre>
 <h2 data-index="31">Defining the Types</h2>
 <p>Before fetching anything, I needed to define some types that match AT Protocol's data structures. This is where things got really real. Painful, but like, that fun pain!</p>
-<pre><code>export interface ATProtocolBlob {
+<pre><code>export interface ATProtocolBlob &lbrace;
   $type: 'blob';
-  ref: {
+  ref: &lbrace;
     $link: string;
   };
   mimeType: string;
   size: number;
 }
 
-export interface ATProtocolRecord&lt;T = unknown&gt; {
+export interface ATProtocolRecord&lt;T = unknown&gt; &lbrace;
   uri: string;
   cid: string;
   value: T;
 }
 
-export interface PublicationValue {
+export interface PublicationValue &lbrace;
   name: string;
   base_path: string;
   icon?: ATProtocolBlob;
@@ -78,7 +78,7 @@ export interface PublicationValue {
   $type: string;
 }
 
-export interface DocumentValue {
+export interface DocumentValue &lbrace;
   title: string;
   description?: string;
   publishedAt: string;
@@ -97,36 +97,36 @@ export type ATProtocolDocument = ATProtocolRecord&lt;DocumentValue&gt;;
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState&lt;string | null&gt;(null);
 
-  useEffect(() =&gt; {
-        const fetchRecords = async () =&gt; {
-            try {
+  useEffect(() =&gt; &lbrace;
+        const fetchRecords = async () =&gt; &lbrace;
+            try &lbrace;
                 const url = buildRecordsUrl(collection);
         const response = await fetch(url);
         const data = await response.json();
         setData(data.records);
-      } catch (err) {
+      } catch (err) &lbrace;
                 setError(err.message);
-      } finally {
+      } finally &lbrace;
                 setLoading(false);
       }
     };
     fetchRecords();
   }, [collection]);
 
-  return { data, loading, error };
+  return &lbrace; data, loading, error };
 }
 </code></pre>
 <p>Here's where it got interesting! Leaflet articles reference their Leaflet publication by <a href="https://atproto.com/specs/at-uri-scheme">URI</a>, so I needed to fetch multiple collections, squish them together, and do a little transformation.</p>
 <p>This is specific to me using Leaflet as my CMS and you may have to do this differently for other sources.</p>
-<pre><code>export function fetchPublications(): FetchResult&lt;Document[]&gt; {
-  const { data: publicationsData } = fetchRecords(ATPROTO_COLLECTIONS.PUBLICATION);
-  const { data: documentsData } = fetchRecords(ATPROTO_COLLECTIONS.DOCUMENT);
+<pre><code>export function fetchPublications(): FetchResult&lt;Document[]&gt; &lbrace;
+  const &lbrace; data: publicationsData } = fetchRecords(ATPROTO_COLLECTIONS.PUBLICATION);
+  const &lbrace; data: documentsData } = fetchRecords(ATPROTO_COLLECTIONS.DOCUMENT);
 
-  useEffect(() =&gt; {
+  useEffect(() =&gt; &lbrace;
     // Create a lookup map of publications
     const publicationMap = new Map();
-    publicationsData.forEach((record) =&gt; {
-      publicationMap.set(record.uri, {
+    publicationsData.forEach((record) =&gt; &lbrace;
+      publicationMap.set(record.uri, &lbrace;
         name: record.value.name,
         basePath: record.value.base_path,
         icon: record.value.icon ? buildBlobUrl(record.value.icon.ref.$link) : undefined,
@@ -135,13 +135,13 @@ export type ATProtocolDocument = ATProtocolRecord&lt;DocumentValue&gt;;
 
     // Match documents with their publications
     const documents = documentsData
-      .map((record) =&gt; {
+      .map((record) =&gt; &lbrace;
         const publication = publicationMap.get(record.value.publication);
-        return {
+        return &lbrace;
           title: record.value.title,
           description: record.value.description,
           publishedAt: record.value.publishedAt,
-          articleUrl: `https://${publication.basePath}/${slug}`,
+          articleUrl: `https://\$\&lbrace;\publication.basePath}/\$\&lbrace;slug\}`,
           publication,
         };
       })
@@ -150,21 +150,21 @@ export type ATProtocolDocument = ATProtocolRecord&lt;DocumentValue&gt;;
     setData(documents);
   }, [publicationsData, documentsData]);
 
-  return { data, loading, error };
+  return &lbrace; data, loading, error };
 }</code></pre>
 <h2 data-index="50">Using it in components</h2>
 <p>Now, using it in pages is dead simple. Here's a simplified example of how I use it on the <a href="https://tangled.org/@renderg.host/renderghost/blob/main/src/pages/WritingPage.tsx">writing page</a> on my site, wiring it into a dedicated card component.</p>
-<pre><code>export default function WritingPage() {
-  const { data: documents, loading, error } = fetchPublications();
+<pre><code>export default function WritingPage() &lbrace;
+  const &lbrace; data: documents, loading, error } = fetchPublications();
   if (loading) return &lt;div&gt;Loading posts...&lt;/div&gt;;
-  if (error) return &lt;div&gt;Error: {error}&lt;/div&gt;;
+  if (error) return &lt;div&gt;Error: &lbrace;error}&lt;/div&gt;;
 
   return (
     &lt;div&gt;
-      {documents.map((doc) =&gt; (
+      &lbrace;documents.map((doc) =&gt; (
         &lt;CardArticle
-          key={doc.uri}
-          article={{
+          key=&lbrace;doc.uri}
+          article=&lbrace;&lbrace;
             title: doc.title,
             subtitle: doc.description,
             articleUrl: doc.articleUrl,
