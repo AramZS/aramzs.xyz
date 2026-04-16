@@ -1,0 +1,45 @@
+---
+author: Trish Bendix
+cover_image: >-
+  https://static01.nyt.com/images/2026/04/15/arts/15latenight/15latenight-facebookJumbo.jpg
+date: '2026-04-15T11:53:07.379Z'
+dateFolder: 2026/04/15
+description: >-
+  Ronny Chieng poked fun at JD Vance’s defense of President Trump posting an
+  image of himself as a Christ-like figure.
+isBasedOn: >-
+  https://www.nytimes.com/2026/04/15/arts/television/late-night-trump-jesus.html?smtyp=cur&smid=bsky-nytimes
+link: >-
+  https://www.nytimes.com/2026/04/15/arts/television/late-night-trump-jesus.html?smtyp=cur&smid=bsky-nytimes
+slug: >-
+  2026-04-15-httpswwwnytimescom20260415artstelevisionlate-night-trump-jesushtmlsmtypcurandsmidbsky-nytimes
+tags:
+  - culture
+  - politics
+title: Late Night Laughs at Explanations of Trump’s Jesus ‘Joke’
+---
+<p>Late Night ROUNDUP</p>
+<p>Ronny Chieng poked fun at JD Vance’s defense of President Trump posting an image of himself as a Christ-like figure.</p>
+<figure><picture><source media="(max-width: 599px) and (min-device-pixel-ratio: 3),(max-width: 599px) and (min-resolution: 3dppx),(max-width: 599px) and (min-resolution: 288dpi)" srcset="https://static01.nyt.com/images/2026/04/15/arts/15latenight/15latenight-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1800"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 2),(max-width: 599px) and (min-resolution: 2dppx),(max-width: 599px) and (min-resolution: 192dpi)" srcset="https://static01.nyt.com/images/2026/04/15/arts/15latenight/15latenight-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1200"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 1),(max-width: 599px) and (min-resolution: 1dppx),(max-width: 599px) and (min-resolution: 96dpi)" srcset="https://static01.nyt.com/images/2026/04/15/arts/15latenight/15latenight-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600"/><img alt="Ronny Chieng at his desk onstage with an inset photo of an image of President Trump as a Jesus-like figure." sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 60vw, 100vw" src="https://static01.nyt.com/images/2026/04/15/arts/15latenight/15latenight-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" srcset="https://static01.nyt.com/images/2026/04/15/arts/15latenight/15latenight-articleLarge.jpg?quality=75&amp;auto=webp 600w,https://static01.nyt.com/images/2026/04/15/arts/15latenight/15latenight-jumbo.jpg?quality=75&amp;auto=webp 1024w,https://static01.nyt.com/images/2026/04/15/arts/15latenight/15latenight-superJumbo.jpg?quality=75&amp;auto=webp 1722w"/></picture><figcaption>“What’s the matter? You guys don’t have jokes at Jesus camp?” Ronny Chieng said on Tuesday’s “The Daily Show.” Credit: Comedy Central</figcaption></figure>
+<p><i><p><i>By </i><a href="https://www.nytimes.com/by/trish-bendix">Trish Bendix</a></p></i></p>
+<p><em>Welcome to Late Night Roundup, a rundown of the previous night’s highlights that lets you sleep — and lets us get paid to watch comedy. Here are the </em><a href="https://www.nytimes.com/interactive/2020/arts/television/best-movies-on-netflix.html"><em>50 best movies on Netflix right now</em></a><em>.</em></p>
+<h2>What, a Joke?</h2>
+<p>On Tuesday, Vice President JD Vance explained that President Trump’s social media post, an apparently A.I.-generated image <a href="https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-picture-pope-leo.html">depicting himself as a Jesus-like figure</a>, was meant as “a joke,” and that it was deleted because “a lot of people weren’t understanding his humor.” Or, as Ronny Chieng put it on “The Daily Show,” “poor JD Vance had to come out and explain why you don’t get it.”</p>
+<blockquote><p>“Get over it, snowflakes. Where in the Trump Bible does it say you can’t worship false idols?” <em>— RONNY CHIENG</em></p></blockquote>
+
+<p class="rw-outer-content"><span>Some content could not be imported from the original document.</span> <a href="https://www.nytimes.com/2026/04/15/arts/television/late-night-trump-jesus.html">View content ↗ </a></p>
+<blockquote><p>“It was a joke! What’s the matter? You guys don’t have jokes at Jesus camp?” <em>— RONNY CHIENG</em></p><p>“OK, well, make up your mind: Is it a doctor or is it a joke? Or is it a doctor who is a joke, like a chiropractor?” <em>— RONNY CHIENG</em></p></blockquote>
+
+<p class="rw-outer-content"><span>Some content could not be imported from the original document.</span> <a href="https://www.nytimes.com/2026/04/15/arts/television/late-night-trump-jesus.html">View content ↗ </a></p>
+<blockquote><p>“He was posting a joke, you understand? And like all the best jokes, it had to be explained and then deleted.” <em>— JIMMY KIMMEL</em></p><p>“First, he was Jesus. Then he wasn’t Jesus, he was a doctor, and now it was a joke. Why did I get kicked off the air, again? I can’t remember.” <em>— JIMMY KIMMEL</em></p><p>“Yeah, it was just, it was just humor. God humor — the Bible’s full of it.” <em>— STEPHEN COLBERT</em></p></blockquote>
+<h2>The Punchiest Punchlines (‘Jim Beam Me Up, Scotty’ Edition)</h2>
+<blockquote><p>“Phillips got in some interesting water recently when it came out that he claimed he once teleported to a Waffle House. Now it is possible this sci-fi adventure happened after consuming some ‘teleportation juice.’ Jim Beam me up, Scotty.” <em>— STEPHEN COLBERT, on the </em><a href="https://www.nytimes.com/2026/04/03/us/fema-gregg-phillips-waffle-house-teleportation.html"><em>FEMA official Gregg Phillips</em></a></p><p>“He must be joking, right? You know, like when you tell everyone that you’re Jesus? It’s just a joke!” <em>— RONNY CHIENG</em></p><p>“Wow, I never thought I’d hear a boring teleportation story, but.” <em>— RONNY CHIENG</em></p><p>“You have the power of teleportation but you use it to go to Waffle House?” <em>— RONNY CHIENG</em></p><p>“This guy teleports to all the exact places you end up when you’re blackout drunk. That’s just incredible. I mean, Tiger Woods is like, ‘Yeah, that happened to me too! I just teleported into an upside-down car.’” <em>— RONNY CHIENG</em></p></blockquote>
+<h2>The Bits Worth Watching</h2>
+<p>The comedic actor Zach Galifianakis told Jimmy Kimmel why he preferred to live in rural Canada, where fans show recognition in strange ways.</p>
+<h2>What We’re Excited About on Wednesday Night</h2>
+
+<p class="rw-outer-content"><span>Some content could not be imported from the original document.</span> <a href="https://www.nytimes.com/2026/04/15/arts/television/late-night-trump-jesus.html">View content ↗ </a></p>
+<p>Anne Hathaway will discuss “The Devil Wears Prada 2” on Wednesday’s “Late Show with Stephen Colbert.</p>
+<h2>Also, Check This Out</h2>
+<figure><picture><source media="(max-width: 599px) and (min-device-pixel-ratio: 3),(max-width: 599px) and (min-resolution: 3dppx),(max-width: 599px) and (min-resolution: 288dpi)" srcset="https://static01.nyt.com/images/2026/04/12/multimedia/12cul-titanique-1-zwtf-copy/12cul-titanique-1-zwtf-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1800"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 2),(max-width: 599px) and (min-resolution: 2dppx),(max-width: 599px) and (min-resolution: 192dpi)" srcset="https://static01.nyt.com/images/2026/04/12/multimedia/12cul-titanique-1-zwtf-copy/12cul-titanique-1-zwtf-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=1200"/><source media="(max-width: 599px) and (min-device-pixel-ratio: 1),(max-width: 599px) and (min-resolution: 1dppx),(max-width: 599px) and (min-resolution: 96dpi)" srcset="https://static01.nyt.com/images/2026/04/12/multimedia/12cul-titanique-1-zwtf-copy/12cul-titanique-1-zwtf-mobileMasterAt3x.jpg?quality=75&amp;auto=webp&amp;disable=upscale&amp;width=600"/><img alt="A woman wearing a gold gown with a high-cut split and a white feathery boa sings into a microphone onstage. In the background, performers dance with their arms in the air." sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 60vw, 100vw" src="https://static01.nyt.com/images/2026/04/12/multimedia/12cul-titanique-1-zwtf-copy/12cul-titanique-1-zwtf-articleLarge.jpg?quality=75&amp;auto=webp&amp;disable=upscale" srcset="https://static01.nyt.com/images/2026/04/12/multimedia/12cul-titanique-1-zwtf-copy/12cul-titanique-1-zwtf-articleLarge.jpg?quality=75&amp;auto=webp 600w,https://static01.nyt.com/images/2026/04/12/multimedia/12cul-titanique-1-zwtf-copy/12cul-titanique-1-zwtf-jumbo.jpg?quality=75&amp;auto=webp 1024w,https://static01.nyt.com/images/2026/04/12/multimedia/12cul-titanique-1-zwtf-copy/12cul-titanique-1-zwtf-superJumbo.jpg?quality=75&amp;auto=webp 2048w"/></picture><figcaption>Marla Mindelle as Celine Dion in “Titaníque” at the St. James Theater in Manhattan. Credit: Evan Zimmerman</figcaption></figure>
+<p><a href="https://www.nytimes.com/2026/04/12/theater/titanique-review-broadway-dion.html">Now on Broadway, the “Titanic” musical parody “Titaníque”</a> is fueled by Celine Dion hits, silly ad-libs and pop culture references.</p>
