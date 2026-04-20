@@ -1,0 +1,67 @@
+---
+author: 'Tracee Wilkins, Katie Leslie, Steve Jones'
+cover_image: >-
+  https://media.nbcwashington.com/2026/02/duke-ellington-school-and-teacher-split-2.jpg?quality=85&strip=all&resize=1200%2C675
+date: '2026-04-19T19:20:36.627Z'
+dateFolder: 2026/04/19
+description: >-
+  A former teacher at D.C.’s Duke Ellington School of the Arts was sentenced to
+  16 years in federal prison Friday. Mark Williams was convicted in February of
+  sexually abusing a former student in about 2014 at the acclaimed Georgetown
+  high school.
+isBasedOn: >-
+  https://www.nbcwashington.com/news/local/ex-teacher-at-dcs-duke-ellington-school-sentenced-to-16-years-after-sex-abuse-conviction/4092356/
+link: >-
+  https://www.nbcwashington.com/news/local/ex-teacher-at-dcs-duke-ellington-school-sentenced-to-16-years-after-sex-abuse-conviction/4092356/
+slug: >-
+  2026-04-19-httpswwwnbcwashingtoncomnewslocalex-teacher-at-dcs-duke-ellington-school-sentenced-to-16-years-after-sex-abuse-conviction4092356
+tags:
+  - law and order
+title: >-
+  Ex-teacher at DC's Duke Ellington School sentenced to 16 years after sex abuse
+  conviction
+---
+<figure><img sizes="100vw" src="https://media.nbcwashington.com/2019/09/OTT-Washington-DC.png?fit=1920%2C1080&amp;quality=85&amp;strip=all&amp;w=1300&amp;h=144&amp;crop=1" srcset="https://media.nbcwashington.com/2019/09/OTT-Washington-DC.png?fit=1920%2C1080&amp;quality=85&amp;strip=all&amp;w=400&amp;h=44&amp;crop=1 400w, https://media.nbcwashington.com/2019/09/OTT-Washington-DC.png?fit=1920%2C1080&amp;quality=85&amp;strip=all&amp;w=500&amp;h=56&amp;crop=1 500w, https://media.nbcwashington.com/2019/09/OTT-Washington-DC.png?fit=1920%2C1080&amp;quality=85&amp;strip=all&amp;w=600&amp;h=67&amp;crop=1 600w, https://media.nbcwashington.com/2019/09/OTT-Washington-DC.png?fit=1920%2C1080&amp;quality=85&amp;strip=all&amp;w=700&amp;h=78&amp;crop=1 700w, https://media.nbcwashington.com/2019/09/OTT-Washington-DC.png?fit=1920%2C1080&amp;quality=85&amp;strip=all&amp;w=800&amp;h=89&amp;crop=1 800w, https://media.nbcwashington.com/2019/09/OTT-Washington-DC.png?fit=1920%2C1080&amp;quality=85&amp;strip=all&amp;w=900&amp;h=100&amp;crop=1 900w, https://media.nbcwashington.com/2019/09/OTT-Washington-DC.png?fit=1920%2C1080&amp;quality=85&amp;strip=all&amp;w=1000&amp;h=111&amp;crop=1 1000w, https://media.nbcwashington.com/2019/09/OTT-Washington-DC.png?fit=1920%2C1080&amp;quality=85&amp;strip=all&amp;w=1100&amp;h=122&amp;crop=1 1100w, https://media.nbcwashington.com/2019/09/OTT-Washington-DC.png?fit=1920%2C1080&amp;quality=85&amp;strip=all&amp;w=1200&amp;h=133&amp;crop=1 1200w, https://media.nbcwashington.com/2019/09/OTT-Washington-DC.png?fit=1920%2C1080&amp;quality=85&amp;strip=all&amp;w=1300&amp;h=144&amp;crop=1 1300w"/></figure>
+<p>A former teacher at <a href="https://www.nbcwashington.com/tag/duke-ellington-school-of-the-arts/">D.C.’s Duke Ellington School of the Arts</a> was sentenced to 16 years in federal prison Friday. Mark Williams was <a href="https://www.nbcwashington.com/news/local/former-duke-ellington-school-teacher-found-guilty-of-sexually-abusing-student/4058707/">convicted in February of sexually abusing a former student</a> at the acclaimed D.C. high school.</p>
+<p>His criminal trial followed a 2022 investigation by the News4 I-Team that centered on two former students who said Williams abused them a decade apart. The first woman said she was sexually involved with Williams while she was his student in 2004; the other woman said she was abused a decade later.</p>
+<p>The second woman’s account is what led to Williams’ trial. Both women, however, delivered victim impact statements Friday, telling D.C. Superior Court Judge Michael Ryan the abuse led to years of emotional suffering, dysfunctional relationships, self-harm and substance abuse.</p>
+<p>“Love does not exist in places where power is held over another and that power is abused,” said the student from the 2014 case, whom News4 is not identifying.</p>
+<figure><a data-lid="Ex-teacher at DC's Duke Ellington School found guilty of sexually abusing student" data-lpos="inline-recirc-module" href="https://www.nbcwashington.com/news/local/former-duke-ellington-school-teacher-found-guilty-of-sexually-abusing-student/4058707/"><img alt="" sizes="(min-width: 768px) 166px, 124px" src="https://media.nbcwashington.com/2026/02/duke-ellington-school-and-teacher-split-2.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=330&amp;h=186&amp;crop=1" srcset="https://media.nbcwashington.com/2026/02/duke-ellington-school-and-teacher-split-2.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=130&amp;h=73&amp;crop=1 130w, https://media.nbcwashington.com/2026/02/duke-ellington-school-and-teacher-split-2.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=170&amp;h=96&amp;crop=1 170w, https://media.nbcwashington.com/2026/02/duke-ellington-school-and-teacher-split-2.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=210&amp;h=118&amp;crop=1 210w, https://media.nbcwashington.com/2026/02/duke-ellington-school-and-teacher-split-2.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=250&amp;h=141&amp;crop=1 250w, https://media.nbcwashington.com/2026/02/duke-ellington-school-and-teacher-split-2.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=290&amp;h=163&amp;crop=1 290w, https://media.nbcwashington.com/2026/02/duke-ellington-school-and-teacher-split-2.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=330&amp;h=186&amp;crop=1 330w"/></a></figure>
+<figure><a data-lid="Former Duke Ellington teacher accused of abuse arrested at BWI" data-lpos="inline-recirc-module" href="https://www.nbcwashington.com/investigations/former-duke-ellington-teacher-accused-of-abuse-arrested-at-bwi/3475690/"><img alt="" sizes="(min-width: 768px) 166px, 124px" src="https://media.nbcwashington.com/2022/01/duke-ellington-1.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=330&amp;h=186&amp;crop=1" srcset="https://media.nbcwashington.com/2022/01/duke-ellington-1.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=130&amp;h=73&amp;crop=1 130w, https://media.nbcwashington.com/2022/01/duke-ellington-1.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=170&amp;h=96&amp;crop=1 170w, https://media.nbcwashington.com/2022/01/duke-ellington-1.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=210&amp;h=118&amp;crop=1 210w, https://media.nbcwashington.com/2022/01/duke-ellington-1.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=250&amp;h=141&amp;crop=1 250w, https://media.nbcwashington.com/2022/01/duke-ellington-1.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=290&amp;h=163&amp;crop=1 290w, https://media.nbcwashington.com/2022/01/duke-ellington-1.jpg?quality=85&amp;strip=all&amp;fit=1200%2C675&amp;w=330&amp;h=186&amp;crop=1 330w"/></a></figure>
+<p>The woman continued the trauma from the abuse has made her “not want to have children” because she said she couldn’t bear sending a child to a school where they could potentially be harmed.</p>
+<p>Williams did not look at either woman Friday as they read their statements. He told the judge, however, that, following his resignation from the school in 2019 due to personal challenges – including alcohol abuse – he lost his family and career.</p>
+<p>Before he was sentenced, Williams didn’t directly apologize but – after quoting writings by James Baldwin – said he had remorse and added: “I do feel a price has been paid.”</p>
+<p>In handing out his 16-year sentence, Ryan disagreed.</p>
+<p>“I haven’t heard anything faintly like remorse for his acts. I’ve heard remorse for the consequences of them,” Ryan said.</p>
+<p>Prior to Friday’s sentencing, the News4 I-Team sat down with the woman who first brought allegations against Williams to light nearly five years ago.</p>
+<p>“I had to make sure he was never going to be near another child again. That was the only goal I had in mind,” said the 2004 student, whom News4 is now identifying by her first name, Elizabeth.</p>
+<p>Now 38 years old, Elizabeth said she was 16 when Williams, her former writing coach, lured her into a sexual relationship.</p>
+<p>"He said: ‘Write about what you know.’ He knew I had sort of a deep desire to have a father figure and that I came from a home where like my parents were not present, because he asked about that,” she said. “He wanted to know if my parents were sort of watching."</p>
+<p>She said the abuse began with private writing sessions, regular emails and late-night phone calls that turned into a volatile, sexual relationship with the then-married man that lasted through college.</p>
+<p>The I-Team found the school reported concerns about Williams and the student to D.C. police in 2004 and he was placed on administration leave. The students, Elizabeth said, blamed her.</p>
+<p>“Because this was their favorite charismatic department head, and he was a really beloved teacher, and I was ‘the reason’ he was gone,” she said.</p>
+<p>Williams did not face charges at the time nor did the school terminate him. He returned to the classroom as Elizabeth’s instructor – something Elizabeth’s prior attorney told News4 is a violation of federal laws.</p>
+<p>“I felt like the school really let me down in terms of not being helpful in any way. They didn't remove me from the department. They didn't remove me from my classes,” Elizabeth said.</p>
+<p>Ellington has not replied to the I-Team’s repeated requests for comment this year. In 2022, Elizabeth pursued a civil case against Williams and the school, but her suit was thrown out because the statute of limitations had expired.</p>
+<p>In the judge’s order in that case, he wrote the move “exonerates neither Ellington nor the other Defendants.”</p>
+<p>As the I-Team investigated Elizabeth's story years ago, it found allegations that another former student was abused by Williams nearly a decade after Elizabeth was in his class.</p>
+<p>When the I-Team reached out to that other student, she told us a similar story – that she was 17 and Williams was 47 when their private writing sessions led to sexual abuse on school property and off campus.</p>
+<p>In a late 2021 interview, that former student said: “There was a point right at the very beginning when I had tried to stop it because I had the sense that, like, ‘No, you're a father figure to me or someone who I look up to you; I was kind of hoping for a mentor,’ you know? I don't think that that's what I was looking for. He insisted that it was me being swayed by kind of what society deems as acceptable.”</p>
+<p>After the I-Team’s investigation, both women filed criminal complaints against Williams, but prosecutors ultimately moved forward with the 2014 case, which was supported by hundreds of emails the 2014 student and Williams exchanged.</p>
+<p>During his trial this year, Williams testified some explicit emails he exchanged with the teen were writing exercises. He admitted to jurors he was in a relationship with that student but said they didn't have sex until she was 18 and in college.</p>
+<p>In February a DC jury found Williams guilty on 8 out of 10 counts of sex abuse of a minor and secondary student. They were deadlocked on two other counts.</p>
+<h2><strong>‘I have my life back’</strong></h2>
+<p>Asked what it was like to see Williams found guilty but in a case that was not about her abuse, Elizabeth said she believed her coming forward and participating in investigations against him helped lead to justice.</p>
+<p>She also praised the strength of the other former student, who faced him in court.</p>
+<p>“To be perfectly honest with you, I don’t know if I could've survived a trial with him the way the main witness did. She was incredible,” she said of the 2014 student.</p>
+<p>Elizabeth said watching the trial confirmed what she had come to understand as an adult.</p>
+<p>“This was a pattern. Absolutely. This man knows how to do a slow, methodical dismantling of a young girl, easily,” she said.</p>
+<p>Elizabeth said that, when she decided to bring her complaints against Williams to light five years ago, she was still coming to terms with what happened to her and the impact it had on her life.</p>
+<p>“Now, I can definitively say I am my own person and I know who I am now,” she said, adding: “I have my life back. It's not owned by him anymore. It's mine.”</p>
+<p>News4 has reached out to Mark Williams repeatedly over the years for comment about both cases, but he has never responded.</p>
+<p>On Friday, a former student delivered a statement on his behalf, saying he was instrumental in her success.</p>
+<p>Williams and his defense attorney asked for leniency in the judge’s sentencing, with Williams saying: “I also ask that I be of use, that I have a chance to rebuild.”</p>
+<p>A former Duke Ellington School board member also spoke to the judge, saying she believed the board failed both Williams and the students for not removing him from the class sooner. The I-Team has asked the school about those comments, as well, but has not yet received a response.</p>
+<p>A spokesperson for the D.C. Public Schools declined to comment this week, citing staffing shortages during the school district’s spring break.</p>
+<p><em>Reported by Tracee Wilkins, produced by Katie Leslie, and shot and edited by Steve Jones.</em></p>
+<blockquote> <em><strong>News4 sends breaking news stories by email. <a href="https://www.nbcwashington.com/newsletters/">Go here to sign up</a> to get breaking news alerts in your inbox.</strong></em> </blockquote>

@@ -1,0 +1,20 @@
+---
+author: Christopher Robbins
+cover_image: >-
+  https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/2026/04/SantaCon1.jpg
+date: '2026-04-19T14:05:34.245Z'
+dateFolder: 2026/04/19
+description: >-
+  SantaCon's organizer allegedly raised $2.7 million, but only donated "a small
+  fraction" of that amount to charity.
+isBasedOn: 'https://hellgatenyc.com/santacon-federal-indictment/'
+link: 'https://hellgatenyc.com/santacon-federal-indictment/'
+slug: 2026-04-19-httpshellgatenyccomsantacon-federal-indictment
+tags:
+  - nyc
+  - non-profits
+title: 'Sorry, Virginia: SantaCon Is a Con, Feds Say'
+---
+<figure><picture> <source data-sizes="auto" data-srcset="https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w300/format/webp/2026/04/SantaCon1.jpg 300w, https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w600/format/webp/2026/04/SantaCon1.jpg 600w, https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w1000/format/webp/2026/04/SantaCon1.jpg 1000w, https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w2000/format/webp/2026/04/SantaCon1.jpg 2000w" sizes="734px" srcset="https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w300/format/webp/2026/04/SantaCon1.jpg 300w, https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w600/format/webp/2026/04/SantaCon1.jpg 600w, https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w1000/format/webp/2026/04/SantaCon1.jpg 1000w, https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w2000/format/webp/2026/04/SantaCon1.jpg 2000w" type="image/webp"/> <img alt="Sorry, Virginia: SantaCon Is a Con, Feds Say" data-sizes="auto" data-src="https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w100/2026/04/SantaCon1.jpg" data-srcset="https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w300/2026/04/SantaCon1.jpg 300w, https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w600/2026/04/SantaCon1.jpg 600w, https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w1000/2026/04/SantaCon1.jpg 1000w, https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w2000/2026/04/SantaCon1.jpg 2000w" sizes="734px" src="https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w100/2026/04/SantaCon1.jpg" srcset="https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w300/2026/04/SantaCon1.jpg 300w, https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w600/2026/04/SantaCon1.jpg 600w, https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w1000/2026/04/SantaCon1.jpg 1000w, https://storage.ghost.io/c/29/5d/295dd95c-dc6c-40d7-9ed4-60debccaffe7/content/images/size/w2000/2026/04/SantaCon1.jpg 2000w"/> </picture><figcaption>SantaCon, 2022. (Stephanie Keith / Hell Gate)</figcaption></figure>
+<p>Sure, it's extremely obnoxious when hundreds of velvet-clad 22-year-olds chug and puke and piss and punch their way through Lower Manhattan every December—but at least <a href="https://hellgatenyc.com/santacon-why/"><u>SantaCon</u></a>'s proceeds are going to charitable causes and not, say, renovations to a New Jersey lake house or a tab at a Michelin-starred restaurant, right? Right?</p>
+<p>On Wednesday afternoon, federal prosecutors <a href="https://www.justice.gov/usao-sdny/pr/santacon-organizer-charged-wire-fraud-scheme-targeting-attendees-and-host-venues?ref=hellgatenyc.com"><u>accused</u></a> SantaCon of being, well, a con. According to an indictment, SantaCon's organizer, Stefan Pildes, raised $2.7 million from every SantaCon starting in 2019 through 2025, but only donated "a small fraction" of that sum to charity.</p>
