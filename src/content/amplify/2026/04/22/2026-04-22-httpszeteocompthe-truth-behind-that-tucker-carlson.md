@@ -1,0 +1,35 @@
+---
+author: Justin Baragona
+cover_image: >-
+  https://substackcdn.com/image/fetch/$s_!w166!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55b59ffe-672f-4898-965d-3b86fcda207e_6000x4000.jpeg
+date: '2026-04-23T01:25:10.955Z'
+dateFolder: 2026/04/22
+description: >-
+  I watched the entire two-hour Tucker Carlson interview with his brother – and
+  it wasn't pretty. Plus, will Fox abandon Trump as his approval numbers
+  continue to sink?
+isBasedOn: 'https://zeteo.com/p/the-truth-behind-that-tucker-carlson'
+link: 'https://zeteo.com/p/the-truth-behind-that-tucker-carlson'
+slug: 2026-04-22-httpszeteocompthe-truth-behind-that-tucker-carlson
+tags:
+  - media
+  - politics
+title: The Truth Behind That Tucker Carlson Apology Video
+---
+<h3>I watched the entire two-hour Tucker Carlson interview with his brother – and it wasn't pretty. Plus, will Fox abandon Trump as his approval numbers continue to sink?</h3>
+
+
+
+<p>Good evening, and welcome to this week’s <strong>‘Ragebait.’</strong></p>
+<p><strong>Justin Baragona</strong> here, bringing you the latest media dispatches from the right-wing industrial outrage complex. In tonight’s edition, we take a deep dive into <strong>Tucker Carlson’s</strong> mea culpa for “misleading people” into voting for Trump – and why progressives shouldn’t just take it at face value. Plus, we ask: with Trump’s approval numbers sinking to new lows, is it just a matter of time before Fox abandons him?</p>
+<h1><strong>Should the Left Embrace Tucker the ‘Tormented’?</strong></h1>
+<figure><a data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!w166!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55b59ffe-672f-4898-965d-3b86fcda207e_6000x4000.jpeg"><picture><img alt="" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/55b59ffe-672f-4898-965d-3b86fcda207e_6000x4000.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":971,"width":1456,"resizeWidth":null,"bytes":3846116,"alt":null,"title":null,"type":"image/jpeg","href":null,"belowTheFold":false,"topImage":true,"internalRedirect":"https://zeteo.com/i/195054491?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55b59ffe-672f-4898-965d-3b86fcda207e_6000x4000.jpeg","isProcessing":false,"align":null,"offset":false}' sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!w166!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55b59ffe-672f-4898-965d-3b86fcda207e_6000x4000.jpeg" srcset="https://substackcdn.com/image/fetch/$s_!w166!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55b59ffe-672f-4898-965d-3b86fcda207e_6000x4000.jpeg 424w, https://substackcdn.com/image/fetch/$s_!w166!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55b59ffe-672f-4898-965d-3b86fcda207e_6000x4000.jpeg 848w, https://substackcdn.com/image/fetch/$s_!w166!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55b59ffe-672f-4898-965d-3b86fcda207e_6000x4000.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!w166!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55b59ffe-672f-4898-965d-3b86fcda207e_6000x4000.jpeg 1456w"/></picture></a><figcaption>Tucker Carlson speaks alongside Trump during a Turning Point Action campaign rally at the Gas South Arena on Oct. 23, 2024, in Duluth, Georgia. Photo by Anna Moneymaker/Getty Images</figcaption></figure>
+<p>You do not, under any circumstances, got to hand it to <strong>Tucker Carlson</strong>.</p>
+<p>The former Fox star has increasingly drawn plaudits from progressives for his <a href="https://zeteo.com/p/hasan-piker-heart-and-mind">“credible anti-war voice”</a> and outspoken criticism of Israel’s genocide in Gaza, resulting in <strong>Donald Trump </strong>unceremoniously excommunicating his one-time close ally and adviser from MAGA.</p>
+<p>With Democratic lawmakers <a href="https://thehill.com/homenews/house/5826978-khanna-greene-alliance-trump-iran/">talking up a potential bipartisan alliance</a> that would feature Carlson, the far-right pundit sparked even more applause from the left when he issued an apology for “misleading people” with his past advocacy for Trump.</p>
+<p>“You know, we’ll be tormented by it for a long time – I will be… It was not intentional,” Carlson declared at the tail-end of a <a href="https://x.com/TuckerCarlson/status/2046272912919871761">two-plus-hour podcast conversation</a> with his brother, former Trump speechwriter <strong>Buckley Carlson</strong>, whom he colloquially referred to as “Uncle Buck.”</p>
+<p>“You and I and everyone else who supported him – you wrote speeches for him, I campaigned for him – I mean, we’re implicated in this for sure,” Tucker Carlson said. “It’s not enough to say, ‘Well, I changed my mind’ – or like, ‘Oh, this is bad – I’m out.’”</p>
+<p>To be certain, Tucker’s explicit condemnation of Trump’s illegal war against Iran and Israel’s genocidal violence against Palestinians should be commended. It is clearly a good thing, and we can only hope that more on the right follow his lead on these particular issues.</p>
+<p>However, I watched the entire two-plus-hour conversation, and it was readily apparent that the two had become disenchanted with Trump precisely because they believed he wasn’t <em>extreme</em> and <em>fascistic</em> enough, and they felt the president didn’t make good on his vows of retribution against liberals and Democrats.</p>
+<p>Besides drawing <a href="https://www.hollywoodreporter.com/news/politics-news/tucker-carlson-apology-backing-donald-trump-buckley-carlson-1236570840/">copious</a> <a href="https://www.cnn.com/2026/04/21/politics/video/inside-politics-panel-tucker-carlson-iran-war-apology">headlines</a> that <a href="https://variety.com/2026/digital/news/tucker-carlson-apologizes-misleading-donald-trump-tormented-1236727002/">hyped </a>his mea culpa for helping Trump get elected, <a href="https://x.com/lawindsor/status/2046600608178642966?s=20">prominent</a> <a href="https://x.com/cenkuygur/status/2046709931949351302?s=20">left-wing personalities</a> <a href="https://x.com/MikeNellis/status/2046678220653662391?s=20">praised</a> Carlson. Even <strong>Mehdi</strong> – who <a href="https://x.com/mehdirhasan/status/2035213228809056625?s=20">also complimented Carlson recently</a> for challenging an interviewer to define the phrase “Israel’s right to exist” – briefly gave Carlson some kudos. That is, until he listened to the rest of the conversation that took place between the two ultra-conservative brothers.</p>
+<p>Previous</p>
