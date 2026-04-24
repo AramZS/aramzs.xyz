@@ -1,0 +1,45 @@
+---
+author: Dan Mangan
+cover_image: >-
+  https://image.cnbcfm.com/api/v1/image/108280550-1773951584786-gettyimages-2266902125-KALSHI_ADS.jpeg?v=1776892305&w=1920&h=1080
+date: '2026-04-23T13:54:46.023Z'
+dateFolder: 2026/04/23
+description: >-
+  The incidents involved a candidate from Virginia seeking a Senate seat and
+  candidates running for House seats from Minnesota and Texas.
+isBasedOn: 'https://www.cnbc.com/2026/04/22/kalshi-insider-trading-congress.html'
+link: 'https://www.cnbc.com/2026/04/22/kalshi-insider-trading-congress.html'
+slug: 2026-04-23-httpswwwcnbccom20260422kalshi-insider-trading-congresshtml
+tags:
+  - gambling
+  - politics
+title: >-
+  Kalshi suspends, fines 3 congressional candidates in ‘insider trading’
+  enforcement actions
+---
+<figure><picture data-test="Picture"><source media="(min-width: 1340px)" srcset="https://image.cnbcfm.com/api/v1/image/108280550-1773951584786-gettyimages-2266902125-KALSHI_ADS.jpeg?v=1776892305&amp;w=1480&amp;h=833&amp;ffmt=webp&amp;vtcrop=y" type="image/webp"/><source media="(min-width: 1020px)" srcset="https://image.cnbcfm.com/api/v1/image/108280550-1773951584786-gettyimages-2266902125-KALSHI_ADS.jpeg?v=1776892305&amp;w=1260&amp;h=709&amp;ffmt=webp&amp;vtcrop=y" type="image/webp"/><source media="(min-width: 760px)" srcset="https://image.cnbcfm.com/api/v1/image/108280550-1773951584786-gettyimages-2266902125-KALSHI_ADS.jpeg?v=1776892305&amp;w=1858&amp;h=1045&amp;ffmt=webp&amp;vtcrop=y" type="image/webp"/><source media="(min-width: 0px)" srcset="https://image.cnbcfm.com/api/v1/image/108280550-1773951584786-gettyimages-2266902125-KALSHI_ADS.jpeg?v=1776892305&amp;w=717&amp;h=403&amp;ffmt=webp&amp;vtcrop=y" type="image/webp"/><figure><img alt="A Kalshi advertisement at a bus stop in Washington, DC, US, on Thursday, March 19, 2026. The rapid expansion of prediction markets is facing increasingly aggressive pushback from state officials pursuing a sprawling patchwork of lawsuits and cease-and-desist orders. Photographer: Daniel Heuer/Bloomberg via Getty Images" src="https://image.cnbcfm.com/api/v1/image/108280550-1773951584786-gettyimages-2266902125-KALSHI_ADS.jpeg?v=1776892305&amp;w=1858&amp;h=1045&amp;vtcrop=y"/></figure></picture></figure>
+<p>A Kalshi advertisement at a bus stop in Washington, D.C., March 19, 2026.</p>
+<p>Daniel Heuer | Bloomberg | Getty Images</p>
+<p><a href="https://www.cnbc.com/2026/04/14/prediction-markets-will-grow-to-1-trillion-by-2030-bernstein-says.html">Prediction market</a> platform <a href="https://kalshi.com/">Kalshi</a> said Wednesday it had suspended and fined three candidates for <a href="https://www.cnbc.com/congress/">Congress</a> — from Minnesota, Texas and Virginia — for “<a href="https://news.kalshi.com/p/kalshi-political-insider-trading-enforcement-update">political insider trading</a>” activity on their own campaigns.</p>
+<p>Kalshi <a href="https://news.kalshi.com/p/kalshi-political-insider-trading-enforcement-update">said in a statement</a> that all three candidates, who each were suspended for five years, “were flagged because of our <a href="https://www.axios.com/2026/03/23/kalshi-prediction-markets-insider-trading-ban?utm_campaign=enforcement-update-kalshi-continues-crackdown-on-political-insider-trading&amp;utm_medium=referral&amp;utm_source=news.kalshi.com">newly released safeguards</a> to block political candidates from trading on their own elections.”</p>
+<p>The sanctioned candidates were <a href="https://kalshi-public-docs.s3.amazonaws.com/regulatory/notices/KDA20260003%20Moran%20Notice%20of%20Disciplinary%20Action.pdf">Mark Moran</a>, who had been a candidate in Virginia’s Democratic primary for the Senate before deciding to seek the seat as an independent; Minnesota state Sen. <a href="https://kalshi-public-docs.s3.amazonaws.com/regulatory/notices/KDA20260005%20Klein%20Notice%20of%20Settlement%20(4.21.2026)%20(7).pdf">Matt Klein</a>, who is running in the Democratic primary for that state’s 2nd Congressional District; and <a href="https://kalshi-public-docs.s3.amazonaws.com/regulatory/notices/KDA20260004%20Enriquez%20-%20Notice%20of%20Settlement%20(4.21.2025).pdf">Ezekiel Enriquez</a> of Texas, who ran in the Republican primary for the state’s 21st Congressional District.</p>
+<p>Kalshi identified the candidates by name in <a href="https://kalshi.com/regulatory/notices?utm_campaign=two-insider-cases-we-ve-recently-closed&amp;utm_medium=referral&amp;utm_source=news.kalshi.com">separate notices of disciplinary action.</a></p>
+<p>Kalshi said Moran “traded in two markets related to his campaign.”</p>
+<p>“The first was a market on individuals who would run for public office in 2026,” Kalshi said. “This person placed a trade on himself in this market.”</p>
+<p>“Then, once the trader announced himself as a candidate for the Democratic Primary election for Virginia U.S. Senate, he again traded on his own candidacy,” the company said.</p>
+<p>Moran, when contacted by Kalshi, initially acknowledged being a candidate and violating the rules, but later stopped communicating with the company’s team, according to Kalshi. “Moran repeatedly refused to resolve this matter via settlement,” the company said.</p>
+<p>Kalshi fined Moran $6,229.30, in addition to suspending him, the company said.</p>
+<p>Moran, <a href="https://x.com/itsmarkmoran/status/2047038838699446324?s=20">in a statement on X</a>, said, “I traded $100 on myself, knowing this would happen (also knowing that I wouldn’t be vying for the democratic nomination) and the attention it would create to highlight how this company is destroying young men and as Senator I will go after Kalshi and impose significant penalties on them - 25% - a vice tax - to pay down our national debt.”</p>
+<p>“Also ironic timing given that on DC subways, Kalshi has to run ads that they are a fair and legal betting market, bc they know heat is on them and the admin already chose their winner with polymarket… They know they’re f---ed and trying to do the same thing the tobacco companies did,” Moran wrote.</p>
+<p>Klein and Enriquez both cooperated with Kalshi’s probes, according to the company.</p>
+<h2>Read more CNBC politics coverage</h2>
+<ul><li><a href="https://www.cnbc.com/2026/04/22/warren-trump-iran-war-evacuations.html">Warren presses Trump administration for answers on evacuation of Americans amid Iran war</a></li><li><a href="https://www.cnbc.com/2026/04/22/strait-of-hormuz-ships-attacked-iran-war.html">Iran says it has seized two ships in Strait of Hormuz</a></li><li><a href="https://www.cnbc.com/2026/04/22/data-privacy-bill-congress-states.html">Lawmakers seek to override state data privacy laws with new bill</a></li><li><a href="https://www.cnbc.com/2026/04/21/kash-patel-fbi-defamation-lawsuit-figliuzzi-dismissed.html">Judge dismisses Patel’s defamation lawsuit over claim he frequented ‘nightclubs’</a></li><li><a href="https://www.cnbc.com/2026/04/21/doj-southern-poverty-law-center-indictment-extremist.html">DOJ charges SPLC with fraud over secret funding of extremist groups</a></li><li><a href="https://www.cnbc.com/2026/04/21/kevin-warsh-fed-regime-change-senate-confirmation-hearing.html">Analysis: Warsh emerges from a difficult hearing with his Fed ‘regime-change’ plan intact</a></li></ul>
+<p>Klein, who had “traded a small amount on the outcome of his own election” also “acknowledged that the trading activity violated Kalshi exchange rules, agreed to pay a fine of $539.85, and” to his suspension, the company said.</p>
+<p>Klein, in <a href="https://x.com/DrMattKleinMN/status/2047055329020572002?s=20">a statement on X</a>, said that last October, he heard from friends that there was a prediction market enabling wagers on his primary race.</p>
+<p>“I had never wagered on a predictions market previously,” Klein said. “I was curious about how it worked. I set up an account and bet $50 of my own funds that I would win the primary. I was informed in March of 2026 that this was a violation of platform rules. In compliance with their request, I paid a penalty and agreed to be suspended. That was the only wager I have ever made on a predictions market.”</p>
+<p>“This was a mistake, and I apologize,” Klein wrote.</p>
+<p>He added, “My experience, like many other Minnesotans, points to the need for clearer rules and regulations for these types of markets.”</p>
+<p>Enriquez traded a “slightly larger amount” on his own election than Klein did, according to Kalshi, which said the amount was less than $100. Enriquez “was fully cooperative with the investigation and agreed to settle acknowledging the rule violation, paying a fine of $784.20, and accepting” his suspension, Kalshi said.</p>
+<p>Enriquez did not immediately respond to requests for comment.</p>
+<p><em>Disclosure: CNBC and Kalshi have a commercial relationship that includes a CNBC minority investment.</em></p>
+<p><a href="https://www.google.com/preferences/source?q=https://www.cnbc.com/">Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.</a></p>

@@ -1,0 +1,33 @@
+---
+author: Bryan Metzger
+cover_image: 'https://i.insider.com/64c28791048ff200190b9bdd?width=1200&format=jpeg'
+date: '2026-04-23T13:57:10.106Z'
+dateFolder: 2026/04/23
+description: >-
+  Cao, who was the GOP nominee against Democratic Rep. Jennifer Wexton in 2022,
+  also said he was "African-American because I grew up in Africa too."
+isBasedOn: >-
+  https://www.businessinsider.com/hung-cao-gop-senate-candidate-virginia-witchcraft-california-african-american-2023-7
+link: >-
+  https://www.businessinsider.com/hung-cao-gop-senate-candidate-virginia-witchcraft-california-african-american-2023-7
+slug: >-
+  2026-04-23-httpswwwbusinessinsidercomhung-cao-gop-senate-candidate-virginia-witchcraft-california-african-american-2023-7
+tags:
+  - politics
+title: >-
+  GOP Senate candidate Hung Cao warns of 'witchcraft' happening in California:
+  'We can't let that happen in Virginia'
+---
+<figure data-e2e-name="image-figure-image" data-media-container="image" data-type="img"><img alt="Hung Cao, a Republican candidate for US Senate in Virginia." sizes="(min-width: 1280px) 900px" src="https://i.insider.com/64c28791048ff200190b9bdd?width=2000&amp;format=jpeg&amp;auto=webp" srcset="https://i.insider.com/64c28791048ff200190b9bdd?width=400&amp;format=jpeg&amp;auto=webp 400w, https://i.insider.com/64c28791048ff200190b9bdd?width=500&amp;format=jpeg&amp;auto=webp 500w, https://i.insider.com/64c28791048ff200190b9bdd?width=700&amp;format=jpeg&amp;auto=webp 700w, https://i.insider.com/64c28791048ff200190b9bdd?width=1000&amp;format=jpeg&amp;auto=webp 1000w, https://i.insider.com/64c28791048ff200190b9bdd?width=1300&amp;format=jpeg&amp;auto=webp 1300w, https://i.insider.com/64c28791048ff200190b9bdd?width=2000&amp;format=jpeg&amp;auto=webp 2000w"/><figcaption>Hung Cao, a Republican candidate for US Senate in Virginia. Jim Stone/Handout via Reuters</figcaption></figure>
+<p>Hung Cao, a Republican running for US Senate in Virginia, warned in an interview this week that "witchcraft" has "taken over" in some parts of California.</p>
+<p>After losing to Democratic Rep. Jennifer Wexton by less than ten percentage points in 2022, Cao is seeking to take on Democratic Sen. Tim Kaine, who's running for a third term.</p>
+<p>In the <a data-analytics-post-depth="20" data-mrf-link="https://www.youtube.com/watch?v=ZuMLo32dt6A&amp;t=996s" data-track-click='{"click_type":"other","element_name":"body_link","event":"outbound_click"}' href="https://www.youtube.com/watch?v=ZuMLo32dt6A&amp;t=996s">interview with Sean Feucht</a> — a <a data-analytics-post-depth="20" data-mrf-link="https://www.rollingstone.com/politics/politics-features/maga-preacher-sean-feucht-scored-millions-from-his-trump-loving-flock-1380126/" data-track-click='{"click_type":"other","element_name":"body_link","event":"outbound_click"}' href="https://www.rollingstone.com/politics/politics-features/maga-preacher-sean-feucht-scored-millions-from-his-trump-loving-flock-1380126/">California-based far-right pastor</a> who led a <a data-analytics-post-depth="20" data-mrf-link="https://www.politico.com/news/magazine/2020/10/25/sean-feucht-christian-rocker-covid-protest-movement-431734" data-track-click='{"click_type":"other","element_name":"body_link","event":"outbound_click"}' href="https://www.politico.com/news/magazine/2020/10/25/sean-feucht-christian-rocker-covid-protest-movement-431734">movement against COVID-19 health restrictions</a> and has <a data-analytics-post-depth="20" data-mrf-link="https://www.foxnews.com/media/disney-rally-california-woke-agenda" data-track-click='{"click_type":"other","element_name":"body_link","event":"outbound_click"}' href="https://www.foxnews.com/media/disney-rally-california-woke-agenda">rallied against "wokeness" at Disney</a> — Cao lamented that Christianity has declined in influence in the United States over time, before referencing Wiccan communities in California.</p>
+<p>"There's a place in Monterey, California called 'Lover's Point,'" Cao said. "The original name was 'Lovers of Christ Point, but now it's become — they took out the Christ, it's 'Lover's Point,' and it's really — Monterey's a very dark place now, a lot of witchcraft, and the Wiccan community has really taken over there."</p>
+<p>"We can't let that happen in Virginia," he added.</p>
+<p>While there <a data-analytics-post-depth="60" data-mrf-link="https://www.montereycountyweekly.com/news/831_tales/local-wiccans-await-a-cherished-holiday-halloween/article_392a3607-ba59-5004-b322-97ee34d98528.html" data-track-click='{"click_type":"other","element_name":"body_link","event":"outbound_click"}' href="https://www.montereycountyweekly.com/news/831_tales/local-wiccans-await-a-cherished-holiday-halloween/article_392a3607-ba59-5004-b322-97ee34d98528.html">does appear to be some Wiccan presence in Monterey</a>, there's little evidence that the community has "taken over" the sunny seaside locale.</p>
+<p>According to the <a data-analytics-post-depth="60" data-mrf-link="http://mchsmuseum.com/pacificgrove.html" data-track-click='{"click_type":"other","element_name":"body_link","event":"outbound_click"}' href="http://mchsmuseum.com/pacificgrove.html">Monterey County Historical Society</a>, "Lover's Point" was indeed once known as "Lovers of Jesus Point," owing to its settlement by the Methodist Episcopalian Church in the 1870s.</p>
+<p>Earlier in the interview, Cao — a Vietnamese refugee — also remarked that he was African-American by virtue of <a data-analytics-post-depth="80" data-mrf-link="https://www.washingtonpost.com/opinions/2022/04/21/erosion-excellence-thomas-jefferson-high-school/" data-track-click='{"click_type":"other","element_name":"body_link","event":"outbound_click"}' href="https://www.washingtonpost.com/opinions/2022/04/21/erosion-excellence-thomas-jefferson-high-school/">having spent time in Niger as a child.</a></p>
+<p>"Your history is like, breaking stereotype after stereotype," <a data-analytics-post-depth="80" data-mrf-link="https://www.youtube.com/watch?v=ZuMLo32dt6A&amp;t=450s" data-track-click='{"click_type":"other","element_name":"body_link","event":"outbound_click"}' href="https://www.youtube.com/watch?v=ZuMLo32dt6A&amp;t=450s">remarked</a> Feucht. "And you're conservative, and you love God, and you love America."</p>
+<p>"And I'm African-American because I grew up in Africa, too," Cao interjected.</p>
+<p>A spokesperson for Cao's campaign did not immediately respond to Insider's request for comment.</p>
+<p>Cao is facing off against several candidates for the Republican nomination for US Senate, including Scott Parkinson, the Vice President of Government Affairs at the conservative Club for Growth and a former top staffer for Ron DeSantis, before he became Governor of Florida.</p>
