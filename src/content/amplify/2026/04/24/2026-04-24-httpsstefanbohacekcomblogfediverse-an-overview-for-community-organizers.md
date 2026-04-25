@@ -1,0 +1,29 @@
+---
+author: stefanbohacek.com
+cover_image: 'https://stefanbohacek.com/wp-content/uploads/2026/01/fediverse-world-map.png'
+date: '2026-04-25T03:06:46.980Z'
+dateFolder: 2026/04/24
+description: Fediverse as a tool for communities and community organizers.
+isBasedOn: 'https://stefanbohacek.com/blog/fediverse-an-overview-for-community-organizers/'
+link: 'https://stefanbohacek.com/blog/fediverse-an-overview-for-community-organizers/'
+slug: >-
+  2026-04-24-httpsstefanbohacekcomblogfediverse-an-overview-for-community-organizers
+tags:
+  - tech
+  - decentralization
+title: 'Fediverse: An overview for community organizers'
+---
+<p><a href="https://jointhefediverse.net/">Fediverse</a> is a grassroot effort to empower people to connect online without Big Tech CEOs controlling what they can post and venture capital companies pouring in money and hoping for a big payout one day at the price of <a href="https://en.wikipedia.org/wiki/Enshittification">enshittification</a>.</p>
+<p>Fediverse is often compared to email: you can use Gmail to send a message to anyone who uses Outlook, Yahoo! Mail, or any other email client, and they can respond back to you. You can even host your own email server.</p>
+<p>This is because email is built on top of technical standards that each email client implements. This is the opposite of how typical social media works, with no easy way to connect between different platforms. If you’re on Facebook, you can only talk to other people on Facebook.</p>
+<p>Decentralized social media aims to change this, allowing people to build their own communities and still be able to reach their friends who are not part of them.</p>
+<p>You might have already heard about <a href="https://en.wikipedia.org/wiki/Mastodon_(social_network)">Mastodon</a>, which is one of the platforms that make up the fediverse. There are many more, each focused on different aspects of social media. Like <a href="https://en.wikipedia.org/wiki/PeerTube">Peertube</a> for videos, or <a href="https://en.wikipedia.org/wiki/Pixelfed">Pixelfed</a> for sharing photos. And if you have an account on one of these platforms, you can connect with anyone on the other platforms, much like with email.</p>
+<p>As a community organizer, you have a few options for setting up your community.</p>
+<ul> <li><a href="https://masto.host/">Masto.host</a> is popular service focused on hosting Mastodon servers with data centers located in France. See <a href="https://masto.host/pricing/">their pricing page</a>.</li> <li><a href="https://fedi.monster/">Fedi Monster</a>: supports Mastodon, Pixelfed, and GoToSocial, but may be periodically closed to new signups</li> <li><a href="https://elest.io/fully-managed-services/applications/fediverse">elest.io</a>: multiple platforms, including Mastodon, Pixelfed, Pleroma, Misskey, Sharkey, PeerTube, Friendica, Lemmy, and KBIN</li> </ul>
+<p>Fediverse platforms are typically open-source, so you can also install them on your own server, see the <a href="https://docs.joinmastodon.org/user/run-your-own/">Mastodon</a> or <a href="https://docs.pixelfed.org/">Pixelfed</a> documentation for an example.</p>
+<p>There is a variety of services and tools that help you automate your social media activity. Given Mastodon’s popularity, most tools integrate primarily with this platform. These include:</p>
+<p><a href="https://theforkiverse.com/">The Forkiverse</a> is a Mastodon community created by the hosts of the <em>Search Engine</em> and <em>Hard Fork</em> podcasts. Announced as an experiment, it quickly grew to thousands of members over the period of just two weeks.</p>
+<blockquote data-instance="theforkiverse.com" data-post-id="115871946001630907"> <p>– A stranger's dog making eye contact with you<br/>– A song you haven't heard in a while playing while you're on shuffle<br/>– Your cup of coffee doesn't leak even a little bit</p> </blockquote>
+<p>Atmosphere is the name of the network that primarily consists of Bluesky, much like the fediverse is made up of Mastodon, Pixelfed, and other fediverse platforms, and uses its own protocol. It is possible to follow accounts between these two networks using the <a href="https://fed.brid.gy/">Bridgy Fed</a> project.</p>
+<p>While Atmosphere’s stated goal is to achieve decentralization, the current efforts are <a href="https://arewedecentralizedyet.online/">very</a> <a href="https://dustycloud.org/blog/re-re-bluesky-decentralization/">limited</a>, with vast majority of the network depending heavily on <a href="https://atp.fyi/network">Bluesky’s own infrastructure</a>. Furthermore, <a href="https://stefanbohacek.com/blog/the-ways-we-keep-the-fediverse-sustainable/">unlike the fediverse</a>, Bluesky relies on <a href="https://bsky.social/about/blog/10-24-2024-series-a">venture capital investments</a> to operate, including from a bitcoin and crypto-focused <a href="https://en.wikipedia.org/wiki/Blockchain_Capital">Blockchain Capital</a>. Plus, ads are <a href="https://bsky.app/profile/yunginter.net/post/3jtrcnu2stc2b">very likely coming</a> at some point in the future.</p>
+<ul> <li><a href="https://www.uibk.ac.at/en/newsroom/2024/mastodon-for-all-university-employees/"><em>Mastodon for all university employees</em></a>: opening the Mastodon service to more than 5,000 employees of the University of Innsbruck</li> <li><em><a href="https://www.ebu.ch/news/2024/03/public-broadcasters-of-europe-lets-all-join-mastadon">Public Broadcasters of Europe, Let’s All Start Microblogging</a></em>: Innovation Manager at Deutsche Welle (DW), writes about his team’s exceptionally positive experience with microblogging in the Fediverse</li> <li><em><a href="https://kim.town/first-eighteen-months-mastodon-server">Thoughts on the first 18 months of running a Mastodon server</a></em>: experiences of a small community tech studio working in the publicly-funded community sector</li> </ul>
