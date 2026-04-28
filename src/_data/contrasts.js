@@ -108,11 +108,11 @@ module.exports = {
     { colors: ["#b4dbf3", "#d76d95", "#0198e4", "#46df91", "#eb7582", "#015447", "#5ed7d8", "#121021"], sourceInfo: "Jentry Chau vs the Underworld, S1E2 18:58" }, // Jentry Chau vs the Underworld, S1E2 18:58
     { colors: ["#26261e", "#d75ec3", "#d6e17a", "#446e74", "#d9cb71", "#14e369", "#874329", "#db8faa", "#6b93c1", "#3f316b", "#7839dc", "#38be9b"], sourceInfo: "Jentry Chau vs the Underworld, S1E2" }, // Jentry Chau vs the Underworld, S1E2 18:58
     {
-      colors:["#f75b9a", "#130912", "#63dcf4", "#cfb52e", "#e8b5d1", "#94cdce", "#ebecc0"],
+      colors: ["#f75b9a", "#130912", "#63dcf4", "#cfb52e", "#e8b5d1", "#94cdce", "#ebecc0"],
       sourceInfo: "Castlevania: Nocturne, S2E7"
     },
     {
-      colors: ["#d2e2f4", "#262624", "#d3432a", "#933176", "#d0792a", "#e6b647", "#e9d16e", ],
+      colors: ["#d2e2f4", "#262624", "#d3432a", "#933176", "#d0792a", "#e6b647", "#e9d16e",],
       sourceInfo: "NEH Buttons", source: "https://bsky.app/profile/nehafge3403.bsky.social/post/3lpjzvqsmp227"
     },
     {
@@ -124,6 +124,21 @@ module.exports = {
       colors: ["#080000", "#fca45b", "#ffad3f", "#593f09", "#020406", "#1eb331", "#086e0c", "#42201e", "#000002", "#0f82fb", "#1acffd"],
       sourceInfo: "From Suspiria (1977) film frames",
       source: "https://bsky.app/profile/letterboxd.social/post/3mdb757566k2b"
+    },
+    {
+      colors: ["#465579", "#fe3eff", "#641aa1", "#f90000", "#ed5c34", "#ffffff", "#db0602", "#48f2eb", "#1017f3", "#e2225b", "#010101"],
+      sourceInfo: "From Beyond the Spider-Verse film frames (1)",
+      source: "https://www.tumblr.com/aramzs/814017105005510656"
+    },
+    {
+      colors: ["#fffde3", "#4e2c85", "#1c101e", "#13214b", "#ea944d", "#bb5b66"],
+      sourceInfo: "From Beyond the Spider-Verse film frames (2)",
+      source: "https://www.tumblr.com/aramzs/814017105005510656"
+    },
+    {
+      colors: ["#fd9077", "#e4e4e2", "#e893ae", "#1b5b74"],
+      sourceInfo: "From Beyond the Spider-Verse film frames (3)",
+      source: "https://www.tumblr.com/aramzs/814017105005510656"
     }
   ]
 };
