@@ -1,0 +1,35 @@
+---
+author: Hayley Tsukayama
+cover_image: 'https://www.eff.org/files/banner_library/ageverificationbanner.png'
+date: '2026-04-28T20:12:35.773Z'
+dateFolder: 2026/04/28
+description: >-
+  EFF has long warned against age-gating the internet. Such mandates strike at
+  the foundation of the free and open internet. They create unnecessary and
+  unconstitutional barriers for adults and young people to access information
+  and express themselves online. They hurt small and open-source...
+isBasedOn: >-
+  https://www.eff.org/deeplinks/2026/03/ab-1043s-internet-age-gates-hurt-everyone
+link: >-
+  https://www.eff.org/deeplinks/2026/03/ab-1043s-internet-age-gates-hurt-everyone
+slug: >-
+  2026-04-28-httpswwwefforgdeeplinks202603ab-1043s-internet-age-gates-hurt-everyone
+tags:
+  - privacy
+title: A.B. 1043’s Internet Age Gates Hurt Everyone
+---
+<figure><img alt="Purple padlock with an 18+ only symbol and a combination lock" src="https://www.eff.org/files/banner_library/ageverificationbanner.png"/><figcaption>Purple padlock with an 18+ only symbol and a combination lock</figcaption></figure>
+<p>EFF has long warned against <a href="https://www.eff.org/issues/age-verification">age-gating the internet</a>. <a href="https://www.eff.org/deeplinks/2025/10/age-verification-estimation-assurance-oh-my-guide-terminology">Such mandates</a> strike at the foundation of the free and open internet. They create unnecessary and unconstitutional barriers for adults and young people to access information and express themselves online. They hurt small and open-source developers. And none of the available age verification options are perfect in terms of protecting private information, providing access to everyone, and safely handling sensitive data.</p>
+<p>Last year, EFF raised concerns about A.B. 1043 as one of several bills in the California legislature that took the wrong approach <a href="https://www.eff.org/deeplinks/2025/05/eff-california-lawmakers-theres-better-way-help-young-people-online">to protecting young people online</a>—by focusing on censorship rather than privacy. Now that A.B. 1043 is set to go into effect in 2027, we've received a lot of questions about its possible effects.</p>
+<h3><strong>A.B. 1043’s Censorship Trap</strong></h3>
+<p>Even proposals that may not explicitly mandate age verification, such as A.B. 1043, can still create many of the same censorship problems. A.B. 1043 requires all operating systems and app stores to create age bracketing systems that will segment their users based on their ages. Users are then required to provide operating systems and apps their birth date or age so that they can be placed in their respective age bracket. A.B. 1043 also requires application and software developers to collect this age bracket information when a user want to use that software or application.</p>
+<p>A.B. 1043 treats the age-bracket signal sent by a user as giving the application or service actual knowledge of users’ ages. Knowledge that the user is a minor could provide the basis for liability under other laws, such as California Age-Appropriate Design Code.</p>
+<p>The result is a recipe for censorship. Applications and software developers for operating systems may interpret A.B. 1043 and its potential enforcement by the California Attorney General as requiring them to exclude users who say they are minors or who don’t fit in a specific age bracket they believe is acceptable to use their application or software. But minors have a First Amendment right to access the vast majority of these apps and services. What California has done is essentially outsource censorship to developers, who are likely to lean into over-censorship.</p>
+<h3><strong>Broad Language Undercuts Policy Goals</strong></h3>
+<p>A.B. 1043’s one-size-fits-all approach is also problematic because it disregards the many ways in which we make and use digital tools. It assumes the internet and digital devices begin and end with the dominant technology companies and device makers, when we know that’s not the case. Additionally, many families share devices, especially in low-income households. These proposals do not account for situations where there is more than one user of a device.</p>
+<p>Additionally, broad proposals that demand the implementation of such censorship tools under the guise of protecting young people's safety force developers to reach for imperfect solutions—or risk being found non-compliant and pushed out of markets. Many of these mandates imagine technology that <a href="https://www.eff.org/pages/use-guide-navigating-age-assurance#main-content">does not currently exist</a>. Such poorly thought-out mandates, in truth, cannot achieve the purported goal of age verification. Often, they are easy to circumvent and many also expose consumers to <a href="https://www.eff.org/pages/use-guide-navigating-age-assurance#main-content">real data breach risk.</a></p>
+<h3><strong>Squeezing Small and Open-Source Developers Hurts Everyone</strong></h3>
+<p>A.B. 1043’s burdens fall particularly heavily on developers who aren’t at large, well-resourced companies, such as those developing open-source software. Not recognizing the diversity of software development when thinking about liability in these proposals effectively limits software choices—which is especially harmful at a time when computational power is being rapidly concentrated in the hands of the few. This harms users' and developers' right to free expression, their digital liberties, privacy, and ability to create and use open platforms. It also, perversely, entrenches the dominance of major operating system developers and device makers.</p>
+<p>A.B. 1043 and similar proposals also raise considerable implementation issues because they cast a potentially wide net. A.B. 1043, for example, carves out “broadband internet access service," "telecommunications service,” and the “use of a physical product,” whereas “mobile devices” and “computers” are covered. However, so many devices could fall into these categories; people consider smart watches to be computers, for example. Virtually every digital device that runs software built in the past three decades could fall into that category. This means that consumers may have to submit age information to more companies than ever, again increasing the possibility of data misuse and data breach.</p>
+<h3><strong>There Is <em>Still </em>A Better Way</strong></h3>
+<p>Legislators do not need to sacrifice their constituents' First Amendment rights and privacy to make a safer internet, but they can address many of the harms these proposals seek to mitigate. Many lawmakers have recognized these approaches, such as data minimization, in their proposals. Rather than creating age gates, a <a href="https://www.eff.org/deeplinks/2023/10/your-states-child-safety-law-unconstitutional-try-comprehensive-data-privacy">well-crafted privacy law</a> that empowers all of us—young people and adults alike—to control how our data is collected and used would be a crucial step in the right direction.</p>
