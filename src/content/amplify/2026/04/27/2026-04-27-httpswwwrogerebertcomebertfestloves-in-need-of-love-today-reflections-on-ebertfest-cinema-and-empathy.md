@@ -13,7 +13,7 @@ link: >-
   https://www.rogerebert.com/ebertfest/loves-in-need-of-love-today-reflections-on-ebertfest-cinema-and-empathy
 slug: >-
   2026-04-27-httpswwwrogerebertcomebertfestloves-in-need-of-love-today-reflections-on-ebertfest-cinema-and-empathy
-tags: []
+tags: ["film", "culture"]
 title: 'Love’s in Need of Love Today: Reflections on EbertFest, Cinema, and Empathy'
 ---
 <figure><img alt="" data-dominant-color="7b6956" data-has-transparency="false" sizes="(max-width: 2560px) 100vw, 2560px" src="https://www.rogerebert.com/wp-content/uploads/2026/04/Final-EbertFest-Theter-exterior-scaled-jpg.webp" srcset="https://www.rogerebert.com/wp-content/uploads/2026/04/Final-EbertFest-Theter-exterior-scaled-jpg.webp 2560w, https://www.rogerebert.com/wp-content/uploads/2026/04/Final-EbertFest-Theter-exterior-768x576-jpg.webp 768w, https://www.rogerebert.com/wp-content/uploads/2026/04/Final-EbertFest-Theter-exterior-1536x1152-jpg.webp 1536w, https://www.rogerebert.com/wp-content/uploads/2026/04/Final-EbertFest-Theter-exterior-2048x1536-jpg.webp 2048w, https://www.rogerebert.com/wp-content/uploads/2026/04/Final-EbertFest-Theter-exterior-375x281.jpg 375w, https://www.rogerebert.com/wp-content/uploads/2026/04/Final-EbertFest-Theter-exterior-240x180.jpg 240w, https://www.rogerebert.com/wp-content/uploads/2026/04/Final-EbertFest-Theter-exterior-324x243.jpg 324w, https://www.rogerebert.com/wp-content/uploads/2026/04/Final-EbertFest-Theter-exterior-256x192.jpg 256w"/></figure>

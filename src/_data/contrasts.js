@@ -136,7 +136,12 @@ module.exports = {
       source: "https://www.tumblr.com/aramzs/814017105005510656"
     },
     {
-      colors: ["#fd9077", "#e4e4e2", "#e893ae", "#1b5b74"],
+      colors: ["#fd9077", "#e4e4e2", "#e893ae", "#1b5b74", "#7d2528", "#4672a7", "#a33669", "#175d78", "#8cc99c", "#1f2521", "#6c6041", "#fee449", "#43eaf0", "#494c45", "#545952", "#e04923", "#c09b3c", "#db1f80"],
+      sourceInfo: "From Beyond the Spider-Verse film frames (3)",
+      source: "https://www.tumblr.com/aramzs/814017105005510656"
+    },
+    {
+      colors: ["#faea78", "#272e17", "#fbebdc", "#d5e2c7", "#c09b3c", "#db1f80", "#6a7b58", "#ceedd2", "#170429", "#daa50c", "#dcb073", "#a7c5de", "#e03da1", "#4debef", "#14150f", "#989191"],
       sourceInfo: "From Beyond the Spider-Verse film frames (3)",
       source: "https://www.tumblr.com/aramzs/814017105005510656"
     }
