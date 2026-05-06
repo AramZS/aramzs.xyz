@@ -15,7 +15,7 @@ link: >-
   https://www.reuters.com/business/healthcare-pharmaceuticals/us-upends-global-supply-program-malaria-hiv-amid-warnings-gaps-2026-04-03/?link_source=ta_bluesky_link&taid=69cf95857699020001e2f03d
 slug: >-
   2026-04-03-httpswwwreuterscombusinesshealthcare-pharmaceuticalsus-upends-global-supply-program-malaria-hiv-amid-warnings-gaps-2026-04-03linksourcetablueskylinkandtaid69cf95857699020001e2f03d
-tags: []
+tags: ['science', 'health']
 title: >-
   Exclusive: US upends global supply program for malaria and HIV amid warnings
   of gaps

@@ -12,7 +12,7 @@ link: >-
   https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/?utm_source=bsky&utm_medium=social
 slug: >-
   2026-04-23-httpsarstechnicacomgadgets202604apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buyutmsourcebskyandutmmediumsocial
-tags: []
+tags: ['tech', 'gadgets']
 title: Why are the Mac mini and Mac Studio gradually becoming impossible to buy?
 ---
 <figure></figure><p> <em> little computer, big delays </em></p>
