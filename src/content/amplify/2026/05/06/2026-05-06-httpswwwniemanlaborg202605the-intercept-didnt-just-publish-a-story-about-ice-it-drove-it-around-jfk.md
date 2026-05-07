@@ -1,0 +1,31 @@
+---
+author: Gretel Kahn
+cover_image: 'https://www.niemanlab.org/images/jfk-3-700x560.jpg'
+date: '2026-05-06T16:29:05.283Z'
+dateFolder: 2026/05/06
+description: >-
+  The investigative nonprofit turned a digital privacy guide into a real-life
+  stunt, and news creators helped share the message.
+isBasedOn: >-
+  https://www.niemanlab.org/2026/05/the-intercept-didnt-just-publish-a-story-about-ice-it-drove-it-around-jfk/
+link: >-
+  https://www.niemanlab.org/2026/05/the-intercept-didnt-just-publish-a-story-about-ice-it-drove-it-around-jfk/
+slug: >-
+  2026-05-06-httpswwwniemanlaborg202605the-intercept-didnt-just-publish-a-story-about-ice-it-drove-it-around-jfk
+tags:
+  - media
+title: The Intercept didn’t just publish a story about ICE — it drove it around JFK
+---
+<figure><img alt="" sizes="(min-width: 600px) 700px, 100vw" src="https://www.niemanlab.org/images/jfk-3-2048x1638.jpg" srcset="https://www.niemanlab.org/images/jfk-3-700x560.jpg 700w, https://www.niemanlab.org/images/jfk-3-990x792.jpg 990w, https://www.niemanlab.org/images/jfk-3-768x614.jpg 768w, https://www.niemanlab.org/images/jfk-3-1536x1229.jpg 1536w, https://www.niemanlab.org/images/jfk-3-2048x1638.jpg 2048w, https://www.niemanlab.org/images/jfk-3-480x384.jpg 480w, https://www.niemanlab.org/images/jfk-3-600x480.jpg 600w"/></figure>
+<p>When the Trump administration <a href="https://www.nytimes.com/2026/03/23/us/ice-agents-airports.html">sent Immigration and Customs Enforcement (ICE) agents to American airports in March</a>, The Intercept published a tip sheet for travelers, “<a href="https://theintercept.com/2026/03/25/ice-airports-phone-security-privacy-safety/">How to keep ICE agents out of your phone at the airport</a>.” The piece, by security researcher Nikita Mazurov, pulled in more than 150,000 pageviews, according to Intercept CEO <a href="https://www.linkedin.com/in/annie-chabel-a5581050/">Annie Chabel</a>, and over a million views on <a href="https://www.instagram.com/p/DWUUCjbk5ZG/?img_index=1">Instagram</a>. Prominent news creators like Matt Bernstein and So Informed shared the post.</p>
+<figure><a href="https://www.niemanlab.org/2025/03/propublica-wanted-to-find-more-sources-in-the-federal-government-so-it-brought-a-truck/?relatedstory"><img alt="" sizes="auto, (max-width: 315px) 100vw, 315px" src="https://www.niemanlab.org/images/ProPublica-truck-hat-315x177.jpg" srcset="https://www.niemanlab.org/images/ProPublica-truck-hat-315x177.jpg 315w, https://www.niemanlab.org/images/ProPublica-truck-hat-220x124.jpg 220w"/></a><figcaption><a href="https://www.niemanlab.org/2025/03/propublica-wanted-to-find-more-sources-in-the-federal-government-so-it-brought-a-truck/?relatedstory">RELATED ARTICLE</a></figcaption></figure>
+<p>The Intercept wanted to bring the story to more people on and offline, and had previously been inspired by ProPublica’s <a href="https://www.niemanlab.org/2025/03/propublica-wanted-to-find-more-sources-in-the-federal-government-so-it-brought-a-truck/">mobile billboard campaign</a> in 2025. So on April 1, it sent a mobile billboard to John F. Kennedy International Airport in New York, one of the busiest airports in the United States. From 7:00 a.m. to 5:00 p.m., it circled JFK terminals asking travelers “Do you trust ICE with your phone?” and advising them to “turn it off at the airport. It’s harder for authorities to pry data from your phone if it’s shut down.”  </p>
+<p>The billboard, which cost The Intercept $5,000, included a QR code linking to Mazurov’s original story. The Intercept also moved the piece to the top of its homepage so that travelers would see it if they searched for the publication.</p>
+<p>“We do a lot of reporting to defend fundamental rights, but we also need to be out there expressing our First Amendment right to do this and to be oppositional in a place where ICE had been posted,” Chabel said.</p>
+<p>Ahead of the airport campaign, The Intercept also pitched news creators about featuring Mazurov’s story, and three agreed. The Instagram <a href="https://www.instagram.com/p/DWmFdC_EWGB/">video</a> of The Intercept’s billboard at the airport, for example, is a collaborative post with A Girl Has No President, a news content account with 1.1 million followers. The video received more than 200,000 views (The Intercept’s posts normally get around 10,000 video views on Instagram) and around 2,000 shares.</p>
+<p>Creators Philip DeFranco and Hemu Rahman published their own videos on their platforms summarizing the reporting and listing The Intercept as a collaborator. DeFranco’s <a href="https://www.youtube.com/shorts/3rnA1qqSHhU">YouTube Short</a> has more than two million views, while Rahman’s <a href="https://www.instagram.com/reel/DWmlP0fkVGv/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==">Instagram reel</a> has more than 90,000. The Intercept didn’t pay the creators, CEO Chabel said, but the experience working with them opens the door to more types of collaborations in the future. Chabel estimated that the story reached about six million users across all platforms.</p>
+<p>“This was the first time we were trying a stunt like this where we really didn’t know what to expect,” Chabel said. “These content creators have an enormous following that can really amplify important reporting, and we have to start to think about them as part of our ecosystem.”</p>
+<p>Chabel said a key to the campaign’s success was identifying creators to work with and vendors to use ahead of time. That allowed the team to pull the campaign together within a few days.</p>
+<p>“We want to use [this strategy] when we have a message that really is resonant with our readership and when it’s something with a call to action,” Chabel said. “As we go forward and we have more service pieces, this is something we’ll likely try again.”</p>
+<p>Photo courtesy of The Intercept</p>
+<p><a href="https://www.niemanlab.org/author/htameez">Hanaa' Tameez</a> is a staff writer at Nieman Lab. You can reach her via <a href="mailto:hanaa@niemanlab.org">email</a> (hanaa@niemanlab.org), <a href="https://bsky.app/profile/hanaatameez.bsky.social">Bluesky DM</a> (@hanaatameez.bsky.social), or on <a href="https://signal.me/#eu/SQFmfpneRETbFe_RehFD_9XkbbDwV5SkCdi_fc2PRRYPJFjqJy1B0Y4VIxvGm1ZN">Signal</a> (@hanaatameez.01).</p>
