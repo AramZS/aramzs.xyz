@@ -1,0 +1,43 @@
+---
+author: Rhitu Chatterjee
+cover_image: >-
+  https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7419x4173+0+426/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2Fd3%2F202930a94faaac8d041a5398b874%2Fap25358718659191.jpg
+date: '2026-05-07T23:51:08.107Z'
+dateFolder: 2026/05/07
+description: >-
+  The American Psychiatric Association says too few patients can access
+  comprehensive mental health care in the United States. It welcomes new
+  investments in improving access to evidence-based care.
+isBasedOn: >-
+  https://www.npr.org/2026/05/07/nx-s1-5814083/rfk-jr-hhs-ssri-antidepressant-psychiatry-therapy-mental-health
+link: >-
+  https://www.npr.org/2026/05/07/nx-s1-5814083/rfk-jr-hhs-ssri-antidepressant-psychiatry-therapy-mental-health
+slug: >-
+  2026-05-07-httpswwwnprorg20260507nx-s1-5814083rfk-jr-hhs-ssri-antidepressant-psychiatry-therapy-mental-health
+tags:
+  - health
+title: >-
+  Psychiatrists say RFK Jr.'s take on SSRIs is an 'oversimplification' of the
+  problem
+---
+<figure><picture><figure><img alt='Health Secretary Robert F. Kennedy Jr. is shown with his arms raised enthusiastically while standing on a stage. The words "The official MAHA Summit" are in large print on a blue backdrop behind him.' data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7419x4946+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2Fd3%2F202930a94faaac8d041a5398b874%2Fap25358718659191.jpg" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7419x4946+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2Fd3%2F202930a94faaac8d041a5398b874%2Fap25358718659191.jpg"/><figcaption>At a MAHA Institute event on Monday, Health Secretary Robert F. Kennedy Jr. announced plans to help people wean off antidepressants. Kennedy is pictured here arriving at another Make America Healthy Again event in November 2025.</figcaption></figure></picture></figure>
+<p>As the federal health department launches a plan to wean patients off antidepressants, <a href="https://www.prnewswire.com/news-releases/afsp-statement-on-the-importance-of-antidepressants-and-evidence-based-treatment-for-suicide-prevention-302762738.html">mental health advocates</a> and <a href="https://www.psychiatry.org/News-room/News-Releases/APA-Welcomes-National-Focus-on-Mental-Health-Urges">psychiatrists</a> say blaming the United States' mental health crisis on overmedicalization and overprescription of psychiatric medications is an inaccurate portrayal of a complex problem.</p>
+<p>"It really is an oversimplification," says <a href="https://www.psychiatry.org/about-apa/meet-our-organization/board-of-trustees/executive-committee-of-the-board-of-trustees/theresa-m-miskimen-rivera-m-d">Dr. Theresa Miskimen Rivera</a>, president of the American Psychiatric Association. "And it really ignores the larger reality, which is that too many patients really cannot access timely, comprehensive care that is much needed for our nation."</p>
+<p>But, she adds that she and the American Psychiatric Association support any plans to better train healthcare providers to safely prescribe and wean patients off antidepressants.</p>
+<p>"We're also very much in support of the administration's plans to further investment in research and the efforts to improve quality, safety [and] evidence-based mental health treatment," says Miskimen Rivera.</p>
+<p>Health Secretary Robert F. Kennedy Jr. has long claimed that psychiatric medications are overprescribed and that their serious side effects harm people. He has also <a href="https://www.motherjones.com/politics/2025/12/rfk-jr-mass-shootings-ssri-antidepressants/">in the past claimed</a> — without any evidence — that these medications cause mass shootings.</p>
+<p>Kennedy announced his plan to wean Americans off commonly used antidepressant medications like Prozac and Zoloft on Monday while speaking at a <a href="https://www.mahainstitute.us/mhsummit">daylong mental health summit</a> held by the Make America Healthy Again (MAHA) Institute. <a href="https://www.hhs.gov/press-room/hhs-launches-maha-action-plan-curb-psychiatric-overprescribing.html">The initiative</a> includes new training, clinical guidance and changes to insurance billing. The goal is to support providers, training them on the best ways to help their patients safely stop taking these medications, if desired.</p>
+<p>Americans have a "dependency crisis driven by overmedicalization" when it comes to psychiatric medications, Kennedy said. He is especially interested in the class of antidepressants called selective serotonin reuptake inhibitors (SSRIs). They include Prozac, Zoloft, Lexapro and Paxil.</p>
+<p>"Too many patients begin treatment without a clear understanding of the risks and how long they will stay on these drugs or how to come off of them," he said. "And that's not informed consent. We are going to fix it."</p>
+<p>In a <a href="https://www.samhsa.gov/sites/default/files/dcl-psychiatric-medication-nonpharmacological-treatments.pdf">"Dear Colleague" letter</a> to providers, the Department of Health and Human Services recognized that "Psychiatric medications can play an important and, at times, essential role in treatment. ... For many individuals, such medications reduce symptoms, improve functioning, prevent relapse, and support recovery."</p>
+<p>However, it went on to stress that medications should never be the only option, and it encouraged providers to regularly review risks of SSRIs with patients and engage them in the decision-making of whether to start medications or to wean off them.</p>
+<p>In the coming months, Kennedy said, the Substance Abuse and Mental Health Services Administration will publish new data on prescribing trends and clinical guidance for providers.</p>
+<p>The Centers for Medicare &amp; Medicaid Services (CMS) will issue billing guidance for providers to help patients taper off drugs when they need or want to, said Kennedy. CMS will also expand access to alternative forms of evidence-based treatments, like talk therapy and family support services for children.</p>
+<p>"I agree with more evidence-based care and therapies being available," says <a href="https://childmind.org/bio/vera-feuer-md/">Dr. Vera Feuer</a>, a child and adolescent psychiatrist and the chief clinical officer at the Child Mind Institute.</p>
+<p>"Some of the recommendations [are] completely reasonable," she adds. "Everybody should have a detailed, careful assessment. We shouldn't be letting prescribers feel pressured by parents and schools to instantly medicate behaviors that are due to other issues and can be treated differently."</p>
+<p>Only a minority of children with mental health conditions require medications, she adds. For the vast majority, talk therapy is sufficient, although it is hard to access for many families for a variety of reasons.</p>
+<p>Feuer also agrees with the efforts to increase awareness about the need to do medically supervised tapering when it's time to come off an SSRI. It's what she has always advised her patients. The Child Mind Institute has long offered <a href="https://childmind.org/article/how-to-take-kids-off-medication/">detailed guidelines on taking kids off medication</a>, which repeatedly emphasize the need for medical supervision and close monitoring.</p>
+<p>However, she notes that focusing solely on the side effects of SSRIs obscures the fact that these medications still do help millions of people, including some children struggling with mental health symptoms. Feuer has had patients and their families thank her for prescribing an SSRI.</p>
+<p>"I've had parents hug me on the street [saying], 'Thank you for convincing me, for putting my child [on the medication],'" she says. "'I feel like I have my child back. They're thriving.'"</p>
+<p>In a <a href="https://www.prnewswire.com/news-releases/afsp-statement-on-the-importance-of-antidepressants-and-evidence-based-treatment-for-suicide-prevention-302762738.html">statement </a>released Tuesday, the American Foundation for Suicide Prevention (AFSP) also stressed the importance of SSRIs in helping people with major depression and suicidality.</p>
+<p>"A robust body of scientific evidence demonstrates that antidepressants are effective in treating acute depressive episodes, preventing future episodes, and reducing suicidal thoughts and behaviors," the statement by AFSP says. "While all medications carry potential risks, decades of research — spanning clinical trials, population-level studies, and health system data — show that the judicious use of antidepressants reduces suicide risk overall."</p>
