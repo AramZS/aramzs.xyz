@@ -1,0 +1,83 @@
+---
+author: leaflet.pub
+cover_image: >-
+  https://leaflet.pub/lish/did%3Aplc%3Ayk4dd2qkboz2yv6tpubpc6co/3m6zrpzbs3s2y/3mlegohgtps2k/opengraph-image?edc23816ae45539e
+date: '2026-05-08T19:23:16.478Z'
+dateFolder: 2026/05/08
+description: >-
+  In this permissioned data diary, we dive deep into the URI structure for
+  permissioned data on atproto and use it to motivate a bunch of the larger
+  design.
+isBasedOn: 'https://dholms.leaflet.pub/3mlegohgtps2k'
+link: 'https://dholms.leaflet.pub/3mlegohgtps2k'
+slug: 2026-05-08-httpsdholmsleafletpub3mlegohgtps2k
+tags:
+  - tech
+title: 'Permissioned Data Diary 5: What’s in a Name?'
+---
+<p>It’s been a minute! Last time I wrote, we were all gearing up for AtmosphereConf and I shared the <a href="https://dholms.leaflet.pub/3mhj6bcqats2o">Big Picture</a> of where our heads are at on this whole permissioned data protocol thing. It was a hot topic of conversation at the conference. It was great getting some feedback &amp; reactions and hearing what other folks were working on in the permissioned data space.</p>
+<p>If you haven’t yet, I highly recommend checking out the previous entries in this series before reading this one, especially the <a href="https://dholms.leaflet.pub/3mhj6bcqats2o">Big Picture</a> post. We’re going to start getting into the weeds now.</p>
+<p>To quickly situate ourselves:</p>
+<ul><li><p data-index="3.1">Permission spaces (or just “spaces”) are our fundamental new protocol primitive that define an access and sync perimeter for data</p></li><li><p data-index="3.3">Users have a separate permissioned repo per space that holds all of their records for that space. That permissioned repo is hosted on the user’s PDS, not the space owner’s</p></li></ul>
+<p>This entry is going to be about how we identify a permissioned record. In other words, the URI structure for permissioned data.</p>
+<p>Early on in the design process, I joked that if we could figure out the URI structure, then the rest of the protocol would write itself. This isn’t exactly true, but the URI really does express a lot of the larger design. So in this post, I’ll start by introducing a permissioned data URI. Then I’ll step through the URI segment by segment and use it as a device to reconstruct the design decisions that shaped it.</p>
+<p>So without further ado:</p>
+<p>ats://did:example:space_did/com.example.space.type/space_key/<br/>
+did:example:author_did/com.example.collection/record_key</p>
+<p>You’ll notice that the scheme is not at://. We’re not sure about what the scheme should be (taking suggestions!), but we’re pretty sure it’s not at:// at least.</p>
+<p>There are a few reasons for this decision:</p>
+<ul><li><p data-index="13.0">The resolution mechanism is pretty different for permissioned vs public data. Since URI resolution is informed by the scheme, we think it makes sense that the scheme is different.</p></li><li><p data-index="13.1">There are light security implications to the different URI formats. Permissioned data URIs should essentially never be viewed outside of the perimeter of their space. Bumping into one of these in the wild should look &amp; feel different from a public URI.</p></li></ul>
+<p>At the end of the day, specifying a new protocol scheme is basically owning up to the fact that, while we may re-use many primitives and roles from the public data protocol, we are specifying a new data and sync protocol, not just an extension to the existing protocol.</p>
+<p>Fundamentally, a space needs a name or an identifier. Let’s consider a couple options.</p>
+<p>Maybe we keep it simple, and when you create a space you give it a name - something like “protocol-nerds” or “alice-forum”. We run into a few problems out the gate here. The first is that a slug doesn’t tell you anything about the space: who owns it, where the membership list lives, or how to resolve it. Slugs only work inside of an owned namespace (like a handle on a traditional social media site) that can maintain that mapping. Similarly, since the namespace is unowned, there’s no party that can prevent naming conflicts. Either intentionally or unintentionally, two users in two different corners of the Atmosphere could both create the “protocol-nerds” space and end up stepping on one another’s data.</p>
+<p>To avoid collisions, users could generate a random cryptographic nonce instead. Of course if the nonce ever “leaks containment”, we’re back to the same problem of intentional collisions. But regardless of collisions, the fundamental problems with slugs remain: a nonce without a centralized resolver gives us no information about where or how to resolve information about the space.</p>
+<p>So we need something universal and resolvable? Sounds like a DID. Fortunately users in the Atmosphere already have a DID, maybe we can just reuse that. We could say that any space that Alice creates is created under her DID. But what happens when Alice wants to transfer ownership of the community?</p>
+<p>If you’ve been around the Atmosphere long enough, you probably recognize this problem from feeds on Bluesky. Feeds are published as records and thus permanently tied to the account that created them. As feeds become load-bearing in ways that the creator may not have anticipated, this can turn into a big pain. The feed creator can’t hand off the feed to another account without breaking every backlink in the network.</p>
+<p>Separately, I’d love to fix this problem with feeds, and I think we mostly can, but that’s a topic for another post.</p>
+<p>We don’t want to repeat that problem for spaces (and I expect this problem will be even more acute for spaces than for feeds). Communities change hands all the time and it’s a brittle foundation to bake ownership into the identifier of the community.</p>
+<p>So it sounds like DIDs work pretty well, but we’re concerned about hinging off of the creator’s DID. What if spaces could have their own DID?</p>
+<p>Keep in mind, I’m not necessarily saying spaces are accounts. They have different lifecycles and governance concerns from user accounts. But the identifier problem for spaces is analogous to the identifier problem for accounts.</p>
+<p>A few immediate follow ups:</p>
+<p>Isn’t that a lot of DIDs? Well yes, maybe (and actually I’d question that assumption, I think there are more users than groups, for example Reddit only has 2-4 million active subreddits while having &gt;1 billion active users). But even if it is, I actually don’t think there’s a problem. DIDs are cheap, and there’s no shortage of them.</p>
+<p>Does every space need its own DID? Nope! More on this in the space key section.</p>
+<p>Do spaces always need a non-user DID? Again no. Many spaces can just use the user’s DID. The answer for any given space comes down to a simple question: could this space ever change hands? For personal stuff like mutes, bookmarks, private posts, newsletters you publish, etc, the answer is no. These things are yours and they follow you around; they’re never going to belong to someone else. For anything social, the answer is yes. Even 1:1 DMs could technically transfer (one person may delete their account &amp; the other wants to keep the thread). A space needs its own DID any time two or more people are sharing a space and there’s a possible future where the space and the creator of the space are not the same entity.</p>
+<p>Note: This does imply that we’ll need a lightweight “controlled DID” system on the PDS so user accounts can manage (and transfer!) space DIDs. For expediency’s sake, we want to keep that scoped as tightly as possible and resist the pull toward building a generic managed-account system. But again, that’s a topic for another post.</p>
+<p>A space is a fairly abstract thing. It really just provides an access and sync perimeter. But what’s it for? What’s inside? How do you users understand it? We need a mechanism to make a space legible without having to actually sync the contents of the space. This is the function of the space type.</p>
+<p>Basically, a space type grounds a space in a particular modality. Spaces aren’t generic containers. They’re particular kinds of things - a forum, a group chat, a photo album, a subscriber list. The type is what binds a space to a particular modality or app context.</p>
+<p>A space type is an NSID that in turn resolves to a Lexicon document. Think of it as being kinda like a “collection” for spaces mixed with a <a href="https://atproto.com/specs/permission#permission-sets">permission-set</a> Lexicon (hopefully that analogy isn’t too fraught, I’ll explain).</p>
+<p>This particularity is important because it means we can discuss spaces with users, specifically in OAuth consent screens. Without a type, we’re left saying “Do you want to give this app access to did:example:group/protocol-nerds, did:example:other/cat-pics, and did:example:yet-another/besties?” If these are all of the same type (say com.atmoboards.forum), we can instead ask for access to all of these and more with actually readable text like “Do you want to give this app access to your AtmoBoards forums?”</p>
+<p>A short aside that I think helps illustrate this point about particularity: some folks have compared spaces to circles (like the Google+ feature). I understand the instinct, but I think it’s a bad analogy. With circles, you attach one or more circles to different pieces of content. In a multi-modality network like the Atmosphere, you would expect your circles to function across many different modalities/apps. Reusable, multi-modality ACLs have the potential to accumulate a lot of complexity (and I also think you end up running into the problems from <a href="https://dholms.leaflet.pub/3mfrsbcn2gk2a#attempt-2-granular-user-controlled-access">attempt 2 in diary 2</a>). Spaces try to reign in this complexity. A space is a particular container, tied to a particular modality, with content posted into a particular space.</p>
+<p>Including the type in the URI also lets devs and machines know what they’re dealing with before resolution. This is the same reason that collection is in public URIs. Type information is very helpful to know ahead of resolution. It lets you make all sorts of decisions about how you want to resolve, route, and validate what’s on the other end of the URI without having to make a network-hop.</p>
+<p>Returning to my earlier analogy: in the URI, the space type functions like a collection. It lets you know what kind of thing you’re working with and roughly what you’ll find on the other side of resolution. As an actual Lexicon document, it functions like a permission-set in that it informs OAuth consent screens and allows application developers to bundle multiple resources under a single human-readable description.</p>
+<p>The space key (or “skey”) is essentially our answer to the second question at the end of the space DID section (“Does every space need its own DID?”).</p>
+<p>The skey is a short arbitrary string that allows you to hang multiple spaces off a single DID. Like rkeys (“record keys”), these may be human-readable slugs, TIDs, cryptographic identifiers, or static strings with special semantics (like "self").</p>
+<p>The most obvious case where you want multiple spaces with the same DID is personal spaces (spaces where your DID is the space DID): bookmarks, mutes, private posts, etc. These are all published off of the user’s DID, but have different access boundaries (for both users and for apps) and therefore each require their own space.</p>
+<p>The utility of multiple spaces owned by a single identity also extends to the community use case. It’s not uncommon for a community to have multiple channels, each with different read constraints. For instance, a members-only community, a moderator-only chat, and a sub-channel within the community for some subset of members.</p>
+<p>So to address a given space we have a DID, an NSID (the type) and an skey. Sound familiar? This is actually really nicely analogous to how we address records in public atproto!</p>
+<p>I don’t know about you, but that symmetry feels pretty good on the brain to me!</p>
+<p>I feel like I don’t have to explain these too much. I said we were trying to keep this similar to the existing protocol didn’t I?</p>
+<p>Okay we have our 6 URI components:</p>
+<p>I think there are two natural ways to lay out the URI:</p>
+<p>Where SPACE is: did:example:space_did/com.example.space.type/skey.</p>
+<p>At first I felt pretty strongly that we should go with the first option. The user is the authority for their data, and at the core of <a href="https://atproto.com/articles/atproto-ethos">atproto ethos</a> is identity-based authority. When you want to resolve a piece of data from a space, you go to the author’s PDS.</p>
+<p>However as I tangled with this more and started working on our draft implementation, it started to feel less and less natural. And eventually I started to feel like I was arguing for adding tomato to the fruit salad.</p>
+<p>So I’ll make the philosophical, practical, intuitive, and aesthetic cases for why I now think we should go with the latter.</p>
+<p>Philosophically the case for the latter is that the user only has the authority to post within a space’s boundary by virtue of the fact that they were included in the space’s member list by the space itself. Therefore, the author’s authority is downstream from the space. As well, atproto ethos is around “identity-based authority”. A space still has a DID (identity) as the authority and therefore still holds to the ethos.</p>
+<p>Practically, the latter is much cleaner. As I started working on our sketch implementation, I found that references to spaces show up a lot. Being able to talk about those references as “partial space URIs” and reusing the tooling we have for space URIs is very nice. If space reference is internal to the URI (as it is in the first example), then we can’t treat it as a partial URI - it’s some other thing.</p>
+<p>Intuitively, I think the latter just feels more natural to use and reason about. When working with the protocol, you have a sense that a record is “in a space”. Which implies that the space needs to come before any of the record details - including the author.</p>
+<p>Aesthetically, I find the second to be much nicer as it preserves the symmetry between the space part of the URI &amp; the record part of the URI. It goes DID-NSID-string-DID-NSID-string, rather than DID-DID-NSID-string-NSID-string.</p>
+<p>But these URIs are so long!</p>
+<p>Yeah you’re right. Six segments is a lot. It kinda sucks, and it’s kinda ugly. But unfortunately I think we need them all.</p>
+<p>We considered tricks like using relative URIs from within a space or collapsing the DIDs if the space DID &amp; author DID are the same.</p>
+<p>The rub with any of these tricks is that you now have two URIs for the same resource and you lose string equality which is the most valuable property of a URI. Once you lose that, you have to run a canonicalize function every time you want to compare URIs. It’s just not worth whatever byte savings you’re going to get.</p>
+<p>(Yes, I know that public at-uris can have DIDs or handles as authority and therefore don’t have strict string equality. I regret this &amp; encourage everyone to only use DID-based URIs.)</p>
+<p>This makes me think of something that</p>
+<p>@jacob.gold</p>
+<p>used to say when</p>
+<p>@divy.zone</p>
+<p>or I started worrying about some sort of pre-optimization of some system: “I’ll pay for it”. Basically, it was his way of pushing back and saying “whatever savings you’re hoping to get out of this aren’t of the order of magnitude that would make it a worthwhile thing to pour energy into”. That’s basically how I feel about shortening the URIs.</p>
+<p>Computers are fast, bandwidth is cheap, and all of this is going to be overshadowed by <a href="https://words.filippo.io/crqc-timeline/">quantum-resistant signatures</a> soon anyway. The savings aren’t worth it. I’ll pay for it.</p>
+<p>As always, please let me know your thoughts!</p>
+<p>These diaries will be coming a bit slower than they did before AtmosphereConf. I have some very rough sketches of an implementation on a <a href="https://github.com/bluesky-social/atproto/compare/permissioned-data">public branch</a> in the atproto repo. Please don’t over-index on it! I’ll continue to give updates as I explore.</p>
+<p>The next post will either be about access control or the sync protocol, I haven’t decided yet. Probably whichever is feeling sturdier at the time. I thought sync was basically settled but the quantum computing news is making me reconsider a bit.</p>
+<p>Anyways, stay tuned!</p>
