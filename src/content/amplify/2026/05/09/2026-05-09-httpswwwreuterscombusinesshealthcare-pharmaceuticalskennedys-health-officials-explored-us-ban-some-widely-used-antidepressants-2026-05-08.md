@@ -1,0 +1,47 @@
+---
+author: 'Yasmeen Abutaleb, Bo Erickson'
+cover_image: >-
+  https://www.reuters.com/resizer/v2/6BXLWYIH3BM55DQ7OG6E4HEZDA.jpg?auth=4bb7299c68fceb1a66b6c78a4376f5e17d8143fcf54381917142b79ea8de2d42&height=1005&width=1920&quality=80&smart=true
+date: '2026-05-09T12:47:55.994Z'
+dateFolder: 2026/05/09
+description: >-
+  U.S. health department ​officials last week explored whether they could ban
+  certain drugs in a widely prescribed class of antidepressants as Health
+  Secretary Robert F. Kennedy Jr. prepared to roll out a ‌plan to reduce their
+  use, according to two people familiar with the discussions.
+isBasedOn: >-
+  https://www.reuters.com/business/healthcare-pharmaceuticals/kennedys-health-officials-explored-us-ban-some-widely-used-antidepressants-2026-05-08/
+link: >-
+  https://www.reuters.com/business/healthcare-pharmaceuticals/kennedys-health-officials-explored-us-ban-some-widely-used-antidepressants-2026-05-08/
+slug: >-
+  2026-05-09-httpswwwreuterscombusinesshealthcare-pharmaceuticalskennedys-health-officials-explored-us-ban-some-widely-used-antidepressants-2026-05-08
+tags:
+  - health
+  - politics
+  - healthcare
+title: >-
+  Exclusive: Kennedy's health officials explored US ban of some widely used
+  antidepressants
+---
+<h1 data-testid="Heading">Exclusive: Kennedy's health officials explored US ban of some widely used antidepressants</h1>
+<p>By <a data-testid="AuthorNameLink" href="https://www.reuters.com/authors/yasmeen-abutaleb/">Yasmeen Abutaleb</a> and <a data-testid="AuthorNameLink" href="https://www.reuters.com/authors/bo-erickson/">Bo Erickson</a></p>
+<p>May 8, 202611:54 AM EDTUpdated 21 mins ago</p>
+<figure><img alt="U.S. HHS Secretary Robert F. Kennedy, Jr. discusses the findings of the CDC latest Autism and Developmental Disabilities Monitoring (ADDM) Network survey, in Washington" data-testid="EagerImage" sizes="(min-width: 1024px) 560px, (min-width: 1440px) 700px, 100vw" src="https://www.reuters.com/resizer/v2/6BXLWYIH3BM55DQ7OG6E4HEZDA.jpg?auth=4bb7299c68fceb1a66b6c78a4376f5e17d8143fcf54381917142b79ea8de2d42&amp;width=1200&amp;quality=80" srcset="https://www.reuters.com/resizer/v2/6BXLWYIH3BM55DQ7OG6E4HEZDA.jpg?auth=4bb7299c68fceb1a66b6c78a4376f5e17d8143fcf54381917142b79ea8de2d42&amp;width=480&amp;quality=80 480w,https://www.reuters.com/resizer/v2/6BXLWYIH3BM55DQ7OG6E4HEZDA.jpg?auth=4bb7299c68fceb1a66b6c78a4376f5e17d8143fcf54381917142b79ea8de2d42&amp;width=640&amp;quality=80 640w,https://www.reuters.com/resizer/v2/6BXLWYIH3BM55DQ7OG6E4HEZDA.jpg?auth=4bb7299c68fceb1a66b6c78a4376f5e17d8143fcf54381917142b79ea8de2d42&amp;width=720&amp;quality=80 720w,https://www.reuters.com/resizer/v2/6BXLWYIH3BM55DQ7OG6E4HEZDA.jpg?auth=4bb7299c68fceb1a66b6c78a4376f5e17d8143fcf54381917142b79ea8de2d42&amp;width=960&amp;quality=80 960w,https://www.reuters.com/resizer/v2/6BXLWYIH3BM55DQ7OG6E4HEZDA.jpg?auth=4bb7299c68fceb1a66b6c78a4376f5e17d8143fcf54381917142b79ea8de2d42&amp;width=1080&amp;quality=80 1080w,https://www.reuters.com/resizer/v2/6BXLWYIH3BM55DQ7OG6E4HEZDA.jpg?auth=4bb7299c68fceb1a66b6c78a4376f5e17d8143fcf54381917142b79ea8de2d42&amp;width=1200&amp;quality=80 1200w"/><figcaption>U.S. Health and Human Services (HHS) Secretary Robert F. Kennedy, Jr. discusses the findings of the Centers for Disease Control and Prevention’s (CDC) latest Autism and Developmental Disabilities Monitoring (ADDM) Network survey, during a press conference at the Department of Health and Human Services in Washington, D.C., U.S.,... Purchase Licensing Rights Read more</figcaption></figure>
+<p>WASHINGTON, May 8 (Reuters) - U.S. health department ​officials last week explored whether they could ban certain drugs in a widely prescribed class of antidepressants as Health Secretary Robert F. Kennedy Jr. prepared to roll out a ‌plan to reduce their use, according to two people familiar with the discussions.</p>
+<p>Their interest centered on specific treatments within a class known as selective serotonin reuptake inhibitors, or SSRIs, such as Zoloft, Prozac and Lexapro, which have been available in the U.S. for decades, one of the people said. The sources did not say which drugs were being examined for restrictions or how far the inquiries about them had advanced.</p>
+<p>Kennedy's Health and Human Services Department "has not had any discussions about ​banning SSRIs, and any claims suggesting otherwise are false," agency spokesman Andrew Nixon said in a statement.</p>
+<p>Kennedy on Monday announced initiatives intended to reduce SSRI use, while attempting to reassure Americans ​who still want to take them. They include reimbursement guidelines for physicians who help patients come off the medications as well as plans to share ⁠data on prescribing trends and an investment in training for healthcare providers.</p>
+<p>"Psychiatric medications have a role in care, but we will no longer treat them as the default," Kennedy said on Monday at a ​Mental Health and Overmedicalization Summit. "Let me be clear: If you are taking psychiatric medication, we are not telling you to stop."</p>
+<p>About one in six U.S. adults reported currently taking antidepressant medications, <a data-testid="Link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12829365/">according to a 2026 study</a> ​in the medical journal BMJ Mental Health, with SSRI drugs, which are widely available in generic form, the most common type. The American Psychiatric Association considers SSRIs a first option, evidence-based treatment for depression.</p>
+<p>"There are a lot of prescriptions because there are a lot of folks with illnesses that can respond to these medications," including depression and several anxiety disorders, said Dr. J. John Mann of the New York State Psychiatric Institute. "Restricting use of these medications is not justifiable medically."</p>
+<h2 data-testid="Heading">KENNEDY'S ​PAST SSRI CLAIMS LACK EVIDENCE</h2>
+<p>The U.S. Food and Drug Administration has authority over antidepressant use, and any new restrictions would require strong scientific evidence of a risk to patients that outweighs their benefits. Reviewing ​new evidence could take months or years, drug approval experts said.</p>
+<p>Kennedy and supporters within his "Make America Healthy Again" movement oppose widespread use of SSRI antidepressants, arguing they have been overprescribed -- especially to children -- and are extraordinarily difficult to ‌quit, with ⁠withdrawal symptoms that Kennedy has previously said are worse than those from heroin.</p>
+<p>Kennedy has also, without evidence, linked SSRIs to violence, including mass shootings, and said they pose a risk to fetuses when women who are pregnant take them. Kennedy in November said the Centers for Disease Control and Prevention was studying whether SSRI therapies contribute to mass violence, but has not provided details on that effort.</p>
+<p>The psychiatric association, in a statement after Kennedy's Monday announcement, said it supports plans for better research to help physicians prescribe the treatments and decide when a patient can come off them. It strongly objected "to framing the nation's mental health ​crisis as primarily a problem of 'overmedicalization' or 'overprescribing'."</p>
+<p>While relatively ​safer than older antidepressants, SSRIs are not without ⁠side effects, which can include sexual dysfunction, sleep disturbances, weight changes, dry mouth, headache, and gastrointestinal distress. In 2004, the FDA issued a black box warning for SSRIs and other antidepressant medications due to a possible increased risk of suicidality in children and young adults.</p>
+<p>"Although these medications carry real risks and should ​be prescribed thoughtfully, abrupt policy efforts that stigmatize or limit access could produce serious public-health consequences for patients who rely on them," said Dr. ​Mark Olfson of Columbia University ⁠Medical Center in New York.</p>
+<p>After months of tension with the White House, <a data-testid="Link" href="https://www.reuters.com/legal/litigation/warned-off-vaccine-actions-kennedy-seeks-quick-health-wins-ahead-midterms-2026-05-04/">Kennedy agreed to pivot away</a> from widely criticized efforts to rewrite U.S. vaccine policy that could hurt Republican chances of retaining control of Congress in November's midterm elections and instead focus on more popular initiatives.</p>
+<p>Experts in pharmaceutical regulation said the FDA doesn't have the authority to unilaterally impose a ban on medications that have already received U.S. approval and have long been available ⁠without new evidence ​of a safety problem or finding that the original application seeking approval contained false statements. The FDA can ask a ​drugmaker to withdraw a medicine, but the company can refuse.</p>
+<p>Last month, for example, the <a data-testid="Link" href="https://www.reuters.com/legal/litigation/fda-proposes-withdraw-amgens-rare-autoimmune-disease-drug-2026-04-28/">FDA proposed withdrawing</a> approval of Tavneos, an Amgen <a data-testid="Link" href="https://www.reuters.com/markets/companies/AMGN.O">(AMGN.O)</a> drug for rare autoimmune diseases, citing a lack of proven effectiveness and alleged false statements in its original application. Amgen said it ​remained confident in Tavneos as a safe and effective medication and refused to withdraw the drug.</p>
+<p>Reporting by Yasmeen Abutaleb and Bo Erickson; additional reporting by Nancy Lapid; Editing by Michele Gershberg, Bill Berkrot, Rod Nickel</p>
