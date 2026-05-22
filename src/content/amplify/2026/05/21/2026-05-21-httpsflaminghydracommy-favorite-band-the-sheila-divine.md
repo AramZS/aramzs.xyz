@@ -1,0 +1,37 @@
+---
+author: 'https://www.facebook.com/regular'
+cover_image: >-
+  https://storage.ghost.io/c/11/a3/11a34ed2-0d03-4467-9051-6142cc358694/content/images/2026/05/EAAC97F4-B6D3-4E7A-BBF7-194EEBDA9310_1_105_c.jpeg
+date: '2026-05-21T12:02:55.144Z'
+dateFolder: 2026/05/21
+description: "I saw my first real rock concert in 1993. It was at an air force base somewhere in Rhode Island. The opening band that day was called Rage Against the Machine. This is going to be my life I thought. I am never going to get over this.\_\n\nAnd then"
+isBasedOn: 'https://flaminghydra.com/my-favorite-band-the-sheila-divine/'
+link: 'https://flaminghydra.com/my-favorite-band-the-sheila-divine/'
+slug: 2026-05-21-httpsflaminghydracommy-favorite-band-the-sheila-divine
+tags:
+  - music
+title: 'My Favorite Band: The Sheila Divine'
+---
+<figure><img alt="" sizes="(min-width: 992px) 1140px, (min-width: 768px) 960px, (min-width: 550px) 750px, 400px" src="https://storage.ghost.io/c/11/a3/11a34ed2-0d03-4467-9051-6142cc358694/content/images/size/w1140/2026/05/EAAC97F4-B6D3-4E7A-BBF7-194EEBDA9310_1_105_c.jpeg" srcset="https://storage.ghost.io/c/11/a3/11a34ed2-0d03-4467-9051-6142cc358694/content/images/size/w400/2026/05/EAAC97F4-B6D3-4E7A-BBF7-194EEBDA9310_1_105_c.jpeg 400w,
+https://storage.ghost.io/c/11/a3/11a34ed2-0d03-4467-9051-6142cc358694/content/images/size/w750/2026/05/EAAC97F4-B6D3-4E7A-BBF7-194EEBDA9310_1_105_c.jpeg 750w,
+https://storage.ghost.io/c/11/a3/11a34ed2-0d03-4467-9051-6142cc358694/content/images/size/w960/2026/05/EAAC97F4-B6D3-4E7A-BBF7-194EEBDA9310_1_105_c.jpeg 960w,
+https://storage.ghost.io/c/11/a3/11a34ed2-0d03-4467-9051-6142cc358694/content/images/size/w1140/2026/05/EAAC97F4-B6D3-4E7A-BBF7-194EEBDA9310_1_105_c.jpeg 1140w"/><figcaption>Photos courtesy of Aaron Perrino / The Sheila Divine</figcaption></figure>
+<p>I saw my first real rock concert in 1993. It was at an air force base somewhere in Rhode Island. The opening band that day was called Rage Against the Machine. This is going to be my life I thought. I am never going to get over this.</p>
+<p>And then I made it my life.</p>
+<p>I spent the next few years racing back and forth between Boston and Providence and Worcester seeing as many shows as I could. I knew from then on, at a pretty young age, that I wanted to be a music journalist more than anything else. I only really cared about two things, music and writing, so it seemed like the perfect synthesis. That was still a job you could aspire to make a living out of back then.</p>
+<p>And then I made it my living.</p>
+<p>I’d go on to play in bands myself for most of my twenties and thirties too. With plenty of high points and many, many more lows. It’s hard after all these years to remember much of it. Chalk some of that up to drugs and alcohol, but how many concerts is a person supposed to be able to recall after thousands of them?</p>
+<p>Here’s one I remember distinctly though. It was late 2019 at a party I was throwing for the launch of my first book, <em>Welcome to Hell World</em>, at Great Scott in Allston. Covid was just around the corner although we didn’t know that. And Great Scott, my favorite rock club, was about to shut down, although we didn’t know that either. Naturally I wanted someone to perform some songs that night, and there was never any question of who the most appropriate person would be: Aaron Perrino of The Sheila Divine.</p>
+<p>This one song from that night hasn’t left me in the intervening years. It’s called “Glacier.”</p>
+<figure><div class="rw-embed-wrapper"><embed src="https://www.youtube.com/embed/Rh73McXkdU8?feature=oembed" type="video/mp4"/></div></figure>
+<blockquote>It starts so pure. Yeah we dream big<br/>Something happens. Something changes<br/>Like a glacier that slowly melts away<br/>The hopes we had corrode and it starts a tidal wave</blockquote>
+<p>All my friends were there. Of course they were, because all my friends were always at Great Scott and all my friends were always at The Sheila Divine show.</p>
+<p>Almost everything that ever happened to me in my life, good or bad, came out of the Boston indie and punk scenes of the late ’90s to 2010s. My friends, my wife, my career, I wouldn’t have any of it otherwise. And so many of those nights were soundtracked by this specific band. We were there throughout all their highs and lows too. Shouting along to our favorite songs.</p>
+<figure><img alt="Poster for EDGEFEST 2014 with Weezer, Brand New, The Sheila Divine, and Pentimento" src="https://storage.ghost.io/c/11/a3/11a34ed2-0d03-4467-9051-6142cc358694/content/images/2026/05/IMG_2990.JPG"/><figcaption>Poster for EDGEFEST 2014 with Weezer, Brand New, The Sheila Divine, and Pentimento</figcaption></figure>
+<p>So I think it’s fair to say that The Sheila Divine is my favorite band of all time. Now hold on a second Luke, those of you who follow me online might be thinking, don’t you never shut the fuck up about Weezer? And for people who know me a little better, what about The Smiths or R.E.M., or Deftones, or maybe Elliott Smith or Jason Molina, or any number of ’90s emo bands? Yes that is true those are also my favorite bands, but The Sheila Divine is, nevertheless, my favorite band of all time. Favorite indie band certainly. Favorite Boston band hands down. (Although now that the weather has finally turned I cannot recommend putting on the Modern Lovers enough if you haven’t in a while).</p>
+<figure><img alt="Dramatic-red-lit shot from the crowd inside a club, The Sheila Divine onstage" sizes="(min-width: 720px) 720px" src="https://storage.ghost.io/c/11/a3/11a34ed2-0d03-4467-9051-6142cc358694/content/images/2026/05/90F383D5-E8F4-4E5B-B2DA-6D2A8945D8AA.jpeg" srcset="https://storage.ghost.io/c/11/a3/11a34ed2-0d03-4467-9051-6142cc358694/content/images/size/w600/2026/05/90F383D5-E8F4-4E5B-B2DA-6D2A8945D8AA.jpeg 600w, https://storage.ghost.io/c/11/a3/11a34ed2-0d03-4467-9051-6142cc358694/content/images/2026/05/90F383D5-E8F4-4E5B-B2DA-6D2A8945D8AA.jpeg 960w"/><figcaption>Dramatic-red-lit shot from the crowd inside a club, The Sheila Divine onstage</figcaption></figure>
+<p>This has been true since I first heard the Buffalo-by-way-of-Boston band’s 1999 debut <em>New Parade</em>, a perfect 10/10—maybe not <em>better</em> than the <em>The Blue Album</em>, the system by which I judge most things, but in the vicinity—and one I have yet to grow sick of all these years later after hundreds of listens and, I don’t know, roughly 100 concerts (<strong>including another one coming up this Friday at </strong><a href="https://crossroadspresents.com/pages/more-info-event?eventid=vv1AvZk8MGkemhRUw&amp;venueid=KovZpapwne"><strong><u>Brighton Music Hall in Allston, MA</u></strong></a>).</p>
+<p>It remained true into the 2000s when I started to cross paths here and there with the guys in the Boston rock world playing shows together, and it was true years before most of them, especially songwriter and frontman Aaron Perrino, became a good friend. It also, amazingly for me, did not change some fifteen plus years into my fandom when Aaron and I played in a band of our own called <a href="https://nohopenoharm.bandcamp.com/"><u>no hope/no harm</u></a> in the late 2010s.</p>
+<figure><a href="https://flaminghydra.com/contributor/luke-oneil/"><img src="https://storage.ghost.io/c/11/a3/11a34ed2-0d03-4467-9051-6142cc358694/content/images/2025/10/LUKE-O-NEIL.jpg"/></a></figure>
+<p> Subscribe now <br/>
+ Already a member? Sign in</p>
