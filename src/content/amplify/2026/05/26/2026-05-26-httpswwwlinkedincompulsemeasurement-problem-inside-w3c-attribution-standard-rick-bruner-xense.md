@@ -1,0 +1,65 @@
+---
+author: "\U0001F4C8 Rick Bruner"
+cover_image: >-
+  https://static.licdn.com/scds/common/u/images/email/artdeco/logos/96/linkedin-bug-color.png
+date: '2026-05-26T20:52:06.535Z'
+dateFolder: 2026/05/26
+description: >-
+  The W3C’s proposed "Attribution Level 1" browser standard is an important
+  development in advertising infrastructure and privacy-preserving measurement.
+  But it also raises a deeper question that the industry still struggles to
+  confront honestly: Are we standardizing a scientifically valid approach to
+isBasedOn: >-
+  https://www.linkedin.com/pulse/measurement-problem-inside-w3c-attribution-standard-rick-bruner-xense/
+link: >-
+  https://www.linkedin.com/pulse/measurement-problem-inside-w3c-attribution-standard-rick-bruner-xense/
+slug: >-
+  2026-05-26-httpswwwlinkedincompulsemeasurement-problem-inside-w3c-attribution-standard-rick-bruner-xense
+tags:
+  - tech
+  - ad tech
+title: The Measurement Problem Inside the W3C Attribution Standard
+---
+<h3> 📈 Rick Bruner </h3>
+<p>The W3C’s proposed <a data-test-link="" data-tracking-control-name="article-ssr-frontend-pulse_little-text-block" data-tracking-will-navigate="" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ew3%2Eorg%2FTR%2Fattribution%2F&amp;urlhash=tbqM&amp;trk=article-ssr-frontend-pulse_little-text-block">"Attribution Level 1"</a> browser standard is an important development in advertising infrastructure and privacy-preserving measurement. But it also raises a deeper question that the industry still struggles to confront honestly: Are we standardizing a scientifically valid approach to measuring advertising effectiveness, or simply modernizing an observational attribution framework that still cannot reliably distinguish correlation from causation?</p>
+<p>I submitted <a data-test-link="" data-tracking-control-name="article-ssr-frontend-pulse_little-text-block" data-tracking-will-navigate="" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Flists%2Ew3%2Eorg%2FArchives%2FPublic%2Fpublic-patwg%2F2026May%2F0020%2Ehtml&amp;urlhash=-4IM&amp;trk=article-ssr-frontend-pulse_little-text-block">the following open comment</a> to the W3C Attribution Working Group because I believe this distinction matters, for advertisers, media competition, publisher economics, and the future direction of advertising measurement itself.</p>
+<p>The public comment period remains open until June 10. I would encourage others in the industry, especially researchers, data scientists, economists, publishers, and marketers, to review the proposal and weigh in as well: W3C Attribution Level 1 specification: <a data-test-link="" data-tracking-control-name="article-ssr-frontend-pulse_little-text-block" data-tracking-will-navigate="" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Ew3%2Eorg%2FTR%2Fattribution%2F&amp;urlhash=tbqM&amp;trk=article-ssr-frontend-pulse_little-text-block">https://www.w3.org/TR/attribution/</a></p>
+<p>To the Attribution Working Group,</p>
+<p>Thank you for the opportunity to comment on the Attribution Level 1 specification.</p>
+<p>By way of background, I have worked in advertising measurement and analytics for more than two decades, including research and analytics leadership roles associated with DoubleClick and Google, and I currently focus on incrementality measurement and experimental design.</p>
+<p>At the outset, I want to acknowledge the legitimate and important goals behind this work, particularly around privacy preservation, browser interoperability, and reducing reliance on opaque third-party tracking mechanisms. Standardized browser-level APIs for advertising-related event reporting may offer meaningful improvements in transparency, consistency, and user privacy relative to prior generations of ad-tech infrastructure.</p>
+<p>Nothing in this comment should be interpreted as opposition to privacy-preserving browser infrastructure itself.</p>
+<p>My concern is instead with the underlying measurement paradigm being standardized.</p>
+<p>The specification appears to formalize and modernize a fundamentally observational attribution framework that remains unable to reliably measure advertising incrementality or causal advertising effectiveness.</p>
+<p>Traditional attribution modeling generally does not estimate a counterfactual. It observes advertising exposures and subsequent conversion activity, then allocates credit across conversion pathways using deterministic or statistical rules. This is not equivalent to measuring whether advertising caused an incremental business outcome.</p>
+<p>The core methodological problem is longstanding and well understood in both academic and practitioner literature: consumers exposed to advertising are not randomly selected. Users already close to purchase naturally generate more searches, clicks, site visits, retail activity, and conversion events. Attribution systems systematically confuse this underlying purchase propensity with advertising persuasion.</p>
+<p>This is not merely a weak form of experimental inference. In most implementations, attribution modeling is not a causal methodology at all.</p>
+<p>This concern is heightened by the specification’s repeated characterization of attribution as a means of identifying “effective” advertising and improving advertising performance. The document states that attribution enables advertisers to learn “what ads perform best” and to spend more on “effective advertising” and less on “ineffective advertising.” However, observational attribution systems generally do not establish whether advertising caused incremental outcomes. At best, they identify statistical associations between exposures and subsequent actions.</p>
+<p>Given the extensive longstanding critique of attribution modeling’s inability to distinguish causation from selection effects and pre-existing purchase intent, these claims risk overstating what such systems are scientifically capable of determining.</p>
+<p>The danger is not merely imprecision. It is the creation of a highly persuasive but potentially misleading illusion of measurement validity, particularly when supported by sophisticated dashboards, large-scale behavioral telemetry, and algorithmic optimization systems.</p>
+<p>These limitations have been extensively discussed for more than a decade by researchers and practitioners, including within the attribution literature itself.</p>
+<p>Selected references include:</p>
+<p>Dalessandro, Brian et al. “Causally Motivated Attribution for Online Advertising.” ADKDD 2012. <a data-test-link="" data-tracking-control-name="article-ssr-frontend-pulse_little-text-block" data-tracking-will-navigate="" href="https://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww0%2Ecs%2Eucl%2Eac%2Euk%2Fstaff%2Fw%2Ezhang%2Frtb-papers%2Fcausual-conv-att%2Epdf&amp;urlhash=Qi-t&amp;trk=article-ssr-frontend-pulse_little-text-block">http://www0.cs.ucl.ac.uk/staff/w.zhang/rtb-papers/causual-conv-att.pdf</a></p>
+<p>Hercher, James. “Beware The Platform Incrementality Trap.” AdExchanger, 2025. <a data-test-link="" data-tracking-control-name="article-ssr-frontend-pulse_little-text-block" data-tracking-will-navigate="" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eadexchanger%2Ecom%2Fcommerce%2Fbeware-the-platform-incrementality-trap%2F&amp;urlhash=Rckq&amp;trk=article-ssr-frontend-pulse_little-text-block">https://www.adexchanger.com/commerce/beware-the-platform-incrementality-trap/</a></p>
+<p>One particularly important consequence is structural lower-funnel bias.</p>
+<p>Attribution systems systematically favor media channels positioned closest to observable conversion activity, especially:</p>
+<ul> <li>paid search,</li> <li>retargeting,</li> <li>retail media,</li> <li>click-oriented social advertising,</li> <li>and platforms with persistent identity and commerce visibility.</li> </ul>
+<p>These systems are exceptionally effective at harvesting existing demand signals. Modern advertising platforms increasingly use sophisticated AI and algorithmic optimization systems to identify users exhibiting behavioral indicators associated with imminent purchase intent. Because attribution models observe users already in motion toward purchase, such channels tend to receive disproportionate measurement credit regardless of their true incremental contribution.</p>
+<p>Conversely, media that often create demand rather than merely intercept it, including television, audio, out-of-home, premium video, sponsorships, and broader brand advertising, are structurally undercredited because their effects are frequently delayed, probabilistic, indirect, or not easily tied to clickstream behavior.</p>
+<p>This bias does not merely distort reporting dashboards. It distorts budget allocation, optimization systems, and ultimately competition within the media marketplace.</p>
+<p>The consequence is not merely technical mismeasurement. It is a systematic reallocation of advertising investment toward the largest digital platforms, particularly those with privileged access to high-intent behavioral data, persistent identity systems, retail signals, and large-scale AI optimization infrastructure. Standardizing attribution-centric measurement frameworks risks further entrenching these advantages at the expense of smaller media companies and independent publishers whose contributions are less easily captured through clickstream attribution. This concern is especially significant at a moment when many media organizations, particularly news publishers, face severe economic pressure and existential business challenges.</p>
+<p>Modern advertising platforms increasingly optimize delivery algorithms toward attributed conversions. This creates a self-reinforcing feedback loop in which platforms learn to identify and target users already most likely to convert, thereby improving attributed performance metrics without necessarily improving incremental business outcomes.</p>
+<p>The resulting feedback loop can create the illusion of advertising effectiveness while increasingly concentrating spend into channels optimized primarily for demand interception rather than incremental demand creation. In this environment, advertisers themselves may become among the largest losers, as substantial portions of marketing investment risk being redirected toward measurement-favored but weakly incremental activity under the implicit endorsement of major industry standards bodies and technical organizations.</p>
+<p>For this reason, I believe there is substantial risk in industry bodies and standards organizations implicitly legitimizing attribution frameworks as authoritative measures of advertising effectiveness without clearer acknowledgment of their methodological limitations.</p>
+<p>The concern is not that pathway telemetry lacks all utility. Descriptive reporting of advertising exposures and conversion sequences can be operationally useful for workflow management, reconciliation, and campaign diagnostics. However, descriptive telemetry should not be conflated with causal evidence of advertising effectiveness.</p>
+<p>I would strongly encourage the Working Group to distinguish more clearly between:</p>
+<ol> <li>privacy-preserving event reporting infrastructure, and</li> <li>scientifically valid methods for measuring advertising effectiveness.</li> </ol>
+<p>The former is an important engineering and standards objective. The latter remains fundamentally unresolved by attribution modeling itself.</p>
+<p>The advertising industry — and especially influential standards and trade organizations — should instead be advancing the science of advertising measurement toward more scientifically grounded incrementality methodologies, particularly randomized controlled experimentation and large-scale geo-based experiments capable of estimating causal lift through explicit counterfactual comparison.</p>
+<p>For reference, I have published an overview of one such framework here: <a data-test-link="" data-tracking-control-name="article-ssr-frontend-pulse_little-text-block" data-tracking-will-navigate="" href="https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fgithub%2Ecom%2Frickcentralcontrolcom%2Fgeo-rct-methodology%2F&amp;urlhash=_nBf&amp;trk=article-ssr-frontend-pulse_little-text-block">https://github.com/rickcentralcontrolcom/geo-rct-methodology/</a></p>
+<p>I would also encourage the specification to explicitly clarify that Attribution Level 1 should not be interpreted as measuring causal advertising effectiveness or incrementality absent separate experimental methodology.</p>
+<p>Absent such distinctions, there is a meaningful risk that the specification will further institutionalize a measurement approach widely understood to be methodologically inadequate for causal inference, with downstream consequences for advertiser decision quality, media competition, and the allocation of advertising investment across the digital ecosystem.</p>
+<p>Rick Bruner </p>
+<p>CEO, Central Control </p>
+<p>Founder &amp; Moderator, Research Wonks </p>
+<p>U.S. Vice Chair, I-COM</p>
