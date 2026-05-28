@@ -1,0 +1,31 @@
+---
+author: Sam Yellowhorse Kesler
+cover_image: >-
+  https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F83%2F8c3e60fd4b20add54d28c8a74a6d%2Fdcdc76bb-38d0-4d1f-8a66-0b101b5c6a23.jpg
+date: '2026-05-27T21:42:34.206Z'
+dateFolder: 2026/05/27
+description: "LIVE SHOW TOUR INFO HERE. New stories, live tapings, special guests, book signings and more.\_What would you build on a piece of land when all the normal rules go out the window?On today’s show, how the Squamish Nation reclaimed a sliver of prime urban real estate and were liberated from zoning restrictions, to the consternation of their wealthy NIMBY neighbors.We trace the 100 year saga of what might be the most interesting real estate development in North America right now: There’s a violent eviction, a tense legal battle, and a giant, tough decision for the Squamish Nation that culminates in the daring project that they’re building today.It’s a story with lessons for every city trying to lower housing costs and build more.This episode is adapted from Planet Money: A Guide To The Economic Forces That Shape Your Life. Pre-order before April 7 and you can get a poster. Details here.\_The working paper we mentioned on “ready-to-issue” permits in Los Angeles.Subscribe to Planet Money+Listen free: Apple Podcasts, Spotify, the NPR app or anywhere you get podcasts.Facebook / Instagram / TikTok / Our weekly Newsletter.This episode was produced by Sam Yellowhorse Kesler with an assist from Emma Peaslee. It was edited by Jess Jiang, fact-checked by Sierra Juarez and engineered by Cena Loffredo. Alex Goldmark is Planet Money’s executive producer.\_"
+isBasedOn: >-
+  https://www.npr.org/2026/03/27/nx-s1-5764334/squamish-nation-senakw-vancouver-indigenous-construction-housing-nimby
+link: >-
+  https://www.npr.org/2026/03/27/nx-s1-5764334/squamish-nation-senakw-vancouver-indigenous-construction-housing-nimby
+slug: >-
+  2026-05-27-httpswwwnprorg20260327nx-s1-5764334squamish-nation-senakw-vancouver-indigenous-construction-housing-nimby
+tags:
+  - canada
+  - politics
+  - real estate
+  - native american
+title: The skyscrapers that NIMBYs and zoning couldn't stop
+---
+<figure><picture><figure><img alt="" data-template="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/{width}/quality/{quality}/format/{format}/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F83%2F8c3e60fd4b20add54d28c8a74a6d%2Fdcdc76bb-38d0-4d1f-8a66-0b101b5c6a23.jpg" src="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1100/quality/50/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F83%2F8c3e60fd4b20add54d28c8a74a6d%2Fdcdc76bb-38d0-4d1f-8a66-0b101b5c6a23.jpg"/><figcaption>Gilbert Jacobs, better known as Chief "Gibby," in front of the Sen?á?w housing project in downtown Vancouver.</figcaption></figure></picture></figure>
+<p>Walk the shoreline of Kitsilano in Vancouver, Canada, and you see a construction site where eleven residential towers are rising from new foundations. This cluster of high-rises is squeezed between the bridge and the water, on one side, and, crucially for this story, neighboring parks and expensive single-family homes on the other. The cluster of rising towers looks like a second downtown packed into just four blocks. It feels distinct from the nearby city.</p>
+<p>That's because this site is not part of Kitsilano or even Vancouver. The development, Sen̓áḵw, is a reserve that belongs to the Squamish Nation (Skwxwú7mesh Úxwumixw), whose members have lived in North America since long before the arrival of Europeans. No Squamish had lived on this land since 1913 though. The story of how they reclaimed their land and turned it into a rising, gleaming example of how to build new housing and overcome NIMBY opposition makes this sliver of urban Canada one of the most interesting plots of land in the world … at least to us.</p>
+<p>The story goes back to 1913 when Sen̓áḵw was a coastal village where Squamish people hunted and fished. But the provincial government forced the residents to leave and burned the original Sen̓áḵw village behind them. After a dramatic, underdog legal quest, the Squamish Nation finally won back 10.5 acres of land in the early 2000s.</p>
+<p>The land they got back was a prime piece of real estate in one of the most expensive cities in the world. Throughout Vancouver, zoning regulations have historically limited the height and density of new buildings, often to single-family homes with a yard. For many, this is part of what makes the city such a desirable place to live, and also, part of why it is so hard to find housing. Reserves like Sen̓áḵw, though, are not bound by these zoning regulations.</p>
+<p>On today's show, what would you build on a piece of land when all the normal rules go out the window? We follow the Squamish Nation's journey from their reclamation of the land, to the daring project they decided to build, and find lessons for every city trying to lower housing costs and build more.</p>
+<p><em>This episode is adapted from a chapter reported and written by Alex Mayyasi for </em><a href="https://www.planetmoneybook.com/"><u>Planet Money: A Guide To The Economic Forces That Shape Your Life</u></a><em>. If you pre-order the book before April 7 you can get a poster. </em><a href="https://www.planetmoneybook.com/"><em><u>Details here</u></em></a><em>. </em></p>
+<p><a href="https://evansoltas.com/papers/Permitting_SoltasGruber2026.pdf"><em><u>The working paper we mentioned on "ready-to-issue" permits in Los Angeles.</u></em></a></p>
+<p><em>Listen free: </em><a href="http://n.pr/PM-digital"><em><u>Apple Podcasts</u></em></a><em>, </em><a href="https://n.pr/3gTkQlR"><em><u>Spotify</u></em></a><em>, </em><a href="https://n.pr/3Bkb17W"><em><u>the NPR app</u></em></a><em> or anywhere you get podcasts.</em></p>
+<p><em>This episode was produced by Sam Yellowhorse Kesler with an assist from Emma Peaslee. It was edited by Jess Jiang, fact-checked by Sierra Juarez and engineered by Cena Loffredo. Alex Goldmark is </em>Planet Money<em>'s executive producer. </em></p>
+<p><em>Music: Universal Production Music - "La Dolce Vita," "Oops," and "No Tears Allowed"</em></p>
