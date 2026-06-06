@@ -1,0 +1,48 @@
+---
+author: Cyrus Farivar
+cover_image: >-
+  https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-2560x1440-1780609093.jpg
+date: '2026-06-05T12:21:11.854Z'
+dateFolder: 2026/06/05
+description: “Why don’t we just frickin’ call Apple?”...
+isBasedOn: >-
+  https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/
+link: >-
+  https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/
+slug: >-
+  2026-06-05-httpsarstechnicacomapple202606steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next
+tags:
+  - tech
+  - books
+  - history
+title: Steve Jobs in Exile rescues forgotten NeXT years from the footnotes
+---
+<p> <em> What’s next </em></p>
+<p>“Why don’t we just frickin’ call Apple?”</p>
+<p><a href="https://arstechnica.com/author/ars-staff/"> Cyrus Farivar </a> –  Jun 5, 2026 7:15 AM |</p>
+<figure><a data-cropped="true" data-pswp-height="3460" data-pswp-srcset="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736.jpg 5350w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-640x414.jpg 640w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-1024x662.jpg 1024w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-768x497.jpg 768w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-1536x993.jpg 1536w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-2048x1325.jpg 2048w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-980x634.jpg 980w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-1440x931.jpg 1440w" data-pswp-width="5350" href="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736.jpg"><img alt="" sizes="(max-width: 1152px) 100vw, 1152px" src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-1536x864-1780609087.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-1152x648-1780609084.jpg 1152w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-384x216-1780609080.jpg 384w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-768x432-1780609082.jpg 768w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-136021736-1536x864-1780609087.jpg 1536w"/></a></figure>
+<p> / Credit: Getty Images</p>
+<p>Text settings</p>
+<p>In the late 1990s, I was a precocious Mac nerd who pored over issues of Macworld, stayed up late chatting on IRC, and downloaded pirated software that I didn’t actually need. I came of age at the tail end of the dial-up modem and BBS era—and got to witness the early days of the World Wide Web.</p>
+<p>I wanted to know where all of this had come from and how it had happened so quickly. The grown-ups around me seemed mystified at best and indifferent at worst.</p>
+<p>So I turned to books. I read <em>Fire in the Valley</em> (1984), <em>Where Wizards Stay Up Late</em> (1996), <em>Infinite Loop</em> (1999), and <em>Dealers of Lightning</em> (1999). In my mind (and to a lesser degree, on my actual bookshelf), I had built a mental list of my favorite selections of late 20th-century tech journalism.</p>
+<p>Despite its 21st-century publication date, Geoffrey Cain’s latest book, <em><a href="https://www.amazon.com/Steve-Jobs-Exile-Remaking-Visionary/dp/0593716698">Steve Jobs in Exile</a></em>, would make a comfortable addition to my old list.</p>
+<p>I already knew the basic beats of this story: the origins of Silicon Valley, the establishment of the ARPANet, the creation of Xerox PARC, the founding of Apple, its near-collapse, and Jobs leaving the company to launch NeXT.</p>
+<figure><a data-cropped="false" data-pswp-height="5712" data-pswp-srcset="https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-rotated.jpeg 4284w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-640x853.jpeg 640w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-1024x1365.jpeg 1024w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-768x1024.jpeg 768w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-1152x1536.jpeg 1152w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-1536x2048.jpeg 1536w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-980x1307.jpeg 980w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-1440x1920.jpeg 1440w" data-pswp-width="4284" href="https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-rotated.jpeg"><img alt="" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-1536x2048.jpeg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-640x853.jpeg 640w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-1024x1365.jpeg 1024w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-768x1024.jpeg 768w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-1152x1536.jpeg 1152w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-1536x2048.jpeg 1536w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-980x1307.jpeg 980w, https://cdn.arstechnica.net/wp-content/uploads/2026/06/IMG_0348-1440x1920.jpeg 1440w"/></a><figcaption>/ Credit: Cyrus Farivar</figcaption></figure>
+<p>Cain reminds us, in stunning detail, that Jobs’ “exile” era at NeXT was not only critical to his evolution as a man and an entrepreneur, but that it mattered for the rest of us, too. The technological innovations that came out of NeXT—notably, the NeXTSTEP OS—<a href="https://arstechnica.com/gadgets/2012/12/the-legacy-of-next-lives-on-in-os-x/">continue to live on</a> in what we now call both macOS and iOS.</p>
+<p>As Cain puts it, “<a href="https://www.youtube.com/watch?v=rf5o5liZxnA">NeXTSTEP</a> was Steve’s attempt to make Unix taste sweet.”</p>
+<p>I was raised in a Mac household, beginning with the 128k and extending through the Plus, the Classic II, and so many <a href="https://en.wikipedia.org/wiki/Macintosh_Performa">Performas</a>. (One of my dad’s friends even gifted me a Newton. Like Jobs himself, I found the experience of actually using it quite confounding.)</p>
+<p>By 1998 and 1999, we were all surfing those Bondi Blue iMac G3 waves—my high school journalism classroom even had a few! It was the dawn of a new millennium, and Y2K fears aside, things were looking pretty good.</p>
+<p>At the time, I knew only vaguely about why Apple had struggled—OK, sucked—in the mid-90s. Why did Jobs start NeXT? What happened to a “computer for the rest of us”? What took place between Apple’s glory days of the early 1980s and its iMac-fueled, late-90s renaissance? (And what counts as a “workstation,” anyway?)</p>
+<p><em>Steve Jobs in Exile</em> answers all of these questions and more.</p>
+<p>While the general narrative—Jobs left for NeXT but returned to save Apple—is easy to see in hindsight, Cain’s telling brings new tidbits, detailed texture, and three-dimensional characters to the fore in ways that haven’t been fully realized previously.</p>
+<p>Three brief passages highlight the amount of new information uncovered by Cain.</p>
+<p>Near the middle of the book, Cain writes about how in 1989, NeXT and Jobs hired Adamation, a two-man <a href="https://computerhistory.org/blog/meet-the-adams-brothers/">Black-owned, Oakland-based software development company</a>, to make some of the first software for NeXT’s nascent platform.</p>
+<p>While that project for William Morris, a notable Hollywood agency, ultimately fizzled, Cain notes that “Steve [Jobs] protected Adamation’s reputation. He never blamed them publicly for the failure, and NeXT kept sending [Adamation] high-profile clients: the Los Angeles County Sheriff’s Department and then a luxury real estate broker called Alain Pinel Realtors.”</p>
+<p>In this brief moment, almost a footnote, Cain underscores how much Jobs valued people who could share his vision of better and easier-to-use software. (NeXT’s hardware turned out to be too little, too late.)</p>
+<p>Second, while many tech nerds know that Tim Berners-Lee created the first World Wide Web server on a NeXT machine while working in Switzerland in 1990, few know that NeXT employees were wary of bringing the news to Jobs. Why? They feared his wrath “and that he would dismiss [the web] as ‘shit.’” (In another timeline, NeXT might itself have capitalized on this world-changing innovation.)</p>
+<p>But perhaps one of the wildest anecdotes that Cain uncovered was how one voicemail changed computer history forever.</p>
+<p>In 1996, when Apple was solidly in its mediocre Performa era—and considering buying BeOS as the basis for its new operating system—a mid-level NeXT product manager asked aloud, “Why don’t we just frickin’ call Apple?” (NeXT was also struggling during this period.)</p>
+<p>And so someone did. As Cain writes:</p>
+<blockquote><p>Garrett left the group of managers, walked back to his office, and took a risk. He picked up his designer phone and called the head of software at Apple. He left what he described as “one of my more inspired sales pitches” on the man’s voicemail, explaining why Apple should be looking at NeXT instead of Be… In any other universe, Garrett’s call might have gotten him fired. But in this timeline, it worked out. And thanks to him, Steve [Jobs] was about to enter Apple’s airspace once again.</p></blockquote>
+<p>Jobs passed away in 2011 at the age of 56. It’s worth remembering that 12 of those years were spent building NeXT.</p>
