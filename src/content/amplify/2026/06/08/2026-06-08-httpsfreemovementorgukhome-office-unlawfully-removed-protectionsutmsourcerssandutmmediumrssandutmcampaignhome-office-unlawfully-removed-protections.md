@@ -1,0 +1,62 @@
+---
+author: Ralitsa Peykova
+cover_image: >-
+  https://freemovement.org.uk/wp-content/uploads/2022/10/2255416987_dcc0d79006_z-edited.jpg
+date: '2026-06-08T12:13:27.564Z'
+dateFolder: 2026/06/08
+description: >-
+  The High Court has ruled that the Home Office acted unlawfully when it removed
+  long-standing accommodation protections for survivors of torture, trafficking
+isBasedOn: >-
+  https://freemovement.org.uk/home-office-unlawfully-removed-protections/?utm_source=rss&utm_medium=rss&utm_campaign=home-office-unlawfully-removed-protections
+link: >-
+  https://freemovement.org.uk/home-office-unlawfully-removed-protections/?utm_source=rss&utm_medium=rss&utm_campaign=home-office-unlawfully-removed-protections
+slug: >-
+  2026-06-08-httpsfreemovementorgukhome-office-unlawfully-removed-protectionsutmsourcerssandutmmediumrssandutmcampaignhome-office-unlawfully-removed-protections
+tags:
+  - uk
+  - immigration
+title: >-
+  Home Office unlawfully removed asylum accommodation protections for torture
+  and trafficking survivors
+---
+<figure><img alt="" data-lazyloaded="1" data-sizes="(max-width: 600px) 100vw, 600px" data-src="https://freemovement.org.uk/wp-content/uploads/2023/12/fmsignup.png" data-srcset="https://freemovement.org.uk/wp-content/uploads/2023/12/fmsignup.png 600w, https://freemovement.org.uk/wp-content/uploads/2023/12/fmsignup-300x240.png 300w" src="https://freemovement.org.uk/wp-content/uploads/2023/12/fmsignup.png" srcset="https://freemovement.org.uk/wp-content/uploads/2023/12/fmsignup.png 600w, https://freemovement.org.uk/wp-content/uploads/2023/12/fmsignup-300x240.png 300w"/></figure>
+<p>Some of our case law write ups and older content are available to members only. A great deal of time and effort goes into producing the information on Free Movement, become a member of Free Movement to get unlimited access to all articles, and much, much more.</p>
+<p>By becoming a member of Free Movement, you not only support the hard-work that goes into maintaining the website, but get access to premium features;</p>
+<ul><li>Single login for personal use</li><li>FREE downloads of Free Movement ebooks</li><li>Access to all Free Movement blog content</li><li>Access to all our online training materials</li><li>Access to our busy forums</li><li>Downloadable CPD certificates</li></ul>
+<p>The High Court has ruled that the Home Office acted unlawfully when it removed long-standing accommodation protections for survivors of torture, trafficking and other serious violence. The court found that the Home Office failed to consult specialist organisations, properly consider equality impacts or investigate the likely consequences of the changes.</p>
+<p>In a significant victory for Freedom from Torture and the Helen Bamber Foundation, the claimant charities in this case, the High Court has quashed key changes made to the Home Office’s ‘Allocation of asylum accommodation’ policy contained in version 11. The ruling reaffirms the importance of consultation and evidence-based policymaking when dealing with highly vulnerable people.</p>
+<p>This is a comprehensive defeat for the Home Office. The claimant charities succeeded on every ground advanced in the claim. The full judgment can be read here: <em>R (Freedom from Torture and The Helen Bamber Foundation) v Secretary of State for the Home Department</em> <a href="https://caselaw.nationalarchives.gov.uk/ewhc/admin/2026/1278">[2026] EWHC 1278 (Admin)</a>.</p>
+<h2>Background</h2>
+<p>The challenge concerned changes introduced in <a href="https://webarchive.nationalarchives.gov.uk/ukgwa/20240229163208/https:/www.gov.uk/government/publications/asylum-accommodation-requests-policy">version 11</a> of the Home Office’s policy on the allocation of asylum accommodation in February 2024, described within its own equality impact assessment as ‘significant changes’. Those changes were later retained in versions 12 and 13.</p>
+<p>For more than two decades, Freedom from Torture and later the Helen Bamber Foundation maintained a long-standing, collaborative relationship with the Home Office as key non-governmental expert stakeholders. This relationship involved prior consultation about relevant policy changes. Consultations were routinely conducted both directly and through the Asylum Strategic Engagement Group support subgroup. The subgroup was expressly defined in its terms of reference as a consultative body for updated policies and operational guidance.</p>
+<p>Within such a forum, the Home Office had recognised that survivors of torture and other serious forms of violence often required particular accommodation arrangements. Successive policies included additional protections for people receiving treatment from the claimant charities.</p>
+<p>Those protections included a presumption against room-sharing with strangers, special consideration regarding dispersal away from treatment providers and a policy of accepting the organisations’ clinical assessments without seeking second opinions from Home Office medical advisers.</p>
+<p>Version 11 removed those protections.</p>
+<p>The Home Office replaced them with a case-by-case assessment process. Survivors who wished to avoid room-sharing or seek accommodation close to treatment services would generally need to provide evidence demonstrating why they required special arrangements.</p>
+<p>The claimant charities argued that the changes would expose vulnerable people to significant harm and had been introduced without consultation, without compliance with the Public Sector Equality Duty and without proper inquiry into their likely effects.</p>
+<h2>A long history of consultation</h2>
+<p>A striking feature of the judgment is the court’s detailed examination of the relationship between the Home Office and the two claimant charities.</p>
+<p>Mr Justice Sweeting traced a history of engagement stretching back to the introduction of the asylum support system in 2000. Over many years, the Home Office repeatedly consulted the organisations on accommodation policy, sought their views on proposed changes and incorporated their recommendations into policy documents.</p>
+<p>The judge found that the claimant charities were not simply external stakeholders lobbying for a particular outcome. They had become recognised sources of specialist expertise whose clinical knowledge informed the development of policy affecting survivors of torture and trafficking.</p>
+<p>The evidence showed repeated assurances from the Home Office that the organisations would be consulted before significant changes were made. Draft policies had been shared in the past and extensive discussions had taken place about room-sharing, dispersal and accommodation needs.</p>
+<p>An internal email by a member of the Home Office policy team recognised that:</p>
+<blockquote><p>‘HB and Freedom from Torture are considered to be on a par with the Salvation Army and their reports need to be given sufficient scrutiny – <strong>they are definitely respected NGO’s and making any changes to the guidance without any prior consultation with them could be reputationally risky</strong>.’ – emphasis added</p></blockquote>
+<p>Against that background, the court concluded that the Home Office had acted unlawfully by failing to consult. It has undertaken no consultation or meaningful engagement before introducing fundamental policy changes. The court concluded that this failure could not be justified by reference to urgency or policy development at pace, particularly given the facts at the relevant time and the long-standing history of constructive consultation. In the circumstances, consultation was an obvious and reasonable means by which the Home Office could and should have informed itself of the likely impact of the changes on a vulnerable group.</p>
+<p>The judge also found that consultation was required because of the seriousness of the potential impact on a particularly vulnerable group. Given the nature of the changes and the expertise available from the charities, it was unfair not to seek their views before the policy was adopted.</p>
+<p>The Home Office’s decision to remove established protections without any prior consultation was therefore unlawful.</p>
+<h2>Equality impacts were not properly considered</h2>
+<p>The claimants also succeeded on their Public Sector Equality Duty challenge. This issue was closely linked to an earlier judgment in <em>R (TG and others) v Secretary of State for the Home Department <a href="https://www.bailii.org/ew/cases/EWHC/Admin/2025/596.html">[2025] EWHC 596 (Admin)</a></em>, which had already found serious deficiencies in the Home Office’s equality analysis relating to version 11 of the policy. Our coverage of this case can be found <a href="https://freemovement.org.uk/high-court-finds-that-three-men-were-unlawfully-accommodated-at-wethersfield/">here</a>.</p>
+<p>The court accepted that many of the people affected by the policy changes had a disability for the purposes of the Equality Act 2010, because of severe mental health conditions arising from torture, trafficking and other forms of serious violence. However, the Home Office argued that later equality impact assessments remedied any earlier defects.</p>
+<p>The judge disagreed. He found that the original equality assessment failed to grapple with the actual effect of the policy change. The Home Office had moved from a system containing specific protections for vulnerable groups to one requiring individual evidence and assessments. Yet it had not properly considered how that shift would affect people with mental health conditions, trauma-related disorders and other disabilities.</p>
+<p>Subsequent assessments did not cure the problem because they continued to rely on inadequate evidence and did not involve meaningful engagement with the organisations possessing the greatest expertise in the area. The result was a continuing breach of the Public Sector Equality Duty.</p>
+<h2>Failure to make proper inquiries</h2>
+<p>The claimant charities also succeeded on their Tameside challenge. The Tameside duty requires a public authority, before taking a decision, to make such inquiries as are reasonable in all the circumstances. A decision will be unlawful if it is taken without the authority having sufficiently informed itself of the relevant material necessary to reach a rational conclusion. The court found that the Home Office had failed to do so here.</p>
+<p>The judge noted that the Home Office had available sources of specialist evidence that could have informed its understanding of the likely consequences of removing the protections. The charities had decades of experience supporting survivors of torture and trafficking. Internal Home Office correspondence also recognised their expertise and warned that changes should not be made without consultation.</p>
+<p>Despite this, the Home Office introduced the new policy without obtaining or updating its evidence from those organisations and without carrying out sufficient inquiry into the likely impact on affected individuals. That failure was particularly significant given the vulnerability of the people affected and the potential consequences for their mental health and recovery.</p>
+<p>The court concluded that the Home Office had not properly informed itself before making the changes.</p>
+<h2>Why this matters</h2>
+<p>This judgment is important because it restates what public bodies must do before reaching decisions, even decisions which the government consider are politically urgent or administratively convenient.</p>
+<p>The judgment emphasises a number of crucial points. Consultation is important and public bodies cannot dispense with this. They must also consider the effect of policy changes on vulnerable people and must conduct lawful equality impact assessments. Finally, they must make inquiries before reaching decisions – proper evidence gathering is essential.</p>
+<p>For organisations working with asylum seekers, the decision is likely to be one of the most important public law judgments on asylum accommodation policy in recent years.</p>
+<p><em>This post is co-authored by: Polly Glynn, a founding partner and the managing partner of Deighton Pierce Glynn, and Ralitsa Peykova, a solicitor with Deighton Pierce Glynn. For further information see <a href="https://www.freedomfromtorture.org/news-and-stories/high-court-finds-the-government-acted-unlawfully-in-making-policy-changes">here</a>.</em></p>
