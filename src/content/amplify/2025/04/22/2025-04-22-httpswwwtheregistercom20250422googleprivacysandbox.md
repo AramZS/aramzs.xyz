@@ -1,0 +1,42 @@
+---
+author: Thomas Claburn
+cover_image: >-
+  https://image.theregister.com/224181.jpg?imageId=224181&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683
+date: '2025-04-22T21:19:12.000Z'
+dateFolder: 2025/04/22
+description: >-
+  Google has abandoned its Privacy Sandbox project, which aimed to improve
+  online privacy by getting rid of third-party cookies. This decision comes
+  after pressure from regulators and competitors, leaving user privacy
+  unprotected as online advertising remains unchanged. Critics argue that Google
+  is prioritizing its advertising dominance over user privacy, urging people to
+  consider alternative browsers for better protection.
+isBasedOn: 'https://www.theregister.com/2025/04/22/google_privacy_sandbox/'
+link: 'https://www.theregister.com/2025/04/22/google_privacy_sandbox/'
+slug: 2025-04-22-httpswwwtheregistercom20250422googleprivacysandbox
+tags:
+  - ad tech
+  - privacy
+title: RIP to the Google Privacy Sandbox
+---
+<p>After six years of work, Google's Privacy Sandbox, technology for delivering ads while protecting privacy, looks like dust in the wind.</p>
+<p>The Chocolate Factory on Tuesday raised the white flag and surrendered to pressure from watchdogs and rivals who preferred the status quo – third-party cookies and all the privacy problems that come with them. While a loss for user privacy, the move could lower the temperature on Google's <a href="https://www.theregister.com/2025/04/17/judge_rules_google_publisher_ad/">troubles</a>, as regulators <a href="https://www.theregister.com/2024/02/01/google_privacy_sandbox_concerns_remain/">feared</a> the online ads giant would use the tool to boost its own already dominant advertising services.</p>
+<p>Google at one point aimed <a href="https://www.theregister.com/2024/01/04/google_set_to_start_cookie/">to get rid of</a> third-party cookies in Chrome – which by virtue of its dominance would break cookies for the ad industry. Now that's no longer the plan. Online advertising will remain the same as it ever was.</p>
+<p>Websites rely on cookies for various legitimate and necessary functions, such as authenticating users and storing preferences. But they also allow third-party firms to place cookies for user tracking, analytics, ad attribution, and other functions. This has been shown repeatedly to be terrible for privacy. Third-party cookies allow people's online activities to be <a href="https://cdt.org/insights/deprecating-third-party-cookies-a-small-step-towards-a-more-private-web/">tracked across websites</a>, often in ways that let them be personally identified.</p>
+<p>Google <a href="https://www.theregister.com/2019/08/22/google_chrome_privacy_sandbox/">began building</a> its Privacy Sandbox in 2019 in an effort to get ahead of the rising tide of privacy regulation, as technical defenses began appearing in rival browsers that blocked third-party cookies by default. <a href="https://privacysandbox.com/intl/en_us/open-web/">The project</a> consisted of a set of APIs – initially for the web but later expanded to Android – pitched to advertisers and publishers as a way to meet privacy regulations without depriving advertisers of targeting and analytics tools.</p>
+<p>The ad rethink ran into opposition from ad tech rivals, who argued the technology gave Google an edge in the buying and selling of ads. The Competition and Markets Authority and the Information Commissioner's Office in the UK held Google's feet to the fire and the US giant began making concessions. Meanwhile, Google's privacy claims kept falling short as technologists <a href="https://www.theregister.com/2023/01/18/google_topics_api/">poked holes</a> in the proposed systems.</p>
+<p>In July 2024, Anthony Chavez, VP of Privacy Sandbox, conceded partial defeat by promising to <a href="https://www.theregister.com/2024/07/23/google_cookies_third_party_continue/">let Chrome users choose</a> whether to play in the Privacy Sandbox or to accept third-party cookies. Google planned to offer an opt-in screen through which Chrome users could choose to allow third-party cookies if they wished.</p>
+<p>Now, it won't even be that – perhaps in an effort to get out ahead of an anticipated adverse regulatory decision from some government anti-trust-buster.</p>
+<p>Citing the adoption of unspecified privacy-enhancing technologies, supposed opportunities to improve privacy with AI, and a shifting regulatory landscape, Chavez walked back last year's compromise.</p>
+<p>"Taking all of these factors into consideration, we’ve made the decision to maintain our current approach to offering users third-party cookie choice in Chrome, and will not be rolling out a new standalone prompt for third-party cookies," said Chavez in <a href="https://privacysandbox.com/news/privacy-sandbox-next-steps/">a blog post</a>. "Users can continue to choose the best option for themselves in Chrome’s Privacy and Security Settings."</p>
+<h2>MORE CONTEXT</h2>
+<ul><li> <a data-k5a-url="/a/undefined" href="https://www.theregister.com/2024/10/07/cookie_opinion/"> <h3>Embattled users worn down by privacy options? Let them eat code</h3> </a> </li> <li> <a data-k5a-url="/a/undefined" href="https://www.theregister.com/2025/03/04/google_android/"> <h3>How Google tracks Android device users before they've even opened an app</h3> </a> </li> <li> <a data-k5a-url="/a/undefined" href="https://www.theregister.com/2025/03/31/privacy_dead_opinion/"> <h3>Privacy died last century, the only way to go is off-grid</h3> </a> </li> <li> <a data-k5a-url="/a/undefined" href="https://www.theregister.com/2025/04/07/chrome_135_history_sniffing/"> <h3>Chrome to patch decades-old flaw that let sites peek at your history</h3> </a> </li> </ul>
+<p>Some Privacy Sandbox technology will continue to be developed and deployed. Specifically, Chavez said <a href="https://github.com/GoogleChrome/ip-protection">IP Protection</a>, a <a href="https://www.theregister.com/2023/11/11/google_proxy_plan_cma/">proxy-based scheme</a> for keeping users' IP addresses away from third parties while in Incognito mode, is still scheduled for Q3 2025 deployment.</p>
+<p>The future of the Privacy Sandbox APIs is uncertain. Chavez said Google intends to "engage with the industry to gather feedback and share an updated roadmap for these technologies."</p>
+<p>James Rosewell, co-founder of <a href="https://movementforanopenweb.com/">Movement for an Open Web</a>, one of Google's principal antagonists as it sought to unilaterally rewrite the rules of online advertising, celebrated the Privacy Sandbox denouement.</p>
+<p>"This is an admission by Google that the Privacy Sandbox project is all but over," said Rosewell in a statement. "Google’s intention was to remove open and interoperable communications standards to bring digital advertising traffic under their sole control and, with this announcement, that aim is now over. They’ve recognized that the regulatory obstacles to their monopolistic project are insurmountable and have given up."</p>
+<p>The Electronic Frontier Foundation, which not long ago <a href="https://www.theregister.com/2023/09/30/eff_chrome_google_sandbox/">pilloried</a> the Privacy Sandbox for its lack of privacy, scolded the ad giant for repudiating its breakup with third-party cookies.</p>
+<p>"Google continues to backtrack on its privacy promises, leaving billions of Chrome users vulnerable to online surveillance," said foundation staff technologist Lena Cohen in a statement.</p>
+<p>"Last July, Google abandoned its long-delayed plan to deprecate third-party cookies in Chrome, opting instead to prompt users to choose whether or not to be tracked by third-party cookies. Today, Google backtracked even further on its privacy promises by scrapping the rollout of this plan to help users ‘make an informed choice.’</p>
+<p>"Even if implemented, a user-choice prompt would’ve fallen short of the default privacy protections offered by other leading browsers. Safari and Firefox have blocked third-party cookies by default since 2020, recognizing the widespread and well-documented privacy harms they cause.</p>
+<p>"By refusing to implement even the bare minimum protections they once promised, Google is making clear that user privacy comes second to their surveillance-based business model. To protect themselves from third-party cookies, users should consider switching to browsers like Firefox and installing a tracker-blocking extension like <a href="https://privacybadger.org/">Privacy Badger</a>." ®</p>
