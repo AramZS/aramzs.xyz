@@ -1,0 +1,42 @@
+---
+author: Erin Petrey
+cover_image: >-
+  https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/size/w1200/wp-content/uploads/2022/08/crab-trapper-review-header.jpg
+date: '2026-06-11T02:04:35.389Z'
+dateFolder: 2026/06/10
+description: >-
+  Since I’m always up for an adventure, of course, I wanted to try Crab Trapper
+  Whiskey when offered a sample. It’s a 4-year-old bourbon steeped with 90
+  pounds of green crabs and seasoned with spices reminiscent of a low-country
+  boil. Crazy, right? But I was up for it.
+isBasedOn: >-
+  https://www.bourbonbanter.com/the-truth-about-crab-trapper-green-crab-flavored-whiskey/
+link: >-
+  https://www.bourbonbanter.com/the-truth-about-crab-trapper-green-crab-flavored-whiskey/
+slug: >-
+  2026-06-10-httpswwwbourbonbantercomthe-truth-about-crab-trapper-green-crab-flavored-whiskey
+tags:
+  - food
+title: The Truth About Crab Trapper Whiskey
+---
+<figure><img alt="Crab Trapper review header image" sizes="(min-width: 1400px) 1400px, 92vw" src="https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/size/w2000/wp-content/uploads/2022/08/crab-trapper-review-header.jpg" srcset="https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/size/w300/wp-content/uploads/2022/08/crab-trapper-review-header.jpg 300w,
+                            https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/size/w600/wp-content/uploads/2022/08/crab-trapper-review-header.jpg 600w,
+                            https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/size/w1000/wp-content/uploads/2022/08/crab-trapper-review-header.jpg 1000w,
+                            https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/size/w2000/wp-content/uploads/2022/08/crab-trapper-review-header.jpg 2000w"/><figcaption>Crab Trapper review header image</figcaption></figure>
+<p>As a kid, I was an incredibly picky eater, but as an adult, I embraced trying the unknown—and potentially disgusting—to broaden my horizons and experiences. I’ve tasted stingray (too jellylike), discovered a fondness for fried grasshoppers, and developed a reputation at my old job for being “the one with the weird snacks.”</p>
+<p>I’ve also imbibed my fair share of unique quaffs like a kerosene-strength unknown alcohol from a jar full of snakes in Vietnam, Chicha from a gourd in the middle of the Amazon, and legit moonshine from a mason jar on a truck tailgate in Kentucky.</p>
+<p>Since I’m always up for an adventure, of course, I wanted to try <a href="https://tamworthdistilling.com/spirits/crab-trapper/?ref=bourbonbanter.com">Crab Trapper Green Crab Flavored Whiskey</a> when offered a sample. It’s a 4-year-old bourbon steeped with 90 pounds of green crabs and seasoned with spices reminiscent of a low-country boil. Crazy, right? But I was up for it.</p>
+<figure><img alt="" sizes="(min-width: 720px) 720px" src="https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/size/w2400/2023/03/Actual-crab-photo.jpg" srcset="https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/size/w600/2023/03/Actual-crab-photo.jpg 600w, https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/size/w1000/2023/03/Actual-crab-photo.jpg 1000w, https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/size/w1600/2023/03/Actual-crab-photo.jpg 1600w, https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/size/w2400/2023/03/Actual-crab-photo.jpg 2400w"/></figure>
+<p>Crab Trapper was created to combat the proliferation of green crabs in New England Waters. This species has sunk its destructive claws into the ecology and economy of the area’s fisheries by damaging native flora and fauna—perhaps irreparably—and depleting resources such as food for native species. The House of Tamworth distillery paired up with the University of New Hampshire’s NH Green Crab Project to craft what its press release dubbed a “claw-some” product that will quench adventurous thirsts and help the local fishing economy. See? I told you we would get to the conservation part.</p>
+<p>You may know The House of Tamworth for its other questionably flavored whiskeys containing accents of the corpse flower, venison, and castoreum. Still, it also produces a suite of other traditionally flavored and good-quality spirits, including bourbon, rye and vodka. I wrote about its delightful take on a Swedish classic, <a href="https://www.bourbonbanter.com/drink/cocktails/tamworth-distilling-skiklubben-aquavit-review-cocktail/">Aquavit</a>. But it’s the meat liquor that gets the buzz. Duh.</p>
+<p>Back to the crabs.</p>
+<p>I was thrilled when the crab whiskey arrived. The packaging was ace: a bottle nestled in straw inside a miniature crab trap. Assisted by the heavily waxed green cap, I ignored the urge to give it a try immediately, and the bottle sat on my kitchen counter for a few weeks. I even shot it furtive glances occasionally, but I wasn’t quite ready to have a sip. I even schlepped the thing in my work bag onto a boat on the Potomac, where my colleagues and I indulged in an all-out crab boil. The prospect of pairing crab whiskey—especially when I reeked of cooked crustaceans—wasn’t enough for me to open it. (A Miller Lite was a more suitable pairing.</p>
+<p>Came on the evening of our inaugural “Bourbon Bullshit Live” for the newly revamped B&amp;B community – <a href="https://bourbonbanter.com/drinkcurious?ref=bourbonbanter.com">DrinkCurious</a>. It’s essentially a Jeopardy! style board in which we pick topics to complain about and wax on. When we landed on a topic that warranted cracking open long-neglected crab whiskey, I pulled it out.</p>
+<figure><img alt="" sizes="(min-width: 720px) 720px" src="https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/2023/03/Crab-Trapper-bottles.jpg" srcset="https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/size/w600/2023/03/Crab-Trapper-bottles.jpg 600w, https://storage.ghost.io/c/1f/bc/1fbc7ea1-d6e2-43ab-9661-246c6f0c07f9/content/images/2023/03/Crab-Trapper-bottles.jpg 1000w"/></figure>
+<p>The bottle is small (only 200ml) with a thickly coated top of seafoam green wax. Piercing the wax required the assistance of my Leatherman to get at the little red pull string buried beneath. When I finally uncorked it, the unmistakable scent of a fish market filled my nose. I poured an ounce into a Glencairn, ready to give it the due respect, care, and consideration I render to all of my whiskey samples. The nose was, unsurprisingly, crabby. The palate—I was told by the product’s publicist, was a “briny Fireball”—started sweet, turned very crabby and then burned. It tasted like the boozy version of the water from a crab boil. The cinnamon wasn’t quite there for me, rather more of a burn without the sweetness or aromatics. It wasn’t great, but it wasn’t terrible.</p>
+<p>And then my brain betrayed me.</p>
+<p>As a cocktail person, I always think of ways to enhance the flavor of liquors I try. For some reason, this crustacean-steeped whiskey moved the spirit in me to treat this sucker like a shot of tequila.</p>
+<p>As a good Washingtonian, a tin of Old Bay was handy. I licked the side of my hand, sprinkled the spice, and had a lemon wedge at the ready. And then I began the usual ritual: lick, shoot, suck (and don’t throw up). It was not the worst shot I’ve ever had, but it was up there. The burn lingered in the back of my throat and migrated into my chest while the crab flavor seemed to grow. I knew severe heartburn was imminent.</p>
+<p>As some view a shot of Malört as a right of passage, I see this shot combo taking on similar importance with crab-loving people—which won’t include me. My research was a one-and-done affair.</p>
+<p>At least the bottle, which will run you a cool $65, is for a good cause, and it certainly makes for some extra curious drinking.</p>
+<p>Crab Trapper is available at the <a href="https://shop.tamworthdistilling.com/product/crab-trapper-200ml-pre-order-/1123?cs=true&amp;cst=custom&amp;ref=bourbonbanter.com">Tamworth Distillery</a> or online at <a href="https://seelbachs.com/products/tamworth-distilling-crab-trapper-200ml?ref=bourbonbanter.com">Seelbach’s</a>.</p>
