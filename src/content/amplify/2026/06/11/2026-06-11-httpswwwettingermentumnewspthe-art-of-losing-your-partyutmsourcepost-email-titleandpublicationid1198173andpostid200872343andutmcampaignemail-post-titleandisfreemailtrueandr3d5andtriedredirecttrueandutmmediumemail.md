@@ -1,0 +1,27 @@
+---
+author: ettingermentum
+cover_image: >-
+  https://substackcdn.com/image/fetch/$s_!S3tY!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2137fdbf-cacd-49f7-b63c-8fb15454e736_5048x3365.jpeg
+date: '2026-06-12T02:58:54.504Z'
+dateFolder: 2026/06/11
+description: >-
+  Something like Graham Platner was always going to happen. The only surprise is
+  that it took so long.
+isBasedOn: >-
+  https://www.ettingermentum.news/p/the-art-of-losing-your-party?utm_source=post-email-title&publication_id=1198173&post_id=200872343&utm_campaign=email-post-title&isFreemail=true&r=3d5&triedRedirect=true&utm_medium=email
+link: >-
+  https://www.ettingermentum.news/p/the-art-of-losing-your-party?utm_source=post-email-title&publication_id=1198173&post_id=200872343&utm_campaign=email-post-title&isFreemail=true&r=3d5&triedRedirect=true&utm_medium=email
+slug: >-
+  2026-06-11-httpswwwettingermentumnewspthe-art-of-losing-your-partyutmsourcepost-email-titleandpublicationid1198173andpostid200872343andutmcampaignemail-post-titleandisfreemailtrueandr3d5andtriedredirecttrueandutmmediumemail
+tags:
+  - politics
+title: The Art of Losing Your Party
+---
+<p>You’ve all heard the story about Graham Platner’s serial adultery countless times right now, so I doubt that you need me to belabor the point. I’ll just give you my take as someone who <a href="https://ettingermentum.substack.com/publish/posts/detail/176875145?referrer=%2Fpublish%2Fposts%2Fpublished">correctly said that the round of revelations in October wouldn’t matter</a>: it’s bad, far more so than the past revelations about his tattoo and Reddit posts. Americans view cheating to be a uniquely extreme moral failing, and the specific timing of the allegations throws a massive wrench into Platner’s entire message about how he overcame his past struggles. A man who once looked like a real person with real, sympathetic struggles now looks like a bad and untrustworthy individual, so suspect that even his own backers can only explain their support for him by couching it in qualifiers.</p>
+<p>Yet he still won. In fact, he won huge. Although its impact may have been dulled by the fact that his leading opponent has been out of the race since April, the reality is still the same: Graham Platner—the completely inexperienced Hail Mary left faction candidate for the Susan Collins seat—won his race by more than 50 points with over 70% of the vote this Tuesday. He is both the first candidate of his kind to be a major party nominee for such an important race and the first candidate of his kind to dominate any race as thoroughly as he has. Along with the all-important question of whether or not he has a chance against Collins, there’s the equally all-important question as to how, exactly, this happened. Maine is supposed to be a reasonable, moderate New England state—the home of Jeffersonian town halls, not radical firebrands. How in the world did we get here?</p>
+<p>Some believe that they already have the answer. As their story goes, the entire “Platner situation” <a href="https://x.com/ContraPoints/status/2062812874410528854?s=20">was an entirely avoidable product</a> of ignorant and condescending leftist operatives ignorantly assuming that an obvious asshole would be relatable to working class voters. It’s a comforting story, and it’s one that makes zero sense on its face. National consultants may have been able to have gotten Platner in the race, but they weren’t the ones who got him in the lead. They may have suggested some messaging for him, but they weren’t what those messages resonate to the extent that they did. Something else happened—something far beyond the control of Platner, his backers, or anyone else on the organized left.</p>
+<p>That something was this: that the fabled nexus of money, influence and condescension known as the Democratic establishment has collapsed. That the race in Maine has gone down the way it has is entirely because of <em>them</em>: <em>their </em>ignorance, <em>their</em> arrogance, <em>their </em>childish insistence on forcing their own elite preferences down the throats of voters. In their refusal to acknowledge reality and recognize how things have changed, they paved the primrose path to a Platner nomination. If they ever once had the ability to stop someone like him, it is now gone, never to return.</p>
+<p>This is what happens when you lose control over your own party. This is what happens when you’ve used up all of your chances and have no credibility left. It is not pretty, it is not nice, and it quickly leaves you just as confused as your supporters were after the devastating loss that uncorked everything. And for as hard as it may be for the D.C. elites and their sympathizers to believe, what they’re seeing in Maine is close to the best case scenario for them. If they try to freeze it out—if they use everything at their disposal to reclaim the powers that once came to them naturally but are foreign to them now—they will only invite something far, far worse.</p>
+<p>In short: if you don’t like Graham Platner, you’re going to like what comes after him a lot less. Here’s how we got all the way here, past the point of no return.</p>
+<h3><strong>How Parties Fail</strong></h3>
+<h3>Someone like Graham Platner was always going to happen. Democrats should be grateful it's not worse.</h3>
