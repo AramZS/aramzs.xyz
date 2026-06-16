@@ -1,0 +1,37 @@
+---
+author: iroh.computer
+cover_image: >-
+  https://www.iroh.computer/api/og?title=Blog&subtitle=Iroh%201.0%20-%20Dial%20Keys,%20not%20IPs
+date: '2026-06-15T16:22:26.996Z'
+dateFolder: 2026/06/15
+description: Iroh 1.0 is out. Now is the time to build.
+isBasedOn: 'https://www.iroh.computer/blog/v1'
+link: 'https://www.iroh.computer/blog/v1'
+slug: 2026-06-15-httpswwwirohcomputerblogv1
+tags:
+  - tech
+  - decentralization
+title: 'Iroh 1.0 - Dial Keys, not IPs'
+---
+<p>It's a simple idea really, and it's the right abstraction for the future of the internet. IP addresses can break, without warning, and it's outside of your device's control. Keys, however, are created &amp; controlled by you. They stay the same as your device moves, and are yours to throw away, or not. IP addresses can be private and inaccessible behind firewalls, but with iroh your device can be securely addressable no matter where it is.</p>
+<p>We think this is how the internet should work, which is why iroh exists, and today we're delighted to announce iroh version 1.0.</p>
+<p>This is our first stable release, but the project has grown significantly over the 65 versions that led to 1.0. iroh is already used all over the place. <strong>The public relays we run have seen more than 200 million endpoints created, <em>in the last 30 days alone.</em></strong> Developers are using iroh to stream video, train large language models, talk to agents, secure chats, play games, send files, and many more things than we could jam into this list. Iroh is a fundamental technology aimed at a fundamental shift in the internet, and it's running on millions of devices today.</p>
+<p>After more than 4 years of building in the open, we have a foundation we're both proud of.</p>
+<ul> <li>We shifted onto open standards, preferring IETF drafts whenever possible</li> <li>We built our own implementation of <a href="https://datatracker.ietf.org/doc/draft-ietf-quic-multipath/">QUIC multipath</a>, so iroh can build &amp; manage multiple routes within the same connection, and hot swap paths as conditions change</li> <li>We implemented <a href="https://datatracker.ietf.org/doc/draft-seemann-quic-nat-traversal/">QUIC NAT traversal</a>, so we can establish direct connections while keeping connection details encrypted</li> <li>We added full local-first configurations so iroh can find &amp; connect to local devices, without internet access</li> <li>We built &amp; continually check that iroh can compile to WASM &amp; run in the browser</li> <li>We worked with power users to add hooks, so you can inject logic to control how connections should work</li> <li>We've even added support for <a href="https://www.iroh.computer/blog/iroh-0-97-0-custom-transports-and-noq">custom transports</a>, so you can plug in technologies like <a href="https://github.com/mcginty/iroh-ble-transport/">Bluetooth Low-Energy (BLE)</a>, LoRa (under construction), WiFi Aware, or even <a href="https://github.com/n0-computer/iroh-tor-transport">Tor</a> to build connections, and all of this fits under the same dial-by-key abstraction</li> </ul>
+<p>The power of that key can't be overstated. We use it to secure the connection. And because all data that comes from the connection is secured by that key, we can build up from that same key into identity, permissions, and attribution. We can also use that same key as an address we can dial, no matter where it is in the world. It turns the internet into a secure localhost.</p>
+<p>Iroh connections are also far more efficient. It's normal to see 95% of data transferred in a connection pass directly between devices. Going direct means fewer hops through the cloud, which lowers your egress bill. It's also fewer hops through routers, which means the internet is more efficient overall.</p>
+<p>We previously paused FFI support because of maintenance overhead with API churn and promised to bring it back with a stable 1.0 API. Now we're follwing through on this promise: In addition to the Rust crate, we now officially support Python, Node.js, Swift, and Kotlin. This makes your application use case even easier, making it possible to embed iroh into your swift iOS application or your Kotlin Android app. Check out the <a href="https://docs.iroh.computer/languages">documentation</a> and <a href="https://n0-computer.github.io/iroh-ffi/">generated API docs</a>.</p>
+<p>Iroh version 1.0 asserts stability for both the wire protocol and language APIs: an iroh v1 endpoint will be able to communicate with another iroh v1 endpoint, regardless of minor version or language.</p>
+<p>In the future we may version these two aspects independently, for example: we may release version 2 of a given language API, but keep compatibility over the wire. <strong>Any change that affects the wire stability of iroh will always coincide with a major release.</strong></p>
+<p>Version 1.0 is the first major release of iroh, which we're announcing in conjunction with our support schedule for customers: <a href="https://docs.iroh.computer/about/release-policy#support-policy">Read our support schedule</a></p>
+<p>In short:</p>
+<ul> <li>Major and minor versions after 1.0 are supported on a schedule.</li> <li>The 0.35 minor version won't receive further releases. Public relay support for 0.35x continues through Dec 31, 2026, more on that in the section below.</li> <li>We do not plan to support canary (0.9x) and release candidates (1.0.0-rcX) after today.</li> </ul>
+<p>It's important to note there are a significant number of bug fixes and improvements in 1.0, so if you encounter an issue on an earlier release we want you to try updating to the 1.0 to ensure it is still an issue there before opening a bug report.</p>
+<p>We maintain a set of public relays, most commonly accessed via the "n0" preset for building an endpoint.</p>
+<table><tr><th>Release</th><th>Final day of public relay operation</th></tr><tbody><tr><td>v1.0</td><td>until End of Life</td></tr><tr><td>v0.35x</td><td>Dec 31, 2026</td></tr><tr><td>v0.9x &amp; v1.0.0-rcX</td><td>Sept 30, 2026</td></tr></tbody></table>
+<p>We will bump public relays to their latest version shortly after each release, usually within 24 hours. Wire-breaking relay changes will get new URLs so older clients keep working.</p>
+<p>As always, relay binaries themselves are open source, and we offer hosted relays through iroh services. Public relays are rate-limited for relayed traffic, which can change at any time.</p>
+<p>The internet should be built on dialing keys. On connections that just work. On connections that are secure, and default to being direct. With 1.0 you now have a mature networking stack that you can put into your app with confidence. Now is the time to come build on iroh, and we can't wait to see what you come up with.</p>
+<p>Check out the <a href="https://docs.iroh.computer/quickstart">iroh quickstart guide</a> for application developers.</p>
+<p>Iroh is a dial-any-device networking library that just works. Compose from an ecosystem of ready-made protocols to get the features you need, or go fully custom on a clean abstraction over dumb pipes. Iroh is open source, and already running in production on hundreds of thousands of devices.<br/>
+To get started, take a look at our <a href="https://iroh.computer/docs">docs</a>, dive directly into <a href="https://github.com/n0-computer/iroh">the code</a>, or chat with us in our <a href="https://iroh.computer/discord">discord channel</a>.</p>
