@@ -1,0 +1,53 @@
+---
+author: Sean Lyngaas
+cover_image: >-
+  https://media.cnn.com/api/v1/images/stellar/prod/ap26009683680250.jpg?c=16x9&q=w_800,c_fill
+date: '2026-06-19T14:56:18.568Z'
+dateFolder: 2026/06/19
+description: >-
+  President Donald Trump’s pick for acting director of national intelligence,
+  Bill Pulte, showed up at his new job a day early on Thursday after asking for
+  a list of every employee in the office so he could assess whether to fire
+  them, two sources familiar with the matter told CNN.
+isBasedOn: 'https://www.cnn.com/2026/06/19/politics/bill-pulte-intel-chief-takes-office'
+link: 'https://www.cnn.com/2026/06/19/politics/bill-pulte-intel-chief-takes-office'
+slug: 2026-06-19-httpswwwcnncom20260619politicsbill-pulte-intel-chief-takes-office
+tags:
+  - politics
+  - baselines
+  - law and order
+title: 'Trump’s new acting intel chief Bill Pulte arrives early, eyes firing hundreds'
+---
+<figure><picture><source media="(max-width: 479px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/ap26009683680250.jpg?c=original&amp;q=w_680,c_fill/f_avif" type="image/avif"/><source media="(min-width: 480px) and (max-width: 767px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/ap26009683680250.jpg?c=original&amp;q=w_967,c_fill/f_avif" type="image/avif"/><source media="(min-width: 768px) and (max-width: 1023px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/ap26009683680250.jpg?c=original&amp;q=w_860,c_fill/f_avif" type="image/avif"/><source media="(min-width: 1024px) and (max-width: 1279px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/ap26009683680250.jpg?c=original&amp;q=w_860,c_fill/f_avif" type="image/avif"/><source media="(min-width: 1280px)" srcset="https://media.cnn.com/api/v1/images/stellar/prod/ap26009683680250.jpg?c=original&amp;q=w_860,c_fill/f_avif" type="image/avif"/><img alt="Director of the Federal Housing Finance Agency Bill Pulte speaks with reporters at the White House, Friday, Jan. 9, 2026, in Washington. (AP Photo/Evan Vucci)" src="https://media.cnn.com/api/v1/images/stellar/prod/ap26009683680250.jpg?c=original&amp;q=w_860,c_fill"/></picture><figcaption>Director of the Federal Housing Finance Agency Bill Pulte speaks with reporters at the White House, Friday, Jan. 9, 2026, in Washington. (AP Photo/Evan Vucci)</figcaption></figure>
+<p>President Donald Trump’s pick for acting director of national intelligence, <a href="https://www.cnn.com/2026/06/05/politics/pulte-intelligence-chief-security-clearance">Bill Pulte</a>, showed up at his new job a day early on Thursday after asking for a list of every employee in the office so he could assess whether to fire them, two sources familiar with the matter told CNN.</p>
+<p>The sources said Pulte is eyeing to cut hundreds of jobs at the Office of the Director of National Intelligence (ODNI).</p>
+<p>Pulte’s appearance at ODNI on Thursday caught staff off-guard, including the outgoing director, Tulsi Gabbard, who was given a brief heads up on the visit. Trump himself has said that Pulte, who is a Trump loyalist with no intelligence experience, would start his job on Friday.</p>
+<p>Pulte met with lawyers and staffers during his visit, the sources told CNN.</p>
+<p>In his only other briefing with ODNI last week, Pulte asked staff if he could bring the President’s Daily Briefing to his house, raising alarm bells among intelligence officials, according to one of the sources. That briefing is a highly classified set of intelligence on key national security matters of the day. The second source pushed back on this characterization, noting that the PDB is provided electronically.</p>
+<p>Pulte also asked about his level of security clearance — whether it was a top-secret — and if he had access to a government plane, the first source said, even though the briefing was meant to explain the core mission of ODNI to Pulte.</p>
+<p>CNN has reached out to the White House and ODNI for comment.</p>
+<p>CNN previously reported that before Pulte was announced to lead the US intelligence community, he did not have a security clearance granting him access to highly-classified information — meaning he lacked what has long been considered a basic prerequisite for the job.</p>
+<p>Another source familiar told CNN that Pulte has repeatedly inquired about his schedule and whether he gets his own government plane, appearing almost overly fixated on his ability to travel between DC, Florida and Chicago — between which he splits his time.</p>
+<p>“That was a bit odd,” the source said about Pulte’s questions related to his schedule and the demands of the job.</p>
+<p>Pulte had also asked for a protective security detail even before starting the job, according to the first source.</p>
+<p>The episodes, which have not previously been reported, indicate that Pulte feels empowered to begin his tenure as spy chief in an aggressive fashion. Trump has already given him a mandate to further shrink the intelligence community and pursue the president’s false claims of election fraud.</p>
+<p>There is concern from Democrats — and some Republicans — on Capitol Hill that he is unfit for the job and that he could go further than Gabbard did in embracing Trump’s grievances in what is supposed to be an apolitical role.</p>
+<p>Pulte’s standing in Trump’s eyes grew over the last year when, as head of the Federal Housing Finance Agency, he sent the Justice Department criminal referrals on allegations of mortgage fraud against multiple Democrats who have pushed investigations into Trump. Now, critics fear, the 38-year-old former businessman will have an even bigger platform to pursue Trump’s vendettas.</p>
+<p>“This isn’t something to overthink — President Trump wanted someone in that position who is a true loyalist, who will do what he wants him to do. He has that in Bill,” one source close to Pulte previously told CNN.</p>
+<p>Now, Pulte takes the job overseeing 18 intelligence agencies as the US and Iran enter an agreement to end a four-month war in which Gabbard played an <a href="https://www.cnn.com/2026/05/23/politics/tulsi-gabbard-sidelined-deep-state-trump-grievances">unusually marginal role</a> for a spy chief. He also enters a job that Gabbard has used to hunt for evidence of voter fraud around the 2020 election that Trump lost. That pursuit risked crossing a crucial line between foreign and domestic intelligence activities instituted after Watergate, former intelligence officials and election law experts <a href="https://www.cnn.com/2026/02/05/politics/gabbard-elections-intelligence">have told CNN</a>.</p>
+<p>Even before Thursday, Pulte was eager to start as acting DNI. He called Gabbard last week and told her that he was taking over, two sources familiar with the phone call told CNN. Gabbard, who had been assured by the White House that she would remain in the post through the end of the month, was shocked and told Pulte she would need to hear it from Trump himself. Later, Gabbard spoke to Trump who asked her what day would work for her to depart the office, and the two settled on June 19. (Axios first <a href="https://www.axios.com/2026/06/11/pulte-gabbard-removal-intel">reported</a> that exchange.)</p>
+<p>On Thursday, Pulte tried to attend Gabbard’s send-off ceremony at ODNI and asked to speak, the source familiar with the episode indicated.</p>
+<p>Pulte’s elevation within Trump’s orbit has even irked some of Trump’s closest advisers and allies. Chief of Staff Susie Wiles has kept a tight circle around the president, one that Pulte has completely circumvented through direct calls to the president.</p>
+<p>“Every weekend, every trip — he makes sure he is by the president’s side,” one Trump adviser told CNN.</p>
+<p>Trump has said Pulte will remain director of the Federal Housing Finance Agency while serving as acting director of national intelligence (DNI). The move left many intelligence professionals scratching their heads because the spy chief is not considered a part-time job.</p>
+<p>Pulte could have more time than anticipated as acting DNI after disarray this week in the nomination process for Trump’s permanent pick for the role, Jay Clayton. Trump directed Clayton to skip his own confirmation on Wednesday over a <a href="https://www.cnn.com/2026/06/17/politics/trump-cancels-dni-hearings-fisa">bitter dispute</a> on Capitol Hill over a lapsed surveillance law, among other issues.</p>
+<p>Pressed on the status of Clayton’s nomination, Senate Majority Leader John Thune said: “I’ve never been asked to slow a nomination down before, so that’s probably a good question for the White House.”</p>
+<p>Intelligence Committee Chairman Tom Cotton issued a rare statement of disapproval at Trump’s move, calling it “regrettable that the president has directed Jay Clayton not to appear at his confirmation hearing today.”</p>
+<p>A senior Senate GOP aide told CNN: “There’s a lot of frustration in the conference. We want to support and advance the President’s agenda but it’s getting more difficult to do with the consistent curve balls out of left field.”</p>
+<p>Pulte did not respond to a request for comment on Thursday. CNN has requested comment on Pulte’s priorities for his new job from the Office of the Director of National Intelligence.</p>
+<p>GOP Sen. Mike Rounds, a member of the Senate Intelligence Committee, said he does not know what Pulte’s priorities will be on the job and emphasized that the goal should be looking past Pulte’s tenure and getting Clayton in the job permanently as quickly as possible.</p>
+<p>“I’ve had no interaction with him for months” Rounds said of Pulte. “I think the most important thing for us is to get Jay in as quickly as possible as the Director of National Intelligence.”</p>
+<p>Trump told reporters this month that Pulte “may find out some things about the rigged elections … I think he wants to do it very much.”</p>
+<p>For election officials, it reinforced a fear that the undermining of confidence in elections from the Office of the Director of National Intelligence may not stop with Gabbard’s departure.</p>
+<p>“DNI Gabbard, whose role regarding elections is limited to foreign interference, spent 18 months and untold taxpayer dollars and resources trying to give substance to lies about the 2020 election … and found absolutely nothing,” said David Becker, an election law expert who is executive director of the nonprofit and nonpartisan Center for Election Innovation and Research.</p>
+<p>Becker, who works with election officials from both parties, said he worries that “Pulte has been hand-picked to replace her precisely because he too embraces the lies and conspiracy theories while ignoring the evidence.”</p>
