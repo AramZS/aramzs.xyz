@@ -1,9 +1,7 @@
 ---
 author: Kaitlyn Tiffany
 cover_image: >-
-  {'width': 960, 'height': 540, 'url':
-  'https://cdn.theatlantic.com/thumbor/RgkwdlL5dYJn_6zJNVHS1UpjnaI=/3x0:1000x561/960x540/media/img/mt/2026/06/2026_06_01_Tiffany_Ai_slop_about_ai_final/original.gif',
-  '__typename': 'BasicImage'}
+  https://cdn.theatlantic.com/2026_06_01_Tiffany_Ai_slop_about_ai_final/original.gif
 date: '2026-06-02T15:11:03.609Z'
 dateFolder: 2026/06/02
 description: >-
