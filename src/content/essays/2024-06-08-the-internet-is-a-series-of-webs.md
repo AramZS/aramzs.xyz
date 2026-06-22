@@ -10,6 +10,7 @@ tags:
 series: The Wild Web
 group: The Wild Web
 cover_image: 1443px-Typical-orb-web-photo.jpg
+standardDocKey: at://did:plc:t5xmf33p5kqgkbznx22p7d7g/site.standard.document/3mdbvp5q2kz2l
 featured: true
 ---
 
