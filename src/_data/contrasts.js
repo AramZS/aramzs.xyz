@@ -144,6 +144,22 @@ module.exports = {
       colors: ["#faea78", "#272e17", "#fbebdc", "#d5e2c7", "#c09b3c", "#db1f80", "#6a7b58", "#ceedd2", "#170429", "#daa50c", "#dcb073", "#a7c5de", "#e03da1", "#4debef", "#14150f", "#989191"],
       sourceInfo: "From Beyond the Spider-Verse film frames (3)",
       source: "https://www.tumblr.com/aramzs/814017105005510656"
+    },
+    // From work on the Alfalfa film website 
+    {
+      colors: ["#A84126", "#FFD9B5", "#aec1b7", "#aec1b7", "#DDCBA2", "#1D1709", "#A98434", "#E8DCC1"]
+    },
+    {
+      colors: ["#143a39", "#A84126", "#EDF3F6", "#FFE0C5", "#21558f", "#30400f", "#be977a"]
+    },
+    {
+      colors: ["#71301c","#192a20", "#f6a578", "#693632", "#744035", "#60c40a", "#6a1c08", "#cedbd2", "#c3a988", "#C58673"]
+    },
+    {
+      colors: [
+        "#CEDBD2", "#192A20", "#71301C", "#60C40A", "#1C5970", // end of main
+        "#4c6b76", "#f6a578", "#142a39", "#c4b9b9", "#143a39", "#f8f6f6"
+      ]
     }
   ]
 };

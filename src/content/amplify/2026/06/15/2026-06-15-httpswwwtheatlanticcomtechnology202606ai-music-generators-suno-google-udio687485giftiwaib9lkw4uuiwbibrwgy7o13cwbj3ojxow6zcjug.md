@@ -1,9 +1,5 @@
 ---
 author: Alex Reisner
-cover_image: >-
-  {'width': 960, 'height': 540, 'url':
-  'https://cdn.theatlantic.com/thumbor/7Wbp0Tl6Q5knnp3l2r-xF3oIBk4=/0x0:1500x844/960x540/media/img/mt/2026/06/2026_05_28_AI_Music_mpg2/original.gif',
-  '__typename': 'BasicImage'}
 date: '2026-06-15T13:37:37.483Z'
 dateFolder: 2026/06/15
 description: >-
