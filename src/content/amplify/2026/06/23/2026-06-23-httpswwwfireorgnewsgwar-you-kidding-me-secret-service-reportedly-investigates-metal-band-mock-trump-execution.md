@@ -1,0 +1,37 @@
+---
+author: The Foundation for Individual Rights and Expression
+cover_image: >-
+  https://www.fire.org/sites/default/files/styles/1200x630/public/2026/06/Gwar-10.jpg?h=dba5e3ef&itok=at95jdgx
+date: '2026-06-23T16:55:31.797Z'
+dateFolder: 2026/06/23
+description: >-
+  Federal agents are reportedly reviewing Gwar over its mock execution of Trump.
+  The First Amendment says that's protected speech.
+isBasedOn: >-
+  https://www.fire.org/news/gwar-you-kidding-me-secret-service-reportedly-investigates-metal-band-mock-trump-execution
+link: >-
+  https://www.fire.org/news/gwar-you-kidding-me-secret-service-reportedly-investigates-metal-band-mock-trump-execution
+slug: >-
+  2026-06-23-httpswwwfireorgnewsgwar-you-kidding-me-secret-service-reportedly-investigates-metal-band-mock-trump-execution
+tags:
+  - music
+  - free speech
+  - law and order
+title: >-
+  Gwar you kidding me? Secret Service reportedly investigates metal band for
+  mock Trump execution
+---
+<p>An American heavy metal band says it was contacted by the Secret Service for holding a mock execution of President Trump onstage.</p>
+<p>The group is <a href="https://gwar.net/pages/mythos">Gwar</a>, a theatrical science-fiction musical project formed in 1984. They describe themselves as former members of an elite extraterrestrial fighting force called the Scumdogs of the Universe, who were banished to Earth for bad behavior, accidentally created humans through fornication with apes, and now tour the globe playing concerts. Their current lineup consists of THE BERSERKER BLÓTHAR on lead vocals, BÄLSÄC THE JAWS ‘O DEATH and GRODIUS MAXIMUS on guitar, BEEFCAKE THE MIGHTY on bass, and JIZMAK DA GUSHA on drums.</p>
+<p>…so you know they’re serious.</p>
+<p>The band has been doing this at concerts throughout their recent tours — the most recent occurrence happening during the group’s <a href="https://youtu.be/6Roz6QOsxFg?si=9wiepbc7CJWKDHZP">performance</a> at Warped Tour in Washington D.C. last month. A now-viral video depicts someone in a Donald Trump costume walking onstage and being disemboweled by the band, his fake blood spraying on the first few rows of concert attendees.</p>
+<p>For this, Gwar is allegedly being reviewed by federal agents. Their manager, Sleazy P. Martini, could not be reached for comment.</p>
+<p>Anyone familiar with Gwar knows that the band is famous for its often grotesque, shocking, and bizarre stage shows. A staple of those performances for decades has been the gratuitous mock killing of public figures. Their victims have included former <a href="https://www.youtube.com/watch?v=6UBWMC-ktCk">President Barack Obama</a>, former <a href="https://youtu.be/VBQp4uXYdRk?si=c_mIAV9BGlj4g35W">President Joe Biden</a>, <a href="https://youtu.be/1ezspYzUVkU?si=TpuYY5cev8-fdPcB">Queen Elizabeth</a>, <a href="https://youtu.be/tkkkwoees8Q?si=WDAxud-6UuqVJlAD">Elon Musk</a>, <a href="https://www.youtube.com/watch?v=l72Ub4ZPgsM">Hillary Clinton</a>, and <a href="https://youtu.be/Zfqm3eTNAHo?si=lxMs66F9eVob5QDS">Kanye West</a>, <a href="https://youtu.be/CB6ekia4oHs?si=GLPLHIdXf4q3QgpA">among</a> <a href="https://youtu.be/LgySphRtLFM?si=j5D--NPjCjKFBBYU">others</a>.</p>
+<p>Puzzlingly, however, this is the first time the band has drawn the attention of government agents for it.</p>
+<p>“For years, GWAR would do whatever the fuck we wanted,” BLÓTHAR said in a <a href="https://youtu.be/zL224sHp3Pc?si=4ggcB-4VkGvI56bs">recent interview</a>. “We would kill politicians from both sides of the aisle. We would kill famous people. We never had any backlash.” But when Trump was re-elected, he said, “people started getting extremely upset about politics and music and politics in art.”</p>
+<p>For anyone concerned about free expression the last few years, the actions of the federal government will come as no surprise. President Trump and his administration are notorious for wielding government power and the legal system to bully perceived enemies — including <a href="https://www.fire.org/news/harvard-stands-firm-rejects-trump-administrations-unconstitutional-demands">universities</a>, <a href="https://eternallyradicalidea.com/p/the-war-on-law-firms">law firms</a>, <a href="https://www.fire.org/news/media-outlets-must-not-cave-trumps-lawfare">media companies</a>, <a href="https://eternallyradicalidea.com/p/kimmel-and-comey-if-it-looks-like">political opponents</a>, and even <a href="https://www.fire.org/news/trumps-domestic-terrorism-memo-chillingly-targets-people-ideology">private associations</a>.</p>
+<p>Apparently, not even heavy metal groups are small enough potatoes.</p>
+<p>Despite the anger it inspired among <a href="https://x.com/libsoftiktok/status/1970215400500543825?s=20">some Trump supporters</a>, and despite drawing the attention of the Secret Service, Gwar’s onstage antics are First Amendment-protected speech. While true threats aren’t <a href="https://www.fire.org/research-learn/unprotected-speech-synopsis">protected</a>, a true threat is a <em>serious </em>expression of intent to commit unlawful violence against an individual. It doesn’t include hyperbole, satire, or artistic expression that simply references or depicts violence, however provocative it may be.</p>
+<p>The obviously over-the-top theatrical context of Gwar’s mock execution, and the fact that the band has done the same thing to other politicians and public figures, make clear that they weren’t actually threatening the president’s life. There’s also no credible argument that the performance amounted to unprotected <a href="https://www.fire.org/research-learn/unprotected-speech-synopsis">incitement</a>, which applies only to speech <em>intended</em> and <em>likely</em> to result in <em>imminent</em> unlawful action.</p>
+<p>Mock executions may be crude, offensive, or disturbing, but they are hardly new. Americans have used symbolic depictions of violence against political figures for centuries to express dissent. In 1919, angry suffragists <a href="https://expression.fire.org/p/woodrow-wilson-americas-worst-president">burned President Woodrow Wilson in effigy</a> outside the White House. In 1842, angry protesters <a href="https://www.history.com/this-day-in-history/august-17/tyler-is-burned-in-effigy-outside-white-house">did the same</a> with then-president John Tyler. Former Vice President Aaron Burr was <a href="https://www.rememberingbaltimore.net/2020/08/aaron-burr-hanged-and-burned-in-effigy.html">hanged in effigy</a> in Baltimore following his trial for treason. <a href="https://www.lva.virginia.gov/collections/educator-resources/online-classroom/union-or-secession/entries/lincoln-was-burnt-in-effigy">Lincoln</a> was subjected to public effigy burnings throughout the South during the Civil War. And of course more recent presidents, including <a href="https://www.theguardian.com/world/2010/jan/04/barack-obama-effigy-hanged-georgia">Barack Obama</a>, <a href="https://www.cbc.ca/news/world/pants-on-fire-bush-effigy-tours-the-u-s-1.495126">George W. Bush</a>, and <a href="https://www.cnn.com/videos/politics/2016/11/10/donald-trump-effigy-burning-los-angeles-bts.cnn">Trump</a>, haven’t been spared this tradition.</p>
+<p>All of it was protected speech, and Gwar’s blood-spewing onstage execution is no different. We doubt this investigation will go anywhere, but even the Scumdogs of the Universe have First Amendment rights — and if they’re threatened, FIRE will be ready.</p>
