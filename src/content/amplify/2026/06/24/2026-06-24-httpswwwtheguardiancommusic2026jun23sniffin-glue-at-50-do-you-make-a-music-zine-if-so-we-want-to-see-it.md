@@ -1,0 +1,33 @@
+---
+author: Laura Snapes
+cover_image: >-
+  https://i.guim.co.uk/img/media/26d9a08320ffd344813945301044db479dd649ba/0_0_4174_3340/master/4174.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=685991ff9fe2e02dd591e1d54431f615
+date: '2026-06-24T13:17:19.476Z'
+dateFolder: 2026/06/24
+description: >-
+  To mark 50 years since the punk DIY publishing explosion, we want to compile a
+  map of the UK’s contemporary zine scene
+isBasedOn: >-
+  https://www.theguardian.com/music/2026/jun/23/sniffin-glue-at-50-do-you-make-a-music-zine-if-so-we-want-to-see-it
+link: >-
+  https://www.theguardian.com/music/2026/jun/23/sniffin-glue-at-50-do-you-make-a-music-zine-if-so-we-want-to-see-it
+slug: >-
+  2026-06-24-httpswwwtheguardiancommusic2026jun23sniffin-glue-at-50-do-you-make-a-music-zine-if-so-we-want-to-see-it
+tags:
+  - music
+  - culture
+title: 'Sniffin’ Glue at 50! Do you make a music zine? If so, we want to see it'
+---
+<figure><picture><source media="(min-width: 980px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 980px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/26d9a08320ffd344813945301044db479dd649ba/0_0_4174_3340/master/4174.jpg?width=620&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 980px)" srcset="https://i.guim.co.uk/img/media/26d9a08320ffd344813945301044db479dd649ba/0_0_4174_3340/master/4174.jpg?width=620&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 740px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 740px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/26d9a08320ffd344813945301044db479dd649ba/0_0_4174_3340/master/4174.jpg?width=700&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 740px)" srcset="https://i.guim.co.uk/img/media/26d9a08320ffd344813945301044db479dd649ba/0_0_4174_3340/master/4174.jpg?width=700&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 660px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 660px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/26d9a08320ffd344813945301044db479dd649ba/0_0_4174_3340/master/4174.jpg?width=620&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 660px)" srcset="https://i.guim.co.uk/img/media/26d9a08320ffd344813945301044db479dd649ba/0_0_4174_3340/master/4174.jpg?width=620&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 480px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/26d9a08320ffd344813945301044db479dd649ba/0_0_4174_3340/master/4174.jpg?width=645&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 480px)" srcset="https://i.guim.co.uk/img/media/26d9a08320ffd344813945301044db479dd649ba/0_0_4174_3340/master/4174.jpg?width=645&amp;dpr=1&amp;s=none&amp;crop=none"/><source media="(min-width: 320px) and (-webkit-min-device-pixel-ratio: 1.25), (min-width: 320px) and (min-resolution: 120dpi)" srcset="https://i.guim.co.uk/img/media/26d9a08320ffd344813945301044db479dd649ba/0_0_4174_3340/master/4174.jpg?width=465&amp;dpr=2&amp;s=none&amp;crop=none"/><source media="(min-width: 320px)" srcset="https://i.guim.co.uk/img/media/26d9a08320ffd344813945301044db479dd649ba/0_0_4174_3340/master/4174.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none"/><img alt="A pile of punk fanzines" src="https://i.guim.co.uk/img/media/26d9a08320ffd344813945301044db479dd649ba/0_0_4174_3340/master/4174.jpg?width=465&amp;dpr=1&amp;s=none&amp;crop=none"/></picture><figcaption data-spacefinder-role="inline">Punk fanzines from 1977. Photograph: Estate Of Keith Morris/Redferns</figcaption></figure>
+<h2 data-gu-name="standfirst">To mark 50 years since the punk DIY publishing explosion, we want to compile a map of the UK’s contemporary zine scene</h2>
+<p>This year marks what is officially considered the 50th anniversary of punk: five decades since the Sex Pistols <a data-link-name="in body link" href="https://www.theguardian.com/music/2011/jun/14/sex-pistols-lesser-free-hall">played Manchester Lesser Free Hall</a> and allegedly inspired everyone present to start a band; and since the Ramones acted as a similar catalyst at London’s Roundhouse.</p>
+<p>Although zines – self-made magazines – had existed for at least a decade prior to that, punk’s DIY spirit manifested in an explosion of homemade publications documenting the scene, its mores, norms and beefs – most famously Sniffin’ Glue.</p>
+<p>Even as many traditional music mags have fallen in the era of online music journalism, zines have persisted – and even enjoying a resurgence as younger readers search for a tactile relationship with media.</p>
+<p>If you make a zine about music, we want to see it: not historic items from a cherished collection, nor projects that have ceased publication, but extant, ongoing DIY mags in which you and friends document your scenes, tastes, loves and hates (for what is a zine without a good diatribe?).</p>
+<p>If you want to participate in an upcoming Guardian Music feature, please fill out the form below – and upload a PDF of your latest issue.</p>
+<h2><strong>Share your zine</strong></h2>
+<p>You can tell us about your zine using the form below.</p>
+<p>Please share your story if you are 18 or over, anonymously if you wish. For more information please see our <a data-link-name="in body link" href="https://www.theguardian.com/help/terms-of-service">terms of service</a> and <a data-link-name="in body link" href="https://www.theguardian.com/help/privacy-policy">privacy policy</a>.</p>
+<p>Your responses, which can be anonymous, are secure as the form is encrypted and only the Guardian has access to your contributions. We will only use the data you provide us for the purpose of the feature and we will delete any personal data when we no longer require it for this purpose. For alternative ways to get in touch securely please see our <a data-link-name="in body link" href="https://www.theguardian.com/tips">tips guide</a>.</p>
+<p>By submitting your response, you are agreeing to share your details with us for this feature.</p>
+<p><em><strong>If you’re having trouble using the form click <a data-link-name="in body link" href="https://guardiannewsandmedia.formstack.com/forms/punk_zines">here</a>. Read terms of service <a data-link-name="in body link" href="https://www.theguardian.com/help/terms-of-service">here</a> and privacy policy <a data-link-name="in body link" href="https://www.theguardian.com/help/privacy-policy">here</a>.</strong></em></p>
