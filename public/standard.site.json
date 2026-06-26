@@ -1,0 +1,17 @@
+{
+	"$type": "site.standard.publication",
+	"description": "Microblog and feed from Aram Zucker-Scharff. Essays, code samples, reviews, linkblog, and digital collections.",
+	"name": "Aram ZS | Digital Garden",
+	"url": "https://aramzs.xyz/",
+	"icon": {
+		"$type": "blob",
+		"ref": {
+			"$link": "bafkreigulrn63fpqggwuifb6yh4zjbaq6vfc24ie3aiywyaxrlehjprj2m"
+		},
+		"mimeType": "image/png",
+		"size": 35086
+	},
+	"preferences": {
+		"showInDiscover": true
+	}
+}

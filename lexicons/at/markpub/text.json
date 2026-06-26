@@ -1,0 +1,44 @@
+{
+  "defs": {
+    "main": {
+      "properties": {
+        "facets": {
+          "description": "Facets here represent rendered versions of Markdown strings. A bold Markdown string `**bold**` might be represented by a richtext facet of #bold, in which case it is suggested to be presented without the Markdown markup as `\u0026lt;strong\u0026gt;bold\u0026lt;/strong\u0026gt;`. Facets select their character ranges based on position in the Markdown text but should be rendered without the related characters. For example: `### Header` will be selected using a character range that includes the hashes like (0,9) but will be rendered without the hashes like `\u0026lt;h3\u0026gt;Header\u0026lt;/h3\u0026gt;`. It is recommended that processors to not transform in-place for this reason. The goal of having an open union for facets is that constructing systems may choose to use the facets they prefer from across the ecosystem, either here or in other places like `pub.leaflet.richtext.facet`",
+          "items": {
+            "closed": false,
+            "refs": [],
+            "type": "union"
+          },
+          "type": "array"
+        },
+        "lenses": {
+          "description": "Lenses are lexicons that define translatable facets for rendering layers with limited facets. `pub.leaflet.richtext.facet#bold` and `at.markpub.facets.baseFormatting#strong` expect the same output. A lens would then include a union with both those facets and a renderer that understands either of them could translate between the two.",
+          "items": {
+            "closed": false,
+            "refs": [],
+            "type": "union"
+          },
+          "type": "array"
+        },
+        "markdown": {
+          "description": "The raw text in markdown. May include anything that is valid markdown syntax for your flavor. Make sure it is properly escaped if necessary.",
+          "type": "string"
+        },
+        "textBlob": {
+          "accept": [
+            "text/*"
+          ],
+          "description": "Text may be blob-ified as raw Markdown and stored on a PDS, pass it here by reference. If you use this property it is assumed that it overrides the \"rawMarkdown\" property. It is a PDS address for a markdown text file. You still must provide some value, even if it is a preview for \"rawMarkdown\" in this field.",
+          "maxSize": 1000000,
+          "type": "blob"
+        }
+      },
+      "required": [
+        "markdown"
+      ],
+      "type": "object"
+    }
+  },
+  "id": "at.markpub.text",
+  "lexicon": 1
+}
