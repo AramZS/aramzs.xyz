@@ -161,6 +161,8 @@ module.exports = {
         "#4c6b76", "#f6a578", "#142a39", "#c4b9b9", "#143a39", "#f8f6f6"
       ]
     }
+    // https://bsky.app/profile/anthonyhurd.bsky.social/post/3molw2eu3t22h
+    //https://bsky.app/profile/ventiique.bsky.social/post/3mpeno242mk2w
   ]
 };
 
