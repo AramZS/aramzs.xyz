@@ -204,7 +204,7 @@ article.note img:not(.btn-88x31) {
 }
 
 article.note > header h1 {
-  font-size: clamp(2rem, 6vw, 5rem);
+  font-size: clamp(2rem, 6vw, 4rem);
 }
 
 article.book > header h1 + h2 {
@@ -593,7 +593,7 @@ aside.notes ul li {
 }
 
 article#page-post header h1 {
-  font-size: clamp(2rem, 9vw, 5rem);
+  font-size: clamp(2rem, 9vw, 4rem);
 }
 
 article#page-post header {
