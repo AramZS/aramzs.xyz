@@ -1,0 +1,46 @@
+---
+author: Mark Kreidler
+cover_image: >-
+  https://capitalandmain.com/wp-content/uploads/2026/07/GettyImages-2102961523-1000x600.jpg
+date: '2026-07-04T01:42:17.533Z'
+dateFolder: 2026/07/03
+description: >-
+  The university has been fighting attempts at union organizing for years. Now
+  it’s seeking help from an employer-friendly labor board.
+isBasedOn: >-
+  https://capitalandmain.com/usc-faculty-won-their-union-now-the-administration-wants-trumps-nlrb-to-undo-it
+link: >-
+  https://capitalandmain.com/usc-faculty-won-their-union-now-the-administration-wants-trumps-nlrb-to-undo-it
+slug: >-
+  2026-07-03-httpscapitalandmaincomusc-faculty-won-their-union-now-the-administration-wants-trumps-nlrb-to-undo-it
+tags:
+  - labor
+  - academia
+title: USC Faculty Won Their Union. The Administration Wants Trump’s NLRB to Undo It.
+---
+<figure><img alt="" src="https://capitalandmain.com/wp-content/uploads/2026/07/GettyImages-2102961523-scaled.jpg"/><figcaption>The University of Southern California campus in Los Angeles. Photo: Mario Tama/Getty Images.</figcaption></figure>
+<p><strong>When a faculty group</strong> at the University of Southern California <a href="https://www.latimes.com/california/story/2026-06-03/usc-faculty-vote-to-unionize-uaw-election">voted overwhelmingly to unionize</a> in June, the university cloaked its decision to appeal the result of the election in the most gentle language imaginable, saying it was seeking “much needed legal clarity.”</p>
+<p>In truth, though, the university has been fighting fiercely for years to prevent the roughly 2,750 non-tenure-track faculty members from organizing and collectively bargaining their future contracts. And this time, union supporters say, USC is relying on President Donald Trump’s administration for help.</p>
+<p>By appealing the election results directly to the five-member National Labor Relations Board in Washington, D.C., the university is going to an agency that Trump effectively <a href="https://tcf.org/content/commentary/an-unhappy-labor-day-at-the-nlrb/">dismantled</a> last year and then rebuilt with <a href="https://www.reuters.com/legal/government/nlrb-poised-major-policy-shifts-2026-with-new-trump-appointed-majority-2026-01-05/">his own appointees</a>. The resulting Republican-controlled board may well produce a <a href="https://www.law.georgetown.edu/poverty-journal/blog/the-uncertain-future-of-the-nlrb/">wave of anti-union decisions</a>.</p>
+<p>The university is also arguing, as it did in an earlier appeal, that the <a href="https://capitalandmain.com/usc-follows-amazon-and-musks-spacex-in-calling-labor-board-unconstitutional">NLRB itself is unconstitutional</a>, thus taking a <a href="https://www.epi.org/blog/whats-behind-the-corporate-effort-to-kneecap-the-national-labor-relations-board-spacex-amazon-trader-joes-and-starbucks-are-trying-to-have-the-nlrb-declared-unconstitutional/">page out of the playbook</a> of SpaceX, Amazon, Starbucks and other union-busting companies that are trying to see the agency effectively rendered toothless in handling unfair labor practice and anti-organizing complaints.</p>
+<p>“That’s their strategy: They’d like to throw this election in the garbage and have Trump’s NLRB take out the trash for them,” said Kate Levin, an associate professor of writing at USC, who helped organize the United Faculty-UAW. “Obviously, the Trump-dominated board is there for a reason. USC is hoping this is their way out.”</p>
+<p>Without question, USC officials know what they’re doing. Faced with a series of defeats on the faculty organizing issue, they’re still hunting for a win.</p>
+<p><strong>USC officials did not respond</strong> to three requests from Capital &amp; Main for detailed comment on the university’s positions, but the university’s actions speak volumes. Through multiple changes at the top of its administration, USC has tried to prevent this union from forming for at least a decade.</p>
+<p>On its own <a href="https://www.provost.usc.edu/unionization/faq/">website</a> and in its written appeals, the university contends that its faculty are “managerial” and therefore disallowed under federal labor law from unionizing, even though more than <a href="https://www.aaup.org/academe/issues/fall-2024/editor-state-faculty-unions">a quarter</a> of all higher-ed faculty in the U.S. are in unions.</p>
+<p>USC also says the group trying to organize includes people with wholly unrelated job descriptions, and it argues that its shared-governance structure, which includes the Academic Senate, already ensures plenty of input from faculty on pay, benefits, worker protections and other issues.</p>
+<p>The non-tenure-track group comprises full-time, part-time and adjunct faculty across 22 schools and the libraries within the USC structure, with only the Keck School of Medicine excluded. Levin said the group does “the vast majority of teaching, research, clinical care and everything like that. The university cannot function without us.”</p>
+<p>USC has consistently stood against the group’s unionization. Its leaders <a href="https://www.latimes.com/local/lanow/la-me-ln-usc-faculty-file-union-paperwork-20151124-story.html">vociferously opposed</a> such an effort 10 years ago, with then-provost Michael Quick warning faculty that the university’s “collegial processes” would be wrecked if a union was formed. That vote failed.</p>
+<p>This time around, USC tried to prevent a union vote from even occurring. The faculty group aligned under the umbrella of the United Auto Workers, which now counts more than <a href="https://uaw.org/highereducation/">100,000 higher education workers</a> among its ranks, and filed for an organizing election in December 2024. But USC immediately delayed that vote by appealing its legality to the NLRB’s regional office in Los Angeles, using the arguments mentioned above.</p>
+<p>In March, more than a year after the appeal was lodged, NLRB Regional Director Danielle Pierce <a href="https://nlrbresearch.com/pdfs/09031d4583f457d9.pdf">roundly rejected</a> every one of USC’s contentions. Pierce ordered the election to go forward.</p>
+<p>The USC administration, under first-year president Beong-Soo Kim, then repeatedly <a href="https://www.provost.usc.edu/unionization/">urged faculty to vote</a> in that election, arguing that if members didn’t, they might get stuck with a union they didn’t want. But with the vote coming heavily in favor of the union in early June, the university switched tack and announced it would appeal the results to the NLRB.</p>
+<p>“This election has presented not just important substantive issues but important legal issues as well,” a USC spokesperson said in a mass-distributed media statement. “The University has asked the National Labor Relations Board to quickly review the validity of this result as the first step toward obtaining much-needed legal clarity over these issues.”</p>
+<p>That includes, apparently, the constitutionality of the NLRB itself.</p>
+<p>“I doubt very much that USC is just ideologically committed to destroying the NLRB,” Levin said. “Maybe they are. But what’s clear is that they do want to bust this faculty union at any cost — and they saw this legally opportunistic avenue for them to pursue.”</p>
+<p><strong>There’s no timetable</strong> for the NLRB to hear USC’s appeal. With Trump appointees now dominating the board, no one can be sure of the outcome, either.</p>
+<p>It’s not hard to imagine the roots of USC’s opposition. Graduate students at the Los Angeles campus <a href="https://www.latimes.com/california/story/2023-11-27/usc-and-graduate-students-reach-tentative-pact-with-big-pay-boosts-and-bias-protections">won huge gains</a> in pay and protections shortly after organizing in 2023, and in April, a UAW-affiliated faculty union at New York University received a <a href="https://www.nytimes.com/2026/03/25/nyregion/nyu-professor-strike-ends.html">20% pay raise</a>, ending a two-day strike at the private school.</p>
+<p>But with USC’s concerns duly noted, the United Faculty-UAW has already been certified as a union based upon the election results. And the new union members are ready to continue organizing, add to their rolls and engage in contract bargaining — the result, they say, of a free and fair election with an indisputable outcome.</p>
+<p>“I’m disappointed that President Kim has chosen to challenge the election results — especially after actively encouraging faculty over the course of many weeks to vote,” said Helen Choi, a full-time associate professor at USC who teaches courses in writing and information literacy.</p>
+<p>Choi, a former corporate lawyer, said she’s hopeful that Kim “will decide to work with faculty rather than disregard our years-long efforts to fight for a better USC. We are in this for the long haul.” So, clearly, is the university in its determination to prevent the union from flourishing on campus.</p>
+<p><em>Copyright 2026 Capital &amp; Main</em></p>
+<figure><a href="https://secure.qgiv.com/for/capitalandmain/"><img src="https://capitalandmain.com/wp-content/uploads/2018/10/DONATE1.png"/></a></figure>
+<figure><a href="https://capitalandmain.com/re-publish-our-stories"><img src="https://capitalandmain.com/wp-content/uploads/2026/06/REPUB1.jpg"/></a></figure>
