@@ -1,0 +1,30 @@
+---
+author: Margaret Farrell
+cover_image: >-
+  https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg
+date: '2026-07-05T16:13:01.073Z'
+dateFolder: 2026/07/05
+description: >-
+  Taylor Swift once penned “It’s a love story, baby just say ‘Yes.'” And now,
+  her art has become reality. The massive pop star got married on July 4 to NFL
+  player Travis Kelce at Madison Square Garden. Unsurprisingly, it seems like
+  every celebrity and their grandmother and their dog was there. Details of the
+  event…
+isBasedOn: >-
+  https://stereogum.com/2504244/paul-mccartney-played-i-want-to-hold-your-hand-for-the-first-time-since-1964-at-taylor-swift-travis-kelces-wedding/news
+link: >-
+  https://stereogum.com/2504244/paul-mccartney-played-i-want-to-hold-your-hand-for-the-first-time-since-1964-at-taylor-swift-travis-kelces-wedding/news
+slug: >-
+  2026-07-05-httpsstereogumcom2504244paul-mccartney-played-i-want-to-hold-your-hand-for-the-first-time-since-1964-at-taylor-swift-travis-kelces-weddingnews
+tags:
+  - music
+  - culture
+title: >-
+  Paul McCartney Played “I Want to Hold Your Hand” For The First Time Since 1964
+  At Taylor Swift & Travis Kelce’s Wedding
+---
+<figure><img alt="" data-nimg="1" sizes="(max-width: 30rem) 440px, (min-width: 30rem) and (max-width: 40rem) 600px, (min-width: 40rem) and (max-width: 48rem) 725px, (min-width: 48rem) and (max-width: 64rem) 945px, 1024px" src="https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=2880" srcset="https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=38 38w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=72 72w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=100 100w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=128 128w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=180 180w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=220 220w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=300 300w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=440 440w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=480 480w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=580 580w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=585 585w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=600 600w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=640 640w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=720 720w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=725 725w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=768 768w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=780 780w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=945 945w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=960 960w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=1024 1024w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=1280 1280w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=1440 1440w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=1536 1536w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=2048 2048w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=2560 2560w, https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/07/GettyImages-2283937759.jpg?w=2880 2880w"/><figcaption>Photo by CHARLY TRIBALLEAU / AFP</figcaption></figure>
+<p>Taylor Swift once penned "It's a love story, baby just say 'Yes.'" And now, her art has become reality. The massive pop star got married on July 4 to NFL player Travis Kelce at Madison Square Garden. Unsurprisingly, it seems like every celebrity and their grandmother and their dog was there. Details of the event have been mostly under wraps, but a new report reveals that pal Paul McCartney performed "I Want To Hold Your Hand."</p>
+<p>"I Want To Hold Your Hand" was released in the UK in November 1963, and then December 1963 in the US. It became the Fab Four's first American #1 hit. The last time it was performed by the Beatles was in 1964. “After the ceremony, Taylor’s mom Andrea invited everyone into the reception room where the stage was set up," <a href="https://people.com/paul-mccartney-compares-taylor-swift-worldwide-fame-to-the-beatles-11983488">a source told <em>PEOPLE</em></a>. According to <a href="https://www.setlist.fm/setlist/paul-mccartney/2026/madison-square-garden-new-york-ny-7373aa8d.html"><em>setlist.fm</em></a>, it was McCartney's solo live debut of the track.</p>
+<p>McCartney wasn't the only incredibly unbelievable wedding surprise. Stevie Nicks also performed. Adam Sandler also sang, but his song served the purpose of <a href="https://www.tmz.com/2026/07/03/taylor-swift-and-travis-kelce-new-details-emerge-from-wedding/">officiating</a> the wedding with an original song. Other star guests included Jennifer Lopez, Tim McGraw, Faith Hill, Tom Cruise, Gwen Stefani and Blake Shelton, Reese Witherspoon, and the Haim sisters.</p>
+<figure><div class="rw-embed-wrapper"><embed src="https://www.youtube.com/embed/jenWdylTtzs?feature=oembed" type="video/mp4"/></div></figure>
