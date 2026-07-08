@@ -1,0 +1,23 @@
+---
+author: Amy O’Brien
+cover_image: >-
+  https://assets.vogue.com/photos/6a4bd1030b6f0db57f5a6e73/16:9/w_1280,c_limit/survelliance-vogue-business-social-newsletter.jpg
+date: '2026-07-07T14:12:49.721Z'
+dateFolder: 2026/07/07
+description: >-
+  Big Tech is investing in fashion’s cultural legitimacy to make AI smart
+  glasses socially acceptable, but consumers view them as synonymous with
+  surveillance. Is removing the camera the key to adoption?
+isBasedOn: 'https://www.vogue.com/article/do-smart-glasses-have-a-surveillance-problem'
+link: 'https://www.vogue.com/article/do-smart-glasses-have-a-surveillance-problem'
+slug: 2026-07-07-httpswwwvoguecomarticledo-smart-glasses-have-a-surveillance-problem
+tags:
+  - fashion
+  - privacy
+title: Do Smart Glasses Have a Surveillance Problem?
+---
+<figure><picture><source media="(max-width: 767px)" sizes="100vw" srcset="https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_120,c_limit/survelliance-vogue-business-story.jpg 120w, https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_240,c_limit/survelliance-vogue-business-story.jpg 240w, https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_320,c_limit/survelliance-vogue-business-story.jpg 320w, https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_640,c_limit/survelliance-vogue-business-story.jpg 640w, https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_960,c_limit/survelliance-vogue-business-story.jpg 960w"/><source media="(min-width: 768px)" sizes="100vw" srcset="https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_120,c_limit/survelliance-vogue-business-story.jpg 120w, https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_240,c_limit/survelliance-vogue-business-story.jpg 240w, https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_320,c_limit/survelliance-vogue-business-story.jpg 320w, https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_640,c_limit/survelliance-vogue-business-story.jpg 640w, https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_960,c_limit/survelliance-vogue-business-story.jpg 960w, https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_1280,c_limit/survelliance-vogue-business-story.jpg 1280w, https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_1600,c_limit/survelliance-vogue-business-story.jpg 1600w, https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_1920,c_limit/survelliance-vogue-business-story.jpg 1920w, https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_2240,c_limit/survelliance-vogue-business-story.jpg 2240w"/><img alt="Kylie Jenner and Meta CEO Mark Zuckerberg at the NYC launch party for Metas new line of smart glasses." data-src="https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_2560%2Cc_limit/survelliance-vogue-business-story.jpg" src="https://assets.vogue.com/photos/6a4bcfb5e7363dce4a47ead1/master/w_2560%2Cc_limit/survelliance-vogue-business-story.jpg"/></picture><figcaption>Kylie Jenner and Meta CEO Mark Zuckerberg at the NYC launch party for Meta’s new line of smart glasses.</figcaption></figure>
+<p>Big Tech has spent the last 12 months making steady inroads into fashion, and <em>Vogue Business</em> has been <a href="https://www.vogue.com/business/technology">clocking every move</a>. So it came as little surprise when last week Meta revealed a Kylie Jenner-fronted campaign for its latest AI smart glasses line, a wider range of 26 new Meta Glasses styles and one pair co-designed with Jenner herself. Like its existing Ray-Ban Meta and Oakley smart glasses lines, the new designs are developed with EssilorLuxxottica — the group that also owns Prada eyewear, rumored to be Meta’s next collaborator.</p>
+<figure><img alt="Subscription Offer" src="https://assets.vogue.com/photos/68ed69960a46769484d0e2da/original/pass/2506_VOG_August%20Issue_In-content%20Barrier_2x.png?format=original"/><figcaption>Subscription Offer</figcaption></figure>
+<p>Access daily industry news, exclusive events, and a private networking group—plus complimentary access to Vogue.com and the <i>Vogue App</i>.</p>
+<p><a data-event-click='{"element":"Button","outgoingURL":"https://www.vogue.com/v2/offers/vob018?source=Site_0_JNY_VOB_DESKTOP_PAYWALL_IN_CONTENT_BARRIER_0_MARTECH_US_CONTROL_2026_ZZ_ADB&amp;redirectURL=https%3A%2F%2Fwww.vogue.com%2Farticle%2Fdo-smart-glasses-have-a-surveillance-problem"}' data-testid="Button" href="https://www.vogue.com/v2/offers/vob018?source=Site_0_JNY_VOB_DESKTOP_PAYWALL_IN_CONTENT_BARRIER_0_MARTECH_US_CONTROL_2026_ZZ_ADB&amp;redirectURL=https%3A%2F%2Fwww.vogue.com%2Farticle%2Fdo-smart-glasses-have-a-surveillance-problem">BECOME A MEMBER</a></p>
