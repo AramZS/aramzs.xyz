@@ -14,6 +14,6 @@ cite:
 
 ---
 
-This deepest of deep dives into the history of food, manliness and meats incredibly fascinating. It is well worth the runtime as not only is the history interesting and rarely discussed, but the synthesis of it onto the growing phenomenon of political manliness and bad diets is really excellent. The politics of why you're eating too much protein and too much meat. 
+This deepest of deep dives into the history of food, manliness and meats incredibly fascinating. It is well worth the runtime as not only is the history interesting and rarely discussed, but the synthesis of it onto the growing phenomenon of political manliness and bad diets is really excellent. The politics of why you're eating too much protein, dairy and meat. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K35FtbuyTh4?si=gvT2OA-dL2mzgqjO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
