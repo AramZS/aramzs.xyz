@@ -11,7 +11,7 @@ link: >-
   https://www.huffpost.com/entry/cdc-stopped-monitoring-diarrhea-parasite_n_6a51348fe4b057296980d94b
 slug: >-
   2026-07-11-httpswwwhuffpostcomentrycdc-stopped-monitoring-diarrhea-parasiten6a51348fe4b057296980d94b
-tags: []
+tags: ['healthcare', 'health', 'science', 'politics']
 title: >-
   CDC Stopped Monitoring Parasite Now Causing Explosive Diarrhea Across The
   Country
