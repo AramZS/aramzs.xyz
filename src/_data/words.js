@@ -398,6 +398,15 @@ module.exports = (() => {
         name: 'Wordnik',
       },
     },
+    {
+      term: 'lulu',
+      definition:
+        'One that is remarkable or wonderful.',
+      cite: {
+        href: 'https://www.merriam-webster.com/dictionary/lulu',
+        name: 'Merriam-Webster Dictionary',
+      },
+    }
   ].sort((a, b) => {
     if (a.term < b.term) {
       return -1;
