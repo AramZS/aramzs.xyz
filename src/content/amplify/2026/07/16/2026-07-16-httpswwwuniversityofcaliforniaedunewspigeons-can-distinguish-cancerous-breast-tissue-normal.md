@@ -1,0 +1,51 @@
+---
+author: UC Newswire
+cover_image: >-
+  https://www.universityofcalifornia.edu/sites/default/files/davis_pigeon-striking-image.jpg
+date: '2026-07-16T14:37:37.503Z'
+dateFolder: 2026/07/16
+description: >-
+  Study finds the birds are uncommonly good at distinguishing cancerous breast
+  tissue from normal .
+isBasedOn: >-
+  https://www.universityofcalifornia.edu/news/pigeons-can-distinguish-cancerous-breast-tissue-normal
+link: >-
+  https://www.universityofcalifornia.edu/news/pigeons-can-distinguish-cancerous-breast-tissue-normal
+slug: >-
+  2026-07-16-httpswwwuniversityofcaliforniaedunewspigeons-can-distinguish-cancerous-breast-tissue-normal
+tags:
+  - science
+title: Pigeons can distinguish cancerous breast tissue from normal
+---
+<p><a href="https://www.universityofcalifornia.edu/#facebook"></a><a href="https://www.universityofcalifornia.edu/#twitter"></a><a href="https://www.universityofcalifornia.edu/#linkedin"></a><a href="https://www.universityofcalifornia.edu/#reddit"></a></p>
+<figure><div class="rw-embed-wrapper"><embed src="https://www.youtube.com/embed/flzGjnJLyS0" type="video/mp4"/></div></figure>
+<h3>If pigeons went to medical school and specialized in pathology or radiology, they’d be pretty good at distinguishing digitized microscope slides and mammograms of normal vs. cancerous breast tissue, a new study from researchers at the University of California, Davis and the University of Iowa has found.</h3>
+<p>“With some training and selective food reinforcement, pigeons do just as well as humans in categorizing digitized slides and mammograms of benign and malignant human breast tissue,” said Richard Levenson, professor of pathology and laboratory medicine at UC Davis Health System and lead author of the study.</p>
+<p>“The pigeons were able to generalize what they had learned, so that when we showed them a completely new set of normal and cancerous digitized slides, they correctly identified them,” Levenson said. “Their accuracy, like that of humans, was modestly affected by the presence or absence of color in the images, as well as by degrees of image compression. The pigeons also learned to correctly identify cancer-relevant microcalcifications on mammograms, but they had a tougher time classifying suspicious masses on mammograms — a task that is extremely difficult, even for skilled human observers.”</p>
+<p>The pigeons’ successes and difficulties provide a window into how physicians process visual cues present on slides and x-rays to diagnose and classify disease risk. This work also suggests that pigeons’ remarkable ability to discriminate between complex visual images could be put to good use as trained medical image observers, to help researchers explore image quality and the impact of color, contrast, brightness, and image compression artifacts on diagnostic performance.</p>
+<p>The study appears online Nov. 18 in PLoS One.</p>
+<h3>Outstanding learners</h3>
+<p>Although a pigeon’s brain is no bigger than the tip of an index finger, it turns out that the neural pathways involved, including the basal ganglia and cortical-striatal synapses, operate in ways very similar to those at work in the human brain.</p>
+<p>According to Edward Wasserman, professor of psychological and brain sciences at the University of Iowa, co-author of the study, the common pigeon (<em>Columba livia</em>) has a tremendous capacity to discriminate and categorize a wide range of objects and images.</p>
+<p>“Research over the past 50 years has shown that pigeons can distinguish identities and emotional expressions on human faces, letters of the alphabet, misshapen pharmaceutical capsules, and even paintings by Monet vs. Picasso,” Wasserman said. “Their visual memory is equally impressive, with a proven recall of more than 1,800 images.”</p>
+<p>When Levenson learned about Wasserman’s earlier research on the visual short-term memory capacities of pigeons and people, conducted with UC Davis Center for Mind and Brain Director Steven Luck, he wondered how pigeons would perform on pathology slides. And a new collaboration began.</p>
+<h3>Pigeons especially adept at discriminating breast cancer slides</h3>
+<p>For the study, each pigeon learned to discriminate cancerous from non-cancerous images and slides using traditional “operant conditioning,” a technique in which a bird was rewarded only when a correct selection was made; incorrect selections were not rewarded and prompted correction trials. Training with stained pathology slides included a large set of benign and cancerous samples from routine cases at UC Davis Medical Center.</p>
+<figure><img alt="breast cancer slides" src="https://imgproxy.readwise.io/?url=http%3A//www.ucdmc.ucdavis.edu/news/images/body/breast-tissue-slides-web-400.jpg&amp;hash=3e81674d1486fb7eb55841af1f8d3c57"/><figcaption>The birds were remarkably adept at discriminating between benign and malignant breast cancer slides at all magnifications, a task that can perplex inexperienced human observers, who typically require considerable training to attain mastery.</figcaption></figure>
+<p>Some birds, for example, first learned to recognize benign or malignant samples in full color at low magnification (4X) and then progressed to medium (10X) and high (20X) magnifications. They also were tested using monochrome samples to eliminate color and brightness as potential cues, as well as samples with different levels of image compression, a procedure commonly used to reduce the size of digital data sets.</p>
+<p>To rule out the possibility that the birds were relying on rote memorization on the tests, brand-new samples were presented and food was dispensed regardless of whether the pigeons made a correct selection. And, indeed, the pigeons performed virtually as well on images that they had never been shown before, indicating that they had, in an extremely narrow sense, learned pathology.</p>
+<p>“The birds were remarkably adept at discriminating between benign and malignant breast cancer slides at all magnifications, a task that can perplex inexperienced human observers, who typically require considerable training to attain mastery,” Levenson said. “Pigeons’ accuracy from day one of training at low magnification increased from 50 percent correct to nearly 85 percent correct at days 13 to 15."</p>
+<p>Wasserman, who has conducted studies on pigeons for over 40 years, found the pigeons especially adept at discerning pathology slides.</p>
+<p>“The pigeons learned to discriminate benign from cancerous slides as fast in this research as in any other study we’ve conducted on pigeons in our laboratory,” Wasserman said. “In fact, when we showed a cohort of four birds a set of uncompressed images, an approach known as 'flock-sourcing,' the group’s accuracy level reached an amazing 99 percent correct, higher than that achieved by any of the four individual birds.”</p>
+<h3>Density on mammograms a challenge for pigeons</h3>
+<p>For the mammogram study, the birds were trained to detect images with and without microcalcifications and to discriminate the presence of malignancy in breast masses using a similar process. Their accuracy averaged 84 percent for images with microcalcifications that they had been trained upon, and 72 percent for novel images — a level of performance on par with human radiologists and radiology residents who were given the same cases to review.</p>
+<p>The birds, however, had difficulty evaluating the malignant potential of breast masses (without microcalcifications) detected on mammograms, a task the authors acknowledge as “very challenging.” Human radiologists achieved an accuracy rate of about 80 percent when viewing images of the relatively subtle masses used in this study. But, the pigeons took many weeks — instead of days that they had needed to master the histopathology tasks — to learn to classify the breast masses in the mammogram training set. More strikingly, after the training phase, when they were finally shown novel, previously unseen images, the birds utterly failed to perform at a level better than chance.</p>
+<p>“The data suggest that the birds were just memorizing the masses in the training set, and never learned how to key in on stellate margins and other features of the lesions that can correlate with malignancy,” Levenson said. “But, as this task reflects the difficulty even humans have, it indicates how pigeons may be faithful mimics of the strengths and weaknesses of humans in viewing medical images.”</p>
+<h3>Pigeons as human surrogates?</h3>
+<p>After years of education and training, physicians can sometimes struggle with the interpretation of microscope slides and mammograms. Levenson, a pathologist who studies artificial intelligence for image analysis and other applications in biology and medicine, believes there is considerable room for enhancing the process.</p>
+<p>“While new technologies are constantly being designed to enhance image acquisition, processing, and display, these potential advances need to be validated using trained observers to monitor quality and reliability,” Levenson said. “This is a difficult, time-consuming, and expensive process that requires the recruitment of clinicians as subjects for these relatively mundane tasks.</p>
+<p>“Pigeons’ sensitivity to diagnostically salient features in medical images suggest that they can provide reliable feedback on many variables at play in the production, manipulation, and viewing of these diagnostically crucial tools, and can assist researchers and engineers as they continue to innovate.”</p>
+<p><em>Other authors of this study include E.A. Krupinski from Emory University and V.M. Navarro at the University of Iowa.</em></p>
+<p><em>This research was funded by grants from the National Institutes of Health (MH47313, EY019781, and MH076226). </em></p>
+<h2>Keep reading</h2>
+<figure><img alt="Flat-style illustration of 3 scientists standing around a human heart that's twice as tall as they are. One holds a magnifying glass." src="https://www.universityofcalifornia.edu/sites/default/files/styles/related_articles/public/2026-heart-repair-header.jpg?h=fed39f95&amp;itok=VIjLjIBK"/><figcaption>Flat-style illustration of 3 scientists standing around a human heart that's twice as tall as they are. One holds a magnifying glass.</figcaption></figure>
