@@ -11,7 +11,7 @@ link: >-
   https://www.theverge.com/science/965849/spotify-founder-ek-startup-neko-health-scanner-us-push
 slug: >-
   2026-07-15-httpswwwthevergecomscience965849spotify-founder-ek-startup-neko-health-scanner-us-push
-tags: []
+tags: ['health', 'healthcare', 'economic inequality']
 title: Spotify’s Daniel Ek is bringing his body-scanning clinics to the US
 ---
 <p>Neko Health just raised $700 million and plans to open its first clinic in New York this year.</p>
