@@ -406,6 +406,14 @@ module.exports = (() => {
         href: 'https://www.merriam-webster.com/dictionary/lulu',
         name: 'Merriam-Webster Dictionary',
       },
+    },
+    {
+      term: 'percipience',
+      definition: 'Keen insight or perceptiveness',
+    },
+    {
+      term: 'coparcener',
+      definition: 'One of several joint heirs to an estate.',
     }
   ].sort((a, b) => {
     if (a.term < b.term) {
