@@ -1,0 +1,29 @@
+---
+author: kat
+cover_image: >-
+  https://bubblegum.girlonthemoon.xyz/articles/urlref-but-i-wrote-my-own-version-of-it.png
+date: '2026-07-21T11:40:54.408Z'
+dateFolder: 2026/07/21
+description: ' a while ago, i found... '
+isBasedOn: >-
+  https://bubblegum.girlonthemoon.xyz/articles/urlref-but-i-wrote-my-own-version-of-it
+link: >-
+  https://bubblegum.girlonthemoon.xyz/articles/urlref-but-i-wrote-my-own-version-of-it
+slug: >-
+  2026-07-21-httpsbubblegumgirlonthemoonxyzarticlesurlref-but-i-wrote-my-own-version-of-it
+tags:
+  - tech
+title: urlref but i wrote my own version of it
+---
+<p>a while ago, i found <a href="https://benjaminhollon.com/musings/urlref/">this post by Benjamin Hollon</a> about a program he wrote: <code>urlref</code>. it's a handy little program that you give a URL to, and in return you get a short alphanumeric code. the idea is that you can use this to "bookmark" websites in handwritten notes. think about it: writing a URL by hand is a pain in the ass, and you'll probably fuck it up. if you can instead write down a little code, isn't that way easier?</p>
+<p>at first i emailed Amin about self-hosting his program, which can be run as a daemon in order to integrate with <a href="https://qutebrowser.org/">qutebrowser</a>. but i don't use that browser (i'm a <a href="https://www.librewolf.net/">librewolf</a> girlie except with half the hardcore privacy settings disabled, defeating the point of using it), and also i don't know anything about the nim language (what he wrote <code>urlref</code> in) and i didn't really need the daemon parts of it. more importantly, i just forgot to reply to Amin's email response to me, and then that made me feel awkward and nervous about replying several months later. whoops.</p>
+<p>some time passes and i'm dicking around on my laptop with adderall in my system, and i think of <code>urlref</code> again. and by this point i'm fully into <a href="https://bubblegum.girlonthemoon.xyz/articles/learning-to-code-like-it-s-the-90s">my perlvert era</a>, so i think: huh, what if i re-implemented <code>urlref</code> as a perl script?</p>
+<p>really it was just a learning exercise for me. but i did in fact learn a lot about perl through writing <a href="https://tangled.org/did:plc:jl5dgp7xb34xfqlpywt7kcp5/urlref.pl"><code>urlref.pl</code></a>!!!</p>
+<p>i owe a lot to <a href="https://brennan.day/">Brennan</a> and <a href="https://tabatkins.com/">Tab</a> for holding my hand through designing the script. i probably wouldn't have had it done in a few hours without them! i was really struggling with parts like the short code generation (for half the time i worked on it, i was testing with the <a href="https://metacpan.org/pod/MIME::Base32">MIME::Base32</a> perl module, which made for really long codes in the meantime lol...), as well as how to store the links in a file and parse the file for the codes; originally i was going to have one file per URL and code, until Tab convinced me that one file + regex would be a lot easier. which it was!</p>
+<p>speaking of regex: my god all of that is total wizard shit. when people think of code as scary matrix movie stuff, regex is what they're picturing without knowing it. what the actual fuck man. (i do love how it's kind of a first-class citizen in perl though. makes me actually want to learn how to write regex for real instead of leaning on friends like Tab and Brennan for help.)</p>
+<p>unsurprisingly, i haven't gotten around to using this script all that much. not that i don't want to! it's more because my notebook adventures have kind of plateaued lately. in other words, i'm not using my notebook as much. but the script has been useful for jotting down quick mixtape tracklist ideas without writing out track names or youtube links. which has made me think about other ways i could use <code>urlref.pl</code>, maybe even outside of a URL context.</p>
+<p>earlier today, i was watching a youtube video on <a href="https://www.youtube.com/watch?v=NGE8cM7CG94">using NFC tags for home automation &amp; organization</a>, which then reminded me of the <a href="https://www.youtube.com/watch?v=dYJP5OPBn_8&amp;t=950s">labeling system of this youtuber i like</a>, and then i remembered my absolutely dogshit and semi-recent system for labeling my various linux USBs. my method was to cut a paper label to fit the USB drive and stick it on the back of the drive, then write in thick marker (for some reason i did not think to use a pen) the name of the OS (or something related to it like the version number, usually relying on my memory in that case). i have a few of these labeled drives on my desk as i type, and they just look fucking terrible. i can barely read my handwriting as it is, so using sharpies was a stupid idea and now i can't read these labels. also the labels are peeling off.</p>
+<p>all that to say: what if i got better sticker labels, and then used <code>urlref.pl</code> to make codes corresponding to operating system names &amp; other info, and then write those codes down on the USB drives instead????</p>
+<p>see i have no idea how well that'd work in practice. right now, the script relies on spaces between the code &amp; URL to find the matching URL (the format is literally just <code>CODE URL\n</code>), so i'm not sure how i'd adapt it to work with sentences. maybe i'd just have the script put underscores where spaces are or something. i don't know!</p>
+<p>anyway, i'm still thinking of ways i could use my silly script, and will probably get excited about a new idea for it while hyped up on adderall all over again. time will tell.</p>
+<p>(if you want to use <code>urlref.pl</code>, feel free to check it out on <a href="https://tangled.org/did:plc:jl5dgp7xb34xfqlpywt7kcp5/urlref.pl">tangled</a> or <a href="https://git.sr.ht/%7Echasinglightning/urlref.pl">sourcehut</a>! and also feel free to reach out to me if you have any questions.)</p>
