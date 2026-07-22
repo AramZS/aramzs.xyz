@@ -414,7 +414,23 @@ module.exports = (() => {
     {
       term: 'coparcener',
       definition: 'One of several joint heirs to an estate.',
-    }
+    },
+    {
+      term: 'nisis',
+      definition: 'An effort or striving toward a goal.',
+    },
+    {
+      term: 'sciolist',
+      definition: 'One who knows many things superficially; a pretender to science; a smatterer.',
+      cite: {
+        href: 'https://www.wordnik.com/words/sciolist',
+        name: 'The GNU version of the Collaborative International Dictionary of English',
+      },
+    },
+    {
+      term: 'nisi',
+      definition: 'Legal term for a decree that takes effect unless contested.',
+    },
   ].sort((a, b) => {
     if (a.term < b.term) {
       return -1;
