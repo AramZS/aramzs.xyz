@@ -431,6 +431,10 @@ module.exports = (() => {
       term: 'nisi',
       definition: 'Legal term for a decree that takes effect unless contested.',
     },
+    {
+      term: 'logion',
+      definition: 'a saying attributed to a religious figure',
+    }
   ].sort((a, b) => {
     if (a.term < b.term) {
       return -1;
