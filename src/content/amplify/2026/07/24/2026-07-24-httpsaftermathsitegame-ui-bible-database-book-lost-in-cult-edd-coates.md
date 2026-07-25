@@ -1,0 +1,23 @@
+---
+author: Aftermath
+cover_image: >-
+  https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/07/Untitled-4.jpg
+date: '2026-07-24T12:18:41.264Z'
+dateFolder: 2026/07/24
+description: 'Menus and icons, for your coffee table'
+isBasedOn: 'https://aftermath.site/game-ui-bible-database-book-lost-in-cult-edd-coates/'
+link: 'https://aftermath.site/game-ui-bible-database-book-lost-in-cult-edd-coates/'
+slug: >-
+  2026-07-24-httpsaftermathsitegame-ui-bible-database-book-lost-in-cult-edd-coates
+tags:
+  - books
+  - gaming
+title: 'A Whole Big, Fancy Book Just About Game UI'
+---
+<figure><picture> <source sizes="(max-width: 1023px) 90vw, 1200px" srcset="https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w320/format/webp/2026/07/Untitled-4.jpg 320w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w640/format/webp/2026/07/Untitled-4.jpg 600w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w960/format/webp/2026/07/Untitled-4.jpg 960w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1280/format/webp/2026/07/Untitled-4.jpg 1200w" type="image/webp"/> <img alt="A Whole Big, Fancy Book Just About Game UI" sizes="(max-width: 1023px) 90vw, 1200px" src="https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w30/2026/07/Untitled-4.jpg" srcset="https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w320/format/webp/2026/07/Untitled-4.jpg 320w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w640/format/webp/2026/07/Untitled-4.jpg 640w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w960/format/webp/2026/07/Untitled-4.jpg 960w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1280/format/webp/2026/07/Untitled-4.jpg 1280w"/> </picture></figure>
+<p>Edd Coates'<a href="https://www.gameuidatabase.com/?ref=aftermath.site"> <u>Game UI Database</u></a>, which<a href="https://aftermath.site/game-ui-database/"> <u>we featured a couple of years ago on the site</u></a>, is making the jump to the real world, with publisher Lost In Cult announcing today that it's being turned into a book called <em>The Game UI Bible</em>.</p>
+<p>Rather than just being a huge collection of menus and icons--though that would also have been wonderful--the book has been split into two halves, each going deep into the concepts and best examples of UI and UX:</p>
+<blockquote>In the first half of <em>The Game UI Bible</em>, Coates discusses the foundations of UI and UX design. This section begins in the earliest days of PC, console, and arcade gaming and travels through to the modern day to track continuity and change in the fields’ key tenets as luminary designers elaborated on – and sometimes challenged – them.<br/><br/>In <em>The Game UI Bible</em>’s second half, Coates speaks directly to those luminaries. Across a series of case studies, Coates is in conversation with the key UI and UX designers who brought benchmark games to life, from <em>God of War</em> and <em>Half-Life: Alyx</em> to <em>Inscryption </em>and <em>Monument Valley</em>. These interviews are surrounded by essays on topics ranging from Nintendo’s Switch branding to the relationship between game UI and meme culture, all of which illustrate just how significant and far-reaching these fields are.</blockquote>
+<p>In a very nice touch, Lost In Cult say "select spreads [have been] printed across see-through acetate layers allowing you to peel back a game’s UI element by element".</p>
+<figure><img alt="" data-action="zoom" sizes="(min-width: 720px) 720px" src="https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/07/render_05-1.webp" srcset="https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w600/2026/07/render_05-1.webp 600w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1000/2026/07/render_05-1.webp 1000w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1600/2026/07/render_05-1.webp 1600w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/2026/07/render_05-1.webp 1920w"/></figure>
+<p>It'll cost<a href="https://www.lostincult.co.uk/shop/p/gameui?ref=aftermath.site"> <u>£50 for a standard edition, and £60 for a fancier version</u></a> with a slipcase and poster.</p>
