@@ -434,6 +434,22 @@ module.exports = (() => {
     {
       term: 'logion',
       definition: 'a saying attributed to a religious figure',
+    },
+    {
+      term: 'remontant',
+      definition: 'a plant, especially a rose, that blooms more than once a season'
+    },
+    {
+      term: 'metamer',
+      definition: 'one of two compounds with the same formula but different structure'
+    },
+    {
+      term: 'almemar',
+      definition: 'a raised platform in a synagogue for reading the Torah'
+    },
+    {
+      term: 'mewl',
+      definition: 'cry weakly or softly',
     }
   ].sort((a, b) => {
     if (a.term < b.term) {
