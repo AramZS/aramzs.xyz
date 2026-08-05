@@ -454,6 +454,14 @@ module.exports = (() => {
     {
       term: 'stoss',
       definition: 'The side of a landform facing the direction ice or wind comes from.'
+    },
+    {
+      term: 'misesteem',
+      definition: 'To hold in low regard, archaic'
+    },
+    {
+      term: 'ontogenesis',
+      definition: 'the development of an individual organism'
     }
   ].sort((a, b) => {
     if (a.term < b.term) {
