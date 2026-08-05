@@ -450,6 +450,10 @@ module.exports = (() => {
     {
       term: 'mewl',
       definition: 'cry weakly or softly',
+    },
+    {
+      term: 'stoss',
+      definition: 'The side of a landform facing the direction ice or wind comes from.'
     }
   ].sort((a, b) => {
     if (a.term < b.term) {
