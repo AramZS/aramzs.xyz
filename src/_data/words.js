@@ -462,6 +462,10 @@ module.exports = (() => {
     {
       term: 'ontogenesis',
       definition: 'the development of an individual organism'
+    }, 
+    {
+      term: 'kef',
+      definition: 'a state of dreamy, drowsy relaxation'
     }
   ].sort((a, b) => {
     if (a.term < b.term) {
