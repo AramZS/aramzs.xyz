@@ -1,0 +1,44 @@
+---
+author: Andrew Deck
+cover_image: >-
+  https://www.niemanlab.org/images/AdobeStock_1855670084_Editorial_Use_Only-700x394.jpeg
+date: '2026-08-07T15:26:00.573Z'
+dateFolder: 2026/08/07
+description: >-
+  USA Today Co. has made a deal with software company Palantir to analyze and
+  monetize user behavior, the company announced on Thursday.
+
+
+  In its Q2 earnings call Thursday morning, USA Today Co. chairman and CEO Mike
+  Reed told investors he expects the partnership to "strengthen how we collect,
+  …
+isBasedOn: >-
+  https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/
+link: >-
+  https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/
+slug: >-
+  2026-08-07-httpswwwniemanlaborg202608americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data
+tags:
+  - tech
+  - media
+  - privacy
+title: >-
+  America’s largest newspaper chain, USA Today Co., partners with Palantir to
+  analyze audience data as search traffic falls
+---
+<figure><img alt="" sizes="(min-width: 600px) 700px, 100vw" src="https://www.niemanlab.org/images/AdobeStock_1855670084_Editorial_Use_Only-2048x1152.jpeg" srcset="https://www.niemanlab.org/images/AdobeStock_1855670084_Editorial_Use_Only-700x394.jpeg 700w, https://www.niemanlab.org/images/AdobeStock_1855670084_Editorial_Use_Only-990x557.jpeg 990w, https://www.niemanlab.org/images/AdobeStock_1855670084_Editorial_Use_Only-768x432.jpeg 768w, https://www.niemanlab.org/images/AdobeStock_1855670084_Editorial_Use_Only-1536x864.jpeg 1536w, https://www.niemanlab.org/images/AdobeStock_1855670084_Editorial_Use_Only-2048x1152.jpeg 2048w, https://www.niemanlab.org/images/AdobeStock_1855670084_Editorial_Use_Only-315x177.jpeg 315w, https://www.niemanlab.org/images/AdobeStock_1855670084_Editorial_Use_Only-220x124.jpeg 220w, https://www.niemanlab.org/images/AdobeStock_1855670084_Editorial_Use_Only-480x270.jpeg 480w, https://www.niemanlab.org/images/AdobeStock_1855670084_Editorial_Use_Only-600x337.jpeg 600w"/></figure>
+<p>USA Today Co. has made a deal with software company Palantir to analyze and monetize user behavior, the company <a href="https://irp.cdn-website.com/d6c3afba/files/uploaded/TDAY+Q2+2026+Prepared+Remarks_8.6.26.pdf">announced</a> on Thursday.</p>
+<p>In its Q2 earnings call Thursday morning, USA Today Co. chairman and CEO Mike Reed told investors he expects the partnership to “strengthen how we collect, connect and activate audience data to drive more effective and faster monetization across our platform.”</p>
+<p>“Every visit, every session, and every moment of attention creates a signal,” Reed said. “When we connect those signals, they become actionable intelligence that allows us to engage users more effectively and monetize those relationships faster and at much greater value. The work our team is doing with Palantir is a direct extension of this strategy. We are applying Palantir’s AI-powered platform to one of the largest opportunities in front of us, converting the sheer scale of our audience into known, orchestrated first-party relationships, because that is what turns our reach into sustainable, higher value revenue.”</p>
+<figure><a href="https://www.niemanlab.org/2026/08/even-the-new-york-times-isnt-immune-to-declining-search-traffic-one-reason-its-leaning-into-video/?relatedstory"><img alt="The New York Times building facade" sizes="auto, (max-width: 315px) 100vw, 315px" src="https://www.niemanlab.org/images/NYTimes-facade-adobe-315x177.jpg" srcset="https://www.niemanlab.org/images/NYTimes-facade-adobe-315x177.jpg 315w, https://www.niemanlab.org/images/NYTimes-facade-adobe-220x124.jpg 220w"/></a><figcaption><a href="https://www.niemanlab.org/2026/08/even-the-new-york-times-isnt-immune-to-declining-search-traffic-one-reason-its-leaning-into-video/?relatedstory">The New York Times building facade</a></figcaption></figure>
+<p>USA Today Co. owns more than 200 local newspapers in the United States, along with its national daily USA Today. The partnership with Palantir comes as search traffic continues to fall — a challenge faced by publications around the world, and one The New York Times <a href="https://www.niemanlab.org/2026/08/even-the-new-york-times-isnt-immune-to-declining-search-traffic-one-reason-its-leaning-into-video/">mentioned in its own earnings report</a> Wednesday. USA Today Co. reported 158 million unique visitors in the second quarter of the year, down from 180 million in the first quarter.</p>
+<p>This decline “does not reflect lower demand for the content,” said Kristin Roberts, president of USA Today Media. “What it reflects is lower referrals from traditional search because of those consumer discovery changes that we’re seeing and witnessing.”</p>
+<p>Palantir has been the subject of controversy in recent months for providing its technology to <a href="https://www.404media.co/palantir-which-is-powering-ice-says-immigration-crackdown-may-hurt-hiring/">Immigration and Customs Enforcement</a> (ICE), the <a href="https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/">U.S. Department of Defense</a>, and the <a href="https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza">Israeli military</a>. The company’s co-founder and chairman is Peter Thiel, the billionaire entrepreneur who <a href="https://www.theguardian.com/media/2016/may/26/paypal-co-founder-peter-thiel-admits-bankrolling-hulk-hogan-gawker-lawsuit">funded</a> Hulk Hogan’s defamation lawsuit against Gawker, leading to the publication’s ultimate bankruptcy and closure.</p>
+<p>USA Today Co. isn’t the only media company to enlist Palantir’s services. <a href="https://www.palantir.com/impact/axel-springer/">Axel Springer</a> — which owns Business Insider, Politico, Bild, and The Telegraph — and <a href="https://www.yahoo.com/news/articles/ticker-fox-news-media-signs-200208026.html">Fox News</a> have also partnered with Palantir for its data intelligence tools. Thomson Reuters <a href="https://www.404media.co/how-thomson-reuters-powers-ice-and-palantir/">also supplies data</a> to Palantir, which had been used by ICE, 404 Media reported in March.</p>
+<p>“It’s important to note all of our data remains our data,” Reed told investors. “It’s really just leveraging this incredible AI and software that Palantir has to allow us to move so much faster and to be so much smarter with the data we have today. And…take a lot of the anonymous interactions we have today and turn those into known relationships…The more known relationships we have, the more data we create, the more signals we create, the more actionable intelligence we have.”</p>
+<p>Roberts told USA Today Co. employees in an email Thursday that the Palantir partnership could result in “better recommendations and offers based on what people actually care about” and “smarter subscription and advertising experiences” for consumers and subscribers.</p>
+<p>“USA TODAY Co. complies with applicable data protection and privacy laws and maintains strong standards for data security and governance,” the company said in a statement to Nieman Lab. “We require this of our vendors and partners as well, reflecting our belief that safeguarding protected personal information is essential to our business and the audiences we serve. Our editorial decisions remain independent and are guided by our longstanding journalistic <a href="https://cm.usatoday.com/ethical-conduct/">standards and ethics policies</a>.”</p>
+<p>Roberts noted that World Cup coverage across USA Today’s network “generated 97 million pageviews, with search driving nearly 65% of that traffic. That reinforces an important point — when content meets a real and urgent need — search still delivers. But we are not building our future on search, even in our strongest categories. Great content still finds an audience, and our opportunity moving forward is to ensure that our distribution tactics keep pace with the way readers and viewers want to consume content in digital spaces.”</p>
+<p>“I can see a day where we turn off scraping or making our content available for the [search engine links],” Reed said. “We’re actually more hopeful that we can be proactive with Google in negotiating a fair licensing deal. That would be our preferred path — to have our content appear both in traditional search as well as in AI summaries. But if we have to cut them off and block them in order to get to a deal, then we’ll do that for sure.”</p>
+<p>Read the full earnings report <a href="https://irp.cdn-website.com/d6c3afba/files/uploaded/TDAY+Q2+2026+Prepared+Remarks_8.6.26.pdf">here</a>.</p>
+<p>Adobe Stock</p>
