@@ -466,6 +466,10 @@ module.exports = (() => {
     {
       term: 'kef',
       definition: 'a state of dreamy, drowsy relaxation'
+    },
+    {
+      term: 'accroach',
+      definition: 'to try to seize power or authority that isn\'t rightfully yours'
     }
   ].sort((a, b) => {
     if (a.term < b.term) {
