@@ -472,6 +472,10 @@ module.exports = (() => {
       definition: 'to try to seize power or authority that isn\'t rightfully yours'
     }
   ].sort((a, b) => {
+    //a.term = a.term.toLowerCase()
+    //b.term = b.term.toLowerCase()
+    a.term = String(a.term).charAt(0).toUpperCase() + String(a.term).slice(1);
+    b.term = String(b.term).charAt(0).toUpperCase() + String(b.term).slice(1);
     if (a.term < b.term) {
       return -1;
     }

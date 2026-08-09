@@ -1,6 +1,5 @@
 ---
 author: worldanvil.com
-cover_image: /images/logo-550px.png?version=3
 date: '2026-07-26T14:24:48.936Z'
 dateFolder: 2026/07/26
 description: >-
