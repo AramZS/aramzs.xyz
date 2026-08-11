@@ -1,0 +1,41 @@
+---
+author: Catherina Gioino
+cover_image: >-
+  https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1252009317-e1786392064908.jpg?resize=1200,600
+date: '2026-08-11T02:47:18.094Z'
+dateFolder: 2026/08/10
+description: >-
+  Extreme heat is straining the vaults that hold Parmigiano wheels as loan
+  collateral, and economists say the damage runs wider than the vault
+isBasedOn: >-
+  https://fortune.com/2026/08/10/italy-5-billion-cheese-economy-heat-wave-climate-change/
+link: >-
+  https://fortune.com/2026/08/10/italy-5-billion-cheese-economy-heat-wave-climate-change/
+slug: >-
+  2026-08-10-httpsfortunecom20260810italy-5-billion-cheese-economy-heat-wave-climate-change
+tags:
+  - climate
+title: >-
+  Italy’s $4.7 billion cheese economy is feeling the heat as climate change
+  threatens its cheese banks that hold Parmigiano wheels as loan collateral
+---
+<figure><img src="https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1252009317-e1786392064908.jpg?format=webp&amp;w=1440&amp;q=100"/><figcaption>Climate change and extreme heat is posing a major threat to Italy's cheese banks.</figcaption></figure>
+<p>In the hills of Emilia-Romagna, a bank vault holds more than half a million wheels of Parmigiano Reggiano, worth well over 300 million euros.</p>
+<p>The vault belongs to the bank Credito Emiliano, known colloquially as Credem, which has long accepted young wheels of Parmigiano Reggiano as collateral for loans to local dairy farms since 1953.</p>
+<p>But now, extreme heat is threatening Italy’s “cheese banks,” and economists who study heat’s effect on growth say the exposure runs well beyond a single vault but into the country’s vineyards, its olive groves, and its broader economy.</p>
+<p>After receiving the wheels of cheese from dairy farmers, a Credem subsidiary, Magazzini Generali delle Tagliate, ages the wheels in two warehouses in Reggio Emilia and Modena. Producers typically receive 60% to 80% of a wheel’s value upfront.</p>
+<p>But the process has come a long way from the 1950s, as blockchain technology now lets farmers pledge wheels even while the cheese stays in their own facilities, doubling Credem’s lending capacity. The arrangement solves a real problem: Parmigiano needs at least 12 months to age, often 24 or 36, and small family farms can’t easily keep that much inventory tied up for that long without generating some cash. So the bank provides some before any sales are made.</p>
+<p>The scale of that arrangement is bigger than the vault itself. Italy produces about 4 million wheels of Parmigiano Reggiano a year, and the cheese banks hold about 500,000 of them, Giancarlo Ravanetti, who runs the bank’s cheese warehouse business, told <a href="https://edition.cnn.com/2026/05/02/food/italy-cheese-bank-parmigiano-reggiano-intl">CNN</a>. His warehouses handle about 2.3 million wheels a year in total.</p>
+<p>Meanwhile, Parmigiano Reggiano is a 4 billion-euro ($4.7 billion) industry sustained by roughly 300 certified dairies, and keeping that much cheese at the right temperature has gotten more expensive. <a href="https://fortune.com/2026/06/26/heat-death-europe-ac-american-gun-violence-climate-change-hot-summer/">Thanks to this year’s record heat waves in Europe,</a> daily energy consumption rose about 30%, forcing the bank to upgrade cooling systems and boilers, add insulation, and expand renewable power generation.</p>
+<p>Climate change is affecting dairy farmers’ milk supply as well. Because it’s so hot outside, cows lie down more and eat less, reducing milk production by up to 10% a year. As longer and more intense heat events become all the more common, they hit both the quantity and quality of milk, ultimately driving up costs.</p>
+<p>The same climate pressure is showing up on a similar timeline in Italy’s vineyards. In Lombardy’s Franciacorta sparkling-wine region, the 2026 harvest <a href="https://www.vinetur.com/en/20260729105041/italys-2026-grape-harvest-starts-earlier-than-ever-in-franciacorta.html">began</a> July 30, the earliest start on record, after budbreak came more than a week ahead of the historical average. In Sicily, the harvest <a href="https://vinovistara.com/blogs/news/why-italys-2026-harvest-is-the-earliest-on-record">has</a> stretched into what growers describe as a hundred-day picking season across the island’s microclimates, as producers time each variety’s picking to stay ahead of the heat.</p>
+<p>Coldiretti, Italy’s largest farmers’ association, has <a href="https://winenews.it/en/2026-grape-harvest-takes-shape-in-italy-one-of-the-earliest-ever-coldiretti-analysis_598011/">called</a> 2026 one of the earliest harvests on record nationally, citing record temperatures and drought that are pushing sugar into the grapes faster than their flavor can develop, a mismatch that’s especially hard on late-ripening reds like the Nebbiolo grape behind Barolo.</p>
+<p>Some producers have <a href="https://www.boroli.it/en/wine-consumption-trends-and-climate-change-why-the-future-runs-through-quality/">begun</a> testing shade netting over vineyards, originally used against hail, to cut the sun exposure that would otherwise strip the grapes of acidity. Coldiretti also pointed to a cost layered on top of the weather: the conflict in Iran has added an estimated 250 euros per hectare in energy, fertilizer, and materials costs for wine producers this year, with export values already down 7% in the first four months of 2026.</p>
+<p>But olive groves have taken the sharpest hit. Puglia and Calabria, Italy’s two largest olive-oil-producing regions, have seen national production fall well below its historical average of more than 350,000 tons, coming in around 270,000 to 300,000 tons for the 2025/26 season. In past drought years, Puglia’s output has fallen by more than half in a single season.</p>
+<p>R. Jisung Park, a labor economist at the University of Pennsylvania’s Wharton School and author of <em>Slow Burn: The Hidden Costs of a Warming World</em>, <a href="https://fortune.com/2026/06/30/too-hot-work-productivity-decline-gdp-tank/">says the pattern showing up across Italy’s cheese, wine, and olive oil industries fits a wider body of research</a> that links heat directly to lost economic output.</p>
+<p>A European Central Bank working paper found that the <a href="https://fortune.com/2026/06/23/europe-heat-wave-economic-losses-2030/">GDP hit from extreme heat is smaller in Spain and Italy than in Germany,</a> since both countries are more used to high temperatures. But Park said a small top-line number can still hide real damage elsewhere. “Supply chain spillovers due to heat upstream actually lead to measurable downstream firm valuation impacts,” Park told <em>Fortune</em>.</p>
+<p>That is close to what’s playing out in Emilia-Romagna, where a heat shock to dairy cows turns into a cost problem for a bank months later, and in Puglia, where a hot, dry spring turns into a production collapse hundreds of miles from where the olives grow. Park said heat’s economic toll tends to hide in these kinds of indirect, delayed effects instead of showing up all at once, which is part of why companies and governments still underprice it the effects of climate change.</p>
+<p>The idea of a government stepping in to protect dairy farmers from forces beyond their control is not new to the United States either. During the Great Depression, milk prices collapsed and dairy farmers dumped their own product in the street to protest.</p>
+<p>President Franklin D. Roosevelt’s New Deal responded with subsidies for farmers who cut production, and in 1933 created the Commodity Credit Corporation to buy up surplus butter, cheese, and dried milk to keep prices stable.</p>
+<p>That policy long outlived the Depression. Decades later, the government was still buying surplus cheese and storing it in vast underground caves in Missouri, Wisconsin, and Kansas, warehouses cool enough to hold the cheese for years without spoiling.</p>
+<p>By the early 1980s, the federal stockpile topped 500 million pounds. Italy’s cheese banks solve a similar problem with a different tool: instead of a government buying surplus to prop up prices, a private bank lends against the cheese itself, betting that the wheels sitting in its vault will still be worth something by the time they are ready to sell.</p>
