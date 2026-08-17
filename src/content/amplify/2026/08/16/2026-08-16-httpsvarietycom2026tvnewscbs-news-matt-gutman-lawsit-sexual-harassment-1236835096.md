@@ -1,0 +1,35 @@
+---
+author: Todd Spangler
+cover_image: >-
+  https://variety.com/wp-content/uploads/2026/08/Matt-Gutman.jpg?w=1000&h=563&crop=1
+date: '2026-08-16T05:52:20.707Z'
+dateFolder: 2026/08/16
+description: >-
+  Matt Gutman, CBS News' chief correspondent, has been accused of sexual
+  harassment in a wrongful-termination lawsuit filed by a former co-worker at
+  ABC News.
+isBasedOn: >-
+  https://variety.com/2026/tv/news/cbs-news-matt-gutman-lawsit-sexual-harassment-1236835096/
+link: >-
+  https://variety.com/2026/tv/news/cbs-news-matt-gutman-lawsit-sexual-harassment-1236835096/
+slug: >-
+  2026-08-16-httpsvarietycom2026tvnewscbs-news-matt-gutman-lawsit-sexual-harassment-1236835096
+tags:
+  - media
+title: >-
+  CBS News Chief Correspondent Matt Gutman Accused of Sexual Harassment by
+  Former ABC Field Producer
+---
+<figure><img alt="Matt Gutman" sizes="(min-width: 87.5rem) 1000px, (min-width: 78.75rem) 630px, (min-width: 48rem) 70vw, (max-width: 48rem) calc( 90vw - 2rem )" src="https://variety.com/wp-content/uploads/2026/08/Matt-Gutman.jpg?w=1000&amp;h=667&amp;crop=1" srcset="https://variety.com/wp-content/uploads/2026/08/Matt-Gutman.jpg?w=1000&amp;h=667&amp;crop=1 2317w, https://variety.com/wp-content/uploads/2026/08/Matt-Gutman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=150%2C100 150w, https://variety.com/wp-content/uploads/2026/08/Matt-Gutman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=300%2C200 300w, https://variety.com/wp-content/uploads/2026/08/Matt-Gutman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=1920%2C1280 1920w, https://variety.com/wp-content/uploads/2026/08/Matt-Gutman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=1360%2C907 1360w, https://variety.com/wp-content/uploads/2026/08/Matt-Gutman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=1000%2C667 1000w, https://variety.com/wp-content/uploads/2026/08/Matt-Gutman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=910%2C607 910w, https://variety.com/wp-content/uploads/2026/08/Matt-Gutman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=681%2C454 681w, https://variety.com/wp-content/uploads/2026/08/Matt-Gutman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=450%2C300 450w, https://variety.com/wp-content/uploads/2026/08/Matt-Gutman.jpg?w=1000&amp;h=667&amp;crop=1&amp;resize=250%2C167 250w"/><figcaption>Getty Images</figcaption></figure>
+<p><a data-tag="matt-gutman" href="https://variety.com/t/matt-gutman/">Matt Gutman</a>, <a data-tag="cbs-news" href="https://variety.com/t/cbs-news/">CBS News</a>’ chief correspondent, has been accused of sexual harassment in a wrongful-termination lawsuit filed by a former co-worker at <a data-tag="abc-news" href="https://variety.com/t/abc-news/">ABC News</a>.</p>
+<p>Gutman was named in a lawsuit filed by Samira Said, who worked as a field producer for ABC News in its Los Angeles bureau from May 2021 until March 2025. She alleges in the lawsuit she was wrongfully terminated by ABC and that Gutman contributed to a hostile work environment by making “sexualized” comments to her.</p>
+<p><em>Variety</em> has reached out to representatives for ABC and Gutman for comment.</p>
+<p>According to Said’s lawsuit, during her employment at ABC, she was “placed on a male-only team including on-air correspondent Matt Gutman” and two additional male crew members.</p>
+<p>“While the team waited in a public queue during the assignment, Gutman initiated a discussion rating a female correspondent’s appearance and reducing her professional standing to a numerical score based on her physical attributes,” the lawsuit alleges. “The male crew joined in, continuing to assess the woman’s body and looks in Said’s presence. The men attempted to draw Said into the conversation by soliciting her views. Said declined and stated the conversation was inappropriate.”</p>
+<p>On another occasion, according to the lawsuit, during a press day for a film release, Said and Gutman “disagreed about whether the team should leave the work site. In front of multiple coworkers, Gutman responded by making a sexualized insinuation that Said must have an after-hours date in the city and that this is why she did not want to relocate. The remark, made audibly to others, demeaned Said and reduced her professional judgment to a sexualized stereotype.”</p>
+<p>According to Said’s complaint, after she had been assigned to cover events at the school shooting in Uvalde, Texas, she “experienced severe psychological symptoms.” Per the lawsuit, prior to that assignment, she had contracted COVID-19 and “was still experiencing symptoms from COVID-19” while in Uvalde.</p>
+<p>Said was granted medical leave from August 2022 through January 2023, as her “psychiatrist continued to certify the medical necessity of her leave on a recurring basis” to ABC and Disney. Per the lawsuit, around January 2023, Said’s psychiatrist had cleared her to return to work, “subject to reasonable accommodations designed to enable her to perform the essential functions of the position while protecting against re-exposure to trauma triggers.” However, she claims in the lawsuit, ABC denied her accommodation requests and that ABC News’ L.A. bureau chief David Herndon “made it clear that unless she returned without restrictions and with full-week availability, she would not be permitted to resume her role.”</p>
+<p>“Following her medical leave and accommodation requests, Plaintiff was subjected to materially adverse treatment than she had experienced at any time prior to engaging in protected activity,” Said alleged in the lawsuit. She said around March 2023, Said was “demoted” to weekend desk shifts.</p>
+<p>Said said she was terminated by ABC on March 5, 2025. Shortly prior to that, when Said was in the field covering “hazardous weather-related events,” she “sustained a workplace injury when heavy equipment struck her foot, resulting in a bone contusion,” according to the lawsuit. “Said reported the injury to her supervisors. A Disney physician evaluated Said and determined that her foot injury did not require her to take leave.”</p>
+<p>Said is seeking unspecified monetary damages in the lawsuit, filed Friday in Superior Court of the State of California for the County of Los Angeles, Central District. Among other things, her complaint alleges discrimination and hostile work environment harassment; retaliation for engaging in protected activity; failure to provide reasonable accommodation; breach of express oral contract not to terminate employment without good cause; intentional infliction of emotional distress. A copy of the lawsuit is available at <a href="https://variety.com/wp-content/uploads/2026/08/gutman-suit.pdf">this link</a>.</p>
+<p>Gutman <a href="https://variety.com/2025/tv/news/matt-gutman-joins-cbs-news-bari-weiss-1236604233/">joined CBS News on Jan. 5</a>, 2026. In addition to reporting for “CBS Mornings” and “CBS Evening News,” he serves as a lead correspondent for “48 Hours” and will contribute to future seasons of “60 Minutes.” He previously spent more than 15 years at ABC News, where he most recently served as chief national correspondent.</p>
