@@ -13,7 +13,7 @@ link: >-
   https://www.wsj.com/business/new-york-city-launches-sweeping-investigation-into-polymarket-and-kalshi-fa1d80a4?st=mXCwcr&reflink=desktopwebshare_permalink
 slug: >-
   2026-08-12-httpswwwwsjcombusinessnew-york-city-launches-sweeping-investigation-into-polymarket-and-kalshi-fa1d80a4stmxcwcrandreflinkdesktopwebsharepermalink
-tags: []
+tags: ['nyc', 'gambling']
 title: New York City Launches Sweeping Investigation Into Polymarket and Kalshi
 ---
 <h1>New York City Launches Sweeping Investigation Into Polymarket and Kalshi</h1>
