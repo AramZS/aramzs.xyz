@@ -145,7 +145,7 @@ module.exports = async function () {
 
 	const items = await Promise.all(books).then((found) => {
 		// Filter out duplicates due to https://github.com/bookwyrm-social/bookwyrm/issues/1214
-		let ids = [];
+		let ids = ['62580']; // I don't know why this is breaking
 		return found.filter((book) => {
 			if (ids.includes(book.id)) {
 				return false;
