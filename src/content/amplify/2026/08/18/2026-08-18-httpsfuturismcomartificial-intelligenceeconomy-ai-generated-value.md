@@ -1,0 +1,28 @@
+---
+author: Victor Tangermann
+cover_image: >-
+  https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?w=1200
+date: '2026-08-18T12:02:58.571Z'
+dateFolder: 2026/08/18
+description: >-
+  3D assets marketplace CGTrader is being flooded by AI slop, but nobody is
+  buying it, suggesting AI isn't "repricing the market."
+isBasedOn: 'https://futurism.com/artificial-intelligence/economy-ai-generated-value'
+link: 'https://futurism.com/artificial-intelligence/economy-ai-generated-value'
+slug: 2026-08-18-httpsfuturismcomartificial-intelligenceeconomy-ai-generated-value
+tags:
+  - ai
+title: 'The Economy Has Spoken: Stuff That’s AI-Generated Has Almost Zero Value'
+---
+<figure><img alt="A screenshot of a base mesh hosted on CGTrader." sizes="(max-width: 1152px) 100vw, 1152px" src="https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=2048" srcset="https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=50 50w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=280 280w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=289 289w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=308 308w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=324 324w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=600 600w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=675 675w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=768 768w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=990 990w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=1024 1024w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=1128 1128w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=1250 1250w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=1337 1337w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=1440 1440w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=1536 1536w, https://futurism.com/wp-content/uploads/2026/08/economy-ai-generated-value.jpg?quality=85&amp;w=2048 2048w"/><figcaption>CGTrader / Futurism</figcaption></figure>
+<p>Online marketplaces are being flooded with AI slop — but is anybody willing to actually pay for it?</p>
+<p>In the case of CGTrader, a long-established online marketplace for 3D assets used by video game developers, film editors, and 3D printing nerds, users are sending a clear message. As <a href="https://www.404media.co/ai-generated-3d-models-flood-market-but-almost-no-one-is-buying-them/"><em>404 Media</em> reports</a>, the marketplace is being flooded by AI-generated assets, representing one in six models — but they only account for only $1 out of every $90 in revenue.</p>
+<p>In other words, virtually nobody’s willing to shell out for AI slop, meaning it’s economically almost valueless.</p>
+<p>“Buyers are voting with their wallets, and AI-generated content is struggling to compete,” the company noted in a press release about its most recent <a href="https://drive.google.com/file/d/1IGRx9TiLZPONJuwUhdIK0jDJG1mZ15y3/view">2026 market trends report</a>, as quoted by <em>404</em>.</p>
+<p>The trend suggests there’s a growing “gap that undercuts the assumption that AI-made content is repricing the market.”</p>
+<p>“The upload numbers alone would suggest a takeover,” the company noted. “The revenue numbers say otherwise, and buyers refusing to pay for AI-generated models is saying something bigger than no thanks: it is a signal of how far they trust AI generation itself.”</p>
+<p>“Which leaves the question the industry has been avoiding: an AI model may be cheaper to produce, but what is it actually worth?” CGTrader noted in its press release.</p>
+<p>Buyers polled by CGTrader overwhelmingly say they aren’t willing to buy AI-generated assets because they’re far lower quality than human-made ones. According to a customer survey, 20 percent “tried AI and found it not good enough,” according to the site. Only four percent of buyers of 3D printing models said AI “works well,” suggesting that translating AI models into a physical object remains a major challenge.</p>
+<p>The trend perfectly highlights how vast swathes of the internet are being drowned out by AI slop — and how users are feeling inundated by it against their will. Now that AI slop is overtaking humans in <a href="https://futurism.com/artificial-intelligence/dead-internet-theory-come-true">terms of internet traffic</a> and <a href="https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-slop">content</a>, online marketplaces could start feeling the effects of disillusioned users refusing to open their wallets as well.</p>
+<p>That means companies like CGTrader will have to tread carefully by highlighting human-made content.</p>
+<p>“AI uploads are currently growing faster than AI purchases, which makes effective discovery and ranking increasingly important,” CGTrader CEO Dalia Lašaitė told <em>404 Media</em>. “Our approach is to prioritize quality and performance signals rather than raw volume, including how an asset performs commercially, how buyers rate it and other indicators of quality.”</p>
