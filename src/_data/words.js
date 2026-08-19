@@ -470,6 +470,34 @@ module.exports = (() => {
     {
       term: 'accroach',
       definition: 'to try to seize power or authority that isn\'t rightfully yours'
+    },
+    {
+      term: 'vivifier',
+      definition: 'something that brings energy or liveliness to something else'
+    },
+    {
+      term: 'vermiform',
+      definition: 'long and thin, shaped like a worm'
+    },
+    {
+      term: 'overmatter',
+      definition: 'Extra text or content in a publication that must be trimmed to fit.'
+    },
+    {
+      term: 'retiform',
+      definition: 'shaped like a net'
+    },
+    {
+      term: 'tetrameter',
+      definition: 'a line of verse with four metrical feet'
+    },
+    {
+      term: 'omphalos',
+      definition: '1. An ancient religious stone artifact, or baetylus, used to denote the direction of the "center" of the world. 2. The theological proposition that the world was created with certain indicia of a history which had not actually occurred (such as the humans who had never been connected to umbilical cords being created with navels). 3. The navel. 4. A raised central point; a boss. 5. The center or hub.',
+      cite: {
+        href: 'https://en.wiktionary.org/wiki/omphalos',
+        name: 'Wiktionary',
+      },
     }
   ].sort((a, b) => {
     //a.term = a.term.toLowerCase()
