@@ -85,8 +85,15 @@ module.exports = async function () {
 			})
 			.then((items) =>
 				items.map(async (item) => {
-					const book = await fetch(item.inReplyToBook + ".json")
-						.then((res) => res.json())
+					const book = await fetch(item.inReplyToBook + ".json");
+          let fetchedBook;
+          try { 
+            fetchedBook = await book.then((res) => res.json());
+          } catch (e) {
+            new Error(`Failed to fetch book: ${item.inReplyToBook}`);
+            return false; 
+          }
+          const bookJSON = await fetchedBook
 						.then((edition) => {
 							const authors = edition.authors.map((author) => {
 								return fetch(author + ".json")
@@ -117,7 +124,7 @@ module.exports = async function () {
 						published: new Date(item.published),
 						rating: item.rating,
 						content: item.content,
-						book,
+						bookJSON,
 					};
 				})
 			)
