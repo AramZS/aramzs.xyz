@@ -1,0 +1,36 @@
+---
+author: Megan Molteni
+cover_image: >-
+  https://www.statnews.com/wp-content/uploads/2025/12/SS_Wordpress_MetaImage-1-1024x576.jpg
+date: '2026-08-24T04:59:55.443Z'
+dateFolder: 2026/08/24
+description: >-
+  An eight-decade partnership between universities and the federal government
+  made U.S. science preeminent. It took Trump less than a year to shred that
+isBasedOn: 'https://www.statnews.com/american-science-shattered/'
+link: 'https://www.statnews.com/american-science-shattered/'
+slug: 2026-08-24-httpswwwstatnewscomamerican-science-shattered
+tags:
+  - science
+  - politics
+  - baselines
+title: 'Read American Science, Shattered'
+---
+<figure><img alt="" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.statnews.com/wp-content/uploads/2025/12/SS-Wordmark_ForLandingPage-2048x608.png" srcset="https://www.statnews.com/wp-content/uploads/2025/12/SS-Wordmark_ForLandingPage-1024x304.png 1024w, https://www.statnews.com/wp-content/uploads/2025/12/SS-Wordmark_ForLandingPage-328x97.png 328w, https://www.statnews.com/wp-content/uploads/2025/12/SS-Wordmark_ForLandingPage-768x228.png 768w, https://www.statnews.com/wp-content/uploads/2025/12/SS-Wordmark_ForLandingPage-500x148.png 500w, https://www.statnews.com/wp-content/uploads/2025/12/SS-Wordmark_ForLandingPage-2048x608.png 2048w, https://www.statnews.com/wp-content/uploads/2025/12/SS-Wordmark_ForLandingPage-1600x475.png 1600w, https://www.statnews.com/wp-content/uploads/2025/12/SS-Wordmark_ForLandingPage-640x190.png 640w"/></figure>
+<p>An eight-decade partnership between universities and the federal government made U.S. science preeminent.</p>
+<p><strong>It took Trump less than a year to shred that crucial alliance.</strong></p>
+<p>A multipart series on how the Trump administration has disrupted labs, upended lives, and delayed discoveries</p>
+<figure><img src="https://www.statnews.com/wp-content/uploads/2025/11/STAT_Trump_HHS_1.2.jpg"/> </figure>
+<figure><img alt="" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.statnews.com/wp-content/uploads/2025/11/StatNewsBrie-53-2048x1365.jpg" srcset="https://www.statnews.com/wp-content/uploads/2025/11/StatNewsBrie-53-1024x683.jpg 1024w, https://www.statnews.com/wp-content/uploads/2025/11/StatNewsBrie-53-328x219.jpg 328w, https://www.statnews.com/wp-content/uploads/2025/11/StatNewsBrie-53-768x512.jpg 768w, https://www.statnews.com/wp-content/uploads/2025/11/StatNewsBrie-53-500x333.jpg 500w, https://www.statnews.com/wp-content/uploads/2025/11/StatNewsBrie-53-2048x1365.jpg 2048w, https://www.statnews.com/wp-content/uploads/2025/11/StatNewsBrie-53-1600x1067.jpg 1600w, https://www.statnews.com/wp-content/uploads/2025/11/StatNewsBrie-53-640x427.jpg 640w, https://www.statnews.com/wp-content/uploads/2025/11/StatNewsBrie-53-864x576.jpg 864w"/></figure>
+<figure><img alt="" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://www.statnews.com/wp-content/uploads/2025/12/RAZE_Breanna_Smallwood_006-2048x1463.jpg" srcset="https://www.statnews.com/wp-content/uploads/2025/12/RAZE_Breanna_Smallwood_006-1024x731.jpg 1024w, https://www.statnews.com/wp-content/uploads/2025/12/RAZE_Breanna_Smallwood_006-328x234.jpg 328w, https://www.statnews.com/wp-content/uploads/2025/12/RAZE_Breanna_Smallwood_006-768x549.jpg 768w, https://www.statnews.com/wp-content/uploads/2025/12/RAZE_Breanna_Smallwood_006-500x357.jpg 500w, https://www.statnews.com/wp-content/uploads/2025/12/RAZE_Breanna_Smallwood_006-2048x1463.jpg 2048w, https://www.statnews.com/wp-content/uploads/2025/12/RAZE_Breanna_Smallwood_006-1600x1143.jpg 1600w, https://www.statnews.com/wp-content/uploads/2025/12/RAZE_Breanna_Smallwood_006-640x457.jpg 640w, https://www.statnews.com/wp-content/uploads/2025/12/RAZE_Breanna_Smallwood_006-806x576.jpg 806w"/></figure>
+<figure><img alt="" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://www.statnews.com/wp-content/uploads/2025/12/November-6-2025_Quackenbush_125-2048x1365.jpg" srcset="https://www.statnews.com/wp-content/uploads/2025/12/November-6-2025_Quackenbush_125-1024x683.jpg 1024w, https://www.statnews.com/wp-content/uploads/2025/12/November-6-2025_Quackenbush_125-328x219.jpg 328w, https://www.statnews.com/wp-content/uploads/2025/12/November-6-2025_Quackenbush_125-768x512.jpg 768w, https://www.statnews.com/wp-content/uploads/2025/12/November-6-2025_Quackenbush_125-500x333.jpg 500w, https://www.statnews.com/wp-content/uploads/2025/12/November-6-2025_Quackenbush_125-2048x1365.jpg 2048w, https://www.statnews.com/wp-content/uploads/2025/12/November-6-2025_Quackenbush_125-1600x1067.jpg 1600w, https://www.statnews.com/wp-content/uploads/2025/12/November-6-2025_Quackenbush_125-640x427.jpg 640w, https://www.statnews.com/wp-content/uploads/2025/12/November-6-2025_Quackenbush_125-864x576.jpg 864w"/></figure>
+<figure><img src="https://www.statnews.com/wp-content/uploads/2025/12/LJS7298.jpg"/> </figure>
+<figure><img alt="" sizes="auto, (max-width: 1024px) 100vw, 1024px" src="https://www.statnews.com/wp-content/uploads/2025/12/STAT-Harvey-1-2-2048x1152.jpg" srcset="https://www.statnews.com/wp-content/uploads/2025/12/STAT-Harvey-1-2-1024x576.jpg 1024w, https://www.statnews.com/wp-content/uploads/2025/12/STAT-Harvey-1-2-328x185.jpg 328w, https://www.statnews.com/wp-content/uploads/2025/12/STAT-Harvey-1-2-768x432.jpg 768w, https://www.statnews.com/wp-content/uploads/2025/12/STAT-Harvey-1-2-500x281.jpg 500w, https://www.statnews.com/wp-content/uploads/2025/12/STAT-Harvey-1-2-2048x1152.jpg 2048w, https://www.statnews.com/wp-content/uploads/2025/12/STAT-Harvey-1-2-1600x900.jpg 1600w, https://www.statnews.com/wp-content/uploads/2025/12/STAT-Harvey-1-2-640x360.jpg 640w"/></figure>
+<figure><img src="https://www.statnews.com/wp-content/uploads/2025/12/LL_DSC8045.jpg"/> </figure>
+<figure><img alt="" sizes="auto, (max-width: 2878px) 100vw, 2878px" src="https://www.statnews.com/wp-content/uploads/2025/12/SS_Wordmark_EmailCapture.png" srcset="https://www.statnews.com/wp-content/uploads/2025/12/SS_Wordmark_EmailCapture.png 2878w, https://www.statnews.com/wp-content/uploads/2025/12/SS_Wordmark_EmailCapture-328x29.png 328w, https://www.statnews.com/wp-content/uploads/2025/12/SS_Wordmark_EmailCapture-1024x91.png 1024w, https://www.statnews.com/wp-content/uploads/2025/12/SS_Wordmark_EmailCapture-768x69.png 768w, https://www.statnews.com/wp-content/uploads/2025/12/SS_Wordmark_EmailCapture-500x45.png 500w, https://www.statnews.com/wp-content/uploads/2025/12/SS_Wordmark_EmailCapture-2048x183.png 2048w, https://www.statnews.com/wp-content/uploads/2025/12/SS_Wordmark_EmailCapture-1600x143.png 1600w, https://www.statnews.com/wp-content/uploads/2025/12/SS_Wordmark_EmailCapture-640x57.png 640w"/></figure>
+<p><em><strong>Reporting and writing</strong></em> Megan Molteni, Anil Oza, Eric Boodman, Angus Chen, Theresa Gaffney, Andrew Joseph, Sarah Todd, and Jonathan Wosen</p>
+<p><em><strong>Data analysis and graphics</strong></em> J. Emory Parker</p>
+<p><em><strong>Editing</strong></em> Gideon Gil and Laura Chang</p>
+<p><em><strong>Art and photo direction</strong></em> Alissa Ambrose and Crystal Milner</p>
+<p><em><strong>Copy editing</strong></em> Amanda Erickson and Sarah Mupo</p>
+<p><strong><em>Design and development</em> </strong>Julia Bujalski, Jennifer Weygand, and Ben Lokshin</p>
