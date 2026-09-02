@@ -1,0 +1,21 @@
+---
+author: Jarrod Jones
+cover_image: >-
+  https://img.pastemagazine.com/wp-content/avuploads/2026/07/23212443/Ebenezer-teaser-feature.jpg
+date: '2026-09-01T12:06:19.560Z'
+dateFolder: 2026/09/01
+description: 'Ti West''s Ebenezer will ponder whether Scrooge had a point, actually'
+isBasedOn: 'https://www.avclub.com/scrooge-gray-area-ebenezer-johnny-depp'
+link: 'https://www.avclub.com/scrooge-gray-area-ebenezer-johnny-depp'
+slug: 2026-09-01-httpswwwavclubcomscrooge-gray-area-ebenezer-johnny-depp
+tags:
+  - film
+title: 'Ti West''s Ebenezer will ponder whether Scrooge had a point, actually'
+---
+<figure><img alt="Ti West's Ebenezer will ponder whether Scrooge had a point, actually" src="https://img.pastemagazine.com/wp-content/avuploads/2026/07/23212443/Ebenezer-teaser-feature.jpg"/></figure>
+<p>Perhaps nothing says “2026” like a once-disgraced actor making a comeback in a film that asks questions like: What if a famously nasty, evil rich guy actually had a point? This is what we all have to look forward to this fall with <i>Ebenezer</i>, a new take on <i>A Christmas Carol </i>from <i>Pearl</i> director Ti West and starring Johnny Depp. The film is the subject of a <a href="https://ew.com/ebenezer-ian-mckellen-tramell-tillman-first-look-johnny-depp-scrooge-charm-12071037">new preview in <i>Entertainment Weekly</i></a> this morning, which very briefly references Depp’s trial with ex-wife Amber Heard before making the case that, sure, Ebenezer Scrooge was “an unlikable guy, but there’s a certain sense of humor and charm to it as well,” according to West.</p>
+<p>Of course, <i>Ebenezer </i>is Depp’s first big film appearance since a trial centered on whether Heard was legally allowed to say that he beat her. (A <a href="https://www.avclub.com/oh-darn-johnny-depp-lost-his-libel-case-against-tabloi-1845550194">judge in the United Kingdom ruled in 2020</a> that the allegation that Depp was a “wife beater” was “substantially true.”) Still, we have to admit we’re a little surprised to see that the film will also be image rehab for the Charles Dickens character, too. “In other adaptations, Scrooge is kind of an asshole, and then the rest of the characters are benevolent, perfect people. And it was really our goal to try to balance that out to say that there’s much more of a gray area in the story,” West tells <i>EW</i>. “We want to give Scrooge logic and a good argument, so when he is making an argument about something, he’s not wrong.”</p>
+<p>West continues, “As his Scrooge cuts someone down verbally or as he makes a financial point or withdraws, you do understand why he’s doing it.” For example, how would we have guessed that Scrooge wants Bob Cratchit to work on Christmas because it would net him more money? But as West goes on, it’s hard not to read his comments as applying to both Scrooge and the actor who plays him (an actor <a href="https://www.avclub.com/johnny-depp-test-audiences-ebenezer">that test audiences have already indicated they’re pretty fine with</a>). “You find yourself liking a character that you’re not supposed to on paper, which then brings you as the audience into the movie more because you’re experiencing the movie subjectively as he is, rather than just seeing it as a play,” West says. Apparently there are circumstances in which you “gotta hand it” to Ebenezer Scrooge.</p>
+<figure><img alt="Star Wars and RoboCop special effects artist Phil Tippett closes legendary Berkeley studio" src="https://img.pastemagazine.com/wp-content/avuploads/2026/08/31100738/tippett-header.jpg"/><figcaption>Star Wars and RoboCop special effects artist Phil Tippett closes legendary Berkeley studio</figcaption></figure>
+<figure><img alt="Coyote Vs. Acme drops anvil on The Dog Stars at the weekend box office" src="https://img.pastemagazine.com/wp-content/avuploads/2026/08/11185825/coyote-vs-acme-header.jpg"/><figcaption>Coyote Vs. Acme drops anvil on The Dog Stars at the weekend box office</figcaption></figure>
+<figure><img alt="Shailene Woodley still pretty bummed she got cut as Andrew Garfield's Mary Jane" src="https://img.pastemagazine.com/wp-content/avuploads/2024/09/10110709/MixCollage-10-Sep-2024-11-05-AM-7630.jpg"/><figcaption>Shailene Woodley still pretty bummed she got cut as Andrew Garfield's Mary Jane</figcaption></figure>
