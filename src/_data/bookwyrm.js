@@ -69,6 +69,14 @@ module.exports = async function () {
       let data = { next: false }
       try {
 			  data = await fetchUrl(url);
+        if (!data.ok) {
+          console.log(
+            chalk.blue("[@photogabble/bookwyrm]"),
+            chalk.yellow("Fetch not ok, early exit."),
+            `HTTP error! Status: ${data.status}`
+          );
+          return books;
+        } 
         data = data.json();
       } catch (e) {
         console.log(
