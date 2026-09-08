@@ -68,7 +68,8 @@ module.exports = async function () {
 			let url = `https://${buildData.bookwyrm.instance}/user/${username}/shelf/${shelf}.json?page=${nextPage}`;
       let data = { next: false }
       try {
-			  data = await fetchUrl(url).then((res) => res.json());
+			  data = await fetchUrl(url);
+        data = data.json();
       } catch (e) {
         console.log(
           chalk.blue("[@photogabble/bookwyrm]"),
@@ -77,7 +78,14 @@ module.exports = async function () {
         );
         return books;
       }
-
+      if (!data || !data.orderedItems) {
+        console.log(
+          chalk.blue("[@photogabble/bookwyrm]"),
+          chalk.yellow("NO DATA"),
+          "No data returned for this shelf, skipping."
+        );
+        return books;
+      }
 			for (const item of data.orderedItems) {
 				if (!item.openlibraryKey) {
 					console.warn(

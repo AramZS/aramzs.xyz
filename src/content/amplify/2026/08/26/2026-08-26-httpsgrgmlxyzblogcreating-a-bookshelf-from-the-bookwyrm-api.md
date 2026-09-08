@@ -17,7 +17,7 @@ title: Creating a bookshelf from the BookWyrm API
 <p>I use <a href="https://bookwyrm.social">BookWyrm</a> to track my reading. I switched from Goodreads to BookWyrm in 2023, right after I started using Mastodon and become more acquainted to the Fediverse in general, so ditching the Amazon-owned book platform for an independent one on fedi was a no-brainer. The platform does a decent job as a reading catalog, and since it's powered by ActivityPub it's part of the social web, meaning you can follow and interact with a BookWyrm account from anywhere in the Fediverse. Due to the fact that it doesn't have a lot of users, you won't find many reviews and ratings, and you may need to manually add books yourself, but that's the fun part, since you get to enrich a free and common library with new titles.</p>
 <p>Now apart from being a fedi-appreciator, I'm also trying to play by this indieweb thing, where you're supposed to have most of (or everything?) you post online documented on your personal website. I've <a href="https://grgml.xyz/blog/syndicating-posts-to-mastodon-via-the-gitlab-pipeline/">automated the cross-posting between my site and my Mastodon</a>, so that I can post my updates here and have them automatically syndicated to my Mastodon account (the POSSE method), but this would be kind of impractical in the case of BookWyrm, because I would need to refer to books that exist on the server, whose ids I don't know beforehand, and mark them as read or add them to lists. And BookWyrm doesn't even offer a way to do this as far as I know (or at least Bridgy doesn't do that). So in this case I'm going with the PESOS model (Publish Elsewhere, Syndicate to your Own Site), where I post the updates on BookWyrm and aggregate my activity in my website in the form of a bookshelf.</p>
 <p>I could do this manually of course, post it on BookWyrm and then create an entry in my site, but since there is a shorter an funnier way i decided to try it out. BookWyrm doesn't offer an extensive client API, but offers just enough for you to create a simple shelf with what you've been reading and are currently reading. You can get a JSON object with one of your shelves by hitting the following endpoint:</p>
-<pre><code>`https://bookwyrm.social/user/${user}/shelf/${shelf}.json?page=${page}`</code></pre>
+<pre><code>`https://bookwyrm.social/user/\user}/shelf/\shelf}.json?page=\page}`</code></pre>
 <p>The different shelves you can find in the books section of your profile (to-read, currently-reading, read and stopped-reading), and you'll get a paginated result for all the pages you request. I didn't find a way to get all results in one call (page size seems to be hard-coded to 15), so I wrote this custom script to create an array of all books.</p>
 <p>I am using the <a href="https://www.11ty.dev/docs/plugins/fetch/">Eleventy Fetch</a> plugin to fetch and cache my results and avoid unnecessary calls during development, and using a global data file to expose the results to all the templates in my project, although I'm currently using them just in one page.</p>
 <p>So first, create a <code>books.js</code> file inside the <code>_data</code> folder.</p>
@@ -33,8 +33,8 @@ module.exports = async function () {
 <p>Next let's use a while loop to go through all pages:</p>
 <pre><code>while (hasNext) {
 	try {
-		// fetch results for page=${page}, initially page=1
-		let json = await Fetch(`${url}?page=${page}`, {
+		// fetch results for page=\page}, initially page=1
+		let json = await Fetch(`\url}?page=\page}`, {
 			duration: "1d", // save for 1 day
 			type: "json", // automatically parse JSON
 		});
@@ -132,18 +132,18 @@ return books</code></pre>
 }</code></pre>
 <p>Finally, in our bookshelf page, we can use the following nunjucks template to render all books:</p>
 <pre><code>&lt;div class="grid books"&gt;
-{% for book in books %}
+\% for book in books %}
 	&lt;!-- if year != book.year it marks the start of a new year --&gt;
-	{% if year != book.year %}
-		{% set year = book.year %}
+	\% if year != book.year %}
+		\% set year = book.year %}
 		&lt;!--at the start of each year add a heading as visual delimiter --&gt;
 		&lt;h2 class="heading"&gt;{{ book.year }}&lt;/h2&gt;
-	{% endif %}
+	\% endif %}
 	&lt;!--add .current class to the book(s) you're currently reading --&gt;
-	&lt;article {% if book.current %}class="current"{%endif%}&gt;
+	&lt;article \% if book.current %}class="current"\%endif%}&gt;
 		&lt;img src="{{book.coverUrl}}" alt="Cover image for {{ book.title }}" /&gt;
 		&lt;p class="title"&gt;&lt;a href="{{book.id}}"&gt;{{ book.title }}&lt;/a&gt;&lt;/p&gt;
 	&lt;/article&gt;
-{% endfor %}
+\% endfor %}
 &lt;/div&gt;</code></pre>
 <p>And like this, you get something like what I got in my <a href="https://grgml.xyz/bookshelf">/bookshelf page</a>.</p>
