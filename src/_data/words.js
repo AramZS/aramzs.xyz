@@ -498,6 +498,14 @@ module.exports = (() => {
         href: 'https://en.wiktionary.org/wiki/omphalos',
         name: 'Wiktionary',
       },
+    },
+    {
+      term: 'ochlocracy',
+      definition: 'Mob rule or ochlocracy or mobocracy is a pejorative term describing an oppressive majoritarian form of government controlled by the common people through the intimidation of authorities. Ochlocracy is distinguished from democracy or similarly legitimate and representative governments by the absence or impairment of a procedurally civil process reflective of the entire polity',
+      cite: {
+        href: 'https://en.wikipedia.org/wiki/Mob_rule',
+        name: 'Wikipedia',
+      }
     }
   ].sort((a, b) => {
     //a.term = a.term.toLowerCase()
