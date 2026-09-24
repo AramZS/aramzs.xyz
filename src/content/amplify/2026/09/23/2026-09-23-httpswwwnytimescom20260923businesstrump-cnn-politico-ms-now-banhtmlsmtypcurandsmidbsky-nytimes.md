@@ -1,0 +1,24 @@
+---
+author: Erik Wemple
+cover_image: >-
+  https://static01.nyt.com/images/2026/09/22/multimedia/22biz-white-house-response-ban-HFO-zkwf/22biz-white-house-response-ban-HFO-zkwf-articleLarge.jpg
+date: '2026-09-23T04:48:55.929Z'
+dateFolder: 2026/09/23
+description: >-
+  White House officials said in a court filing Tuesday that President Trump had
+  determined that CNN, MS NOW and Politico had breached standards of conduct,
+  leading to their expulsion from the grounds of the White House.
+isBasedOn: >-
+  https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html?smtyp=cur&smid=bsky-nytimes
+link: >-
+  https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html?smtyp=cur&smid=bsky-nytimes
+slug: >-
+  2026-09-23-httpswwwnytimescom20260923businesstrump-cnn-politico-ms-now-banhtmlsmtypcurandsmidbsky-nytimes
+tags:
+  - media
+  - politics
+  - baselines
+  - law and order
+title: 'In Court Filing Defending Media Ban, White House Says Access Is a ‘Privilege’'
+---
+<p>White House officials said in <a href="https://storage.courtlistener.com/recap/gov.uscourts.dcd.296754/gov.uscourts.dcd.296754.16.0.pdf">a court filing</a> Tuesday that President Trump had determined that CNN, MS NOW and Politico had breached standards of conduct, leading to their expulsion from the grounds of the White House. </p><p>The alleged violations, said the filing, include “trafficking in verifiable falsehoods about national security and other issues, and publishing sensitive or classified information.”</p><p>“Access to the White House is a privilege — not a right,” reads the filing, which argues that Mr. Trump’s action against the three news outlets does not violate the First Amendment and aligns with a long history of presidents favoring some journalists over others. </p><p>The filing, furthermore, claims that the White House’s denial of access is a preliminary matter and that the outlets have until Friday to contest the decision. </p><p>The clash began Friday, when Mr. Trump announced on Truth Social, the platform that he owns, that he would ban the three outlets, saying they “shouldn’t be able to constantly write or report FICTION and LIES.”  On Saturday morning, journalists from CNN, MS NOW and Politico were denied access to the White House grounds and had their press passes confiscated.</p><p><a href="https://storage.courtlistener.com/recap/gov.uscourts.dcd.296754/gov.uscourts.dcd.296754.1.0_1.pdf">By Monday morning</a>, the news organizations had sued, arguing that the president’s ban “brazenly discriminates based on editorial viewpoint,” and was an affront to their First Amendment rights. They said that the move had blindsided its targets, depriving the outlets of the warning that any such drastic action required. They “received <em>zero</em> advance notice that the president would ban a news organization from the White House if he dislikes its coverage,” according to the complaint.</p><p>U.S. District Judge Timothy J. Kelly, who was nominated in 2017 by Mr. Trump, will hold an emergency hearing on Wednesday to consider the media outlets’ request for a temporary court order undoing the access ban. </p><p>The government filing Tuesday night included copies of letters sent earlier in the day to each banned news outlet. In addition to accusing the organizations of failing to meet standards of conduct, the letters identified specific stories that allegedly either spread falsehoods or threatened national security. The letter to CNN, for example, cited a January 2026 story that “disclosed ‘top-secret’ construction details related to the East Wing bunker,” the letter reads. </p><p>One of MS NOW’s alleged infractions, according to a White House letter, was a June 2026 story claiming “a source said that President Trump ‘underestimated the willingness of Iran to resume conflict.’” Politico is accused of publishing a “document detailing funding for the White House ballroom containing intricate descriptions of how the Secret Service would invest in security improvements,” according to a White House letter. </p><p>In 2018, Judge Kelly ruled against Mr. Trump in another media access case. Mr. Trump had expelled CNN reporter Jim Acosta from the White House grounds. But Judge Kelly ordered his credentials restored, saying Mr. Trump hadn’t given Mr. Acosta enough notice to challenge the action.</p><p>Other news organizations have responded to the ban with <a href="https://www.nytimes.com/2026/09/19/us/politics/news-outlets-react-trump-media-ban.html">acts of support</a> and solidarity. The consortium of five TV networks that covers the president as the so-called TV pool — ABC News, CBS News, NBC News, Fox News and CNN — suspended its immersive coverage of Mr. Trump, and some news outlets temporarily withheld publication of photos of Mr. Trump’s events.</p>
