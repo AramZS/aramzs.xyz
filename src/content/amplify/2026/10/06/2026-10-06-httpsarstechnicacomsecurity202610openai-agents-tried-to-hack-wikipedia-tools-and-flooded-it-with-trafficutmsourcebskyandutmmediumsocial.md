@@ -1,0 +1,37 @@
+---
+author: Dan Goodin
+cover_image: >-
+  https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg
+date: '2026-10-06T18:37:33.767Z'
+dateFolder: 2026/10/06
+description: The reports of OpenAI agents harming third-party sites keep coming.
+isBasedOn: >-
+  https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/?utm_source=bsky&utm_medium=social
+link: >-
+  https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/?utm_source=bsky&utm_medium=social
+slug: >-
+  2026-10-06-httpsarstechnicacomsecurity202610openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-trafficutmsourcebskyandutmmediumsocial
+tags:
+  - ai
+  - tech
+title: OpenAI agents tried to hack Wikipedia tools and flooded it with traffic
+---
+<p> <em> NO ADULT SUPERVISION </em></p>
+<p>The reports of OpenAI agents harming third-party sites keep coming.</p>
+<p><a href="https://arstechnica.com/author/dan-goodin/"> Dan Goodin </a> –  Oct 6, 2026 8:21 AM |</p>
+<figure><a data-cropped="true" data-pswp-height="686" data-pswp-srcset="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking.jpg 1200w, https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-640x366.jpg 640w, https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1024x585.jpg 1024w, https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-768x439.jpg 768w, https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-980x560.jpg 980w" data-pswp-width="1200" href="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking.jpg"><img alt="" sizes="(max-width: 1152px) 100vw, 1152px" src="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg" srcset="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg 1152w, https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-384x216.jpg 384w, https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-768x432.jpg 768w"/></a></figure>
+<p> / Credit: Getty Images</p>
+<p>Text settings</p>
+<p>The publisher of Wikipedia said Monday that OpenAI agents attempted to hack a note-taking tool it hosts, made unauthorized edits, and sent millions of resource-intensive requests to its infrastructure, in the latest instance of OpenAI systems taking harmful and potentially dangerous actions.</p>
+<p>The objective of some of the OpenAI agents’ actions, the Wikimedia Foundation <a href="https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/">said</a>, was to use Wikipedia as a proxy for fetching data from third-party sites. In one case, the agents posted “malicious edits” that were intended to repurpose a citation tool as a proxy. In another, the agents made unsuccessful attempts to compromise the Wikipedia Etherpad note-taking tool so it would serve the same purpose.</p>
+<p>The agents also made millions of automated API requests, crawled millions of pages, and made hundreds of thousands of queries to the Wikidata Query Service. The last action may have contributed to a <a href="https://wikitech.wikimedia.org/wiki/Incidents/2026-05-13_wdqs">partial shutdown</a> of the query service in May, the publisher said.</p>
+<p>“As a non-profit technology host of some of the largest and most widely used open knowledge platforms in the world, we are deeply concerned about the impact of ‘rogue’ AI agents on platforms like ours, which are built by volunteers from around the world and rely on the promise of the open internet,” Wikimedia said. “Incidents like this one, and the many others that have been (and are still being) uncovered, illustrate how AI agents can drain resources and crash servers, as well as attempt to compromise trustworthy information.”</p>
+<h2>Agents will be agents</h2>
+<p>In well over a half-dozen cases, OpenAI agents have been caught taking actions that would likely result in criminal charges being filed had human hackers taken them. During the testing of internal tools that had some of their guardrails disabled, the agents used a makeshift message board to trade notes with each other, discussing ways to hack the network of Hugging Face and obtain answers stored there when the agents were unable to generate the answers on their own.</p>
+<p>Other incidents include agents making bizarre <a href="https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/">self-generated prompts</a>, publishing unauthorized posts to a website to exchange information, accessing <a href="https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/">non-public data</a> from an Australian government website, and <a href="https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/">exploiting faulty DNS settings</a> to break out of a sandbox OpenAI had created to keep the agents from accessing the Internet.</p>
+<p>Much of the world has come to describe such events as AI agents “going rogue,” as if the agents had disobeyed orders. One of the more prominent critics of such framing is Eryk Salvaggio, an AI researcher and a Gates Scholar at the University of Cambridge.</p>
+<p>“What I see here is language models doing what language models do: reading and writing,” he told Ars. “Wikipedia’s sandboxes are an ideal place for these machines to store notes for later pickup as prompts because anyone—or anything—can write and respond to them. Using Wikis to coordinate isn’t too surprising. OpenAI has said that these models were optimized for collaboration between agents, and passing notes is a simple way to do that.”</p>
+<p>What’s more, OpenAI engineers have trained their LLMs to be persistent and continue working on a problem no matter how little success they’ve had. Training also provides rewards when LLMs find shortcuts that limit the steps or resources required to solve a problem. Another major contributor to the harmful actions was the lack of human oversight, as evidenced by the months it took OpenAI engineers to detect that the agents were making noisy incursions into dozens of outside websites. Wikimedia’s disclosure provides yet one more example of inadequate human monitoring. Taken together, it’s arguable that the agents performed exactly as instructed.</p>
+<p>OpenAI didn’t answer emailed questions. The company instead issued a statement that read: “We appreciate the detailed findings Wikimedia shared with us. We’re working with them as we review and analyze the activity they identified along with our overall investigation, and we’ll continue to share relevant information as that work progresses.”</p>
+<p>Like the investigators for Wikimedia, OpenAI said it has yet to find evidence that the AI agents left messages for coordinating with other agents or to conclusively say that the high volume of page views and API requests led to May’s partial outage. OpenAI said it’s continuing to search for similar incidents of its agents engaging in potentially illegal activities.</p>
+<p>“While OpenAI admits to agents behaving ‘unpredictably’, they must also acknowledge their responsibility to monitor and prevent these risks,” Wikimedia said. “AI companies are not doing enough to secure their systems and protect the public from the harm they cause.”</p>

@@ -1,0 +1,37 @@
+---
+author: Sahalie Donaldson
+cover_image: >-
+  https://cdn.cityandstateny.com/media/img/cd/2026/10/05/BK_dems_headline/open-graph.jpg
+date: '2026-10-06T18:42:48.063Z'
+dateFolder: 2026/10/06
+description: >-
+  Rodneyse Bichotte Hermelyn and her allies are trying everything to block
+  reformers from taking control of the county party.
+isBasedOn: >-
+  https://www.cityandstateny.com/politics/2026/10/lucas-claims-leadership-bk-dems-apparent-violation-court-order/416427/
+link: >-
+  https://www.cityandstateny.com/politics/2026/10/lucas-claims-leadership-bk-dems-apparent-violation-court-order/416427/
+slug: >-
+  2026-10-06-httpswwwcityandstatenycompolitics202610lucas-claims-leadership-bk-dems-apparent-violation-court-order416427
+tags:
+  - nyc
+  - politics
+title: Lucas claims leadership of BK Dems – in apparent violation of court order
+---
+<figure><img alt="Rodneyse Bichotte Hermelyn (left) led the Brooklyn Dems since 2020 – and it’s not clear who’ll lead them them." data-cmp-ab="2" data-cmp-info="10" src="https://cdn.cityandstateny.com/media/img/cd/2026/10/05/BK_dems_headline/860x394.jpg?1791237312"/><figcaption>Rodneyse Bichotte Hermelyn (left) led the Brooklyn Dems since 2020 – and it’s not clear who’ll lead them them. Sahalie Donaldson</figcaption></figure>
+<figure><img data-cmp-ab="2" data-cmp-info="10" src="https://cdn.cityandstateny.com/media/img/cd/2026/04/23/nyl_list_nom_v4/500xh.jpg?1776967285"/></figure>
+<figure><img alt="Sahalie Donaldson" data-cmp-ab="2" data-cmp-info="10" src="https://cdn.cityandstateny.com/media/img/cd/2026/02/05/12052025_CityState_PStudio0128-1/original.jpg?1770323599"/><figcaption><a href="https://www.cityandstateny.com/voices/sahalie-donaldson/17565/?oref=csny-post-author">Sahalie Donaldson</a></figcaption></figure>
+<p>As if the fight to lead the Brooklyn Democratic Party couldn’t become more complex, Assembly Member Rodneyse Bichotte Hermelyn and allies held a virtual meeting late Sunday night – in apparent violation of a court order – where they voted to make Assembly Member Nikki Lucas, <a href="https://www.cityandstateny.com/politics/2026/09/rodneyse-bichotte-hermelyn-backs-nikki-lucas-brooklyn-dems-chair/416291/?oref=csny-author-river">her handpicked successor,</a> chair of the party.</p>
+<p>Now a judge has <a href="https://iapps.courts.state.ny.us/fbem/DocumentDisplayServlet?documentId=b44hA9QiqA9TyI4ALKs69g==&amp;system=prod">scheduled a hearing</a> to weigh whether to hold Bichotte Hermelyn in contempt of court – while the reform faction is arguing that Rep. Nydia Velázquez is actually in control of the party.</p>
+<p>The late Sunday meeting was just the latest effort by the party’s increasingly desperate outgoing leader, Bichotte Hermelyn, to block the reformers and their choice for leader, Julio Peña III, from taking over the county organization. But the meeting appeared to be held in violation of multiple court orders, spurring a fresh wave of questions about the party’s future. Not only did Bichotte Hermelyn barrel forward with the vote <a href="https://www.cityandstateny.com/politics/2026/09/court-delays-brooklyn-dems-leader-vote/416321/?oref=csny-author-river">despite the temporary injunction</a> halting it ordered by a state supreme court judge last week, but she and allies proceeded as if the new rules adding new members to the party’s executive committee were still in place, <a href="https://www.cityandstateny.com/politics/2026/09/judge-blocks-rodneyse-bichotte-hermelyns-bk-dems-rules-overhaul/415982/?oref=csny-author-river">despite a Brooklyn Supreme Court </a>and an appeals court ruling that they were illegal.</p>
+<p>During the 10 p.m. meeting, Lucas only got the votes of 13 of the 42 district leaders who’d been elected in the June primary – well shy of the majority she’d need to take the helm of the Brooklyn Democratic Party. But since she also got 21 votes from the expanded executive committee’s 26 new members, Bichotte Hermelyn and allies <a href="https://myemail.constantcontact.com/-Correction--NEW-PARTY-CHAIR-ELECTED--ASSEMBLYWOMAN-NIKKI-I--LUCAS.html?soid=1134275036502&amp;aid=_hrKpk7GNsM">claimed this constituted victory.</a> So did Lucas.</p>
+<p>“I am deeply honored by the vote of confidence from my fellow District Leaders and our Executive Committee,” Lucas said in a statement shared by the party on Monday. “This is bigger than any one person, any one group or any one election. Brooklyn is strongest when we work together, and I am committed to building a party where people feel welcomed, respected and empowered to participate.”</p>
+<p>Just four district leaders attended the 10 p.m. meeting, which attendees were informed about Sunday morning. The rest of Lucas’ votes came from proxies.</p>
+<p>Lawyers for the coalition of reformer district leaders seeking to <a href="https://www.cityandstateny.com/politics/2026/08/new-kingmaker/415444/">elect Peña</a> as party leader filed paperwork Monday morning requesting a judge to hold Bichotte Hermelyn and others who participated in the Sunday night vote <a href="https://iapps.courts.state.ny.us/nyscef/ViewDocument?docIndex=41VBK8RacR9kVOWaHoWotg==">in contempt of court.</a> That was just the latest in a flurry of legal filings over the last nearly two months.</p>
+<p>“Back to court again. So, so, dumb,” Mark Hanna, a district leader and lawyer for the reformers, told City &amp; State. While Peña and the rest of the district leaders in the reform coalition skipped the meeting not wanting to legitimize it or violate the stay, Hanna attended so he could observe proceedings.</p>
+<p>Ahead of the meeting, he’d <a href="https://x.com/SahalieD/status/2106906167914205590">sent a letter and a cease and desist</a> to prospective attendees claiming that anyone who participated in the vote would be violating the temporary restraining order, that was put in place on Sept. 29 in order to hold off any vote. Hanna argued that holding the meeting opened up participants to civil penalties.</p>
+<p>Screenshots shared by Hanna show that his message again warning of this in the meeting’s chat was promptly deleted by organizers.</p>
+<p>Bichotte Hermelyn did not respond to a request for comment.</p>
+<p>Reformers and Bichotte Hermelyn and her allies have been battling for months – ever since the former’s coalition won enough seats in the June primary to give them a majority on the party’s executive committee. Concerned that the reformers would vote her out of power, Bichotte Hermelyn convened a vote that included outgoing district leaders to approve rules adding dozens of new members to the executive committee. Reformers sued, ultimately winning in both the lower and appeals court.</p>
+<p>It’s been a chaotic, complex, seemingly endless saga. In another recent twist, the reformer ally and retiring Congress member Velázquez was elevated to chair of the party’s county committee after outgoing party leadership neglected to put their own candidate on the ballot. In a ruling late last week, a Supreme Court judge ruled that Bichotte Hermelyn’s term had ended and that Velázquez was now <a href="https://www.cityandstateny.com/politics/2026/10/velazquez-not-bichotte-hermelyn-leads-bk-dems-judge-rules/416403/?oref=csny-author-river">the party’s reigning authority</a> in the interim.</p>
+<p>Both sides of the Brooklyn Democratic Party are slated to return to court Tuesday morning. Should the judge lift the temporary injunction, reformers contend that Velázquez would then have the authority to call a vote for chair.</p>
