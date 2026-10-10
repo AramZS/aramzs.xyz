@@ -1,0 +1,87 @@
+---
+author: James Hercher
+cover_image: >-
+  https://www.adexchanger.com/wp-content/uploads/2026/10/HI.RES_.king_.tim_.cartoon.jpeg
+date: '2026-10-09T16:06:07.485Z'
+dateFolder: 2026/10/09
+description: >-
+  Against the backdrop of Advertising Week New York this week, the programmatic
+  ecosystem has been buzzing madly like the inhabitants of an overturned
+  beehive. That’s because Apple’s latest operating system update, iOS 27, which
+  launched in mid-September, has been, without warning, unconditionally blocking
+  data and identity vendors. The original list included LiveRamp, Permutive,
+  Audigent (now […]
+isBasedOn: >-
+  https://www.adexchanger.com/platforms/how-data-and-ad-tech-vendors-are-preparing-for-the-ios-27-fallout/
+link: >-
+  https://www.adexchanger.com/platforms/how-data-and-ad-tech-vendors-are-preparing-for-the-ios-27-fallout/
+slug: >-
+  2026-10-09-httpswwwadexchangercomplatformshow-data-and-ad-tech-vendors-are-preparing-for-the-ios-27-fallout
+tags:
+  - ad tech
+title: How Data And Ad Tech Vendors Are Preparing For The iOS 27 Fallout
+---
+<p><a data-uw-original-href="/#linkedin" data-uw-rm-brl="PR" data-uw-rm-ext-link="" href="https://www.adexchanger.com/#linkedin"></a><a data-uw-original-href="/#email" data-uw-rm-brl="PR" data-uw-rm-ext-link="" href="https://www.adexchanger.com/#email"></a><a data-uw-original-href="/#x" data-uw-rm-brl="PR" data-uw-rm-ext-link="" href="https://www.adexchanger.com/#x"></a><a data-uw-original-href="/#facebook" data-uw-rm-brl="PR" data-uw-rm-ext-link="" href="https://www.adexchanger.com/#facebook"></a><a data-uw-original-href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.adexchanger.com%2Fplatforms%2Fhow-data-and-ad-tech-vendors-are-preparing-for-the-ios-27-fallout%2F&amp;title=How%20Data%20And%20Ad%20Tech%20Vendors%20Are%20Preparing%20For%20The%20iOS%2027%20Fallout%20%7C%20AdExchanger" data-uw-rm-brl="PR" data-uw-rm-ext-link="" data-wpel-link="external" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.adexchanger.com%2Fplatforms%2Fhow-data-and-ad-tech-vendors-are-preparing-for-the-ios-27-fallout%2F&amp;title=How%20Data%20And%20Ad%20Tech%20Vendors%20Are%20Preparing%20For%20The%20iOS%2027%20Fallout%20%7C%20AdExchanger"></a></p>
+<figure><img alt='A king in a robe sits on a throne with an Apple logo, holding a flag that says "OPT INS," while people kneel and plead for more time.' data-uw-rm-alt="BE" data-uw-rm-alt-hash="6102973986532627" data-uw-rm-alt-original="" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.adexchanger.com/wp-content/uploads/2021/03/HI.RES_.king_.tim_.cartoon-2048x1840.jpg" srcset="https://www.adexchanger.com/wp-content/uploads/2021/03/HI.RES_.king_.tim_.cartoon-1024x920.jpg 1024w, https://www.adexchanger.com/wp-content/uploads/2021/03/HI.RES_.king_.tim_.cartoon-300x270.jpg 300w, https://www.adexchanger.com/wp-content/uploads/2021/03/HI.RES_.king_.tim_.cartoon-768x690.jpg 768w, https://www.adexchanger.com/wp-content/uploads/2021/03/HI.RES_.king_.tim_.cartoon-1536x1380.jpg 1536w, https://www.adexchanger.com/wp-content/uploads/2021/03/HI.RES_.king_.tim_.cartoon-2048x1840.jpg 2048w"/><figcaption>A king in a robe sits on a throne with an Apple logo, holding a flag that says "OPT INS," while people kneel and plead for more time.</figcaption></figure>
+<p>Against the backdrop of Advertising Week New York this week, the programmatic ecosystem has been buzzing madly like the inhabitants of an overturned beehive.</p>
+<p>That’s because Apple’s latest operating system update, iOS 27, which launched in mid-September, has been, without warning, unconditionally blocking data and identity vendors. The original list included LiveRamp, Permutive, Audigent (now owned by Experian) and the Unified ID 2.0 program, as well as <a data-uw-original-href="https://www.adexchanger.com/platforms/apples-latest-operating-system-blocks-the-trade-desk-from-serving-ads-on-safari/" data-uw-rm-brl="PR" data-wpel-link="internal" href="https://www.adexchanger.com/platforms/apples-latest-operating-system-blocks-the-trade-desk-from-serving-ads-on-safari/">The Trade Desk’s adsrvr.org</a>, its root domain for serving ads.</p>
+<p>Earlier this week, Apple released a new WebKit beta – iOS 27.2, for those keeping track – that removes The Trade Desk’s adsrvr.org from the blocklist, which is, phew, good news for TTD.</p>
+<p>But this doesn’t mean the overarching problem is solved.</p>
+<p><a data-uw-original-href="https://www.adexchanger.com/privacy/apple-has-far-reaching-plans-to-block-hundreds-of-programmatic-data-companies-from-ios/" data-uw-rm-brl="PR" data-wpel-link="internal" href="https://www.adexchanger.com/privacy/apple-has-far-reaching-plans-to-block-hundreds-of-programmatic-data-companies-from-ios/">As AdExchanger reported</a> after conversations with sources who have knowledge of the WebKit group’s plans, Apple is devising a far more expansive potential blocklist list that would include hundreds of ad tech, mar tech and identity vendors that handle user data and device IDs.</p>
+<p>AdExchanger has now spoken with most of the known principals involved in the story (as in, the companies blocked by iOS 27) as well as with others working closely with the Apple WebKit group, although no Apple exec or insider has responded to requests for comment.</p>
+<p>Here is what we learned.</p>
+<p><strong>The TTD fix</strong></p>
+<p>The first and most visible casualty of Apple’s iOS 27 surprise was The Trade Desk.</p>
+<p>But after weeks of uncertainty, WebKit’s ad tech leader John Wilander <a data-uw-original-href="https://bugs.webkit.org/show_bug.cgi?id=324771" data-uw-rm-brl="PR" data-uw-rm-ext-link="" data-wpel-link="external" href="https://bugs.webkit.org/show_bug.cgi?id=324771">informed</a> The Trade Desk engineering’s leader Ian Meyers of the iOS 27.2 beta, which removes adsrvr.org from the blocklist.</p>
+<p>Although this is good news for TTD, it must wait for iOS 27.2 to become the live install version of iOS, which might not happen for three or four weeks. If you download the new iOS 27 today, it will still block TTD’s ads from serving.</p>
+<p>Luckily, the install rate for iOS 27 is still relatively low and the timeline short enough that this will only be a revenue blip for a company of TTD’s size. But the bigger relief is that there’s no need to undergo a costly migration to a new ad-serving domain.</p>
+<p>In retrospect, the block seemed aimed at match.adsrvr.org, TTD’s cookie-sync endpoint. But Safari blocks at the domain level, so it took out the core ad-serving domain, too. When TTD was founded, keeping everything under one domain meant better match rates and faster ad serving, and no one was worried about browsers blocking by domain. Now, with the rise of privacy-by-default standards and crackdowns on cross-device tracking, TTD probably wishes it had put matching on a separate domain entirely.</p>
+<p><strong>What about the rest of us?</strong></p>
+<p>Still, for The Trade Desk at least, this probably feels like a major potential crisis averted. Adsrvr.org lives to serve another day.</p>
+<p>But the core issue has not been resolved. As several measurement vendors pointed out unprompted during Advertising Week gatherings, the initial focus on The Trade Desk has obscured how big of a deal – and bad – this iOS update is for analytics and attribution.</p>
+<p>Marketers rely on LiveRamp, UID2 and other still-blocked identity providers and identifiers for cross-channel matching. They need identity to stitch streaming media placements with mobile ads and web traffic, for example, or to connect TV spots with spikes in organic search.</p>
+<p>Well, sayonara to that.</p>
+<p>In addition, data and identity vendors commonly insert alternative IDs in the bidstream for Safari ads because third-party cookies and other identifiers have been removed. Many DSPs only bid for targetable placements, so vendors need to add an ID of some kind.</p>
+<p>Goodbye to that tactic as well.</p>
+<p>And then there’s the relatively minor but extremely thorny issue of advertisers that paid for iOS 27 ads that didn’t render.</p>
+<p>As two agency ad buyers told AdExchanger on background, the win logs for their customers that use TTD contain ads for iOS 27 that clearly did not serve. In other words, those brands <em>won</em> auctions and paid for ads no one saw. Other impressions were targeted using LiveRamp’s RampID, which derives from the blocked pippio.com domain.</p>
+<p>Fortunately, iOS 27’s user base is still small, and ad buying systems can route spend elsewhere, so the losses are limited. But some money did go to ads that never rendered.</p>
+<p>Which raises the question: Do advertisers get paid back?</p>
+<p>Whether an advertiser can contractually recoup its spend is based on the cascade of relationships between publishers, SSPs, DSPs and advertisers, according to two execs at companies directly involved.</p>
+<p>So enjoy that reconciliation process.</p>
+<p><strong>Apple’s POV</strong></p>
+<p>Meanwhile, Apple has been characteristically unresponsive.</p>
+<p>Sure, The Trade Desk’s Meyers and Apple’s Wilander had a <a data-uw-original-href="https://bugs.webkit.org/show_bug.cgi?id=324771" data-uw-rm-brl="PR" data-uw-rm-ext-link="" data-wpel-link="external" href="https://bugs.webkit.org/show_bug.cgi?id=324771">back-and-forth on WebKit Bugzilla</a>, which also alludes to a separate email exchange. But those interactions appear to be the extent of Apple’s communications on the iOS 27 blocklist matter.</p>
+<p>Not that Apple is ever chatty about policy changes. But this time it’s even less forthcoming than usual.</p>
+<p>According to multiple leaders at blocked companies who spoke with AdExchanger on the condition of anonymity, this iOS 27 update stands in stark contrast to Apple’s Intelligent Tracking Prevention for WebKit, the first version of which was released with iOS 11 in 2017. It’s also a different beast than when Apple’s AppTrackingTransparency policy went live with iOS 14 in 2021.</p>
+<p>In both cases, AdExchanger’s sources said, Apple released guidance and public statements, and held sessions about the changes during its developer conference.</p>
+<p>This time, the blocked companies were left to figure it out themselves, usually after a publisher client or partner asked why ads had stopped rendering. One engineering leader compared it to a heart attack: “Very subtle, easy-to-ignore signals, then all of a sudden.”</p>
+<p>Boom.</p>
+<p>Then again, one publisher ad tech exec who works with the WebKit group argued that secrecy is the point. The WebKit team can’t trust ad tech, the exec said, so it purposely keeps the blocklist’s rules and workings hidden.</p>
+<p>Permutive, for instance, the publisher noted, simply rotated to a new domain shortly after discovering “permutive.com” had been blocked.</p>
+<p>A Permutive exec told AdExchanger this tactic is a temporary patch as the company migrates a small number of clients to server-side or first-party services. (More on this below.) It’s meant as a makeshift bridge and not a durable solution.</p>
+<p>Still, from Apple’s perspective, hard-and-fast rules would be a gift to ad tech, data and identity vendors, which are adept at following the letter of the law while flouting its intent.</p>
+<p>After all, the industry has been wondering for years when Apple would start enforcing its stated fingerprinting ban. For example, back in 2022, AdExchanger’s Allison Schiff <a data-uw-original-href="https://www.adexchanger.com/data-driven-thinking/its-time-for-apple-to-stop-pointing-fingers-at-and-start-enforcing-against-fingerprinting/" data-uw-rm-brl="PR" data-wpel-link="internal" href="https://www.adexchanger.com/data-driven-thinking/its-time-for-apple-to-stop-pointing-fingers-at-and-start-enforcing-against-fingerprinting/">penned a column</a> entitled “It’s Time For Apple To Stop Pointing Fingers At – And Start Enforcing Against – Fingerprinting.”</p>
+<p>Well, here it is. Apple now has a system capable of enforcing against fingerprinting and other forms of persistent identity tracking at the domain level.</p>
+<p>Blocking a domain like adsrvr.org or pippio.com is no small thing, which is why many of these old cookie domains still bear legacy names. Pippio, for instance, was the original name of Arbor, an identity startup acquired by LiveRamp almost exactly a decade ago. Back then, Arbor <a data-uw-original-href="https://www.adexchanger.com/data-exchanges/liveramp-acquire-two-people-based-marketing-startups-arbor-circulate-140m-total/" data-uw-rm-brl="PR" data-wpel-link="internal" href="https://www.adexchanger.com/data-exchanges/liveramp-acquire-two-people-based-marketing-startups-arbor-circulate-140m-total/">unabashedly described</a> itself as a “marketplace for people-based data.”</p>
+<p>The big platforms do the same. Google’s ad serving domain is still ad.doubleclick.net despite the DoubleClick name having been long retired. Microsoft Advertising uses the “adnxs.com” domain, an ember still left burning from the old AppNexus days.</p>
+<p>These domains hold identity graphs that took years to build, and they can’t simply be picked up and moved. Start over on a new domain, and you’re back at zero.</p>
+<p><strong>The fallout</strong></p>
+<p>So, what happens now that Apple has shown it can wipe out years of work with a single inclusion in a blocklist?</p>
+<p>There’s really not much any ad tech company or web publisher can do.</p>
+<p>The next steps, according to interviews with companies targeted by Apple or that feel their business model may be in WebKit’s crosshairs, is to urgently transition web publisher and DTC ecommerce customers from third-party subscription software to a first-party native implementation.</p>
+<p>But this is a big change and not an easy lift. For an ID operator, it means developing a first-party identity framework within that publisher’s or brand’s own stack, rather than being a standalone network that stitches IDs together across the web. It requires different types of data integrations, following much stricter rules and probably seeing less data, since in a first-party structure vendors can only access what clients have given them permission to see.</p>
+<p>Which is why you’re going to start hearing a lot more about the shift to “trusted server” implementations. The IAB Tech Lab has been developing an open-source Trusted Server product for the past year and a half.</p>
+<p>The idea behind Trusted Server is to move the programmatic ad spec from the browser to a server that’s operated by the publisher or publisher’s tech vendor, according to Rowena Lam, the Tech Lab’s senior director of product.</p>
+<p>Today, that happens in the browser, which is why WebKit can suddenly shut off The Trade Desk or any ID vendor’s access to data from the bidstream or ad auction. With Trusted Server, those calls happen on a publisher-controlled server, so WebKit never sees the bids and has nothing to block.</p>
+<p>This is akin to the server-side migration we’ve seen in the mobile app world, where major platforms are fed an advertiser’s first-party data directly via conversion APIs, known as CAPIs.</p>
+<p>But Meta, TikTok, Snapchat and YouTube, which all have their own CAPIs or CAPI-like tools, are far more scaled and better positioned to make that transition – and even for them it was a tough one. And the IAB Tech Lab must corral thousands of publishers of various sizes to adopt the new web advertising standard, whereas the major platforms represent the entire media side of their marketplace and can simply go, go, go.</p>
+<p>The Tech Lab is actively looking for publishers to adopt and test the Trusted Server setup. By early next year, there should be “production-level tests” of campaigns shifted to first-party publisher servers, Lam said.</p>
+<p>But that’s not much runway. Although the iOS 27 install base is still small enough that the revenue hit is immaterial, the number of installations ticks up daily as more people update their Mac and/or iPhone. And, eventually, Apple will just do what it always does and push an update to the laggards.</p>
+<p>At that point, LiveRamp, Permutive, ID5, UID2, Audigent and possibly hundreds of other companies will need a fix in place, although it appears that WebKit started by targeting vendors with the largest cookie-sync footprints.</p>
+<p>The iOS 27 setback is one more blow for an industry that has spent years beholden to building around the plans and promises of browser operators, said an executive at one of the companies blocked by iOS 27.</p>
+<p>Remember the Chrome Privacy Sandbox? Some companies spent millions of dollars – and hundreds of engineering hours – building, testing and collaborating in good faith, only for Google to renege.</p>
+<p>Apple’s SKAdNetwork for mobile ad attribution was much the same, the exec said. Some companies again spent millions redesigning their systems at Apple’s insistence only to see Apple quietly allow SKAdNetwork to die on the vine. Apple has never explained whether SKAdNetwork has been officially sunset or what the heck is going on there.</p>
+<p>Sound familiar?</p>
+<p>Then again, don’t expect Apple to lose sleep. “Apple isn’t thinking about The Trade Desk or any of these particular vendors,” said a leader at one data company that’s also blocked in the new iOS 27.</p>
+<p>But is it really any solace to a colony of ants, he added, that the elephant isn’t thinking about them when it squashes their civilization?</p>
