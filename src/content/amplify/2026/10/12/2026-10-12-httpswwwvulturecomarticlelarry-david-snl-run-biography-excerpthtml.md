@@ -1,0 +1,148 @@
+---
+author: Blake J. Harris
+cover_image: >-
+  https://pyxis.nymag.com/v1/imgs/45d/533/d752fb61e67fe6d232d4f50855553f6804-larrydavid.1x.rsocial.w1200.jpg
+date: '2026-10-12T16:26:51.394Z'
+dateFolder: 2026/10/12
+description: Larry David’s notorious SNL run was doomed from the very beginning.
+isBasedOn: 'https://www.vulture.com/article/larry-david-snl-run-biography-excerpt.html'
+link: 'https://www.vulture.com/article/larry-david-snl-run-biography-excerpt.html'
+slug: 2026-10-12-httpswwwvulturecomarticlelarry-david-snl-run-biography-excerpthtml
+tags:
+  - culture
+title: '‘On Tuesdays, We Stay Up All Night’'
+---
+<figure><picture><figure><img data-content-img="" src="https://pyxis.nymag.com/v1/imgs/45d/533/d752fb61e67fe6d232d4f50855553f6804-larrydavid.rhorizontal.w1100.jpg"/></figure></picture></figure>
+<p>For Larry David, the 1980s began with so much promise. After years of rejection — from women, from employers, from audiences seeking laughter — it seemed that Larry’s luck had finally changed. Following a nationwide talent search, he had been selected as one of nine young comics to star on ABC’s new late-night sketch show, <em>Fridays</em>. This was it, the proverbial big break. And one with such promise that Larry was even willing to leave his native New York for L.A.</p>
+<p>Well … as it turned out, Larry’s big break didn’t quite go according to plan. And four years later, he was back in New York with less confidence than when he had left. Nevertheless, he soon managed to secure another great late-night opportunity — this time as a writer for the tenth season of <em>Saturday Night Live</em>.</p>
+<p>Admittedly, <em>SNL</em> circa 1984 was not quite the juggernaut it had once been. And yeah, sure, this would be one of those weird-in-retrospect seasons where the show existed without Lorne Michaels. But still, from a certain angle and in a certain light, Larry could squint his way into seeing this new gig at <em>SNL</em> as a second chance at something.</p>
+<p>Though, of course, because Larry is Larry (and therefore governed by a peculiar physics that dictates that every step forward be followed by two in reverse), his year at <em>SNL</em> would prove to be far from a rosy adventure.</p>
+<p>“I don’t remember a lot about my time at <em>SNL</em>,” Larry admits, “but I do remember something that happened early on. Like during my second or third week. And it must have been a Tuesday night.”</p>
+<p>Tuesday nights were crunch time at <em>SNL</em> because Wednesday afternoons were when writers would present their sketches for read-through. But for Larry, who routinely finished his sketches quickly, there was no need for a crunch.</p>
+<p>“Well,” Larry explains, “at least that’s what I thought. But there I am: It’s Tuesday night, maybe seven o’clock, and I have two or three sketches ready for read-through [tomorrow], so I walk to the elevator and push the button. I’m ready to go home. But then the elevator arrives and one of the people who gets out is Dick [Ebersol].”</p>
+<p>Being a cordial person, Larry wished his new boss a pleasant evening. But instead of reciprocating, Ebersol looked suddenly annoyed.</p>
+<p>“What are you doing?” Ebersol asked. “Where are you going?”</p>
+<p>“Oh, I’m going home,” Larry answered, which clearly wasn’t the right answer.</p>
+<p>“He looked at me like I was crazy!” Larry recalls. “He said, ‘What do you mean you’re “going home”?’”</p>
+<p>“Well,” Larry explained to Ebersol, “I’ve written three sketches and a couple of news pieces. So, you know, I’m good to go. That’s it.”</p>
+<p>Ebersol shook his head. No, that was not it.</p>
+<p>“On Tuesdays,” Ebersol explained, “we stay up all night.”</p>
+<p>“Why?” Larry replied. “What for?”</p>
+<p>“Because that’s when we write the show.”</p>
+<p>“But I’ve already written three pieces.”</p>
+<p>To Ebersol, this didn’t matter. Larry could have written a million pieces.</p>
+<p>“On Tuesdays,” Ebersol repeated firmly, “we stay here all night.”</p>
+<p>“All night?”</p>
+<p>“All night.”</p>
+<p>Larry knew he had a decision to make: Go home and get a good night’s sleep, or stick around and … do what? Just walk around the office and pretend to look busy?</p>
+<p>“What did it matter whether I was there or not?” Larry says, laughing at the memory of this unexpected standoff. “So I wished him good luck and I got in the elevator. That seemed like the right decision. Though, looking back, I think that was the beginning of the end for me.”</p>
+<p>It was. And from there, things quickly got worse.</p>
+<p><strong>BY OCTOBER 1984,</strong> Larry was officially fed up. The season’s fifth episode, hosted by George Carlin, was just about to go live, and once again — at the last minute — Larry’s sketch had been cut.</p>
+<p>“So I go up to Dick Ebersol,” Larry recalls. “He’s in his chair. He’s got the headphones on. It’s maybe five minutes before the show is gonna start. And there I am, with smoke coming out of my nose, and I’m just hell-bent on telling him off.”</p>
+<p>There must have been 40 or 50 people racing around, frantically getting ready for the show. “Hey, Dick,” Larry said.</p>
+<p>Slowly, and only half paying attention, Dick Ebersol turned to Larry. “Yeah?”</p>
+<p>“THIS FUCKING SHOW STINKS!” Larry shouted. “IT’S AWFUL! IT’S TERRIBLE! AND IT’S GETTING WORSE EVERY WEEK. YOU SHOULD BE EMBARRASSED. I’M EMBARRASSED. I’M DONE. I’VE HAD IT. I QUIT!!”</p>
+<p>Ebersol was so taken aback by this outburst that he was rendered momentarily speechless. But that didn’t matter. Because just as quickly as Larry got the words out, he stormed out of the building. And then triumphantly, as a now-free man, he walked through the streets back to his apartment.</p>
+<p>“Well, that [triumphant feeling] quickly wore off,” Larry explains. “It didn’t take very long. Maybe only a few blocks. And now, as I’m walking home, I start to compute how much money I just cost myself.”</p>
+<p>By his estimation, the money that he’d just sacrificed would have probably been enough to get him through the next 18 months.</p>
+<p>“I’m an idiot,” Larry explained to Kenny Kramer after arriving back at his apartment in Manhattan Plaza. “What the hell am I gonna do?”</p>
+<p>Clearly, Larry had intended this to be a question about the broader future. As in, <em>How the hell am I going to get another job? Who’s gonna hire me after this?</em></p>
+<p>Kramer, however, considered the question in a different way — thinking instead of an unconventional solution that might allow Larry to undo what he’d just done.</p>
+<p>“Maybe you can just go back?” Kramer suggested. “Go back?” Larry repeated, dumbstruck.</p>
+<p>“Yeah,” Kramer said. “Pretend like it never happened.”</p>
+<p>“You mean … just walk into the staff meeting Monday morning like it never happened?”</p>
+<p>“Sure! You’re an emotional person. People don’t take you seriously!”</p>
+<p>“So I just … go back? And pretend the whole thing never happened?”</p>
+<p>“Never happened!”</p>
+<p>It wasn’t like Larry had any better ideas. So, the following Monday morning, Larry showed up for work at <em>Saturday Night Live</em>.</p>
+<p>“I take my seat at the morning meeting,” Larry remembers. “And, of course, all the writers are staring at me. They’re looking at me like, ‘Are you crazy? Didn’t you quit? What the hell are you doing here?’ But no one actually says anything and so I’m just sitting there, trying my best to act like nothing’s happened. Meanwhile, Dick is going around the room and asking each writer what they’ve got planned for the week. Then finally, he gets to me.”</p>
+<p>“Larry?” Ebersol asked. “Yes,” Larry replied.</p>
+<p>This was it — the moment of truth! And after a tense second or two, it swung in Larry’s favor.</p>
+<p>“He didn’t say a thing about me quitting,” Larry explains.</p>
+<p>Instead, Ebersol just wanted to know if Larry had any ideas for the next show. And he did.</p>
+<p>“I’ve got this idea about a circus family,” Larry began. “You know, one of those families of performers, like the Flying Wallendas …”</p>
+<p>Larry went on, continuing to pitch the idea. Though by the time he drilled down into the details, it was already clear: Larry’s own little circus routine had been a success. The scheme had worked, Kenny Kramer was a savant, and somehow, miraculously, Larry had managed to un-quit his job.</p>
+<p><strong>AS LARRY REACCLIMATED TO LIFE IN NEW YORK</strong> <strong>,</strong> he began to furnish his sparse apartment. This process included buying a physics-defying piece of furniture that without aid of magic could toggle between both a bed and sofa — something called a futon. But unfortunately, after the whole rigmarole of buying it, having it delivered, and setting it up in his apartment, Larry decided to return the futon.</p>
+<p>So the vendor, Arise Futon, sent over one of their deliverymen: a 20-something kid who during his off hours had been moonlighting as a stand-up. Since this kid — who performed under the name Jackie Roberts — was just at the start of his comedy career, there was no reason why Larry would have known him. But the kid knew exactly who Larry was. So, he gathered up the courage to say something.</p>
+<p>“I told him I liked the show <em>Fridays</em>,” the deliveryman recalls, “and asked him why they canceled it.”</p>
+<p>“I have hardly any recollection of that,” Larry says about his brief, long-ago interchange with the delivery guy. And why would he? “He was just a guy delivering futons!”</p>
+<p>But what was a forgettable moment for Larry was a memorable one for the futon delivery guy — who, shortly after this encounter, would quit the futon game and fully pursue comedy under his given name, Ray Romano.</p>
+<p>“Can you believe that guy was Ray?” Larry remarks, amazed all these years later by this odd before-they-were-stars encounter. “So yeah, it’s true; Ray Romano picked up a futon from my apartment. And yeah, he asked me something about why <em>Fridays</em> went off the air.”</p>
+<p>Unsurprisingly, Larry has no memory of what he said to his futon deliveryman four decades earlier. But for Ray, the moment was memorable. Especially because what Larry said felt prescient.</p>
+<p>“He said,” Ray recalls, “‘Well, that’s television!’ Or something like that.”</p>
+<figure><picture> <source data-srcset="https://pyxis.nymag.com/v1/imgs/850/35e/f9c4b3c892cd0f9bdc34a87d5903685441-fridays-still.2x.rhorizontal.w700.jpg 2x" media="(min-resolution: 192dpi) and (min-width: 1180px), (-webkit-min-device-pixel-ratio: 2) and (min-width: 1180px)" srcset="https://pyxis.nymag.com/v1/imgs/850/35e/f9c4b3c892cd0f9bdc34a87d5903685441-fridays-still.2x.rhorizontal.w700.jpg 2x"/> <source data-srcset="https://pyxis.nymag.com/v1/imgs/850/35e/f9c4b3c892cd0f9bdc34a87d5903685441-fridays-still.rhorizontal.w700.jpg" media="(min-width: 1180px) " srcset="https://pyxis.nymag.com/v1/imgs/850/35e/f9c4b3c892cd0f9bdc34a87d5903685441-fridays-still.rhorizontal.w700.jpg"/> <source data-srcset="https://pyxis.nymag.com/v1/imgs/850/35e/f9c4b3c892cd0f9bdc34a87d5903685441-fridays-still.2x.rhorizontal.w700.jpg 2x" media="(min-resolution: 192dpi) and (min-width: 768px), (-webkit-min-device-pixel-ratio: 2) and (min-width: 768px)" srcset="https://pyxis.nymag.com/v1/imgs/850/35e/f9c4b3c892cd0f9bdc34a87d5903685441-fridays-still.2x.rhorizontal.w700.jpg 2x"/> <source data-srcset="https://pyxis.nymag.com/v1/imgs/850/35e/f9c4b3c892cd0f9bdc34a87d5903685441-fridays-still.rhorizontal.w700.jpg" media="(min-width: 768px)" srcset="https://pyxis.nymag.com/v1/imgs/850/35e/f9c4b3c892cd0f9bdc34a87d5903685441-fridays-still.rhorizontal.w700.jpg"/> <source data-srcset="https://pyxis.nymag.com/v1/imgs/850/35e/f9c4b3c892cd0f9bdc34a87d5903685441-fridays-still.2x.rhorizontal.w700.jpg" media="(min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 2)" srcset="https://pyxis.nymag.com/v1/imgs/850/35e/f9c4b3c892cd0f9bdc34a87d5903685441-fridays-still.2x.rhorizontal.w700.jpg"/> <img data-content-img="" data-src="https://pyxis.nymag.com/v1/imgs/850/35e/f9c4b3c892cd0f9bdc34a87d5903685441-fridays-still.rhorizontal.w700.jpg" src="https://pyxis.nymag.com/v1/imgs/850/35e/f9c4b3c892cd0f9bdc34a87d5903685441-fridays-still.rhorizontal.w700.jpg"/> </picture><figcaption>Photo: ABC Photo Archives/Disney General Entertainment Content via Getty Images</figcaption></figure>
+<figure><picture> <source data-srcset="https://pyxis.nymag.com/v1/imgs/9db/05e/f57a39224ab2a94ad8b9a661880442896e-fridays-cast.2x.rhorizontal.w700.jpg 2x" media="(min-resolution: 192dpi) and (min-width: 1180px), (-webkit-min-device-pixel-ratio: 2) and (min-width: 1180px)" srcset="https://pyxis.nymag.com/v1/imgs/9db/05e/f57a39224ab2a94ad8b9a661880442896e-fridays-cast.2x.rhorizontal.w700.jpg 2x"/> <source data-srcset="https://pyxis.nymag.com/v1/imgs/9db/05e/f57a39224ab2a94ad8b9a661880442896e-fridays-cast.rhorizontal.w700.jpg" media="(min-width: 1180px) " srcset="https://pyxis.nymag.com/v1/imgs/9db/05e/f57a39224ab2a94ad8b9a661880442896e-fridays-cast.rhorizontal.w700.jpg"/> <source data-srcset="https://pyxis.nymag.com/v1/imgs/9db/05e/f57a39224ab2a94ad8b9a661880442896e-fridays-cast.2x.rhorizontal.w700.jpg 2x" media="(min-resolution: 192dpi) and (min-width: 768px), (-webkit-min-device-pixel-ratio: 2) and (min-width: 768px)" srcset="https://pyxis.nymag.com/v1/imgs/9db/05e/f57a39224ab2a94ad8b9a661880442896e-fridays-cast.2x.rhorizontal.w700.jpg 2x"/> <source data-srcset="https://pyxis.nymag.com/v1/imgs/9db/05e/f57a39224ab2a94ad8b9a661880442896e-fridays-cast.rhorizontal.w700.jpg" media="(min-width: 768px)" srcset="https://pyxis.nymag.com/v1/imgs/9db/05e/f57a39224ab2a94ad8b9a661880442896e-fridays-cast.rhorizontal.w700.jpg"/> <source data-srcset="https://pyxis.nymag.com/v1/imgs/9db/05e/f57a39224ab2a94ad8b9a661880442896e-fridays-cast.2x.rhorizontal.w700.jpg" media="(min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 2)" srcset="https://pyxis.nymag.com/v1/imgs/9db/05e/f57a39224ab2a94ad8b9a661880442896e-fridays-cast.2x.rhorizontal.w700.jpg"/> <img data-content-img="" data-src="https://pyxis.nymag.com/v1/imgs/9db/05e/f57a39224ab2a94ad8b9a661880442896e-fridays-cast.rhorizontal.w700.jpg" src="https://pyxis.nymag.com/v1/imgs/9db/05e/f57a39224ab2a94ad8b9a661880442896e-fridays-cast.rhorizontal.w700.jpg"/> </picture><figcaption>Photo: Ron Galella Collection via Getty Images</figcaption></figure>
+<p><strong><em>SATURDAY NIGHT LIVE</em> IS</strong> one of those shows whose staff is constantly turning over. As such, it’s a place where bright-eyed newly hired writers and performers are welcomed with famous stories of yesteryear — including the legendary tale about how Larry David quit and then un-quit <em>SNL</em>.</p>
+<p>As legends go, it’s an incredible story. But, really, it’s only half the story. And the other half — the untold half — is almost as amazing. And conveniently, it begins exactly where the other ends: with Larry safely back at work on Monday, pitching an idea about a “circus family.”</p>
+<p>“You know, one of those families of performers,” Larry pitched to Ebersol and the other writers in the room, “like the Flying Wallendas …” For those unfamiliar with the Flying Wallendas, Larry explained that they were a family of acrobats who emigrated from Europe and became popular in the 1940s for performing a death-defying high-wire act without the safety of a net below them.</p>
+<p>“And they really were a family,” Larry explained, which was relevant not only because it might help explain why these daredevils were so willing to put so much trust in one another, but also because that family dynamic had led him to wonder what it would be like if an outsider tried to gain membership into this sort of high-flying organization.</p>
+<p>“The idea,” Larry recalls, “centered around this family of performers who I ended up calling the Flying Zambonis. And, you know, their job is really difficult, but they’ve trained their whole lives to do it. And they’re great! But then one day, they get called in to have a meeting with the circus manager.”</p>
+<p>Given their line of work, one might expect that the circus manager — a man named Mr. Drexler — would have deep respect for the family’s aerial artistry. But as it turns out, the aforementioned Drexler is a cigar-chomping maybe-mobster who has an angle of his own.</p>
+<p><strong>MR. DREXLER</strong><br/>
+Listen, I have a little proposition I’d like to make here. How would you like to add another member to the act?</p>
+<p><strong>PAPA ZAMBONI</strong><br/>
+Another member? Are you not satisfied with our work?</p>
+<p><strong>MR. DREXLER</strong><br/>
+No, it’s not that, you’re doing a terrific job. It’s … well, it’s my sister, you see. She’s having a lot of problems with her kid. You know, he’s been out of college a couple years now, and he really doesn’t know what he wants to do. Now, all of a sudden, he’s got this crazy idea in his head that he wants to be a Flying Zamboni. And she came to me and asked if there was anything I can do. And how could I refuse her?</p>
+<p>Naturally, the Flying Zambonis are skeptical of adding an unqualified new member.</p>
+<p><strong>AMIR ZAMBONI</strong><br/>
+But, Mr. Drexler, has the boy ever been on the trapeze before?</p>
+<p><strong>MR. DREXLER</strong><br/>
+No. No. What are you, kidding?</p>
+<p><strong>AMIR ZAMBONI</strong><br/>
+Then with all due respect, how can he be in the act?</p>
+<p><strong>MR. DREXLER</strong><br/>
+Well, you know, I just thought he’d stand up there on the platform with you. You know, toss the bar out once in a while. You know the way you spin it around …</p>
+<p>Sensing the family’s obvious concerns, Mr. Drexler attempts to assuage them by summoning his nephew.</p>
+<p>“And that’s when you would come out,” Larry explained to <em>SNL</em> writer Andy Breckman, whom Larry was pitching to play the nephew. “Why me?” Breckman asked. This was certainly a valid question, as <em>SNL</em> had an entire cast of performers, so it was unusual for a writer to be trying to cast another writer. But what made Andy perfect in Larry’s mind was that he didn’t have the same … uh … camera-friendly physique as the show’s actual performers.<br/>
+“Ohhhhh …” Breckman said, realizing why Larry wanted him. “Because I’m fat.”</p>
+<p>“And I wasn’t just overweight,” Breckman says of himself at the time. “I was in my 30s, and I was already balding. I just looked like the epitome of ‘out of shape.’ Which was great for the premise, since the joke was that I’d end up killing the whole family. But, yeah, to answer your question, he wanted to cast me because I was overweight.”</p>
+<p>Larry, however, claimed that Breckman’s weight was not the motivation for his casting. At which point Breckman gestured at Larry’s script, where it distinctly noted that the character should be “paunchy” and “ill-equipped” to join the high-wire routine.</p>
+<p>Larry explained that he had written the description before even thinking of Breckman. This was purely coincidence! However, Breckman pointed to the dialogue that followed. “But you named the character Andy.”</p>
+<p>For a moment, and with minimal sincerity, Larry espoused the many differences between being “fat” and being “paunchy.” But Breckman cut him off.</p>
+<p>“Larry,” Breckman said. “I get it. And I think the sketch is hilarious. I’d be honored to do it.”</p>
+<p>With Breckman onboard, Larry eventually submitted the final sketch to Ebersol, who thought it was very funny and selected it to be part of that week’s read-through.</p>
+<p>“I wish I could tell you how that specific read-through went,” Larry says. “But, really, all those read-throughs blur together into a single memory. And that memory is people laughed a lot, but then the sketch would get cut.”</p>
+<p>“This time was different, though,” Breckman points out. “After read-through, Dick Ebersol and his production team were inclined to do it. At least in dress rehearsal. It had made the ‘first cut.’ But they had one stipulation: They, Dick Ebersol and the producers, didn’t want me — just a writer — in the sketch.”</p>
+<p>“Look,” Ebersol told Larry in front of the entire cast, as the conversation shifted to his office. “We have ten actual cast members — trained professional actors — who all want airtime and who would all be better on-air. Let’s just figure this out.”</p>
+<p>From Larry’s perspective, though, there was nothing to figure out. He conceded that Breckman may have been less “qualified” than the others, but, as Larry made clear, so-called qualifications were irrelevant in this situation. The only thing that really mattered was what would get the most laughs.</p>
+<p>“This is where Larry David’s obstinacy comes into play,” Breckman explains. “Or maybe a better word for it is ‘purity.’ Because even back then — back when Larry was struggling to get anything on-air — he was absolutely uncompromising. He kept insisting that ‘no one else’ could do the nephew like me.”</p>
+<p>“It needs to be Andy!” Larry told Ebersol. “No, it doesn’t!” Ebersol shot back.</p>
+<p>“No one else can do it!”</p>
+<p>“Don’t worry. It’ll still be funny.”</p>
+<p>“In retrospect,” Larry says, looking back on this incident, “it probably would have also been funny with someone else in the part. But why wouldn’t you want the sketch to be the funniest it could be?”</p>
+<p>“They kept going back and forth,” Breckman recalls. “Larry kept arguing that ‘no one else’ was as out of shape as me. I was, on the one hand, very flattered; on the other hand, kind of insulted! I didn’t know what to say. So I just shut up. I remember just cowering under the table because … it just was insane. It was surreal. These two professionals in a room full of professionals were arguing back and forth about how comically out of shape I was!”</p>
+<p>While most of their colleagues looked on in horror, there was one who thought it was hilarious: Julia Louis-Dreyfus, who always enjoyed watching bouts of Larry vs. Ebersol.</p>
+<p>“[Those types of situations] were one of the reasons I liked Larry so much,” Julia recalls. “Because he lost his temper.”</p>
+<p>Typically, when embroiled in these sorts of escalating back-and-forths, Larry’s go-to move was the quit-and-storm-off. And at some point in his shouting match with Dick Ebersol, the thought of dramatically quitting inevitably did cross Larry’s mind. But there was a problem, of course: He had already done that (and regretted it) less than one week earlier.</p>
+<p>“All right,” Larry finally said to Ebersol. “Then let’s not do it.”</p>
+<p>Looking back, Breckman says, “It didn’t occur to me until years later, but during his argument with Dick Ebersol, Larry was essentially acting like the manager in his sketch. Granted, Larry’s motivations were pure, but it was still basically the same thing: one guy trying to strong-arm another guy into accepting a substandard performer in their act.”</p>
+<p>In Larry’s sketch, the strong-arming proves successful, and Mr. Drexler’s nephew gets to join the Flying Zambonis after all. In real life, however, Larry failed — and, in doing so, became the first <em>SNL</em> writer to ever be the one to cut their own sketch from the show.</p>
+<p><strong>MEANWHILE,</strong> as both a diligent neighbor and a man of great curiosity, Kenny Kramer made it a point to continue monitoring the top of Larry’s head for potential hair growth.</p>
+<p>“Anything?” Larry would ask.</p>
+<p>“Let’s go to the video!” Kramer would reply.</p>
+<p>And they did. Every time. Until it became clear to both men that despite all the hope (and all the money the cream had cost), there was no dodging the truth: Larry David was doomed to remain bald.</p>
+<p><strong>FOLLICALLY SPEAKING,</strong> Larry was a man without prospects. And occupationally — come the end of <em>SNL</em>’s tenth season — Larry found himself without a job and with limited prospects on that end too.</p>
+<p>“I don’t remember if they ended up firing me,” Larry says, “or if [it was] because Lorne was coming back to run the show [in place of the Ebersol regime], but it just became clear that I wasn’t going to be returning. Either way, I can’t say I was heartbroken.”</p>
+<p>Although Larry’s time at <em>SNL</em> was mostly marked by contention and frustration, he was grateful he had crossed paths with Julia, who left the show the same year and, arguably, was equally disgruntled.</p>
+<p>“Larry was just miserable there,” Julia recalls. “[And] it wasn’t a particularly happy experience for me. To begin with, I will take responsibility for some of it, because I was extremely young. I hadn’t graduated college and I was very naïve about how things work in real show business. So I went into it very green … [but] I thought it was going to be a congenial experience; my head was in the clouds. I wasn’t aware of the politicking one had to do, and … Everybody would stay up late. All the work was done between 11 o’clock at night and six o’clock in the morning; that’s when everybody was functioning. And that wasn’t, in my view, conducive to comedy.”</p>
+<p>“I don’t really remember any specific conversations [with Julia],” Larry says. “But whenever we did talk, we would always complain about the show.”</p>
+<p>Despite Larry’s many frustrations, he did end up managing to get one sketch — a piece called “The Elevator Stool” — on the air. And in an ironic twist, it served as a kind of metaphor for his relationship with Ebersol.</p>
+<p>“The sketch,” Larry explains, “was about an architect [played by that week’s host, Ed Begley Jr.,] and he’s pitching a developer [played by Harry Shearer] his plans for a new building. So, you know, it starts with them gathered around, looking at the blueprint.”</p>
+<p>At first glance, Harry loves Ed’s plans for this new building, confirming it’s “exactly what I wanted.” But then, just as it seems like a deal will be signed, Harry notices something.</p>
+<p>“He’s looking at the blueprint,” Larry continues, “and Harry Shearer says, ‘What’s this?’ And Ed Begley Jr. says, ‘Oh, that’s a stool for the elevator man.’”</p>
+<p><strong>HARRY SHEARER</strong><br/>
+Well, if it’s all the same to you, I’d prefer you take it out.</p>
+<p><strong>ED BEGLEY JR.</strong><br/>
+Why’s that?</p>
+<p><strong>HARRY SHEARER</strong><br/>
+Well, it seems obvious: I don’t want my elevator man sitting on a stool.</p>
+<p>Instead of accepting the developer’s request, however, the architect pushes back.</p>
+<p><strong>ED BEGLEY JR.</strong><br/>
+Wait just a second. I’m not saying that they should be sitting in the elevator when they’re taking people up and down. But when they’re waiting in the lobby, I think they should be able to sit.</p>
+<p>From there, things continue to escalate. No matter how many seemingly reasonable points Ed Begley Jr. makes (e.g., “Is it wrong to believe that people should have a place to sit?”), Harry Shearer isn’t having it. The stool must go!</p>
+<p>“The whole thing just deteriorates into a fight about whether or not the elevator man should be allowed to sit when there are no passengers in the elevator,” Larry explains.</p>
+<p>And in the end — like Dick Ebersol — Harry Shearer is only willing to accept a subordinate’s vision if it’s executed to his exact specifications.</p>
+<p>And in the end — like Larry David — Ed Begley Jr. simply, stubbornly, and eventually quite angrily refuses to give in.</p>
+<p><strong>Excerpted from the book <em>EMPEROR OF NOTHING: The Making of Larry David</em> by Blake J. Harris. Copyright © 2026 by Blake J. Harris. To be published on October 20, 2026, by Dey Street Books, an imprint of HarperCollins Publishers. Excerpted by permission.</strong></p>
+<figure><a data-affiliate-links-ignore="true" data-affiliate-subtag="__vu1012anm__cmv1cz5wl003801esp6v16p2x__316804" data-merchant-id="316804" data-track-badges="" data-track-campaign="" data-track-currency="$" data-track-id="lGssBA" data-track-manufacturer="" data-track-medium="" data-track-merchant="Bookshop" data-track-name="‘Emperor of Nothing: The Making of Larry David’" data-track-option="Image" data-track-price="33.55" data-track-source="" data-track-sponsored="" data-track-type="product-link" data-track-variant="product - image" href="https://go.skimresources.com/?id=1025X1552619&amp;xs=1&amp;url=https%3A%2F%2Fbookshop.org%2Fp%2Fbooks%2Femperor-of-nothing-the-making-of-larry-david-blake-j-harris%2F8e41a060341c0a93&amp;xcust=__vu1012aam__cmv1cz5wl003801esp6v16p2x__316804________________"><picture> <source media="(min-resolution: 192dpi) and (min-width: 1180px), (-webkit-min-device-pixel-ratio: 2) and (min-width: 1180px)" srcset="https://pyxis.nymag.com/v1/imgs/39e/371/dd51319604f4cacb3a9f8faab4e4d27f5b-emperorofnothing-hc.2x.rdeep-vertical.w245.jpg 2x"/> <source media="(min-width: 1180px) " srcset="https://pyxis.nymag.com/v1/imgs/39e/371/dd51319604f4cacb3a9f8faab4e4d27f5b-emperorofnothing-hc.rdeep-vertical.w245.jpg"/> <source media="(min-resolution: 192dpi) and (min-width: 768px), (-webkit-min-device-pixel-ratio: 2) and (min-width: 768px)" srcset="https://pyxis.nymag.com/v1/imgs/39e/371/dd51319604f4cacb3a9f8faab4e4d27f5b-emperorofnothing-hc.2x.rdeep-vertical.w245.jpg 2x"/> <source media="(min-width: 768px)" srcset="https://pyxis.nymag.com/v1/imgs/39e/371/dd51319604f4cacb3a9f8faab4e4d27f5b-emperorofnothing-hc.rdeep-vertical.w245.jpg"/> <source media="(min-resolution: 192dpi), (-webkit-min-device-pixel-ratio: 2)" srcset="https://pyxis.nymag.com/v1/imgs/39e/371/dd51319604f4cacb3a9f8faab4e4d27f5b-emperorofnothing-hc.2x.rdeep-vertical.w245.jpg"/> <img alt="‘Emperor of Nothing: The Making of Larry David’" data-content-img="" src="https://pyxis.nymag.com/v1/imgs/39e/371/dd51319604f4cacb3a9f8faab4e4d27f5b-emperorofnothing-hc.rdeep-vertical.w245.jpg"/> </picture></a></figure>
