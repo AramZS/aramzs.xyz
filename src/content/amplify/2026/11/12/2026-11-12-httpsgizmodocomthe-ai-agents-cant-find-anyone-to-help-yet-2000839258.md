@@ -1,0 +1,23 @@
+---
+author: AJ Dellinger
+cover_image: 'https://gizmodo.com/app/uploads/2026/10/FrowningMuse-1200x675.jpg'
+date: '2026-11-13T03:31:27.259Z'
+dateFolder: 2026/11/12
+description: The worker's replacements are looking for jobs.
+isBasedOn: 'https://gizmodo.com/the-ai-agents-cant-find-anyone-to-help-yet-2000839258'
+link: 'https://gizmodo.com/the-ai-agents-cant-find-anyone-to-help-yet-2000839258'
+slug: >-
+  2026-11-12-httpsgizmodocomthe-ai-agents-cant-find-anyone-to-help-yet-2000839258
+tags:
+  - ai
+title: The AI Agents Can’t Find Anyone to Help Yet
+---
+<figure><img alt="A graphic of Meta's Muse AI mascot, frowning." sizes="(max-width: 639px) 100vw, (max-width: 1023px) calc(100vw - 2rem), (max-width: 1258px) calc((100vw - 3.68rem) * 2 / 3), 800px" src="https://gizmodo.com/app/uploads/2026/10/FrowningMuse.jpg" srcset="https://gizmodo.com/app/uploads/2026/10/FrowningMuse.jpg 1920w, https://gizmodo.com/app/uploads/2026/10/FrowningMuse-336x224.jpg 336w, https://gizmodo.com/app/uploads/2026/10/FrowningMuse-1280x853.jpg 1280w, https://gizmodo.com/app/uploads/2026/10/FrowningMuse-768x512.jpg 768w, https://gizmodo.com/app/uploads/2026/10/FrowningMuse-672x448.jpg 672w, https://gizmodo.com/app/uploads/2026/10/FrowningMuse-960x640.jpg 960w, https://gizmodo.com/app/uploads/2026/10/FrowningMuse-1600x1067.jpg 1600w"/><figcaption>A graphic of Meta's Muse AI mascot, frowning. © Shutterstock</figcaption></figure>
+<p>AI agents were supposedly going to be game-changers for both sides of consumer transactions—agents would handle tasks like bookings, support, and services 24/7, freeing humans for other work. Turns out businesses don’t like dealing with AI agents, and consumers don’t want them handling their business.</p>
+<p>Earlier this week, United Airlines <a href="https://www.united.com/en/us/newsroom/announcements/cision-125496">announced</a> that it would ban AI agents from making bookings on behalf of customers, citing privacy concerns, the risk of exposing sensitive data to third parties, and the potential for unintended or unwanted transactions bogging down the process for everyone. The airline also noted that agents can’t do certain things, like acknowledge that travel bags do not contain banned substances like explosives. Allowing a bot to check that box on a person’s behalf might violate rules from the Federal Aviation Administration and the Department of Transportation.</p>
+<p>While many of the AI agent makers have claimed their agents are capable of relatively simple tasks like bookings, it seems United probably didn’t have much to worry about either way. Most people are just not using these things.</p>
+<p>Uber just revealed in its latest quarterly earnings call that of the 320 million trips that its Uber and Uber Eats drivers made over the course of the week of Halloween, <a href="https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/">only 500 of them were placed by an AI agent</a>. Uber is not alone in that observation.</p>
+<p>DoorDash went hard after the AI agent intermediary market, <a href="https://gizmodo.com/doordash-debuts-text-to-order-ai-agent-for-people-who-find-it-a-little-too-hard-to-order-doordash-2000819567">launching a feature that allowed people to text an agent</a> to place a food order on their behalf back in September. During DoorDash’s earnings call on Oct. 29, <a href="https://fortune.com/company/doordash/earnings/q3-2026-acquisition/">CEO Tony Xu said</a> that “maybe several hundred orders in total across the time that they have been up and running” have been placed by AI agents.</p>
+<figure><a href="https://newsletter.gizmodo.com/newsletter-ai?utm_source=gizmodo.com&amp;utm_medium=banner&amp;utm_campaign=ai-brief"><img src="https://gizmodo.com/app/themes/gizmodo/public/images/newsletters/the-ai-brief.svg"/></a></figure>
+<p>Airbnb’s CEO <a href="https://www.businessinsider.com/airbnb-ceo-ai-agents-muse-instinct-done-few-bookings-traffic-2026-11">reported</a> similar findings over on its platform. Brian Chesky told investors on the company’s last earnings call, “We’re not seeing a lot of traffic, and even fewer bookings, from Muse and Instinct yet.” While he didn’t name specifics of the traffic or bookings coming from agents, he described it as a “very non-material” number. Translated from business lingo, that means completely irrelevant to everyday operations and cash flow.</p>
+<p>Here’s the thing: There’s already so little friction for these kinds of tasks for most users, injecting an AI agent into the process may actually be inconvenient. It may be novel that agents are capable of completing these tasks for users, but that doesn’t mean anyone actually wants them to.</p>
