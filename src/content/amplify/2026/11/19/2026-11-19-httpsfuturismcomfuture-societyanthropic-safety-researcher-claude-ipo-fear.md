@@ -1,0 +1,33 @@
+---
+author: Joe Wilkins
+cover_image: >-
+  https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?w=1200
+date: '2026-11-19T21:24:59.757Z'
+dateFolder: 2026/11/19
+description: >-
+  Anthropic safety researcher Tao Lin shared some horrifying warnings ahead of
+  his company's record-breaking public stock offering.
+isBasedOn: >-
+  https://futurism.com/future-society/anthropic-safety-researcher-claude-ipo-fear
+link: >-
+  https://futurism.com/future-society/anthropic-safety-researcher-claude-ipo-fear
+slug: >-
+  2026-11-19-httpsfuturismcomfuture-societyanthropic-safety-researcher-claude-ipo-fear
+tags:
+  - ai
+title: >-
+  Anthropic Researcher Says Pretty Much All Humans Will Become “Permanently
+  Unemployable” After Its IPO
+---
+<figure><img alt="Joe Wilkins Avatar" sizes="(max-width: 102px) 100vw, 102px" src="https://futurism.com/wp-content/uploads/2025/06/avatar_user_162598_1741024628.jpg?quality=85&amp;w=102&amp;h=102&amp;crop=1" srcset=""/><figcaption>Joe Wilkins Avatar</figcaption></figure>
+<figure><img alt="A screenshot of an Anthropic researcher." sizes="(max-width: 1152px) 100vw, 1152px" src="https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=2048" srcset="https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=50 50w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=280 280w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=289 289w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=308 308w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=324 324w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=600 600w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=675 675w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=768 768w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=990 990w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=1024 1024w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=1128 1128w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=1250 1250w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=1337 1337w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=1440 1440w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=1536 1536w, https://futurism.com/wp-content/uploads/2026/11/anthropic-humans-unemployable.jpg?quality=85&amp;w=2048 2048w"/><figcaption>Palisade Research</figcaption></figure>
+<p>If striking it rich meant you had to unleash the technology that would destroy life as we know it, would you do it?</p>
+<p>Evidently, that’s a bargain Anthropic safeguard researcher Tao Lin would be willing to make. In an <a href="https://youtu.be/OPZCQk8jF-I?si=5OzSoMEPF2POVtIb">hour-long interview</a> with the AI safety nonprofit Palisade Research, Lin shared his alarming view that “pretty much all humans will become permanently unemployable” in a span of mere months.</p>
+<p>Asked if he expects AI to take over, the safety researcher cooly states that “I think there’s less than a 50 percent chance of AI taking over.”</p>
+<p>“But the most predictable effect,” Lin continues, “is like, everyone losing their current jobs, everyone needing to move to a new occupation briefly, and then, sometime after that, being completely unemployable and needing to rely on the state to provide for them financially, and having no hope of ever finding employment again.”</p>
+<p>“I think that it’s very likely that pretty much all humans on Earth will become unemployable,” the researcher said. “I want to tell people that AI will be more capable than you, personally, very soon. It will be able to defeat you, personally, very soon.”</p>
+<p>Luckily for anybody who needs to work to keep a roof over their head, any indication of a coming jobpocalypse is dubious at best. Scant evidence has finally emerged after years of doomsaying from Anthropic and its peers, though any hiring slowdown is difficult to distinguish from <a href="https://futurism.com/future-society/ai-hurting-labor-employment-automation-software">broader economic downturns</a> following the pandemic. Zooming in, it’s clear even the top AI models are still laughably unproductive in the workplace, spitting out <a href="https://futurism.com/artificial-intelligence/bosses-workers-ai-huge-mistake">nonsense</a> <a href="https://futurism.com/future-society/ai-productivity-research">slop</a> that ends up <a href="https://futurism.com/artificial-intelligence/ai-workplace-working-hours-productivity-analysis">creating more work</a>, not less.</p>
+<p>But who benefits when guys like Lin put out scaremongering quotes like this? Well, Lin, for starters.</p>
+<p>The researcher’s comments came just days ahead of the much-anticipated <a href="https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/">Anthropic public offering</a>, expected to be the largest in history. Though Anthropic’s IPO filings do not itemize equity ownership for individuals or departments, Anthropic employees like Lin receive equity compensation that converts into common stock, a situation set to “mint thousands of millionaires,” as <a href="https://www.reuters.com/business/world-at-work/anthropic-ipo-mint-thousands-of-millionaires-2026-11-18/">one <em>Reuters</em> headline</a> put it.</p>
+<p>With a public listing on the stock market imminent, Lin had a vested interest — literally — in juicing his company’s flagship product with tales of dread. A more powerful AI in the eyes of investors translates to stronger demand, meaning more wealth for those holding stock after the debut.</p>
+<p>As <em>Bloomberg</em> opinion columnist <a href="https://www.bloomberg.com/opinion/articles/2026-04-09/ai-s-doomsday-hype-highlights-the-dark-arts-of-marketing">Parmy Olson remarked</a> earlier this year, “it’s a paradoxical marketing strategy and, unfortunately for some of the industries and companies deemed most vulnerable to disruption, it’s worked brilliantly. Fear, it turns out, is the ultimate sales pitch.”</p>
