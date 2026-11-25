@@ -1,0 +1,28 @@
+---
+author: Nicole Carpenter
+cover_image: >-
+  https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-01-140431.png
+date: '2026-11-24T13:57:10.645Z'
+dateFolder: 2026/11/24
+description: >-
+  Jacob Geller has not commented on the allegations or his removal from the
+  games podcasts.
+isBasedOn: 'https://aftermath.site/jacob-geller-minnmax-allegations/'
+link: 'https://aftermath.site/jacob-geller-minnmax-allegations/'
+slug: 2026-11-24-httpsaftermathsitejacob-geller-minnmax-allegations
+tags:
+  - media
+  - gaming
+title: >-
+  Video Essayist And YouTuber Jacob Geller Removed From MinnMax Following Sexual
+  Assault Allegations
+---
+<figure><picture> <source sizes="(max-width: 1023px) 90vw, 1200px" srcset="https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w320/format/webp/2026/10/Screenshot-2026-10-01-140431.png 320w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w640/format/webp/2026/10/Screenshot-2026-10-01-140431.png 600w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w960/format/webp/2026/10/Screenshot-2026-10-01-140431.png 960w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1280/format/webp/2026/10/Screenshot-2026-10-01-140431.png 1200w" type="image/webp"/> <img alt="Video Essayist And YouTuber Jacob Geller Removed From MinnMax Following Sexual Assault Allegations" sizes="(max-width: 1023px) 90vw, 1200px" src="https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w30/2026/10/Screenshot-2026-10-01-140431.png" srcset="https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w320/format/webp/2026/10/Screenshot-2026-10-01-140431.png 320w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w640/format/webp/2026/10/Screenshot-2026-10-01-140431.png 640w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w960/format/webp/2026/10/Screenshot-2026-10-01-140431.png 960w, https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1280/format/webp/2026/10/Screenshot-2026-10-01-140431.png 1280w"/> </picture></figure>
+<p>Video game YouTuber and essayist Jacob Geller was removed from his position as a cohost of video game podcast MinnMax on Thursday, MinnMax <a href="https://bsky.app/profile/minnmax.com/post/3mwtc2c4bls2z?ref=aftermath.site"><u>wrote in a statement published to social media</u></a>.</p>
+<p>"Jacob Geller is no longer a part of MinnMax," MinnMax wrote from its official BlueSky account. "He won't be on content moving forward and we won't be publicly airing this week's episode of The MinnMax Show. We're in shock and deeply hurt. Thank you for your patience during this sensitive time."</p>
+<p>Geller was named in a post circulating on X Wednesday that claimed he was fired from the University of North Carolina-Chapel Hill’s radio station and suspended from the school for a semester in 2016 for “being under Title IX investigation,” which the university<a href="https://www.northcarolina.edu/offices-and-services/governance-legal-and-risk/title-ix/?ref=aftermath.site"><u> describes</u></a> as violations that include “sex discrimination, sexual harassment (including sexual violence), or other forms of sexual misconduct.” That post has since been deleted, <a href="https://www.resetera.com/threads/youtuber-and-minnmax-host-jacob-geller-accused-of-sexual-assault-up-geller-no-longer-associated-with-minnmax.1647682/?ref=aftermath.site"><u>but quotes from it are archived on the video game forum ResetEra</u></a>.</p>
+<p>As the allegations spread, a lawsuit was surfaced from 2016–which ended in 2020–in which a judge <a href="https://dailytarheel.com/226351/university/records-update-0806/?ref=aftermath.site"><u>ordered the school to release a record of all sexual assault, misconduct, and violence violations</u></a> since 2007, after a four-year legal battle. Those documents are no longer available in their original location, <a href="https://archive.org/details/dth-v-folt-records/mode/1up"><u>but have been archived by the Wayback Machine</u></a>. The name "Jacob Geller" is listed on the second page of the report as having been suspended for one semester for violating the University of North Carolina's "sexual assault or sexual violence" policies. No other details are available in the document. Geller has not commented publicly; reached by Aftermath, Geller did not provide an immediate comment.</p>
+<p>A victim has not been named.</p>
+<p>Geller is widely known for his video essays published on YouTube, where he has 1.5 million subscribers. He also served as a cohost of MinnMax and other ventures. Geller is also a "featured creator" for the streaming platform Nebula. Video game podcast Cane and Rinse has also distanced itself from Geller; podcast host Leon Cox said on the podcast's website Thursday that all podcasts Geller has appeared on, and all stories he'd written, <a href="https://caneandrinse.com/statement-on-former-cane-and-rinse-contributor-jacob-geller/?ref=aftermath.site"><u>were removed</u></a>. Twenty-three podcast episodes were deleted, per the blog.</p>
+<p>Aftermath reached out to Lost In Cult, which published two books by Geller, and Nebula for comment, but has not heard back in time for publication.</p>
+<p><em>(Geller appeared on Aftermath’s podcast, Aftermath Hours, in September 2024, and members of Aftermath appeared on his 24-hour fundraising stream for the Palestine Children’s Relief Fund that year.)</em></p>

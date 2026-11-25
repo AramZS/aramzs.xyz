@@ -1,0 +1,42 @@
+---
+author: 'https://gothamist.com/staff/monica-melton'
+cover_image: >-
+  https://api-prod.gothamist.com/images/362586/fill-1200x650%7Cformat-webp%7Cwebpquality-85/
+date: '2026-11-25T00:15:56.821Z'
+dateFolder: 2026/11/24
+description: >-
+  Hugely popular social media videos prove that New Yorkers living their daily
+  lives is great fodder for scrolling.
+isBasedOn: >-
+  https://gothamist.com/arts-entertainment/film-anything-in-nyc-and-people-will-watch-it-even-if-its-boring
+link: >-
+  https://gothamist.com/arts-entertainment/film-anything-in-nyc-and-people-will-watch-it-even-if-its-boring
+slug: >-
+  2026-11-24-httpsgothamistcomarts-entertainmentfilm-anything-in-nyc-and-people-will-watch-it-even-if-its-boring
+tags:
+  - media
+  - culture
+  - social media
+title: Film anything in NYC and people will watch it. Even if it's boring.
+---
+<p><a href="https://gothamist.com/arts-entertainment">Arts &amp; Entertainment</a></p>
+<figure><img alt="A man takes a photo of a dish on a stove" src="https://api-prod.gothamist.com/images/362586/fill-2100x1401%7Cformat-webp%7Cwebpquality-55/" srcset="https://api-prod.gothamist.com/images/362586/fill-1400x934|format-webp|webpquality-60/ 2x, https://api-prod.gothamist.com/images/362586/fill-2100x1401|format-webp|webpquality-55/ 3x "/><figcaption>Monica Melton/Gothamist</figcaption></figure>
+<p>Gothamist is funded by sponsors and member donations</p>
+<p>As I arrived at Samuel Donner’s brightly decorated Manhattan apartment, I was greeted with a warm hug. Books like “Meet Cutes” and “Dear New York” adorned a glass coffee table, and a sea otter plushie nestled among throw pillows brought home the hygge feel. I was over for lunch; I’d asked him to cook for a change.</p>
+<p>Donner, who is from Los Angeles but moved to New York a year-and-a-half ago, hosts <a href="https://www.instagram.com/samueldonner">“Cook With Me</a>,” a social media series where the premise is to document strangers cooking him a meal — and sharing their life stories — in exchange for $100. The number is a significant one for Donner, 29, who had an earlier series where he attempted to get 100 strangers — mostly around the UCLA campus where Donner studied mechanical engineering — to become his friends. The series culminated with everyone who said “yes” having a large picnic in a park.</p>
+<p>As he prepared us an herbaceous and tomatoey shakshuka, he explained that the goal of "Cook With Me" is to “show the shared humanity of every person.”</p>
+<p>On the show, Donner approaches strangers on the street and asks them to make him a meal and share their life story with him. In one short video with 49 million views on YouTube, he approached a young woman with his go-to line, “Would you cook for me, for $100?” while flashing cash. She accepts, and later, when back at her apartment, we learn she’s a nurse named Mary whose family immigrated from Italy to New York. She says she keeps her grandmother’s memory alive through recipes and spoon-feeds Donner some pesto.</p>
+<p>In another video, as he approaches a woman on the street, her daughter recognizes Donner. Back at her home, the Puerto Rican mother of five makes meaty, Sazon-laced quesadillas and shares the story of how she came to live in New York, after her mother went into labor with her shortly after traveling to the city. The video, which was sponsored by plant-based meal manufacturer Daily Harvest, ends with Donner presenting the cash as usual, except it’s $1,000, which is met with shrieks of excitement.</p>
+<figure><div class="rw-embed-wrapper"><embed src="https://www.youtube.com/embed/c8QDUN0Odw8?si=dqs4iUEMtXXpvQqG" type="video/mp4"/></div></figure>
+<p>Social media videos dedicated to the particularities of New Yorkers’ lives have struck a chord with online audiences (and subsequently with brands eager to engage this audience). Videos of people doing things that usually elicit yawns are suddenly interesting because of where they’re set and who they feature: New York and New Yorkers. The videos become a sampling of the kinds of people and experiences found here.</p>
+<p>"New York is one of the densest cities in America,” Donner said. ”When you have that density with that level of diversity, the random person you approach on the street ends up being extremely interesting.”</p>
+<p>As if to up the ante on New Yorkers’ watchability, another NYC-based social media show casts its characters in the dullest situations.</p>
+<p>The “Errands” show — with about 200,000 Instagram followers as of November — follows (sometimes famous) locals running – as the name suggests –errands. The city has a plethora of world-class cultural activities, art and entertainment, yet for most New Yorkers, simple things like doing laundry require <a href="https://www.youtube.com/shorts/zVoXGF93UE8">schlepping to a coin-operated laundromat</a>, or moving <a href="https://www.youtube.com/shorts/Ygr9Xw_rW1g">awkward furniture</a> through the subway because you don’t have a car. Why not gawk at New Yorkers taking care of dumb little things on their to-do list? In one episode, Mayor Zohran Mamdani and Curtis Silwa, wearing his signature red beret, are seen making their way into an NYC clinic, where, along the way, Mamdani stops to pose with medical staff who ask for pictures. As a needle jabs his arm, he jokes that he won’t be sore after his flu shot since he doesn’t have much muscle.</p>
+<p>Meanwhile, a whole <a href="https://www.youtube.com/watch?v=TNL1X4nfCDs">host of influencers</a> use the typical <a href="https://youtu.be/Ybvf_UknHEg?si=UwJvlEXHaMxwNnpO">man-on-the-street</a> interview style to ask passersby the perennial “How much do you make?” question to get at what it takes to survive in one of the country’s most expensive cities. Influencer Caleb Simpson gets apartment tours from strangers, showcasing brownstones and walkups alike.</p>
+<p>But as popular as this content is, who is watching? City dwellers who want to see their existence and experiences reflected? Or faraway lurkers who want to live vicariously in NYC — or dunk on it? The popularity of these videos could reflect the current iteration of a shift in media.</p>
+<p>“In the 2010s it was extremely distasteful to be an influencer in New York. They were sort of seen as extremely gauche,” said Ryan Broderick, founder of internet culture publication <a href="https://www.garbageday.email/">Garbage Day</a>. He says NYC influencers were initially met with suspicion but that this began to change with the “professionalization” of platforms like TikTok and Instagram.</p>
+<p>Influencers following ad dollars, coupled with the familiarity and recognition that New York City evokes in viewers, set the stage, even for the most monotonous content. People like to see New York on screens, and it follows that people who used to watch the city on TV and film would migrate to phones.</p>
+<p>“ New York also is more of a character, a presence in these videos because New York is famous,” Broderick said. “You're not really seeing the same thing in, like, Cleveland or D.C. or whatever.” New York City, as both the perfect backdrop and a character in this less polished content, lets this genre flourish. Donner says his show has garnered 1 billion views in the past year across platforms.</p>
+<p>Amid our chatting, I cautioned Donner to turn down the burner. Though his show is centered around the kitchen, Donner himself seemed unaccustomed to cooking. He eventually plated the eggs, heaping the whole half dozen onto a plate, then took down another to plate one for me. He centered the stiff egg and its tomatoey stew on the plate before wiping the rim clean. From a plastic clamshell of herbs, he tore off a few parsley leaves to top off the eggs; the pop of green would make for a nicer photo. Naturally, he took out his phone to snap a picture of his creation before handing me a fork.</p>
+<p>“The kind of people that watch the videos, I think, initially might watch for the food. That's like the gateway, but it's really not about the food,” said Donner. “And it's really not even about the apartment. It's more about the person, right? It's like these are just windows into the soul.”</p>
+<figure><a href="https://gothamist.com/arts-entertainment/matchbooks-are-on-fire-at-nyc-restaurants"><img alt="" src="https://api-prod.gothamist.com/images/362601/fill-897x598%7Cformat-webp%7Cwebpquality-80/" srcset="https://api-prod.gothamist.com/images/362601/fill-897x598|format-webp|webpquality-80/ 1x "/></a></figure>
